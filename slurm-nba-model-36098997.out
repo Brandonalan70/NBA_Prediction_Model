@@ -1,0 +1,214 @@
+Job ID: 36098997
+Start time: Wed Nov 19 16:23:53 EST 2025
+Retrieving notices: ...working... done
+Channels:
+ - defaults
+Platform: linux-64
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /jet/home/bbarber1/.conda/envs/nba_env
+
+  added / updated specs:
+    - python=3.9
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    libgcc-15.2.0              |       h69a1729_7         806 KB
+    libgcc-ng-15.2.0           |       h166f726_7          28 KB
+    libgomp-15.2.0             |       h4751f2c_7         436 KB
+    libstdcxx-15.2.0           |       h39759b7_7         3.7 MB
+    libstdcxx-ng-15.2.0        |       hc03a8fd_7          28 KB
+    pip-25.3                   |     pyhc872135_0         1.1 MB
+    sqlite-3.51.0              |       h2a70700_0         1.2 MB
+    ------------------------------------------------------------
+                                           Total:         7.3 MB
+
+The following NEW packages will be INSTALLED:
+
+  _libgcc_mutex      pkgs/main/linux-64::_libgcc_mutex-0.1-main 
+  _openmp_mutex      pkgs/main/linux-64::_openmp_mutex-5.1-1_gnu 
+  bzip2              pkgs/main/linux-64::bzip2-1.0.8-h5eee18b_6 
+  ca-certificates    pkgs/main/linux-64::ca-certificates-2025.11.4-h06a4308_0 
+  expat              pkgs/main/linux-64::expat-2.7.3-h3385a95_0 
+  ld_impl_linux-64   pkgs/main/linux-64::ld_impl_linux-64-2.44-h153f514_2 
+  libffi             pkgs/main/linux-64::libffi-3.4.4-h6a678d5_1 
+  libgcc             pkgs/main/linux-64::libgcc-15.2.0-h69a1729_7 
+  libgcc-ng          pkgs/main/linux-64::libgcc-ng-15.2.0-h166f726_7 
+  libgomp            pkgs/main/linux-64::libgomp-15.2.0-h4751f2c_7 
+  libnsl             pkgs/main/linux-64::libnsl-2.0.0-h5eee18b_0 
+  libstdcxx          pkgs/main/linux-64::libstdcxx-15.2.0-h39759b7_7 
+  libstdcxx-ng       pkgs/main/linux-64::libstdcxx-ng-15.2.0-hc03a8fd_7 
+  libuuid            pkgs/main/linux-64::libuuid-1.41.5-h5eee18b_0 
+  libxcb             pkgs/main/linux-64::libxcb-1.17.0-h9b100fa_0 
+  libzlib            pkgs/main/linux-64::libzlib-1.3.1-hb25bd0a_0 
+  ncurses            pkgs/main/linux-64::ncurses-6.5-h7934f7d_0 
+  openssl            pkgs/main/linux-64::openssl-3.0.18-hd6dcaed_0 
+  pip                pkgs/main/noarch::pip-25.3-pyhc872135_0 
+  pthread-stubs      pkgs/main/linux-64::pthread-stubs-0.3-h0ce48e5_1 
+  python             pkgs/main/linux-64::python-3.9.25-h0dcde21_1 
+  readline           pkgs/main/linux-64::readline-8.3-hc2a1206_0 
+  setuptools         pkgs/main/linux-64::setuptools-80.9.0-py39h06a4308_0 
+  sqlite             pkgs/main/linux-64::sqlite-3.51.0-h2a70700_0 
+  tk                 pkgs/main/linux-64::tk-8.6.15-h54e0aa7_0 
+  tzdata             pkgs/main/noarch::tzdata-2025b-h04d1e81_0 
+  wheel              pkgs/main/linux-64::wheel-0.45.1-py39h06a4308_0 
+  xorg-libx11        pkgs/main/linux-64::xorg-libx11-1.8.12-h9b100fa_1 
+  xorg-libxau        pkgs/main/linux-64::xorg-libxau-1.0.12-h9b100fa_0 
+  xorg-libxdmcp      pkgs/main/linux-64::xorg-libxdmcp-1.1.5-h9b100fa_0 
+  xorg-xorgproto     pkgs/main/linux-64::xorg-xorgproto-2024.1-h5eee18b_1 
+  xz                 pkgs/main/linux-64::xz-5.6.4-h5eee18b_1 
+  zlib               pkgs/main/linux-64::zlib-1.3.1-hb25bd0a_0 
+
+
+
+Downloading and Extracting Packages: ...working... done
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+#
+# To activate this environment, use
+#
+#     $ conda activate nba_env
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
+Collecting pandas
+  Using cached pandas-2.3.3-cp39-cp39-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl.metadata (91 kB)
+Collecting numpy
+  Using cached numpy-2.0.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (60 kB)
+Collecting scikit-learn
+  Using cached scikit_learn-1.6.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (18 kB)
+Collecting joblib
+  Using cached joblib-1.5.2-py3-none-any.whl.metadata (5.6 kB)
+Collecting python-dateutil>=2.8.2 (from pandas)
+  Using cached python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata (8.4 kB)
+Collecting pytz>=2020.1 (from pandas)
+  Using cached pytz-2025.2-py2.py3-none-any.whl.metadata (22 kB)
+Collecting tzdata>=2022.7 (from pandas)
+  Using cached tzdata-2025.2-py2.py3-none-any.whl.metadata (1.4 kB)
+Collecting scipy>=1.6.0 (from scikit-learn)
+  Using cached scipy-1.13.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (60 kB)
+Collecting threadpoolctl>=3.1.0 (from scikit-learn)
+  Using cached threadpoolctl-3.6.0-py3-none-any.whl.metadata (13 kB)
+Collecting six>=1.5 (from python-dateutil>=2.8.2->pandas)
+  Using cached six-1.17.0-py2.py3-none-any.whl.metadata (1.7 kB)
+Using cached pandas-2.3.3-cp39-cp39-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl (12.8 MB)
+Using cached numpy-2.0.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (19.5 MB)
+Using cached scikit_learn-1.6.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (13.5 MB)
+Using cached joblib-1.5.2-py3-none-any.whl (308 kB)
+Using cached python_dateutil-2.9.0.post0-py2.py3-none-any.whl (229 kB)
+Using cached pytz-2025.2-py2.py3-none-any.whl (509 kB)
+Using cached scipy-1.13.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (38.6 MB)
+Using cached six-1.17.0-py2.py3-none-any.whl (11 kB)
+Using cached threadpoolctl-3.6.0-py3-none-any.whl (18 kB)
+Using cached tzdata-2025.2-py2.py3-none-any.whl (347 kB)
+Installing collected packages: pytz, tzdata, threadpoolctl, six, numpy, joblib, scipy, python-dateutil, scikit-learn, pandas
+
+Successfully installed joblib-1.5.2 numpy-2.0.2 pandas-2.3.3 python-dateutil-2.9.0.post0 pytz-2025.2 scikit-learn-1.6.1 scipy-1.13.1 six-1.17.0 threadpoolctl-3.6.0 tzdata-2025.2
+Starting model training...
+============================================================
+NBA GAME WINNER PREDICTION - LOGISTIC REGRESSION
+============================================================
+
+Input CSV: combined_pbp_all_seasons2.csv
+Output Model: nba_logistic_model4.pkl
+Output Scaler: nba_scaler4.pkl
+Output Results: model_results4.json
+
+Loading data from combined_pbp_all_seasons2.csv...
+  Loaded 804,551 rows in 6.27s
+  Columns: ['GAME_ID', 'SECONDS REMAINING', 'HOME_SCORE', 'VISITOR_SCORE', 'SCOREMARGIN', 'HOMEDESCRIPTION', 'VISITORDESCRIPTION', 'WINNER', 'HOME_TEAM_ID', 'VISITOR_TEAM_ID', 'GAME_DATE', 'HOME_TEAM', 'VISITOR_TEAM', 'season', 'neutral', 'playoff', 'HOME_ELO', 'VISITOR_ELO', 'elo_prob1', 'elo_prob2']...
+
+  Using 13 features: ['SECONDS REMAINING', 'VISITOR_SCORE', 'HOME_SCORE', 'SCOREMARGIN', 'HOME_PPG_TOTAL', 'HOME_APG_TOTAL', 'HOME_RPG_TOTAL', 'HOME_PLUSMIN_TOTAL', 'VISITOR_PPG_TOTAL', 'VISITOR_APG_TOTAL', 'VISITOR_RPG_TOTAL', 'VISITOR_PLUSMIN_TOTAL', 'ELO_DIFF']
+
+  Handling missing values...
+    Filled 154779 missing values with column means
+
+  Engineering additional features...
+    Final feature set: 19 features
+    Target distribution: {1: 466431, 0: 338120}
+
+============================================================
+TRAINING LOGISTIC REGRESSION MODEL
+============================================================
+
+Splitting data (80% train, 20% test)...
+  Train set: 643,640 samples
+  Test set: 160,911 samples
+
+Standardizing features...
+
+Training logistic regression...
+  Training completed in 4.77s
+
+============================================================
+MODEL EVALUATION
+============================================================
+
+TRAIN SET PERFORMANCE:
+  ACCURACY: 0.7923
+  PRECISION: 0.8054
+  RECALL: 0.8462
+  F1_SCORE: 0.8253
+  ROC_AUC: 0.8744
+
+TEST SET PERFORMANCE:
+  ACCURACY: 0.7915
+  PRECISION: 0.8044
+  RECALL: 0.8462
+  F1_SCORE: 0.8247
+  ROC_AUC: 0.8741
+
+CONFUSION MATRIX (Test Set):
+  [[TN=48,426 FP=19,198]
+   [FN=14,352 TP=78,935]]
+
+CLASSIFICATION REPORT (Test Set):
+              precision    recall  f1-score   support
+
+    Away Win       0.77      0.72      0.74     67624
+    Home Win       0.80      0.85      0.82     93287
+
+    accuracy                           0.79    160911
+   macro avg       0.79      0.78      0.78    160911
+weighted avg       0.79      0.79      0.79    160911
+
+
+TOP 10 MOST IMPORTANT FEATURES:
+  ↑ SCOREMARGIN: 1.5363
+  ↑ VISITOR_PLUSMIN_TOTAL: 0.5776
+  ↓ PLUSMIN_DIFFERENTIAL: -0.5754
+  ↓ HOME_SCORE: -0.4201
+  ↓ HOME_PLUSMIN_TOTAL: -0.3588
+  ↑ ELO_DIFF: 0.2786
+  ↑ GAME_PROGRESS: 0.1538
+  ↓ SECONDS REMAINING: -0.1538
+  ↑ VISITOR_SCORE: 0.0957
+  ↓ HOME_RPG_TOTAL: -0.0910
+
+============================================================
+SAVING MODEL ARTIFACTS
+============================================================
+✓ Model saved to: nba_logistic_model4.pkl
+✓ Scaler saved to: nba_scaler4.pkl
+✓ Results saved to: model_results4.json
+
+Model is ready for inference!
+To use the model for predictions:
+  1. Load model: model = joblib.load('nba_logistic_model.pkl')
+  2. Load scaler: scaler = joblib.load('nba_scaler.pkl')
+  3. Prepare features and scale: X_scaled = scaler.transform(X)
+  4. Get probabilities: probabilities = model.predict_proba(X_scaled)[:, 1]
+
+============================================================
+TRAINING COMPLETE!
+============================================================
+Job completed at: Wed Nov 19 16:24:51 EST 2025
