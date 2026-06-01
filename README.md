@@ -1,6 +1,6 @@
 # NBA In-Game Win Probability Model
 
-A machine learning system that predicts NBA home-team win probability in real time using play-by-play data. The model is a stacking ensemble (Logistic Regression + Random Forest + XGBoost) trained on four seasons of NBA play-by-play events and achieves **79.7% accuracy** and **0.879 ROC-AUC** on held-out games.
+A machine learning system that predicts NBA win probability in real time using play-by-play data. The model is a stacking ensemble (Logistic Regression + Random Forest + XGBoost) trained on four seasons of NBA play-by-play events and achieves **79.7% accuracy** and **0.879 ROC-AUC** on held-out games.
 
 An interactive Streamlit dashboard lets you replay any game play-by-play, visualize the win probability curve, and run what-if lineup substitution scenarios.
 
@@ -75,10 +75,7 @@ NBA_Prediction_Model/
 │   └── sample/                 # Small sample files for development/testing
 │       ├── nba_elo_sample.csv  # ELO data from 2020–present (~14k rows)
 │       └── pbp_sample/         # 5 games per season across all 4 seasons
-└── docs/
-    ├── DS340_Project_Proposal.pdf
-    ├── DS340_Week_6_Report.pdf
-    └── DS340_Week_9_Report.pdf
+└── NBA_Model_Report.pdf        # Final report
 ```
 
 ---
@@ -86,14 +83,13 @@ NBA_Prediction_Model/
 ## Installation
 
 ```bash
-git clone <repo-url>
+git clone (https://github.com/Brandonalan70/NBA_Prediction_Model)
 cd NBA_Prediction_Model
 python -m venv .venv
 source .venv/bin/activate      # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-**Python 3.9+ is recommended.**
 
 ---
 
