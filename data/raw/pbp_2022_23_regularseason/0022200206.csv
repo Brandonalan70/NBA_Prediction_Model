@@ -1,0 +1,456 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200206,2,12,0,1,7:33 PM,12:00,,Start of 1st Period (7:33 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200206,4,10,0,1,7:33 PM,12:00,Jump Ball Valanciunas vs. Adams: Tip to Morant,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1
+0022200206,7,6,2,1,7:33 PM,11:47,Jones S.FOUL (P1.T1) (N.Buchert),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200206,9,3,11,1,7:34 PM,11:47,,,MISS Adams Free Throw 1 of 2,,,5,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,10,4,1,1,7:34 PM,11:47,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200206,11,3,12,1,7:34 PM,11:47,,,MISS Adams Free Throw 2 of 2,,,5,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,12,4,0,1,7:34 PM,11:44,Valanciunas REBOUND (Off:0 Def:1),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,13,1,75,1,7:34 PM,11:22,Jones 2' Driving Finger Roll Layup (2 PTS) (McCollum 1 AST),,,0 - 2,2,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200206,15,1,101,1,7:34 PM,11:14,,,Morant 8' Driving Floating Jump Shot (2 PTS),2 - 2,TIE,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,16,1,79,1,7:35 PM,11:02,Jones 27' 3PT Pullup Jump Shot (5 PTS) (Valanciunas 1 AST),,,2 - 5,3,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200206,18,1,79,1,7:35 PM,10:47,,,Brooks 12' Pullup Jump Shot (2 PTS),4 - 5,1,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,19,1,1,1,7:35 PM,10:30,Valanciunas 13' Jump Shot (2 PTS) (McCollum 2 AST),,,4 - 7,3,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200206,21,6,2,1,7:36 PM,10:13,Ingram S.FOUL (P1.T2) (B.Taylor),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200206,23,3,11,1,7:36 PM,10:13,,,MISS Jackson Jr. Free Throw 1 of 2,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,24,4,1,1,7:36 PM,10:13,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200206,25,3,12,1,7:36 PM,10:13,,,Jackson Jr. Free Throw 2 of 2 (1 PTS),5 - 7,2,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,26,1,1,1,7:36 PM,10:06,Murphy III 28' 3PT Jump Shot (3 PTS) (McCollum 3 AST),,,5 - 10,5,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200206,28,1,1,1,7:37 PM,9:48,,,Konchar 26' 3PT Jump Shot (3 PTS) (Adams 1 AST),8 - 10,2,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,5,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200206,30,5,1,1,7:37 PM,9:33,Valanciunas Bad Pass Turnover (P1.T1),,Morant STEAL (1 STL),,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200206,32,1,6,1,7:37 PM,9:33,,,Morant 2' Driving Layup (4 PTS),10 - 10,TIE,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,33,6,2,1,7:37 PM,9:33,McCollum S.FOUL (P1.T3) (N.Buchert),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200206,35,3,10,1,7:37 PM,9:33,,,Morant Free Throw 1 of 1 (5 PTS),11 - 10,-1,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,36,2,1,1,7:38 PM,9:18,MISS Jones 23' Jump Shot,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,37,4,0,1,7:38 PM,9:18,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200206,38,6,3,1,7:38 PM,9:18,,,Adams L.B.FOUL (P1.T1) (N.Buchert),,,5,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200206,40,1,1,1,7:38 PM,9:12,McCollum 25' 3PT Jump Shot (3 PTS) (Jones 1 AST),,,11 - 13,2,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200206,42,6,4,1,7:39 PM,9:00,,,Adams OFF.Foul (P2) (E.Scott),,,5,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200206,44,5,37,1,7:39 PM,9:00,,,Adams Offensive Foul Turnover (P1.T1),,,5,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0022200206,45,8,0,1,7:39 PM,9:00,,,SUB: Clarke FOR Adams,,,5,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200206,47,2,101,1,7:39 PM,8:46,MISS McCollum 16' Driving Floating Jump Shot,,Jackson Jr. BLOCK (1 BLK),,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,1
+0022200206,49,4,0,1,7:39 PM,8:43,,,Clarke REBOUND (Off:0 Def:1),,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,50,6,2,1,7:39 PM,8:39,Jones S.FOUL (P2.T4) (N.Buchert),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200206,52,3,11,1,7:40 PM,8:39,,,Morant Free Throw 1 of 2 (6 PTS),12 - 13,1,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,53,8,0,1,7:40 PM,8:39,SUB: Marshall FOR Jones,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200206,55,3,12,1,7:40 PM,8:39,,,Morant Free Throw 2 of 2 (7 PTS),13 - 13,TIE,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,56,2,1,1,7:40 PM,8:30,MISS Valanciunas 12' Jump Shot,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,57,4,0,1,7:40 PM,8:27,,,Clarke REBOUND (Off:0 Def:2),,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,58,2,1,1,7:41 PM,8:14,,,MISS Jackson Jr. 28' 3PT Jump Shot,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,59,4,0,1,7:41 PM,8:12,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200206,61,8,0,1,7:41 PM,8:12,,,SUB: Aldama FOR Jackson Jr.,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,5,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200206,63,1,98,1,7:41 PM,8:04,,,Clarke 4' Cutting Layup Shot (2 PTS) (Brooks 1 AST),15 - 13,-2,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200206,65,2,1,1,7:41 PM,7:54,MISS Murphy III 27' 3PT Jump Shot,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,66,4,0,1,7:41 PM,7:51,,,Clarke REBOUND (Off:0 Def:3),,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,67,1,52,1,7:41 PM,7:41,,,Aldama 2' Alley Oop Dunk (2 PTS) (Morant 1 AST),17 - 13,-4,5,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200206,69,2,1,1,7:42 PM,7:24,MISS Valanciunas 3PT Jump Shot,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,70,4,0,1,7:42 PM,7:21,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200206,71,6,3,1,7:42 PM,7:21,Murphy III L.B.FOUL (P1.PN) (N.Buchert),,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200206,73,3,11,1,7:42 PM,7:21,,,Clarke Free Throw 1 of 2 (3 PTS),18 - 13,-5,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,74,3,12,1,7:43 PM,7:21,,,Clarke Free Throw 2 of 2 (4 PTS),19 - 13,-6,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,75,5,1,1,7:43 PM,7:09,Valanciunas Bad Pass Turnover (P2.T2),,Morant STEAL (2 STL),,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200206,77,6,1,1,7:43 PM,6:53,Valanciunas P.FOUL (P1.PN) (N.Buchert),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200206,79,9,1,1,7:44 PM,6:53,PELICANS Timeout: Regular (Full 1 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200206,80,3,11,1,7:47 PM,6:53,,,MISS Morant Free Throw 1 of 2,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,81,4,1,1,7:47 PM,6:53,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200206,82,3,12,1,7:47 PM,6:53,,,Morant Free Throw 2 of 2 (8 PTS),20 - 13,-7,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,83,2,1,1,7:47 PM,6:33,MISS Marshall 25' 3PT Jump Shot,,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,84,4,0,1,7:48 PM,6:29,McCollum REBOUND (Off:1 Def:0),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,85,1,44,1,7:48 PM,6:23,Ingram 2' Reverse Layup (2 PTS),,,20 - 15,-5,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,86,2,1,1,7:48 PM,6:08,,,MISS Konchar 24' 3PT Jump Shot,,,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,87,4,0,1,7:48 PM,6:06,Marshall REBOUND (Off:0 Def:1),,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,88,6,2,1,7:48 PM,5:51,,,Aldama S.FOUL (P1.T2) (N.Buchert),,,5,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200206,90,3,11,1,7:49 PM,5:51,Ingram Free Throw 1 of 2 (3 PTS),,,20 - 16,-4,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,91,8,0,1,7:49 PM,5:51,SUB: Nance Jr. FOR Valanciunas,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200206,93,3,12,1,7:49 PM,5:51,Ingram Free Throw 2 of 2 (4 PTS),,,20 - 17,-3,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,94,1,101,1,7:49 PM,5:39,,,Brooks 5' Driving Floating Jump Shot (4 PTS),22 - 17,-5,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,95,2,6,1,7:50 PM,5:25,MISS Marshall 10' Driving Layup,,Clarke BLOCK (1 BLK),,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,1
+0022200206,97,4,0,1,7:50 PM,5:21,Nance Jr. REBOUND (Off:1 Def:0),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,98,2,3,1,7:50 PM,5:18,MISS Nance Jr. 2' Hook Shot,,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,99,4,0,1,7:50 PM,5:17,,,Aldama REBOUND (Off:0 Def:1),,,5,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,101,8,0,1,7:50 PM,5:17,SUB: Graham FOR McCollum,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200206,102,8,0,1,7:50 PM,5:17,,,SUB: Jones FOR Konchar,,,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200206,105,2,5,1,7:50 PM,5:12,,,MISS Clarke 2' Layup,,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,106,4,0,1,7:50 PM,5:10,Marshall REBOUND (Off:0 Def:2),,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,107,1,1,1,7:51 PM,4:55,Ingram 26' 3PT Jump Shot (7 PTS) (Marshall 1 AST),,,22 - 20,-2,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200206,109,1,1,1,7:51 PM,4:33,,,Jones 26' 3PT Jump Shot (3 PTS) (Aldama 1 AST),25 - 20,-5,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,5,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200206,111,5,2,1,7:51 PM,4:19,Ingram Lost Ball Turnover (P1.T3),,Brooks STEAL (1 STL),,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200206,114,2,75,1,7:51 PM,4:16,,,MISS Brooks 1' Driving Finger Roll Layup,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,115,4,0,1,7:51 PM,4:15,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200206,117,5,1,1,7:52 PM,4:00,Marshall Bad Pass Turnover (P1.T4),,Aldama STEAL (1 STL),,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,5,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200206,119,2,44,1,7:52 PM,3:46,,,MISS Morant 3' Reverse Layup,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,120,4,0,1,7:52 PM,3:43,Ingram REBOUND (Off:0 Def:1),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,128,2,5,1,7:52 PM,3:37,MISS Murphy III 4' Layup,,Clarke BLOCK (2 BLK),,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,1
+0022200206,130,4,0,1,7:52 PM,3:35,,,Clarke REBOUND (Off:0 Def:4),,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,123,2,79,1,7:52 PM,3:32,,,MISS Brooks 26' 3PT Pullup Jump Shot,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,124,4,0,1,7:52 PM,3:28,Nance Jr. REBOUND (Off:1 Def:1),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,125,1,7,1,7:52 PM,3:26,Murphy III 2' Dunk (5 PTS) (Graham 1 AST),,,25 - 22,-3,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,4,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200206,127,9,1,1,7:52 PM,3:24,,,Grizzlies Timeout: Regular (Reg.1 Short 0),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200206,131,1,6,1,7:56 PM,3:14,,,Morant 3' Driving Layup (10 PTS) (Jones 1 AST),27 - 22,-5,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200206,133,2,7,1,7:56 PM,2:57,MISS Nance Jr. 5' Dunk,,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,135,4,0,1,7:56 PM,2:52,,,Morant REBOUND (Off:0 Def:1),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,136,1,1,1,7:57 PM,2:44,,,Morant 25' 3PT Jump Shot (13 PTS) (Clarke 1 AST),30 - 22,-8,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200206,138,2,1,1,7:57 PM,2:24,MISS Graham 26' 3PT Jump Shot,,,,,4,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,139,4,0,1,7:57 PM,2:24,,,Aldama REBOUND (Off:0 Def:2),,,5,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,140,2,47,1,7:57 PM,2:06,,,MISS Clarke 8' Turnaround Jump Shot,,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,141,4,0,1,7:57 PM,2:04,Marshall REBOUND (Off:0 Def:3),,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,142,2,1,1,7:57 PM,1:57,MISS Marshall 26' 3PT Jump Shot,,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,143,4,0,1,7:57 PM,1:57,Nance Jr. REBOUND (Off:2 Def:1),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,144,1,72,1,7:57 PM,1:54,Nance Jr. 4' Putback Layup (2 PTS),,,30 - 24,-6,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,145,7,1,1,7:58 PM,1:54,PELICANS Violation: Delay of game Violation,,,,,2,1610612740,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200206,146,2,79,1,7:58 PM,1:37,,,MISS Morant 26' 3PT Pullup Jump Shot,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,147,4,0,1,7:58 PM,1:31,Graham REBOUND (Off:0 Def:1),,,,,4,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,148,1,9,1,7:58 PM,1:25,Murphy III 2' Driving Dunk (7 PTS) (Marshall 2 AST),,,30 - 26,-4,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200206,150,2,1,1,7:58 PM,1:06,,,MISS Brooks 26' 3PT Jump Shot,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,151,4,0,1,7:58 PM,1:03,Marshall REBOUND (Off:0 Def:4),,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,152,1,79,1,7:59 PM,0:59,Ingram 27' 3PT Pullup Jump Shot (10 PTS),,,30 - 29,-1,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,153,2,73,1,7:59 PM,0:37,,,MISS Morant 3' Driving Reverse Layup,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,154,4,0,1,7:59 PM,0:36,,,Clarke REBOUND (Off:1 Def:4),,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,155,1,72,1,7:59 PM,0:36,,,Clarke 1' Putback Layup (6 PTS),32 - 29,-3,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,156,6,2,1,7:59 PM,0:32,,,Aldama S.FOUL (P2.T3) (B.Taylor),,,5,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,4,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200206,158,3,11,1,8:00 PM,0:32,Graham Free Throw 1 of 2 (1 PTS),,,32 - 30,-2,4,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,167,3,12,1,8:00 PM,0:32,MISS Graham Free Throw 2 of 2,,,,,4,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,159,8,0,1,8:00 PM,0:32,SUB: McCollum FOR Ingram,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200206,160,8,0,1,8:00 PM,0:32,SUB: Daniels FOR Murphy III,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200206,161,8,0,1,8:00 PM,0:32,,,SUB: Jackson Jr. FOR Aldama,,,5,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200206,162,8,0,1,8:00 PM,0:32,,,SUB: Konchar FOR Brooks,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200206,168,4,0,1,8:00 PM,0:30,,,Morant REBOUND (Off:0 Def:2),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,169,2,5,1,8:01 PM,0:11,,,MISS Clarke 3' Layup,,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,170,4,0,1,8:01 PM,0:08,Marshall REBOUND (Off:0 Def:5),,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,171,6,2,1,8:01 PM,0:02,,,Morant S.FOUL (P1.PN) (E.Scott),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200206,173,3,11,1,8:01 PM,0:02,Marshall Free Throw 1 of 2 (1 PTS),,,32 - 31,-1,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,174,3,12,1,8:02 PM,0:02,Marshall Free Throw 2 of 2 (2 PTS),,,32 - 32,TIE,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,175,1,1,1,8:02 PM,0:00,,,Morant 44' 3PT Jump Shot (16 PTS) (Konchar 1 AST),35 - 32,-3,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200206,177,18,0,1,8:02 PM,0:00,,Instant Replay1st Period (8:02 PM EST),,35 - 32,-3,0,175,Alton Lister,,,,,0,0,,,,,,1,0,,,,,,0
+0022200206,178,13,0,1,8:03 PM,0:00,,End of 1st Period (8:03 PM EST),,35 - 32,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200206,185,12,0,2,8:05 PM,12:00,,Start of 2nd Period (8:05 PM EST),,35 - 32,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200206,187,2,101,2,8:06 PM,11:43,MISS McCollum 6' Driving Floating Jump Shot,,Jackson Jr. BLOCK (2 BLK),,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,1
+0022200206,188,4,0,2,8:06 PM,11:40,,,Jackson Jr. REBOUND (Off:0 Def:1),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,189,6,4,2,8:06 PM,11:32,,,Adams OFF.Foul (P3) (E.Scott),,,5,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200206,191,5,37,2,8:06 PM,11:32,,,Adams Offensive Foul Turnover (P2.T2),,,5,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0022200206,192,8,0,2,8:06 PM,11:32,,,SUB: Clarke FOR Adams,,,5,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200206,195,2,1,2,8:07 PM,11:22,MISS Alvarado 26' 3PT Jump Shot,,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,196,4,0,2,8:07 PM,11:18,,,Clarke REBOUND (Off:1 Def:5),,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,197,2,1,2,8:07 PM,11:09,,,MISS Jackson Jr. 3PT Jump Shot,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,198,4,0,2,8:07 PM,11:07,Nance Jr. REBOUND (Off:2 Def:2),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,199,1,5,2,8:07 PM,11:04,Alvarado 3' Layup (2 PTS) (McCollum 4 AST),,,35 - 34,-1,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200206,204,7,2,2,8:07 PM,11:04,,,Defensive Goaltending,,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,201,5,4,2,8:07 PM,10:44,,,Jackson Jr. Traveling Turnover (P1.T3),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0022200206,202,8,0,2,8:07 PM,10:44,SUB: Jones FOR Marshall,,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200206,205,1,80,2,8:08 PM,10:28,McCollum 26' 3PT Step Back Jump Shot (6 PTS),,,35 - 37,2,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,206,1,1,2,8:08 PM,10:07,,,Jackson Jr. 16' Jump Shot (3 PTS) (Clarke 2 AST),37 - 37,TIE,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200206,208,1,6,2,8:08 PM,9:55,McCollum 5' Driving Layup (8 PTS),,,37 - 39,2,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,209,2,76,2,8:09 PM,9:32,,,MISS Jackson Jr. 11' Running Finger Roll Layup,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,210,4,0,2,8:09 PM,9:30,McCollum REBOUND (Off:1 Def:1),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,211,2,5,2,8:09 PM,9:27,MISS Alvarado 6' Layup,,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,212,4,0,2,8:09 PM,9:27,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200206,214,2,1,2,8:09 PM,9:25,MISS McCollum 24' 3PT Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,215,4,0,2,8:09 PM,9:22,,,Jackson Jr. REBOUND (Off:0 Def:2),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,216,2,1,2,8:09 PM,9:17,,,MISS Jackson Jr. 26' 3PT Jump Shot,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,217,4,0,2,8:09 PM,9:17,Daniels REBOUND (Off:0 Def:1),,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,218,1,98,2,8:10 PM,9:01,Jones 7' Cutting Layup Shot (7 PTS) (Alvarado 1 AST),,,37 - 41,4,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200206,220,6,2,2,8:10 PM,9:01,,,Roddy S.FOUL (P1.T1) (E.Scott),,,5,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200206,222,9,1,2,8:10 PM,9:01,,,Grizzlies Timeout: Regular (Reg.2 Short 0),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200206,223,3,10,2,8:14 PM,9:01,MISS Jones Free Throw 1 of 1,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0022200206,224,4,0,2,8:14 PM,8:59,,,Clarke REBOUND (Off:1 Def:6),,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0022200206,225,1,5,2,8:14 PM,8:45,,,Clarke 3' Layup (8 PTS) (Jones 2 AST),39 - 41,2,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200206,227,2,1,2,8:14 PM,8:29,MISS Daniels 26' 3PT Jump Shot,,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,228,4,0,2,8:14 PM,8:29,,,Jones REBOUND (Off:0 Def:1),,,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,229,2,1,2,8:14 PM,8:20,,,MISS Jackson Jr. 29' 3PT Jump Shot,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,230,4,0,2,8:14 PM,8:17,Daniels REBOUND (Off:0 Def:2),,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,231,1,1,2,8:15 PM,8:00,Nance Jr. 26' 3PT Jump Shot (5 PTS) (Alvarado 2 AST),,,39 - 44,5,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200206,233,2,6,2,8:15 PM,7:46,,,MISS Roddy 5' Driving Layup,,,5,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,234,4,0,2,8:15 PM,7:43,Jones REBOUND (Off:0 Def:1),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,235,1,108,2,8:15 PM,7:38,Nance Jr. 3' Cutting Dunk Shot (7 PTS) (Alvarado 3 AST),,,39 - 46,7,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200206,237,2,1,2,8:15 PM,7:27,,,MISS Jones 26' 3PT Jump Shot,,,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,238,4,0,2,8:15 PM,7:24,Alvarado REBOUND (Off:0 Def:1),,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,239,2,1,2,8:15 PM,7:18,MISS Alvarado 25' 3PT Jump Shot,,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,240,4,0,2,8:15 PM,7:14,,,Jackson Jr. REBOUND (Off:0 Def:3),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,241,1,1,2,8:16 PM,6:54,,,Clarke 3PT Jump Shot (11 PTS) (Roddy 1 AST),42 - 46,4,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,5,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200206,243,2,1,2,8:16 PM,6:33,MISS McCollum 25' 3PT Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,244,4,0,2,8:16 PM,6:31,,,Roddy REBOUND (Off:0 Def:1),,,5,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,245,1,1,2,8:16 PM,6:22,,,Roddy 28' 3PT Jump Shot (3 PTS) (Jones 3 AST),45 - 46,1,5,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200206,247,1,98,2,8:16 PM,6:07,Nance Jr. 6' Cutting Layup Shot (9 PTS) (McCollum 5 AST),,,45 - 48,3,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200206,249,6,4,2,8:17 PM,5:52,,,Jackson Jr. OFF.Foul (P1) (B.Taylor),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200206,251,5,37,2,8:17 PM,5:52,,,Jackson Jr. Offensive Foul Turnover (P2.T4),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0022200206,252,8,0,2,8:17 PM,5:52,SUB: Ingram FOR McCollum,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200206,253,8,0,2,8:17 PM,5:52,SUB: Valanciunas FOR Daniels,,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200206,254,8,0,2,8:17 PM,5:52,SUB: Murphy III FOR Nance Jr.,,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200206,255,8,0,2,8:17 PM,5:52,,,SUB: Morant FOR Jackson Jr.,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200206,256,8,0,2,8:17 PM,5:52,,,SUB: Brooks FOR Jones,,,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200206,257,8,0,2,8:17 PM,5:52,,,SUB: Aldama FOR Konchar,,,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,5,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200206,264,1,6,2,8:17 PM,5:41,Alvarado 5' Driving Layup (4 PTS),,,45 - 50,5,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,265,1,101,2,8:18 PM,5:27,,,Morant 7' Driving Floating Jump Shot (18 PTS),47 - 50,3,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,266,6,2,2,8:18 PM,5:27,Alvarado S.FOUL (P1.T1) (E.Scott),,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200206,268,3,10,2,8:18 PM,5:27,,,Morant Free Throw 1 of 1 (19 PTS),48 - 50,2,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,269,1,1,2,8:18 PM,5:18,Murphy III 27' 3PT Jump Shot (10 PTS) (Ingram 1 AST),,,48 - 53,5,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200206,271,1,75,2,8:19 PM,4:55,,,Morant 5' Driving Finger Roll Layup (21 PTS),50 - 53,3,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,272,2,86,2,8:19 PM,4:36,MISS Ingram 13' Turnaround Fadeaway Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,273,4,0,2,8:19 PM,4:34,,,Aldama REBOUND (Off:0 Def:3),,,5,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,274,6,2,2,8:19 PM,4:31,Jones S.FOUL (P3.T2) (N.Buchert),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200206,276,3,11,2,8:20 PM,4:31,,,Morant Free Throw 1 of 2 (22 PTS),51 - 53,2,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,277,8,0,2,8:20 PM,4:31,SUB: Marshall FOR Jones,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200206,279,3,12,2,8:20 PM,4:31,,,MISS Morant Free Throw 2 of 2,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,280,4,0,2,8:20 PM,4:29,Marshall REBOUND (Off:0 Def:6),,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,281,6,1,2,8:20 PM,4:16,,,Aldama P.FOUL (P3.T2) (N.Buchert),,,5,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200206,283,2,1,2,8:21 PM,4:05,MISS Murphy III 23' Jump Shot,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,284,4,0,2,8:21 PM,4:05,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200206,285,6,3,2,8:21 PM,4:05,Valanciunas L.B.FOUL (P2.T3) (E.Scott),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200206,287,1,52,2,8:21 PM,3:48,,,Clarke 4' Alley Oop Dunk (13 PTS) (Morant 2 AST),53 - 53,TIE,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200206,289,2,1,2,8:22 PM,3:29,MISS Murphy III 25' 3PT Jump Shot,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,290,4,0,2,8:22 PM,3:25,Valanciunas REBOUND (Off:1 Def:1),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,291,1,1,2,8:22 PM,3:23,Alvarado 26' 3PT Jump Shot (7 PTS) (Valanciunas 2 AST),,,53 - 56,3,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200206,293,2,1,2,8:22 PM,3:05,,,MISS Aldama 3PT Jump Shot,,,5,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,294,4,0,2,8:22 PM,3:03,Marshall REBOUND (Off:0 Def:7),,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,295,2,5,2,8:22 PM,2:55,MISS Valanciunas 4' Layup,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,296,4,0,2,8:22 PM,2:52,,,Brooks REBOUND (Off:0 Def:1),,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,297,5,45,2,8:22 PM,2:50,,,Brooks Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0022200206,298,9,1,2,8:22 PM,2:50,PELICANS Timeout: Regular (Full 2 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200206,299,8,0,2,8:23 PM,2:50,SUB: McCollum FOR Alvarado,,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200206,300,8,0,2,8:23 PM,2:50,SUB: Nance Jr. FOR Valanciunas,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200206,301,8,0,2,8:23 PM,2:50,,,SUB: Jackson Jr. FOR Aldama,,,5,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200206,302,8,0,2,8:23 PM,2:50,,,SUB: Konchar FOR Roddy,,,5,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200206,307,1,79,2,8:26 PM,2:29,Ingram 16' Pullup Jump Shot (12 PTS),,,53 - 58,5,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,309,1,1,2,8:26 PM,2:01,,,Brooks 27' 3PT Jump Shot (7 PTS) (Clarke 3 AST),56 - 58,2,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200206,312,5,1,2,8:27 PM,1:37,McCollum Bad Pass Turnover (P1.T5),,Morant STEAL (3 STL),,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200206,314,1,75,2,8:27 PM,1:33,,,Morant 4' Driving Finger Roll Layup (24 PTS),58 - 58,TIE,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,315,2,47,2,8:28 PM,1:20,MISS McCollum 16' Turnaround Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,316,4,0,2,8:28 PM,1:16,,,Konchar REBOUND (Off:0 Def:1),,,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,317,2,6,2,8:28 PM,1:03,,,MISS Brooks 3' Driving Layup,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,318,4,0,2,8:28 PM,0:59,,,Konchar REBOUND (Off:1 Def:1),,,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,319,1,107,2,8:28 PM,0:59,,,Konchar Tip Dunk Shot (5 PTS),60 - 58,-2,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,320,2,79,2,8:28 PM,0:39,MISS Ingram 14' Pullup Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,321,4,0,2,8:28 PM,0:34,,,Clarke REBOUND (Off:1 Def:7),,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,322,2,78,2,8:28 PM,0:32,,,MISS Morant 7' Floating Jump Shot,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,323,4,0,2,8:28 PM,0:28,Murphy III REBOUND (Off:0 Def:1),,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,324,6,1,2,8:29 PM,0:09,,,Brooks P.FOUL (P1.T3) (N.Buchert),,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200206,326,6,11,2,8:29 PM,0:09,,,Brooks T.FOUL (P1.T3) (N.Buchert),,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0022200206,327,3,16,2,8:29 PM,0:09,Ingram Free Throw Technical (13 PTS),,,60 - 59,-1,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,328,2,6,2,8:30 PM,0:02,MISS Marshall 5' Driving Layup,,Jackson Jr. BLOCK (3 BLK),,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,1
+0022200206,330,4,0,2,8:30 PM,0:02,,,Konchar REBOUND (Off:1 Def:2),,,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,332,13,0,2,8:32 PM,0:00,,End of 2nd Period (8:32 PM EST),,60 - 59,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200206,653,6,11,3,8:47 PM,12:00,Marshall T.FOUL (P0.T0) (B.Taylor),,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+0022200206,341,3,16,3,8:48 PM,12:00,,,Brooks Free Throw Technical (8 PTS),61 - 59,-2,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,342,12,0,3,8:49 PM,12:00,,Start of 3rd Period (8:49 PM EST),,61 - 59,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200206,343,2,79,3,8:49 PM,11:45,MISS Ingram 17' Pullup Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,344,4,0,3,8:49 PM,11:39,,,Konchar REBOUND (Off:1 Def:3),,,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,345,5,1,3,8:49 PM,11:29,Murphy III STEAL (1 STL),,Morant Bad Pass Turnover (P1.T6),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200206,347,5,2,3,8:49 PM,11:17,Valanciunas Lost Ball Turnover (P3.T6),,Konchar STEAL (1 STL),,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200206,349,1,6,3,8:49 PM,11:11,,,Konchar 4' Driving Layup (7 PTS),63 - 59,-4,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,350,2,79,3,8:49 PM,11:03,MISS McCollum 26' 3PT Pullup Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,351,4,0,3,8:50 PM,11:00,,,Adams REBOUND (Off:0 Def:1),,,5,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,352,1,103,3,8:50 PM,10:55,,,Brooks 26' 3PT Running Pull-Up Jump Shot (11 PTS) (Konchar 2 AST),66 - 59,-7,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200206,354,9,1,3,8:50 PM,10:54,PELICANS Timeout: Regular (Full 3 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200206,355,1,1,3,8:53 PM,10:37,McCollum 27' 3PT Jump Shot (11 PTS) (Jones 2 AST),,,66 - 62,-4,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200206,357,2,1,3,8:54 PM,10:24,,,MISS Brooks 27' 3PT Jump Shot,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,358,4,0,3,8:54 PM,10:21,,,Jackson Jr. REBOUND (Off:1 Def:3),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,359,1,72,3,8:54 PM,10:20,,,Jackson Jr. 5' Putback Layup (5 PTS),68 - 62,-6,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,360,2,5,3,8:54 PM,10:07,MISS Ingram 4' Layup,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,361,4,0,3,8:54 PM,10:04,Ingram REBOUND (Off:1 Def:1),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,362,1,97,3,8:54 PM,10:04,Ingram Tip Layup Shot (15 PTS),,,68 - 64,-4,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,363,6,4,3,8:54 PM,9:58,,,Konchar OFF.Foul (P1) (N.Buchert),,,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200206,365,5,37,3,8:54 PM,9:58,,,Konchar Offensive Foul Turnover (P1.T7),,,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0022200206,366,1,63,3,8:54 PM,9:45,Ingram 4' Fadeaway Jumper (17 PTS),,,68 - 66,-2,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,367,2,1,3,8:55 PM,9:36,,,MISS Jackson Jr. 26' 3PT Jump Shot,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,368,4,0,3,8:55 PM,9:32,Valanciunas REBOUND (Off:1 Def:2),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,369,2,66,3,8:55 PM,9:26,MISS Jones 27' 3PT Jump Bank Shot,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,370,4,0,3,8:55 PM,9:23,,,Morant REBOUND (Off:0 Def:3),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,371,2,79,3,8:55 PM,9:09,Murphy III BLOCK (1 BLK),,MISS Morant 10' Pullup Jump Shot,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,1
+0022200206,373,4,0,3,8:55 PM,9:04,,,Morant REBOUND (Off:1 Def:3),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,374,6,2,3,8:55 PM,9:01,Valanciunas S.FOUL (P3.T1) (N.Buchert),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200206,376,3,11,3,8:56 PM,9:01,,,MISS Brooks Free Throw 1 of 2,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,377,4,1,3,8:56 PM,9:01,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200206,378,3,12,3,8:56 PM,9:01,,,Brooks Free Throw 2 of 2 (12 PTS),69 - 66,-3,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,379,2,78,3,8:57 PM,8:52,MISS McCollum 5' Floating Jump Shot,,Jackson Jr. BLOCK (4 BLK),,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,1
+0022200206,381,4,0,3,8:57 PM,8:48,,,Adams REBOUND (Off:0 Def:2),,,5,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,382,1,75,3,8:57 PM,8:34,,,Morant 5' Driving Finger Roll Layup (26 PTS),71 - 66,-5,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,383,1,79,3,8:57 PM,8:16,McCollum 16' Pullup Jump Shot (13 PTS) (Murphy III 1 AST),,,71 - 68,-3,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200206,385,2,3,3,8:58 PM,7:57,Ingram BLOCK (1 BLK),,MISS Jackson Jr. 12' Hook Shot,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1
+0022200206,386,4,0,3,8:58 PM,7:55,McCollum REBOUND (Off:1 Def:2),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,387,2,103,3,8:58 PM,7:55,MISS Murphy III 25' 3PT Running Pull-Up Jump Shot,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,388,4,0,3,8:58 PM,7:54,,,Adams REBOUND (Off:0 Def:3),,,5,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,389,2,1,3,8:58 PM,7:45,,,MISS Jackson Jr. 3PT Jump Shot,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,390,4,0,3,8:58 PM,7:42,Murphy III REBOUND (Off:0 Def:2),,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,391,6,4,3,8:58 PM,7:30,Valanciunas OFF.Foul (P4) (B.Taylor),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200206,393,5,37,3,8:58 PM,7:30,Valanciunas Offensive Foul Turnover (P4.T7),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022200206,394,8,0,3,8:58 PM,7:30,SUB: Nance Jr. FOR Valanciunas,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200206,395,8,0,3,8:58 PM,7:30,,,SUB: Aldama FOR Jackson Jr.,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,5,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200206,399,2,1,3,8:59 PM,7:22,,,MISS Brooks 26' 3PT Jump Shot,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,400,4,0,3,8:59 PM,7:21,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200206,401,6,3,3,8:59 PM,7:19,Jones L.B.FOUL (P4.T2) (B.Taylor),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200206,403,8,0,3,8:59 PM,7:19,SUB: Marshall FOR Jones,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200206,405,5,40,3,9:00 PM,7:13,,,Morant Out of Bounds Lost Ball Turnover (P2.T8),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0022200206,406,1,1,3,9:00 PM,7:03,McCollum 26' 3PT Jump Shot (16 PTS) (Marshall 3 AST),,,71 - 71,TIE,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200206,408,2,5,3,9:00 PM,6:45,,,MISS Morant 5' Layup,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,409,4,0,3,9:00 PM,6:43,,,Adams REBOUND (Off:1 Def:3),,,5,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,410,2,58,3,9:00 PM,6:41,,,MISS Adams 6' Turnaround Hook Shot,,,5,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,411,4,0,3,9:00 PM,6:41,Marshall REBOUND (Off:0 Def:8),,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,412,6,1,3,9:00 PM,6:29,,,Konchar P.FOUL (P2.T1) (N.Buchert),,,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200206,414,1,1,3,9:01 PM,6:24,McCollum 26' 3PT Jump Shot (19 PTS) (Nance Jr. 1 AST),,,71 - 74,3,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200206,416,9,1,3,9:01 PM,6:23,,,Grizzlies Timeout: Regular (Reg.3 Short 0),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200206,417,2,79,3,9:05 PM,6:02,,,MISS Brooks 17' Pullup Jump Shot,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,418,4,0,3,9:05 PM,5:56,,,Adams REBOUND (Off:2 Def:3),,,5,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,419,1,97,3,9:05 PM,5:56,,,Adams Tip Layup Shot (2 PTS),73 - 74,1,5,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,420,1,1,3,9:05 PM,5:42,McCollum 27' 3PT Jump Shot (22 PTS) (Marshall 4 AST),,,73 - 77,4,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200206,422,1,75,3,9:05 PM,5:18,,,Brooks 3' Driving Finger Roll Layup (14 PTS),75 - 77,2,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,423,2,98,3,9:06 PM,4:57,MISS Murphy III 8' Cutting Layup Shot,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,424,4,0,3,9:06 PM,4:54,,,Morant REBOUND (Off:1 Def:4),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,425,1,9,3,9:06 PM,4:46,,,Morant 2' Driving Dunk (28 PTS),77 - 77,TIE,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,426,1,1,3,9:06 PM,4:34,Murphy III 26' 3PT Jump Shot (13 PTS) (Ingram 2 AST),,,77 - 80,3,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200206,428,1,78,3,9:06 PM,4:12,,,Morant 8' Floating Jump Shot (30 PTS),79 - 80,1,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,429,6,2,3,9:07 PM,4:12,Marshall S.FOUL (P1.T3) (E.Scott),,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200206,431,8,0,3,9:07 PM,4:12,SUB: Graham FOR Murphy III,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,4,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200206,432,8,0,3,9:07 PM,4:12,,,SUB: Jones FOR Konchar,,,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200206,435,3,10,3,9:07 PM,4:12,,,Morant Free Throw 1 of 1 (31 PTS),80 - 80,TIE,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,436,1,108,3,9:07 PM,3:58,Nance Jr. 2' Cutting Dunk Shot (11 PTS) (McCollum 6 AST),,,80 - 82,2,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200206,438,5,4,3,9:08 PM,3:34,,,Morant Traveling Turnover (P3.T9),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0022200206,439,6,4,3,9:08 PM,3:19,McCollum OFF.Foul (P2) (N.Buchert),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200206,441,5,37,3,9:08 PM,3:19,McCollum Offensive Foul Turnover (P2.T8),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022200206,442,6,11,3,9:09 PM,3:19,McCollum T.FOUL (P2.T3) (N.Buchert),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022200206,443,3,16,3,9:09 PM,3:19,,,Brooks Free Throw Technical (15 PTS),81 - 82,1,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0022200206,444,8,0,3,9:09 PM,3:19,SUB: Daniels FOR McCollum,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200206,446,1,1,3,9:10 PM,2:59,,,Aldama 24' 3PT Jump Shot (5 PTS) (Morant 3 AST),84 - 82,-2,5,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200206,448,1,79,3,9:10 PM,2:46,Daniels 25' 3PT Pullup Jump Shot (3 PTS),,,84 - 85,1,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,449,6,2,3,9:10 PM,2:39,Ingram S.FOUL (P2.T4) (E.Scott),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200206,451,3,11,3,9:11 PM,2:39,,,Brooks Free Throw 1 of 2 (16 PTS),85 - 85,TIE,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0022200206,452,8,0,3,9:11 PM,2:39,,,SUB: Clarke FOR Adams,,,5,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200206,454,3,12,3,9:11 PM,2:39,,,Brooks Free Throw 2 of 2 (17 PTS),86 - 85,-1,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,455,5,4,3,9:11 PM,2:17,Marshall Traveling Turnover (P2.T9),,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022200206,456,6,4,3,9:12 PM,2:08,,,Clarke OFF.Foul (P1) (N.Buchert),,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200206,458,5,37,3,9:12 PM,2:08,,,Clarke Offensive Foul Turnover (P1.T10),,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0022200206,459,8,0,3,9:12 PM,2:08,,,SUB: Konchar FOR Morant,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200206,461,1,98,3,9:12 PM,1:49,Nance Jr. 2' Cutting Layup Shot (13 PTS) (Graham 2 AST),,,86 - 87,1,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200206,463,2,1,3,9:13 PM,1:29,,,MISS Aldama 24' 3PT Jump Shot,,,5,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,464,4,0,3,9:13 PM,1:26,Daniels REBOUND (Off:0 Def:3),,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,465,2,86,3,9:13 PM,1:12,MISS Ingram 8' Turnaround Fadeaway Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,466,4,0,3,9:13 PM,1:09,,,Konchar REBOUND (Off:1 Def:4),,,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,467,6,1,3,9:13 PM,1:05,Nance Jr. P.FOUL (P1.PN) (E.Scott),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,5,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200206,469,3,11,3,9:14 PM,1:05,,,MISS Aldama Free Throw 1 of 2,,,5,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,470,4,1,3,9:14 PM,1:05,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200206,471,3,12,3,9:14 PM,1:05,,,Aldama Free Throw 2 of 2 (6 PTS),87 - 87,TIE,5,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,472,1,86,3,9:14 PM,0:43,Ingram 12' Turnaround Fadeaway (19 PTS),,,87 - 89,2,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,473,2,1,3,9:15 PM,0:32,,,MISS Brooks 3PT Jump Shot,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,474,4,0,3,9:15 PM,0:28,Daniels REBOUND (Off:0 Def:4),,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,475,6,1,3,9:15 PM,0:12,,,Brooks P.FOUL (P2.T2) (B.Taylor),,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200206,477,2,79,3,9:16 PM,0:06,MISS Ingram 22' Pullup Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,478,4,0,3,9:16 PM,0:02,Daniels REBOUND (Off:1 Def:4),,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,479,2,72,3,9:16 PM,0:01,MISS Daniels 5' Putback Layup,,Clarke BLOCK (3 BLK),,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,1
+0022200206,480,4,0,3,9:16 PM,0:01,,,Konchar REBOUND (Off:1 Def:5),,,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,482,13,0,3,9:17 PM,0:00,,End of 3rd Period (9:17 PM EST),,87 - 89,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200206,491,12,0,4,9:19 PM,12:00,,Start of 4th Period (9:19 PM EST),,87 - 89,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200206,492,2,5,4,9:20 PM,11:44,McCollum BLOCK (1 BLK),,MISS Clarke 6' Layup,,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0
+0022200206,494,4,0,4,9:20 PM,11:43,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200206,496,1,79,4,9:20 PM,11:29,McCollum 14' Pullup Jump Shot (24 PTS) (Daniels 1 AST),,,87 - 91,4,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200206,498,2,1,4,9:20 PM,11:14,,,MISS Jones 26' 3PT Jump Shot,,,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,499,4,0,4,9:20 PM,11:11,Daniels REBOUND (Off:1 Def:5),,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,500,1,98,4,9:20 PM,11:08,Marshall 2' Cutting Layup Shot (4 PTS) (Alvarado 4 AST),,,87 - 93,6,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200206,502,9,1,4,9:20 PM,11:07,,,Grizzlies Timeout: Regular (Reg.4 Short 0),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200206,503,2,78,4,9:24 PM,10:45,,,MISS Jackson Jr. 10' Floating Jump Shot,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,504,4,0,4,9:24 PM,10:45,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200206,505,6,3,4,9:24 PM,10:45,Marshall L.B.FOUL (P2.T1) (N.Buchert),,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200206,507,2,1,4,9:25 PM,10:35,,,MISS Roddy 26' 3PT Jump Shot,,,5,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,508,4,0,4,9:25 PM,10:31,,,Clarke REBOUND (Off:2 Def:7),,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,509,1,72,4,9:25 PM,10:29,,,Clarke 4' Putback Layup (15 PTS),89 - 93,4,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,510,2,80,4,9:25 PM,10:08,MISS McCollum 25' 3PT Step Back Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,511,4,0,4,9:25 PM,10:06,,,Clarke REBOUND (Off:2 Def:8),,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,512,2,5,4,9:25 PM,9:56,,,MISS Jackson Jr. 5' Layup,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,513,4,0,4,9:25 PM,9:55,,,Clarke REBOUND (Off:3 Def:8),,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,645,5,2,4,9:25 PM,9:53,Daniels STEAL (1 STL),,Clarke Lost Ball Turnover (P2.T11),,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200206,514,2,1,4,9:25 PM,9:49,MISS Alvarado 25' 3PT Jump Shot,,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,515,4,0,4,9:25 PM,9:49,,,Clarke REBOUND (Off:3 Def:9),,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,516,2,1,4,9:26 PM,9:38,,,MISS Konchar 26' 3PT Jump Shot,,,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,517,4,0,4,9:26 PM,9:34,Nance Jr. REBOUND (Off:2 Def:3),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,518,6,2,4,9:26 PM,9:27,,,Konchar S.FOUL (P3.T1) (N.Buchert),,,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200206,520,3,11,4,9:26 PM,9:27,Nance Jr. Free Throw 1 of 2 (14 PTS),,,89 - 94,5,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,521,3,12,4,9:27 PM,9:27,Nance Jr. Free Throw 2 of 2 (15 PTS),,,89 - 95,6,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,522,2,1,4,9:27 PM,9:11,,,MISS Jackson Jr. 3PT Jump Shot,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,523,4,0,4,9:27 PM,9:07,Nance Jr. REBOUND (Off:2 Def:4),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,524,1,5,4,9:27 PM,9:03,Alvarado 3' Layup (9 PTS),,,89 - 97,8,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,526,7,2,4,9:27 PM,9:03,,,Jackson Jr. Violation:Defensive Goaltending (N.Buchert),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0022200206,527,2,79,4,9:28 PM,8:51,,,MISS Jones 25' 3PT Pullup Jump Shot,,,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,528,4,0,4,9:28 PM,8:44,,,Jackson Jr. REBOUND (Off:2 Def:3),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,529,1,107,4,9:28 PM,8:44,,,Jackson Jr. Tip Dunk Shot (7 PTS),91 - 97,6,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,530,1,1,4,9:28 PM,8:28,Alvarado 26' 3PT Jump Shot (12 PTS) (McCollum 7 AST),,,91 - 100,9,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200206,532,9,1,4,9:28 PM,8:18,,,Grizzlies Timeout: Regular (Reg.5 Short 0),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200206,533,8,0,4,9:30 PM,8:18,SUB: Jones FOR Marshall,,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200206,534,8,0,4,9:30 PM,8:18,SUB: Ingram FOR Nance Jr.,,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200206,535,8,0,4,9:30 PM,8:18,,,SUB: Morant FOR Konchar,,,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200206,539,2,5,4,9:32 PM,8:05,Daniels BLOCK (1 BLK),,MISS Morant 8' Layup,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,1
+0022200206,541,4,0,4,9:32 PM,8:01,Ingram REBOUND (Off:1 Def:2),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,542,2,41,4,9:32 PM,8:01,MISS Ingram 3' Running Layup,,Jackson Jr. BLOCK (5 BLK),,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,1
+0022200206,544,4,0,4,9:32 PM,8:01,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200206,546,8,0,4,9:32 PM,8:01,,,SUB: Brooks FOR Jones,,,5,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200206,548,1,1,4,9:33 PM,7:57,Jones 26' 3PT Jump Shot (10 PTS) (McCollum 8 AST),,,91 - 103,12,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200206,550,2,98,4,9:33 PM,7:41,,,MISS Clarke 6' Cutting Layup Shot,,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,554,4,0,4,9:33 PM,7:41,,,Clarke REBOUND (Off:4 Def:9),,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,552,2,1,4,9:33 PM,7:35,,,MISS Brooks 26' 3PT Jump Shot,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,553,4,0,4,9:33 PM,7:35,Daniels REBOUND (Off:1 Def:6),,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,555,2,1,4,9:34 PM,7:12,MISS Daniels 24' 3PT Jump Shot,,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,556,4,0,4,9:34 PM,7:10,,,Brooks REBOUND (Off:0 Def:2),,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,557,2,1,4,9:34 PM,7:05,,,MISS Morant 25' 3PT Jump Shot,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,558,4,0,4,9:34 PM,7:02,Daniels REBOUND (Off:1 Def:7),,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,559,2,75,4,9:34 PM,6:40,MISS Ingram 3' Driving Finger Roll Layup,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,560,4,0,4,9:34 PM,6:40,,,Jackson Jr. REBOUND (Off:2 Def:4),,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,561,6,1,4,9:34 PM,6:40,Daniels P.FOUL (P1.T2) (E.Scott),,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200206,563,8,0,4,9:34 PM,6:40,,,SUB: Konchar FOR Clarke,,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200206,564,8,0,4,9:34 PM,6:40,,,SUB: Aldama FOR Roddy,,,5,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,5,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200206,567,2,99,4,9:35 PM,6:19,,,MISS Brooks 5' Cutting Finger Roll Layup Shot,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,568,4,0,4,9:35 PM,6:17,Daniels REBOUND (Off:1 Def:8),,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,569,6,2,4,9:35 PM,6:12,,,Konchar S.FOUL (P4.T2) (B.Taylor),,,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200206,571,3,11,4,9:36 PM,6:12,MISS McCollum Free Throw 1 of 2,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,572,4,1,4,9:36 PM,6:12,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200206,573,3,12,4,9:36 PM,6:12,McCollum Free Throw 2 of 2 (25 PTS),,,91 - 104,13,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,574,1,75,4,9:36 PM,5:49,,,Morant 4' Driving Finger Roll Layup (33 PTS),93 - 104,11,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,575,2,79,4,9:36 PM,5:43,MISS McCollum 12' Pullup Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,576,4,0,4,9:36 PM,5:43,,,Aldama REBOUND (Off:0 Def:4),,,5,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,577,1,6,4,9:37 PM,5:32,,,Brooks 5' Driving Layup (19 PTS),95 - 104,9,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,578,2,1,4,9:37 PM,5:08,MISS McCollum 26' 3PT Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,579,4,0,4,9:37 PM,5:04,,,Aldama REBOUND (Off:0 Def:5),,,5,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,580,2,47,4,9:37 PM,4:56,Alvarado BLOCK (1 BLK),,MISS Morant 8' Turnaround Jump Shot,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,1
+0022200206,582,4,0,4,9:37 PM,4:50,Alvarado REBOUND (Off:0 Def:2),,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,583,2,5,4,9:37 PM,4:47,MISS Alvarado 2' Layup,,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,584,4,0,4,9:37 PM,4:46,,,Aldama REBOUND (Off:0 Def:6),,,5,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,586,6,1,4,9:38 PM,4:46,Alvarado P.FOUL (P2.T3) (N.Buchert),,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200206,602,8,0,4,9:38 PM,4:46,SUB: Nance Jr. FOR Daniels,,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200206,603,8,0,4,9:38 PM,4:46,,,SUB: Clarke FOR Jackson Jr.,,,5,1628991,Jaren Jackson Jr.,1610612763.0,Memphis,Grizzlies,MEM,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200206,588,1,80,4,9:38 PM,4:32,,,Morant 21' Step Back Jump Shot (35 PTS),97 - 104,7,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,589,1,1,4,9:38 PM,4:11,McCollum 26' 3PT Jump Shot (28 PTS) (Nance Jr. 2 AST),,,97 - 107,10,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200206,590,2,1,4,9:38 PM,3:57,,,MISS Brooks 24' 3PT Jump Shot,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,591,4,0,4,9:38 PM,3:57,,,Morant REBOUND (Off:2 Def:4),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,592,6,2,4,9:39 PM,3:56,Alvarado S.FOUL (P3.T4) (B.Taylor),,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200206,594,3,11,4,9:39 PM,3:56,,,Morant Free Throw 1 of 2 (36 PTS),98 - 107,9,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,595,3,12,4,9:39 PM,3:56,,,MISS Morant Free Throw 2 of 2,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,596,4,0,4,9:39 PM,3:52,Jones REBOUND (Off:0 Def:2),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,597,1,7,4,9:40 PM,3:35,Nance Jr. 3' Dunk (17 PTS) (McCollum 9 AST),,,98 - 109,11,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200206,599,2,5,4,9:40 PM,3:20,,,MISS Brooks 6' Layup,,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,600,4,0,4,9:40 PM,3:20,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200206,606,2,1,4,9:40 PM,2:59,MISS Alvarado 28' 3PT Jump Shot,,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,607,4,0,4,9:40 PM,2:56,,,Morant REBOUND (Off:2 Def:5),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,608,1,5,4,9:40 PM,2:53,,,Konchar 5' Layup (9 PTS) (Morant 4 AST),100 - 109,9,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200206,610,1,51,4,9:41 PM,2:36,Nance Jr. 2' Reverse Dunk (19 PTS) (Alvarado 5 AST),,,100 - 111,11,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200206,612,9,1,4,9:41 PM,2:35,,,Grizzlies Timeout: Regular (Reg.6 Short 0),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200206,614,2,78,4,9:43 PM,2:19,Nance Jr. BLOCK (1 BLK),,MISS Clarke 13' Floating Jump Shot,,,5,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,1
+0022200206,616,4,0,4,9:43 PM,2:15,Ingram REBOUND (Off:1 Def:3),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,617,2,1,4,9:43 PM,1:57,MISS McCollum 26' 3PT Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,618,4,0,4,9:43 PM,1:54,Jones REBOUND (Off:1 Def:2),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,619,2,5,4,9:43 PM,1:53,MISS Jones 4' Layup,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,621,4,0,4,9:43 PM,1:53,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200206,622,2,1,4,9:44 PM,1:43,,,MISS Morant 25' 3PT Jump Shot,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,623,4,0,4,9:44 PM,1:39,,,Konchar REBOUND (Off:2 Def:5),,,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,624,2,1,4,9:44 PM,1:38,,,MISS Morant 26' 3PT Jump Shot,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,625,4,0,4,9:44 PM,1:33,,,Aldama REBOUND (Off:1 Def:6),,,5,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,626,1,97,4,9:44 PM,1:33,,,Aldama Tip Layup Shot (8 PTS),102 - 111,9,5,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,627,1,78,4,9:44 PM,1:23,McCollum 6' Floating Jump Shot (30 PTS) (Alvarado 6 AST),,,102 - 113,11,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200206,629,2,5,4,9:44 PM,1:09,,,MISS Aldama 6' Layup,,,5,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,630,4,0,4,9:44 PM,1:09,Nance Jr. REBOUND (Off:2 Def:5),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,632,6,1,4,9:44 PM,1:05,,,Brooks P.FOUL (P3.T3) (N.Buchert),,,5,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200206,634,5,39,4,9:45 PM,0:53,Alvarado Step Out of Bounds Turnover (P1.T10),,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022200206,635,2,1,4,9:45 PM,0:38,,,MISS Morant 11' Jump Shot,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,636,4,0,4,9:46 PM,0:33,,,Morant REBOUND (Off:3 Def:5),,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,637,2,5,4,9:46 PM,0:32,Nance Jr. BLOCK (2 BLK),,MISS Morant 3' Layup,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,1
+0022200206,639,4,0,4,9:46 PM,0:27,Alvarado REBOUND (Off:0 Def:3),,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,640,2,57,4,9:46 PM,0:13,MISS McCollum 8' Driving Hook Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200206,641,4,0,4,9:46 PM,0:11,,,Konchar REBOUND (Off:2 Def:6),,,5,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200206,649,2,6,4,9:46 PM,0:10,Jones BLOCK (1 BLK),,MISS Morant 3' Driving Layup,,,5,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0
+0022200206,651,4,0,4,9:46 PM,0:08,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200206,647,13,0,4,9:49 PM,0:00,,End of 4th Period (9:49 PM EST),,102 - 113,11,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

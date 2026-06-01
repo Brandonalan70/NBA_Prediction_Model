@@ -1,0 +1,430 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200273,2,12,0,1,7:11 PM,12:00,,Start of 1st Period (7:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200273,4,10,0,1,7:11 PM,12:00,Jump Ball Bol vs. Harrell: Tip to Suggs,,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,1
+0022200273,7,2,78,1,7:11 PM,11:42,MISS Bamba 7' Floating Jump Shot,,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,8,4,0,1,7:11 PM,11:40,Bol REBOUND (Off:1 Def:0),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,9,1,107,1,7:11 PM,11:40,Bol Tip Dunk Shot (2 PTS),,,0 - 2,2,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,11,1,1,1,7:12 PM,11:17,,,Harris 13' Jump Shot (2 PTS) (Milton 1 AST),2 - 2,TIE,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200273,13,6,2,1,7:12 PM,11:08,,,Tucker S.FOUL (P1.T1) (B.Taylor),,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200273,15,3,11,1,7:13 PM,11:08,Banchero Free Throw 1 of 2 (1 PTS),,,2 - 3,1,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,16,3,12,1,7:13 PM,11:08,MISS Banchero Free Throw 2 of 2,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,17,4,0,1,7:13 PM,11:04,,,Melton REBOUND (Off:0 Def:1),,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,18,1,80,1,7:13 PM,10:45,,,Milton 27' 3PT Step Back Jump Shot (3 PTS) (Harrell 1 AST),5 - 3,-2,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200273,20,2,58,1,7:14 PM,10:29,MISS Bamba 6' Turnaround Hook Shot,,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,21,4,0,1,7:14 PM,10:25,,,Tucker REBOUND (Off:0 Def:1),,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,22,2,1,1,7:14 PM,10:13,,,MISS Melton 27' 3PT Jump Shot,,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,23,4,0,1,7:14 PM,10:10,Bol REBOUND (Off:1 Def:1),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,24,2,79,1,7:14 PM,9:48,MISS F. Wagner 27' 3PT Pullup Jump Shot,,Milton BLOCK (1 BLK),,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,1
+0022200273,26,4,0,1,7:14 PM,9:45,,,Milton REBOUND (Off:0 Def:1),,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,27,1,2,1,7:14 PM,9:42,,,Melton 28' 3PT Running Jump Shot (3 PTS) (Milton 2 AST),8 - 3,-5,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200273,29,1,101,1,7:15 PM,9:16,Bol 7' Driving Floating Jump Shot (4 PTS) (Bamba 1 AST),,,8 - 5,-3,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200273,30,2,1,1,7:15 PM,9:00,,,MISS Milton 3PT Jump Shot,,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,31,4,0,1,7:15 PM,8:57,F. Wagner REBOUND (Off:0 Def:1),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,32,1,78,1,7:15 PM,8:49,F. Wagner 8' Floating Jump Shot (2 PTS),,,8 - 7,-1,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,34,1,101,1,7:15 PM,8:35,,,Melton 9' Driving Floating Jump Shot (5 PTS),10 - 7,-3,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,36,1,108,1,7:16 PM,8:17,Bamba 2' Cutting Dunk Shot (2 PTS) (Banchero 1 AST),,,10 - 9,-1,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200273,38,5,45,1,7:16 PM,8:00,,,Harrell Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200273,39,2,79,1,7:17 PM,7:38,MISS Banchero 18' Pullup Jump Shot,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,40,4,0,1,7:17 PM,7:34,,,Harris REBOUND (Off:0 Def:1),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,41,1,6,1,7:17 PM,7:27,,,Harris 3' Driving Layup (4 PTS),12 - 9,-3,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,42,6,2,1,7:17 PM,7:21,,,Harrell S.FOUL (P1.T2) (B.Taylor),,,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200273,44,3,11,1,7:18 PM,7:21,F. Wagner Free Throw 1 of 2 (3 PTS),,,12 - 10,-2,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,45,8,0,1,7:18 PM,7:21,SUB: G. Harris FOR Suggs,,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200273,47,3,12,1,7:18 PM,7:21,F. Wagner Free Throw 2 of 2 (4 PTS),,,12 - 11,-1,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,48,2,1,1,7:18 PM,7:10,,,MISS Harris 26' 3PT Jump Shot,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,49,4,0,1,7:18 PM,7:07,Bol REBOUND (Off:1 Def:2),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,51,9,1,1,7:19 PM,6:57,MAGIC Timeout: Regular (Full 1 Short 0),,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200273,52,2,79,1,7:22 PM,6:50,MISS Banchero 17' Pullup Jump Shot,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,53,4,0,1,7:22 PM,6:46,,,Milton REBOUND (Off:0 Def:2),,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,54,2,1,1,7:22 PM,6:39,,,MISS Melton 25' 3PT Jump Shot,,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,55,4,0,1,7:22 PM,6:36,Bamba REBOUND (Off:0 Def:1),,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,56,1,58,1,7:22 PM,6:25,Bol 7' Turnaround Hook Shot (6 PTS) (Bamba 2 AST),,,12 - 13,1,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200273,58,2,6,1,7:22 PM,6:02,Bamba BLOCK (1 BLK),,MISS Harris 6' Driving Layup,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,1
+0022200273,60,4,0,1,7:22 PM,5:58,G. Harris REBOUND (Off:0 Def:1),,,,,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,61,1,41,1,7:23 PM,5:57,F. Wagner Running Layup (6 PTS) (G. Harris 1 AST),,,12 - 15,3,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200273,63,5,2,1,7:23 PM,5:43,G. Harris STEAL (1 STL),,Harrell Lost Ball Turnover (P2.T2),,,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200273,65,5,1,1,7:23 PM,5:37,G. Harris Bad Pass Turnover (P1.T1),,Harris STEAL (1 STL),,,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200273,67,1,50,1,7:23 PM,5:32,,,Harris 2' Running Dunk (6 PTS),14 - 15,1,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,68,2,6,1,7:23 PM,5:10,MISS G. Harris 2' Driving Layup,,,,,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,69,4,0,1,7:23 PM,5:10,,,Harrell REBOUND (Off:0 Def:1),,,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,70,1,50,1,7:23 PM,5:02,,,Harrell 2' Running Dunk (2 PTS) (Harris 1 AST),16 - 15,-1,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200273,72,2,6,1,7:24 PM,4:49,MISS Banchero 1' Driving Layup,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,73,4,0,1,7:24 PM,4:46,,,Tucker REBOUND (Off:0 Def:2),,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,74,2,80,1,7:24 PM,4:35,,,MISS Harris 10' Step Back Jump Shot,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,75,4,0,1,7:24 PM,4:32,Banchero REBOUND (Off:0 Def:1),,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,77,8,0,1,7:24 PM,4:28,SUB: Hampton FOR F. Wagner,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200273,78,8,0,1,7:24 PM,4:28,,,SUB: Korkmaz FOR Harrell,,,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200273,79,8,0,1,7:24 PM,4:28,,,SUB: Reed FOR Milton,,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200273,83,1,1,1,7:24 PM,4:24,Bamba 24' 3PT Jump Shot (5 PTS) (G. Harris 2 AST),,,16 - 18,2,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200273,85,2,1,1,7:25 PM,4:09,,,MISS Harris 27' 3PT Jump Shot,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,86,4,0,1,7:25 PM,4:06,Bol REBOUND (Off:1 Def:3),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,87,2,1,1,7:25 PM,4:00,MISS Bol 27' 3PT Jump Shot,,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,88,4,0,1,7:25 PM,3:57,,,Harris REBOUND (Off:0 Def:2),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,89,6,1,1,7:25 PM,3:39,Bamba P.FOUL (P1.T1) (B.Taylor),,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200273,91,8,0,1,7:25 PM,3:39,SUB: Houstan FOR Banchero,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200273,92,8,0,1,7:25 PM,3:39,SUB: M. Wagner FOR Bamba,,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200273,93,8,0,1,7:25 PM,3:39,,,SUB: Niang FOR Harris,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200273,97,2,47,1,7:26 PM,3:23,Bol BLOCK (1 BLK),,MISS Korkmaz 22' Turnaround Jump Shot,,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,1
+0022200273,99,4,0,1,7:26 PM,3:19,G. Harris REBOUND (Off:0 Def:2),,,,,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,100,1,41,1,7:26 PM,3:18,Bol Running Layup (8 PTS),,,16 - 20,4,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,101,9,1,1,7:26 PM,3:18,,,76ers Timeout: Regular (Reg.1 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200273,102,1,80,1,7:29 PM,2:59,,,Melton 16' Step Back Jump Shot (7 PTS) (Reed 1 AST),18 - 20,2,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200273,103,1,101,1,7:30 PM,2:37,Hampton 7' Driving Floating Jump Shot (2 PTS) (Bol 1 AST),,,18 - 22,4,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200273,105,5,4,1,7:30 PM,2:29,,,Korkmaz Traveling Turnover (P1.T3),,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200273,106,8,0,1,7:30 PM,2:29,,,SUB: House Jr. FOR Tucker,,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,5,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200273,108,2,1,1,7:30 PM,2:17,MISS Houstan 27' 3PT Jump Shot,,,,,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,109,4,0,1,7:31 PM,2:15,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200273,110,6,3,1,7:31 PM,2:15,,,Reed L.B.FOUL (P1.T3) (J.Sterling),,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200273,112,8,0,1,7:31 PM,2:15,SUB: Suggs FOR Bol,,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200273,114,5,2,1,7:31 PM,2:08,G. Harris Lost Ball Turnover (P2.T2),,Melton STEAL (1 STL),,,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200273,116,1,80,1,7:31 PM,1:58,,,Melton 25' 3PT Step Back Jump Shot (10 PTS) (Niang 1 AST),21 - 22,1,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200273,117,2,79,1,7:32 PM,1:41,MISS Hampton 18' Pullup Jump Shot,,,,,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,118,4,0,1,7:32 PM,1:39,Houstan REBOUND (Off:1 Def:0),,,,,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,119,1,72,1,7:32 PM,1:38,Houstan 1' Putback Layup (2 PTS),,,21 - 24,3,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,122,6,1,1,7:32 PM,1:31,Houstan P.FOUL (P1.T2) (D.Taylor),,,,,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200273,124,8,0,1,7:32 PM,1:31,,,SUB: Milton FOR Melton,,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200273,126,2,80,1,7:32 PM,1:21,,,MISS House Jr. 24' 3PT Step Back Jump Shot,,,5,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,127,4,0,1,7:33 PM,1:18,Hampton REBOUND (Off:0 Def:1),,,,,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,128,1,2,1,7:33 PM,1:11,M. Wagner 3PT Running Jump Shot (3 PTS) (Houstan 1 AST),,,21 - 27,6,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200273,130,2,79,1,7:33 PM,0:51,,,MISS Milton 12' Pullup Jump Shot,,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,131,4,0,1,7:33 PM,0:49,,,Reed REBOUND (Off:1 Def:0),,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,132,1,5,1,7:33 PM,0:46,,,Reed 3' Layup (2 PTS),23 - 27,4,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,134,6,2,1,7:34 PM,0:35,,,Reed S.FOUL (P2.T4) (D.Taylor),,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200273,136,3,11,1,7:34 PM,0:35,M. Wagner Free Throw 1 of 2 (4 PTS),,,23 - 28,5,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,137,3,12,1,7:35 PM,0:35,M. Wagner Free Throw 2 of 2 (5 PTS),,,23 - 29,6,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,138,6,2,1,7:35 PM,0:23,M. Wagner S.FOUL (P1.PN) (D.Taylor),,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200273,140,3,11,1,7:35 PM,0:23,,,MISS Niang Free Throw 1 of 2,,,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,141,4,1,1,7:35 PM,0:23,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200273,142,3,12,1,7:36 PM,0:23,,,Niang Free Throw 2 of 2 (1 PTS),24 - 29,5,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,143,2,1,1,7:36 PM,0:05,MISS M. Wagner 27' 3PT Jump Shot,,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,144,4,0,1,7:36 PM,0:01,,,Milton REBOUND (Off:0 Def:3),,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,147,13,0,1,7:36 PM,0:00,,End of 1st Period (7:36 PM EST),,24 - 29,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200273,148,12,0,2,7:39 PM,12:00,,Start of 2nd Period (7:39 PM EST),,24 - 29,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200273,149,2,1,2,7:39 PM,11:49,,,MISS Niang 26' 3PT Jump Shot,,,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,150,4,0,2,7:39 PM,11:44,Hampton REBOUND (Off:0 Def:2),,,,,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,155,1,9,2,7:40 PM,11:23,Hampton 2' Driving Dunk (4 PTS),,,24 - 31,7,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,156,5,45,2,7:40 PM,11:11,,,Milton Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200273,158,2,71,2,7:41 PM,10:48,MISS G. Harris 10' Finger Roll Layup,,,,,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,159,4,0,2,7:41 PM,10:45,,,Niang REBOUND (Off:0 Def:1),,,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,160,6,2,2,7:41 PM,10:44,Suggs S.FOUL (P1.T1) (J.Sterling),,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200273,162,3,11,2,7:42 PM,10:44,,,Milton Free Throw 1 of 2 (4 PTS),25 - 31,6,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,163,8,0,2,7:42 PM,10:44,,,SUB: Harrell FOR Reed,,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200273,165,3,12,2,7:42 PM,10:44,,,Milton Free Throw 2 of 2 (5 PTS),26 - 31,5,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,166,2,1,2,7:42 PM,10:28,MISS Houstan 26' 3PT Jump Shot,,,,,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,167,4,0,2,7:42 PM,10:24,,,Harrell REBOUND (Off:0 Def:2),,,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,168,6,2,2,7:42 PM,10:15,Hampton S.FOUL (P1.T2) (B.Taylor),,,,,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200273,170,3,11,2,7:43 PM,10:15,,,Milton Free Throw 1 of 2 (6 PTS),27 - 31,4,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,171,3,12,2,7:43 PM,10:15,,,Milton Free Throw 2 of 2 (7 PTS),28 - 31,3,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0022200273,172,5,2,2,7:44 PM,9:54,Hampton Lost Ball Turnover (P1.T3),,Milton STEAL (1 STL),,,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200273,174,5,4,2,7:44 PM,9:48,,,Niang Traveling Turnover (P1.T5),,,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200273,175,1,73,2,7:44 PM,9:30,M. Wagner 2' Driving Reverse Layup (7 PTS),,,28 - 33,5,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,176,1,1,2,7:44 PM,9:21,,,Niang 27' 3PT Jump Shot (4 PTS) (Milton 3 AST),31 - 33,2,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200273,178,2,1,2,7:45 PM,9:01,MISS M. Wagner 25' 3PT Jump Shot,,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,179,4,0,2,7:45 PM,8:58,Houstan REBOUND (Off:2 Def:0),,,,,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,180,1,97,2,7:45 PM,8:56,Houstan Tip Layup Shot (4 PTS),,,31 - 35,4,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,181,6,1,2,7:45 PM,8:49,M. Wagner P.FOUL (P2.T3) (J.Sterling),,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200273,183,8,0,2,7:45 PM,8:49,SUB: F. Wagner FOR G. Harris,,,,,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200273,184,8,0,2,7:45 PM,8:49,,,SUB: Harris FOR Niang,,,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200273,187,2,6,2,7:45 PM,8:38,,,MISS Milton 2' Driving Layup,,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,189,4,0,2,7:46 PM,8:34,M. Wagner REBOUND (Off:0 Def:1),,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,191,8,0,2,7:46 PM,8:28,SUB: Banchero FOR Houstan,,,,,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200273,193,5,45,2,7:46 PM,8:25,M. Wagner Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022200273,194,2,79,2,7:46 PM,8:05,,,MISS Korkmaz 27' 3PT Pullup Jump Shot,,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,195,4,0,2,7:47 PM,8:01,M. Wagner REBOUND (Off:0 Def:2),,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,196,2,2,2,7:47 PM,7:59,MISS M. Wagner 25' 3PT Running Jump Shot,,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,197,4,0,2,7:47 PM,7:59,,,Harris REBOUND (Off:0 Def:3),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,201,8,0,2,7:47 PM,7:52,SUB: Bamba FOR M. Wagner,,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200273,203,1,1,2,7:47 PM,7:43,,,Korkmaz 28' 3PT Jump Shot (3 PTS) (Milton 4 AST),34 - 35,1,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200273,205,6,1,2,7:48 PM,7:30,,,Harris P.FOUL (P1.T1) (D.Taylor),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200273,207,8,0,2,7:48 PM,7:30,,,SUB: Tucker FOR House Jr.,,,5,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200273,208,8,0,2,7:48 PM,7:30,,,SUB: Melton FOR Korkmaz,,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200273,211,1,1,2,7:48 PM,7:21,Banchero 3PT Jump Shot (4 PTS) (Bamba 3 AST),,,34 - 38,4,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200273,213,2,5,2,7:49 PM,7:03,Suggs BLOCK (1 BLK),,MISS Harrell 5' Layup,,,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,1
+0022200273,215,4,0,2,7:49 PM,6:59,Suggs REBOUND (Off:0 Def:1),,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,216,1,100,2,7:49 PM,6:56,F. Wagner 1' Running Alley Oop Layup Shot (8 PTS) (Suggs 1 AST),,,34 - 40,6,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200273,218,1,6,2,7:49 PM,6:43,,,Harris 7' Driving Layup (8 PTS),36 - 40,4,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,219,1,102,2,7:49 PM,6:27,Banchero 5' Driving Floating Bank Jump Shot (6 PTS),,,36 - 42,6,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,220,1,1,2,7:49 PM,6:12,,,Milton 25' 3PT Jump Shot (10 PTS) (Melton 1 AST),39 - 42,3,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200273,222,1,1,2,7:50 PM,5:55,Hampton 3PT Jump Shot (7 PTS) (Suggs 2 AST),,,39 - 45,6,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200273,224,6,2,2,7:50 PM,5:36,F. Wagner S.FOUL (P1.T4) (J.Sterling),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200273,226,9,1,2,7:50 PM,5:36,MAGIC Timeout: Regular (Full 2 Short 0),,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200273,227,8,0,2,7:50 PM,5:36,SUB: Bol FOR Suggs,,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200273,229,3,11,2,7:53 PM,5:36,,,Harris Free Throw 1 of 2 (9 PTS),40 - 45,5,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,230,3,12,2,7:54 PM,5:36,,,Harris Free Throw 2 of 2 (10 PTS),41 - 45,4,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,231,1,78,2,7:54 PM,5:18,Bol 4' Floating Jump Shot (10 PTS) (Banchero 2 AST),,,41 - 47,6,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200273,233,1,101,2,7:54 PM,4:59,,,Milton 11' Driving Floating Jump Shot (12 PTS),43 - 47,4,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,234,2,86,2,7:55 PM,4:38,MISS Bamba 13' Turnaround Fadeaway Shot,,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,235,4,0,2,7:55 PM,4:35,,,Harris REBOUND (Off:0 Def:4),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,236,1,5,2,7:55 PM,4:23,,,Harrell 3' Layup (4 PTS) (Harris 2 AST),45 - 47,2,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200273,238,2,80,2,7:55 PM,4:17,MISS Banchero 26' 3PT Step Back Jump Shot,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,239,4,0,2,7:55 PM,4:13,,,Milton REBOUND (Off:0 Def:4),,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,240,2,41,2,7:55 PM,4:08,,,MISS Harrell 6' Running Layup,,,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,241,4,0,2,7:55 PM,4:05,Bamba REBOUND (Off:0 Def:2),,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,242,2,1,2,7:56 PM,3:49,MISS Bamba 24' 3PT Jump Shot,,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,243,4,0,2,7:56 PM,3:45,Banchero REBOUND (Off:1 Def:1),,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,244,2,1,2,7:56 PM,3:44,MISS Hampton 26' 3PT Jump Shot,,,,,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,245,4,0,2,7:56 PM,3:39,,,Harrell REBOUND (Off:0 Def:3),,,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,246,5,1,2,7:56 PM,3:36,Hampton STEAL (1 STL),,Harris Bad Pass Turnover (P1.T6),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200273,248,2,47,2,7:56 PM,3:19,MISS Banchero 10' Turnaround Jump Shot,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,250,4,0,2,7:56 PM,3:16,,,Harris REBOUND (Off:0 Def:5),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,251,2,2,2,7:56 PM,3:12,,,MISS Tucker 3PT Running Jump Shot,,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,252,4,0,2,7:56 PM,3:08,,,Harrell REBOUND (Off:1 Def:3),,,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,253,5,13,2,7:56 PM,3:08,,,Tucker Backcourt Turnover (P1.T7),,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200273,254,8,0,2,7:56 PM,3:08,SUB: G. Harris FOR Hampton,,,,,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200273,256,6,1,2,7:57 PM,3:00,,,Melton P.FOUL (P1.T2) (B.Taylor),,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200273,258,2,79,2,7:57 PM,2:47,MISS F. Wagner 26' 3PT Pullup Jump Shot,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,259,4,0,2,7:58 PM,2:43,G. Harris REBOUND (Off:1 Def:2),,,,,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,260,1,1,2,7:58 PM,2:42,Bol 25' 3PT Jump Shot (13 PTS) (G. Harris 3 AST),,,45 - 50,5,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200273,262,9,1,2,7:58 PM,2:42,,,76ers Timeout: Regular (Reg.2 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200273,264,8,0,2,7:58 PM,2:42,,,SUB: Reed FOR Harrell,,,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200273,266,1,1,2,8:01 PM,2:22,,,Melton 3PT Jump Shot (13 PTS) (Tucker 1 AST),48 - 50,2,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200273,268,5,4,2,8:01 PM,1:59,Bamba Traveling Turnover (P1.T5),,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022200273,269,2,79,2,8:02 PM,1:36,Bol BLOCK (2 BLK),,MISS Milton 30' 3PT Pullup Jump Shot,,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,1
+0022200273,270,4,0,2,8:02 PM,1:33,,,Tucker REBOUND (Off:1 Def:2),,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,271,2,47,2,8:02 PM,1:31,,,MISS Tucker 6' Turnaround Jump Shot,,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,272,4,0,2,8:02 PM,1:29,,,Reed REBOUND (Off:2 Def:0),,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,273,2,1,2,8:02 PM,1:28,,,MISS Melton 27' 3PT Jump Shot,,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,274,4,0,2,8:02 PM,1:28,,,Milton REBOUND (Off:1 Def:4),,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,275,5,1,2,8:02 PM,1:21,Bol STEAL (1 STL),,Milton Bad Pass Turnover (P2.T8),,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200273,277,1,2,2,8:02 PM,1:16,Bol 13' Running Jump Shot (15 PTS),,,48 - 52,4,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,278,1,86,2,8:02 PM,1:00,,,Harris 8' Turnaround Fadeaway (12 PTS),50 - 52,2,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,279,6,26,2,8:03 PM,0:51,Banchero Offensive Charge Foul (P1) (D.Taylor),,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200273,281,5,37,2,8:03 PM,0:51,Banchero Offensive Foul Turnover (P1.T6),,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022200273,282,1,105,2,8:03 PM,0:33,,,Harris 15' Turnaround Fadeaway Bank Jump Shot (14 PTS),52 - 52,TIE,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,283,6,2,2,8:04 PM,0:28,,,Reed S.FOUL (P3.T3) (D.Taylor),,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200273,285,3,11,2,8:04 PM,0:28,F. Wagner Free Throw 1 of 2 (9 PTS),,,52 - 53,1,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,286,8,0,2,8:04 PM,0:28,,,SUB: Niang FOR Reed,,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200273,288,3,12,2,8:04 PM,0:28,F. Wagner Free Throw 2 of 2 (10 PTS),,,52 - 54,2,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,290,2,5,2,8:05 PM,0:04,,,MISS Tucker 4' Layup,,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,291,4,0,2,8:05 PM,0:01,Banchero REBOUND (Off:1 Def:2),,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,292,6,2,2,8:05 PM,0:01,,,Melton S.FOUL (P2.PN) (J.Sterling),,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200273,294,3,13,2,8:05 PM,0:01,MISS Banchero Free Throw 1 of 3,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,295,4,1,2,8:05 PM,0:01,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200273,296,3,14,2,8:06 PM,0:01,Banchero Free Throw 2 of 3 (7 PTS),,,52 - 55,3,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,297,8,0,2,8:06 PM,0:01,,,SUB: House Jr. FOR Melton,,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,5,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200273,299,3,15,2,8:06 PM,0:01,Banchero Free Throw 3 of 3 (8 PTS),,,52 - 56,4,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,300,13,0,2,8:06 PM,0:00,,End of 2nd Period (8:06 PM EST),,52 - 56,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200273,307,12,0,3,8:22 PM,12:00,,Start of 3rd Period (8:22 PM EST),,52 - 56,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200273,308,2,79,3,8:22 PM,11:39,,,MISS Melton 11' Pullup Jump Shot,,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,309,4,0,3,8:22 PM,11:36,Bamba REBOUND (Off:0 Def:3),,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,310,2,1,3,8:22 PM,11:22,MISS Suggs 24' 3PT Jump Shot,,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,311,4,0,3,8:22 PM,11:18,Banchero REBOUND (Off:2 Def:2),,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,312,1,79,3,8:22 PM,11:11,Banchero 16' Pullup Jump Shot (10 PTS),,,52 - 58,6,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,313,2,79,3,8:23 PM,10:59,,,MISS Harris 27' 3PT Pullup Jump Shot,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,314,4,0,3,8:23 PM,10:56,,,Tucker REBOUND (Off:2 Def:2),,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,315,1,6,3,8:23 PM,10:47,,,Harris 2' Driving Layup (16 PTS),54 - 58,4,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,316,5,4,3,8:23 PM,10:27,Banchero Traveling Turnover (P2.T7),,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022200273,317,5,40,3,8:24 PM,10:11,,,Harris Out of Bounds Lost Ball Turnover (P2.T9),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200273,318,1,102,3,8:24 PM,10:00,Banchero 6' Driving Floating Bank Jump Shot (12 PTS) (Suggs 3 AST),,,54 - 60,6,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200273,320,1,1,3,8:24 PM,9:45,,,Milton 26' 3PT Jump Shot (15 PTS) (Harris 3 AST),57 - 60,3,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200273,322,2,75,3,8:24 PM,9:36,MISS F. Wagner 3' Driving Finger Roll Layup,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,324,4,0,3,8:24 PM,9:36,,,Tucker REBOUND (Off:2 Def:3),,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,325,1,50,3,8:25 PM,9:31,,,Harris 1' Running Dunk (18 PTS) (Milton 5 AST),59 - 60,1,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200273,327,2,63,3,8:25 PM,9:05,MISS Bol 12' Fadeaway Jumper,,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,328,4,0,3,8:25 PM,9:02,,,Harris REBOUND (Off:0 Def:6),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,329,1,2,3,8:25 PM,8:58,,,Milton 27' 3PT Running Jump Shot (18 PTS) (Harris 4 AST),62 - 60,-2,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200273,331,9,1,3,8:25 PM,8:57,MAGIC Timeout: Regular (Full 3 Short 0),,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200273,332,5,40,3,8:28 PM,8:44,Suggs Out of Bounds Lost Ball Turnover (P1.T8),,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022200273,333,1,108,3,8:29 PM,8:19,,,Harrell 1' Cutting Dunk Shot (6 PTS) (Milton 6 AST),64 - 60,-4,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200273,335,2,79,3,8:29 PM,8:04,MISS Banchero 17' Pullup Jump Shot,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,336,4,0,3,8:29 PM,8:00,F. Wagner REBOUND (Off:1 Def:1),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,337,2,1,3,8:29 PM,7:53,MISS Suggs 27' 3PT Jump Shot,,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,338,4,0,3,8:29 PM,7:49,,,Harrell REBOUND (Off:1 Def:4),,,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,339,2,79,3,8:29 PM,7:38,,,MISS Melton 28' 3PT Pullup Jump Shot,,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,340,4,0,3,8:29 PM,7:35,Bol REBOUND (Off:1 Def:4),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,341,2,101,3,8:30 PM,7:29,MISS Bol 8' Driving Floating Jump Shot,,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,342,4,0,3,8:30 PM,7:26,,,Harrell REBOUND (Off:1 Def:5),,,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,343,2,1,3,8:30 PM,7:20,Bol BLOCK (3 BLK),,MISS Harris 3PT Jump Shot,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,1
+0022200273,345,4,0,3,8:30 PM,7:20,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200273,346,2,1,3,8:30 PM,7:07,,,MISS Melton 3PT Jump Shot,,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,347,4,0,3,8:30 PM,7:04,Bol REBOUND (Off:1 Def:5),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,348,1,76,3,8:30 PM,6:58,F. Wagner 2' Running Finger Roll Layup (12 PTS) (Suggs 4 AST),,,64 - 62,-2,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200273,350,1,6,3,8:31 PM,6:34,,,Harrell 3' Driving Layup (8 PTS),66 - 62,-4,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,351,5,40,3,8:31 PM,6:26,Suggs Out of Bounds Lost Ball Turnover (P2.T9),,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022200273,352,8,0,3,8:31 PM,6:26,SUB: G. Harris FOR Suggs,,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200273,354,1,73,3,8:32 PM,6:09,,,Milton 1' Driving Reverse Layup (20 PTS) (Harris 5 AST),68 - 62,-6,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200273,356,1,1,3,8:32 PM,5:52,F. Wagner 28' 3PT Jump Shot (15 PTS) (Bamba 4 AST),,,68 - 65,-3,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200273,358,1,1,3,8:32 PM,5:28,,,Harris 3PT Jump Shot (21 PTS) (Milton 7 AST),71 - 65,-6,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200273,360,2,1,3,8:33 PM,5:07,MISS Bamba 27' 3PT Jump Shot,,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,361,4,0,3,8:33 PM,5:03,,,Harris REBOUND (Off:0 Def:7),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,362,2,1,3,8:33 PM,4:56,,,MISS Milton 25' 3PT Jump Shot,,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,363,4,0,3,8:33 PM,4:54,,,Milton REBOUND (Off:2 Def:4),,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,364,6,2,3,8:33 PM,4:54,Bamba S.FOUL (P2.T1) (D.Taylor),,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200273,366,3,11,3,8:33 PM,4:54,,,Milton Free Throw 1 of 2 (21 PTS),72 - 65,-7,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,367,8,0,3,8:33 PM,4:54,SUB: M. Wagner FOR Bamba,,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200273,369,3,12,3,8:34 PM,4:54,,,Milton Free Throw 2 of 2 (22 PTS),73 - 65,-8,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,370,2,6,3,8:34 PM,4:37,MISS G. Harris 4' Driving Layup,,,,,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,371,4,0,3,8:34 PM,4:37,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200273,372,1,57,3,8:34 PM,4:29,G. Harris 3' Driving Hook Shot (2 PTS) (Banchero 3 AST),,,73 - 67,-6,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200273,374,2,79,3,8:35 PM,4:04,,,MISS Harris 13' Pullup Jump Shot,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,375,4,0,3,8:35 PM,4:00,Bol REBOUND (Off:1 Def:6),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,377,8,0,3,8:35 PM,3:47,,,SUB: Korkmaz FOR Tucker,,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200273,378,8,0,3,8:35 PM,3:47,,,SUB: Niang FOR Milton,,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200273,381,2,1,3,8:36 PM,3:43,MISS M. Wagner 27' 3PT Jump Shot,,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,382,4,0,3,8:36 PM,3:39,,,Korkmaz REBOUND (Off:0 Def:1),,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,383,2,101,3,8:36 PM,3:27,,,MISS Melton 10' Driving Floating Jump Shot,,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,384,4,0,3,8:36 PM,3:24,M. Wagner REBOUND (Off:0 Def:3),,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,385,6,2,3,8:36 PM,3:23,,,Korkmaz S.FOUL (P1.T1) (D.Taylor),,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200273,387,3,11,3,8:36 PM,3:23,Banchero Free Throw 1 of 2 (13 PTS),,,73 - 68,-5,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,388,8,0,3,8:37 PM,3:23,SUB: Hampton FOR F. Wagner,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200273,390,3,12,3,8:37 PM,3:23,Banchero Free Throw 2 of 2 (14 PTS),,,73 - 69,-4,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,391,9,1,3,8:37 PM,3:23,,,76ers Timeout: Regular (Reg.3 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200273,392,8,0,3,8:39 PM,3:23,,,SUB: House Jr. FOR Harris,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200273,394,2,1,3,8:40 PM,2:59,,,MISS Niang 24' 3PT Jump Shot,,,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,395,4,0,3,8:40 PM,2:57,,,Harrell REBOUND (Off:2 Def:5),,,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,396,2,72,3,8:40 PM,2:55,,,MISS Harrell 3' Putback Layup,,,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,397,4,0,3,8:40 PM,2:55,,,Harrell REBOUND (Off:3 Def:5),,,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,398,6,2,3,8:40 PM,2:54,M. Wagner S.FOUL (P3.T2) (D.Taylor),,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200273,400,3,11,3,8:41 PM,2:54,,,Harrell Free Throw 1 of 2 (9 PTS),74 - 69,-5,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,401,3,12,3,8:41 PM,2:54,,,Harrell Free Throw 2 of 2 (10 PTS),75 - 69,-6,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,402,5,1,3,8:42 PM,2:35,Banchero Bad Pass Turnover (P3.T10),,Melton STEAL (2 STL),,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200273,404,1,50,3,8:42 PM,2:28,,,House Jr. Running Dunk (2 PTS) (Melton 2 AST),77 - 69,-8,5,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200273,406,2,1,3,8:42 PM,2:12,MISS Hampton 3PT Jump Shot,,,,,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,407,4,0,3,8:42 PM,2:08,,,Melton REBOUND (Off:0 Def:2),,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,408,5,1,3,8:42 PM,1:59,M. Wagner STEAL (1 STL),,Korkmaz Bad Pass Turnover (P2.T10),,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200273,410,6,1,3,8:42 PM,1:50,,,Melton P.FOUL (P3.T2) (B.Taylor),,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200273,412,8,0,3,8:43 PM,1:50,SUB: Houstan FOR Banchero,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200273,413,8,0,3,8:43 PM,1:50,,,SUB: Reed FOR Harrell,,,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200273,416,1,1,3,8:43 PM,1:36,G. Harris 24' 3PT Jump Shot (5 PTS) (Houstan 2 AST),,,77 - 72,-5,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200273,418,1,1,3,8:43 PM,1:25,,,Niang 25' 3PT Jump Shot (7 PTS) (Melton 3 AST),80 - 72,-8,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200273,420,2,6,3,8:44 PM,1:08,MISS Hampton 2' Driving Layup,,,,,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,421,4,0,3,8:44 PM,1:02,Bol REBOUND (Off:2 Def:6),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,422,1,97,3,8:44 PM,1:02,Bol Tip Layup Shot (17 PTS),,,80 - 74,-6,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,423,6,2,3,8:44 PM,1:00,G. Harris S.FOUL (P1.T3) (D.Taylor),,,,,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200273,425,3,11,3,8:44 PM,1:00,,,MISS Melton Free Throw 1 of 2,,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,426,4,1,3,8:44 PM,1:00,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200273,427,3,12,3,8:44 PM,1:00,,,MISS Melton Free Throw 2 of 2,,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,428,4,0,3,8:44 PM,0:56,M. Wagner REBOUND (Off:0 Def:4),,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,429,1,98,3,8:45 PM,0:46,G. Harris 2' Cutting Layup Shot (7 PTS) (Bol 2 AST),,,80 - 76,-4,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200273,431,2,79,3,8:45 PM,0:34,,,MISS Melton 27' 3PT Pullup Jump Shot,,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,432,4,0,3,8:45 PM,0:33,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200273,433,8,0,3,8:45 PM,0:33,,,SUB: Milton FOR Melton,,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200273,435,2,79,3,8:46 PM,0:22,MISS Bol 19' Pullup Jump Shot,,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,436,4,0,3,8:46 PM,0:18,,,Reed REBOUND (Off:2 Def:1),,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,437,1,75,3,8:46 PM,0:02,,,Niang 2' Driving Finger Roll Layup (9 PTS),82 - 76,-6,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,438,13,0,3,8:46 PM,0:00,,End of 3rd Period (8:46 PM EST),,82 - 76,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200273,441,12,0,4,8:49 PM,12:00,,Start of 4th Period (8:49 PM EST),,82 - 76,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200273,442,10,0,4,8:50 PM,11:41,Jump Ball F. Wagner vs. Reed: Tip to Niang,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0
+0022200273,445,5,2,4,8:50 PM,11:41,F. Wagner Lost Ball Turnover (P1.T11),,Reed STEAL (1 STL),,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200273,447,1,1,4,8:50 PM,11:31,,,Niang 25' 3PT Jump Shot (12 PTS) (Milton 8 AST),85 - 76,-9,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200273,449,1,6,4,8:50 PM,11:16,F. Wagner 2' Driving Layup (17 PTS),,,85 - 78,-7,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,450,6,2,4,8:50 PM,11:16,,,House Jr. S.FOUL (P1.T1) (D.Taylor),,,5,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200273,452,3,10,4,8:51 PM,11:16,MISS F. Wagner Free Throw 1 of 1,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,453,4,0,4,8:51 PM,11:15,M. Wagner REBOUND (Off:1 Def:4),,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,454,2,97,4,8:51 PM,11:15,MISS M. Wagner Tip Layup Shot,,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,455,4,0,4,8:51 PM,11:15,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200273,456,6,26,4,8:51 PM,11:10,G. Harris Offensive Charge Foul (P2) (J.Sterling),,,,,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,5,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200273,458,5,37,4,8:51 PM,11:10,G. Harris Offensive Foul Turnover (P3.T12),,,,,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022200273,459,2,63,4,8:52 PM,10:55,,,MISS Korkmaz 17' Fadeaway Jumper,,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,460,4,0,4,8:52 PM,10:55,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200273,462,1,80,4,8:52 PM,10:38,,,Korkmaz 21' Step Back Jump Shot (5 PTS),87 - 78,-9,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,463,1,1,4,8:53 PM,10:20,Houstan 3PT Jump Shot (7 PTS) (Hampton 1 AST),,,87 - 81,-6,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200273,465,1,7,4,8:53 PM,10:02,,,Reed 2' Dunk (4 PTS) (Niang 2 AST),89 - 81,-8,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200273,467,2,1,4,8:53 PM,9:45,MISS M. Wagner 27' 3PT Jump Shot,,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,468,4,0,4,8:53 PM,9:44,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200273,470,1,1,4,8:54 PM,9:36,Hampton 28' 3PT Jump Shot (10 PTS) (F. Wagner 1 AST),,,89 - 84,-5,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200273,472,2,6,4,8:54 PM,9:15,,,MISS Milton Driving Layup,,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,473,4,0,4,8:54 PM,9:14,,,Reed REBOUND (Off:3 Def:1),,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,523,2,107,4,8:54 PM,9:14,,,MISS Reed 1' Tip Dunk Shot,,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,524,4,0,4,8:54 PM,9:13,,,Reed REBOUND (Off:4 Def:1),,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,474,1,72,4,8:54 PM,9:11,,,Reed 1' Putback Layup (6 PTS),91 - 84,-7,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,475,2,1,4,8:54 PM,8:51,MISS G. Harris 26' 3PT Jump Shot,,,,,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,476,4,0,4,8:54 PM,8:49,,,House Jr. REBOUND (Off:0 Def:1),,,5,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,477,2,103,4,8:54 PM,8:46,,,MISS Korkmaz 27' 3PT Running Pull-Up Jump Shot,,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,478,4,0,4,8:54 PM,8:45,,,Korkmaz REBOUND (Off:1 Def:1),,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,479,6,2,4,8:55 PM,8:45,Houstan S.FOUL (P2.T1) (B.Taylor),,,,,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200273,481,3,11,4,8:55 PM,8:45,,,Korkmaz Free Throw 1 of 2 (6 PTS),92 - 84,-8,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,482,8,0,4,8:55 PM,8:45,SUB: Banchero FOR G. Harris,,,,,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200273,483,8,0,4,8:55 PM,8:45,,,SUB: Harris FOR House Jr.,,,5,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200273,486,3,12,4,8:55 PM,8:45,,,Korkmaz Free Throw 2 of 2 (7 PTS),93 - 84,-9,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,487,2,79,4,8:56 PM,8:24,MISS F. Wagner 31' 3PT Pullup Jump Shot,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,488,4,0,4,8:56 PM,8:20,,,Milton REBOUND (Off:2 Def:5),,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,489,2,96,4,8:56 PM,8:01,,,MISS Reed 6' Turnaround Bank Hook Shot,,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,490,4,0,4,8:56 PM,7:57,F. Wagner REBOUND (Off:1 Def:2),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,491,6,1,4,8:56 PM,7:55,,,Niang P.FOUL (P1.T2) (B.Taylor),,,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200273,493,8,0,4,8:56 PM,7:55,SUB: Bamba FOR M. Wagner,,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200273,495,8,0,4,8:57 PM,7:55,,,SUB: Melton FOR Korkmaz,,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200273,497,6,2,4,8:57 PM,7:47,,,Reed S.FOUL (P4.T3) (D.Taylor),,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200273,499,3,11,4,8:57 PM,7:47,F. Wagner Free Throw 1 of 2 (18 PTS),,,93 - 85,-8,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,500,3,12,4,8:58 PM,7:47,F. Wagner Free Throw 2 of 2 (19 PTS),,,93 - 86,-7,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,501,6,1,4,8:58 PM,7:40,F. Wagner P.FOUL (P2.T2) (D.Taylor),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200273,503,8,0,4,8:58 PM,7:40,SUB: Bol FOR F. Wagner,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200273,506,2,1,4,8:59 PM,7:22,,,MISS Reed 26' 3PT Jump Shot,,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,507,4,0,4,8:59 PM,7:18,Hampton REBOUND (Off:0 Def:3),,,,,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,508,2,1,4,8:59 PM,7:10,MISS Houstan 3PT Jump Shot,,,,,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,509,4,0,4,8:59 PM,7:06,,,Harris REBOUND (Off:0 Def:8),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,510,1,80,4,9:00 PM,6:57,,,Niang 26' 3PT Step Back Jump Shot (15 PTS) (Milton 9 AST),96 - 86,-10,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200273,512,9,1,4,9:00 PM,6:56,MAGIC Timeout: Regular (Full 4 Short 0),,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200273,513,8,0,4,9:01 PM,6:56,SUB: F. Wagner FOR Houstan,,,,,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200273,515,6,2,4,9:03 PM,6:43,,,Harris S.FOUL (P2.T4) (J.Sterling),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200273,517,3,11,4,9:03 PM,6:43,MISS Banchero Free Throw 1 of 2,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,518,4,1,4,9:03 PM,6:43,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200273,519,3,12,4,9:04 PM,6:43,Banchero Free Throw 2 of 2 (15 PTS),,,96 - 87,-9,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,520,5,4,4,9:04 PM,6:32,,,Milton Traveling Turnover (P3.T11),,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200273,521,1,6,4,9:04 PM,6:19,Banchero 4' Driving Layup (17 PTS),,,96 - 89,-7,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,522,7,2,4,9:04 PM,6:19,,,Reed Violation:Defensive Goaltending (J.Sterling),,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200273,525,2,101,4,9:05 PM,5:57,,,MISS Melton 9' Driving Floating Jump Shot,,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,526,4,0,4,9:05 PM,5:54,Bamba REBOUND (Off:0 Def:4),,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,527,6,1,4,9:05 PM,5:46,,,Milton P.FOUL (P1.PN) (D.Taylor),,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200273,529,3,11,4,9:06 PM,5:46,Bamba Free Throw 1 of 2 (6 PTS),,,96 - 90,-6,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,530,3,12,4,9:06 PM,5:46,Bamba Free Throw 2 of 2 (7 PTS),,,96 - 91,-5,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,531,1,101,4,9:06 PM,5:23,,,Harris 13' Driving Floating Jump Shot (23 PTS),98 - 91,-7,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,532,2,6,4,9:06 PM,5:08,MISS Hampton 1' Driving Layup,,,,,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,533,4,0,4,9:07 PM,5:04,,,Harris REBOUND (Off:0 Def:9),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,534,1,2,4,9:07 PM,5:01,,,Milton 23' Running Jump Shot (24 PTS) (Melton 4 AST),100 - 91,-9,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200273,536,5,2,4,9:07 PM,4:43,Banchero Lost Ball Turnover (P4.T13),,Melton STEAL (3 STL),,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200273,538,2,41,4,9:07 PM,4:38,Bol BLOCK (4 BLK),,MISS Harris 2' Running Layup,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,1
+0022200273,540,4,0,4,9:07 PM,4:34,Hampton REBOUND (Off:0 Def:4),,,,,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,541,2,78,4,9:07 PM,4:31,MISS Bol 7' Floating Jump Shot,,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,542,4,0,4,9:07 PM,4:29,,,Reed REBOUND (Off:4 Def:2),,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,543,5,1,4,9:08 PM,4:06,Bamba STEAL (1 STL),,Melton Bad Pass Turnover (P1.T12),,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200273,545,2,2,4,9:08 PM,4:01,MISS Hampton 27' 3PT Running Jump Shot,,,,,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,546,4,0,4,9:08 PM,3:55,,,Melton REBOUND (Off:0 Def:3),,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,547,9,1,4,9:08 PM,3:52,,,76ers Timeout: Regular (Reg.4 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200273,548,8,0,4,9:10 PM,3:52,SUB: G. Harris FOR Bamba,,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200273,550,2,44,4,9:11 PM,3:38,,,MISS Reed 1' Reverse Layup,,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,551,4,0,4,9:11 PM,3:38,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200273,552,5,1,4,9:11 PM,3:30,F. Wagner Bad Pass Turnover (P2.T14),,Melton STEAL (4 STL),,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200273,554,2,50,4,9:11 PM,3:28,,,MISS Harris 3' Running Dunk,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,556,4,0,4,9:11 PM,3:27,F. Wagner REBOUND (Off:1 Def:3),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,557,6,1,4,9:12 PM,3:26,,,Reed P.FOUL (P5.PN) (J.Sterling),,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200273,559,3,11,4,9:12 PM,3:26,F. Wagner Free Throw 1 of 2 (20 PTS),,,100 - 92,-8,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,560,3,12,4,9:12 PM,3:26,F. Wagner Free Throw 2 of 2 (21 PTS),,,100 - 93,-7,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,561,9,1,4,9:13 PM,3:26,,,76ers Timeout: Regular (Reg.5 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200273,562,2,1,4,9:14 PM,3:04,,,MISS Harris 3PT Jump Shot,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,563,4,0,4,9:14 PM,3:00,,,Reed REBOUND (Off:5 Def:2),,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,564,1,1,4,9:15 PM,2:58,,,Niang 26' 3PT Jump Shot (18 PTS) (Reed 2 AST),103 - 93,-10,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200273,566,1,6,4,9:15 PM,2:42,F. Wagner 4' Driving Layup (23 PTS),,,103 - 95,-8,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,567,6,2,4,9:15 PM,2:42,,,Milton S.FOUL (P2.PN) (B.Taylor),,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200273,569,3,10,4,9:15 PM,2:42,F. Wagner Free Throw 1 of 1 (24 PTS),,,103 - 96,-7,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,570,5,40,4,9:16 PM,2:29,,,Melton Out of Bounds Lost Ball Turnover (P2.T13),,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200273,571,6,2,4,9:16 PM,2:16,,,Reed S.FOUL (P6.PN) (D.Taylor),,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200273,573,8,0,4,9:16 PM,2:16,,,SUB: Harrell FOR Reed,,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200273,575,3,11,4,9:16 PM,2:16,Banchero Free Throw 1 of 2 (18 PTS),,,103 - 97,-6,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,576,3,12,4,9:17 PM,2:16,Banchero Free Throw 2 of 2 (19 PTS),,,103 - 98,-5,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,577,2,1,4,9:17 PM,1:53,,,MISS Harris 27' 3PT Jump Shot,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,578,4,0,4,9:17 PM,1:52,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200273,579,2,1,4,9:18 PM,1:29,MISS Bol 26' 3PT Jump Shot,,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,580,4,0,4,9:18 PM,1:25,,,Melton REBOUND (Off:0 Def:4),,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,581,10,0,4,9:19 PM,1:22,Jump Ball Banchero vs. Melton: Tip to F. Wagner,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1
+0022200273,584,5,2,4,9:19 PM,1:22,Banchero STEAL (1 STL),,Melton Lost Ball Turnover (P3.T14),,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200273,586,2,79,4,9:19 PM,1:19,MISS F. Wagner 27' 3PT Pullup Jump Shot,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,587,4,0,4,9:19 PM,1:16,,,Milton REBOUND (Off:2 Def:6),,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,588,1,50,4,9:19 PM,1:13,,,Harrell 1' Running Dunk (12 PTS) (Milton 10 AST),105 - 98,-7,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200273,590,2,1,4,9:19 PM,1:02,MISS G. Harris 24' 3PT Jump Shot,,,,,4,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,591,4,0,4,9:19 PM,0:58,,,Harris REBOUND (Off:0 Def:10),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,592,5,1,4,9:19 PM,0:46,F. Wagner STEAL (1 STL),,Milton Bad Pass Turnover (P4.T15),,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200273,594,2,1,4,9:19 PM,0:38,MISS Hampton 26' 3PT Jump Shot,,,,,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,595,4,0,4,9:19 PM,0:38,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200273,596,6,3,4,9:20 PM,0:38,,,Melton L.B.FOUL (P4.PN) (B.Taylor),,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200273,598,3,11,4,9:20 PM,0:38,MISS Bol Free Throw 1 of 2,,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,599,4,1,4,9:20 PM,0:38,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200273,600,3,12,4,9:20 PM,0:38,Bol Free Throw 2 of 2 (18 PTS),,,105 - 99,-6,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,601,6,2,4,9:20 PM,0:30,Bol S.FOUL (P1.T3) (B.Taylor),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200273,603,3,11,4,9:21 PM,0:30,,,Harrell Free Throw 1 of 2 (13 PTS),106 - 99,-7,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,604,3,12,4,9:21 PM,0:30,,,Harrell Free Throw 2 of 2 (14 PTS),107 - 99,-8,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,605,9,1,4,9:22 PM,0:30,MAGIC Timeout: Regular (Full 5 Short 0),,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200273,606,2,79,4,9:23 PM,0:27,MISS Banchero 24' 3PT Pullup Jump Shot,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200273,607,4,0,4,9:23 PM,0:24,,,Milton REBOUND (Off:2 Def:7),,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200273,608,5,11,4,9:24 PM,0:02,,,76ers Turnover: Shot Clock (T#16),,,3,1610612755,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200273,609,13,0,4,9:24 PM,0:00,,End of 4th Period (9:24 PM EST),,107 - 99,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

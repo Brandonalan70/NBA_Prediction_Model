@@ -1,0 +1,481 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200409,2,12,0,1,7:11 PM,12:00,,Start of 1st Period (7:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200409,4,10,0,1,7:11 PM,12:00,Jump Ball Embiid vs. Sabonis: Tip to Tucker,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,1
+0022200409,7,1,63,1,7:11 PM,11:39,Embiid 12' Fadeaway Jumper (2 PTS) (Harris 1 AST),,,0 - 2,2,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,9,6,1,1,7:11 PM,11:31,Thybulle P.FOUL (P1.T1) (D.Mosher),,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200409,11,6,1,1,7:12 PM,11:23,Thybulle P.FOUL (P2.T2) (A.Smith),,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200409,13,2,1,1,7:12 PM,11:15,,,MISS Murray 28' 3PT Jump Shot,,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,14,4,0,1,7:12 PM,11:12,Harris REBOUND (Off:0 Def:1),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,15,6,2,1,7:12 PM,11:08,,,Murray S.FOUL (P1.T1) (A.Smith),,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200409,17,3,11,1,7:13 PM,11:08,MISS Harden Free Throw 1 of 2,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,18,4,1,1,7:13 PM,11:08,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200409,19,3,12,1,7:13 PM,11:08,MISS Harden Free Throw 2 of 2,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,20,4,0,1,7:13 PM,11:06,,,Sabonis REBOUND (Off:0 Def:1),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,21,2,1,1,7:13 PM,10:52,,,MISS Fox 26' 3PT Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,22,4,0,1,7:13 PM,10:50,,,Sabonis REBOUND (Off:1 Def:1),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,23,1,101,1,7:13 PM,10:45,,,Huerter 9' Driving Floating Jump Shot (2 PTS) (Sabonis 1 AST),2 - 2,TIE,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200409,25,2,43,1,7:14 PM,10:36,MISS Thybulle 2' Alley Oop Layup,,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,26,4,0,1,7:14 PM,10:33,,,Murray REBOUND (Off:0 Def:1),,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,27,5,2,1,7:14 PM,10:29,Harden STEAL (1 STL),,Huerter Lost Ball Turnover (P1.T1),,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,29,5,1,1,7:14 PM,10:26,Harden Bad Pass Turnover (P1.T1),,Murray STEAL (1 STL),,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200409,31,1,1,1,7:14 PM,10:13,,,Huerter 24' 3PT Jump Shot (5 PTS) (Fox 1 AST),5 - 2,-3,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200409,33,6,2,1,7:14 PM,9:59,,,Sabonis S.FOUL (P1.T2) (T.Brothers),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200409,35,3,11,1,7:15 PM,9:59,Embiid Free Throw 1 of 2 (3 PTS),,,5 - 3,-2,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,36,8,0,1,7:15 PM,9:59,SUB: Milton FOR Thybulle,,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200409,38,3,12,1,7:15 PM,9:59,Embiid Free Throw 2 of 2 (4 PTS),,,5 - 4,-1,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,39,1,79,1,7:15 PM,9:51,,,Fox 27' 3PT Pullup Jump Shot (3 PTS),8 - 4,-4,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,40,2,80,1,7:16 PM,9:30,MISS Embiid 19' Step Back Jump Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,41,4,0,1,7:16 PM,9:27,,,Sabonis REBOUND (Off:1 Def:2),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,42,2,1,1,7:16 PM,9:20,,,MISS Barnes 24' 3PT Jump Shot,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,43,4,0,1,7:16 PM,9:18,Embiid REBOUND (Off:0 Def:1),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,44,1,9,1,7:16 PM,9:11,Embiid 1' Driving Dunk (6 PTS) (Harden 1 AST),,,8 - 6,-2,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,46,2,80,1,7:16 PM,8:56,,,MISS Fox 27' 3PT Step Back Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,47,4,0,1,7:16 PM,8:54,Embiid REBOUND (Off:0 Def:2),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,48,1,1,1,7:16 PM,8:45,Harris 25' 3PT Jump Shot (3 PTS) (Harden 2 AST),,,8 - 9,1,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,50,1,99,1,7:17 PM,8:33,,,Sabonis 4' Cutting Finger Roll Layup Shot (2 PTS) (Huerter 1 AST),10 - 9,-1,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200409,52,6,2,1,7:17 PM,8:26,,,Murray S.FOUL (P2.T3) (A.Smith),,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200409,54,3,11,1,7:17 PM,8:26,Embiid Free Throw 1 of 2 (7 PTS),,,10 - 10,TIE,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,55,3,12,1,7:18 PM,8:26,Embiid Free Throw 2 of 2 (8 PTS),,,10 - 11,1,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,56,2,1,1,7:18 PM,8:13,,,MISS Huerter 27' 3PT Jump Shot,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,57,4,0,1,7:18 PM,8:09,Tucker REBOUND (Off:0 Def:1),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,58,2,1,1,7:18 PM,7:58,MISS Harris 24' 3PT Jump Shot,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,59,4,0,1,7:18 PM,7:55,,,Barnes REBOUND (Off:0 Def:1),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,60,6,2,1,7:18 PM,7:46,Tucker S.FOUL (P1.T3) (A.Smith),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200409,62,3,11,1,7:19 PM,7:46,,,Sabonis Free Throw 1 of 2 (3 PTS),11 - 11,TIE,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,63,3,12,1,7:19 PM,7:46,,,MISS Sabonis Free Throw 2 of 2,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,64,4,0,1,7:19 PM,7:44,Harden REBOUND (Off:0 Def:1),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,65,6,1,1,7:19 PM,7:36,,,Sabonis P.FOUL (P2.T4) (D.Mosher),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200409,67,8,0,1,7:20 PM,7:36,,,SUB: Queta FOR Sabonis,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1629674,Neemias Queta,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200409,69,2,1,1,7:20 PM,7:21,MISS Harris 25' 3PT Jump Shot,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,70,4,0,1,7:20 PM,7:18,,,Fox REBOUND (Off:0 Def:1),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,71,5,40,1,7:20 PM,7:11,,,Fox Out of Bounds Lost Ball Turnover (P1.T2),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022200409,72,6,2,1,7:21 PM,6:58,,,Queta S.FOUL (P1.PN) (T.Brothers),,,5,1629674,Neemias Queta,1610612758.0,Sacramento,Kings,SAC,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200409,74,9,1,1,7:21 PM,6:58,76ERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200409,75,3,11,1,7:24 PM,6:58,MISS Harden Free Throw 1 of 2,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,76,4,1,1,7:24 PM,6:58,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200409,77,3,12,1,7:25 PM,6:58,Harden Free Throw 2 of 2 (1 PTS),,,11 - 12,1,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,78,2,79,1,7:25 PM,6:47,,,MISS Huerter 19' Pullup Jump Shot,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,79,4,0,1,7:25 PM,6:44,,,Queta REBOUND (Off:1 Def:0),,,5,1629674,Neemias Queta,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,80,1,101,1,7:25 PM,6:40,,,Barnes 8' Driving Floating Jump Shot (2 PTS) (Queta 1 AST),13 - 12,-1,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1629674,Neemias Queta,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200409,82,1,75,1,7:25 PM,6:19,Harris 2' Driving Finger Roll Layup (5 PTS) (Harden 3 AST),,,13 - 14,1,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,84,5,39,1,7:25 PM,6:14,,,Huerter Step Out of Bounds Turnover (P2.T3),,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,85,8,0,1,7:25 PM,6:14,,,SUB: Mitchell FOR Fox,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200409,86,8,0,1,7:25 PM,6:14,,,SUB: Monk FOR Murray,,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200409,89,2,79,1,7:26 PM,5:53,MISS Harris 17' Pullup Jump Shot,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,90,4,0,1,7:26 PM,5:50,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200409,92,6,2,1,7:26 PM,5:43,Tucker S.FOUL (P2.T4) (T.Brothers),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200409,94,3,11,1,7:27 PM,5:43,,,Barnes Free Throw 1 of 2 (3 PTS),14 - 14,TIE,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,95,8,0,1,7:27 PM,5:43,SUB: Niang FOR Tucker,,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200409,97,3,12,1,7:27 PM,5:43,,,Barnes Free Throw 2 of 2 (4 PTS),15 - 14,-1,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,98,6,1,1,7:27 PM,5:39,,,Queta P.FOUL (P2.PN) (T.Brothers),,,5,1629674,Neemias Queta,1610612758.0,Sacramento,Kings,SAC,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200409,100,3,11,1,7:28 PM,5:39,Embiid Free Throw 1 of 2 (9 PTS),,,15 - 15,TIE,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,101,3,12,1,7:28 PM,5:39,Embiid Free Throw 2 of 2 (10 PTS),,,15 - 16,1,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,102,2,1,1,7:28 PM,5:29,,,MISS Monk 26' 3PT Jump Shot,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,103,4,0,1,7:28 PM,5:23,Niang REBOUND (Off:0 Def:1),,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,104,6,2,1,7:28 PM,5:19,,,Queta S.FOUL (P3.PN) (T.Brothers),,,5,1629674,Neemias Queta,1610612758.0,Sacramento,Kings,SAC,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200409,106,3,11,1,7:29 PM,5:19,Embiid Free Throw 1 of 2 (11 PTS),,,15 - 17,2,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,107,8,0,1,7:29 PM,5:19,,,SUB: Metu FOR Queta,,,5,1629674,Neemias Queta,1610612758.0,Sacramento,Kings,SAC,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200409,109,3,12,1,7:29 PM,5:19,Embiid Free Throw 2 of 2 (12 PTS),,,15 - 18,3,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,110,5,1,1,7:30 PM,5:03,Harden STEAL (2 STL),,Monk Bad Pass Turnover (P1.T4),,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,112,7,5,1,7:30 PM,4:58,,,Monk Violation:Kicked Ball (A.Smith),,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,0
+0022200409,113,1,1,1,7:30 PM,4:49,Niang 26' 3PT Jump Shot (3 PTS) (Harden 4 AST),,,15 - 21,6,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,115,2,80,1,7:30 PM,4:34,,,MISS Metu 27' 3PT Step Back Jump Shot,,,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,116,4,0,1,7:30 PM,4:32,Niang REBOUND (Off:0 Def:2),,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,117,1,5,1,7:30 PM,4:26,Embiid 1' Layup (14 PTS) (Harden 5 AST),,,15 - 23,8,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,119,6,2,1,7:30 PM,4:26,,,Barnes S.FOUL (P1.PN) (D.Mosher),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200409,121,8,0,1,7:31 PM,4:26,SUB: Korkmaz FOR Harris,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200409,123,3,10,1,7:31 PM,4:26,MISS Embiid Free Throw 1 of 1,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,124,4,0,1,7:31 PM,4:24,,,Barnes REBOUND (Off:0 Def:2),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,125,2,6,1,7:31 PM,4:07,,,MISS Barnes 4' Driving Layup,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,126,4,0,1,7:31 PM,4:05,,,Metu REBOUND (Off:1 Def:0),,,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,127,1,63,1,7:31 PM,4:03,,,Metu 5' Fadeaway Jumper (2 PTS),17 - 23,6,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,128,1,75,1,7:31 PM,3:56,Milton 1' Driving Finger Roll Layup (2 PTS) (Harden 6 AST),,,17 - 25,8,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,130,1,73,1,7:32 PM,3:50,,,Huerter 6' Driving Reverse Layup (7 PTS) (Mitchell 1 AST),19 - 25,6,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200409,132,2,1,1,7:32 PM,3:34,MISS Milton 3PT Jump Shot,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,133,4,0,1,7:32 PM,3:31,,,Mitchell REBOUND (Off:0 Def:1),,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,134,6,1,1,7:32 PM,3:29,Niang P.FOUL (P1.PN) (D.Mosher),,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200409,136,3,11,1,7:32 PM,3:29,,,Monk Free Throw 1 of 2 (1 PTS),20 - 25,5,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,137,8,0,1,7:32 PM,3:29,SUB: Harris FOR Harden,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200409,139,3,12,1,7:33 PM,3:29,,,Monk Free Throw 2 of 2 (2 PTS),21 - 25,4,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,140,1,5,1,7:33 PM,3:17,Embiid 2' Layup (16 PTS) (Harris 2 AST),,,21 - 27,6,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,142,5,1,1,7:33 PM,3:09,Embiid STEAL (1 STL),,Mitchell Bad Pass Turnover (P1.T5),,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,144,1,50,1,7:33 PM,3:05,Harris 1' Running Dunk (7 PTS) (Embiid 1 AST),,,21 - 29,8,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,146,9,1,1,7:33 PM,3:05,,,Kings Timeout: Regular (Reg.1 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200409,147,8,0,1,7:36 PM,3:05,,,SUB: Fox FOR Huerter,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200409,148,8,0,1,7:36 PM,3:05,,,SUB: Lyles FOR Mitchell,,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200409,149,8,0,1,7:36 PM,3:05,,,SUB: Davis FOR Barnes,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200409,154,2,1,1,7:37 PM,2:44,,,MISS Monk 26' 3PT Jump Shot,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,155,4,0,1,7:37 PM,2:41,Korkmaz REBOUND (Off:0 Def:1),,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,156,2,1,1,7:37 PM,2:34,MISS Korkmaz 25' 3PT Jump Shot,,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,157,4,0,1,7:37 PM,2:33,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200409,159,2,1,1,7:37 PM,2:27,,,MISS Metu 26' 3PT Jump Shot,,,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,161,1,72,1,7:37 PM,2:19,,,Davis Putback Layup (2 PTS),23 - 29,6,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,160,4,0,1,7:37 PM,2:19,,,Davis REBOUND (Off:1 Def:0),,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,162,2,6,1,7:37 PM,2:03,MISS Harris 9' Driving Layup,,Davis BLOCK (1 BLK),,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,1
+0022200409,164,4,0,1,7:38 PM,1:58,Harris REBOUND (Off:1 Def:1),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,165,1,72,1,7:38 PM,1:58,Harris Putback Layup (9 PTS),,,23 - 31,8,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,167,1,1,1,7:38 PM,1:40,,,Metu 26' 3PT Jump Shot (5 PTS) (Davis 1 AST),26 - 31,5,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200409,169,2,6,1,7:38 PM,1:27,MISS Milton 1' Driving Layup,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,170,4,0,1,7:39 PM,1:24,,,Fox REBOUND (Off:0 Def:2),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,171,2,41,1,7:39 PM,1:19,,,MISS Fox 3' Running Layup,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,172,4,0,1,7:39 PM,1:17,Niang REBOUND (Off:0 Def:3),,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,173,1,41,1,7:39 PM,1:14,Korkmaz 3' Running Layup (2 PTS) (Harris 3 AST),,,26 - 33,7,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,175,6,2,1,7:39 PM,1:14,,,Lyles S.FOUL (P1.PN) (D.Mosher),,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200409,177,8,0,1,7:39 PM,1:14,SUB: Harrell FOR Embiid,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200409,179,3,10,1,7:39 PM,1:14,Korkmaz Free Throw 1 of 1 (3 PTS),,,26 - 34,8,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,180,2,6,1,7:39 PM,1:09,Harris BLOCK (1 BLK),,MISS Fox 7' Driving Layup,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,1
+0022200409,182,4,0,1,7:39 PM,1:09,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200409,185,1,75,1,7:40 PM,0:55,,,Davis 2' Driving Finger Roll Layup (4 PTS),28 - 34,6,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,186,1,101,1,7:40 PM,0:42,Harris 4' Driving Floating Jump Shot (11 PTS) (Harrell 1 AST),,,28 - 36,8,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,188,1,101,1,7:40 PM,0:37,,,Fox 7' Driving Floating Jump Shot (5 PTS),30 - 36,6,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,189,1,1,1,7:41 PM,0:30,Harris 26' 3PT Jump Shot (14 PTS) (Milton 1 AST),,,30 - 39,9,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,191,2,1,1,7:41 PM,0:12,,,MISS Davis 27' 3PT Jump Shot,,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,192,4,0,1,7:41 PM,0:08,,,Metu REBOUND (Off:2 Def:0),,,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,193,2,1,1,7:41 PM,0:06,,,MISS Metu 20' Jump Shot,,,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,194,4,0,1,7:41 PM,0:02,,,Lyles REBOUND (Off:1 Def:0),,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,195,1,107,1,7:41 PM,0:02,,,Lyles Tip Dunk Shot (2 PTS),32 - 39,7,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,196,6,26,1,7:41 PM,0:01,Milton Offensive Charge Foul (P1) (A.Smith),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200409,198,5,37,1,7:41 PM,0:01,Milton Offensive Foul Turnover (P1.T2),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200409,199,13,0,1,7:42 PM,0:00,,End of 1st Period (7:42 PM EST),,32 - 39,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200409,202,12,0,2,7:44 PM,12:00,,Start of 2nd Period (7:44 PM EST),,32 - 39,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200409,206,6,17,2,7:45 PM,11:47,76ERS T.Foul (Def. 3 Sec Niang ) (A.Smith),,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200409,207,3,16,2,7:45 PM,11:47,,,Monk Free Throw Technical (3 PTS),33 - 39,6,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,208,2,1,2,7:45 PM,11:39,,,MISS Fox 27' 3PT Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,209,4,0,2,7:45 PM,11:34,,,Davis REBOUND (Off:2 Def:0),,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,210,1,97,2,7:45 PM,11:34,,,Davis Tip Layup Shot (6 PTS),35 - 39,4,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,211,6,17,2,7:46 PM,11:24,,,Kings T.Foul (Def. 3 Sec Sabonis ) (T.Brothers),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022200409,212,3,16,2,7:46 PM,11:24,Harris Free Throw Technical (15 PTS),,,35 - 40,5,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,213,8,0,2,7:46 PM,11:24,SUB: Harden FOR Korkmaz,,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200409,215,5,11,2,7:46 PM,11:10,76ERS Turnover: Shot Clock (T#3),,,,,2,1610612755,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200409,216,5,1,2,7:47 PM,11:00,Harden STEAL (3 STL),,Monk Bad Pass Turnover (P2.T6),,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,218,6,2,2,7:47 PM,10:53,,,Sabonis S.FOUL (P3.T1) (D.Mosher),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200409,220,3,11,2,7:48 PM,10:53,Milton Free Throw 1 of 2 (3 PTS),,,35 - 41,6,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,221,8,0,2,7:48 PM,10:53,SUB: Tucker FOR Harris,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200409,223,3,12,2,7:48 PM,10:53,Milton Free Throw 2 of 2 (4 PTS),,,35 - 42,7,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,225,8,0,2,7:48 PM,10:40,SUB: Thybulle FOR Milton,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200409,227,2,80,2,7:49 PM,10:31,,,MISS Fox 18' Step Back Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,228,4,0,2,7:49 PM,10:30,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200409,229,6,3,2,7:49 PM,10:30,Harden L.B.FOUL (P1.T1) (A.Smith),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200409,231,5,1,2,7:49 PM,10:17,Harden STEAL (4 STL),,Davis Bad Pass Turnover (P1.T7),,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,233,1,1,2,7:50 PM,9:54,Tucker 24' 3PT Jump Shot (3 PTS) (Harden 7 AST),,,35 - 45,10,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,235,2,1,2,7:50 PM,9:46,,,MISS Davis 24' 3PT Jump Shot,,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,236,4,0,2,7:50 PM,9:43,Harrell REBOUND (Off:0 Def:1),,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,237,9,1,2,7:50 PM,9:29,76ERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200409,238,8,0,2,7:53 PM,9:29,,,SUB: Huerter FOR Monk,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200409,239,8,0,2,7:53 PM,9:29,,,SUB: Murray FOR Davis,,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200409,240,8,0,2,7:53 PM,9:29,,,SUB: Mitchell FOR Fox,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200409,241,8,0,2,7:53 PM,9:29,,,SUB: Barnes FOR Lyles,,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200409,246,1,80,2,7:53 PM,9:23,Harden 17' Step Back Jump Shot (3 PTS) (Niang 1 AST),,,35 - 47,12,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,248,2,1,2,7:54 PM,8:58,,,MISS Barnes 27' 3PT Jump Shot,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,249,4,0,2,7:54 PM,8:52,Harrell REBOUND (Off:0 Def:2),,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,250,1,103,2,7:54 PM,8:48,Harden 26' 3PT Running Pull-Up Jump Shot (6 PTS),,,35 - 50,15,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,251,2,79,2,7:54 PM,8:31,,,MISS Murray 28' 3PT Pullup Jump Shot,,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,252,4,0,2,7:54 PM,8:27,Thybulle REBOUND (Off:0 Def:1),,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,253,1,103,2,7:54 PM,8:23,Harden 26' 3PT Running Pull-Up Jump Shot (9 PTS),,,35 - 53,18,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,254,5,45,2,7:55 PM,8:06,,,Mitchell Out of Bounds - Bad Pass Turnover Turnover (P2.T8),,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022200409,255,2,79,2,7:55 PM,7:59,MISS Harden 24' 3PT Pullup Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0022200409,256,4,0,2,7:55 PM,7:55,,,Barnes REBOUND (Off:0 Def:3),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0022200409,257,1,6,2,7:55 PM,7:47,,,Barnes 3' Driving Layup (6 PTS),37 - 53,16,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,258,2,101,2,7:55 PM,7:32,MISS Harden 12' Driving Floating Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,259,4,0,2,7:55 PM,7:31,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200409,261,2,1,2,7:56 PM,7:12,,,MISS Mitchell 26' 3PT Jump Shot,,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,262,4,0,2,7:56 PM,7:09,Niang REBOUND (Off:0 Def:4),,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,263,1,1,2,7:56 PM,6:58,Tucker 24' 3PT Jump Shot (6 PTS) (Niang 2 AST),,,37 - 56,19,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,265,9,1,2,7:56 PM,6:57,,,Kings Timeout: Regular (Reg.2 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200409,266,8,0,2,7:59 PM,6:57,SUB: Embiid FOR Harrell,,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200409,268,8,0,2,7:59 PM,6:57,,,SUB: Fox FOR Mitchell,,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200409,270,2,86,2,7:59 PM,6:43,,,MISS Murray 15' Turnaround Fadeaway Shot,,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,271,4,0,2,7:59 PM,6:40,Tucker REBOUND (Off:0 Def:2),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,272,1,100,2,7:59 PM,6:36,Thybulle 1' Running Alley Oop Layup Shot (2 PTS) (Harden 8 AST),,,37 - 58,21,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,274,5,45,2,7:59 PM,6:29,,,Huerter Out of Bounds - Bad Pass Turnover Turnover (P3.T9),,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022200409,275,6,1,2,8:00 PM,6:24,,,Fox P.FOUL (P1.T2) (D.Mosher),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0022200409,277,8,0,2,8:00 PM,6:24,SUB: Harris FOR Niang,,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200409,279,6,2,2,8:00 PM,6:10,,,Fox S.FOUL (P2.T3) (T.Brothers),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200409,281,3,11,2,8:01 PM,6:10,MISS Thybulle Free Throw 1 of 2,,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,282,4,1,2,8:01 PM,6:10,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200409,283,3,12,2,8:01 PM,6:10,Thybulle Free Throw 2 of 2 (3 PTS),,,37 - 59,22,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,284,6,1,2,8:01 PM,6:03,Harris P.FOUL (P1.T2) (T.Brothers),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200409,286,2,1,2,8:02 PM,5:58,,,MISS Huerter 26' 3PT Jump Shot,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,287,4,0,2,8:02 PM,5:54,Embiid REBOUND (Off:0 Def:3),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,288,2,1,2,8:02 PM,5:49,MISS Tucker 3PT Jump Shot,,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,289,4,0,2,8:02 PM,5:44,Embiid REBOUND (Off:1 Def:3),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,290,1,72,2,8:02 PM,5:44,Embiid Putback Layup (18 PTS),,,37 - 61,24,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,291,2,1,2,8:02 PM,5:39,,,MISS Barnes 25' 3PT Jump Shot,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,292,4,0,2,8:02 PM,5:36,Harden REBOUND (Off:0 Def:2),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,293,6,2,2,8:02 PM,5:28,,,Huerter S.FOUL (P1.T4) (T.Brothers),,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200409,295,3,11,2,8:03 PM,5:28,MISS Embiid Free Throw 1 of 2,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,296,4,1,2,8:03 PM,5:28,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200409,297,8,0,2,8:03 PM,5:28,,,SUB: Monk FOR Murray,,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200409,299,8,0,2,8:03 PM,5:28,,,SUB: Okpala FOR Huerter,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200409,301,3,12,2,8:03 PM,5:28,Embiid Free Throw 2 of 2 (19 PTS),,,37 - 62,25,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,302,1,98,2,8:03 PM,5:16,,,Sabonis 1' Cutting Layup Shot (5 PTS) (Monk 1 AST),39 - 62,23,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200409,304,1,98,2,8:04 PM,5:02,Thybulle 1' Cutting Layup Shot (5 PTS) (Harris 4 AST),,,39 - 64,25,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,306,6,2,2,8:04 PM,5:02,,,Okpala S.FOUL (P1.PN) (A.Smith),,,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200409,308,3,10,2,8:04 PM,5:02,Thybulle Free Throw 1 of 1 (6 PTS),,,39 - 65,26,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,309,2,80,2,8:04 PM,4:52,,,MISS Monk 28' 3PT Step Back Jump Shot,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,310,4,0,2,8:04 PM,4:50,Harden REBOUND (Off:0 Def:3),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,311,1,75,2,8:04 PM,4:42,Embiid 1' Driving Finger Roll Layup (21 PTS) (Harden 9 AST),,,39 - 67,28,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,313,2,1,2,8:04 PM,4:31,,,MISS Fox 27' 3PT Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,314,4,0,2,8:05 PM,4:28,,,Sabonis REBOUND (Off:2 Def:2),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,315,1,6,2,8:05 PM,4:25,,,Sabonis 2' Driving Layup (7 PTS),41 - 67,26,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,316,5,2,2,8:05 PM,4:06,Harden Lost Ball Turnover (P2.T4),,Fox STEAL (1 STL),,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200409,318,5,2,2,8:05 PM,3:48,Harden STEAL (5 STL),,Fox Lost Ball Turnover (P2.T10),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,320,1,106,2,8:05 PM,3:44,Harris 1' Running Alley Oop Dunk Shot (17 PTS) (Harden 10 AST),,,41 - 69,28,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,322,5,45,2,8:06 PM,3:23,,,Sabonis Out of Bounds - Bad Pass Turnover Turnover (P1.T11),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022200409,323,2,1,2,8:06 PM,3:13,MISS Harris 3PT Jump Shot,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,324,4,0,2,8:06 PM,3:09,,,Monk REBOUND (Off:0 Def:1),,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,325,6,2,2,8:06 PM,3:05,Embiid S.FOUL (P1.T3) (T.Brothers),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200409,327,3,11,2,8:07 PM,3:05,,,Sabonis Free Throw 1 of 2 (8 PTS),42 - 69,27,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,328,3,12,2,8:07 PM,3:05,,,Sabonis Free Throw 2 of 2 (9 PTS),43 - 69,26,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,329,2,75,2,8:07 PM,2:51,MISS Embiid 2' Driving Finger Roll Layup,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,330,4,0,2,8:07 PM,2:50,,,Sabonis REBOUND (Off:2 Def:3),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,331,6,1,2,8:08 PM,2:50,Tucker P.FOUL (P3.T4) (T.Brothers),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200409,333,8,0,2,8:08 PM,2:50,SUB: Niang FOR Tucker,,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200409,335,2,1,2,8:08 PM,2:43,,,MISS Monk 28' 3PT Jump Shot,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,336,4,0,2,8:08 PM,2:39,,,Sabonis REBOUND (Off:3 Def:3),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,337,6,1,2,8:08 PM,2:36,Thybulle P.FOUL (P3.PN) (D.Mosher),,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200409,339,3,11,2,8:09 PM,2:36,,,MISS Fox Free Throw 1 of 2,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,340,4,1,2,8:09 PM,2:36,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200409,341,8,0,2,8:09 PM,2:36,SUB: Milton FOR Thybulle,,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200409,343,3,12,2,8:09 PM,2:36,,,Fox Free Throw 2 of 2 (6 PTS),44 - 69,25,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,344,6,1,2,8:09 PM,2:29,,,Okpala P.FOUL (P2.PN) (T.Brothers),,,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200409,346,3,11,2,8:10 PM,2:29,Harden Free Throw 1 of 2 (10 PTS),,,44 - 70,26,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,347,8,0,2,8:10 PM,2:29,,,SUB: Huerter FOR Okpala,,,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200409,349,3,12,2,8:10 PM,2:29,Harden Free Throw 2 of 2 (11 PTS),,,44 - 71,27,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,350,5,1,2,8:10 PM,2:11,Niang STEAL (1 STL),,Huerter Bad Pass Turnover (P4.T12),,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,352,2,1,2,8:10 PM,2:04,MISS Niang 25' 3PT Jump Shot,,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,353,4,0,2,8:10 PM,2:01,,,Monk REBOUND (Off:0 Def:2),,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,354,6,1,2,8:11 PM,1:53,Embiid P.FOUL (P2.PN) (T.Brothers),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200409,356,3,11,2,8:11 PM,1:53,,,Sabonis Free Throw 1 of 2 (10 PTS),45 - 71,26,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,357,3,12,2,8:12 PM,1:53,,,Sabonis Free Throw 2 of 2 (11 PTS),46 - 71,25,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,358,2,79,2,8:12 PM,1:31,MISS Embiid 18' Pullup Jump Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,359,4,0,2,8:12 PM,1:29,,,Sabonis REBOUND (Off:3 Def:4),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,360,1,101,2,8:12 PM,1:23,,,Monk 9' Driving Floating Jump Shot (5 PTS) (Sabonis 2 AST),48 - 71,23,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200409,362,2,1,2,8:12 PM,1:07,MISS Harris 3PT Jump Shot,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,363,4,0,2,8:12 PM,1:05,,,Sabonis REBOUND (Off:3 Def:5),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,364,1,41,2,8:13 PM,1:00,,,Sabonis 2' Running Layup (13 PTS),50 - 71,21,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,365,2,75,2,8:13 PM,0:49,MISS Embiid 3' Driving Finger Roll Layup,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,366,4,0,2,8:13 PM,0:47,Harris REBOUND (Off:2 Def:1),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,367,1,1,2,8:13 PM,0:41,Harden 26' 3PT Jump Shot (14 PTS) (Niang 3 AST),,,50 - 74,24,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,369,1,2,2,8:13 PM,0:36,,,Barnes 24' 3PT Running Jump Shot (9 PTS) (Monk 2 AST),53 - 74,21,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200409,371,1,1,2,8:13 PM,0:25,Niang 27' 3PT Jump Shot (6 PTS) (Embiid 2 AST),,,53 - 77,24,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,373,6,1,2,8:14 PM,0:05,Niang P.FOUL (P2.PN) (A.Smith),,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200409,375,3,11,2,8:14 PM,0:05,,,Monk Free Throw 1 of 2 (6 PTS),54 - 77,23,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,382,3,12,2,8:14 PM,0:05,,,Monk Free Throw 2 of 2 (7 PTS),55 - 77,22,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,387,8,0,2,8:14 PM,0:05,,,SUB: Mitchell FOR Fox,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200409,388,8,0,2,8:14 PM,0:05,,,SUB: Okpala FOR Sabonis,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200409,389,8,0,2,8:14 PM,0:05,,,SUB: Queta FOR Huerter,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,5,1629674,Neemias Queta,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200409,385,1,80,2,8:14 PM,0:00,Harden 26' 3PT Step Back Jump Shot (17 PTS),,,55 - 80,25,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0022200409,386,18,0,2,8:15 PM,0:00,,Instant Replay2nd Period (8:15 PM EST),,55 - 80,25,0,385,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200409,384,13,0,2,8:15 PM,0:00,,End of 2nd Period (8:15 PM EST),,55 - 80,25,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200409,405,12,0,3,8:31 PM,12:00,,Start of 3rd Period (8:31 PM EST),,55 - 80,25,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200409,406,1,79,3,8:31 PM,11:45,,,Fox 20' Pullup Jump Shot (8 PTS) (Sabonis 3 AST),57 - 80,23,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200409,408,2,1,3,8:31 PM,11:15,MISS Embiid 18' Jump Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,409,4,0,3,8:31 PM,11:13,,,Fox REBOUND (Off:0 Def:3),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,410,2,47,3,8:32 PM,11:03,,,MISS Sabonis 4' Turnaround Jump Shot,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,411,4,0,3,8:32 PM,11:02,Harden REBOUND (Off:0 Def:4),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,412,2,1,3,8:32 PM,10:48,MISS Thybulle 24' 3PT Jump Shot,,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,413,4,0,3,8:32 PM,10:45,,,Murray REBOUND (Off:0 Def:2),,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,414,5,45,3,8:32 PM,10:44,,,Murray Out of Bounds - Bad Pass Turnover Turnover (P1.T13),,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022200409,415,1,1,3,8:32 PM,10:28,Embiid 20' Jump Shot (23 PTS) (Harden 11 AST),,,57 - 82,25,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,417,2,66,3,8:33 PM,10:15,,,MISS Sabonis 1' Jump Bank Shot,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,418,4,0,3,8:33 PM,10:13,Tucker REBOUND (Off:0 Def:3),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,421,6,26,3,8:33 PM,9:51,Harden Offensive Charge Foul (P2) (A.Smith),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200409,423,5,37,3,8:33 PM,9:51,Harden Offensive Foul Turnover (P3.T5),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200409,424,5,2,3,8:34 PM,9:27,Harris STEAL (1 STL),,Fox Lost Ball Turnover (P3.T14),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,426,1,1,3,8:34 PM,9:18,Thybulle 27' 3PT Jump Shot (9 PTS) (Harris 5 AST),,,57 - 85,28,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,428,2,1,3,8:34 PM,9:09,,,MISS Huerter 3PT Jump Shot,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,429,4,0,3,8:34 PM,9:07,Embiid REBOUND (Off:1 Def:4),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,430,2,79,3,8:34 PM,9:01,MISS Harden 29' 3PT Pullup Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,431,4,0,3,8:34 PM,8:57,,,Barnes REBOUND (Off:0 Def:4),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,432,1,41,3,8:35 PM,8:53,,,Sabonis 1' Running Layup (15 PTS) (Barnes 1 AST),59 - 85,26,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200409,434,5,2,3,8:35 PM,8:39,Embiid Lost Ball Turnover (P1.T6),,Barnes STEAL (1 STL),,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200409,436,2,103,3,8:35 PM,8:33,,,MISS Huerter 25' 3PT Running Pull-Up Jump Shot,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,437,4,0,3,8:35 PM,8:29,,,Sabonis REBOUND (Off:4 Def:5),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,438,2,1,3,8:35 PM,8:27,,,MISS Barnes 25' 3PT Jump Shot,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,439,4,0,3,8:35 PM,8:27,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200409,441,6,2,3,8:36 PM,8:06,,,Sabonis S.FOUL (P4.T1) (A.Smith),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200409,443,3,11,3,8:36 PM,8:06,Embiid Free Throw 1 of 2 (24 PTS),,,59 - 86,27,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0022200409,444,3,12,3,8:36 PM,8:06,Embiid Free Throw 2 of 2 (25 PTS),,,59 - 87,28,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,445,1,6,3,8:37 PM,7:49,,,Sabonis 2' Driving Layup (17 PTS),61 - 87,26,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,446,6,2,3,8:37 PM,7:49,Embiid S.FOUL (P3.T1) (T.Brothers),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200409,448,3,10,3,8:37 PM,7:49,,,Sabonis Free Throw 1 of 1 (18 PTS),62 - 87,25,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,449,1,47,3,8:38 PM,7:27,Embiid 17' Turnaround Jump Shot (27 PTS) (Harden 12 AST),,,62 - 89,27,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,451,1,79,3,8:38 PM,7:14,,,Fox 20' Pullup Jump Shot (10 PTS) (Sabonis 4 AST),64 - 89,25,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200409,453,2,1,3,8:38 PM,7:01,MISS Embiid 26' 3PT Jump Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,454,4,0,3,8:38 PM,6:59,,,Barnes REBOUND (Off:0 Def:5),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,455,2,1,3,8:38 PM,6:52,,,MISS Murray 27' 3PT Jump Shot,,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,456,4,0,3,8:38 PM,6:49,Embiid REBOUND (Off:1 Def:5),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,457,6,1,3,8:38 PM,6:40,,,Murray P.FOUL (P3.T2) (T.Brothers),,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200409,459,9,1,3,8:39 PM,6:40,76ERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200409,460,8,0,3,8:41 PM,6:40,,,SUB: Mitchell FOR Fox,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200409,462,8,0,3,8:41 PM,6:40,SUB: Milton FOR Thybulle,,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200409,464,1,79,3,8:42 PM,6:29,Embiid 17' Pullup Jump Shot (29 PTS) (Harris 6 AST),,,64 - 91,27,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,466,2,102,3,8:42 PM,6:03,,,MISS Barnes 8' Driving Floating Bank Jump Shot,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,467,4,0,3,8:42 PM,5:58,,,Barnes REBOUND (Off:1 Def:5),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,468,1,72,3,8:42 PM,5:58,,,Barnes Putback Layup (11 PTS),66 - 91,25,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,469,1,76,3,8:42 PM,5:54,Milton 1' Running Finger Roll Layup (6 PTS) (Harden 13 AST),,,66 - 93,27,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,471,6,1,3,8:43 PM,5:46,Milton P.FOUL (P2.T2) (D.Mosher),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200409,473,1,98,3,8:43 PM,5:39,,,Sabonis 2' Cutting Layup Shot (20 PTS) (Barnes 2 AST),68 - 93,25,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200409,475,2,101,3,8:43 PM,5:19,MISS Milton 4' Driving Floating Jump Shot,,Murray BLOCK (1 BLK),,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,1
+0022200409,477,4,0,3,8:43 PM,5:15,,,Barnes REBOUND (Off:1 Def:6),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,478,1,2,3,8:43 PM,5:11,,,Murray 26' 3PT Running Jump Shot (3 PTS) (Sabonis 5 AST),71 - 93,22,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200409,481,5,2,3,8:44 PM,4:57,Harden Lost Ball Turnover (P4.T7),,Huerter STEAL (1 STL),,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200409,483,9,1,3,8:44 PM,4:56,,,Kings Timeout: Regular (Reg.3 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200409,484,8,0,3,8:46 PM,4:56,SUB: Niang FOR Harris,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200409,485,8,0,3,8:46 PM,4:56,,,SUB: Monk FOR Huerter,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200409,488,1,98,3,8:47 PM,4:39,,,Sabonis Cutting Layup Shot (22 PTS) (Monk 3 AST),73 - 93,20,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200409,492,9,7,3,8:48 PM,4:18,,,Kings Timeout: Coach Challenge (Reg.3 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200409,493,18,5,3,8:48 PM,4:18,,Instant Replay3rd Period (8:48 PM EST),,73 - 93,20,0,490,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200409,494,5,2,3,8:50 PM,4:18,Embiid Lost Ball Turnover (P2.T8),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,495,2,1,3,8:50 PM,4:07,,,MISS Barnes 26' 3PT Jump Shot,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,496,4,0,3,8:51 PM,4:03,Embiid REBOUND (Off:1 Def:6),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,497,2,1,3,8:51 PM,3:48,MISS Niang 25' 3PT Jump Shot,,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,498,4,0,3,8:51 PM,3:45,,,Barnes REBOUND (Off:1 Def:7),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,499,2,79,3,8:51 PM,3:34,,,MISS Mitchell 18' Pullup Jump Shot,,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,500,4,0,3,8:51 PM,3:31,Tucker REBOUND (Off:0 Def:4),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,501,1,74,3,8:51 PM,3:25,Milton 2' Running Reverse Layup (8 PTS) (Harden 14 AST),,,73 - 95,22,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,503,2,79,3,8:51 PM,3:14,,,MISS Barnes 19' Pullup Jump Shot,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,504,4,0,3,8:51 PM,3:12,Harden REBOUND (Off:0 Def:5),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,505,2,6,3,8:52 PM,3:02,MISS Harden 5' Driving Layup,,Mitchell BLOCK (1 BLK),,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,1
+0022200409,507,4,0,3,8:52 PM,2:59,,,Mitchell REBOUND (Off:0 Def:2),,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,508,1,2,3,8:52 PM,2:57,,,Monk 24' 3PT Running Jump Shot (10 PTS) (Murray 1 AST),76 - 95,19,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200409,510,2,1,3,8:52 PM,2:32,MISS Harden 27' 3PT Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,511,4,0,3,8:52 PM,2:29,,,Monk REBOUND (Off:0 Def:3),,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,512,6,2,3,8:52 PM,2:27,Milton S.FOUL (P3.T3) (D.Mosher),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200409,514,3,11,3,8:53 PM,2:27,,,Monk Free Throw 1 of 2 (11 PTS),77 - 95,18,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,515,8,0,3,8:53 PM,2:27,SUB: Harris FOR Harden,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200409,516,8,0,3,8:53 PM,2:27,SUB: Korkmaz FOR Tucker,,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200409,517,8,0,3,8:53 PM,2:27,,,SUB: Davis FOR Murray,,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200409,518,8,0,3,8:53 PM,2:27,,,SUB: Lyles FOR Barnes,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200409,523,3,12,3,8:53 PM,2:27,,,Monk Free Throw 2 of 2 (12 PTS),78 - 95,17,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,524,2,1,3,8:53 PM,2:15,MISS Korkmaz 27' 3PT Jump Shot,,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,525,4,0,3,8:53 PM,2:12,,,Lyles REBOUND (Off:1 Def:1),,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,526,1,6,3,8:53 PM,2:04,,,Monk 1' Driving Layup (14 PTS),80 - 95,15,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,527,1,1,3,8:54 PM,1:39,Niang 25' 3PT Jump Shot (9 PTS) (Milton 2 AST),,,80 - 98,18,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,529,2,6,3,8:54 PM,1:24,Embiid BLOCK (1 BLK),,MISS Monk 3' Driving Layup,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1
+0022200409,531,4,0,3,8:54 PM,1:21,Niang REBOUND (Off:0 Def:5),,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,535,9,7,3,8:55 PM,1:17,76ERS Timeout: Coach Challenge (Full 3 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200409,536,18,5,3,8:55 PM,1:17,,Instant Replay3rd Period (8:55 PM EST),,80 - 98,18,0,532,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200409,537,1,102,3,8:56 PM,1:17,Milton 6' Driving Floating Bank Jump Shot (10 PTS) (Harris 7 AST),,,80 - 100,20,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,538,6,2,3,8:56 PM,1:17,,,Mitchell S.FOUL (P1.T3) (T.Brothers),,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200409,540,3,10,3,8:57 PM,1:17,Milton Free Throw 1 of 1 (11 PTS),,,80 - 101,21,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,542,2,101,3,8:57 PM,1:06,,,MISS Mitchell 12' Driving Floating Jump Shot,,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,543,4,0,3,8:57 PM,1:04,,,Mitchell REBOUND (Off:1 Def:2),,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,544,1,79,3,8:57 PM,1:01,,,Davis 26' 3PT Pullup Jump Shot (9 PTS) (Mitchell 2 AST),83 - 101,18,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200409,546,5,4,3,8:57 PM,0:47,Embiid Traveling Turnover (P3.T9),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200409,547,8,0,3,8:58 PM,0:47,SUB: Harrell FOR Embiid,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200409,549,8,0,3,8:58 PM,0:47,SUB: Thybulle FOR Korkmaz,,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200409,551,2,1,3,8:59 PM,0:33,,,MISS Mitchell 24' 3PT Jump Shot,,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,552,4,0,3,8:59 PM,0:30,Niang REBOUND (Off:0 Def:6),,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,553,2,79,3,8:59 PM,0:07,MISS Harris 8' Pullup Jump Shot,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,554,4,0,3,8:59 PM,0:05,,,Sabonis REBOUND (Off:4 Def:6),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,555,13,0,3,8:59 PM,0:00,,End of 3rd Period (8:59 PM EST),,83 - 101,18,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200409,562,12,0,4,9:02 PM,12:00,,Start of 4th Period (9:02 PM EST),,83 - 101,18,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200409,563,2,1,4,9:02 PM,11:47,MISS Niang 25' 3PT Jump Shot,,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,564,4,0,4,9:02 PM,11:43,,,Lyles REBOUND (Off:1 Def:2),,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,565,2,98,4,9:02 PM,11:35,,,MISS Metu 1' Cutting Layup Shot,,,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,566,4,0,4,9:02 PM,11:33,Harrell REBOUND (Off:0 Def:3),,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,567,5,1,4,9:03 PM,11:24,Harden Bad Pass Turnover (P5.T10),,Monk STEAL (1 STL),,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200409,569,1,50,4,9:03 PM,11:21,,,Monk 1' Running Dunk (16 PTS),85 - 101,16,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,570,2,98,4,9:03 PM,11:03,MISS Harrell 1' Cutting Layup Shot,,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,571,4,0,4,9:03 PM,11:01,,,Metu REBOUND (Off:2 Def:1),,,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,572,6,26,4,9:03 PM,10:56,,,Davis Offensive Charge Foul (P1) (T.Brothers),,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200409,574,5,37,4,9:03 PM,10:56,,,Davis Offensive Foul Turnover (P2.T15),,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022200409,575,1,101,4,9:04 PM,10:30,Harris 10' Driving Floating Jump Shot (19 PTS),,,85 - 103,18,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,576,1,1,4,9:04 PM,10:08,,,Davis 24' 3PT Jump Shot (12 PTS) (Monk 4 AST),88 - 103,15,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200409,578,2,1,4,9:04 PM,9:49,MISS Niang 27' 3PT Jump Shot,,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,579,4,0,4,9:04 PM,9:46,,,Lyles REBOUND (Off:1 Def:3),,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,580,2,79,4,9:05 PM,9:41,,,MISS Fox 25' 3PT Pullup Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,581,4,0,4,9:05 PM,9:38,Harris REBOUND (Off:2 Def:2),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,582,1,101,4,9:05 PM,9:28,Harden 10' Driving Floating Jump Shot (19 PTS),,,88 - 105,17,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,583,6,2,4,9:05 PM,9:18,Harrell S.FOUL (P1.T1) (T.Brothers),,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200409,585,3,11,4,9:05 PM,9:18,,,MISS Fox Free Throw 1 of 2,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,586,4,1,4,9:05 PM,9:18,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200409,587,3,12,4,9:06 PM,9:18,,,Fox Free Throw 2 of 2 (11 PTS),89 - 105,16,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,588,1,1,4,9:06 PM,9:03,Niang 25' 3PT Jump Shot (12 PTS) (Harden 15 AST),,,89 - 108,19,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,590,2,41,4,9:06 PM,8:55,Harrell BLOCK (1 BLK),,MISS Monk 4' Running Layup,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,1
+0022200409,592,4,0,4,9:06 PM,8:52,Harris REBOUND (Off:2 Def:3),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,593,1,50,4,9:06 PM,8:49,Harris 1' Running Dunk (21 PTS),,,89 - 110,21,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,594,9,1,4,9:06 PM,8:49,,,Kings Timeout: Regular (Reg.4 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200409,595,8,0,4,9:09 PM,8:49,,,SUB: Barnes FOR Lyles,,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200409,597,2,1,4,9:10 PM,8:38,,,MISS Davis 3PT Jump Shot,,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,598,4,0,4,9:10 PM,8:35,Harris REBOUND (Off:2 Def:4),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,599,2,99,4,9:10 PM,8:28,MISS Harrell 3' Cutting Finger Roll Layup Shot,,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,600,4,0,4,9:10 PM,8:26,,,Metu REBOUND (Off:2 Def:2),,,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,601,2,103,4,9:10 PM,8:21,,,MISS Fox 10' Running Pull-Up Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,602,4,0,4,9:10 PM,8:19,Harris REBOUND (Off:2 Def:5),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,603,2,1,4,9:10 PM,8:01,MISS Harris 27' 3PT Jump Shot,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,604,4,0,4,9:10 PM,7:56,,,Fox REBOUND (Off:0 Def:4),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,606,5,1,4,9:11 PM,7:45,Harrell STEAL (1 STL),,Davis Bad Pass Turnover (P3.T16),,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,608,6,1,4,9:11 PM,7:35,,,Davis P.FOUL (P2.T1) (D.Mosher),,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200409,610,8,0,4,9:11 PM,7:35,SUB: Embiid FOR Harrell,,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200409,611,8,0,4,9:11 PM,7:35,,,SUB: Huerter FOR Monk,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200409,612,8,0,4,9:11 PM,7:35,,,SUB: Sabonis FOR Davis,,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200409,613,8,0,4,9:11 PM,7:35,,,SUB: Murray FOR Metu,,,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200409,618,1,79,4,9:11 PM,7:27,Harden 13' Pullup Jump Shot (21 PTS),,,89 - 112,23,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,619,1,78,4,9:12 PM,7:17,,,Fox 7' Floating Jump Shot (13 PTS),91 - 112,21,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,621,1,1,4,9:12 PM,6:56,Milton 25' 3PT Jump Shot (14 PTS) (Harris 8 AST),,,91 - 115,24,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,623,5,2,4,9:12 PM,6:48,Milton STEAL (1 STL),,Barnes Lost Ball Turnover (P1.T17),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,625,1,98,4,9:12 PM,6:37,Embiid 3' Cutting Layup Shot (31 PTS) (Harris 9 AST),,,91 - 117,26,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,627,2,1,4,9:13 PM,6:19,,,MISS Fox 27' 3PT Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,628,4,0,4,9:13 PM,6:15,Harden REBOUND (Off:0 Def:6),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,629,5,4,4,9:13 PM,6:11,Harden Traveling Turnover (P6.T11),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200409,630,9,1,4,9:13 PM,6:11,76ERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200409,631,8,0,4,9:15 PM,6:11,SUB: Harrell FOR Harris,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200409,632,8,0,4,9:15 PM,6:11,SUB: Thybulle FOR Embiid,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200409,635,8,0,4,9:15 PM,6:11,,,SUB: Davis FOR Fox,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200409,636,8,0,4,9:15 PM,6:11,,,SUB: Ellis FOR Huerter,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,5,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200409,637,8,0,4,9:15 PM,6:11,,,SUB: Mitchell FOR Sabonis,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200409,638,8,0,4,9:15 PM,6:11,,,SUB: Holmes FOR Murray,,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200409,639,8,0,4,9:15 PM,6:11,,,SUB: Lyles FOR Barnes,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200409,645,2,1,4,9:16 PM,6:00,,,MISS Lyles 26' 3PT Jump Shot,,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,646,4,0,4,9:16 PM,5:57,Harden REBOUND (Off:0 Def:7),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,647,2,86,4,9:16 PM,5:42,MISS Harden 9' Turnaround Fadeaway Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,648,4,0,4,9:16 PM,5:40,,,Lyles REBOUND (Off:1 Def:4),,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,650,8,0,4,9:16 PM,5:33,SUB: Reed FOR Harden,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200409,651,8,0,4,9:16 PM,5:33,SUB: Korkmaz FOR Harrell,,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200409,655,8,0,4,9:16 PM,5:33,SUB: Springer FOR Niang,,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200409,657,2,79,4,9:17 PM,5:24,,,MISS Mitchell 16' Pullup Jump Shot,,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,658,4,0,4,9:17 PM,5:21,Korkmaz REBOUND (Off:0 Def:2),,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,659,6,1,4,9:17 PM,5:16,,,Ellis P.FOUL (P1.T2) (A.Smith),,,5,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200409,661,2,1,4,9:18 PM,5:12,MISS Milton 27' 3PT Jump Shot,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,662,4,0,4,9:18 PM,5:08,,,Lyles REBOUND (Off:1 Def:5),,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,663,6,1,4,9:18 PM,4:54,Thybulle P.FOUL (P4.T2) (D.Mosher),,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,5,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200409,665,8,0,4,9:18 PM,4:54,,,SUB: Okpala FOR Davis,,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200409,667,2,75,4,9:18 PM,4:47,Springer BLOCK (1 BLK),,MISS Mitchell 5' Driving Finger Roll Layup,,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,1
+0022200409,669,4,0,4,9:18 PM,4:47,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200409,671,1,3,4,9:19 PM,4:43,,,Holmes 9' Hook Shot (2 PTS) (Mitchell 3 AST),93 - 117,24,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200409,673,6,1,4,9:19 PM,4:33,,,Okpala P.FOUL (P3.T3) (T.Brothers),,,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200409,675,1,1,4,9:19 PM,4:28,Thybulle 27' 3PT Jump Shot (12 PTS) (Milton 3 AST),,,93 - 120,27,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,677,6,1,4,9:20 PM,4:14,Milton P.FOUL (P4.T3) (D.Mosher),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200409,679,1,73,4,9:20 PM,4:04,,,Mitchell 2' Driving Reverse Layup (2 PTS),95 - 120,25,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,680,2,3,4,9:20 PM,3:49,MISS Reed 3' Hook Shot,,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,681,4,0,4,9:20 PM,3:46,,,Ellis REBOUND (Off:0 Def:1),,,5,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,682,2,101,4,9:21 PM,3:32,,,MISS Lyles 7' Driving Floating Jump Shot,,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,683,4,0,4,9:21 PM,3:28,,,Holmes REBOUND (Off:1 Def:0),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,684,1,97,4,9:21 PM,3:28,,,Holmes Tip Layup Shot (4 PTS),97 - 120,23,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,685,2,1,4,9:21 PM,3:14,MISS Reed 18' Jump Shot,,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,686,4,0,4,9:21 PM,3:11,,,Holmes REBOUND (Off:1 Def:1),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,687,1,1,4,9:21 PM,2:56,,,Okpala 27' 3PT Jump Shot (3 PTS) (Ellis 1 AST),100 - 120,20,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,5,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200409,689,2,101,4,9:21 PM,2:41,MISS Milton 16' Driving Floating Jump Shot,,Mitchell BLOCK (2 BLK),,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,1
+0022200409,691,4,0,4,9:21 PM,2:38,,,Okpala REBOUND (Off:0 Def:1),,,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,692,1,1,4,9:22 PM,2:30,,,Holmes 26' 3PT Jump Shot (7 PTS) (Mitchell 4 AST),103 - 120,17,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200409,694,6,4,4,9:22 PM,2:14,Korkmaz OFF.Foul (P1) (A.Smith),,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200409,696,5,37,4,9:22 PM,2:14,Korkmaz Offensive Foul Turnover (P1.T12),,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200409,697,2,79,4,9:23 PM,1:53,,,MISS Mitchell 17' Pullup Jump Shot,,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,698,4,0,4,9:23 PM,1:48,Korkmaz REBOUND (Off:0 Def:3),,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,699,2,80,4,9:23 PM,1:32,MISS Springer 21' Step Back Jump Shot,,,,,4,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,700,4,0,4,9:23 PM,1:30,,,Holmes REBOUND (Off:1 Def:2),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,701,2,1,4,9:23 PM,1:24,,,MISS Lyles 26' 3PT Jump Shot,,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,702,4,0,4,9:23 PM,1:20,Springer REBOUND (Off:0 Def:1),,,,,4,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,703,1,1,4,9:23 PM,1:01,Thybulle 26' 3PT Jump Shot (15 PTS) (Korkmaz 1 AST),,,103 - 123,20,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200409,705,2,1,4,9:24 PM,0:49,,,MISS Ellis 26' 3PT Jump Shot,,,5,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,706,4,0,4,9:24 PM,0:46,Reed REBOUND (Off:0 Def:1),,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,707,2,6,4,9:24 PM,0:25,MISS Springer 3' Driving Layup,,,,,4,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,708,4,0,4,9:24 PM,0:23,Reed REBOUND (Off:1 Def:1),,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,709,2,5,4,9:24 PM,0:21,MISS Reed 4' Layup,,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,710,4,0,4,9:24 PM,0:20,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200409,712,2,93,4,9:25 PM,0:05,,,MISS Holmes 4' Driving Bank Hook Shot,,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200409,713,4,0,4,9:25 PM,0:03,Thybulle REBOUND (Off:0 Def:2),,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200409,714,13,0,4,9:25 PM,0:00,,End of 4th Period (9:25 PM EST),,103 - 123,20,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

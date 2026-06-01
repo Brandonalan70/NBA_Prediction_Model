@@ -1,0 +1,457 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200227,2,12,0,1,8:11 PM,12:00,,Start of 1st Period (8:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200227,4,10,0,1,8:11 PM,12:00,Jump Ball Vucevic vs. Bol: Tip to Okeke,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,1
+0022200227,7,2,1,1,8:11 PM,11:45,,,MISS Suggs 26' 3PT Jump Shot,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,8,4,0,1,8:11 PM,11:40,,,Bol REBOUND (Off:1 Def:0),,,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,9,1,87,1,8:11 PM,11:40,,,Bol Putback Dunk (2 PTS),2 - 0,-2,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,10,2,79,1,8:11 PM,11:18,MISS DeRozan 15' Pullup Jump Shot,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,11,4,0,1,8:11 PM,11:16,Vucevic REBOUND (Off:1 Def:0),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,12,2,58,1,8:12 PM,11:05,MISS Vucevic 9' Turnaround Hook Shot,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,13,4,0,1,8:12 PM,11:03,,,Carter Jr. REBOUND (Off:0 Def:1),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,14,1,79,1,8:12 PM,10:57,,,Carter Jr. 20' Pullup Jump Shot (2 PTS) (Suggs 1 AST),4 - 0,-4,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200227,15,1,6,1,8:12 PM,10:39,Dosunmu 1' Driving Layup (2 PTS) (DeRozan 1 AST),,,4 - 2,-2,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200227,17,2,1,1,8:12 PM,10:15,,,MISS Carter Jr. 26' 3PT Jump Shot,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,18,4,0,1,8:12 PM,10:15,Williams REBOUND (Off:0 Def:1),,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,20,6,1,1,8:13 PM,10:07,,,Suggs P.FOUL (P1.T1) (D.Guthrie),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200227,22,2,1,1,8:13 PM,10:00,MISS LaVine 26' 3PT Jump Shot,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,23,4,0,1,8:13 PM,9:57,Williams REBOUND (Off:1 Def:1),,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,24,6,1,1,8:13 PM,9:47,,,Wagner P.FOUL (P1.T2) (S.Wall),,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200227,26,2,80,1,8:14 PM,9:37,MISS LaVine 15' Step Back Jump Shot,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,27,4,0,1,8:14 PM,9:35,,,Bol REBOUND (Off:1 Def:1),,,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,28,1,52,1,8:14 PM,9:26,,,Carter Jr. Alley Oop Dunk (4 PTS) (Wagner 1 AST),6 - 2,-4,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200227,30,2,75,1,8:14 PM,9:17,MISS Dosunmu 2' Driving Finger Roll Layup,,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,31,4,0,1,8:14 PM,9:16,,,Okeke REBOUND (Off:0 Def:1),,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,32,2,1,1,8:14 PM,9:05,,,MISS Wagner 29' 3PT Jump Shot,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,33,4,0,1,8:14 PM,9:02,Vucevic REBOUND (Off:1 Def:1),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,34,1,79,1,8:14 PM,8:53,Williams 15' Pullup Jump Shot (2 PTS) (Vucevic 1 AST),,,6 - 4,-2,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200227,36,2,6,1,8:15 PM,8:38,Vucevic BLOCK (1 BLK),,MISS Bol 5' Driving Layup,,,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,1
+0022200227,38,4,0,1,8:15 PM,8:35,Williams REBOUND (Off:1 Def:2),,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,39,1,6,1,8:15 PM,8:33,Dosunmu 1' Driving Layup (4 PTS) (Williams 1 AST),,,6 - 6,TIE,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200227,41,2,101,1,8:15 PM,8:12,,,MISS Carter Jr. 7' Driving Floating Jump Shot,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,42,4,0,1,8:15 PM,8:10,Vucevic REBOUND (Off:1 Def:2),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,43,2,1,1,8:15 PM,8:00,MISS LaVine 24' 3PT Jump Shot,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,44,4,0,1,8:15 PM,7:58,,,Okeke REBOUND (Off:0 Def:2),,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,45,6,2,1,8:15 PM,7:45,Vucevic S.FOUL (P1.T1) (S.Wall),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200227,47,3,11,1,8:16 PM,7:45,,,Wagner Free Throw 1 of 2 (1 PTS),7 - 6,-1,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,48,3,12,1,8:16 PM,7:45,,,Wagner Free Throw 2 of 2 (2 PTS),8 - 6,-2,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,49,1,6,1,8:16 PM,7:34,Dosunmu 2' Driving Layup (6 PTS) (Vucevic 2 AST),,,8 - 8,TIE,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200227,51,5,1,1,8:16 PM,7:28,Williams STEAL (1 STL),,Suggs Bad Pass Turnover (P1.T1),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200227,53,5,45,1,8:16 PM,7:25,Dosunmu Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0022200227,54,6,2,1,8:17 PM,7:15,DeRozan S.FOUL (P1.T2) (D.Taylor),,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200227,56,3,11,1,8:17 PM,7:15,,,Wagner Free Throw 1 of 2 (3 PTS),9 - 8,-1,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,57,3,12,1,8:18 PM,7:15,,,Wagner Free Throw 2 of 2 (4 PTS),10 - 8,-2,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,58,2,79,1,8:18 PM,7:03,MISS DeRozan 22' Pullup Jump Shot,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,59,4,0,1,8:18 PM,6:59,,,Wagner REBOUND (Off:0 Def:1),,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,60,2,1,1,8:18 PM,6:53,,,MISS Okeke 26' 3PT Jump Shot,,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,61,4,0,1,8:18 PM,6:51,Vucevic REBOUND (Off:1 Def:3),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,62,1,78,1,8:18 PM,6:40,Vucevic 6' Floating Jump Shot (2 PTS) (Dosunmu 1 AST),,,10 - 10,TIE,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200227,64,6,1,1,8:18 PM,6:31,Dosunmu P.FOUL (P1.T3) (D.Guthrie),,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200227,66,9,1,1,8:18 PM,6:31,BULLS Timeout: Regular (Full 1 Short 0),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200227,67,8,0,1,8:21 PM,6:31,SUB: Caruso FOR LaVine,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200227,68,8,0,1,8:21 PM,6:31,,,SUB: Bamba FOR Wagner,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200227,69,8,0,1,8:21 PM,6:31,,,SUB: Ross FOR Carter Jr.,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200227,73,2,79,1,8:22 PM,6:17,,,MISS Bol 14' Pullup Jump Shot,,,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,74,4,0,1,8:22 PM,6:15,,,Bamba REBOUND (Off:1 Def:0),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,75,2,72,1,8:22 PM,6:15,Dosunmu BLOCK (1 BLK),,MISS Bamba Putback Layup,,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,1
+0022200227,77,4,0,1,8:22 PM,6:12,Vucevic REBOUND (Off:1 Def:4),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,78,2,1,1,8:22 PM,6:01,MISS Caruso 25' 3PT Jump Shot,,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,79,4,0,1,8:22 PM,5:58,,,Bol REBOUND (Off:1 Def:2),,,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,80,1,1,1,8:22 PM,5:38,,,Suggs 23' Jump Shot (2 PTS),12 - 10,-2,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,81,5,1,1,8:23 PM,5:22,Dosunmu Bad Pass Turnover (P2.T2),,Okeke STEAL (1 STL),,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200227,83,1,6,1,8:23 PM,5:18,,,Bol 1' Driving Layup (4 PTS) (Okeke 1 AST),14 - 10,-4,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200227,85,1,1,1,8:23 PM,5:08,DeRozan 21' Jump Shot (2 PTS) (Caruso 1 AST),,,14 - 12,-2,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200227,86,6,2,1,8:23 PM,5:08,,,Okeke S.FOUL (P1.T3) (S.Wall),,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200227,88,3,10,1,8:23 PM,5:08,DeRozan Free Throw 1 of 1 (3 PTS),,,14 - 13,-1,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,90,2,78,1,8:24 PM,4:50,,,MISS Bamba 18' Floating Jump Shot,,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,91,4,0,1,8:24 PM,4:48,Vucevic REBOUND (Off:1 Def:5),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,92,1,1,1,8:24 PM,4:42,Williams 25' 3PT Jump Shot (5 PTS) (Vucevic 3 AST),,,14 - 16,2,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200227,94,1,1,1,8:24 PM,4:25,,,Bamba 26' 3PT Jump Shot (3 PTS) (Suggs 2 AST),17 - 16,-1,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200227,96,5,6,1,8:24 PM,4:18,Caruso Double Dribble Turnover (P1.T3),,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0022200227,97,8,0,1,8:24 PM,4:18,SUB: Jones Jr. FOR Williams,,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200227,98,8,0,1,8:24 PM,4:18,,,SUB: G. Harris FOR Bol,,,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200227,101,2,79,1,8:25 PM,4:11,,,MISS Suggs 20' Pullup Jump Shot,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,102,4,0,1,8:25 PM,4:06,Vucevic REBOUND (Off:1 Def:6),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,103,2,79,1,8:25 PM,3:57,MISS DeRozan 11' Pullup Jump Shot,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,104,4,0,1,8:25 PM,3:54,,,Suggs REBOUND (Off:0 Def:1),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,105,6,2,1,8:25 PM,3:46,Caruso S.FOUL (P1.T4) (D.Taylor),,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200227,107,3,11,1,8:25 PM,3:46,,,Suggs Free Throw 1 of 2 (3 PTS),18 - 16,-2,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,108,9,1,1,8:26 PM,3:46,BULLS Timeout: Regular (Full 2 Short 0),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200227,109,8,0,1,8:28 PM,3:46,SUB: Drummond FOR Vucevic,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200227,110,8,0,1,8:28 PM,3:46,SUB: Dragic FOR Dosunmu,,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200227,113,3,12,1,8:29 PM,3:46,,,Suggs Free Throw 2 of 2 (4 PTS),19 - 16,-3,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,114,2,1,1,8:29 PM,3:23,MISS Jones Jr. 3PT Jump Shot,,,,,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,115,4,0,1,8:29 PM,3:21,Caruso REBOUND (Off:1 Def:0),,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,116,1,79,1,8:29 PM,3:15,DeRozan 13' Pullup Jump Shot (5 PTS) (Caruso 2 AST),,,19 - 18,-1,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200227,117,6,2,1,8:29 PM,3:15,,,Bamba S.FOUL (P1.T4) (D.Taylor),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200227,119,8,0,1,8:30 PM,3:15,,,SUB: Wagner FOR Okeke,,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200227,121,8,0,1,8:30 PM,3:15,,,SUB: Carter Jr. FOR Suggs,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200227,124,3,10,1,8:30 PM,3:15,DeRozan Free Throw 1 of 1 (6 PTS),,,19 - 19,TIE,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,125,1,1,1,8:30 PM,3:04,,,Bamba 27' 3PT Jump Shot (6 PTS) (Wagner 2 AST),22 - 19,-3,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200227,127,2,79,1,8:30 PM,2:53,MISS DeRozan 13' Pullup Jump Shot,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,128,4,0,1,8:30 PM,2:51,,,Carter Jr. REBOUND (Off:0 Def:2),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,129,2,1,1,8:31 PM,2:39,,,MISS Bamba 3PT Jump Shot,,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,130,4,0,1,8:31 PM,2:36,Jones Jr. REBOUND (Off:0 Def:1),,,,,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,131,1,86,1,8:31 PM,2:30,DeRozan 10' Turnaround Fadeaway (8 PTS),,,22 - 21,-1,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,135,8,0,1,8:31 PM,2:11,SUB: LaVine FOR DeRozan,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200227,138,1,1,1,8:32 PM,2:00,,,Wagner 28' 3PT Jump Shot (7 PTS) (Carter Jr. 1 AST),25 - 21,-4,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200227,140,2,79,1,8:32 PM,1:48,MISS LaVine 19' Pullup Jump Shot,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,141,4,0,1,8:32 PM,1:45,,,Ross REBOUND (Off:0 Def:1),,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,142,6,1,1,8:32 PM,1:28,Drummond P.FOUL (P1.PN) (S.Wall),,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200227,144,3,11,1,8:33 PM,1:28,,,MISS Bamba Free Throw 1 of 2,,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,145,4,1,1,8:33 PM,1:28,,,Magic Rebound,,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200227,146,3,12,1,8:33 PM,1:28,,,Bamba Free Throw 2 of 2 (7 PTS),26 - 21,-5,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,147,2,1,1,8:33 PM,1:11,MISS Dragic 25' 3PT Jump Shot,,,,,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,148,4,0,1,8:33 PM,1:08,,,Wagner REBOUND (Off:0 Def:2),,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,149,1,6,1,8:34 PM,1:00,,,Wagner 1' Driving Layup (9 PTS) (Carter Jr. 2 AST),28 - 21,-7,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200227,151,6,2,1,8:34 PM,1:00,Jones Jr. S.FOUL (P1.PN) (D.Guthrie),,,,,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200227,153,3,10,1,8:34 PM,1:00,,,Wagner Free Throw 1 of 1 (10 PTS),29 - 21,-8,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,154,2,1,1,8:34 PM,0:50,MISS Jones Jr. 25' 3PT Jump Shot,,,,,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,155,4,0,1,8:34 PM,0:48,Drummond REBOUND (Off:1 Def:0),,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,156,6,2,1,8:34 PM,0:47,,,Bamba S.FOUL (P2.PN) (S.Wall),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200227,158,3,11,1,8:35 PM,0:47,MISS Drummond Free Throw 1 of 2,,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,159,4,1,1,8:35 PM,0:47,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200227,160,3,12,1,8:35 PM,0:47,Drummond Free Throw 2 of 2 (1 PTS),,,29 - 22,-7,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,161,1,1,1,8:35 PM,0:37,,,G. Harris 26' 3PT Jump Shot (3 PTS) (Wagner 3 AST),32 - 22,-10,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200227,163,1,101,1,8:35 PM,0:29,Drummond 4' Driving Floating Jump Shot (3 PTS) (LaVine 1 AST),,,32 - 24,-8,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200227,165,1,79,1,8:36 PM,0:08,,,Carter Jr. 15' Pullup Jump Shot (6 PTS) (Wagner 4 AST),34 - 24,-10,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200227,166,5,4,1,8:36 PM,0:02,Drummond Traveling Turnover (P1.T4),,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0022200227,168,1,1,1,8:36 PM,0:00,,,Carter Jr. 34' 3PT Jump Shot (9 PTS) (Wagner 5 AST),37 - 24,-13,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200227,171,18,0,1,8:36 PM,0:00,,Instant Replay1st Period (8:36 PM EST),,37 - 24,-13,0,168,Chris Mills,,,,,0,0,,,,,,1,0,,,,,,0
+0022200227,170,13,0,1,8:36 PM,0:00,,End of 1st Period (8:36 PM EST),,37 - 24,-13,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200227,173,12,0,2,8:39 PM,12:00,,Start of 2nd Period (8:39 PM EST),,37 - 24,-13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200227,174,2,75,2,8:39 PM,11:39,MISS Dragic 1' Driving Finger Roll Layup,,,,,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,175,4,0,2,8:40 PM,11:36,Drummond REBOUND (Off:2 Def:0),,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,176,2,97,2,8:40 PM,11:36,MISS Drummond Tip Layup Shot,,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,177,4,0,2,8:40 PM,11:34,Jones Jr. REBOUND (Off:1 Def:1),,,,,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,178,1,6,2,8:40 PM,11:33,LaVine 3' Driving Layup (2 PTS) (Caruso 3 AST),,,37 - 26,-11,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200227,179,7,2,2,8:40 PM,11:33,,,Bamba Violation:Defensive Goaltending (D.Guthrie),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022200227,180,6,1,2,8:40 PM,11:24,Caruso P.FOUL (P2.T1) (S.Wall),,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200227,183,8,0,2,8:40 PM,11:24,SUB: Williams FOR Jones Jr.,,,,,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200227,185,1,9,2,8:41 PM,11:14,,,Carter Jr. 1' Driving Dunk (11 PTS) (Wagner 6 AST),39 - 26,-13,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200227,187,9,1,2,8:41 PM,11:13,BULLS Timeout: Regular (Full 3 Short 0),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200227,188,2,98,2,8:44 PM,10:54,MISS Caruso 1' Cutting Layup Shot,,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,189,4,0,2,8:44 PM,10:52,,,Bamba REBOUND (Off:1 Def:1),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,190,2,1,2,8:44 PM,10:47,,,MISS Ross 3PT Jump Shot,,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,191,4,0,2,8:44 PM,10:45,LaVine REBOUND (Off:0 Def:1),,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,192,2,79,2,8:44 PM,10:38,MISS LaVine 7' Pullup Jump Shot,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,193,4,0,2,8:44 PM,10:36,,,Carter Jr. REBOUND (Off:0 Def:3),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,194,1,41,2,8:44 PM,10:34,,,G. Harris 1' Running Layup (5 PTS) (Carter Jr. 3 AST),41 - 26,-15,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200227,196,2,6,2,8:45 PM,10:16,MISS LaVine 2' Driving Layup,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,197,4,0,2,8:45 PM,10:14,Williams REBOUND (Off:2 Def:2),,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,198,2,1,2,8:45 PM,10:06,MISS Williams 25' 3PT Jump Shot,,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,199,4,0,2,8:45 PM,10:06,LaVine REBOUND (Off:1 Def:1),,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,200,2,5,2,8:45 PM,9:54,MISS LaVine 3' Layup,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,201,4,0,2,8:45 PM,9:52,,,Bamba REBOUND (Off:1 Def:2),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,202,8,0,2,8:45 PM,9:49,SUB: Dosunmu FOR Drummond,,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200227,203,8,0,2,8:45 PM,9:49,SUB: DeRozan FOR Caruso,,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200227,204,8,0,2,8:45 PM,9:49,SUB: Vucevic FOR LaVine,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200227,205,8,0,2,8:45 PM,9:49,,,SUB: Schofield FOR Bamba,,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,5,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200227,210,6,1,2,8:46 PM,9:43,Vucevic P.FOUL (P2.T2) (D.Guthrie),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200227,212,2,1,2,8:46 PM,9:36,,,MISS Carter Jr. 24' 3PT Jump Shot,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,213,4,0,2,8:46 PM,9:34,DeRozan REBOUND (Off:0 Def:1),,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,214,6,1,2,8:46 PM,9:28,,,Schofield P.FOUL (P1.T1) (D.Taylor),,,5,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200227,216,1,75,2,8:47 PM,9:21,DeRozan 1' Driving Finger Roll Layup (10 PTS) (Dragic 1 AST),,,41 - 28,-13,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200227,217,1,80,2,8:47 PM,9:07,,,Carter Jr. 9' Step Back Jump Shot (13 PTS) (Wagner 7 AST),43 - 28,-15,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200227,218,5,45,2,8:47 PM,8:57,DeRozan Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0022200227,219,5,1,2,8:47 PM,8:44,Dosunmu STEAL (1 STL),,Wagner Bad Pass Turnover (P1.T2),,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200227,221,1,75,2,8:48 PM,8:35,Dosunmu 2' Driving Finger Roll Layup (8 PTS) (Vucevic 4 AST),,,43 - 30,-13,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200227,224,9,1,2,8:48 PM,8:35,,,Magic Timeout: Regular (Reg.1 Short 0),,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200227,227,8,0,2,8:50 PM,8:35,SUB: White FOR Dragic,,,,,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200227,229,1,75,2,8:51 PM,8:20,,,Wagner 1' Driving Finger Roll Layup (12 PTS),45 - 30,-15,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,230,2,86,2,8:51 PM,8:05,MISS DeRozan 12' Turnaround Fadeaway Shot,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,231,4,0,2,8:51 PM,8:02,,,Carter Jr. REBOUND (Off:0 Def:4),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,232,2,6,2,8:51 PM,7:55,,,MISS Wagner 3' Driving Layup,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,233,4,0,2,8:51 PM,7:53,DeRozan REBOUND (Off:0 Def:2),,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,234,1,1,2,8:51 PM,7:49,Dosunmu 3PT Jump Shot (11 PTS) (White 1 AST),,,45 - 33,-12,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200227,236,2,1,2,8:52 PM,7:26,,,MISS Schofield 27' 3PT Jump Shot,,,5,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,237,4,0,2,8:52 PM,7:22,Vucevic REBOUND (Off:1 Def:7),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,238,2,1,2,8:52 PM,7:18,MISS Vucevic 26' 3PT Jump Shot,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,239,4,0,2,8:52 PM,7:14,,,Schofield REBOUND (Off:0 Def:1),,,5,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,240,6,1,2,8:52 PM,7:04,White P.FOUL (P1.T3) (D.Taylor),,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200227,242,8,0,2,8:52 PM,7:04,,,SUB: Bol FOR G. Harris,,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200227,243,8,0,2,8:52 PM,7:04,,,SUB: Bamba FOR Wagner,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200227,244,8,0,2,8:52 PM,7:04,,,SUB: Suggs FOR Carter Jr.,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200227,248,2,79,2,8:53 PM,6:57,,,MISS Ross 13' Pullup Jump Shot,,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,249,4,0,2,8:53 PM,6:52,,,Suggs REBOUND (Off:1 Def:1),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,250,6,2,2,8:53 PM,6:51,Dosunmu S.FOUL (P2.T4) (D.Taylor),,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200227,252,3,11,2,8:53 PM,6:51,,,Bol Free Throw 1 of 2 (5 PTS),46 - 33,-13,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0022200227,253,3,12,2,8:53 PM,6:51,,,Bol Free Throw 2 of 2 (6 PTS),47 - 33,-14,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,254,1,6,2,8:54 PM,6:35,Vucevic 2' Driving Layup (4 PTS),,,47 - 35,-12,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,255,2,1,2,8:54 PM,6:09,,,MISS Suggs 24' 3PT Jump Shot,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,256,4,0,2,8:54 PM,6:05,White REBOUND (Off:0 Def:1),,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,257,5,1,2,8:54 PM,6:04,White Bad Pass Turnover (P1.T6),,Suggs STEAL (1 STL),,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200227,259,1,9,2,8:55 PM,6:03,,,Bol 1' Driving Dunk (8 PTS) (Suggs 3 AST),49 - 35,-14,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200227,261,6,1,2,8:55 PM,5:47,,,Bamba P.FOUL (P3.T2) (D.Taylor),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200227,263,8,0,2,8:55 PM,5:47,,,SUB: Okeke FOR Ross,,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200227,265,1,75,2,8:55 PM,5:39,DeRozan 1' Driving Finger Roll Layup (12 PTS),,,49 - 37,-12,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,266,1,1,2,8:56 PM,5:18,,,Bamba 25' 3PT Jump Shot (10 PTS) (Suggs 4 AST),52 - 37,-15,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200227,268,1,41,2,8:56 PM,5:11,Dosunmu 3' Running Layup (13 PTS) (White 2 AST),,,52 - 39,-13,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200227,269,7,2,2,8:56 PM,5:11,,,Bamba Violation:Defensive Goaltending (S.Wall),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022200227,270,2,1,2,8:56 PM,4:56,,,MISS Bamba 21' Jump Shot,,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,271,4,0,2,8:56 PM,4:56,,,Bol REBOUND (Off:2 Def:2),,,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,272,2,1,2,8:57 PM,4:49,,,MISS Bol 8' Jump Shot,,,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,273,4,0,2,8:57 PM,4:46,Vucevic REBOUND (Off:1 Def:8),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,275,2,1,2,8:57 PM,4:40,MISS White 25' 3PT Jump Shot,,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,276,4,0,2,8:57 PM,4:38,,,Bamba REBOUND (Off:1 Def:3),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,277,1,79,2,8:57 PM,4:21,,,Suggs 18' Pullup Jump Shot (6 PTS),54 - 39,-15,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,278,6,2,2,8:57 PM,4:15,,,Bol S.FOUL (P1.T3) (D.Guthrie),,,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200227,280,3,11,2,8:58 PM,4:15,Williams Free Throw 1 of 2 (6 PTS),,,54 - 40,-14,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,281,8,0,2,8:58 PM,4:15,SUB: Caruso FOR White,,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200227,282,8,0,2,8:58 PM,4:15,SUB: LaVine FOR Dosunmu,,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200227,287,3,12,2,8:58 PM,4:15,Williams Free Throw 2 of 2 (7 PTS),,,54 - 41,-13,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,285,8,0,2,8:58 PM,4:15,,,SUB: Wagner FOR Schofield,,,5,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200227,291,5,45,2,8:58 PM,4:03,,,Suggs Out of Bounds - Bad Pass Turnover Turnover (P2.T3),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022200227,292,1,6,2,8:59 PM,3:48,Vucevic 1' Driving Layup (6 PTS) (LaVine 2 AST),,,54 - 43,-11,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200227,293,2,1,2,8:59 PM,3:33,,,MISS Suggs 29' 3PT Jump Shot,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,294,4,0,2,8:59 PM,3:28,DeRozan REBOUND (Off:0 Def:3),,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,295,1,6,2,8:59 PM,3:24,DeRozan 1' Driving Layup (14 PTS),,,54 - 45,-9,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,296,6,2,2,8:59 PM,3:24,,,Okeke S.FOUL (P2.T4) (D.Guthrie),,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200227,298,8,0,2,8:59 PM,3:24,,,SUB: Carter Jr. FOR Bamba,,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200227,300,3,10,2,9:00 PM,3:24,DeRozan Free Throw 1 of 1 (15 PTS),,,54 - 46,-8,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,301,6,2,2,9:00 PM,3:08,Vucevic S.FOUL (P3.PN) (D.Taylor),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200227,303,3,11,2,9:00 PM,3:08,,,Wagner Free Throw 1 of 2 (13 PTS),55 - 46,-9,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0022200227,304,8,0,2,9:00 PM,3:08,SUB: Dosunmu FOR Williams,,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200227,307,3,12,2,9:01 PM,3:08,,,Wagner Free Throw 2 of 2 (14 PTS),56 - 46,-10,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,308,6,1,2,9:01 PM,2:54,,,Carter Jr. P.FOUL (P1.PN) (S.Wall),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200227,310,3,11,2,9:02 PM,2:54,Vucevic Free Throw 1 of 2 (7 PTS),,,56 - 47,-9,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,311,3,12,2,9:02 PM,2:54,Vucevic Free Throw 2 of 2 (8 PTS),,,56 - 48,-8,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,312,1,1,2,9:02 PM,2:33,,,Bol 19' Jump Shot (10 PTS) (Suggs 5 AST),58 - 48,-10,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200227,314,2,6,2,9:03 PM,2:11,MISS Vucevic 1' Driving Layup,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,316,4,0,2,9:03 PM,2:09,Vucevic REBOUND (Off:2 Def:8),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,317,1,97,2,9:03 PM,2:09,Vucevic Tip Layup Shot (10 PTS),,,58 - 50,-8,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,318,1,73,2,9:03 PM,1:50,,,Carter Jr. 1' Driving Reverse Layup (15 PTS) (Suggs 6 AST),60 - 50,-10,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200227,320,6,1,2,9:03 PM,1:38,,,Wagner P.FOUL (P2.PN) (S.Wall),,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200227,322,3,11,2,9:04 PM,1:38,Vucevic Free Throw 1 of 2 (11 PTS),,,60 - 51,-9,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,323,3,12,2,9:04 PM,1:38,Vucevic Free Throw 2 of 2 (12 PTS),,,60 - 52,-8,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,324,1,6,2,9:04 PM,1:28,,,Suggs 2' Driving Layup (8 PTS),62 - 52,-10,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,325,2,79,2,9:04 PM,1:15,MISS Vucevic 25' 3PT Pullup Jump Shot,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,326,4,0,2,9:04 PM,1:15,,,Carter Jr. REBOUND (Off:0 Def:5),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,327,6,1,2,9:05 PM,0:59,Caruso P.FOUL (P3.PN) (D.Guthrie),,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200227,329,3,11,2,9:05 PM,0:59,,,Carter Jr. Free Throw 1 of 2 (16 PTS),63 - 52,-11,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,330,8,0,2,9:05 PM,0:59,SUB: Drummond FOR Vucevic,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200227,331,8,0,2,9:05 PM,0:59,,,SUB: G. Harris FOR Okeke,,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200227,334,3,12,2,9:06 PM,0:59,,,Carter Jr. Free Throw 2 of 2 (17 PTS),64 - 52,-12,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,335,2,79,2,9:06 PM,0:40,MISS LaVine 16' Pullup Jump Shot,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,336,4,0,2,9:06 PM,0:38,,,Carter Jr. REBOUND (Off:0 Def:6),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,342,2,79,2,9:06 PM,0:34,Dosunmu BLOCK (2 BLK),,MISS Suggs 14' Pullup Jump Shot,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,1
+0022200227,344,4,0,2,9:06 PM,0:34,,,Suggs REBOUND (Off:2 Def:1),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,337,1,80,2,9:06 PM,0:33,,,Suggs 12' Step Back Jump Shot (10 PTS),66 - 52,-14,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,338,2,1,2,9:07 PM,0:20,MISS LaVine 25' 3PT Jump Shot,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,339,4,0,2,9:07 PM,0:16,,,Bol REBOUND (Off:2 Def:3),,,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,340,5,45,2,9:07 PM,0:04,,,Suggs Out of Bounds - Bad Pass Turnover Turnover (P3.T4),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022200227,341,13,0,2,9:07 PM,0:00,,End of 2nd Period (9:07 PM EST),,66 - 52,-14,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200227,351,12,0,3,9:22 PM,12:00,,Start of 3rd Period (9:22 PM EST),,66 - 52,-14,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200227,352,1,79,3,9:23 PM,11:37,DeRozan 21' Pullup Jump Shot (17 PTS) (Dosunmu 2 AST),,,66 - 54,-12,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200227,354,2,1,3,9:23 PM,11:20,,,MISS Carter Jr. 25' 3PT Jump Shot,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,355,4,0,3,9:23 PM,11:16,LaVine REBOUND (Off:1 Def:2),,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,356,5,2,3,9:23 PM,11:04,DeRozan Lost Ball Turnover (P2.T7),,Wagner STEAL (1 STL),,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200227,358,1,98,3,9:24 PM,10:44,,,Carter Jr. 1' Cutting Layup Shot (19 PTS) (Okeke 2 AST),68 - 54,-14,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200227,360,2,80,3,9:24 PM,10:28,MISS LaVine 27' 3PT Step Back Jump Shot,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,361,4,0,3,9:24 PM,10:26,,,Carter Jr. REBOUND (Off:0 Def:7),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,362,1,108,3,9:24 PM,10:07,,,Okeke 1' Cutting Dunk Shot (2 PTS) (Carter Jr. 4 AST),70 - 54,-16,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200227,364,2,1,3,9:25 PM,9:51,MISS Williams 27' 3PT Jump Shot,,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,365,4,0,3,9:25 PM,9:47,,,Wagner REBOUND (Off:0 Def:3),,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,366,2,79,3,9:25 PM,9:30,,,MISS Carter Jr. 16' Pullup Jump Shot,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,367,4,0,3,9:25 PM,9:26,LaVine REBOUND (Off:1 Def:3),,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,368,2,1,3,9:25 PM,9:18,MISS DeRozan 22' Jump Shot,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,369,4,0,3,9:25 PM,9:15,,,Carter Jr. REBOUND (Off:0 Def:8),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,370,1,98,3,9:26 PM,9:01,,,Bol 1' Cutting Layup Shot (12 PTS),72 - 54,-18,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,371,6,2,3,9:26 PM,9:01,DeRozan S.FOUL (P2.T1) (S.Wall),,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200227,373,3,10,3,9:26 PM,9:01,,,Bol Free Throw 1 of 1 (13 PTS),73 - 54,-19,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,374,2,1,3,9:26 PM,8:49,MISS Dosunmu 25' 3PT Jump Shot,,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,375,4,0,3,9:26 PM,8:45,,,Bol REBOUND (Off:2 Def:4),,,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,376,5,1,3,9:27 PM,8:33,Vucevic STEAL (1 STL),,Suggs Bad Pass Turnover (P4.T5),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200227,378,6,2,3,9:27 PM,8:31,,,Wagner S.FOUL (P3.T1) (S.Wall),,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200227,380,3,11,3,9:27 PM,8:31,LaVine Free Throw 1 of 2 (3 PTS),,,73 - 55,-18,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,381,3,12,3,9:27 PM,8:31,LaVine Free Throw 2 of 2 (4 PTS),,,73 - 56,-17,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,382,8,0,3,9:27 PM,8:31,SUB: Caruso FOR Dosunmu,,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200227,384,2,79,3,9:28 PM,8:18,,,MISS Okeke 12' Pullup Jump Shot,,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,385,4,0,3,9:28 PM,8:15,Vucevic REBOUND (Off:2 Def:9),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,386,2,101,3,9:28 PM,8:08,MISS DeRozan 7' Driving Floating Jump Shot,,Bol BLOCK (1 BLK),,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,1
+0022200227,388,4,0,3,9:28 PM,8:07,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200227,390,2,101,3,9:28 PM,7:58,MISS LaVine 6' Driving Floating Jump Shot,,Bol BLOCK (2 BLK),,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,1
+0022200227,392,4,0,3,9:28 PM,7:55,,,Bol REBOUND (Off:2 Def:5),,,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,393,5,39,3,9:29 PM,7:41,,,Suggs Step Out of Bounds Turnover (P5.T6),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022200227,395,6,1,3,9:29 PM,7:26,,,Suggs P.FOUL (P2.T2) (S.Wall),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200227,397,6,2,3,9:30 PM,7:22,,,Okeke S.FOUL (P3.T3) (D.Guthrie),,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200227,399,3,11,3,9:30 PM,7:22,MISS DeRozan Free Throw 1 of 2,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,400,4,1,3,9:30 PM,7:22,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200227,401,3,12,3,9:31 PM,7:22,DeRozan Free Throw 2 of 2 (18 PTS),,,73 - 57,-16,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,402,5,45,3,9:31 PM,7:08,,,Carter Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T7),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022200227,403,8,0,3,9:31 PM,7:08,,,SUB: Bamba FOR Carter Jr.,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200227,405,1,1,3,9:31 PM,6:52,Caruso 26' 3PT Jump Shot (3 PTS) (Vucevic 5 AST),,,73 - 60,-13,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200227,407,1,1,3,9:32 PM,6:34,,,Bamba 25' 3PT Jump Shot (13 PTS) (Suggs 7 AST),76 - 60,-16,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200227,409,2,6,3,9:32 PM,6:17,MISS DeRozan 6' Driving Layup,,Bamba BLOCK (1 BLK),,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,1
+0022200227,411,4,0,3,9:32 PM,6:13,,,Okeke REBOUND (Off:0 Def:3),,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,412,2,1,3,9:32 PM,6:10,,,MISS Okeke 25' 3PT Jump Shot,,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,413,4,0,3,9:32 PM,6:09,Williams REBOUND (Off:2 Def:3),,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,414,2,6,3,9:32 PM,6:04,MISS Vucevic 2' Driving Layup,,Suggs BLOCK (1 BLK),,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,1
+0022200227,416,4,0,3,9:32 PM,6:02,,,Okeke REBOUND (Off:0 Def:4),,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,417,6,2,3,9:32 PM,6:00,Caruso S.FOUL (P4.T2) (S.Wall),,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200227,419,9,1,3,9:33 PM,6:00,BULLS Timeout: Regular (Full 4 Short 0),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200227,421,8,0,3,9:35 PM,6:00,SUB: Green FOR LaVine,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200227,422,8,0,3,9:35 PM,6:00,SUB: Dragic FOR Williams,,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200227,425,8,0,3,9:35 PM,6:00,,,SUB: G. Harris FOR Wagner,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200227,427,7,1,3,9:35 PM,6:00,,,Magic Violation: Delay of game Violation,,,3,1610612753,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200227,428,3,11,3,9:36 PM,6:00,,,Okeke Free Throw 1 of 2 (3 PTS),77 - 60,-17,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,429,3,12,3,9:36 PM,6:00,,,Okeke Free Throw 2 of 2 (4 PTS),78 - 60,-18,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,430,6,17,3,9:36 PM,5:45,,,Magic T.Foul (Def. 3 Sec Bol ) (D.Taylor),,,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022200227,431,3,16,3,9:37 PM,5:45,DeRozan Free Throw Technical (19 PTS),,,78 - 61,-17,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,432,6,1,3,9:37 PM,5:31,,,Bamba P.FOUL (P4.T4) (D.Guthrie),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200227,434,2,80,3,9:37 PM,5:18,MISS Vucevic 11' Step Back Jump Shot,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,435,4,0,3,9:37 PM,5:15,,,Okeke REBOUND (Off:0 Def:5),,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,436,6,1,3,9:38 PM,4:56,Caruso P.FOUL (P5.T3) (S.Wall),,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200227,438,1,73,3,9:38 PM,4:47,,,G. Harris 1' Driving Reverse Layup (7 PTS),80 - 61,-19,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,439,1,79,3,9:38 PM,4:35,DeRozan 15' Pullup Jump Shot (21 PTS) (Caruso 4 AST),,,80 - 63,-17,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200227,441,2,6,3,9:39 PM,4:15,,,MISS Suggs 1' Driving Layup,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,442,4,0,3,9:39 PM,4:13,Green REBOUND (Off:0 Def:1),,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,443,1,6,3,9:39 PM,4:08,Caruso 1' Driving Layup (5 PTS) (Green 1 AST),,,80 - 65,-15,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200227,445,2,79,3,9:39 PM,3:52,,,MISS Bol 15' Pullup Jump Shot,,,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,446,4,0,3,9:39 PM,3:47,Vucevic REBOUND (Off:2 Def:10),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,447,1,52,3,9:39 PM,3:43,Green 1' Alley Oop Dunk (2 PTS) (Dragic 2 AST),,,80 - 67,-13,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200227,449,9,1,3,9:39 PM,3:43,,,Magic Timeout: Regular (Reg.2 Short 0),,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200227,450,8,0,3,9:42 PM,3:43,SUB: Williams FOR Caruso,,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200227,451,8,0,3,9:42 PM,3:43,,,SUB: Ross FOR Suggs,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200227,452,8,0,3,9:42 PM,3:43,,,SUB: Wagner FOR Bol,,,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200227,456,1,1,3,9:43 PM,3:25,,,Ross 3PT Jump Shot (3 PTS) (G. Harris 1 AST),83 - 67,-16,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200227,458,1,1,3,9:43 PM,3:03,DeRozan 26' 3PT Jump Shot (24 PTS) (Dragic 3 AST),,,83 - 70,-13,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200227,460,2,6,3,9:43 PM,2:45,Vucevic BLOCK (2 BLK),,MISS Okeke 4' Driving Layup,,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,1
+0022200227,462,4,0,3,9:43 PM,2:42,Dragic REBOUND (Off:0 Def:1),,,,,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,463,6,2,3,9:43 PM,2:38,,,Wagner S.FOUL (P4.PN) (S.Wall),,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200227,465,3,11,3,9:44 PM,2:38,Williams Free Throw 1 of 2 (8 PTS),,,83 - 71,-12,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,466,3,12,3,9:44 PM,2:38,Williams Free Throw 2 of 2 (9 PTS),,,83 - 72,-11,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,467,5,45,3,9:44 PM,2:18,,,Ross Out of Bounds - Bad Pass Turnover Turnover (P1.T8),,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022200227,474,2,79,3,9:45 PM,2:07,MISS DeRozan 17' Pullup Jump Shot,,Okeke BLOCK (1 BLK),,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,1
+0022200227,476,4,0,3,9:45 PM,2:06,DeRozan REBOUND (Off:1 Def:3),,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,468,6,2,3,9:45 PM,2:02,,,Okeke S.FOUL (P4.PN) (S.Wall),,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200227,470,3,11,3,9:45 PM,2:02,DeRozan Free Throw 1 of 2 (25 PTS),,,83 - 73,-10,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,471,3,12,3,9:46 PM,2:02,DeRozan Free Throw 2 of 2 (26 PTS),,,83 - 74,-9,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,472,6,2,3,9:46 PM,1:53,Dragic S.FOUL (P1.T4) (S.Wall),,,,,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200227,477,3,11,3,9:47 PM,1:53,,,Wagner Free Throw 1 of 2 (15 PTS),84 - 74,-10,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,478,3,12,3,9:47 PM,1:53,,,MISS Wagner Free Throw 2 of 2,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,479,4,0,3,9:47 PM,1:50,Williams REBOUND (Off:2 Def:4),,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,480,2,5,3,9:48 PM,1:35,MISS Vucevic 3' Layup,,Bamba BLOCK (2 BLK),,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,1
+0022200227,482,4,0,3,9:48 PM,1:34,Vucevic REBOUND (Off:3 Def:10),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,483,5,4,3,9:48 PM,1:32,Vucevic Traveling Turnover (P1.T8),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0022200227,484,8,0,3,9:48 PM,1:32,,,SUB: Schofield FOR Okeke,,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,5,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200227,486,2,80,3,9:48 PM,1:17,,,MISS G. Harris 14' Step Back Jump Shot,,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,487,4,0,3,9:48 PM,1:15,Dragic REBOUND (Off:0 Def:2),,,,,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,488,6,2,3,9:48 PM,1:12,,,Wagner S.FOUL (P5.PN) (S.Wall),,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200227,490,3,11,3,9:49 PM,1:12,Dragic Free Throw 1 of 2 (1 PTS),,,84 - 75,-9,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,495,3,12,3,9:49 PM,1:12,MISS Dragic Free Throw 2 of 2,,,,,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,491,8,0,3,9:49 PM,1:12,SUB: Drummond FOR Vucevic,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200227,492,8,0,3,9:49 PM,1:12,,,SUB: Suggs FOR Wagner,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200227,496,4,0,3,9:49 PM,1:09,,,G. Harris REBOUND (Off:0 Def:1),,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,497,2,57,3,9:50 PM,0:51,,,MISS Bamba 6' Driving Hook Shot,,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,498,4,0,3,9:50 PM,0:50,Drummond REBOUND (Off:2 Def:1),,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,499,1,79,3,9:50 PM,0:43,DeRozan 15' Pullup Jump Shot (28 PTS),,,84 - 77,-7,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,501,2,78,3,9:50 PM,0:30,,,MISS Suggs 4' Floating Jump Shot,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,502,4,0,3,9:50 PM,0:27,Williams REBOUND (Off:2 Def:5),,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,503,1,79,3,9:50 PM,0:12,DeRozan 21' Pullup Jump Shot (30 PTS),,,84 - 79,-5,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,504,1,1,3,9:51 PM,0:04,,,Suggs 27' 3PT Jump Shot (13 PTS),87 - 79,-8,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,505,5,1,3,9:51 PM,0:03,Drummond Bad Pass Turnover (P2.T9),,G. Harris STEAL (1 STL),,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200227,507,2,5,3,9:51 PM,0:00,,,MISS G. Harris 3' Layup,,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,508,4,0,3,9:51 PM,0:00,,,Magic Rebound,,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200227,509,13,0,3,9:51 PM,0:00,,End of 3rd Period (9:51 PM EST),,87 - 79,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200227,512,12,0,4,9:54 PM,12:00,,Start of 4th Period (9:54 PM EST),,87 - 79,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200227,513,5,1,4,9:54 PM,11:46,Green STEAL (1 STL),,Carter Jr. Bad Pass Turnover (P2.T9),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200227,515,1,1,4,9:54 PM,11:38,Williams 3PT Jump Shot (12 PTS) (Dragic 4 AST),,,87 - 82,-5,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200227,517,5,2,4,9:54 PM,11:10,Green STEAL (2 STL),,Suggs Lost Ball Turnover (P6.T10),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200227,519,1,50,4,9:54 PM,11:04,Green 1' Running Dunk (4 PTS),,,87 - 84,-3,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,520,2,1,4,9:55 PM,10:37,,,MISS Ross 26' 3PT Jump Shot,,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,521,4,0,4,9:55 PM,10:37,Drummond REBOUND (Off:2 Def:2),,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,522,2,79,4,9:55 PM,10:16,MISS DeRozan 18' Pullup Jump Shot,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,523,4,0,4,9:55 PM,10:14,,,Suggs REBOUND (Off:2 Def:2),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,524,6,1,4,9:56 PM,10:03,Green P.FOUL (P1.T1) (D.Taylor),,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200227,526,1,79,4,9:56 PM,9:53,,,Ross 19' Pullup Jump Shot (5 PTS) (Carter Jr. 5 AST),89 - 84,-5,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200227,528,1,73,4,9:56 PM,9:38,DeRozan 1' Driving Reverse Layup (32 PTS) (Drummond 1 AST),,,89 - 86,-3,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200227,530,1,1,4,9:57 PM,9:25,,,Ross 24' 3PT Jump Shot (8 PTS) (Bamba 1 AST),92 - 86,-6,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200227,532,2,79,4,9:57 PM,9:12,MISS DeRozan 14' Pullup Jump Shot,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,533,4,0,4,9:57 PM,9:10,Drummond REBOUND (Off:3 Def:2),,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,534,2,97,4,9:57 PM,9:09,MISS Drummond Tip Layup Shot,,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,535,4,0,4,9:57 PM,9:07,Drummond REBOUND (Off:4 Def:2),,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,536,1,97,4,9:57 PM,9:07,Drummond Tip Layup Shot (5 PTS),,,92 - 88,-4,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,537,5,4,4,9:57 PM,8:50,,,Carter Jr. Traveling Turnover (P3.T11),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022200227,538,8,0,4,9:57 PM,8:50,SUB: LaVine FOR Dragic,,,,,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200227,540,2,63,4,9:58 PM,8:33,MISS LaVine 14' Fadeaway Jumper,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,541,4,0,4,9:58 PM,8:31,,,Ross REBOUND (Off:0 Def:2),,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,542,6,1,4,9:58 PM,8:22,Green P.FOUL (P2.T2) (D.Guthrie),,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200227,544,6,4,4,9:58 PM,8:12,,,Carter Jr. OFF.Foul (P2) (D.Guthrie),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200227,546,5,37,4,9:58 PM,8:12,,,Carter Jr. Offensive Foul Turnover (P4.T12),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022200227,547,1,58,4,9:59 PM,7:52,Drummond 6' Turnaround Hook Shot (7 PTS),,,92 - 90,-2,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,548,5,2,4,9:59 PM,7:32,Green STEAL (3 STL),,Ross Lost Ball Turnover (P2.T13),,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200227,551,6,1,4,9:59 PM,7:32,,,Ross P.FOUL (P1.T1) (D.Guthrie),,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200227,553,8,0,4,10:00 PM,7:32,,,SUB: Wagner FOR Bamba,,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200227,555,9,1,4,10:00 PM,7:32,BULLS Timeout: Regular (Full 5 Short 0),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200227,556,8,0,4,10:03 PM,7:32,,,SUB: Bol FOR Suggs,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200227,558,1,79,4,10:03 PM,7:13,DeRozan 15' Pullup Jump Shot (34 PTS),,,92 - 92,TIE,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,559,1,52,4,10:03 PM,6:56,,,Carter Jr. 1' Alley Oop Dunk (21 PTS) (Wagner 8 AST),94 - 92,-2,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200227,561,1,79,4,10:04 PM,6:41,DeRozan 18' Pullup Jump Shot (36 PTS),,,94 - 94,TIE,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,562,1,101,4,10:04 PM,6:21,,,Wagner 6' Driving Floating Jump Shot (17 PTS),96 - 94,-2,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,563,2,80,4,10:04 PM,5:54,MISS LaVine 25' 3PT Step Back Jump Shot,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,564,4,0,4,10:05 PM,5:52,,,Bol REBOUND (Off:2 Def:6),,,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,565,1,1,4,10:05 PM,5:44,,,Wagner 26' 3PT Jump Shot (20 PTS),99 - 94,-5,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,566,5,45,4,10:05 PM,5:32,LaVine Out of Bounds - Bad Pass Turnover Turnover (P1.T10),,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0022200227,567,8,0,4,10:05 PM,5:32,SUB: Vucevic FOR Drummond,,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200227,568,8,0,4,10:05 PM,5:32,,,SUB: Okeke FOR G. Harris,,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200227,569,8,0,4,10:05 PM,5:32,,,SUB: Suggs FOR Ross,,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200227,573,2,6,4,10:06 PM,5:18,Vucevic BLOCK (3 BLK),,MISS Wagner 3' Driving Layup,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,1
+0022200227,575,4,0,4,10:06 PM,5:17,LaVine REBOUND (Off:1 Def:4),,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,576,5,4,4,10:06 PM,5:07,Williams Traveling Turnover (P1.T11),,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0022200227,577,8,0,4,10:06 PM,5:07,SUB: Caruso FOR Williams,,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200227,579,1,9,4,10:06 PM,4:44,,,Bol 1' Driving Dunk (15 PTS) (Suggs 8 AST),101 - 94,-7,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200227,581,1,79,4,10:07 PM,4:29,DeRozan 20' Pullup Jump Shot (38 PTS),,,101 - 96,-5,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,582,6,2,4,10:07 PM,4:29,,,Bol S.FOUL (P2.T2) (S.Wall),,,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200227,584,3,10,4,10:07 PM,4:29,DeRozan Free Throw 1 of 1 (39 PTS),,,101 - 97,-4,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0022200227,585,2,1,4,10:07 PM,4:12,,,MISS Carter Jr. 25' 3PT Jump Shot,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,586,4,0,4,10:07 PM,4:10,Green REBOUND (Off:0 Def:2),,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,587,2,6,4,10:08 PM,3:59,MISS DeRozan 2' Driving Layup,,Okeke BLOCK (2 BLK),,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,1
+0022200227,589,4,0,4,10:08 PM,3:57,,,Bol REBOUND (Off:2 Def:7),,,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,590,5,40,4,10:08 PM,3:43,,,Wagner Out of Bounds Lost Ball Turnover (P2.T14),,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022200227,591,8,0,4,10:08 PM,3:43,SUB: Dosunmu FOR LaVine,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200227,593,1,58,4,10:09 PM,3:19,Vucevic 6' Turnaround Hook Shot (14 PTS) (Caruso 5 AST),,,101 - 99,-2,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200227,595,1,6,4,10:09 PM,2:59,,,Suggs 2' Driving Layup (15 PTS),103 - 99,-4,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,596,1,98,4,10:09 PM,2:49,Caruso 1' Cutting Layup Shot (7 PTS) (Vucevic 6 AST),,,103 - 101,-2,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200227,598,6,4,4,10:10 PM,2:32,,,Carter Jr. OFF.Foul (P3) (D.Taylor),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200227,600,5,37,4,10:10 PM,2:32,,,Carter Jr. Offensive Foul Turnover (P5.T15),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022200227,601,9,1,4,10:10 PM,2:32,,,Magic Timeout: Regular (Reg.3 Short 0),,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200227,602,2,6,4,10:13 PM,2:19,MISS DeRozan 2' Driving Layup,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,603,4,0,4,10:13 PM,2:17,,,Okeke REBOUND (Off:0 Def:6),,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,604,2,101,4,10:13 PM,2:02,,,MISS Wagner 7' Driving Floating Jump Shot,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,605,4,0,4,10:13 PM,2:00,Vucevic REBOUND (Off:3 Def:11),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,606,2,58,4,10:14 PM,1:40,MISS Vucevic 7' Turnaround Hook Shot,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,607,4,0,4,10:14 PM,1:38,,,Bol REBOUND (Off:2 Def:8),,,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,608,2,1,4,10:14 PM,1:16,,,MISS Suggs 27' 3PT Jump Shot,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,609,4,0,4,10:14 PM,1:14,Vucevic REBOUND (Off:3 Def:12),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,610,1,79,4,10:14 PM,1:06,DeRozan 19' Pullup Jump Shot (41 PTS),,,103 - 103,TIE,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,611,6,26,4,10:15 PM,0:51,,,Wagner Offensive Charge Foul (P6) (S.Wall),,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200227,613,5,37,4,10:15 PM,0:51,,,Wagner Offensive Foul Turnover (P3.T16),,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022200227,614,9,1,4,10:15 PM,0:51,,,Magic Timeout: Regular (Reg.4 Short 0),,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200227,625,8,0,4,10:15 PM,0:51,,,SUB: G. Harris FOR Wagner,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200227,615,18,6,4,10:16 PM,0:51,,Instant Replay4th Period (10:16 PM EST),,103 - 103,TIE,0,611,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200227,616,1,5,4,10:18 PM,0:40,Green 2' Layup (6 PTS) (Vucevic 7 AST),,,103 - 105,2,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200227,618,2,6,4,10:18 PM,0:29,Dosunmu BLOCK (3 BLK),,MISS Suggs 4' Driving Layup,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,1
+0022200227,620,4,0,4,10:19 PM,0:26,Vucevic REBOUND (Off:3 Def:13),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,621,1,108,4,10:19 PM,0:26,Green 1' Cutting Dunk Shot (8 PTS) (DeRozan 2 AST),,,103 - 107,4,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200227,623,9,1,4,10:19 PM,0:26,,,Magic Timeout: Regular (Reg.5 Short 0),,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200227,629,8,0,4,10:20 PM,0:26,,,SUB: Ross FOR Okeke,,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200227,633,2,1,4,10:20 PM,0:23,,,MISS Carter Jr. 26' 3PT Jump Shot,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,634,4,0,4,10:21 PM,0:20,,,Suggs REBOUND (Off:3 Def:2),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,635,6,2,4,10:21 PM,0:20,Dosunmu S.FOUL (P3.T3) (S.Wall),,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200227,637,3,11,4,10:21 PM,0:20,,,Suggs Free Throw 1 of 2 (16 PTS),104 - 107,3,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,638,3,12,4,10:21 PM,0:20,,,Suggs Free Throw 2 of 2 (17 PTS),105 - 107,2,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,639,9,1,4,10:21 PM,0:20,BULLS Timeout: Regular (Full 6 Short 0),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200227,640,8,0,4,10:22 PM,0:20,SUB: Dragic FOR Green,,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200227,641,8,0,4,10:22 PM,0:20,,,SUB: Okeke FOR Ross,,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200227,644,6,1,4,10:23 PM,0:15,,,Carter Jr. P.FOUL (P4.T3) (S.Wall),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200227,647,9,1,4,10:24 PM,0:14,BULLS Timeout: Regular (Full 7 Short 0),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200227,648,6,1,4,10:25 PM,0:12,,,G. Harris P.FOUL (P1.PN) (D.Guthrie),,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200227,650,3,11,4,10:26 PM,0:12,MISS Vucevic Free Throw 1 of 2,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,651,4,1,4,10:26 PM,0:12,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200227,654,3,12,4,10:26 PM,0:12,MISS Vucevic Free Throw 2 of 2,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,652,8,0,4,10:26 PM,0:12,SUB: Green FOR Dragic,,,,,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200227,655,4,0,4,10:26 PM,0:09,,,Okeke REBOUND (Off:0 Def:7),,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,656,1,80,4,10:26 PM,0:05,,,Suggs 26' 3PT Step Back Jump Shot (20 PTS),108 - 107,-1,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200227,657,2,1,4,10:27 PM,0:00,MISS DeRozan 43' 3PT Jump Shot,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200227,658,4,0,4,10:27 PM,0:00,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200227,659,13,0,4,10:27 PM,0:00,,End of 4th Period (10:27 PM EST),,108 - 107,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

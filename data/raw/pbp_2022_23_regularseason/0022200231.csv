@@ -1,0 +1,412 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200231,2,12,0,1,8:41 PM,12:00,,Start of 1st Period (8:41 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200231,4,10,0,1,8:41 PM,12:00,Jump Ball Valanciunas vs. Horford: Tip to Murphy III,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,1
+0022200231,7,1,5,1,8:41 PM,11:41,Jones 1' Layup (2 PTS) (Ingram 1 AST),,,0 - 2,2,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200231,9,1,1,1,8:42 PM,11:23,,,Horford 27' 3PT Jump Shot (3 PTS) (Brown 1 AST),3 - 2,-1,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200231,11,1,47,1,8:42 PM,11:05,Valanciunas 7' Turnaround Jump Shot (2 PTS),,,3 - 4,1,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,12,2,1,1,8:42 PM,10:53,,,MISS Brown 26' 3PT Jump Shot,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,13,4,0,1,8:42 PM,10:51,Valanciunas REBOUND (Off:0 Def:1),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,14,5,45,1,8:42 PM,10:49,Jones Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022200231,15,1,101,1,8:43 PM,10:30,,,Brown 7' Driving Floating Jump Shot (2 PTS) (Tatum 1 AST),5 - 4,-1,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200231,17,2,1,1,8:43 PM,10:14,MISS McCollum 26' 3PT Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,18,4,0,1,8:43 PM,10:11,,,White REBOUND (Off:0 Def:1),,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,19,2,1,1,8:43 PM,10:04,,,MISS Williams 26' 3PT Jump Shot,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,20,4,0,1,8:43 PM,10:00,Murphy III REBOUND (Off:0 Def:1),,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,21,1,79,1,8:43 PM,9:55,Ingram 26' 3PT Pullup Jump Shot (3 PTS),,,5 - 7,2,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,22,1,6,1,8:44 PM,9:39,,,Williams 2' Driving Layup (2 PTS) (Horford 1 AST),7 - 7,TIE,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200231,24,6,1,1,8:44 PM,9:35,,,Tatum P.FOUL (P1.T1) (J.Van Duyne),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200231,26,5,1,1,8:45 PM,9:21,Ingram Bad Pass Turnover (P1.T2),,Brown STEAL (1 STL),,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200231,28,1,80,1,8:45 PM,9:05,,,Brown 27' 3PT Step Back Jump Shot (5 PTS),10 - 7,-3,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,29,2,63,1,8:45 PM,8:43,MISS Valanciunas 10' Fadeaway Jumper,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,30,4,0,1,8:45 PM,8:40,,,Tatum REBOUND (Off:0 Def:1),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,31,1,1,1,8:46 PM,8:34,,,Brown 28' 3PT Jump Shot (8 PTS) (Tatum 2 AST),13 - 7,-6,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200231,33,1,44,1,8:46 PM,8:13,Valanciunas 1' Reverse Layup (4 PTS),,,13 - 9,-4,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,34,1,1,1,8:46 PM,7:59,,,Horford 25' 3PT Jump Shot (6 PTS) (Tatum 3 AST),16 - 9,-7,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200231,36,2,1,1,8:46 PM,7:47,MISS Jones 24' 3PT Jump Shot,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,37,4,0,1,8:46 PM,7:44,,,Tatum REBOUND (Off:0 Def:2),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,39,1,75,1,8:47 PM,7:35,,,Tatum 2' Driving Finger Roll Layup (2 PTS),18 - 9,-9,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,40,9,1,1,8:47 PM,7:34,PELICANS Timeout: Regular (Full 1 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200231,41,8,0,1,8:49 PM,7:34,SUB: Nance Jr. FOR Valanciunas,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200231,43,2,78,1,8:50 PM,7:15,MISS McCollum 8' Floating Jump Shot,,White BLOCK (1 BLK),,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1
+0022200231,45,4,0,1,8:50 PM,7:10,,,Brown REBOUND (Off:0 Def:1),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,46,2,80,1,8:50 PM,7:08,,,MISS Brown 25' 3PT Step Back Jump Shot,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,47,4,0,1,8:50 PM,7:04,McCollum REBOUND (Off:0 Def:1),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,48,1,1,1,8:50 PM,6:56,Ingram 3PT Jump Shot (6 PTS) (Murphy III 1 AST),,,18 - 12,-6,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200231,50,5,40,1,8:50 PM,6:41,,,Brown Out of Bounds Lost Ball Turnover (P1.T1),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0022200231,51,1,79,1,8:51 PM,6:26,McCollum 26' 3PT Pullup Jump Shot (3 PTS) (Ingram 2 AST),,,18 - 15,-3,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200231,53,1,1,1,8:51 PM,6:10,,,Tatum 26' 3PT Jump Shot (5 PTS) (White 1 AST),21 - 15,-6,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200231,55,6,1,1,8:51 PM,6:03,,,Williams P.FOUL (P1.T2) (J.Van Duyne),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200231,57,1,5,1,8:52 PM,5:57,Nance Jr. 2' Layup (2 PTS) (McCollum 1 AST),,,21 - 17,-4,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200231,59,1,79,1,8:52 PM,5:48,,,Tatum 26' 3PT Pullup Jump Shot (8 PTS),24 - 17,-7,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,60,2,71,1,8:52 PM,5:30,MISS Nance Jr. 2' Finger Roll Layup,,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,61,4,0,1,8:52 PM,5:30,,,Tatum REBOUND (Off:0 Def:3),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,62,2,79,1,8:52 PM,5:25,,,MISS Tatum 26' 3PT Pullup Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,63,4,0,1,8:52 PM,5:22,Nance Jr. REBOUND (Off:0 Def:1),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,64,2,78,1,8:52 PM,5:11,MISS McCollum 8' Floating Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,65,4,0,1,8:53 PM,5:09,,,Horford REBOUND (Off:0 Def:1),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,66,2,5,1,8:53 PM,5:05,,,MISS Tatum 2' Layup,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,67,4,0,1,8:53 PM,5:03,Nance Jr. REBOUND (Off:0 Def:2),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,68,5,1,1,8:53 PM,5:02,Nance Jr. Bad Pass Turnover (P1.T3),,Brown STEAL (2 STL),,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200231,71,1,7,1,8:53 PM,4:55,,,Tatum 1' Dunk (10 PTS) (Brown 2 AST),26 - 17,-9,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200231,73,1,9,1,8:53 PM,4:39,Ingram 1' Driving Dunk (8 PTS),,,26 - 19,-7,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,74,9,1,1,8:53 PM,4:38,,,Celtics Timeout: Regular (Reg.1 Short 0),,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200231,75,8,0,1,8:55 PM,4:38,SUB: Marshall FOR McCollum,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200231,76,8,0,1,8:55 PM,4:38,SUB: Graham FOR Jones,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200231,77,8,0,1,8:55 PM,4:38,,,SUB: Brogdon FOR Tatum,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200231,78,8,0,1,8:55 PM,4:38,,,SUB: Hauser FOR White,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200231,83,1,1,1,8:56 PM,4:30,,,Horford 24' 3PT Jump Shot (9 PTS) (Brown 3 AST),29 - 19,-10,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200231,85,2,1,1,8:56 PM,4:11,MISS Marshall 25' 3PT Jump Shot,,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,86,4,0,1,8:57 PM,4:07,,,Brown REBOUND (Off:0 Def:2),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,87,2,6,1,8:57 PM,4:02,,,MISS Brown 2' Driving Layup,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,88,4,0,1,8:57 PM,3:59,Nance Jr. REBOUND (Off:0 Def:3),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,89,2,1,1,8:57 PM,3:55,MISS Ingram 27' 3PT Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,90,4,0,1,8:57 PM,3:54,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200231,91,6,3,1,8:57 PM,3:54,,,Williams L.B.FOUL (P2.T3) (Z.Zarba),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200231,93,8,0,1,8:57 PM,3:54,,,SUB: Kornet FOR Williams,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,5,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200231,95,1,80,1,8:57 PM,3:47,Ingram 16' Step Back Jump Shot (10 PTS),,,29 - 21,-8,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,96,2,80,1,8:58 PM,3:22,,,MISS Brown 18' Step Back Jump Shot,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,97,4,0,1,8:58 PM,3:18,Ingram REBOUND (Off:0 Def:1),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,98,2,1,1,8:58 PM,3:13,MISS Murphy III 27' 3PT Jump Shot,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,99,4,0,1,8:58 PM,3:08,Nance Jr. REBOUND (Off:1 Def:3),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,100,1,5,1,8:58 PM,3:01,Nance Jr. 2' Layup (4 PTS),,,29 - 23,-6,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,102,1,1,1,8:58 PM,2:45,,,Horford 27' 3PT Jump Shot (12 PTS) (Hauser 1 AST),32 - 23,-9,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200231,104,9,1,1,8:59 PM,2:43,PELICANS Timeout: Regular (Full 2 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200231,105,8,0,1,8:59 PM,2:43,SUB: Daniels FOR Murphy III,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200231,106,8,0,1,8:59 PM,2:43,,,SUB: Tatum FOR Brown,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200231,107,8,0,1,8:59 PM,2:43,,,SUB: White FOR Horford,,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200231,111,2,80,1,9:00 PM,2:28,MISS Ingram 16' Step Back Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,112,4,0,1,9:00 PM,2:25,,,Kornet REBOUND (Off:0 Def:1),,,5,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,113,1,1,1,9:00 PM,2:13,,,White 24' 3PT Jump Shot (3 PTS) (Tatum 4 AST),35 - 23,-12,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200231,115,1,5,1,9:01 PM,1:57,Nance Jr. 3' Layup (6 PTS) (Marshall 1 AST),,,35 - 25,-10,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200231,117,6,1,1,9:01 PM,1:39,Marshall P.FOUL (P1.T1) (J.Van Duyne),,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200231,119,5,1,1,9:02 PM,1:29,Nance Jr. STEAL (1 STL),,Hauser Bad Pass Turnover (P1.T2),,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200231,121,2,86,1,9:02 PM,1:12,MISS Ingram 15' Turnaround Fadeaway Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,122,4,0,1,9:02 PM,1:12,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200231,124,2,80,1,9:02 PM,1:01,,,MISS Brogdon 26' 3PT Step Back Jump Shot,,,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,125,4,0,1,9:02 PM,0:57,Daniels REBOUND (Off:0 Def:1),,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,126,6,4,1,9:02 PM,0:53,Nance Jr. OFF.Foul (P1) (J.Conley),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200231,128,5,37,1,9:02 PM,0:53,Nance Jr. Offensive Foul Turnover (P2.T4),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022200231,129,2,1,1,9:03 PM,0:41,,,MISS Tatum 25' 3PT Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,130,4,0,1,9:03 PM,0:35,,,Kornet REBOUND (Off:1 Def:1),,,5,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,131,1,1,1,9:03 PM,0:35,,,White 26' 3PT Jump Shot (6 PTS) (Kornet 1 AST),38 - 25,-13,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200231,133,2,1,1,9:03 PM,0:30,MISS Ingram 26' 3PT Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,134,4,0,1,9:03 PM,0:25,,,Kornet REBOUND (Off:1 Def:2),,,5,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,136,1,98,1,9:04 PM,0:05,,,White 3' Cutting Layup Shot (8 PTS) (Brogdon 1 AST),40 - 25,-15,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200231,138,2,79,1,9:04 PM,0:02,MISS Graham 26' 3PT Pullup Jump Shot,,,,,4,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,139,4,0,1,9:04 PM,0:02,,,Hauser REBOUND (Off:0 Def:1),,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,140,13,0,1,9:04 PM,0:00,,End of 1st Period (9:04 PM EST),,40 - 25,-15,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200231,149,12,0,2,9:07 PM,12:00,,Start of 2nd Period (9:07 PM EST),,40 - 25,-15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200231,150,2,1,2,9:07 PM,11:41,,,MISS Hauser 25' 3PT Jump Shot,,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,151,4,0,2,9:07 PM,11:38,Daniels REBOUND (Off:0 Def:2),,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,152,2,41,2,9:07 PM,11:32,MISS Daniels 3' Running Layup,,Kornet BLOCK (1 BLK),,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,1
+0022200231,154,4,0,2,9:07 PM,11:29,,,Hauser REBOUND (Off:0 Def:2),,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,155,1,1,2,9:07 PM,11:25,,,Brogdon 26' 3PT Jump Shot (3 PTS) (Hauser 2 AST),43 - 25,-18,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200231,157,1,78,2,9:07 PM,11:09,McCollum 8' Floating Jump Shot (5 PTS) (Valanciunas 1 AST),,,43 - 27,-16,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200231,159,1,108,2,9:08 PM,10:53,,,Kornet 1' Cutting Dunk Shot (2 PTS) (Brogdon 2 AST),45 - 27,-18,5,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200231,161,1,79,2,9:08 PM,10:42,McCollum 10' Pullup Jump Shot (7 PTS),,,45 - 29,-16,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,162,2,1,2,9:08 PM,10:32,,,MISS Hauser 25' 3PT Jump Shot,,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,163,4,0,2,9:08 PM,10:29,McCollum REBOUND (Off:0 Def:2),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,164,1,78,2,9:08 PM,10:20,Alvarado 6' Floating Jump Shot (2 PTS),,,45 - 31,-14,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,165,2,5,2,9:09 PM,10:04,,,MISS Brogdon 3' Layup,,,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,166,4,0,2,9:09 PM,10:02,McCollum REBOUND (Off:0 Def:3),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,167,1,41,2,9:09 PM,10:00,Marshall 1' Running Layup (2 PTS),,,45 - 33,-12,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,168,2,1,2,9:09 PM,9:43,,,MISS Tatum 24' 3PT Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,169,4,0,2,9:09 PM,9:40,Marshall REBOUND (Off:0 Def:1),,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,170,1,67,2,9:09 PM,9:24,Valanciunas 2' Hook Bank Shot (6 PTS) (Marshall 2 AST),,,45 - 35,-10,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200231,172,2,1,2,9:09 PM,9:12,,,MISS Pritchard 3PT Jump Shot,,,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,173,4,0,2,9:09 PM,9:10,McCollum REBOUND (Off:0 Def:4),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,174,2,79,2,9:10 PM,9:04,MISS McCollum 26' 3PT Pullup Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,175,4,0,2,9:10 PM,9:01,,,Brogdon REBOUND (Off:0 Def:1),,,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,176,1,101,2,9:10 PM,8:45,,,Tatum 6' Driving Floating Jump Shot (12 PTS),47 - 35,-12,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,177,5,1,2,9:10 PM,8:32,Valanciunas Bad Pass Turnover (P1.T5),,Pritchard STEAL (1 STL),,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200231,179,2,1,2,9:10 PM,8:27,,,MISS Tatum 21' Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,180,4,0,2,9:10 PM,8:23,Alvarado REBOUND (Off:0 Def:1),,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,181,1,50,2,9:10 PM,8:20,Marshall 1' Running Dunk (4 PTS) (Alvarado 1 AST),,,47 - 37,-10,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200231,183,2,1,2,9:11 PM,7:59,,,MISS Hauser 26' 3PT Jump Shot,,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,184,4,0,2,9:11 PM,7:56,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200231,186,8,0,2,9:11 PM,7:56,SUB: Jones FOR Marshall,,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200231,187,8,0,2,9:11 PM,7:56,,,SUB: Brown FOR Tatum,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200231,190,1,6,2,9:11 PM,7:46,Valanciunas 2' Driving Layup (8 PTS) (Alvarado 2 AST),,,47 - 39,-8,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200231,192,6,2,2,9:11 PM,7:46,,,Hauser S.FOUL (P1.T1) (J.Conley),,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200231,194,8,0,2,9:12 PM,7:46,SUB: Murphy III FOR Daniels,,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200231,196,3,10,2,9:12 PM,7:46,MISS Valanciunas Free Throw 1 of 1,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,197,4,0,2,9:12 PM,7:42,,,Kornet REBOUND (Off:1 Def:3),,,5,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,198,2,78,2,9:12 PM,7:22,,,MISS Brogdon 6' Floating Jump Shot,,,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,199,4,0,2,9:12 PM,7:19,Valanciunas REBOUND (Off:0 Def:2),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,200,1,1,2,9:12 PM,7:14,McCollum 25' 3PT Jump Shot (10 PTS) (Jones 1 AST),,,47 - 42,-5,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200231,202,9,1,2,9:13 PM,7:13,,,Celtics Timeout: Regular (Reg.2 Short 0),,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200231,204,8,0,2,9:15 PM,7:13,,,SUB: Horford FOR Pritchard,,,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200231,205,8,0,2,9:15 PM,7:13,,,SUB: Williams FOR Kornet,,,5,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200231,208,6,2,2,9:16 PM,6:55,Alvarado S.FOUL (P1.T1) (J.Conley),,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200231,210,3,11,2,9:16 PM,6:55,,,Brogdon Free Throw 1 of 2 (4 PTS),48 - 42,-6,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,211,3,12,2,9:16 PM,6:55,,,Brogdon Free Throw 2 of 2 (5 PTS),49 - 42,-7,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0022200231,212,5,1,2,9:17 PM,6:41,McCollum Bad Pass Turnover (P1.T6),,Brogdon STEAL (1 STL),,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200231,214,6,2,2,9:17 PM,6:37,Alvarado S.FOUL (P2.T2) (Z.Zarba),,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200231,216,3,11,2,9:17 PM,6:37,,,Brown Free Throw 1 of 2 (9 PTS),50 - 42,-8,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,217,8,0,2,9:17 PM,6:37,SUB: Ingram FOR McCollum,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200231,218,8,0,2,9:17 PM,6:37,,,SUB: White FOR Brogdon,,,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200231,221,3,12,2,9:18 PM,6:37,,,Brown Free Throw 2 of 2 (10 PTS),51 - 42,-9,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,222,2,5,2,9:18 PM,6:24,MISS Jones 2' Layup,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,223,4,0,2,9:18 PM,6:22,,,Williams REBOUND (Off:0 Def:1),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,224,6,1,2,9:18 PM,6:14,Jones P.FOUL (P1.T3) (J.Van Duyne),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200231,226,1,1,2,9:19 PM,6:06,,,Williams 26' 3PT Jump Shot (5 PTS) (Brown 4 AST),54 - 42,-12,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200231,228,1,1,2,9:19 PM,5:42,Jones 3PT Jump Shot (5 PTS) (Alvarado 3 AST),,,54 - 45,-9,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200231,230,2,6,2,9:19 PM,5:18,,,MISS Brown 3' Driving Layup,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,231,4,0,2,9:19 PM,5:16,Valanciunas REBOUND (Off:0 Def:3),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,232,10,0,2,9:21 PM,5:03,Jump Ball Alvarado vs. White: Tip to White,,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1
+0022200231,242,8,0,2,9:21 PM,5:03,SUB: Nance Jr. FOR Valanciunas,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200231,243,8,0,2,9:21 PM,5:03,SUB: Marshall FOR Murphy III,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200231,244,8,0,2,9:21 PM,5:03,,,SUB: Tatum FOR Hauser,,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200231,235,5,2,2,9:21 PM,4:46,Alvarado Lost Ball Turnover (P1.T7),,White STEAL (1 STL),,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200231,237,1,1,2,9:21 PM,4:43,,,White 26' 3PT Jump Shot (11 PTS) (Brown 5 AST),57 - 45,-12,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200231,239,6,2,2,9:21 PM,4:21,,,Brown S.FOUL (P1.T2) (Z.Zarba),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200231,241,3,11,2,9:21 PM,4:21,Ingram Free Throw 1 of 2 (11 PTS),,,57 - 46,-11,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,248,3,12,2,9:22 PM,4:21,Ingram Free Throw 2 of 2 (12 PTS),,,57 - 47,-10,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,249,2,1,2,9:22 PM,4:05,,,MISS Tatum 16' Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,250,4,0,2,9:22 PM,4:02,Alvarado REBOUND (Off:0 Def:2),,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,251,2,1,2,9:22 PM,3:54,MISS Alvarado 26' 3PT Jump Shot,,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,252,4,0,2,9:22 PM,3:51,,,Tatum REBOUND (Off:0 Def:4),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,253,1,5,2,9:23 PM,3:30,,,Brown 2' Layup (12 PTS),59 - 47,-12,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,254,1,79,2,9:23 PM,3:10,Ingram 19' Pullup Jump Shot (14 PTS),,,59 - 49,-10,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,255,2,1,2,9:23 PM,2:49,,,MISS Tatum 8' Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,256,4,0,2,9:23 PM,2:49,Nance Jr. REBOUND (Off:1 Def:4),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,257,2,103,2,9:23 PM,2:44,MISS Alvarado 26' 3PT Running Pull-Up Jump Shot,,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,258,4,0,2,9:23 PM,2:44,Jones REBOUND (Off:1 Def:0),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,259,1,72,2,9:23 PM,2:39,Jones Putback Layup (7 PTS),,,59 - 51,-8,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,260,1,79,2,9:24 PM,2:26,,,White 26' 3PT Pullup Jump Shot (14 PTS),62 - 51,-11,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,261,1,6,2,9:24 PM,2:11,Alvarado 2' Driving Layup (4 PTS) (Nance Jr. 1 AST),,,62 - 53,-9,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200231,262,2,47,2,9:24 PM,1:53,,,MISS Brown 8' Turnaround Jump Shot,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,263,4,0,2,9:24 PM,1:49,Jones REBOUND (Off:1 Def:1),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,264,2,79,2,9:25 PM,1:36,MISS Ingram 11' Pullup Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,265,4,0,2,9:25 PM,1:34,,,Brown REBOUND (Off:0 Def:3),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,266,1,5,2,9:25 PM,1:26,,,Brown 3' Layup (14 PTS) (Williams 1 AST),64 - 53,-11,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200231,268,6,2,2,9:25 PM,1:26,Jones S.FOUL (P2.T4) (J.Van Duyne),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200231,270,9,1,2,9:26 PM,1:26,PELICANS Timeout: Regular (Full 3 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200231,271,8,0,2,9:27 PM,1:26,SUB: McCollum FOR Marshall,,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200231,272,8,0,2,9:27 PM,1:26,,,SUB: Hauser FOR Williams,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200231,275,3,10,2,9:28 PM,1:26,,,Brown Free Throw 1 of 1 (15 PTS),65 - 53,-12,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,276,2,6,2,9:29 PM,1:01,MISS Alvarado 5' Driving Layup,,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,277,4,0,2,9:29 PM,1:01,Nance Jr. REBOUND (Off:2 Def:4),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,278,5,11,2,9:29 PM,1:01,PELICANS Turnover: Shot Clock (T#8),,,,,2,1610612740,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200231,280,2,1,2,9:29 PM,0:43,,,MISS Tatum 26' 3PT Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,281,4,0,2,9:29 PM,0:41,,,Hauser REBOUND (Off:1 Def:2),,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,309,2,97,2,9:29 PM,0:40,,,MISS Hauser 1' Tip Layup Shot,,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,310,4,0,2,9:29 PM,0:39,,,Horford REBOUND (Off:1 Def:1),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,282,1,72,2,9:30 PM,0:38,,,Horford 7' Putback Layup (14 PTS),67 - 53,-14,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,283,1,79,2,9:30 PM,0:33,Ingram 13' Pullup Jump Shot (16 PTS),,,67 - 55,-12,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,284,2,80,2,9:30 PM,0:07,,,MISS Brown 26' 3PT Step Back Jump Shot,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,285,4,0,2,9:30 PM,0:03,,,Hauser REBOUND (Off:2 Def:2),,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,286,2,72,2,9:30 PM,0:02,Nance Jr. BLOCK (1 BLK),,MISS Hauser 8' Putback Layup,,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,1
+0022200231,288,4,0,2,9:30 PM,0:02,Jones REBOUND (Off:1 Def:2),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,289,1,78,2,9:30 PM,0:01,McCollum 7' Floating Jump Shot (12 PTS),,,67 - 57,-10,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,290,5,1,2,9:31 PM,0:01,McCollum STEAL (1 STL),,Horford Bad Pass Turnover (P1.T3),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200231,292,13,0,2,9:31 PM,0:00,,End of 2nd Period (9:31 PM EST),,67 - 57,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200231,300,12,0,3,9:46 PM,12:00,,Start of 3rd Period (9:46 PM EST),,67 - 57,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200231,301,2,1,3,9:46 PM,11:42,,,MISS Horford 26' 3PT Jump Shot,,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,302,4,0,3,9:46 PM,11:40,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200231,303,6,3,3,9:46 PM,11:40,McCollum L.B.FOUL (P1.T1) (J.Van Duyne),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200231,305,2,1,3,9:47 PM,11:29,,,MISS White 26' 3PT Jump Shot,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,306,4,0,3,9:47 PM,11:22,Ingram REBOUND (Off:0 Def:2),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,307,5,4,3,9:47 PM,11:09,Valanciunas Traveling Turnover (P2.T9),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,311,2,1,3,9:48 PM,10:53,,,MISS Williams 26' 3PT Jump Shot,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,312,4,0,3,9:48 PM,10:49,Jones REBOUND (Off:1 Def:3),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,313,2,78,3,9:48 PM,10:42,MISS McCollum 10' Floating Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,314,4,0,3,9:48 PM,10:40,,,Brown REBOUND (Off:0 Def:4),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,315,2,1,3,9:48 PM,10:33,,,MISS White 3PT Jump Shot,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,316,4,0,3,9:48 PM,10:30,Jones REBOUND (Off:1 Def:4),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,317,2,1,3,9:48 PM,10:25,MISS Ingram 25' 3PT Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,318,4,0,3,9:48 PM,10:22,,,Tatum REBOUND (Off:0 Def:5),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,319,1,1,3,9:49 PM,10:06,,,Brown 26' 3PT Jump Shot (18 PTS) (Horford 2 AST),70 - 57,-13,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200231,321,6,1,3,9:49 PM,9:51,,,Brown P.FOUL (P2.T1) (Z.Zarba),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200231,323,2,79,3,9:49 PM,9:43,MISS McCollum 18' Pullup Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,324,4,0,3,9:49 PM,9:39,,,Williams REBOUND (Off:0 Def:2),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,325,2,47,3,9:50 PM,9:30,,,MISS Brown 9' Turnaround Jump Shot,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,326,4,0,3,9:50 PM,9:27,Valanciunas REBOUND (Off:0 Def:4),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,328,2,1,3,9:50 PM,9:16,MISS Jones 24' 3PT Jump Shot,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,329,4,0,3,9:50 PM,9:12,,,Tatum REBOUND (Off:0 Def:6),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,330,1,5,3,9:50 PM,9:08,,,Brown 1' Layup (20 PTS) (Tatum 5 AST),72 - 57,-15,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200231,332,1,1,3,9:51 PM,8:53,McCollum 26' 3PT Jump Shot (15 PTS) (Ingram 3 AST),,,72 - 60,-12,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200231,334,2,1,3,9:51 PM,8:36,,,MISS Tatum 25' 3PT Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,335,4,0,3,9:51 PM,8:32,,,Horford REBOUND (Off:2 Def:1),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,336,6,2,3,9:51 PM,8:24,McCollum S.FOUL (P2.T2) (J.Van Duyne),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200231,338,3,11,3,9:52 PM,8:24,,,White Free Throw 1 of 2 (15 PTS),73 - 60,-13,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,339,3,12,3,9:52 PM,8:24,,,White Free Throw 2 of 2 (16 PTS),74 - 60,-14,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,340,2,3,3,9:52 PM,8:12,MISS Valanciunas 6' Hook Shot,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,341,4,0,3,9:52 PM,8:09,,,Horford REBOUND (Off:2 Def:2),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,342,2,1,3,9:52 PM,8:05,,,MISS Williams 3PT Jump Shot,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,343,4,0,3,9:52 PM,8:05,,,Brown REBOUND (Off:1 Def:4),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,358,5,1,3,9:52 PM,8:03,Marshall STEAL (1 STL),,Brown Bad Pass Turnover (P2.T4),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200231,344,2,5,3,9:52 PM,7:52,MISS Ingram 4' Layup,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,345,4,0,3,9:52 PM,7:49,,,Williams REBOUND (Off:0 Def:3),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,346,5,1,3,9:52 PM,7:47,McCollum STEAL (2 STL),,Tatum Bad Pass Turnover (P1.T5),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200231,348,2,1,3,9:53 PM,7:41,MISS McCollum 10' Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,349,4,0,3,9:53 PM,7:37,,,Brown REBOUND (Off:1 Def:5),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,350,1,79,3,9:53 PM,7:17,,,Horford 17' Pullup Jump Shot (16 PTS) (Tatum 6 AST),76 - 60,-16,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200231,352,1,1,3,9:53 PM,6:57,Ingram 27' 3PT Jump Shot (19 PTS) (Jones 2 AST),,,76 - 63,-13,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200231,354,2,78,3,9:54 PM,6:34,,,MISS Williams 11' Floating Jump Shot,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,355,4,0,3,9:54 PM,6:34,,,Williams REBOUND (Off:1 Def:3),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,356,6,1,3,9:54 PM,6:32,Valanciunas P.FOUL (P1.T3) (Z.Zarba),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200231,360,9,1,3,9:54 PM,6:32,PELICANS Timeout: Regular (Full 4 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200231,361,8,0,3,9:56 PM,6:32,SUB: Daniels FOR Marshall,,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200231,362,8,0,3,9:56 PM,6:32,SUB: Nance Jr. FOR Valanciunas,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200231,365,5,1,3,9:57 PM,6:25,McCollum STEAL (3 STL),,Williams Bad Pass Turnover (P1.T6),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200231,367,6,2,3,9:57 PM,6:23,,,Horford S.FOUL (P1.T2) (Z.Zarba),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200231,369,3,11,3,9:58 PM,6:23,MISS Daniels Free Throw 1 of 2,,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,370,4,1,3,9:58 PM,6:23,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200231,371,3,12,3,9:58 PM,6:23,Daniels Free Throw 2 of 2 (1 PTS),,,76 - 64,-12,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,372,2,6,3,9:58 PM,6:05,Nance Jr. BLOCK (2 BLK),,MISS White 4' Driving Layup,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,1
+0022200231,374,4,0,3,9:58 PM,6:01,McCollum REBOUND (Off:0 Def:5),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,375,1,41,3,9:58 PM,6:00,Jones 2' Running Layup (9 PTS) (McCollum 2 AST),,,76 - 66,-10,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200231,377,5,40,3,9:59 PM,5:42,,,Tatum Out of Bounds Lost Ball Turnover (P2.T7),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0022200231,378,8,0,3,9:59 PM,5:42,,,SUB: Brogdon FOR Williams,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200231,380,2,44,3,9:59 PM,5:18,MISS Daniels 2' Reverse Layup,,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,381,4,0,3,9:59 PM,5:18,Nance Jr. REBOUND (Off:3 Def:4),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,382,5,11,3,9:59 PM,5:18,PELICANS Turnover: Shot Clock (T#10),,,,,2,1610612740,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200231,383,1,1,3,10:00 PM,5:02,,,White 26' 3PT Jump Shot (19 PTS) (Tatum 7 AST),79 - 66,-13,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200231,385,2,1,3,10:00 PM,4:45,MISS McCollum 25' 3PT Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,386,4,0,3,10:00 PM,4:42,,,White REBOUND (Off:0 Def:2),,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,387,1,78,3,10:00 PM,4:36,,,White 7' Floating Jump Shot (21 PTS),81 - 66,-15,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,388,5,2,3,10:01 PM,4:13,Ingram Lost Ball Turnover (P2.T11),,White STEAL (2 STL),,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200231,390,5,1,3,10:01 PM,4:06,Jones STEAL (1 STL),,White Bad Pass Turnover (P1.T8),,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200231,392,2,98,3,10:01 PM,4:01,MISS Jones 2' Cutting Layup Shot,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,393,4,0,3,10:01 PM,3:58,,,Brogdon REBOUND (Off:0 Def:2),,,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,394,5,2,3,10:01 PM,3:53,Ingram STEAL (1 STL),,Tatum Lost Ball Turnover (P3.T9),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200231,396,2,5,3,10:01 PM,3:47,MISS McCollum 9' Layup,,White BLOCK (2 BLK),,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1
+0022200231,398,4,0,3,10:01 PM,3:44,,,Horford REBOUND (Off:2 Def:3),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,399,9,1,3,10:01 PM,3:44,,,Celtics Timeout: Regular (Reg.3 Short 0),,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200231,400,8,0,3,10:03 PM,3:44,SUB: Marshall FOR McCollum,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200231,401,8,0,3,10:03 PM,3:44,SUB: Graham FOR Jones,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200231,402,8,0,3,10:03 PM,3:44,,,SUB: Hauser FOR Tatum,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200231,403,8,0,3,10:03 PM,3:44,,,SUB: Kornet FOR Horford,,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200231,408,1,1,3,10:04 PM,3:30,,,Hauser 26' 3PT Jump Shot (3 PTS) (Brown 6 AST),84 - 66,-18,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200231,410,6,2,3,10:05 PM,3:14,,,Hauser S.FOUL (P2.T3) (Z.Zarba),,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200231,412,3,11,3,10:05 PM,3:14,Nance Jr. Free Throw 1 of 2 (7 PTS),,,84 - 67,-17,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,413,3,12,3,10:05 PM,3:14,Nance Jr. Free Throw 2 of 2 (8 PTS),,,84 - 68,-16,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,414,1,1,3,10:05 PM,3:00,,,White 3PT Jump Shot (24 PTS) (Brogdon 3 AST),87 - 68,-19,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200231,416,6,1,3,10:06 PM,2:46,,,Brogdon P.FOUL (P1.T4) (J.Conley),,,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200231,418,8,0,3,10:06 PM,2:46,,,SUB: Williams FOR White,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200231,420,6,2,3,10:06 PM,2:37,,,Kornet S.FOUL (P1.PN) (Z.Zarba),,,5,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200231,422,3,11,3,10:07 PM,2:37,Marshall Free Throw 1 of 2 (5 PTS),,,87 - 69,-18,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,423,3,12,3,10:07 PM,2:37,Marshall Free Throw 2 of 2 (6 PTS),,,87 - 70,-17,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,424,5,2,3,10:07 PM,2:17,Nance Jr. STEAL (2 STL),,Brown Lost Ball Turnover (P3.T10),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200231,426,1,108,3,10:08 PM,2:14,Nance Jr. 1' Cutting Dunk Shot (10 PTS) (Marshall 3 AST),,,87 - 72,-15,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200231,428,5,1,3,10:08 PM,1:58,Ingram STEAL (2 STL),,Brown Bad Pass Turnover (P4.T11),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200231,430,1,1,3,10:08 PM,1:54,Graham 25' 3PT Jump Shot (3 PTS) (Ingram 4 AST),,,87 - 75,-12,4,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200231,432,2,1,3,10:08 PM,1:37,,,MISS Brogdon 28' 3PT Jump Shot,,,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,433,4,0,3,10:08 PM,1:33,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200231,435,1,1,3,10:09 PM,1:22,Marshall 25' 3PT Jump Shot (9 PTS) (Ingram 5 AST),,,87 - 78,-9,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200231,437,5,4,3,10:09 PM,0:56,,,Brogdon Traveling Turnover (P1.T12),,,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0022200231,438,2,1,3,10:10 PM,0:46,MISS Marshall 26' 3PT Jump Shot,,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,439,4,0,3,10:10 PM,0:43,,,Brown REBOUND (Off:1 Def:6),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,440,6,2,3,10:10 PM,0:31,Ingram S.FOUL (P1.T4) (Z.Zarba),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200231,442,3,11,3,10:10 PM,0:31,,,Kornet Free Throw 1 of 2 (3 PTS),88 - 78,-10,5,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,443,3,12,3,10:11 PM,0:31,,,Kornet Free Throw 2 of 2 (4 PTS),89 - 78,-11,5,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,444,2,86,3,10:11 PM,0:07,MISS Ingram 17' Turnaround Fadeaway Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,445,4,0,3,10:11 PM,0:04,,,Kornet REBOUND (Off:1 Def:4),,,5,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,446,2,79,3,10:11 PM,0:01,,,MISS Brogdon 27' 3PT Pullup Jump Shot,,,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,447,4,0,3,10:11 PM,0:01,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200231,448,13,0,3,10:11 PM,0:00,,End of 3rd Period (10:11 PM EST),,89 - 78,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200231,459,12,0,4,10:14 PM,12:00,,Start of 4th Period (10:14 PM EST),,89 - 78,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200231,460,5,40,4,10:14 PM,11:45,Jones Out of Bounds Lost Ball Turnover (P2.T12),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022200231,461,1,78,4,10:15 PM,11:23,,,Williams 7' Floating Jump Shot (7 PTS) (Brogdon 4 AST),91 - 78,-13,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200231,463,2,1,4,10:15 PM,11:11,MISS Alvarado 26' 3PT Jump Shot,,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,464,4,0,4,10:15 PM,11:06,,,Brogdon REBOUND (Off:0 Def:3),,,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,465,2,79,4,10:15 PM,10:57,Alvarado BLOCK (1 BLK),,MISS Brogdon 10' Pullup Jump Shot,,,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,1
+0022200231,467,4,0,4,10:15 PM,10:54,,,Brogdon REBOUND (Off:1 Def:3),,,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,468,2,1,4,10:15 PM,10:52,,,MISS Tatum 26' 3PT Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,469,4,0,4,10:15 PM,10:49,Jones REBOUND (Off:1 Def:5),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,470,1,1,4,10:16 PM,10:41,Jones 25' 3PT Jump Shot (12 PTS) (Valanciunas 2 AST),,,91 - 81,-10,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200231,472,2,80,4,10:16 PM,10:14,,,MISS Brogdon 27' 3PT Step Back Jump Shot,,,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,473,4,0,4,10:16 PM,10:11,Alvarado REBOUND (Off:0 Def:3),,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,474,2,5,4,10:16 PM,10:05,MISS Alvarado 3' Layup,,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,475,4,0,4,10:16 PM,10:04,Alvarado REBOUND (Off:1 Def:3),,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,476,2,1,4,10:16 PM,10:00,MISS McCollum 3PT Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,477,4,0,4,10:16 PM,9:58,,,Kornet REBOUND (Off:1 Def:5),,,5,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,478,2,1,4,10:16 PM,9:53,,,MISS Tatum 26' 3PT Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,479,4,0,4,10:16 PM,9:50,Alvarado REBOUND (Off:1 Def:4),,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,480,1,98,4,10:17 PM,9:39,Alvarado 2' Cutting Layup Shot (6 PTS) (Valanciunas 3 AST),,,91 - 83,-8,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200231,482,6,2,4,10:17 PM,9:28,Valanciunas S.FOUL (P2.T1) (Z.Zarba),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200231,484,3,11,4,10:18 PM,9:28,,,Tatum Free Throw 1 of 2 (13 PTS),92 - 83,-9,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,485,8,0,4,10:18 PM,9:28,,,SUB: Horford FOR Brogdon,,,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200231,486,8,0,4,10:18 PM,9:28,,,SUB: White FOR Kornet,,,5,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200231,489,3,12,4,10:18 PM,9:28,,,Tatum Free Throw 2 of 2 (14 PTS),93 - 83,-10,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,490,2,1,4,10:18 PM,9:19,MISS Alvarado 26' 3PT Jump Shot,,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,491,4,0,4,10:18 PM,9:15,,,White REBOUND (Off:0 Def:3),,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,492,2,1,4,10:18 PM,9:05,,,MISS Williams 25' 3PT Jump Shot,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,493,4,0,4,10:19 PM,9:01,Daniels REBOUND (Off:0 Def:3),,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,494,2,73,4,10:19 PM,8:56,MISS Jones 2' Driving Reverse Layup,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,495,4,0,4,10:19 PM,8:54,,,Williams REBOUND (Off:1 Def:4),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,496,1,6,4,10:19 PM,8:37,,,White 1' Driving Layup (26 PTS),95 - 83,-12,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,497,1,86,4,10:19 PM,8:20,Valanciunas 11' Turnaround Fadeaway (10 PTS),,,95 - 85,-10,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,498,1,1,4,10:20 PM,7:59,,,Hauser 27' 3PT Jump Shot (6 PTS) (Tatum 8 AST),98 - 85,-13,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200231,500,2,1,4,10:20 PM,7:36,MISS Alvarado 24' 3PT Jump Shot,,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,501,4,0,4,10:20 PM,7:36,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200231,502,6,3,4,10:20 PM,7:36,Valanciunas L.B.FOUL (P3.T2) (Z.Zarba),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200231,504,8,0,4,10:20 PM,7:36,SUB: Ingram FOR Daniels,,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200231,505,8,0,4,10:20 PM,7:36,SUB: Nance Jr. FOR Valanciunas,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200231,506,8,0,4,10:20 PM,7:36,,,SUB: Brown FOR Hauser,,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200231,510,5,4,4,10:21 PM,7:21,,,Williams Traveling Turnover (P2.T13),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0022200231,511,7,5,4,10:21 PM,7:14,,,Brown Violation:Kicked Ball (J.Van Duyne),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,0
+0022200231,512,1,6,4,10:22 PM,7:01,Jones 2' Driving Layup (14 PTS) (Ingram 6 AST),,,98 - 87,-11,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200231,514,5,2,4,10:22 PM,6:46,Jones STEAL (2 STL),,Horford Lost Ball Turnover (P2.T14),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200231,516,1,50,4,10:22 PM,6:42,Jones 1' Running Dunk (16 PTS),,,98 - 89,-9,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,517,5,2,4,10:22 PM,6:24,Nance Jr. STEAL (3 STL),,Brown Lost Ball Turnover (P5.T15),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200231,519,1,79,4,10:22 PM,6:19,Ingram 25' 3PT Pullup Jump Shot (22 PTS),,,98 - 92,-6,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,520,1,1,4,10:23 PM,5:54,,,Williams 3PT Jump Shot (10 PTS) (Tatum 9 AST),101 - 92,-9,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200231,522,2,102,4,10:23 PM,5:37,MISS McCollum 7' Driving Floating Bank Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,523,4,0,4,10:23 PM,5:34,,,Horford REBOUND (Off:2 Def:4),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,524,1,7,4,10:23 PM,5:32,,,Horford 1' Dunk (18 PTS) (Brown 7 AST),103 - 92,-11,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200231,526,9,1,4,10:23 PM,5:31,PELICANS Timeout: Regular (Full 5 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200231,527,2,1,4,10:26 PM,5:10,MISS Alvarado 27' 3PT Jump Shot,,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,528,4,0,4,10:26 PM,5:07,,,Brown REBOUND (Off:1 Def:7),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,529,5,1,4,10:27 PM,4:56,Alvarado STEAL (1 STL),,Brown Bad Pass Turnover (P6.T16),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200231,531,1,41,4,10:27 PM,4:52,Alvarado 2' Running Layup (8 PTS),,,103 - 94,-9,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,533,6,1,4,10:28 PM,4:26,Alvarado P.FOUL (P3.T3) (Z.Zarba),,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200231,535,6,1,4,10:28 PM,4:24,McCollum P.FOUL (P3.T4) (Z.Zarba),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200231,537,1,80,4,10:28 PM,4:16,,,Brown 19' Step Back Jump Shot (22 PTS),105 - 94,-11,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,538,1,1,4,10:28 PM,3:54,Ingram 26' 3PT Jump Shot (25 PTS) (McCollum 3 AST),,,105 - 97,-8,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200231,540,2,1,4,10:29 PM,3:25,,,MISS Tatum 26' 3PT Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,541,4,0,4,10:29 PM,3:22,,,Horford REBOUND (Off:3 Def:4),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,542,2,6,4,10:29 PM,3:17,,,MISS Brown 1' Driving Layup,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,543,4,0,4,10:29 PM,3:15,,,Brown REBOUND (Off:3 Def:7),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,583,2,97,4,10:29 PM,3:14,,,MISS Brown 2' Tip Layup Shot,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,584,4,0,4,10:29 PM,3:14,,,Brown REBOUND (Off:3 Def:7),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,544,1,72,4,10:29 PM,3:13,,,Brown 1' Putback Layup (24 PTS),107 - 97,-10,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,545,6,2,4,10:29 PM,3:02,,,White S.FOUL (P1.T1) (Z.Zarba),,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200231,547,3,11,4,10:30 PM,3:02,MISS Jones Free Throw 1 of 2,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,548,4,1,4,10:30 PM,3:02,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200231,549,9,1,4,10:30 PM,3:02,,,Celtics Timeout: Regular (Reg.4 Short 0),,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200231,550,3,12,4,10:33 PM,3:02,Jones Free Throw 2 of 2 (17 PTS),,,107 - 98,-9,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,551,5,2,4,10:33 PM,2:44,Jones STEAL (3 STL),,Brown Lost Ball Turnover (P7.T17),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200231,553,1,108,4,10:34 PM,2:29,Nance Jr. Cutting Dunk Shot (12 PTS) (Ingram 7 AST),,,107 - 100,-7,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200231,555,1,5,4,10:34 PM,1:59,,,Williams 2' Layup (12 PTS),109 - 100,-9,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,556,6,1,4,10:35 PM,1:44,,,Williams P.FOUL (P3.T2) (J.Van Duyne),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200231,558,2,79,4,10:35 PM,1:32,MISS Ingram 26' 3PT Pullup Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,559,4,0,4,10:35 PM,1:29,Alvarado REBOUND (Off:2 Def:4),,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,560,6,2,4,10:35 PM,1:29,,,White S.FOUL (P2.PN) (Z.Zarba),,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200231,562,3,11,4,10:36 PM,1:29,Alvarado Free Throw 1 of 2 (9 PTS),,,109 - 101,-8,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,563,3,12,4,10:36 PM,1:29,Alvarado Free Throw 2 of 2 (10 PTS),,,109 - 102,-7,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,564,1,78,4,10:36 PM,1:11,,,Tatum 6' Floating Jump Shot (16 PTS),111 - 102,-9,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,565,1,51,4,10:37 PM,1:00,Nance Jr. Reverse Dunk (14 PTS) (Alvarado 4 AST),,,111 - 104,-7,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200231,567,1,6,4,10:37 PM,0:44,,,Brown 2' Driving Layup (26 PTS) (Tatum 10 AST),113 - 104,-9,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200231,569,6,4,4,10:37 PM,0:39,Nance Jr. OFF.Foul (P2) (J.Conley),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200231,571,5,37,4,10:37 PM,0:39,Nance Jr. Offensive Foul Turnover (P3.T13),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022200231,572,6,1,4,10:38 PM,0:28,Jones P.FOUL (P3.PN) (J.Conley),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200231,574,3,11,4,10:38 PM,0:28,,,MISS Tatum Free Throw 1 of 2,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,575,4,1,4,10:38 PM,0:28,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200231,576,3,12,4,10:38 PM,0:28,,,Tatum Free Throw 2 of 2 (17 PTS),114 - 104,-10,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,577,9,1,4,10:38 PM,0:28,PELICANS Timeout: Regular (Full 6 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200231,578,2,1,4,10:40 PM,0:25,MISS Ingram 25' 3PT Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,579,4,0,4,10:40 PM,0:23,Nance Jr. REBOUND (Off:4 Def:4),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,580,1,72,4,10:40 PM,0:23,Nance Jr. 2' Putback Layup (16 PTS),,,114 - 106,-8,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,581,6,1,4,10:40 PM,0:14,McCollum P.FOUL (P4.PN) (J.Conley),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200231,585,3,11,4,10:41 PM,0:14,,,Tatum Free Throw 1 of 2 (18 PTS),115 - 106,-9,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,586,3,12,4,10:41 PM,0:14,,,Tatum Free Throw 2 of 2 (19 PTS),116 - 106,-10,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,587,1,79,4,10:41 PM,0:11,McCollum 25' 3PT Pullup Jump Shot (18 PTS),,,116 - 109,-7,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,588,6,28,4,10:41 PM,0:07,Alvarado Personal Take Foul (P4.PN) (J.Conley),,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200231,590,3,11,4,10:42 PM,0:07,,,Brown Free Throw 1 of 2 (27 PTS),117 - 109,-8,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,591,3,12,4,10:42 PM,0:07,,,MISS Brown Free Throw 2 of 2,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,592,4,0,4,10:42 PM,0:04,Jones REBOUND (Off:1 Def:6),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,593,2,79,4,10:42 PM,0:02,MISS Ingram 26' 3PT Pullup Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200231,594,4,0,4,10:42 PM,0:02,,,Tatum REBOUND (Off:0 Def:7),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200231,595,13,0,4,10:42 PM,0:00,,End of 4th Period (10:42 PM EST),,117 - 109,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

@@ -1,0 +1,432 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200246,2,12,0,1,7:41 PM,12:00,,Start of 1st Period (7:41 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200246,4,10,0,1,7:41 PM,12:00,Jump Ball Powell vs. Jordan: Tip to Brown,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,1
+0022200246,7,2,1,1,7:41 PM,11:42,,,MISS Brown 25' 3PT Jump Shot,,,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,8,4,0,1,7:41 PM,11:41,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200246,10,2,98,1,7:41 PM,11:22,MISS Finney-Smith 7' Cutting Layup Shot,,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,12,4,0,1,7:41 PM,11:19,,,Green REBOUND (Off:0 Def:1),,,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,13,5,2,1,7:42 PM,11:12,Finney-Smith STEAL (1 STL),,Porter Jr. Lost Ball Turnover (P1.T1),,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200246,15,1,52,1,7:42 PM,11:08,Powell 1' Alley Oop Dunk (2 PTS) (Dinwiddie 1 AST),,,0 - 2,2,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200246,18,2,1,1,7:42 PM,10:46,,,MISS Porter Jr. 25' 3PT Jump Shot,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,19,4,0,1,7:42 PM,10:44,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200246,21,5,2,1,7:43 PM,10:30,Powell Lost Ball Turnover (P1.T1),,Caldwell-Pope STEAL (1 STL),,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200246,23,1,44,1,7:43 PM,10:15,,,Jordan 1' Reverse Layup (2 PTS) (Brown 1 AST),2 - 2,TIE,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200246,25,2,1,1,7:43 PM,10:04,MISS Bullock 26' 3PT Jump Shot,,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,26,4,0,1,7:43 PM,10:04,,,Jordan REBOUND (Off:0 Def:1),,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,27,6,2,1,7:43 PM,9:53,Doncic S.FOUL (P1.T1) (L.Wood),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200246,29,3,11,1,7:44 PM,9:53,,,Green Free Throw 1 of 2 (1 PTS),3 - 2,-1,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,30,3,12,1,7:44 PM,9:53,,,Green Free Throw 2 of 2 (2 PTS),4 - 2,-2,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,31,2,1,1,7:45 PM,9:40,MISS Dinwiddie 3PT Jump Shot,,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,32,4,0,1,7:45 PM,9:38,,,Caldwell-Pope REBOUND (Off:0 Def:1),,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,33,5,40,1,7:45 PM,9:30,,,Caldwell-Pope Out of Bounds Lost Ball Turnover (P1.T2),,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022200246,34,1,1,1,7:45 PM,9:16,Finney-Smith 24' 3PT Jump Shot (3 PTS) (Powell 1 AST),,,4 - 5,1,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200246,36,6,2,1,7:45 PM,8:58,Powell S.FOUL (P1.T2) (S.Wright),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200246,38,3,11,1,7:46 PM,8:58,,,Caldwell-Pope Free Throw 1 of 2 (1 PTS),5 - 5,TIE,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,39,3,12,1,7:46 PM,8:58,,,Caldwell-Pope Free Throw 2 of 2 (2 PTS),6 - 5,-1,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,40,6,2,1,7:47 PM,8:42,,,Green S.FOUL (P1.T1) (R.Mott),,,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022200246,42,3,11,1,7:47 PM,8:42,MISS Doncic Free Throw 1 of 2,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,43,4,1,1,7:47 PM,8:42,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200246,44,3,12,1,7:47 PM,8:42,MISS Doncic Free Throw 2 of 2,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,45,4,0,1,7:47 PM,8:39,,,Jordan REBOUND (Off:0 Def:2),,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,46,1,43,1,7:48 PM,8:32,,,Jordan 1' Alley Oop Layup (4 PTS) (Brown 2 AST),8 - 5,-3,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200246,48,1,1,1,7:48 PM,8:15,Dinwiddie 3PT Jump Shot (3 PTS) (Doncic 1 AST),,,8 - 8,TIE,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200246,50,9,1,1,7:48 PM,8:14,,,Nuggets Timeout: Regular (Reg.1 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200246,61,2,6,1,7:49 PM,8:03,,,MISS Caldwell-Pope 4' Driving Layup,,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,62,4,0,1,7:49 PM,8:02,,,Jordan REBOUND (Off:1 Def:2),,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,51,1,87,1,7:51 PM,8:01,,,Jordan Putback Dunk (6 PTS),10 - 8,-2,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,53,2,80,1,7:51 PM,7:33,MISS Doncic 26' 3PT Step Back Jump Shot,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,54,4,0,1,7:52 PM,7:31,Powell REBOUND (Off:1 Def:0),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,55,5,1,1,7:52 PM,7:21,Dinwiddie Bad Pass Turnover (P1.T2),,Jordan STEAL (1 STL),,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200246,57,1,50,1,7:52 PM,7:18,,,Green Running Dunk (4 PTS),12 - 8,-4,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,58,2,101,1,7:52 PM,7:03,MISS Doncic 7' Driving Floating Jump Shot,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,59,4,0,1,7:52 PM,7:00,,,Jordan REBOUND (Off:1 Def:3),,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,60,9,1,1,7:52 PM,6:57,,,Nuggets Timeout: Regular (Reg.2 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200246,63,8,0,1,7:53 PM,6:57,,,SUB: Nnaji FOR Green,,,5,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200246,65,1,98,1,7:55 PM,6:49,,,Nnaji 2' Cutting Layup Shot (2 PTS) (Brown 3 AST),14 - 8,-6,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200246,67,6,2,1,7:55 PM,6:31,,,Jordan S.FOUL (P1.T2) (L.Wood),,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022200246,69,3,11,1,7:56 PM,6:31,Powell Free Throw 1 of 2 (3 PTS),,,14 - 9,-5,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,70,8,0,1,7:56 PM,6:31,SUB: Hardaway Jr. FOR Dinwiddie,,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200246,72,3,12,1,7:56 PM,6:31,MISS Powell Free Throw 2 of 2,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,73,4,0,1,7:56 PM,6:29,,,Jordan REBOUND (Off:1 Def:4),,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,74,2,79,1,7:57 PM,6:12,,,MISS Porter Jr. 27' 3PT Pullup Jump Shot,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,75,4,0,1,7:57 PM,6:08,Bullock REBOUND (Off:0 Def:1),,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,76,2,1,1,7:57 PM,6:00,MISS Doncic 25' 3PT Jump Shot,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,77,4,0,1,7:57 PM,5:57,,,Jordan REBOUND (Off:1 Def:5),,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,78,2,1,1,7:57 PM,5:51,,,MISS Nnaji 4' Jump Shot,,,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,79,4,0,1,7:57 PM,5:49,Doncic REBOUND (Off:0 Def:1),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,80,6,2,1,7:57 PM,5:44,,,Nnaji S.FOUL (P1.T3) (R.Mott),,,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022200246,82,3,11,1,7:58 PM,5:44,Doncic Free Throw 1 of 2 (1 PTS),,,14 - 10,-4,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,83,8,0,1,7:58 PM,5:44,SUB: Wood FOR Powell,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200246,84,8,0,1,7:58 PM,5:44,,,SUB: Hyland FOR Caldwell-Pope,,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200246,87,3,12,1,7:58 PM,5:44,MISS Doncic Free Throw 2 of 2,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,88,4,0,1,7:58 PM,5:42,,,Jordan REBOUND (Off:1 Def:6),,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,89,2,6,1,7:58 PM,5:29,,,MISS Brown Driving Layup,,,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,90,4,0,1,7:58 PM,5:26,Wood REBOUND (Off:0 Def:1),,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,91,1,101,1,7:59 PM,5:16,Wood 4' Driving Floating Jump Shot (2 PTS),,,14 - 12,-2,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,92,6,2,1,7:59 PM,5:04,Wood S.FOUL (P1.T3) (S.Wright),,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200246,94,3,11,1,7:59 PM,5:04,,,MISS Porter Jr. Free Throw 1 of 2,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,95,4,1,1,7:59 PM,5:04,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200246,96,3,12,1,8:00 PM,5:04,,,MISS Porter Jr. Free Throw 2 of 2,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,97,4,0,1,8:00 PM,5:02,Wood REBOUND (Off:0 Def:2),,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,98,5,2,1,8:00 PM,4:55,Doncic Lost Ball Turnover (P1.T3),,Brown STEAL (1 STL),,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200246,100,5,40,1,8:00 PM,4:52,,,Jordan Out of Bounds Lost Ball Turnover (P1.T3),,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022200246,101,6,4,1,8:00 PM,4:41,Hardaway Jr. OFF.Foul (P1) (L.Wood),,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200246,103,5,37,1,8:00 PM,4:41,Hardaway Jr. Offensive Foul Turnover (P1.T4),,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0022200246,104,8,0,1,8:00 PM,4:41,,,SUB: Braun FOR Porter Jr.,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200246,106,1,1,1,8:01 PM,4:25,,,Braun 3PT Jump Shot (3 PTS) (Brown 4 AST),17 - 12,-5,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200246,108,2,1,1,8:01 PM,4:04,MISS Hardaway Jr. 26' 3PT Jump Shot,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,109,4,0,1,8:01 PM,4:02,,,Jordan REBOUND (Off:1 Def:7),,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,110,6,2,1,8:01 PM,3:56,Doncic S.FOUL (P2.T4) (R.Mott),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200246,112,3,11,1,8:02 PM,3:56,,,Brown Free Throw 1 of 2 (1 PTS),18 - 12,-6,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,113,8,0,1,8:02 PM,3:56,SUB: Green FOR Bullock,,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200246,115,3,12,1,8:02 PM,3:56,,,Brown Free Throw 2 of 2 (2 PTS),19 - 12,-7,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,116,2,6,1,8:03 PM,3:33,MISS Hardaway Jr. 3' Driving Layup,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,117,4,0,1,8:03 PM,3:32,Hardaway Jr. REBOUND (Off:1 Def:0),,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,118,2,72,1,8:03 PM,3:31,MISS Hardaway Jr. 2' Putback Layup,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,119,4,0,1,8:03 PM,3:31,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200246,120,5,11,1,8:03 PM,3:31,MAVERICKS Turnover: Shot Clock (T#5),,,,,2,1610612742,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200246,121,2,5,1,8:03 PM,3:16,Finney-Smith BLOCK (1 BLK),,MISS Braun 2' Layup,,,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,1
+0022200246,122,4,0,1,8:03 PM,3:14,Wood REBOUND (Off:0 Def:3),,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,124,6,2,1,8:03 PM,3:06,,,Nnaji S.FOUL (P2.T4) (R.Mott),,,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022200246,126,3,11,1,8:04 PM,3:06,Doncic Free Throw 1 of 2 (2 PTS),,,19 - 13,-6,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,127,8,0,1,8:04 PM,3:06,,,SUB: Cancar FOR Jordan,,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,5,1628427,Vlatko Čančar,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200246,128,8,0,1,8:04 PM,3:06,,,SUB: Reed FOR Nnaji,,,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,5,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200246,131,3,12,1,8:04 PM,3:06,Doncic Free Throw 2 of 2 (3 PTS),,,19 - 14,-5,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,132,1,1,1,8:05 PM,2:48,,,Brown 8' Jump Shot (4 PTS),21 - 14,-7,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,134,1,102,1,8:05 PM,2:30,Green 4' Driving Floating Bank Jump Shot (2 PTS) (Hardaway Jr. 1 AST),,,21 - 16,-5,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200246,136,2,73,1,8:05 PM,2:15,,,MISS Braun 1' Driving Reverse Layup,,,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,137,4,0,1,8:05 PM,2:11,Wood REBOUND (Off:0 Def:4),,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,138,1,80,1,8:05 PM,2:02,Doncic 26' 3PT Step Back Jump Shot (6 PTS),,,21 - 19,-2,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,139,2,79,1,8:06 PM,1:46,,,MISS Hyland 24' 3PT Pullup Jump Shot,,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,140,4,0,1,8:06 PM,1:44,Doncic REBOUND (Off:0 Def:2),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,141,6,1,1,8:06 PM,1:41,,,Hyland P.FOUL (P1.PN) (R.Mott),,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022200246,143,3,11,1,8:06 PM,1:41,Wood Free Throw 1 of 2 (3 PTS),,,21 - 20,-1,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,144,8,0,1,8:06 PM,1:41,,,SUB: Caldwell-Pope FOR Brown,,,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200246,146,3,12,1,8:06 PM,1:41,MISS Wood Free Throw 2 of 2,,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,147,4,0,1,8:06 PM,1:39,,,Caldwell-Pope REBOUND (Off:0 Def:2),,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,148,1,6,1,8:07 PM,1:23,,,Hyland 1' Driving Layup (2 PTS),23 - 20,-3,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,149,2,1,1,8:07 PM,1:07,MISS Hardaway Jr. 25' 3PT Jump Shot,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,150,4,0,1,8:07 PM,1:04,,,Reed REBOUND (Off:0 Def:1),,,5,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,151,1,6,1,8:08 PM,1:00,,,Cancar 2' Driving Layup (2 PTS) (Caldwell-Pope 1 AST),25 - 20,-5,5,1628427,Vlatko Čančar,1610612743.0,Denver,Nuggets,DEN,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200246,153,1,1,1,8:08 PM,0:41,Green 25' 3PT Jump Shot (5 PTS) (Wood 1 AST),,,25 - 23,-2,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200246,155,2,1,1,8:08 PM,0:31,,,MISS Hyland 26' 3PT Jump Shot,,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,156,4,0,1,8:08 PM,0:29,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200246,158,1,85,1,8:09 PM,0:15,Doncic 6' Turnaround Bank Shot (8 PTS),,,25 - 25,TIE,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,159,13,0,1,8:09 PM,0:00,,End of 1st Period (8:09 PM EST),,25 - 25,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200246,164,12,0,2,8:12 PM,12:00,,Start of 2nd Period (8:12 PM EST),,25 - 25,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200246,165,6,1,2,8:12 PM,11:53,,,Cancar P.FOUL (P1.T1) (S.Wright),,,5,1628427,Vlatko Čančar,1610612743.0,Denver,Nuggets,DEN,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022200246,167,6,2,2,8:12 PM,11:51,,,Cancar S.FOUL (P2.T2) (L.Wood),,,5,1628427,Vlatko Čančar,1610612743.0,Denver,Nuggets,DEN,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022200246,169,3,11,2,8:13 PM,11:51,Hardaway Jr. Free Throw 1 of 2 (1 PTS),,,25 - 26,1,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,170,3,12,2,8:13 PM,11:51,Hardaway Jr. Free Throw 2 of 2 (2 PTS),,,25 - 27,2,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,171,2,80,2,8:13 PM,11:40,,,MISS Caldwell-Pope 26' 3PT Step Back Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,172,4,0,2,8:13 PM,11:37,Bullock REBOUND (Off:0 Def:2),,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,173,2,1,2,8:14 PM,11:22,MISS Dinwiddie 26' 3PT Jump Shot,,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,174,4,0,2,8:14 PM,11:18,,,Cancar REBOUND (Off:0 Def:1),,,5,1628427,Vlatko Čančar,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,175,1,6,2,8:14 PM,11:06,,,Hyland 2' Driving Layup (4 PTS),27 - 27,TIE,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,176,2,1,2,8:14 PM,10:46,MISS Bullock 3PT Jump Shot,,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,177,4,0,2,8:14 PM,10:43,,,Braun REBOUND (Off:0 Def:1),,,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,178,1,75,2,8:15 PM,10:22,,,Hyland 2' Driving Finger Roll Layup (6 PTS),29 - 27,-2,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,179,1,6,2,8:15 PM,10:06,Dinwiddie 4' Driving Layup (5 PTS),,,29 - 29,TIE,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,180,7,1,2,8:15 PM,10:06,MAVERICKS Violation: Delay of game Violation,,,,,2,1610612742,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200246,181,6,2,2,8:15 PM,9:58,Green S.FOUL (P1.T1) (L.Wood),,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200246,183,3,11,2,8:16 PM,9:58,,,Caldwell-Pope Free Throw 1 of 2 (3 PTS),30 - 29,-1,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,184,3,12,2,8:16 PM,9:58,,,Caldwell-Pope Free Throw 2 of 2 (4 PTS),31 - 29,-2,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0022200246,185,2,79,2,8:16 PM,9:47,MISS Hardaway Jr. 19' Pullup Jump Shot,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,186,4,0,2,8:16 PM,9:45,,,Braun REBOUND (Off:0 Def:2),,,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,187,6,4,2,8:17 PM,9:42,,,Cancar OFF.Foul (P3) (L.Wood),,,5,1628427,Vlatko Čančar,1610612743.0,Denver,Nuggets,DEN,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022200246,189,5,37,2,8:17 PM,9:42,,,Cancar Offensive Foul Turnover (P1.T4),,,5,1628427,Vlatko Čančar,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022200246,190,1,1,2,8:17 PM,9:30,Bullock 25' 3PT Jump Shot (3 PTS) (Dinwiddie 2 AST),,,31 - 32,1,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200246,192,1,86,2,8:17 PM,9:04,,,Reed 8' Turnaround Fadeaway (2 PTS),33 - 32,-1,5,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,193,2,1,2,8:18 PM,8:52,MISS Hardaway Jr. 25' 3PT Jump Shot,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,194,4,0,2,8:18 PM,8:52,,,Cancar REBOUND (Off:0 Def:2),,,5,1628427,Vlatko Čančar,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,195,1,5,2,8:18 PM,8:32,,,Cancar 2' Layup (4 PTS) (Hyland 1 AST),35 - 32,-3,5,1628427,Vlatko Čančar,1610612743.0,Denver,Nuggets,DEN,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200246,197,5,1,2,8:18 PM,8:13,Dinwiddie Bad Pass Turnover (P2.T6),,Cancar STEAL (1 STL),,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,5,1628427,Vlatko Čančar,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200246,199,2,41,2,8:18 PM,8:08,Dinwiddie BLOCK (1 BLK),,MISS Hyland 2' Running Layup,,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,1
+0022200246,201,4,0,2,8:18 PM,8:07,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200246,203,8,0,2,8:18 PM,8:07,SUB: McGee FOR Hardaway Jr.,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,4,201580,JaVale McGee,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200246,204,8,0,2,8:18 PM,8:07,,,SUB: Porter Jr. FOR Braun,,,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200246,205,8,0,2,8:18 PM,8:07,,,SUB: Jordan FOR Cancar,,,5,1628427,Vlatko Čančar,1610612743.0,Denver,Nuggets,DEN,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200246,209,1,1,2,8:19 PM,8:02,,,Caldwell-Pope 19' Jump Shot (6 PTS) (Reed 1 AST),37 - 32,-5,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,5,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200246,211,2,58,2,8:19 PM,7:44,MISS McGee 7' Turnaround Hook Shot,,,,,4,201580,JaVale McGee,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,212,4,0,2,8:19 PM,7:43,,,Jordan REBOUND (Off:1 Def:8),,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,213,1,1,2,8:19 PM,7:36,,,Reed 24' 3PT Jump Shot (5 PTS) (Hyland 2 AST),40 - 32,-8,5,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200246,215,9,1,2,8:19 PM,7:35,MAVERICKS Timeout: Regular (Full 1 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200246,216,8,0,2,8:22 PM,7:35,SUB: Bertans FOR Wood,,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,4,202722,Dāvis Bertāns,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200246,217,8,0,2,8:22 PM,7:35,,,SUB: Brown FOR Caldwell-Pope,,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200246,220,2,79,2,8:23 PM,7:14,MISS Dinwiddie 25' 3PT Pullup Jump Shot,,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,221,4,0,2,8:23 PM,7:10,,,Jordan REBOUND (Off:1 Def:9),,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,222,1,75,2,8:23 PM,6:56,,,Porter Jr. 1' Driving Finger Roll Layup (2 PTS) (Brown 5 AST),42 - 32,-10,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200246,224,1,1,2,8:23 PM,6:41,Green 3PT Jump Shot (8 PTS) (Dinwiddie 3 AST),,,42 - 35,-7,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200246,227,8,0,2,8:23 PM,6:22,SUB: Doncic FOR Bullock,,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200246,228,8,0,2,8:23 PM,6:22,SUB: Finney-Smith FOR Dinwiddie,,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200246,231,1,1,2,8:24 PM,6:16,,,Hyland 19' Jump Shot (8 PTS),44 - 35,-9,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,232,1,6,2,8:24 PM,6:03,Green 1' Driving Layup (10 PTS) (Doncic 2 AST),,,44 - 37,-7,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200246,234,2,1,2,8:24 PM,5:51,,,MISS Reed 3PT Jump Shot,,,5,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,235,4,0,2,8:24 PM,5:46,Green REBOUND (Off:0 Def:1),,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,236,1,101,2,8:25 PM,5:36,Doncic 12' Driving Floating Jump Shot (10 PTS),,,44 - 39,-5,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,237,6,1,2,8:25 PM,5:18,Bertans P.FOUL (P1.T2) (S.Wright),,,,,4,202722,Dāvis Bertāns,1610612742.0,Dallas,Mavericks,DAL,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200246,239,1,80,2,8:25 PM,5:11,,,Porter Jr. 14' Step Back Jump Shot (4 PTS) (Hyland 3 AST),46 - 39,-7,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200246,241,2,5,2,8:25 PM,5:00,MISS Bertans 3' Layup,,Reed BLOCK (1 BLK),,,4,202722,Dāvis Bertāns,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,1
+0022200246,243,4,0,2,8:25 PM,4:59,,,Hyland REBOUND (Off:0 Def:1),,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,244,6,1,2,8:26 PM,4:58,Bertans P.FOUL (P2.T3) (S.Wright),,,,,4,202722,Dāvis Bertāns,1610612742.0,Dallas,Mavericks,DAL,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200246,246,2,43,2,8:26 PM,4:40,,,MISS Jordan 1' Alley Oop Layup,,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,247,4,0,2,8:26 PM,4:37,Doncic REBOUND (Off:0 Def:3),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,248,1,73,2,8:27 PM,4:28,Bertans 2' Driving Reverse Layup (2 PTS) (Doncic 3 AST),,,46 - 41,-5,4,202722,Dāvis Bertāns,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200246,250,6,2,2,8:27 PM,4:28,,,Brown S.FOUL (P1.T3) (S.Wright),,,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,4,202722,Dāvis Bertāns,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022200246,252,8,0,2,8:27 PM,4:28,,,SUB: Caldwell-Pope FOR Reed,,,5,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200246,254,3,10,2,8:27 PM,4:28,Bertans Free Throw 1 of 1 (3 PTS),,,46 - 42,-4,4,202722,Dāvis Bertāns,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,255,2,6,2,8:28 PM,4:13,McGee BLOCK (1 BLK),,MISS Brown 2' Driving Layup,,,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,4,201580,JaVale McGee,1610612742.0,Dallas,Mavericks,DAL,1
+0022200246,257,4,0,2,8:28 PM,4:10,Bertans REBOUND (Off:0 Def:1),,,,,4,202722,Dāvis Bertāns,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,258,5,1,2,8:28 PM,4:08,Bertans Bad Pass Turnover (P1.T7),,Hyland STEAL (1 STL),,,4,202722,Dāvis Bertāns,1610612742.0,Dallas,Mavericks,DAL,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200246,260,1,79,2,8:28 PM,3:51,,,Porter Jr. 12' Pullup Jump Shot (6 PTS) (Hyland 4 AST),48 - 42,-6,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200246,262,1,1,2,8:28 PM,3:36,Bertans 27' 3PT Jump Shot (6 PTS) (Doncic 4 AST),,,48 - 45,-3,4,202722,Dāvis Bertāns,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200246,264,9,1,2,8:28 PM,3:35,,,Nuggets Timeout: Regular (Reg.3 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200246,266,2,1,2,8:31 PM,3:24,,,MISS Hyland 18' Jump Shot,,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,267,4,0,2,8:31 PM,3:22,McGee REBOUND (Off:0 Def:1),,,,,4,201580,JaVale McGee,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,268,5,1,2,8:32 PM,3:09,Doncic Bad Pass Turnover (P2.T8),,Porter Jr. STEAL (1 STL),,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200246,270,6,1,2,8:32 PM,3:07,Green P.FOUL (P2.T4) (R.Mott),,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200246,272,1,6,2,8:32 PM,2:57,,,Porter Jr. 1' Driving Layup (8 PTS) (Hyland 5 AST),50 - 45,-5,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200246,274,1,1,2,8:32 PM,2:46,Green 3PT Jump Shot (13 PTS) (Bertans 1 AST),,,50 - 48,-2,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,202722,Dāvis Bertāns,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200246,276,1,101,2,8:33 PM,2:31,,,Brown 12' Driving Floating Jump Shot (6 PTS),52 - 48,-4,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,277,6,1,2,8:33 PM,2:23,,,Brown P.FOUL (P2.T4) (L.Wood),,,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022200246,279,2,5,2,8:33 PM,2:15,MISS McGee 2' Layup,,Hyland BLOCK (1 BLK),,,4,201580,JaVale McGee,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,1
+0022200246,281,4,0,2,8:33 PM,2:15,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200246,283,8,0,2,8:33 PM,2:15,SUB: Powell FOR McGee,,,,,4,201580,JaVale McGee,1610612742.0,Dallas,Mavericks,DAL,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200246,285,1,1,2,8:34 PM,2:13,Bertans 3PT Jump Shot (9 PTS) (Doncic 5 AST),,,52 - 51,-1,4,202722,Dāvis Bertāns,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200246,287,2,78,2,8:34 PM,1:44,,,MISS Caldwell-Pope 18' Floating Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,288,4,0,2,8:34 PM,1:41,Doncic REBOUND (Off:0 Def:4),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,289,1,1,2,8:34 PM,1:33,Bertans 28' 3PT Jump Shot (12 PTS) (Doncic 6 AST),,,52 - 54,2,4,202722,Dāvis Bertāns,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200246,291,2,1,2,8:35 PM,1:14,,,MISS Porter Jr. 24' 3PT Jump Shot,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,292,4,0,2,8:35 PM,1:11,,,Brown REBOUND (Off:1 Def:0),,,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,293,2,5,2,8:35 PM,1:10,,,MISS Brown 2' Layup,,,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,294,4,0,2,8:35 PM,1:08,Finney-Smith REBOUND (Off:0 Def:1),,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,295,2,1,2,8:35 PM,1:01,MISS Bertans 28' 3PT Jump Shot,,,,,4,202722,Dāvis Bertāns,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,296,4,0,2,8:35 PM,0:58,,,Jordan REBOUND (Off:1 Def:10),,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,297,2,79,2,8:35 PM,0:42,,,MISS Hyland 28' 3PT Pullup Jump Shot,,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,298,4,0,2,8:35 PM,0:38,Finney-Smith REBOUND (Off:0 Def:2),,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,299,1,80,2,8:35 PM,0:29,Doncic 19' Step Back Jump Shot (12 PTS),,,52 - 56,4,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,300,5,4,2,8:36 PM,0:07,,,Brown Traveling Turnover (P1.T5),,,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022200246,301,8,0,2,8:36 PM,0:07,,,SUB: Reed FOR Porter Jr.,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200246,302,8,0,2,8:36 PM,0:07,,,SUB: Braun FOR Hyland,,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200246,307,5,39,2,8:36 PM,0:02,Doncic Step Out of Bounds Turnover (P3.T9),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0022200246,306,18,1,2,8:36 PM,0:02,,Instant Replay2nd Period (8:36 PM EST),,52 - 56,4,0,305,Robert Parish,,,,,0,0,,,,,,1,0,,,,,,0
+0022200246,308,8,0,2,8:51 PM,0:02,SUB: Bullock FOR Green,,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200246,309,8,0,2,8:51 PM,0:02,SUB: Dinwiddie FOR Bertans,,,,,4,202722,Dāvis Bertāns,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200246,317,8,0,2,8:51 PM,0:02,,,SUB: Cancar FOR Reed,,,5,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,5,1628427,Vlatko Čančar,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200246,318,8,0,2,8:51 PM,0:02,,,SUB: Porter Jr. FOR Braun,,,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200246,316,1,1,2,8:52 PM,0:01,,,Cancar 53' 3PT Jump Shot (7 PTS) (Brown 6 AST),55 - 56,1,5,1628427,Vlatko Čančar,1610612743.0,Denver,Nuggets,DEN,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200246,322,18,0,2,8:53 PM,0:00,,Instant Replay2nd Period (8:53 PM EST),,55 - 56,1,0,316,Richard Manning,,,,,0,0,,,,,,1,0,,,,,,0
+0022200246,323,13,0,2,8:53 PM,0:00,,End of 2nd Period (8:53 PM EST),,55 - 56,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200246,326,12,0,3,8:53 PM,12:00,,Start of 3rd Period (8:53 PM EST),,55 - 56,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200246,327,2,5,3,8:53 PM,11:46,MISS Powell 3' Layup,,Porter Jr. BLOCK (1 BLK),,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,1
+0022200246,329,4,0,3,8:53 PM,11:46,Powell REBOUND (Off:2 Def:0),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,330,6,2,3,8:54 PM,11:46,,,Porter Jr. S.FOUL (P1.T1) (S.Wright),,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022200246,332,3,11,3,8:54 PM,11:46,MISS Powell Free Throw 1 of 2,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,333,4,1,3,8:54 PM,11:46,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200246,334,3,12,3,8:54 PM,11:46,MISS Powell Free Throw 2 of 2,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,335,4,0,3,8:54 PM,11:43,,,Porter Jr. REBOUND (Off:0 Def:1),,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,336,1,79,3,8:55 PM,11:24,,,Porter Jr. 17' Pullup Jump Shot (10 PTS) (Brown 7 AST),57 - 56,-1,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200246,338,2,79,3,8:55 PM,11:07,MISS Dinwiddie 14' Pullup Jump Shot,,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,339,4,0,3,8:55 PM,11:05,,,Brown REBOUND (Off:1 Def:1),,,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,340,1,80,3,8:55 PM,10:49,,,Brown 18' Step Back Jump Shot (8 PTS),59 - 56,-3,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,341,2,101,3,8:56 PM,10:24,MISS Dinwiddie 10' Driving Floating Jump Shot,,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,342,4,0,3,8:56 PM,10:20,,,Porter Jr. REBOUND (Off:0 Def:2),,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,343,2,6,3,8:56 PM,10:00,,,MISS Brown 2' Driving Layup,,,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,344,4,0,3,8:56 PM,9:58,Powell REBOUND (Off:2 Def:1),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,345,1,79,3,8:56 PM,9:49,Doncic 12' Pullup Jump Shot (14 PTS),,,59 - 58,-1,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,346,1,3,3,8:57 PM,9:30,,,Jordan 2' Hook Shot (8 PTS) (Caldwell-Pope 2 AST),61 - 58,-3,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200246,348,6,2,3,8:57 PM,9:30,Powell S.FOUL (P2.T1) (L.Wood),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200246,350,3,10,3,8:57 PM,9:30,,,MISS Jordan Free Throw 1 of 1,,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,351,4,0,3,8:57 PM,9:28,Doncic REBOUND (Off:0 Def:5),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,352,2,79,3,8:57 PM,9:22,MISS Bullock 26' 3PT Pullup Jump Shot,,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,353,4,0,3,8:57 PM,9:17,,,Jordan REBOUND (Off:1 Def:11),,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,354,2,1,3,8:57 PM,9:05,,,MISS Porter Jr. 26' 3PT Jump Shot,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,355,4,0,3,8:58 PM,9:03,Doncic REBOUND (Off:0 Def:6),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,356,1,108,3,8:58 PM,8:59,Powell 1' Cutting Dunk Shot (5 PTS) (Finney-Smith 1 AST),,,61 - 60,-1,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200246,358,2,78,3,8:58 PM,8:41,,,MISS Caldwell-Pope 15' Floating Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,359,4,0,3,8:58 PM,8:40,Dinwiddie REBOUND (Off:0 Def:1),,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,360,1,41,3,8:58 PM,8:33,Dinwiddie 1' Running Layup (7 PTS),,,61 - 62,1,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,361,2,86,3,8:58 PM,8:10,,,MISS Porter Jr. 11' Turnaround Fadeaway Shot,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,362,4,0,3,8:58 PM,8:07,Doncic REBOUND (Off:0 Def:7),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,363,2,1,3,8:59 PM,7:52,MISS Doncic 26' 3PT Jump Shot,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,364,4,0,3,8:59 PM,7:48,,,Brown REBOUND (Off:1 Def:2),,,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,365,5,1,3,8:59 PM,7:43,Bullock STEAL (1 STL),,Caldwell-Pope Bad Pass Turnover (P2.T6),,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200246,367,2,1,3,8:59 PM,7:38,MISS Finney-Smith 26' 3PT Jump Shot,,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,368,4,0,3,8:59 PM,7:34,,,Porter Jr. REBOUND (Off:0 Def:3),,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,369,2,6,3,8:59 PM,7:17,,,MISS Caldwell-Pope 4' Driving Layup,,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,370,4,0,3,8:59 PM,7:17,,,Jordan REBOUND (Off:2 Def:11),,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,371,6,1,3,8:59 PM,7:17,Finney-Smith P.FOUL (P1.T2) (R.Mott),,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200246,373,1,1,3,9:00 PM,7:05,,,Nnaji 25' 3PT Jump Shot (5 PTS) (Caldwell-Pope 3 AST),64 - 62,-2,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200246,375,2,80,3,9:01 PM,6:43,MISS Doncic 27' 3PT Step Back Jump Shot,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,376,4,0,3,9:01 PM,6:39,,,Caldwell-Pope REBOUND (Off:0 Def:3),,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,377,1,1,3,9:01 PM,6:37,,,Caldwell-Pope 26' 3PT Jump Shot (9 PTS),67 - 62,-5,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,378,9,1,3,9:01 PM,6:35,MAVERICKS Timeout: Regular (Full 2 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200246,379,2,1,3,9:04 PM,6:19,MISS Bullock 25' 3PT Jump Shot,,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,380,4,0,3,9:04 PM,6:16,Powell REBOUND (Off:3 Def:1),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,381,1,107,3,9:04 PM,6:16,Powell Tip Dunk Shot (7 PTS),,,67 - 64,-3,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,382,1,102,3,9:05 PM,5:54,,,Brown 17' Driving Floating Bank Jump Shot (10 PTS) (Jordan 1 AST),69 - 64,-5,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200246,384,2,1,3,9:05 PM,5:41,MISS Dinwiddie 3PT Jump Shot,,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,385,4,0,3,9:05 PM,5:38,,,Jordan REBOUND (Off:2 Def:12),,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,386,5,39,3,9:05 PM,5:25,,,Caldwell-Pope Step Out of Bounds Turnover (P3.T7),,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022200246,387,8,0,3,9:05 PM,5:25,SUB: Wood FOR Powell,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200246,388,8,0,3,9:05 PM,5:25,SUB: Hardaway Jr. FOR Bullock,,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200246,389,8,0,3,9:05 PM,5:25,,,SUB: Hyland FOR Caldwell-Pope,,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200246,394,6,1,3,9:06 PM,5:15,,,Hyland P.FOUL (P2.T2) (S.Wright),,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022200246,396,8,0,3,9:06 PM,5:15,,,SUB: Cancar FOR Jordan,,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,5,1628427,Vlatko Čančar,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200246,398,2,101,3,9:06 PM,5:05,MISS Doncic 5' Driving Floating Jump Shot,,Brown BLOCK (1 BLK),,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,1
+0022200246,400,4,0,3,9:06 PM,5:03,,,Brown REBOUND (Off:1 Def:3),,,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,401,1,41,3,9:06 PM,5:00,,,Hyland 1' Running Layup (10 PTS) (Brown 8 AST),71 - 64,-7,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200246,402,2,1,3,9:07 PM,4:40,MISS Finney-Smith 3PT Jump Shot,,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,403,4,0,3,9:07 PM,4:40,Wood REBOUND (Off:1 Def:4),,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,404,1,101,3,9:07 PM,4:34,Doncic 5' Driving Floating Jump Shot (16 PTS) (Wood 2 AST),,,71 - 66,-5,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200246,406,2,1,3,9:07 PM,4:08,,,MISS Hyland 25' 3PT Jump Shot,,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,407,4,0,3,9:07 PM,4:06,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200246,409,8,0,3,9:07 PM,4:06,SUB: Green FOR Dinwiddie,,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200246,410,8,0,3,9:07 PM,4:06,,,SUB: Braun FOR Porter Jr.,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200246,413,2,73,3,9:08 PM,3:57,,,MISS Nnaji 1' Driving Reverse Layup,,,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,414,4,0,3,9:08 PM,3:55,Wood REBOUND (Off:1 Def:5),,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,415,2,1,3,9:08 PM,3:40,MISS Wood 15' Jump Shot,,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,416,4,0,3,9:08 PM,3:37,,,Cancar REBOUND (Off:0 Def:3),,,5,1628427,Vlatko Čančar,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,417,2,1,3,9:08 PM,3:19,,,MISS Brown 3PT Jump Shot,,,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,418,4,0,3,9:09 PM,3:18,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200246,420,2,1,3,9:09 PM,3:13,,,MISS Brown 11' Jump Shot,,,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,421,4,0,3,9:09 PM,3:12,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200246,423,8,0,3,9:09 PM,3:12,,,SUB: Reed FOR Nnaji,,,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,5,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200246,426,2,101,3,9:10 PM,3:01,,,MISS Hyland 9' Driving Floating Jump Shot,,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,427,4,0,3,9:10 PM,2:59,,,Hyland REBOUND (Off:1 Def:1),,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,428,2,1,3,9:10 PM,2:58,,,MISS Hyland 16' Jump Shot,,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,429,4,0,3,9:10 PM,2:55,Finney-Smith REBOUND (Off:0 Def:3),,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,430,2,1,3,9:10 PM,2:47,MISS Hardaway Jr. 3PT Jump Shot,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,431,4,0,3,9:10 PM,2:43,,,Cancar REBOUND (Off:0 Def:4),,,5,1628427,Vlatko Čančar,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,432,5,40,3,9:10 PM,2:38,,,Brown Out of Bounds Lost Ball Turnover (P2.T8),,,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022200246,433,9,1,3,9:10 PM,2:38,,,Nuggets Timeout: Regular (Reg.4 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200246,434,8,0,3,9:10 PM,2:38,,,SUB: Caldwell-Pope FOR Brown,,,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200246,436,5,1,3,9:13 PM,2:24,Doncic Bad Pass Turnover (P4.T10),,Cancar STEAL (2 STL),,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,5,1628427,Vlatko Čančar,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200246,438,1,80,3,9:13 PM,2:20,,,Hyland 25' 3PT Step Back Jump Shot (13 PTS),74 - 66,-8,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,439,5,2,3,9:14 PM,2:07,Green Lost Ball Turnover (P1.T11),,Reed STEAL (1 STL),,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,5,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200246,441,1,41,3,9:14 PM,2:03,,,Braun 1' Running Layup (5 PTS) (Reed 2 AST),76 - 66,-10,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,5,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200246,443,6,2,3,9:14 PM,1:54,,,Braun S.FOUL (P1.T3) (R.Mott),,,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022200246,445,3,11,3,9:14 PM,1:54,Doncic Free Throw 1 of 2 (17 PTS),,,76 - 67,-9,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,446,8,0,3,9:14 PM,1:54,SUB: Bertans FOR Finney-Smith,,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,4,202722,Dāvis Bertāns,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200246,448,3,12,3,9:15 PM,1:54,Doncic Free Throw 2 of 2 (18 PTS),,,76 - 68,-8,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,449,5,1,3,9:15 PM,1:40,Doncic STEAL (1 STL),,Cancar Bad Pass Turnover (P2.T9),,,5,1628427,Vlatko Čančar,1610612743.0,Denver,Nuggets,DEN,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200246,451,1,99,3,9:15 PM,1:31,Wood 1' Cutting Finger Roll Layup Shot (5 PTS) (Bertans 2 AST),,,76 - 70,-6,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,4,202722,Dāvis Bertāns,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200246,453,6,4,3,9:15 PM,1:18,,,Cancar OFF.Foul (P4) (S.Wright),,,5,1628427,Vlatko Čančar,1610612743.0,Denver,Nuggets,DEN,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022200246,455,5,37,3,9:15 PM,1:18,,,Cancar Offensive Foul Turnover (P3.T10),,,5,1628427,Vlatko Čančar,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022200246,456,6,1,3,9:16 PM,1:09,,,Braun P.FOUL (P2.PN) (S.Wright),,,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022200246,458,3,11,3,9:16 PM,1:09,MISS Doncic Free Throw 1 of 2,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,459,4,1,3,9:16 PM,1:09,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200246,460,8,0,3,9:16 PM,1:09,,,SUB: Nnaji FOR Cancar,,,5,1628427,Vlatko Čančar,1610612743.0,Denver,Nuggets,DEN,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200246,462,3,12,3,9:17 PM,1:09,Doncic Free Throw 2 of 2 (19 PTS),,,76 - 71,-5,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,463,5,4,3,9:17 PM,0:53,,,Reed Traveling Turnover (P1.T11),,,5,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022200246,464,1,1,3,9:17 PM,0:46,Doncic 26' 3PT Jump Shot (22 PTS) (Hardaway Jr. 2 AST),,,76 - 74,-2,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200246,466,1,1,3,9:18 PM,0:31,,,Hyland 27' 3PT Jump Shot (16 PTS) (Reed 3 AST),79 - 74,-5,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,5,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200246,468,2,101,3,9:18 PM,0:19,MISS Doncic 6' Driving Floating Jump Shot,,Nnaji BLOCK (1 BLK),,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,1
+0022200246,470,4,0,3,9:18 PM,0:17,,,Braun REBOUND (Off:0 Def:3),,,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,471,2,79,3,9:18 PM,0:00,,,MISS Braun 14' Pullup Jump Shot,,,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,472,4,0,3,9:18 PM,0:00,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200246,473,13,0,3,9:18 PM,0:00,,End of 3rd Period (9:18 PM EST),,79 - 74,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200246,476,12,0,4,9:21 PM,12:00,,Start of 4th Period (9:21 PM EST),,79 - 74,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200246,477,1,73,4,9:21 PM,11:48,,,Hyland 5' Driving Reverse Layup (18 PTS) (Nnaji 1 AST),81 - 74,-7,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200246,479,5,1,4,9:22 PM,11:30,Dinwiddie Bad Pass Turnover (P3.T12),,Braun STEAL (1 STL),,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200246,481,6,4,4,9:22 PM,11:17,,,Nnaji OFF.Foul (P3) (S.Wright),,,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022200246,483,5,37,4,9:22 PM,11:17,,,Nnaji Offensive Foul Turnover (P1.T12),,,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022200246,484,1,75,4,9:22 PM,11:02,Dinwiddie 2' Driving Finger Roll Layup (9 PTS),,,81 - 76,-5,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,485,6,1,4,9:23 PM,10:48,Bertans P.FOUL (P3.T1) (S.Wright),,,,,4,202722,Dāvis Bertāns,1610612742.0,Dallas,Mavericks,DAL,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200246,487,6,2,4,9:23 PM,10:38,Green S.FOUL (P3.T2) (L.Wood),,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200246,489,3,11,4,9:24 PM,10:38,,,Hyland Free Throw 1 of 2 (19 PTS),82 - 76,-6,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,490,3,12,4,9:24 PM,10:38,,,Hyland Free Throw 2 of 2 (20 PTS),83 - 76,-7,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,491,1,1,4,9:24 PM,10:26,Green 24' 3PT Jump Shot (16 PTS) (Dinwiddie 4 AST),,,83 - 79,-4,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200246,493,2,1,4,9:25 PM,10:10,,,MISS Reed 26' 3PT Jump Shot,,,5,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,494,4,0,4,9:25 PM,10:09,Wood REBOUND (Off:1 Def:6),,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,496,6,1,4,9:25 PM,10:09,,,Braun P.FOUL (P3.T1) (S.Wright),,,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022200246,498,8,0,4,9:25 PM,10:09,SUB: McGee FOR Wood,,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,4,201580,JaVale McGee,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200246,502,8,0,4,9:25 PM,10:09,,,SUB: Jordan FOR Nnaji,,,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200246,504,1,43,4,9:25 PM,10:01,McGee 1' Alley Oop Layup (2 PTS) (Dinwiddie 5 AST),,,83 - 81,-2,4,201580,JaVale McGee,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200246,506,1,5,4,9:26 PM,9:40,,,Hyland 2' Layup (22 PTS),85 - 81,-4,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,507,1,1,4,9:26 PM,9:23,Green 25' 3PT Jump Shot (19 PTS) (Dinwiddie 6 AST),,,85 - 84,-1,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200246,509,5,2,4,9:26 PM,8:56,Hardaway Jr. STEAL (1 STL),,Caldwell-Pope Lost Ball Turnover (P4.T13),,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200246,511,2,41,4,9:26 PM,8:52,MISS Hardaway Jr. 1' Running Layup,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,512,4,0,4,9:26 PM,8:49,,,Braun REBOUND (Off:0 Def:4),,,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,513,6,1,4,9:27 PM,8:31,Dinwiddie P.FOUL (P1.T3) (L.Wood),,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200246,515,8,0,4,9:27 PM,8:31,,,SUB: Brown FOR Braun,,,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200246,517,2,101,4,9:27 PM,8:19,,,MISS Hyland 17' Driving Floating Jump Shot,,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,518,4,0,4,9:28 PM,8:16,Hardaway Jr. REBOUND (Off:1 Def:1),,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,519,2,1,4,9:28 PM,8:09,MISS Hardaway Jr. 29' 3PT Jump Shot,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,520,4,0,4,9:28 PM,8:06,,,Reed REBOUND (Off:0 Def:2),,,5,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,521,2,1,4,9:28 PM,8:01,,,MISS Caldwell-Pope 24' 3PT Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,522,4,0,4,9:28 PM,8:01,Hardaway Jr. REBOUND (Off:1 Def:2),,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,523,1,75,4,9:28 PM,7:48,Dinwiddie Driving Finger Roll Layup (11 PTS),,,85 - 86,1,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,524,9,1,4,9:28 PM,7:48,,,Nuggets Timeout: Regular (Reg.5 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200246,525,8,0,4,9:29 PM,7:48,,,SUB: Porter Jr. FOR Reed,,,5,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200246,527,1,1,4,9:31 PM,7:36,,,Hyland 26' 3PT Jump Shot (25 PTS),88 - 86,-2,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,528,1,1,4,9:31 PM,7:21,Bertans 24' 3PT Jump Shot (15 PTS) (Dinwiddie 7 AST),,,88 - 89,1,4,202722,Dāvis Bertāns,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200246,530,6,1,4,9:32 PM,7:08,Bertans P.FOUL (P4.T4) (R.Mott),,,,,4,202722,Dāvis Bertāns,1610612742.0,Dallas,Mavericks,DAL,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200246,532,8,0,4,9:32 PM,7:08,SUB: Finney-Smith FOR Hardaway Jr.,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200246,533,8,0,4,9:32 PM,7:08,SUB: Bullock FOR Bertans,,,,,4,202722,Dāvis Bertāns,1610612742.0,Dallas,Mavericks,DAL,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200246,536,7,5,4,9:32 PM,6:57,Finney-Smith Violation:Kicked Ball (R.Mott),,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0022200246,537,5,1,4,9:33 PM,6:49,,,Porter Jr. Bad Pass Turnover (P2.T14),,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,539,6,3,4,9:33 PM,6:49,,,Porter Jr. L.B.FOUL (P2.T2) (S.Wright),,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,201580,JaVale McGee,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022200246,541,2,1,4,9:33 PM,6:39,MISS Dinwiddie 27' 3PT Jump Shot,,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,542,4,0,4,9:34 PM,6:37,,,Porter Jr. REBOUND (Off:0 Def:4),,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,543,6,1,4,9:34 PM,6:37,Dinwiddie P.FOUL (P2.PN) (S.Wright),,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200246,545,3,11,4,9:34 PM,6:37,,,MISS Porter Jr. Free Throw 1 of 2,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,546,4,1,4,9:34 PM,6:37,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200246,547,3,12,4,9:34 PM,6:37,,,Porter Jr. Free Throw 2 of 2 (11 PTS),89 - 89,TIE,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0022200246,548,1,1,4,9:35 PM,6:14,Green 25' 3PT Jump Shot (22 PTS) (Dinwiddie 8 AST),,,89 - 92,3,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200246,550,6,1,4,9:35 PM,5:50,Bullock P.FOUL (P1.PN) (L.Wood),,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200246,552,3,11,4,9:36 PM,5:50,,,Hyland Free Throw 1 of 2 (26 PTS),90 - 92,2,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,553,3,12,4,9:36 PM,5:50,,,Hyland Free Throw 2 of 2 (27 PTS),91 - 92,1,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,554,6,2,4,9:36 PM,5:34,,,Jordan S.FOUL (P2.T3) (L.Wood),,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022200246,556,3,11,4,9:37 PM,5:34,MISS Green Free Throw 1 of 2,,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,557,4,1,4,9:37 PM,5:34,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200246,559,3,12,4,9:37 PM,5:34,Green Free Throw 2 of 2 (23 PTS),,,91 - 93,2,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,560,1,5,4,9:37 PM,5:17,,,Brown 5' Layup (12 PTS),93 - 93,TIE,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,561,9,1,4,9:38 PM,5:17,MAVERICKS Timeout: Regular (Full 3 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200246,562,8,0,4,9:38 PM,5:17,SUB: Powell FOR McGee,,,,,4,201580,JaVale McGee,1610612742.0,Dallas,Mavericks,DAL,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200246,563,8,0,4,9:38 PM,5:17,SUB: Doncic FOR Green,,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200246,566,2,1,4,9:41 PM,5:01,MISS Dinwiddie 25' 3PT Jump Shot,,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,567,4,0,4,9:41 PM,4:57,,,Jordan REBOUND (Off:2 Def:13),,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,568,2,1,4,9:41 PM,4:40,,,MISS Brown 27' 3PT Jump Shot,,,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,569,4,0,4,9:41 PM,4:37,Bullock REBOUND (Off:0 Def:3),,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,570,2,1,4,9:41 PM,4:20,MISS Doncic 3PT Jump Shot,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,571,4,0,4,9:41 PM,4:15,,,Caldwell-Pope REBOUND (Off:0 Def:4),,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,572,2,6,4,9:42 PM,4:00,,,MISS Hyland 1' Driving Layup,,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,573,4,0,4,9:42 PM,3:57,Powell REBOUND (Off:3 Def:2),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,574,1,44,4,9:42 PM,3:45,Powell 1' Reverse Layup (9 PTS) (Doncic 7 AST),,,93 - 95,2,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200246,576,2,1,4,9:42 PM,3:22,,,MISS Caldwell-Pope 19' Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,577,4,0,4,9:42 PM,3:21,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200246,579,8,0,4,9:42 PM,3:21,SUB: Green FOR Bullock,,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200246,581,5,11,4,9:43 PM,3:19,,,Nuggets Turnover: Shot Clock (T#15),,,3,1610612743,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200246,582,2,1,4,9:43 PM,3:06,MISS Dinwiddie 3PT Jump Shot,,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,583,4,0,4,9:43 PM,3:02,,,Jordan REBOUND (Off:2 Def:14),,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,584,2,1,4,9:43 PM,2:54,,,MISS Caldwell-Pope 3PT Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,585,4,0,4,9:43 PM,2:51,Green REBOUND (Off:0 Def:2),,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,586,2,101,4,9:44 PM,2:32,MISS Dinwiddie 7' Driving Floating Jump Shot,,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,587,4,0,4,9:44 PM,2:29,,,Porter Jr. REBOUND (Off:0 Def:5),,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,588,5,2,4,9:44 PM,2:13,Powell STEAL (1 STL),,Hyland Lost Ball Turnover (P1.T16),,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200246,590,1,108,4,9:44 PM,1:59,Powell 1' Cutting Dunk Shot (11 PTS) (Doncic 8 AST),,,93 - 97,4,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200246,592,9,1,4,9:44 PM,1:59,,,Nuggets Timeout: Regular (Reg.6 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200246,593,2,1,4,9:46 PM,1:49,,,MISS Hyland 25' 3PT Jump Shot,,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,594,4,0,4,9:46 PM,1:47,Doncic REBOUND (Off:0 Def:8),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,595,5,2,4,9:46 PM,1:33,Dinwiddie Lost Ball Turnover (P4.T13),,Porter Jr. STEAL (2 STL),,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200246,597,6,28,4,9:46 PM,1:27,Powell Personal Take Foul (P3.PN) (L.Wood),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200246,599,8,0,4,9:47 PM,1:27,SUB: Bullock FOR Dinwiddie,,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200246,601,3,11,4,9:47 PM,1:27,,,Hyland Free Throw 1 of 2 (28 PTS),94 - 97,3,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,602,3,12,4,9:47 PM,1:27,,,Hyland Free Throw 2 of 2 (29 PTS),95 - 97,2,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,603,2,1,4,9:48 PM,1:09,MISS Green 3PT Jump Shot,,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,604,4,0,4,9:48 PM,1:07,,,Jordan REBOUND (Off:2 Def:15),,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,605,1,1,4,9:48 PM,0:55,,,Porter Jr. 24' 3PT Jump Shot (14 PTS) (Hyland 6 AST),98 - 97,-1,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200246,607,2,1,4,9:48 PM,0:35,MISS Finney-Smith 25' 3PT Jump Shot,,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,608,4,0,4,9:49 PM,0:29,,,Hyland REBOUND (Off:1 Def:2),,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,609,2,1,4,9:49 PM,0:08,,,MISS Caldwell-Pope 28' 3PT Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200246,610,4,0,4,9:49 PM,0:06,Doncic REBOUND (Off:0 Def:9),,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,611,9,1,4,9:49 PM,0:06,MAVERICKS Timeout: Regular (Full 4 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200246,612,9,1,4,9:52 PM,0:06,,,Nuggets Timeout: Regular (Reg.7 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200246,613,8,0,4,9:52 PM,0:06,SUB: Bertans FOR Powell,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,202722,Dāvis Bertāns,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200246,614,8,0,4,9:52 PM,0:06,,,SUB: Nnaji FOR Porter Jr.,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200246,615,8,0,4,9:52 PM,0:06,,,SUB: Reed FOR Jordan,,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,5,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200246,619,6,28,4,9:52 PM,0:03,,,Brown Personal Take Foul (P3.T4) (R.Mott),,,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022200246,621,2,1,4,9:53 PM,0:01,MISS Doncic 35' 3PT Jump Shot,,,,,4,1629029,Luka Dončić,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,622,4,0,4,9:53 PM,0:00,Bullock REBOUND (Off:1 Def:3),,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200246,623,13,0,4,9:53 PM,0:00,,End of 4th Period (9:53 PM EST),,98 - 97,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

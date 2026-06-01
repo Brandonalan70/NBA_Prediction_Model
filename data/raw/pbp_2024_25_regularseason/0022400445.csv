@@ -1,0 +1,444 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022400445,2,12,0,1,9:13 PM,12:00,,Start of 1st Period (9:13 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400445,4,10,0,1,9:13 PM,12:00,Jump Ball Kessler vs. Jokic: Tip to George,,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,1
+0022400445,7,1,1,1,9:13 PM,11:39,George 24' 3PT Jump Shot (3 PTS),,,0 - 3,3,4,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,8,2,80,1,9:13 PM,11:23,,,MISS Porter Jr. 22' Step Back Jump Shot,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,9,4,0,1,9:13 PM,11:20,Sexton REBOUND (Off:0 Def:1),,,,,4,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,10,2,1,1,9:13 PM,11:08,MISS Juzang 24' 3PT Jump Shot,,,,,4,1630548,Johnny Juzang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,11,4,0,1,9:13 PM,11:07,,,Jokic REBOUND (Off:0 Def:1),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,12,2,103,1,9:14 PM,11:03,,,MISS Murray 25' 3PT Running Pull-Up Jump Shot,,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,13,4,0,1,9:14 PM,11:00,Kessler REBOUND (Off:0 Def:1),,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,14,2,6,1,9:14 PM,10:52,MISS Sexton 4' Driving Layup,,Braun BLOCK (1 BLK),,,4,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,1
+0022400445,16,4,0,1,9:14 PM,10:52,JAZZ Rebound,,,,,2,1610612762,,,,,,0,0,,,,,,0,0,,,,,,1
+0022400445,19,2,1,1,9:14 PM,10:42,MISS George 28' 3PT Jump Shot,,,,,4,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,20,4,0,1,9:15 PM,10:39,,,Westbrook REBOUND (Off:0 Def:1),,,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,21,1,50,1,9:15 PM,10:35,,,Braun 4' Running Dunk (2 PTS) (Westbrook 1 AST),2 - 3,1,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,23,2,1,1,9:15 PM,10:19,MISS Markkanen 26' 3PT Jump Shot,,Murray BLOCK (1 BLK),,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,1
+0022400445,25,4,0,1,9:15 PM,10:17,,,Jokic REBOUND (Off:0 Def:2),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,26,1,41,1,9:15 PM,10:13,,,Porter Jr. 2' Running Layup (2 PTS) (Braun 1 AST),4 - 3,-1,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,29,5,1,1,9:15 PM,9:56,Markkanen Bad Pass Turnover (P1.T1),,Jokic STEAL (1 STL),,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,31,1,76,1,9:16 PM,9:52,,,Braun 3' Running Finger Roll Layup (4 PTS) (Westbrook 2 AST),6 - 3,-3,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,33,1,101,1,9:16 PM,9:30,Juzang 6' Driving Floating Jump Shot (2 PTS),,,6 - 5,-1,4,1630548,Johnny Juzang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,34,1,1,1,9:16 PM,9:12,,,Porter Jr. 26' 3PT Jump Shot (5 PTS) (Murray 1 AST),9 - 5,-4,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,36,1,1,1,9:16 PM,8:58,Juzang 25' 3PT Jump Shot (5 PTS) (Sexton 1 AST),,,9 - 8,-1,4,1630548,Johnny Juzang,1610612762.0,Utah,Jazz,UTA,4,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022400445,38,2,78,1,9:17 PM,8:42,,,MISS Jokic 10' Floating Jump Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,39,4,0,1,9:17 PM,8:39,Kessler REBOUND (Off:0 Def:2),,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,40,2,1,1,9:17 PM,8:27,MISS Sexton 3PT Jump Shot,,,,,4,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,41,4,0,1,9:17 PM,8:25,,,Porter Jr. REBOUND (Off:0 Def:1),,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,42,2,2,1,9:17 PM,8:20,,,MISS Murray 3PT Running Jump Shot,,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,43,4,0,1,9:17 PM,8:17,,,Jokic REBOUND (Off:1 Def:2),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,44,1,98,1,9:17 PM,8:15,,,Murray 2' Cutting Layup Shot (2 PTS) (Jokic 1 AST),11 - 8,-3,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,46,1,102,1,9:18 PM,7:50,Sexton 7' Driving Floating Bank Jump Shot (2 PTS) (Kessler 1 AST),,,11 - 10,-1,4,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022400445,47,1,1,1,9:18 PM,7:30,,,Porter Jr. 24' 3PT Jump Shot (8 PTS) (Jokic 2 AST),14 - 10,-4,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,49,9,1,1,9:18 PM,7:29,JAZZ Timeout: Regular (Full 1 Short 0),,,,,2,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400445,51,1,108,1,9:21 PM,7:14,Kessler 3' Cutting Dunk Shot (2 PTS) (George 1 AST),,,14 - 12,-2,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,4,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022400445,53,2,63,1,9:22 PM,6:49,,,MISS Jokic 11' Fadeaway Jumper,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,54,4,0,1,9:22 PM,6:47,Kessler REBOUND (Off:0 Def:3),,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,55,1,6,1,9:22 PM,6:36,Markkanen 2' Driving Layup (2 PTS) (Juzang 1 AST),,,14 - 14,TIE,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,4,1630548,Johnny Juzang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022400445,57,2,6,1,9:22 PM,6:23,,,MISS Porter Jr. 5' Driving Layup,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,58,4,0,1,9:22 PM,6:21,,,Westbrook REBOUND (Off:1 Def:1),,,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,59,1,97,1,9:22 PM,6:21,,,Westbrook Tip Layup Shot (2 PTS),16 - 14,-2,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,60,1,1,1,9:22 PM,6:07,Markkanen 26' 3PT Jump Shot (5 PTS) (Sexton 2 AST),,,16 - 17,1,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,4,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022400445,62,2,1,1,9:22 PM,5:50,,,MISS Jokic 25' 3PT Jump Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,63,4,0,1,9:23 PM,5:49,Kessler REBOUND (Off:0 Def:4),,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,64,1,63,1,9:23 PM,5:30,Sexton 8' Fadeaway Jumper (4 PTS),,,16 - 19,3,4,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0022400445,65,2,7,1,9:23 PM,5:24,,,MISS Braun 3' Dunk,,,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,67,4,0,1,9:23 PM,5:21,Juzang REBOUND (Off:0 Def:1),,,,,4,1630548,Johnny Juzang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,68,1,103,1,9:23 PM,5:18,Juzang 29' 3PT Running Pull-Up Jump Shot (8 PTS),,,16 - 22,6,4,1630548,Johnny Juzang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,69,9,1,1,9:23 PM,5:16,,,Nuggets Timeout: Regular (Reg.1 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400445,70,8,0,1,9:26 PM,5:16,SUB: Clarkson FOR George,,,,,4,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022400445,71,8,0,1,9:26 PM,5:16,SUB: Williams FOR Juzang,,,,,4,1630548,Johnny Juzang,1610612762.0,Utah,Jazz,UTA,4,1642262,Cody Williams,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022400445,72,8,0,1,9:26 PM,5:16,,,SUB: Strawther FOR Murray,,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,5,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022400445,76,1,1,1,9:26 PM,5:05,,,Jokic 25' 3PT Jump Shot (3 PTS) (Westbrook 3 AST),19 - 22,3,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,78,1,79,1,9:26 PM,4:44,Sexton 16' Pullup Jump Shot (6 PTS) (Williams 1 AST),,,19 - 24,5,4,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,4,1642262,Cody Williams,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022400445,80,2,102,1,9:27 PM,4:26,,,MISS Jokic 6' Driving Floating Bank Jump Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,82,1,97,1,9:27 PM,4:23,,,Jokic Tip Layup Shot (5 PTS),21 - 24,3,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,81,4,0,1,9:27 PM,4:23,,,Jokic REBOUND (Off:2 Def:2),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,83,2,1,1,9:27 PM,4:16,MISS Markkanen 29' 3PT Jump Shot,,,,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,84,4,0,1,9:27 PM,4:12,,,Westbrook REBOUND (Off:1 Def:2),,,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,85,1,76,1,9:27 PM,4:09,,,Braun 5' Running Finger Roll Layup (6 PTS) (Westbrook 4 AST),23 - 24,1,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,88,8,0,1,9:27 PM,3:54,SUB: Collier FOR Sexton,,,,,4,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,4,1642268,Isaiah Collier,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022400445,90,2,1,1,9:28 PM,3:46,MISS Markkanen 25' 3PT Jump Shot,,,,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,91,4,0,1,9:28 PM,3:43,,,Braun REBOUND (Off:0 Def:1),,,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,92,6,2,1,9:28 PM,3:38,Kessler S.FOUL (P1.T1) (C.Flores),,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022400445,94,3,11,1,9:29 PM,3:38,,,Jokic Free Throw 1 of 2 (6 PTS),24 - 24,TIE,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,95,8,0,1,9:29 PM,3:38,,,SUB: Tyson FOR Braun,,,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,5,1641816,Hunter Tyson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022400445,96,8,0,1,9:29 PM,3:38,,,SUB: Watson FOR Porter Jr.,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022400445,99,3,12,1,9:29 PM,3:38,,,Jokic Free Throw 2 of 2 (7 PTS),25 - 24,-1,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,100,2,79,1,9:29 PM,3:29,MISS Clarkson 26' 3PT Pullup Jump Shot,,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,101,4,0,1,9:29 PM,3:25,,,Jokic REBOUND (Off:2 Def:3),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,102,1,41,1,9:29 PM,3:20,,,Westbrook 4' Running Layup (4 PTS),27 - 24,-3,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,103,2,101,1,9:29 PM,3:12,MISS Clarkson 9' Driving Floating Jump Shot,,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,104,4,0,1,9:29 PM,3:10,,,Jokic REBOUND (Off:2 Def:4),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,105,1,6,1,9:30 PM,2:55,,,Jokic 4' Driving Layup (9 PTS) (Watson 1 AST),29 - 24,-5,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,108,8,0,1,9:30 PM,2:41,SUB: Juzang FOR Markkanen,,,,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,4,1630548,Johnny Juzang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022400445,109,8,0,1,9:30 PM,2:41,,,SUB: Murray FOR Westbrook,,,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022400445,112,6,2,1,9:30 PM,2:39,,,Tyson S.FOUL (P1.T1) (B.Forte),,,5,1641816,Hunter Tyson,1610612743.0,Denver,Nuggets,DEN,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022400445,114,3,13,1,9:31 PM,2:39,Clarkson Free Throw 1 of 3 (1 PTS),,,29 - 25,-4,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,115,3,14,1,9:31 PM,2:39,Clarkson Free Throw 2 of 3 (2 PTS),,,29 - 26,-3,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,116,3,15,1,9:31 PM,2:39,Clarkson Free Throw 3 of 3 (3 PTS),,,29 - 27,-2,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,117,1,6,1,9:32 PM,2:27,,,Strawther 3' Driving Layup (2 PTS) (Jokic 3 AST),31 - 27,-4,5,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,118,1,47,1,9:32 PM,2:09,Clarkson 7' Turnaround Jump Shot (5 PTS),,,31 - 29,-2,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,120,2,1,1,9:32 PM,1:53,,,MISS Tyson 25' 3PT Jump Shot,,,5,1641816,Hunter Tyson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,121,4,0,1,9:32 PM,1:51,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400445,122,6,3,1,9:32 PM,1:51,Kessler L.B.FOUL (P2.T2) (B.Taylor),,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022400445,124,2,1,1,9:33 PM,1:45,,,MISS Jokic 25' 3PT Jump Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,125,4,0,1,9:33 PM,1:42,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400445,127,2,1,1,9:33 PM,1:37,,,MISS Strawther 3PT Jump Shot,,,5,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,128,4,0,1,9:33 PM,1:34,Collier REBOUND (Off:0 Def:1),,,,,4,1642268,Isaiah Collier,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,129,6,2,1,9:33 PM,1:23,,,Strawther S.FOUL (P1.T2) (B.Forte),,,5,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022400445,131,3,11,1,9:34 PM,1:23,Clarkson Free Throw 1 of 2 (6 PTS),,,31 - 30,-1,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,132,3,12,1,9:34 PM,1:23,Clarkson Free Throw 2 of 2 (7 PTS),,,31 - 31,TIE,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,133,1,79,1,9:34 PM,1:13,,,Murray 24' 3PT Pullup Jump Shot (5 PTS) (Strawther 1 AST),34 - 31,-3,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,5,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,134,1,1,1,9:35 PM,0:56,Clarkson 25' 3PT Jump Shot (10 PTS) (Kessler 2 AST),,,34 - 34,TIE,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022400445,136,1,63,1,9:35 PM,0:37,,,Murray 15' Fadeaway Jumper (7 PTS),36 - 34,-2,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,137,1,1,1,9:35 PM,0:31,Clarkson 28' 3PT Jump Shot (13 PTS) (Collier 1 AST),,,36 - 37,1,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,4,1642268,Isaiah Collier,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022400445,139,2,79,1,9:35 PM,0:21,,,MISS Murray 24' 3PT Pullup Jump Shot,,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,140,4,0,1,9:35 PM,0:20,Kessler REBOUND (Off:0 Def:5),,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,141,2,1,1,9:36 PM,0:01,MISS Williams 3PT Jump Shot,,,,,4,1642262,Cody Williams,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,142,4,0,1,9:36 PM,0:00,JAZZ Rebound,,,,,2,1610612762,,,,,,0,0,,,,,,0,0,,,,,,1
+0022400445,143,13,0,1,9:36 PM,0:00,,End of 1st Period (9:36 PM EST),,36 - 37,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022400445,153,12,0,2,9:39 PM,12:00,,Start of 2nd Period (9:39 PM EST),,36 - 37,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400445,154,1,108,2,9:39 PM,11:46,,,Jordan 1' Cutting Dunk Shot (2 PTS) (Murray 2 AST),38 - 37,-1,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,156,5,45,2,9:39 PM,11:28,Sensabaugh Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,,,4,1641729,Brice Sensabaugh,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0022400445,157,1,1,2,9:40 PM,11:14,,,Watson 25' 3PT Jump Shot (3 PTS) (Murray 3 AST),41 - 37,-4,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,159,1,99,2,9:40 PM,10:58,Filipowski 5' Cutting Finger Roll Layup Shot (2 PTS) (Collier 2 AST),,,41 - 39,-2,4,1642271,Kyle Filipowski,1610612762.0,Utah,Jazz,UTA,4,1642268,Isaiah Collier,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022400445,161,6,1,2,9:40 PM,10:40,Sensabaugh P.FOUL (P1.T1) (B.Forte),,,,,4,1641729,Brice Sensabaugh,1610612762.0,Utah,Jazz,UTA,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022400445,163,2,79,2,9:41 PM,10:30,,,MISS Porter Jr. 3PT Pullup Jump Shot,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,164,4,0,2,9:41 PM,10:27,Collier REBOUND (Off:0 Def:2),,,,,4,1642268,Isaiah Collier,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,167,2,1,2,9:41 PM,10:14,MISS Sensabaugh 26' 3PT Jump Shot,,,,,4,1641729,Brice Sensabaugh,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,168,4,0,2,9:41 PM,10:11,Clarkson REBOUND (Off:1 Def:0),,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,169,2,72,2,9:41 PM,10:08,MISS Clarkson 4' Putback Layup,,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,170,4,0,2,9:41 PM,10:08,,,Jordan REBOUND (Off:0 Def:1),,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,171,1,106,2,9:42 PM,10:03,,,Watson 4' Running Alley Oop Dunk Shot (5 PTS) (Murray 4 AST),43 - 39,-4,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,173,2,101,2,9:42 PM,9:39,MISS Clarkson 7' Driving Floating Jump Shot,,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,174,4,0,2,9:42 PM,9:37,,,Watson REBOUND (Off:0 Def:1),,,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,175,6,1,2,9:42 PM,9:27,Clarkson P.FOUL (P1.T2) (B.Forte),,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022400445,177,6,2,2,9:43 PM,9:22,Clarkson S.FOUL (P2.T3) (B.Taylor),,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,5,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0022400445,179,9,1,2,9:43 PM,9:22,JAZZ Timeout: Regular (Full 2 Short 0),,,,,2,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400445,180,3,11,2,9:46 PM,9:22,,,Strawther Free Throw 1 of 2 (3 PTS),44 - 39,-5,5,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,181,3,12,2,9:46 PM,9:22,,,Strawther Free Throw 2 of 2 (4 PTS),45 - 39,-6,5,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,182,1,1,2,9:46 PM,9:02,Collier 24' 3PT Jump Shot (3 PTS) (Filipowski 1 AST),,,45 - 42,-3,4,1642268,Isaiah Collier,1610612762.0,Utah,Jazz,UTA,4,1642271,Kyle Filipowski,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022400445,184,5,2,2,9:47 PM,8:40,Filipowski STEAL (1 STL),,Murray Lost Ball Turnover (P1.T1),,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,4,1642271,Kyle Filipowski,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022400445,186,1,50,2,9:47 PM,8:37,Collier 2' Running Dunk (5 PTS),,,45 - 44,-1,4,1642268,Isaiah Collier,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,188,2,1,2,9:47 PM,8:26,,,MISS Porter Jr. 25' 3PT Jump Shot,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,189,4,0,2,9:47 PM,8:24,Collier REBOUND (Off:0 Def:3),,,,,4,1642268,Isaiah Collier,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,190,1,103,2,9:47 PM,8:20,Juzang 6' Running Pull-Up Jump Shot (10 PTS) (Collier 3 AST),,,45 - 46,1,4,1630548,Johnny Juzang,1610612762.0,Utah,Jazz,UTA,4,1642268,Isaiah Collier,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022400445,192,9,1,2,9:48 PM,8:18,,,Nuggets Timeout: Regular (Reg.2 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400445,193,8,0,2,9:50 PM,8:18,SUB: George FOR Collier,,,,,4,1642268,Isaiah Collier,1610612762.0,Utah,Jazz,UTA,4,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022400445,194,8,0,2,9:50 PM,8:18,,,SUB: Braun FOR Strawther,,,5,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022400445,195,8,0,2,9:50 PM,8:18,,,SUB: Tyson FOR Porter Jr.,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,1641816,Hunter Tyson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022400445,199,5,1,2,9:51 PM,8:00,Filipowski STEAL (2 STL),,Murray Bad Pass Turnover (P2.T2),,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,4,1642271,Kyle Filipowski,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022400445,201,1,79,2,9:51 PM,7:42,George 8' Pullup Jump Shot (5 PTS),,,45 - 48,3,4,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,202,1,80,2,9:51 PM,7:25,,,Murray 19' Step Back Jump Shot (9 PTS),47 - 48,1,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,203,2,102,2,9:52 PM,7:00,MISS Clarkson 7' Driving Floating Bank Jump Shot,,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,204,4,0,2,9:52 PM,6:58,Clarkson REBOUND (Off:2 Def:0),,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,205,2,1,2,9:52 PM,6:54,MISS Sensabaugh 3PT Jump Shot,,,,,4,1641729,Brice Sensabaugh,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,206,4,0,2,9:52 PM,6:51,Juzang REBOUND (Off:1 Def:1),,,,,4,1630548,Johnny Juzang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,207,6,2,2,9:52 PM,6:50,,,Jordan S.FOUL (P1.T1) (B.Forte),,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,4,1630548,Johnny Juzang,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022400445,209,3,11,2,9:52 PM,6:50,Juzang Free Throw 1 of 2 (11 PTS),,,47 - 49,2,4,1630548,Johnny Juzang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,210,8,0,2,9:53 PM,6:50,SUB: Kessler FOR Clarkson,,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022400445,211,8,0,2,9:53 PM,6:50,SUB: Markkanen FOR Filipowski,,,,,4,1642271,Kyle Filipowski,1610612762.0,Utah,Jazz,UTA,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022400445,212,8,0,2,9:53 PM,6:50,,,SUB: Jokic FOR Jordan,,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022400445,213,8,0,2,9:53 PM,6:50,,,SUB: Westbrook FOR Murray,,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022400445,218,3,12,2,9:53 PM,6:50,Juzang Free Throw 2 of 2 (12 PTS),,,47 - 50,3,4,1630548,Johnny Juzang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,219,2,101,2,9:53 PM,6:34,,,MISS Jokic 14' Driving Floating Jump Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,220,4,0,2,9:53 PM,6:30,Sensabaugh REBOUND (Off:0 Def:1),,,,,4,1641729,Brice Sensabaugh,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,221,1,108,2,9:53 PM,6:25,Markkanen 3' Cutting Dunk Shot (7 PTS) (Sensabaugh 1 AST),,,47 - 52,5,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,4,1641729,Brice Sensabaugh,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022400445,223,2,58,2,9:54 PM,6:13,,,MISS Jokic 5' Turnaround Hook Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,225,4,0,2,9:54 PM,6:11,Juzang REBOUND (Off:1 Def:2),,,,,4,1630548,Johnny Juzang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,226,1,106,2,9:54 PM,6:07,Kessler 3' Running Alley Oop Dunk Shot (4 PTS) (George 2 AST),,,47 - 54,7,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,4,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022400445,228,9,1,2,9:54 PM,6:07,,,Nuggets Timeout: Regular (Reg.3 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400445,229,8,0,2,9:55 PM,6:07,SUB: Sexton FOR Juzang,,,,,4,1630548,Johnny Juzang,1610612762.0,Utah,Jazz,UTA,4,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022400445,231,1,1,2,9:55 PM,5:56,,,Jokic 17' Jump Shot (11 PTS) (Westbrook 5 AST),49 - 54,5,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,233,2,79,2,9:56 PM,5:30,MISS Sensabaugh 25' 3PT Pullup Jump Shot,,,,,4,1641729,Brice Sensabaugh,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,234,4,0,2,9:56 PM,5:27,,,Watson REBOUND (Off:0 Def:2),,,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,235,2,2,2,9:56 PM,5:21,,,MISS Tyson 24' 3PT Running Jump Shot,,,5,1641816,Hunter Tyson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,236,4,0,2,9:56 PM,5:18,Kessler REBOUND (Off:0 Def:6),,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,237,2,1,2,9:56 PM,5:07,MISS Markkanen 25' 3PT Jump Shot,,,,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,238,4,0,2,9:56 PM,5:05,,,Jokic REBOUND (Off:2 Def:5),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,239,2,2,2,9:56 PM,4:59,,,MISS Watson 25' 3PT Running Jump Shot,,,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,240,4,0,2,9:56 PM,4:58,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400445,244,8,0,2,9:57 PM,4:58,,,SUB: Porter Jr. FOR Tyson,,,5,1641816,Hunter Tyson,1610612743.0,Denver,Nuggets,DEN,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022400445,242,1,98,2,9:57 PM,4:51,,,Westbrook 3' Cutting Layup Shot (6 PTS) (Jokic 4 AST),51 - 54,3,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,246,1,98,2,9:57 PM,4:33,Markkanen 3' Cutting Layup Shot (9 PTS) (Kessler 3 AST),,,51 - 56,5,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022400445,248,6,2,2,9:57 PM,4:33,,,Westbrook S.FOUL (P1.T2) (B.Forte),,,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022400445,250,3,10,2,9:58 PM,4:33,Markkanen Free Throw 1 of 1 (10 PTS),,,51 - 57,6,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,251,6,1,2,9:58 PM,4:25,Sexton P.FOUL (P1.T4) (C.Flores),,,,,4,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022400445,253,8,0,2,9:58 PM,4:25,,,SUB: Murray FOR Watson,,,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022400445,255,2,1,2,9:58 PM,4:18,,,MISS Jokic 26' 3PT Jump Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,256,4,0,2,9:58 PM,4:15,George REBOUND (Off:0 Def:1),,,,,4,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,257,2,83,2,9:59 PM,3:59,MISS Sexton 9' Fadeaway Bank Shot,,,,,4,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,258,4,0,2,9:59 PM,3:57,Kessler REBOUND (Off:1 Def:6),,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,259,2,1,2,9:59 PM,3:55,MISS Sexton 3PT Jump Shot,,,,,4,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,260,4,0,2,9:59 PM,3:52,,,Jokic REBOUND (Off:2 Def:6),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,261,1,41,2,9:59 PM,3:48,,,Braun 6' Running Layup (8 PTS) (Jokic 5 AST),53 - 57,4,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,263,2,1,2,9:59 PM,3:37,MISS Sexton 26' 3PT Jump Shot,,,,,4,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,264,4,0,2,9:59 PM,3:34,,,Murray REBOUND (Off:0 Def:1),,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,265,1,5,2,9:59 PM,3:20,,,Jokic 4' Layup (13 PTS) (Braun 2 AST),55 - 57,2,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,267,2,102,2,10:00 PM,3:00,MISS Sexton 5' Driving Floating Bank Jump Shot,,,,,4,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,268,4,0,2,10:00 PM,2:58,Sexton REBOUND (Off:1 Def:1),,,,,4,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,269,2,97,2,10:00 PM,2:58,MISS Sexton Tip Layup Shot,,,,,4,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,270,4,0,2,10:00 PM,2:57,,,Westbrook REBOUND (Off:1 Def:3),,,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,271,2,2,2,10:00 PM,2:53,,,MISS Porter Jr. 25' 3PT Running Jump Shot,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,272,4,0,2,10:00 PM,2:51,Sensabaugh REBOUND (Off:0 Def:2),,,,,4,1641729,Brice Sensabaugh,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,273,6,1,2,10:00 PM,2:45,,,Westbrook P.FOUL (P2.T3) (C.Flores),,,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022400445,275,8,0,2,10:00 PM,2:45,SUB: Clarkson FOR Sensabaugh,,,,,4,1641729,Brice Sensabaugh,1610612762.0,Utah,Jazz,UTA,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022400445,277,2,79,2,10:01 PM,2:35,MISS George 27' 3PT Pullup Jump Shot,,,,,4,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,278,4,0,2,10:01 PM,2:33,,,Jokic REBOUND (Off:2 Def:7),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,279,1,108,2,10:01 PM,2:26,,,Braun 2' Cutting Dunk Shot (10 PTS) (Murray 5 AST),57 - 57,TIE,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,281,1,79,2,10:01 PM,2:15,Sexton 9' Pullup Jump Shot (8 PTS),,,57 - 59,2,4,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,282,6,2,2,10:02 PM,1:55,Markkanen S.FOUL (P1.PN) (C.Flores),,,,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022400445,284,3,11,2,10:02 PM,1:55,,,Jokic Free Throw 1 of 2 (14 PTS),58 - 59,1,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,285,3,12,2,10:02 PM,1:55,,,MISS Jokic Free Throw 2 of 2,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,286,4,0,2,10:02 PM,1:54,Clarkson REBOUND (Off:2 Def:1),,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0022400445,287,2,101,2,10:03 PM,1:36,MISS George 11' Driving Floating Jump Shot,,,,,4,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,288,4,0,2,10:03 PM,1:34,,,Jokic REBOUND (Off:2 Def:8),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,289,2,1,2,10:03 PM,1:28,,,MISS Braun 26' 3PT Jump Shot,,,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,290,4,0,2,10:03 PM,1:25,George REBOUND (Off:0 Def:2),,,,,4,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,291,1,41,2,10:03 PM,1:20,Sexton 3' Running Layup (10 PTS),,,58 - 61,3,4,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,292,1,6,2,10:03 PM,1:09,,,Jokic 3' Driving Layup (16 PTS) (Porter Jr. 1 AST),60 - 61,1,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,294,6,2,2,10:04 PM,0:43,,,Porter Jr. S.FOUL (P1.T4) (B.Taylor),,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022400445,296,3,11,2,10:04 PM,0:43,Clarkson Free Throw 1 of 2 (14 PTS),,,60 - 62,2,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,297,6,11,2,10:04 PM,0:43,,Michael Malone Foul:T.FOUL (B.Taylor),,,,7,2610,,,,,,0,0,,,,,,1,0,,,,,,1
+0022400445,298,3,16,2,10:05 PM,0:43,Markkanen Free Throw Technical (11 PTS),,,60 - 63,3,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,299,3,12,2,10:05 PM,0:43,Clarkson Free Throw 2 of 2 (15 PTS),,,60 - 64,4,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,300,1,6,2,10:05 PM,0:36,,,Westbrook 5' Driving Layup (8 PTS),62 - 64,2,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,301,5,2,2,10:05 PM,0:31,George Lost Ball Turnover (P1.T3),,Westbrook STEAL (1 STL),,,4,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,303,1,50,2,10:05 PM,0:28,,,Porter Jr. 3' Running Dunk (10 PTS) (Westbrook 6 AST),64 - 64,TIE,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,305,6,2,2,10:06 PM,0:10,,,Porter Jr. S.FOUL (P2.PN) (B.Forte),,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022400445,307,3,11,2,10:06 PM,0:10,Sexton Free Throw 1 of 2 (11 PTS),,,64 - 65,1,4,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,308,3,12,2,10:07 PM,0:10,Sexton Free Throw 2 of 2 (12 PTS),,,64 - 66,2,4,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,309,2,6,2,10:07 PM,0:03,,,MISS Jokic 3' Driving Layup,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,310,4,0,2,10:07 PM,0:01,,,Porter Jr. REBOUND (Off:1 Def:1),,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,311,2,97,2,10:07 PM,0:01,,,MISS Porter Jr. Tip Layup Shot,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,312,4,0,2,10:07 PM,0:01,,,Porter Jr. REBOUND (Off:2 Def:1),,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,313,2,72,2,10:07 PM,0:00,,,MISS Porter Jr. Putback Layup,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,314,4,0,2,10:07 PM,0:00,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400445,315,13,0,2,10:07 PM,0:00,,End of 2nd Period (10:07 PM EST),,64 - 66,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022400445,318,12,0,3,10:22 PM,12:00,,Start of 3rd Period (10:22 PM EST),,64 - 66,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400445,319,2,1,3,10:22 PM,11:49,,,MISS Jokic 25' 3PT Jump Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,320,4,0,3,10:22 PM,11:47,Kessler REBOUND (Off:1 Def:7),,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,321,1,1,3,10:22 PM,11:36,Markkanen 3PT Jump Shot (14 PTS) (Sexton 3 AST),,,64 - 69,5,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,4,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022400445,323,1,1,3,10:23 PM,11:15,,,Jokic 25' 3PT Jump Shot (19 PTS) (Murray 6 AST),67 - 69,2,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,325,2,79,3,10:23 PM,10:51,MISS Juzang 28' 3PT Pullup Jump Shot,,,,,4,1630548,Johnny Juzang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,326,4,0,3,10:23 PM,10:47,,,Westbrook REBOUND (Off:1 Def:4),,,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,327,2,80,3,10:23 PM,10:29,,,MISS Porter Jr. 20' Step Back Jump Shot,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,328,4,0,3,10:24 PM,10:27,,,Murray REBOUND (Off:1 Def:1),,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,329,2,101,3,10:24 PM,10:24,,,MISS Murray 6' Driving Floating Jump Shot,,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,330,4,0,3,10:24 PM,10:22,Kessler REBOUND (Off:1 Def:8),,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,331,1,52,3,10:24 PM,10:12,Kessler 3' Alley Oop Dunk (6 PTS) (George 3 AST),,,67 - 71,4,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,4,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022400445,333,1,101,3,10:24 PM,9:57,,,Porter Jr. 6' Driving Floating Jump Shot (12 PTS) (Jokic 6 AST),69 - 71,2,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,335,2,1,3,10:24 PM,9:38,MISS Markkanen 29' 3PT Jump Shot,,,,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,336,4,0,3,10:24 PM,9:36,,,Murray REBOUND (Off:1 Def:2),,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,337,1,5,3,10:25 PM,9:21,,,Jokic 2' Layup (21 PTS) (Porter Jr. 2 AST),71 - 71,TIE,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,340,6,1,3,10:25 PM,9:02,,,Westbrook P.FOUL (P3.T1) (B.Taylor),,,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022400445,342,6,1,3,10:26 PM,8:58,,,Porter Jr. P.FOUL (P3.T2) (B.Forte),,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022400445,344,2,101,3,10:26 PM,8:46,MISS George 10' Driving Floating Jump Shot,,,,,4,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,345,4,0,3,10:26 PM,8:44,,,Jokic REBOUND (Off:2 Def:9),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,346,1,106,3,10:26 PM,8:41,,,Braun 3' Running Alley Oop Dunk Shot (12 PTS) (Murray 7 AST),73 - 71,-2,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,348,9,1,3,10:26 PM,8:41,JAZZ Timeout: Regular (Full 3 Short 0),,,,,2,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400445,349,5,1,3,10:29 PM,8:29,George Bad Pass Turnover (P2.T4),,Jokic STEAL (2 STL),,,4,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,351,2,74,3,10:30 PM,8:23,,,MISS Murray 4' Running Reverse Layup,,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,352,4,0,3,10:30 PM,8:21,,,Westbrook REBOUND (Off:2 Def:4),,,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,353,2,1,3,10:30 PM,8:09,,,MISS Jokic 28' 3PT Jump Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,354,4,0,3,10:30 PM,8:06,George REBOUND (Off:0 Def:3),,,,,4,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,355,2,79,3,10:30 PM,8:00,MISS Sexton 16' Pullup Jump Shot,,,,,4,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,356,4,0,3,10:30 PM,7:57,,,Westbrook REBOUND (Off:2 Def:5),,,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,357,6,1,3,10:30 PM,7:54,Juzang P.FOUL (P1.T1) (C.Flores),,,,,4,1630548,Johnny Juzang,1610612762.0,Utah,Jazz,UTA,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022400445,359,2,5,3,10:30 PM,7:44,Kessler BLOCK (1 BLK),,MISS Jokic 5' Layup,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,1
+0022400445,361,4,0,3,10:31 PM,7:42,Kessler REBOUND (Off:1 Def:9),,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,362,1,41,3,10:31 PM,7:38,Juzang 5' Running Layup (14 PTS) (George 4 AST),,,73 - 73,TIE,4,1630548,Johnny Juzang,1610612762.0,Utah,Jazz,UTA,4,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022400445,364,1,1,3,10:31 PM,7:25,,,Murray 3PT Jump Shot (12 PTS) (Jokic 7 AST),76 - 73,-3,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,366,1,73,3,10:31 PM,7:20,Sexton 3' Driving Reverse Layup (14 PTS),,,76 - 75,-1,4,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,367,6,2,3,10:31 PM,7:20,,,Braun S.FOUL (P1.T3) (C.Flores),,,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,4,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022400445,369,8,0,3,10:31 PM,7:20,SUB: Williams FOR Juzang,,,,,4,1630548,Johnny Juzang,1610612762.0,Utah,Jazz,UTA,4,1642262,Cody Williams,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022400445,371,3,10,3,10:32 PM,7:20,Sexton Free Throw 1 of 1 (15 PTS),,,76 - 76,TIE,4,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,373,2,58,3,10:32 PM,7:02,Kessler BLOCK (2 BLK),,MISS Jokic 8' Turnaround Hook Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,1
+0022400445,375,4,0,3,10:32 PM,7:00,,,Jokic REBOUND (Off:3 Def:9),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,376,1,58,3,10:32 PM,6:57,,,Jokic 7' Turnaround Hook Shot (23 PTS),78 - 76,-2,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,377,5,1,3,10:33 PM,6:37,Williams Bad Pass Turnover (P1.T5),,Murray STEAL (1 STL),,,4,1642262,Cody Williams,1610612762.0,Utah,Jazz,UTA,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,379,1,50,3,10:33 PM,6:34,,,Braun 4' Running Dunk (14 PTS) (Murray 8 AST),80 - 76,-4,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,381,2,1,3,10:33 PM,6:17,MISS George 26' 3PT Jump Shot,,,,,4,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,382,4,0,3,10:33 PM,6:14,Markkanen REBOUND (Off:1 Def:0),,,,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,383,2,107,3,10:33 PM,6:14,MISS Markkanen Tip Dunk Shot,,,,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,384,4,0,3,10:33 PM,6:14,JAZZ Rebound,,,,,2,1610612762,,,,,,0,0,,,,,,0,0,,,,,,1
+0022400445,386,8,0,3,10:33 PM,6:14,SUB: Clarkson FOR George,,,,,4,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022400445,388,1,99,3,10:33 PM,6:08,Kessler 2' Cutting Finger Roll Layup Shot (8 PTS) (Clarkson 1 AST),,,80 - 78,-2,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022400445,390,1,75,3,10:34 PM,5:58,,,Westbrook 4' Driving Finger Roll Layup (10 PTS),82 - 78,-4,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,391,2,101,3,10:34 PM,5:44,MISS Clarkson 9' Driving Floating Jump Shot,,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,392,4,0,3,10:34 PM,5:42,,,Jokic REBOUND (Off:3 Def:10),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,393,1,41,3,10:34 PM,5:38,,,Braun 5' Running Layup (16 PTS) (Jokic 8 AST),84 - 78,-6,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,395,1,101,3,10:34 PM,5:09,Sexton 7' Driving Floating Jump Shot (17 PTS),,,84 - 80,-4,4,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,396,1,80,3,10:35 PM,4:59,,,Murray 20' Step Back Jump Shot (14 PTS),86 - 80,-6,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,397,1,79,3,10:35 PM,4:42,Clarkson 26' 3PT Pullup Jump Shot (18 PTS),,,86 - 83,-3,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,399,2,79,3,10:35 PM,4:28,,,MISS Murray 25' 3PT Pullup Jump Shot,,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,400,4,0,3,10:35 PM,4:22,,,Porter Jr. REBOUND (Off:3 Def:1),,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,401,2,107,3,10:35 PM,4:22,,,MISS Porter Jr. Tip Dunk Shot,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,402,4,0,3,10:35 PM,4:21,Williams REBOUND (Off:0 Def:1),,,,,4,1642262,Cody Williams,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,403,6,2,3,10:35 PM,4:19,,,Braun S.FOUL (P2.T4) (B.Taylor),,,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,4,1642262,Cody Williams,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022400445,405,3,11,3,10:36 PM,4:19,Williams Free Throw 1 of 2 (1 PTS),,,86 - 84,-2,4,1642262,Cody Williams,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,410,3,12,3,10:36 PM,4:19,MISS Williams Free Throw 2 of 2,,,,,4,1642262,Cody Williams,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,406,8,0,3,10:36 PM,4:19,SUB: Collier FOR Sexton,,,,,4,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,4,1642268,Isaiah Collier,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022400445,407,8,0,3,10:36 PM,4:19,,,SUB: Strawther FOR Murray,,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,5,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022400445,411,4,0,3,10:36 PM,4:17,Kessler REBOUND (Off:2 Def:9),,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,412,5,2,3,10:36 PM,4:11,Kessler Lost Ball Turnover (P1.T6),,Westbrook STEAL (2 STL),,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,414,2,101,3,10:36 PM,4:05,,,MISS Porter Jr. 7' Driving Floating Jump Shot,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,415,4,0,3,10:36 PM,4:03,Kessler REBOUND (Off:2 Def:10),,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,416,2,1,3,10:37 PM,3:43,MISS Collier 26' 3PT Jump Shot,,,,,4,1642268,Isaiah Collier,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,417,4,0,3,10:37 PM,3:40,,,Braun REBOUND (Off:0 Def:2),,,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,418,1,78,3,10:37 PM,3:35,,,Jokic 7' Floating Jump Shot (25 PTS) (Westbrook 7 AST),88 - 84,-4,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,420,5,1,3,10:37 PM,3:19,Clarkson Bad Pass Turnover (P1.T7),,Braun STEAL (1 STL),,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,422,2,2,3,10:37 PM,3:16,,,MISS Strawther 26' 3PT Running Jump Shot,,,5,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,423,4,0,3,10:37 PM,3:14,,,Porter Jr. REBOUND (Off:4 Def:1),,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,424,6,2,3,10:37 PM,3:09,Kessler S.FOUL (P3.T2) (B.Taylor),,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022400445,426,3,11,3,10:38 PM,3:09,,,Jokic Free Throw 1 of 2 (26 PTS),89 - 84,-5,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,427,8,0,3,10:38 PM,3:09,,,SUB: Watson FOR Porter Jr.,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022400445,429,3,12,3,10:38 PM,3:09,,,Jokic Free Throw 2 of 2 (27 PTS),90 - 84,-6,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,430,5,45,3,10:38 PM,2:53,Clarkson Out of Bounds - Bad Pass Turnover Turnover (P2.T8),,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0022400445,431,9,1,3,10:39 PM,2:53,,,Nuggets Timeout: Regular (Reg.4 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400445,432,8,0,3,10:41 PM,2:53,SUB: Juzang FOR Markkanen,,,,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,4,1630548,Johnny Juzang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022400445,433,8,0,3,10:41 PM,2:53,,,SUB: Murray FOR Westbrook,,,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022400445,436,2,1,3,10:42 PM,2:45,,,MISS Watson 26' 3PT Jump Shot,,,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,437,4,0,3,10:42 PM,2:42,Collier REBOUND (Off:0 Def:4),,,,,4,1642268,Isaiah Collier,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,438,5,2,3,10:42 PM,2:33,Kessler Lost Ball Turnover (P2.T9),,Strawther STEAL (1 STL),,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,440,2,41,3,10:42 PM,2:28,,,MISS Braun 3' Running Layup,,,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,441,4,0,3,10:42 PM,2:26,,,Strawther REBOUND (Off:1 Def:0),,,5,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,442,2,97,3,10:42 PM,2:26,,,MISS Strawther Tip Layup Shot,,,5,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,443,4,0,3,10:42 PM,2:25,Kessler REBOUND (Off:2 Def:11),,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,444,1,101,3,10:42 PM,2:14,Clarkson 9' Driving Floating Jump Shot (20 PTS),,,90 - 86,-4,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,445,2,67,3,10:42 PM,1:58,,,MISS Jokic 8' Hook Bank Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,446,4,0,3,10:42 PM,1:57,,,Jokic REBOUND (Off:4 Def:10),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,447,1,72,3,10:42 PM,1:56,,,Jokic 4' Putback Layup (29 PTS),92 - 86,-6,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,448,1,47,3,10:43 PM,1:42,Collier 8' Turnaround Jump Shot (7 PTS),,,92 - 88,-4,4,1642268,Isaiah Collier,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,449,6,2,3,10:43 PM,1:42,,,Strawther S.FOUL (P2.PN) (B.Forte),,,5,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,4,1642268,Isaiah Collier,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022400445,451,3,10,3,10:43 PM,1:42,Collier Free Throw 1 of 1 (8 PTS),,,92 - 89,-3,4,1642268,Isaiah Collier,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,452,6,2,3,10:43 PM,1:32,Kessler S.FOUL (P4.T3) (B.Forte),,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022400445,454,3,11,3,10:44 PM,1:32,,,Murray Free Throw 1 of 2 (15 PTS),93 - 89,-4,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,455,3,12,3,10:44 PM,1:32,,,Murray Free Throw 2 of 2 (16 PTS),94 - 89,-5,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,456,2,1,3,10:44 PM,1:20,MISS Juzang 3PT Jump Shot,,Watson BLOCK (1 BLK),,,4,1630548,Johnny Juzang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,1
+0022400445,457,4,0,3,10:44 PM,1:17,,,Jokic REBOUND (Off:4 Def:11),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,458,2,101,3,10:44 PM,1:14,,,MISS Murray 10' Driving Floating Jump Shot,,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,459,4,0,3,10:44 PM,1:12,,,Jokic REBOUND (Off:5 Def:11),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,511,2,97,3,10:44 PM,1:12,,,MISS Jokic 4' Tip Layup Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,512,4,0,3,10:45 PM,1:11,,,Jokic REBOUND (Off:7 Def:11),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,513,2,97,3,10:45 PM,1:11,,,MISS Jokic 4' Tip Layup Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,514,4,0,3,10:45 PM,1:11,,,Jokic REBOUND (Off:7 Def:11),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,460,1,97,3,10:45 PM,1:10,,,Jokic Tip Layup Shot (31 PTS),96 - 89,-7,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,462,5,19,3,10:45 PM,0:52,Clarkson Kicked Ball Violation Turnover (P3.T10),,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,463,1,1,3,10:45 PM,0:36,,,Jokic 17' Jump Shot (33 PTS) (Murray 9 AST),98 - 89,-9,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,465,2,1,3,10:46 PM,0:31,MISS Clarkson 26' 3PT Jump Shot,,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,466,4,0,3,10:46 PM,0:28,,,Watson REBOUND (Off:0 Def:3),,,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,467,2,80,3,10:46 PM,0:11,,,MISS Murray 19' Step Back Jump Shot,,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,468,4,0,3,10:46 PM,0:08,Juzang REBOUND (Off:1 Def:3),,,,,4,1630548,Johnny Juzang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,469,2,41,3,10:46 PM,0:02,MISS Juzang 7' Running Layup,,,,,4,1630548,Johnny Juzang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,470,4,0,3,10:46 PM,0:02,,,Jokic REBOUND (Off:7 Def:12),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,471,2,79,3,10:46 PM,0:01,,,MISS Jokic 69' 3PT Pullup Jump Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,472,4,0,3,10:46 PM,0:00,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400445,473,13,0,3,10:46 PM,0:00,,End of 3rd Period (10:46 PM EST),,98 - 89,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022400445,482,12,0,4,10:49 PM,12:00,,Start of 4th Period (10:49 PM EST),,98 - 89,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400445,483,1,101,4,10:49 PM,11:35,Clarkson 8' Driving Floating Jump Shot (22 PTS),,,98 - 91,-7,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,484,6,2,4,10:50 PM,11:09,Williams S.FOUL (P1.T1) (B.Forte),,,,,4,1642262,Cody Williams,1610612762.0,Utah,Jazz,UTA,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022400445,486,3,11,4,10:50 PM,11:09,,,Porter Jr. Free Throw 1 of 2 (13 PTS),99 - 91,-8,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,487,3,12,4,10:51 PM,11:09,,,Porter Jr. Free Throw 2 of 2 (14 PTS),100 - 91,-9,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,488,1,73,4,10:51 PM,10:53,Clarkson 2' Driving Reverse Layup (24 PTS) (Collier 4 AST),,,100 - 93,-7,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,4,1642268,Isaiah Collier,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022400445,489,2,1,4,10:51 PM,10:32,,,MISS Strawther 27' 3PT Jump Shot,,,5,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,490,4,0,4,10:51 PM,10:31,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,1
+0022400445,491,6,3,4,10:51 PM,10:31,Sensabaugh L.B.FOUL (P2.T2) (C.Flores),,,,,4,1641729,Brice Sensabaugh,1610612762.0,Utah,Jazz,UTA,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022400445,493,1,1,4,10:52 PM,10:27,,,Porter Jr. 25' 3PT Jump Shot (17 PTS) (Murray 10 AST),103 - 93,-10,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,495,6,2,4,10:52 PM,10:27,Filipowski S.FOUL (P1.T3) (B.Taylor),,,,,4,1642271,Kyle Filipowski,1610612762.0,Utah,Jazz,UTA,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022400445,497,3,10,4,10:52 PM,10:27,,,MISS Porter Jr. Free Throw 1 of 1,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,498,4,0,4,10:52 PM,10:26,Clarkson REBOUND (Off:2 Def:2),,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,499,1,1,4,10:53 PM,10:15,Williams 24' 3PT Jump Shot (4 PTS) (Clarkson 2 AST),,,103 - 96,-7,4,1642262,Cody Williams,1610612762.0,Utah,Jazz,UTA,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022400445,501,2,6,4,10:53 PM,9:51,,,MISS Jordan 5' Driving Layup,,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,502,4,0,4,10:53 PM,9:48,,,Porter Jr. REBOUND (Off:5 Def:1),,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,503,1,72,4,10:53 PM,9:47,,,Porter Jr. 3' Putback Layup (19 PTS),105 - 96,-9,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,504,5,2,4,10:53 PM,9:39,Sensabaugh Lost Ball Turnover (P2.T11),,Murray STEAL (2 STL),,,4,1641729,Brice Sensabaugh,1610612762.0,Utah,Jazz,UTA,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,506,2,101,4,10:53 PM,9:33,,,MISS Murray 6' Driving Floating Jump Shot,,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,507,4,0,4,10:53 PM,9:31,Filipowski REBOUND (Off:0 Def:1),,,,,4,1642271,Kyle Filipowski,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,508,1,1,4,10:53 PM,9:25,Sensabaugh 3PT Jump Shot (3 PTS) (Collier 5 AST),,,105 - 99,-6,4,1641729,Brice Sensabaugh,1610612762.0,Utah,Jazz,UTA,4,1642268,Isaiah Collier,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022400445,510,9,1,4,10:53 PM,9:25,,,Nuggets Timeout: Regular (Reg.5 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400445,516,5,2,4,10:57 PM,9:11,Collier STEAL (1 STL),,Watson Lost Ball Turnover (P1.T3),,,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,4,1642268,Isaiah Collier,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022400445,519,1,1,4,10:57 PM,8:59,Williams 25' 3PT Jump Shot (7 PTS) (Filipowski 2 AST),,,105 - 102,-3,4,1642262,Cody Williams,1610612762.0,Utah,Jazz,UTA,4,1642271,Kyle Filipowski,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022400445,521,6,1,4,10:57 PM,8:46,Collier P.FOUL (P1.T4) (B.Taylor),,,,,4,1642268,Isaiah Collier,1610612762.0,Utah,Jazz,UTA,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022400445,523,6,1,4,10:58 PM,8:41,Filipowski P.FOUL (P2.PN) (B.Forte),,,,,4,1642271,Kyle Filipowski,1610612762.0,Utah,Jazz,UTA,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022400445,525,3,11,4,10:58 PM,8:41,,,Murray Free Throw 1 of 2 (17 PTS),106 - 102,-4,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,526,3,12,4,10:59 PM,8:41,,,Murray Free Throw 2 of 2 (18 PTS),107 - 102,-5,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,527,7,5,4,10:59 PM,8:31,,,Murray Violation:Kicked Ball (B.Taylor),,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,0
+0022400445,528,2,86,4,11:00 PM,8:18,MISS Clarkson 17' Turnaround Fadeaway Shot,,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,529,4,0,4,11:00 PM,8:14,,,Strawther REBOUND (Off:1 Def:1),,,5,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,530,5,2,4,11:00 PM,8:06,Clarkson STEAL (1 STL),,Strawther Lost Ball Turnover (P1.T4),,,5,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022400445,532,1,41,4,11:00 PM,8:01,Sensabaugh 7' Running Layup (5 PTS) (Clarkson 3 AST),,,107 - 104,-3,4,1641729,Brice Sensabaugh,1610612762.0,Utah,Jazz,UTA,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022400445,534,1,52,4,11:00 PM,7:46,,,Watson 4' Alley Oop Dunk (7 PTS) (Jordan 1 AST),109 - 104,-5,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,536,1,58,4,11:00 PM,7:28,Filipowski 5' Turnaround Hook Shot (4 PTS),,,109 - 106,-3,4,1642271,Kyle Filipowski,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,537,6,2,4,11:00 PM,7:28,,,Porter Jr. S.FOUL (P4.T1) (B.Forte),,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,1642271,Kyle Filipowski,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022400445,539,8,0,4,11:01 PM,7:28,SUB: George FOR Williams,,,,,4,1642262,Cody Williams,1610612762.0,Utah,Jazz,UTA,4,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022400445,540,8,0,4,11:01 PM,7:28,,,SUB: Braun FOR Strawther,,,5,1631124,Julian Strawther,1610612743.0,Denver,Nuggets,DEN,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022400445,541,8,0,4,11:01 PM,7:28,,,SUB: Jokic FOR Murray,,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022400445,542,8,0,4,11:01 PM,7:28,,,SUB: Westbrook FOR Jordan,,,5,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022400445,547,3,10,4,11:01 PM,7:28,Filipowski Free Throw 1 of 1 (5 PTS),,,109 - 107,-2,4,1642271,Kyle Filipowski,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,548,1,1,4,11:02 PM,7:16,,,Jokic 25' 3PT Jump Shot (36 PTS) (Westbrook 8 AST),112 - 107,-5,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,550,2,98,4,11:02 PM,6:53,MISS Filipowski 6' Cutting Layup Shot,,,,,4,1642271,Kyle Filipowski,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,551,4,0,4,11:02 PM,6:51,,,Jokic REBOUND (Off:7 Def:13),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,552,1,41,4,11:02 PM,6:47,,,Porter Jr. 4' Running Layup (21 PTS) (Westbrook 9 AST),114 - 107,-7,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,554,9,1,4,11:02 PM,6:47,JAZZ Timeout: Regular (Full 4 Short 0),,,,,2,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400445,556,8,0,4,11:05 PM,6:47,SUB: Kessler FOR Clarkson,,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022400445,557,8,0,4,11:05 PM,6:47,SUB: Markkanen FOR Collier,,,,,4,1642268,Isaiah Collier,1610612762.0,Utah,Jazz,UTA,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022400445,558,8,0,4,11:05 PM,6:47,SUB: Sexton FOR Filipowski,,,,,4,1642271,Kyle Filipowski,1610612762.0,Utah,Jazz,UTA,4,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022400445,562,5,1,4,11:05 PM,6:34,Markkanen Bad Pass Turnover (P2.T12),,Jokic STEAL (3 STL),,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,564,2,41,4,11:05 PM,6:28,,,MISS Watson 6' Running Layup,,,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,565,4,0,4,11:05 PM,6:26,Sensabaugh REBOUND (Off:0 Def:3),,,,,4,1641729,Brice Sensabaugh,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,566,5,1,4,11:05 PM,6:22,George Bad Pass Turnover (P3.T13),,Westbrook STEAL (3 STL),,,4,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,568,1,100,4,11:06 PM,6:17,,,Watson 4' Running Alley Oop Layup Shot (9 PTS) (Westbrook 10 AST),116 - 107,-9,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,570,1,52,4,11:06 PM,6:00,Kessler 3' Alley Oop Dunk (10 PTS) (George 5 AST),,,116 - 109,-7,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,4,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022400445,572,1,5,4,11:06 PM,5:40,,,Watson 3' Layup (11 PTS) (Jokic 9 AST),118 - 109,-9,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,574,5,1,4,11:06 PM,5:25,Sexton Bad Pass Turnover (P1.T14),,Braun STEAL (2 STL),,,4,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,576,1,41,4,11:06 PM,5:22,,,Braun 4' Running Layup (18 PTS),120 - 109,-11,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,577,9,1,4,11:07 PM,5:22,JAZZ Timeout: Regular (Full 5 Short 0),,,,,2,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400445,578,2,102,4,11:08 PM,5:13,MISS George 10' Driving Floating Bank Jump Shot,,,,,4,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,579,4,0,4,11:08 PM,5:11,,,Jokic REBOUND (Off:7 Def:14),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,580,2,47,4,11:08 PM,4:59,,,MISS Jokic 7' Turnaround Jump Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,582,4,0,4,11:08 PM,4:58,JAZZ Rebound,,,,,2,1610612762,,,,,,0,0,,,,,,0,0,,,,,,1
+0022400445,584,6,1,4,11:09 PM,4:49,,,Braun P.FOUL (P3.T2) (B.Forte),,,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022400445,586,1,52,4,11:09 PM,4:38,Kessler 5' Alley Oop Dunk (12 PTS) (George 6 AST),,,120 - 111,-9,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,4,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022400445,588,1,108,4,11:10 PM,4:19,,,Westbrook 3' Cutting Dunk Shot (12 PTS) (Jokic 10 AST),122 - 111,-11,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,591,1,80,4,11:10 PM,3:56,Sexton 3PT Step Back Jump Shot (20 PTS) (Kessler 4 AST),,,122 - 114,-8,4,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022400445,593,5,1,4,11:10 PM,3:36,George STEAL (1 STL),,Jokic Bad Pass Turnover (P1.T5),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022400445,595,2,1,4,11:10 PM,3:29,MISS Markkanen 24' 3PT Jump Shot,,,,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,596,4,0,4,11:10 PM,3:25,,,Jokic REBOUND (Off:7 Def:15),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,597,5,2,4,11:11 PM,3:16,Kessler STEAL (1 STL),,Jokic Lost Ball Turnover (P2.T6),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022400445,599,2,103,4,11:11 PM,3:10,MISS Sexton 3PT Running Pull-Up Jump Shot,,,,,4,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,600,4,0,4,11:11 PM,3:08,,,Westbrook REBOUND (Off:2 Def:6),,,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,601,6,1,4,11:11 PM,3:08,Sensabaugh P.FOUL (P3.PN) (C.Flores),,,,,4,1641729,Brice Sensabaugh,1610612762.0,Utah,Jazz,UTA,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022400445,606,3,11,4,11:12 PM,3:08,,,Westbrook Free Throw 1 of 2 (13 PTS),123 - 114,-9,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,607,8,0,4,11:12 PM,3:08,SUB: Clarkson FOR Sensabaugh,,,,,4,1641729,Brice Sensabaugh,1610612762.0,Utah,Jazz,UTA,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022400445,608,8,0,4,11:12 PM,3:08,,,SUB: Murray FOR Porter Jr.,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022400445,611,3,12,4,11:12 PM,3:08,,,Westbrook Free Throw 2 of 2 (14 PTS),124 - 114,-10,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,612,5,2,4,11:12 PM,2:49,Sexton Lost Ball Turnover (P2.T15),,Westbrook STEAL (4 STL),,,4,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,614,1,50,4,11:12 PM,2:46,,,Westbrook 3' Running Dunk (16 PTS),126 - 114,-12,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,615,1,101,4,11:13 PM,2:30,George 11' Driving Floating Jump Shot (7 PTS) (Sexton 4 AST),,,126 - 116,-10,4,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,4,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022400445,617,6,2,4,11:13 PM,2:30,,,Murray S.FOUL (P1.T3) (C.Flores),,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,4,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022400445,619,3,10,4,11:13 PM,2:30,MISS George Free Throw 1 of 1,,,,,4,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,620,4,0,4,11:13 PM,2:28,,,Westbrook REBOUND (Off:2 Def:7),,,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,621,1,79,4,11:13 PM,2:11,,,Murray 17' Pullup Jump Shot (20 PTS) (Jokic 11 AST),128 - 116,-12,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,622,2,1,4,11:14 PM,1:55,MISS Sexton 3PT Jump Shot,,,,,4,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,623,4,0,4,11:14 PM,1:52,,,Murray REBOUND (Off:1 Def:3),,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,624,5,40,4,11:14 PM,1:38,,,Murray Out of Bounds Lost Ball Turnover (P3.T7),,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022400445,625,6,1,4,11:14 PM,1:33,,,Murray P.FOUL (P2.T4) (B.Taylor),,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022400445,627,6,2,4,11:15 PM,1:28,,,Watson S.FOUL (P1.PN) (B.Taylor),,,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022400445,629,3,13,4,11:15 PM,1:28,Markkanen Free Throw 1 of 3 (15 PTS),,,128 - 117,-11,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,630,3,14,4,11:16 PM,1:28,Markkanen Free Throw 2 of 3 (16 PTS),,,128 - 118,-10,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,631,3,15,4,11:16 PM,1:28,Markkanen Free Throw 3 of 3 (17 PTS),,,128 - 119,-9,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,632,2,101,4,11:16 PM,1:08,,,MISS Jokic 6' Driving Floating Jump Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,633,4,0,4,11:16 PM,1:05,,,Westbrook REBOUND (Off:3 Def:7),,,5,201566,Russell Westbrook,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,634,2,79,4,11:16 PM,0:57,,,MISS Murray 19' Pullup Jump Shot,,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,635,4,0,4,11:16 PM,0:55,Clarkson REBOUND (Off:2 Def:3),,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,636,1,78,4,11:17 PM,0:48,Sexton 6' Floating Jump Shot (22 PTS) (Clarkson 4 AST),,,128 - 121,-7,4,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022400445,638,1,73,4,11:17 PM,0:25,,,Watson 4' Driving Reverse Layup (13 PTS),130 - 121,-9,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,639,5,2,4,11:17 PM,0:19,Clarkson Lost Ball Turnover (P4.T16),,Jokic STEAL (4 STL),,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022400445,641,6,2,4,11:17 PM,0:15,Sexton S.FOUL (P2.PN) (B.Taylor),,,,,4,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022400445,643,3,11,4,11:18 PM,0:15,,,Braun Free Throw 1 of 2 (19 PTS),131 - 121,-10,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,644,3,12,4,11:18 PM,0:15,,,Braun Free Throw 2 of 2 (20 PTS),132 - 121,-11,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,645,2,1,4,11:18 PM,0:10,MISS Markkanen 30' 3PT Jump Shot,,,,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022400445,646,4,0,4,11:18 PM,0:07,,,Watson REBOUND (Off:0 Def:4),,,5,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022400445,647,13,0,4,11:19 PM,0:00,,End of 4th Period (11:19 PM EST),,132 - 121,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

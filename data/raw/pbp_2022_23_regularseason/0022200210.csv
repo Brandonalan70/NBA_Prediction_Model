@@ -1,0 +1,469 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200210,2,12,0,1,10:03 PM,12:00,,Start of 1st Period (10:03 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200210,4,10,0,1,10:03 PM,12:00,Jump Ball Sabonis vs. Claxton: Tip to Huerter,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,1
+0022200210,7,2,1,1,10:03 PM,11:38,MISS Murray 24' 3PT Jump Shot,,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,8,4,0,1,10:03 PM,11:37,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200210,10,2,1,1,10:04 PM,11:23,MISS Barnes 25' 3PT Jump Shot,,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,11,4,0,1,10:04 PM,11:20,Sabonis REBOUND (Off:1 Def:0),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,12,2,79,1,10:04 PM,11:13,MISS Fox 25' 3PT Pullup Jump Shot,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,13,4,0,1,10:04 PM,11:10,,,Sumner REBOUND (Off:0 Def:1),,,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,14,1,98,1,10:04 PM,10:58,,,Claxton 2' Cutting Layup Shot (2 PTS) (Durant 1 AST),2 - 0,-2,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200210,16,2,79,1,10:04 PM,10:47,MISS Huerter 9' Pullup Jump Shot,,,,,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,17,4,0,1,10:04 PM,10:44,Huerter REBOUND (Off:1 Def:0),,,,,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,18,1,78,1,10:04 PM,10:43,Huerter 2' Floating Jump Shot (2 PTS),,,2 - 2,TIE,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,19,5,1,1,10:04 PM,10:33,Barnes STEAL (1 STL),,O'Neale Bad Pass Turnover (P1.T1),,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,21,1,2,1,10:04 PM,10:26,Huerter 24' 3PT Running Jump Shot (5 PTS) (Fox 1 AST),,,2 - 5,3,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,23,2,1,1,10:05 PM,10:12,,,MISS Sumner 24' 3PT Jump Shot,,,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,24,4,0,1,10:05 PM,10:09,Murray REBOUND (Off:0 Def:1),,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,25,1,108,1,10:05 PM,9:54,Murray 1' Cutting Dunk Shot (2 PTS) (Sabonis 1 AST),,,2 - 7,5,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,27,1,86,1,10:05 PM,9:34,,,Durant 9' Turnaround Fadeaway (2 PTS),4 - 7,3,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,28,2,1,1,10:06 PM,9:22,MISS Fox 25' 3PT Jump Shot,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,29,4,0,1,10:06 PM,9:18,,,Claxton REBOUND (Off:0 Def:1),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,30,2,1,1,10:06 PM,9:10,,,MISS Harris 25' 3PT Jump Shot,,,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,31,4,0,1,10:06 PM,9:07,Barnes REBOUND (Off:0 Def:1),,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,32,1,6,1,10:06 PM,8:59,Barnes 2' Driving Layup (2 PTS),,,4 - 9,5,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,33,1,63,1,10:06 PM,8:43,,,Durant 17' Fadeaway Jumper (4 PTS) (Sumner 1 AST),6 - 9,3,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200210,35,6,2,1,10:06 PM,8:43,Barnes S.FOUL (P1.T1) (T.Brothers),,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200210,37,3,10,1,10:07 PM,8:43,,,Durant Free Throw 1 of 1 (5 PTS),7 - 9,2,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,38,1,98,1,10:07 PM,8:35,Murray 2' Cutting Layup Shot (4 PTS) (Fox 2 AST),,,7 - 11,4,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,40,2,1,1,10:07 PM,8:21,,,MISS O'Neale 26' 3PT Jump Shot,,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,41,4,0,1,10:07 PM,8:21,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200210,43,6,2,1,10:08 PM,8:17,,,Sumner S.FOUL (P1.T1) (T.Brothers),,,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200210,45,3,11,1,10:08 PM,8:17,Fox Free Throw 1 of 2 (1 PTS),,,7 - 12,5,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,46,3,12,1,10:08 PM,8:17,Fox Free Throw 2 of 2 (2 PTS),,,7 - 13,6,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,47,5,45,1,10:09 PM,8:05,,,Durant Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,48,1,1,1,10:09 PM,7:52,Barnes 25' 3PT Jump Shot (5 PTS) (Sabonis 2 AST),,,7 - 16,9,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,50,2,1,1,10:09 PM,7:34,,,MISS Harris 24' 3PT Jump Shot,,,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,51,4,0,1,10:09 PM,7:31,Fox REBOUND (Off:0 Def:1),,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,52,5,1,1,10:09 PM,7:26,Sabonis Bad Pass Turnover (P1.T1),,Sumner STEAL (1 STL),,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200210,54,1,41,1,10:09 PM,7:21,,,Durant 2' Running Layup (7 PTS),9 - 16,7,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,55,1,79,1,10:10 PM,7:15,Fox 5' Pullup Jump Shot (4 PTS),,,9 - 18,9,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,56,6,2,1,10:10 PM,7:15,,,Sumner S.FOUL (P2.T2) (J.Goble),,,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200210,58,3,10,1,10:10 PM,7:15,Fox Free Throw 1 of 1 (5 PTS),,,9 - 19,10,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,59,2,1,1,10:10 PM,7:01,,,MISS Sumner 24' 3PT Jump Shot,,,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,60,4,0,1,10:10 PM,6:57,Murray REBOUND (Off:0 Def:2),,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,61,6,2,1,10:11 PM,6:39,,,Durant S.FOUL (P1.T3) (J.Goble),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200210,63,9,1,1,10:11 PM,6:39,KINGS Timeout: Regular (Full 1 Short 0),,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200210,64,3,11,1,10:14 PM,6:39,Barnes Free Throw 1 of 2 (6 PTS),,,9 - 20,11,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,65,3,12,1,10:15 PM,6:39,Barnes Free Throw 2 of 2 (7 PTS),,,9 - 21,12,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,66,6,2,1,10:15 PM,6:30,Sabonis S.FOUL (P1.T2) (J.Goble),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200210,68,3,11,1,10:15 PM,6:30,,,Sumner Free Throw 1 of 2 (1 PTS),10 - 21,11,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,69,3,12,1,10:15 PM,6:30,,,Sumner Free Throw 2 of 2 (2 PTS),11 - 21,10,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,70,2,1,1,10:16 PM,6:16,MISS Murray 25' 3PT Jump Shot,,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,71,4,0,1,10:16 PM,6:14,Barnes REBOUND (Off:1 Def:1),,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,72,1,1,1,10:16 PM,6:12,Huerter 28' 3PT Jump Shot (8 PTS) (Barnes 1 AST),,,11 - 24,13,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,74,1,1,1,10:16 PM,5:57,,,O'Neale 26' 3PT Jump Shot (3 PTS) (Claxton 1 AST),14 - 24,10,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200210,76,2,79,1,10:16 PM,5:47,MISS Huerter 25' 3PT Pullup Jump Shot,,,,,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,77,4,0,1,10:16 PM,5:45,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200210,79,1,3,1,10:17 PM,5:28,,,Claxton 6' Hook Shot (4 PTS) (Durant 2 AST),16 - 24,8,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200210,81,1,6,1,10:17 PM,5:01,Sabonis 2' Driving Layup (2 PTS),,,16 - 26,10,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,82,2,6,1,10:17 PM,4:51,Fox BLOCK (1 BLK),,MISS Sumner 2' Driving Layup,,,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1
+0022200210,84,4,0,1,10:17 PM,4:51,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200210,86,8,0,1,10:17 PM,4:51,SUB: Mitchell FOR Fox,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200210,88,8,0,1,10:17 PM,4:51,SUB: Lyles FOR Murray,,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200210,89,8,0,1,10:17 PM,4:51,,,SUB: Curry FOR Harris,,,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200210,90,8,0,1,10:17 PM,4:51,,,SUB: Simmons FOR Sumner,,,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200210,96,2,1,1,10:18 PM,4:40,,,MISS O'Neale 27' 3PT Jump Shot,,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,97,4,0,1,10:18 PM,4:37,Barnes REBOUND (Off:1 Def:2),,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,98,5,4,1,10:18 PM,4:35,Huerter Traveling Turnover (P1.T2),,,,,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022200210,101,6,1,1,10:18 PM,4:22,Huerter P.FOUL (P1.T3) (J.Goble),,,,,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200210,103,2,63,1,10:19 PM,4:14,,,MISS Durant 13' Fadeaway Jumper,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,104,4,0,1,10:19 PM,4:11,Barnes REBOUND (Off:1 Def:3),,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,105,1,5,1,10:19 PM,3:53,Sabonis 3' Layup (4 PTS),,,16 - 28,12,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,107,1,101,1,10:19 PM,3:40,,,Simmons 4' Driving Floating Jump Shot (2 PTS),18 - 28,10,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,108,6,1,1,10:20 PM,3:32,,,Claxton P.FOUL (P1.T4) (T.Brothers),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200210,110,8,0,1,10:20 PM,3:32,SUB: Monk FOR Huerter,,,,,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200210,111,8,0,1,10:20 PM,3:32,,,SUB: Watanabe FOR O'Neale,,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200210,114,2,63,1,10:20 PM,3:17,MISS Barnes 15' Fadeaway Jumper,,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,115,4,0,1,10:20 PM,3:14,,,Curry REBOUND (Off:0 Def:1),,,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,116,1,6,1,10:21 PM,3:02,,,Durant 3' Driving Layup (9 PTS),20 - 28,8,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,117,1,5,1,10:21 PM,2:48,Sabonis 2' Layup (6 PTS),,,20 - 30,10,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,118,6,1,1,10:21 PM,2:35,Barnes P.FOUL (P2.T4) (J.Goble),,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200210,120,9,1,1,10:22 PM,2:35,,,Nets Timeout: Regular (Reg.1 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200210,124,8,0,1,10:23 PM,2:35,SUB: Murray FOR Barnes,,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200210,125,8,0,1,10:23 PM,2:35,,,SUB: Thomas FOR Claxton,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200210,128,6,1,1,10:25 PM,2:29,Lyles P.FOUL (P1.PN) (T.Brothers),,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200210,130,3,11,1,10:25 PM,2:29,,,Durant Free Throw 1 of 2 (10 PTS),21 - 30,9,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,131,3,12,1,10:25 PM,2:29,,,Durant Free Throw 2 of 2 (11 PTS),22 - 30,8,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,132,2,1,1,10:26 PM,2:16,MISS Lyles 25' 3PT Jump Shot,,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,133,4,0,1,10:26 PM,2:13,,,Thomas REBOUND (Off:0 Def:1),,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,134,1,6,1,10:26 PM,2:06,,,Thomas 3' Driving Layup (2 PTS),24 - 30,6,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,135,6,1,1,10:26 PM,1:58,,,Curry P.FOUL (P1.PN) (T.Brothers),,,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200210,137,3,11,1,10:26 PM,1:58,Mitchell Free Throw 1 of 2 (1 PTS),,,24 - 31,7,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,140,3,12,1,10:26 PM,1:58,MISS Mitchell Free Throw 2 of 2,,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,138,8,0,1,10:27 PM,1:58,SUB: Metu FOR Sabonis,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200210,141,4,0,1,10:27 PM,1:55,,,Simmons REBOUND (Off:0 Def:1),,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,142,1,1,1,10:27 PM,1:41,,,Watanabe 24' 3PT Jump Shot (3 PTS) (Durant 3 AST),27 - 31,4,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200210,144,2,1,1,10:28 PM,1:17,MISS Murray 21' Jump Shot,,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,145,4,0,1,10:28 PM,1:14,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200210,147,8,0,1,10:28 PM,1:14,SUB: Fox FOR Mitchell,,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200210,149,1,98,1,10:28 PM,1:12,Monk 1' Cutting Layup Shot (2 PTS) (Fox 3 AST),,,27 - 33,6,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,151,6,17,1,10:28 PM,0:59,KINGS T.Foul (Def. 3 Sec Metu ) (D.Scott),,,,,4,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022200210,152,3,16,1,10:29 PM,0:59,,,Durant Free Throw Technical (12 PTS),28 - 33,5,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,153,2,79,1,10:29 PM,0:48,,,MISS Durant 16' Pullup Jump Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,154,4,0,1,10:29 PM,0:44,Metu REBOUND (Off:0 Def:1),,,,,4,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,155,2,2,1,10:29 PM,0:40,MISS Lyles 25' 3PT Running Jump Shot,,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,156,4,0,1,10:29 PM,0:37,,,Durant REBOUND (Off:0 Def:1),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,157,1,41,1,10:29 PM,0:34,,,Watanabe 3' Running Layup (5 PTS) (Durant 4 AST),30 - 33,3,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200210,159,7,2,1,10:29 PM,0:34,Lyles Violation:Defensive Goaltending (T.Brothers),,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022200210,160,5,39,1,10:30 PM,0:32,Lyles Step Out of Bounds Turnover (P1.T3),,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022200210,161,2,1,1,10:30 PM,0:16,,,MISS Curry 25' 3PT Jump Shot,,,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,162,4,0,1,10:30 PM,0:13,Murray REBOUND (Off:0 Def:3),,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,163,1,80,1,10:30 PM,0:00,Fox 25' 3PT Step Back Jump Shot (8 PTS),,,30 - 36,6,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,164,18,0,1,10:31 PM,0:00,,Instant Replay1st Period (10:31 PM EST),,30 - 36,6,0,0,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200210,165,13,0,1,10:31 PM,0:00,,End of 1st Period (10:31 PM EST),,30 - 36,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200210,170,12,0,2,10:34 PM,12:00,,Start of 2nd Period (10:34 PM EST),,30 - 36,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200210,171,1,1,2,10:34 PM,11:47,,,Mills 26' 3PT Jump Shot (3 PTS) (Curry 1 AST),33 - 36,3,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200210,173,9,1,2,10:34 PM,11:45,KINGS Timeout: Regular (Full 2 Short 0),,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200210,174,2,5,2,10:38 PM,11:23,MISS Murray 2' Layup,,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,175,4,0,2,10:38 PM,11:21,,,Simmons REBOUND (Off:0 Def:2),,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,176,2,2,2,10:38 PM,11:16,,,MISS Watanabe 26' 3PT Running Jump Shot,,,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,177,4,0,2,10:38 PM,11:14,Monk REBOUND (Off:0 Def:1),,,,,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,178,5,4,2,10:38 PM,11:11,Fox Traveling Turnover (P1.T4),,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022200210,179,5,4,2,10:39 PM,10:54,,,Thomas Traveling Turnover (P1.T3),,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022200210,180,1,6,2,10:39 PM,10:48,Monk 2' Driving Layup (4 PTS),,,33 - 38,5,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,181,2,79,2,10:39 PM,10:37,,,MISS Curry 15' Pullup Jump Shot,,,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,182,4,0,2,10:39 PM,10:34,Davis REBOUND (Off:0 Def:1),,,,,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,183,2,1,2,10:40 PM,10:24,MISS Fox 25' 3PT Jump Shot,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,184,4,0,2,10:40 PM,10:19,Metu REBOUND (Off:1 Def:1),,,,,4,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,185,2,97,2,10:40 PM,10:19,MISS Metu Tip Layup Shot,,,,,4,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,186,4,0,2,10:40 PM,10:18,,,Mills REBOUND (Off:0 Def:1),,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,187,1,103,2,10:40 PM,10:16,,,Simmons 6' Running Pull-Up Jump Shot (4 PTS) (Mills 1 AST),35 - 38,3,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200210,189,2,1,2,10:40 PM,10:02,MISS Metu 26' 3PT Jump Shot,,,,,4,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,190,4,0,2,10:40 PM,9:57,,,Curry REBOUND (Off:0 Def:2),,,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,191,6,2,2,10:40 PM,9:48,Fox S.FOUL (P1.T1) (J.Goble),,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200210,193,3,11,2,10:41 PM,9:48,,,Thomas Free Throw 1 of 2 (3 PTS),36 - 38,2,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,194,8,0,2,10:41 PM,9:48,,,SUB: O'Neale FOR Mills,,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200210,196,3,12,2,10:41 PM,9:48,,,Thomas Free Throw 2 of 2 (4 PTS),37 - 38,1,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0022200210,197,1,52,2,10:41 PM,9:39,Metu 1' Alley Oop Dunk (2 PTS) (Monk 1 AST),,,37 - 40,3,4,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,199,5,1,2,10:42 PM,9:31,Fox STEAL (1 STL),,Simmons Bad Pass Turnover (P1.T4),,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,201,2,41,2,10:42 PM,9:28,MISS Fox 2' Running Layup,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,202,4,0,2,10:42 PM,9:26,,,Simmons REBOUND (Off:0 Def:3),,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,203,5,40,2,10:42 PM,9:26,,,Simmons Out of Bounds Lost Ball Turnover (P2.T5),,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022200210,204,8,0,2,10:42 PM,9:26,,,SUB: Mills FOR Thomas,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200210,206,8,0,2,10:42 PM,9:26,SUB: Huerter FOR Murray,,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200210,208,6,4,2,10:42 PM,9:21,Metu OFF.Foul (P1) (T.Brothers),,,,,4,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200210,210,5,37,2,10:42 PM,9:21,Metu Offensive Foul Turnover (P1.T5),,,,,4,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022200210,211,1,1,2,10:43 PM,9:11,,,Curry 24' 3PT Jump Shot (3 PTS) (Simmons 1 AST),40 - 40,TIE,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200210,213,2,1,2,10:43 PM,9:01,MISS Monk 27' 3PT Jump Shot,,,,,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,214,4,0,2,10:43 PM,8:58,,,Mills REBOUND (Off:0 Def:2),,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,215,2,41,2,10:43 PM,8:55,Davis BLOCK (1 BLK),,MISS Watanabe 3' Running Layup,,,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,1
+0022200210,217,4,0,2,10:43 PM,8:55,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200210,218,8,0,2,10:43 PM,8:55,SUB: Mitchell FOR Fox,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200210,219,8,0,2,10:43 PM,8:55,SUB: Sabonis FOR Metu,,,,,4,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200210,222,10,0,2,10:44 PM,8:48,Jump Ball Davis vs. Watanabe: Tip to Simmons,,,,,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,1
+0022200210,225,2,75,2,10:44 PM,8:42,Sabonis BLOCK (1 BLK),,MISS Curry 3' Driving Finger Roll Layup,,,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1
+0022200210,227,4,0,2,10:44 PM,8:37,,,Watanabe REBOUND (Off:1 Def:0),,,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,228,2,63,2,10:44 PM,8:36,,,MISS Watanabe 6' Fadeaway Jumper,,,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,229,4,0,2,10:44 PM,8:31,Davis REBOUND (Off:0 Def:2),,,,,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,230,1,1,2,10:44 PM,8:22,Davis 24' 3PT Jump Shot (3 PTS) (Monk 2 AST),,,40 - 43,3,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,232,2,58,2,10:44 PM,8:06,,,MISS Simmons 7' Turnaround Hook Shot,,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,233,4,0,2,10:44 PM,8:04,Davis REBOUND (Off:0 Def:3),,,,,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,235,1,79,2,10:45 PM,7:51,Mitchell 20' Pullup Jump Shot (3 PTS) (Monk 3 AST),,,40 - 45,5,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,237,5,1,2,10:45 PM,7:36,Davis STEAL (1 STL),,O'Neale Bad Pass Turnover (P2.T6),,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,239,1,2,2,10:45 PM,7:31,Davis 25' 3PT Running Jump Shot (6 PTS) (Sabonis 3 AST),,,40 - 48,8,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,241,9,1,2,10:46 PM,7:31,,,Nets Timeout: Regular (Reg.2 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200210,242,8,0,2,10:46 PM,7:31,,,SUB: Harris FOR Mills,,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200210,244,2,79,2,10:49 PM,7:09,,,MISS Harris 21' Pullup Jump Shot,,,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,245,4,0,2,10:49 PM,7:06,Sabonis REBOUND (Off:1 Def:1),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,246,5,1,2,10:49 PM,6:58,Monk Bad Pass Turnover (P1.T6),,Simmons STEAL (1 STL),,,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200210,248,5,40,2,10:49 PM,6:54,,,Watanabe Out of Bounds Lost Ball Turnover (P1.T7),,,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022200210,249,5,13,2,10:50 PM,6:39,Huerter Backcourt Turnover (P2.T7),,,,,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022200210,250,8,0,2,10:50 PM,6:39,,,SUB: Durant FOR Watanabe,,,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200210,252,8,0,2,10:50 PM,6:39,SUB: Barnes FOR Monk,,,,,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200210,254,2,1,2,10:50 PM,6:28,,,MISS Durant 18' Jump Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,255,4,0,2,10:50 PM,6:24,Davis REBOUND (Off:0 Def:4),,,,,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,256,1,75,2,10:51 PM,6:16,Davis 4' Driving Finger Roll Layup (8 PTS),,,40 - 50,10,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,257,5,1,2,10:51 PM,6:07,Davis STEAL (2 STL),,Harris Bad Pass Turnover (P1.T8),,,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,259,1,50,2,10:51 PM,6:04,Davis 1' Running Dunk (10 PTS),,,40 - 52,12,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,260,9,1,2,10:51 PM,6:04,,,Nets Timeout: Regular (Reg.3 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200210,261,8,0,2,10:51 PM,6:04,,,SUB: Sumner FOR Simmons,,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200210,262,8,0,2,10:51 PM,6:04,,,SUB: Claxton FOR Curry,,,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200210,265,5,2,2,10:53 PM,5:44,Davis STEAL (3 STL),,Claxton Lost Ball Turnover (P1.T9),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,267,1,98,2,10:53 PM,5:38,Barnes 2' Cutting Layup Shot (9 PTS) (Huerter 1 AST),,,40 - 54,14,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,269,6,1,2,10:53 PM,5:24,Mitchell P.FOUL (P1.T2) (J.Goble),,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200210,271,2,78,2,10:54 PM,5:16,Mitchell BLOCK (1 BLK),,MISS Harris 5' Floating Jump Shot,,,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,1
+0022200210,273,4,0,2,10:54 PM,5:16,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200210,275,6,2,2,10:54 PM,4:57,,,Claxton S.FOUL (P2.T1) (J.Goble),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200210,277,3,11,2,10:55 PM,4:57,Sabonis Free Throw 1 of 2 (7 PTS),,,40 - 55,15,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,278,8,0,2,10:55 PM,4:57,,,SUB: Curry FOR Harris,,,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200210,280,3,12,2,10:55 PM,4:57,Sabonis Free Throw 2 of 2 (8 PTS),,,40 - 56,16,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,281,1,6,2,10:55 PM,4:46,,,Sumner 3' Driving Layup (4 PTS),42 - 56,14,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,282,1,6,2,10:55 PM,4:38,Mitchell 3' Driving Layup (5 PTS),,,42 - 58,16,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,283,6,2,2,10:56 PM,4:38,,,Sumner S.FOUL (P3.T2) (T.Brothers),,,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200210,285,3,10,2,10:56 PM,4:38,Mitchell Free Throw 1 of 1 (6 PTS),,,42 - 59,17,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,286,2,86,2,10:56 PM,4:20,,,MISS Durant 11' Turnaround Fadeaway Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,287,4,0,2,10:56 PM,4:17,Huerter REBOUND (Off:1 Def:1),,,,,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,288,6,1,2,10:56 PM,4:09,,,Claxton P.FOUL (P3.T3) (D.Scott),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200210,290,1,108,2,10:57 PM,4:03,Barnes 1' Cutting Dunk Shot (11 PTS) (Davis 1 AST),,,42 - 61,19,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,292,2,47,2,10:57 PM,3:47,,,MISS Sumner 13' Turnaround Jump Shot,,,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,293,4,0,2,10:57 PM,3:44,Davis REBOUND (Off:0 Def:5),,,,,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,294,1,79,2,10:57 PM,3:39,Huerter 25' 3PT Pullup Jump Shot (11 PTS) (Davis 2 AST),,,42 - 64,22,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,296,6,2,2,10:57 PM,3:27,Davis S.FOUL (P1.T3) (D.Scott),,,,,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200210,298,3,11,2,10:58 PM,3:27,,,Durant Free Throw 1 of 2 (13 PTS),43 - 64,21,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,303,3,12,2,10:58 PM,3:27,,,Durant Free Throw 2 of 2 (14 PTS),44 - 64,20,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,299,8,0,2,10:58 PM,3:27,,,SUB: Simmons FOR Sumner,,,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200210,300,8,0,2,10:58 PM,3:27,,,SUB: Duke Jr. FOR Claxton,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200210,304,1,79,2,10:59 PM,3:13,Huerter 25' 3PT Pullup Jump Shot (14 PTS) (Mitchell 1 AST),,,44 - 67,23,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,306,5,1,2,10:59 PM,2:54,Sabonis STEAL (1 STL),,Duke Jr. Bad Pass Turnover (P1.T10),,,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,308,2,1,2,10:59 PM,2:48,MISS Davis 25' 3PT Jump Shot,,,,,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,309,4,0,2,10:59 PM,2:44,,,Simmons REBOUND (Off:0 Def:4),,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,310,2,1,2,10:59 PM,2:38,,,MISS O'Neale 25' 3PT Jump Shot,,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,311,4,0,2,10:59 PM,2:35,Sabonis REBOUND (Off:1 Def:2),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,312,6,2,2,11:00 PM,2:22,,,Duke Jr. S.FOUL (P1.T4) (D.Scott),,,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200210,314,3,11,2,11:00 PM,2:22,Barnes Free Throw 1 of 2 (12 PTS),,,44 - 68,24,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,315,3,12,2,11:00 PM,2:22,Barnes Free Throw 2 of 2 (13 PTS),,,44 - 69,25,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,316,1,52,2,11:01 PM,2:03,,,Simmons 2' Alley Oop Dunk (6 PTS) (Curry 2 AST),46 - 69,23,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200210,318,2,1,2,11:01 PM,1:42,MISS Mitchell 26' 3PT Jump Shot,,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,319,4,0,2,11:01 PM,1:38,,,O'Neale REBOUND (Off:0 Def:1),,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,320,6,2,2,11:01 PM,1:31,Davis S.FOUL (P2.T4) (D.Scott),,,,,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200210,322,3,11,2,11:02 PM,1:31,,,Durant Free Throw 1 of 2 (15 PTS),47 - 69,22,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,323,8,0,2,11:02 PM,1:31,SUB: Fox FOR Davis,,,,,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200210,324,8,0,2,11:02 PM,1:31,SUB: Monk FOR Mitchell,,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200210,327,3,12,2,11:02 PM,1:31,,,Durant Free Throw 2 of 2 (16 PTS),48 - 69,21,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,329,6,2,2,11:03 PM,1:16,,,Durant S.FOUL (P2.PN) (D.Scott),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200210,332,3,11,2,11:03 PM,1:16,Sabonis Free Throw 1 of 2 (9 PTS),,,48 - 70,22,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,333,3,12,2,11:03 PM,1:16,Sabonis Free Throw 2 of 2 (10 PTS),,,48 - 71,23,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,334,1,79,2,11:04 PM,1:04,,,Curry 23' Pullup Jump Shot (5 PTS),50 - 71,21,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,335,2,6,2,11:04 PM,0:56,MISS Monk 3' Driving Layup,,Durant BLOCK (1 BLK),,,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1
+0022200210,336,4,0,2,11:04 PM,0:53,,,Durant REBOUND (Off:0 Def:2),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,337,1,103,2,11:04 PM,0:50,,,Durant 15' Running Pull-Up Jump Shot (18 PTS),52 - 71,19,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,338,1,98,2,11:04 PM,0:34,Sabonis 2' Cutting Layup Shot (12 PTS) (Fox 4 AST),,,52 - 73,21,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,340,6,1,2,11:04 PM,0:30,Barnes P.FOUL (P3.PN) (J.Goble),,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200210,342,3,11,2,11:05 PM,0:30,,,Curry Free Throw 1 of 2 (6 PTS),53 - 73,20,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,343,8,0,2,11:05 PM,0:30,SUB: Davis FOR Barnes,,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200210,345,3,12,2,11:05 PM,0:30,,,Curry Free Throw 2 of 2 (7 PTS),54 - 73,19,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,346,6,2,2,11:06 PM,0:14,,,Curry S.FOUL (P2.PN) (T.Brothers),,,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200210,348,3,11,2,11:06 PM,0:14,MISS Fox Free Throw 1 of 2,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,349,4,1,2,11:06 PM,0:14,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200210,350,8,0,2,11:06 PM,0:14,SUB: Metu FOR Monk,,,,,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,4,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200210,351,8,0,2,11:06 PM,0:14,SUB: Okpala FOR Huerter,,,,,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200210,352,8,0,2,11:06 PM,0:14,SUB: Mitchell FOR Sabonis,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200210,353,8,0,2,11:06 PM,0:14,,,SUB: Harris FOR Duke Jr.,,,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200210,358,3,12,2,11:06 PM,0:14,MISS Fox Free Throw 2 of 2,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,359,4,0,2,11:06 PM,0:10,,,Simmons REBOUND (Off:0 Def:5),,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,360,18,0,2,11:08 PM,0:00,,Instant Replay2nd Period (11:08 PM EST),,54 - 73,19,0,0,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200210,361,13,0,2,11:08 PM,0:00,,End of 2nd Period (11:08 PM EST),,54 - 73,19,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200210,373,6,11,3,11:24 PM,12:00,Metu T.FOUL (P1.T0) (J.Goble),,,,,4,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,0
+0022200210,374,3,16,3,11:25 PM,12:00,,,Harris Free Throw Technical (1 PTS),55 - 73,18,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,375,12,0,3,11:25 PM,12:00,,Start of 3rd Period (11:25 PM EST),,55 - 73,18,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200210,376,2,52,3,11:25 PM,11:47,,,MISS Claxton 2' Alley Oop Dunk,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,377,4,0,3,11:25 PM,11:45,Sabonis REBOUND (Off:1 Def:3),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,378,1,1,3,11:25 PM,11:40,Davis 25' 3PT Jump Shot (13 PTS) (Fox 5 AST),,,55 - 76,21,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,380,1,86,3,11:26 PM,11:25,,,Durant 5' Turnaround Fadeaway (20 PTS) (O'Neale 1 AST),57 - 76,19,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200210,382,1,1,3,11:26 PM,11:11,Barnes 24' 3PT Jump Shot (16 PTS) (Sabonis 4 AST),,,57 - 79,22,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,384,2,1,3,11:26 PM,10:45,,,MISS Sumner 24' 3PT Jump Shot,,,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,385,4,0,3,11:26 PM,10:40,Fox REBOUND (Off:0 Def:2),,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,386,1,41,3,11:26 PM,10:37,Davis 2' Running Layup (15 PTS) (Fox 6 AST),,,57 - 81,24,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,388,1,75,3,11:27 PM,10:24,,,Durant 2' Driving Finger Roll Layup (22 PTS),59 - 81,22,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,389,6,2,3,11:27 PM,10:24,Sabonis S.FOUL (P2.T1) (J.Goble),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200210,391,8,0,3,11:27 PM,10:24,,,SUB: Watanabe FOR Sumner,,,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200210,393,3,10,3,11:27 PM,10:24,,,Durant Free Throw 1 of 1 (23 PTS),60 - 81,21,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,395,1,6,3,11:28 PM,9:59,Fox 1' Driving Layup (10 PTS),,,60 - 83,23,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,396,2,79,3,11:28 PM,9:53,,,MISS Harris 26' 3PT Pullup Jump Shot,,,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,397,4,0,3,11:28 PM,9:53,Sabonis REBOUND (Off:1 Def:4),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,398,2,1,3,11:28 PM,9:44,MISS Fox 26' 3PT Jump Shot,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,399,4,0,3,11:28 PM,9:41,,,O'Neale REBOUND (Off:0 Def:2),,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,400,5,45,3,11:28 PM,9:29,,,O'Neale Out of Bounds - Bad Pass Turnover Turnover (P3.T11),,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022200210,401,2,1,3,11:29 PM,9:17,MISS Barnes 26' 3PT Jump Shot,,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,402,4,0,3,11:29 PM,9:15,,,Harris REBOUND (Off:0 Def:1),,,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,403,1,1,3,11:29 PM,9:09,,,Harris 25' 3PT Jump Shot (4 PTS) (Durant 5 AST),63 - 83,20,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200210,405,1,1,3,11:29 PM,8:56,Davis 26' 3PT Jump Shot (18 PTS) (Fox 7 AST),,,63 - 86,23,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,407,6,1,3,11:29 PM,8:40,Huerter P.FOUL (P2.T2) (D.Scott),,,,,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200210,409,2,1,3,11:30 PM,8:28,,,MISS Harris 24' 3PT Jump Shot,,,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,410,4,0,3,11:30 PM,8:23,Sabonis REBOUND (Off:1 Def:5),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,411,1,79,3,11:30 PM,8:16,Fox 9' Pullup Jump Shot (12 PTS) (Barnes 2 AST),,,63 - 88,25,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,413,2,1,3,11:30 PM,7:56,,,MISS Watanabe 24' 3PT Jump Shot,,,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,414,4,0,3,11:31 PM,7:52,Davis REBOUND (Off:0 Def:6),,,,,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,415,1,98,3,11:31 PM,7:47,Sabonis 2' Cutting Layup Shot (14 PTS) (Davis 3 AST),,,63 - 90,27,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,417,6,2,3,11:31 PM,7:47,,,O'Neale S.FOUL (P1.T1) (J.Goble),,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200210,419,9,1,3,11:31 PM,7:47,,,Nets Timeout: Regular (Reg.4 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200210,420,3,10,3,11:35 PM,7:47,Sabonis Free Throw 1 of 1 (15 PTS),,,63 - 91,28,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,421,6,1,3,11:35 PM,7:47,Davis P.FOUL (P3.T3) (T.Brothers),,,,,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200210,423,1,108,3,11:35 PM,7:35,,,Claxton 1' Cutting Dunk Shot (6 PTS) (Durant 6 AST),65 - 91,26,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200210,425,1,43,3,11:36 PM,7:17,Sabonis 2' Alley Oop Layup (17 PTS) (Fox 8 AST),,,65 - 93,28,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,427,2,3,3,11:36 PM,7:07,,,MISS Claxton 5' Hook Shot,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,428,4,0,3,11:36 PM,7:03,Davis REBOUND (Off:0 Def:7),,,,,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,429,1,79,3,11:36 PM,6:45,Huerter 5' Pullup Jump Shot (16 PTS) (Sabonis 5 AST),,,65 - 95,30,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,431,2,79,3,11:36 PM,6:36,,,MISS Durant 24' 3PT Pullup Jump Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,432,4,0,3,11:36 PM,6:33,Fox REBOUND (Off:0 Def:3),,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,433,1,2,3,11:36 PM,6:29,Davis 26' 3PT Running Jump Shot (21 PTS) (Barnes 3 AST),,,65 - 98,33,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,435,6,2,3,11:37 PM,6:08,Barnes S.FOUL (P4.T4) (D.Scott),,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200210,437,3,11,3,11:37 PM,6:08,,,Durant Free Throw 1 of 2 (24 PTS),66 - 98,32,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,438,8,0,3,11:37 PM,6:08,SUB: Mitchell FOR Davis,,,,,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200210,439,8,0,3,11:37 PM,6:08,SUB: Lyles FOR Fox,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200210,440,8,0,3,11:37 PM,6:08,,,SUB: Simmons FOR O'Neale,,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200210,441,8,0,3,11:37 PM,6:08,,,SUB: Curry FOR Claxton,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200210,446,8,0,3,11:38 PM,6:08,SUB: Okpala FOR Barnes,,,,,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200210,448,3,12,3,11:38 PM,6:08,,,Durant Free Throw 2 of 2 (25 PTS),67 - 98,31,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,449,5,40,3,11:38 PM,5:50,Sabonis Out of Bounds Lost Ball Turnover (P2.T8),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022200210,450,6,2,3,11:39 PM,5:40,Sabonis S.FOUL (P3.PN) (J.Goble),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200210,452,3,11,3,11:39 PM,5:40,,,MISS Simmons Free Throw 1 of 2,,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,453,4,1,3,11:39 PM,5:40,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200210,454,3,12,3,11:39 PM,5:40,,,Simmons Free Throw 2 of 2 (7 PTS),68 - 98,30,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,455,1,79,3,11:40 PM,5:20,Mitchell 21' Pullup Jump Shot (8 PTS),,,68 - 100,32,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,456,5,2,3,11:40 PM,5:07,Huerter STEAL (1 STL),,Durant Lost Ball Turnover (P2.T12),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,458,1,2,3,11:40 PM,5:02,Lyles 25' 3PT Running Jump Shot (3 PTS) (Huerter 2 AST),,,68 - 103,35,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,460,9,1,3,11:40 PM,5:01,,,Nets Timeout: Regular (Reg.5 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200210,463,1,63,3,11:44 PM,4:44,,,Durant 20' Fadeaway Jumper (27 PTS) (Harris 1 AST),70 - 103,33,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200210,465,1,1,3,11:44 PM,4:24,Lyles 26' 3PT Jump Shot (6 PTS) (Sabonis 6 AST),,,70 - 106,36,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,467,2,86,3,11:44 PM,4:08,,,MISS Durant 14' Turnaround Fadeaway Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,469,4,0,3,11:45 PM,4:01,Sabonis REBOUND (Off:1 Def:6),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,470,1,2,3,11:45 PM,4:00,Huerter 25' 3PT Running Jump Shot (19 PTS) (Sabonis 7 AST),,,70 - 109,39,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,472,5,45,3,11:45 PM,3:46,,,Curry Out of Bounds - Bad Pass Turnover Turnover (P1.T13),,,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022200210,473,6,1,3,11:45 PM,3:32,,,Watanabe P.FOUL (P1.T2) (D.Scott),,,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200210,475,8,0,3,11:46 PM,3:32,,,SUB: Thomas FOR Harris,,,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200210,477,5,45,3,11:46 PM,3:28,Lyles Out of Bounds - Bad Pass Turnover Turnover (P2.T9),,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022200210,478,1,79,3,11:46 PM,3:21,,,Curry 19' Pullup Jump Shot (9 PTS) (Simmons 2 AST),72 - 109,37,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200210,480,6,4,3,11:46 PM,3:07,Sabonis OFF.Foul (P4) (J.Goble),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200210,482,5,37,3,11:46 PM,3:07,Sabonis Offensive Foul Turnover (P3.T10),,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022200210,483,8,0,3,11:47 PM,3:07,SUB: Fox FOR Sabonis,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200210,484,8,0,3,11:47 PM,3:07,SUB: Metu FOR Mitchell,,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,4,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200210,487,1,101,3,11:47 PM,2:53,,,Simmons 6' Driving Floating Jump Shot (9 PTS),74 - 109,35,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,488,2,1,3,11:47 PM,2:44,MISS Lyles 26' 3PT Jump Shot,,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,489,4,0,3,11:47 PM,2:41,,,Curry REBOUND (Off:0 Def:3),,,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,490,2,58,3,11:47 PM,2:35,,,MISS Simmons 9' Turnaround Hook Shot,,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,491,4,0,3,11:47 PM,2:32,Fox REBOUND (Off:0 Def:4),,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,492,1,1,3,11:47 PM,2:23,Lyles 3PT Jump Shot (9 PTS) (Huerter 3 AST),,,74 - 112,38,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,494,1,1,3,11:48 PM,2:07,,,Watanabe 3PT Jump Shot (8 PTS) (Simmons 3 AST),77 - 112,35,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200210,496,2,1,3,11:48 PM,1:45,MISS Huerter 26' 3PT Jump Shot,,,,,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,497,4,0,3,11:48 PM,1:43,,,Durant REBOUND (Off:0 Def:3),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,498,2,63,3,11:48 PM,1:35,,,MISS Thomas 12' Fadeaway Jumper,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,499,4,0,3,11:48 PM,1:33,Metu REBOUND (Off:1 Def:2),,,,,4,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,500,2,103,3,11:48 PM,1:28,MISS Fox 12' Running Pull-Up Jump Shot,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,501,4,0,3,11:48 PM,1:25,,,Watanabe REBOUND (Off:1 Def:1),,,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,502,2,80,3,11:49 PM,1:15,,,MISS Durant 18' Step Back Jump Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,503,4,0,3,11:49 PM,1:12,Lyles REBOUND (Off:0 Def:1),,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,504,1,103,3,11:49 PM,1:06,Fox 4' Running Pull-Up Jump Shot (14 PTS),,,77 - 114,37,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,505,1,5,3,11:49 PM,0:47,,,Simmons 2' Layup (11 PTS) (Watanabe 1 AST),79 - 114,35,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200210,507,6,28,3,11:49 PM,0:35,,,Curry Personal Take Foul (P3.T3) (J.Goble),,,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200210,509,6,2,3,11:50 PM,0:33,,,Watanabe S.FOUL (P2.PN) (T.Brothers),,,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200210,511,3,11,3,11:50 PM,0:33,Lyles Free Throw 1 of 2 (10 PTS),,,79 - 115,36,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,512,3,12,3,11:50 PM,0:33,MISS Lyles Free Throw 2 of 2,,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0022200210,513,4,0,3,11:50 PM,0:31,,,Durant REBOUND (Off:0 Def:4),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0022200210,514,1,1,3,11:51 PM,0:13,,,Watanabe 3PT Jump Shot (11 PTS) (Thomas 1 AST),82 - 115,33,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200210,516,2,47,3,11:51 PM,0:01,MISS Fox 13' Turnaround Jump Shot,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,517,4,0,3,11:51 PM,0:01,Lyles REBOUND (Off:1 Def:1),,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,518,2,97,3,11:51 PM,0:00,MISS Lyles Tip Layup Shot,,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,519,4,0,3,11:51 PM,0:00,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200210,520,13,0,3,11:51 PM,0:00,,End of 3rd Period (11:51 PM EST),,82 - 115,33,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200210,532,12,0,4,11:55 PM,12:00,,Start of 4th Period (11:55 PM EST),,82 - 115,33,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200210,534,2,1,4,11:55 PM,11:44,MISS Davis 3PT Jump Shot,,,,,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,535,4,0,4,11:55 PM,11:41,Lyles REBOUND (Off:2 Def:1),,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,536,2,97,4,11:55 PM,11:41,MISS Lyles Tip Layup Shot,,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,537,4,0,4,11:55 PM,11:41,Lyles REBOUND (Off:4 Def:1),,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,538,2,97,4,11:55 PM,11:41,MISS Lyles Tip Layup Shot,,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,539,4,0,4,11:55 PM,11:41,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200210,703,2,97,4,11:55 PM,11:41,MISS Lyles 1' Tip Layup Shot,,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0022200210,704,4,0,4,11:55 PM,11:41,Lyles REBOUND (Off:4 Def:1),,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0022200210,540,10,0,4,11:55 PM,11:38,Jump Ball Lyles vs. Harris: Tip to Monk,,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,1
+0022200210,543,2,80,4,11:55 PM,11:32,MISS Monk 22' Step Back Jump Shot,,,,,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,544,4,0,4,11:56 PM,11:26,,,Sharpe REBOUND (Off:0 Def:1),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,545,1,9,4,11:56 PM,11:21,,,Edwards 1' Driving Dunk (2 PTS) (Curry 3 AST),84 - 115,31,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200210,547,1,6,4,11:56 PM,11:10,Davis 2' Driving Layup (23 PTS) (Fox 9 AST),,,84 - 117,33,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,549,1,80,4,11:56 PM,10:59,,,Thomas 25' 3PT Step Back Jump Shot (7 PTS),87 - 117,30,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,551,6,2,4,11:57 PM,10:41,,,Sharpe S.FOUL (P1.T1) (T.Brothers),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200210,553,3,11,4,11:57 PM,10:41,Monk Free Throw 1 of 2 (5 PTS),,,87 - 118,31,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,554,3,12,4,11:57 PM,10:41,Monk Free Throw 2 of 2 (6 PTS),,,87 - 119,32,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,555,2,1,4,11:58 PM,10:22,,,MISS Edwards 3PT Jump Shot,,,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,556,4,0,4,11:58 PM,10:18,Metu REBOUND (Off:1 Def:3),,,,,4,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,557,5,45,4,11:58 PM,10:13,Monk Out of Bounds - Bad Pass Turnover Turnover (P2.T11),,,,,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022200210,558,9,1,4,11:58 PM,10:13,,,Nets Timeout: Regular (Reg.6 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200210,559,8,0,4,12:01 AM,10:13,SUB: Mitchell FOR Fox,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200210,560,8,0,4,12:01 AM,10:13,,,SUB: Sumner FOR Curry,,,5,203552,Seth Curry,1610612751.0,Brooklyn,Nets,BKN,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200210,561,8,0,4,12:01 AM,10:13,,,SUB: Duke Jr. FOR Harris,,,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200210,565,5,45,4,12:02 AM,9:55,,,Duke Jr. Out of Bounds - Bad Pass Turnover Turnover (P2.T14),,,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022200210,566,1,6,4,12:02 AM,9:41,Davis 2' Driving Layup (25 PTS) (Mitchell 2 AST),,,87 - 121,34,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,567,2,79,4,12:03 AM,9:21,,,MISS Sharpe 7' Pullup Jump Shot,,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,568,4,0,4,12:03 AM,9:19,,,Edwards REBOUND (Off:1 Def:0),,,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,569,6,2,4,12:03 AM,9:19,Mitchell S.FOUL (P2.T1) (T.Brothers),,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200210,571,3,11,4,12:03 AM,9:19,,,MISS Edwards Free Throw 1 of 2,,,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,572,4,1,4,12:03 AM,9:19,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200210,573,3,12,4,12:03 AM,9:19,,,Edwards Free Throw 2 of 2 (3 PTS),88 - 121,33,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,574,5,21,4,12:04 AM,9:07,Mitchell Palming Turnover (P1.T12),,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022200210,575,5,1,4,12:04 AM,9:02,Metu STEAL (1 STL),,Duke Jr. Bad Pass Turnover (P3.T15),,,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,4,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,577,1,2,4,12:04 AM,8:56,Monk 25' 3PT Running Jump Shot (9 PTS) (Mitchell 3 AST),,,88 - 124,36,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,579,1,98,4,12:04 AM,8:42,,,Duke Jr. 2' Cutting Layup Shot (2 PTS) (Sharpe 1 AST),90 - 124,34,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200210,581,1,1,4,12:04 AM,8:29,Davis 25' 3PT Jump Shot (28 PTS) (Monk 4 AST),,,90 - 127,37,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,583,2,80,4,12:05 AM,8:12,,,MISS Thomas 25' 3PT Step Back Jump Shot,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,584,4,0,4,12:05 AM,8:08,Monk REBOUND (Off:0 Def:2),,,,,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,585,1,50,4,12:05 AM,8:07,Lyles 1' Running Dunk (12 PTS) (Monk 5 AST),,,90 - 129,39,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,587,6,2,4,12:05 AM,7:57,Monk S.FOUL (P1.T2) (J.Goble),,,,,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200210,589,3,11,4,12:05 AM,7:57,,,Sumner Free Throw 1 of 2 (5 PTS),91 - 129,38,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,590,3,12,4,12:06 AM,7:57,,,Sumner Free Throw 2 of 2 (6 PTS),92 - 129,37,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,591,5,45,4,12:06 AM,7:43,Metu Out of Bounds - Bad Pass Turnover Turnover (P2.T13),,,,,4,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022200210,593,8,0,4,12:06 AM,7:43,SUB: Dellavedova FOR Mitchell,,,,,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,4,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200210,595,1,6,4,12:07 AM,7:31,,,Duke Jr. 1' Driving Layup (4 PTS) (Sharpe 2 AST),94 - 129,35,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200210,597,2,1,4,12:07 AM,7:10,MISS Lyles 26' 3PT Jump Shot,,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,598,4,0,4,12:07 AM,7:07,Monk REBOUND (Off:1 Def:2),,,,,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,599,1,7,4,12:07 AM,7:05,Monk 2' Dunk (11 PTS),,,94 - 131,37,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,600,1,79,4,12:07 AM,6:51,,,Thomas 16' Pullup Jump Shot (9 PTS) (Sharpe 3 AST),96 - 131,35,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200210,601,2,1,4,12:08 AM,6:32,MISS Lyles 3PT Jump Shot,,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,602,4,0,4,12:08 AM,6:29,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200210,604,8,0,4,12:08 AM,6:29,SUB: Holmes FOR Metu,,,,,4,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200210,606,1,108,4,12:08 AM,6:23,Holmes 2' Cutting Dunk Shot (2 PTS) (Monk 6 AST),,,96 - 133,37,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,608,5,39,4,12:09 AM,6:04,,,Sumner Step Out of Bounds Turnover (P1.T16),,,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022200210,609,8,0,4,12:09 AM,6:04,SUB: Okpala FOR Davis,,,,,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,4,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200210,611,1,6,4,12:09 AM,5:52,Monk 2' Driving Layup (13 PTS) (Dellavedova 1 AST),,,96 - 135,39,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,4,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,613,1,1,4,12:09 AM,5:40,,,Sumner 3PT Jump Shot (9 PTS) (Duke Jr. 1 AST),99 - 135,36,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200210,615,5,1,4,12:09 AM,5:29,Dellavedova Bad Pass Turnover (P1.T14),,Sumner STEAL (2 STL),,,4,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200210,617,1,41,4,12:10 AM,5:26,,,Sumner 1' Running Layup (11 PTS),101 - 135,34,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,618,2,98,4,12:10 AM,5:14,MISS Dellavedova 2' Cutting Layup Shot,,Edwards BLOCK (1 BLK),,,4,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,1
+0022200210,620,4,0,4,12:10 AM,5:14,,,Thomas REBOUND (Off:0 Def:2),,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,621,6,2,4,12:10 AM,5:04,Monk S.FOUL (P2.T3) (J.Goble),,,,,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200210,623,3,11,4,12:10 AM,5:04,,,Sumner Free Throw 1 of 2 (12 PTS),102 - 135,33,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,624,8,0,4,12:10 AM,5:04,SUB: Len FOR Lyles,,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,4,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200210,626,3,12,4,12:11 AM,5:04,,,Sumner Free Throw 2 of 2 (13 PTS),103 - 135,32,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,627,1,44,4,12:11 AM,4:58,Monk 2' Reverse Layup (15 PTS) (Dellavedova 2 AST),,,103 - 137,34,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,4,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,629,6,2,4,12:12 AM,4:49,Holmes S.FOUL (P1.T4) (T.Brothers),,,,,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200210,631,3,11,4,12:12 AM,4:49,,,Sharpe Free Throw 1 of 2 (1 PTS),104 - 137,33,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,632,8,0,4,12:12 AM,4:49,SUB: Metu FOR Monk,,,,,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,4,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200210,634,3,12,4,12:12 AM,4:49,,,Sharpe Free Throw 2 of 2 (2 PTS),105 - 137,32,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,635,5,2,4,12:13 AM,4:28,Metu Lost Ball Turnover (P3.T15),,Thomas STEAL (1 STL),,,4,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200210,637,5,1,4,12:13 AM,4:24,Dellavedova STEAL (1 STL),,Thomas Bad Pass Turnover (P2.T17),,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,4,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,639,2,101,4,12:13 AM,4:20,MISS Dellavedova 8' Driving Floating Jump Shot,,,,,4,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,640,4,0,4,12:13 AM,4:16,,,Sharpe REBOUND (Off:0 Def:2),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,641,6,2,4,12:13 AM,4:09,Okpala S.FOUL (P1.PN) (D.Scott),,,,,4,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200210,643,3,11,4,12:13 AM,4:09,,,MISS Thomas Free Throw 1 of 2,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,644,4,1,4,12:13 AM,4:09,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200210,645,3,12,4,12:13 AM,4:09,,,Thomas Free Throw 2 of 2 (10 PTS),106 - 137,31,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,647,1,6,4,12:14 AM,3:58,Okpala 3' Driving Layup (2 PTS) (Dellavedova 3 AST),,,106 - 139,33,4,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,4,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,649,1,1,4,12:14 AM,3:49,,,Sharpe 25' 3PT Jump Shot (5 PTS) (Thomas 2 AST),109 - 139,30,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200210,651,5,1,4,12:14 AM,3:32,Metu Bad Pass Turnover (P4.T16),,Edwards STEAL (1 STL),,,4,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200210,653,6,28,4,12:14 AM,3:31,Holmes Personal Take Foul (P2.PN) (J.Goble),,,,,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200210,655,3,11,4,12:15 AM,3:31,,,Sumner Free Throw 1 of 2 (14 PTS),110 - 139,29,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,656,8,0,4,12:15 AM,3:31,SUB: Davis FOR Metu,,,,,4,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200210,658,3,12,4,12:15 AM,3:31,,,Sumner Free Throw 2 of 2 (15 PTS),111 - 139,28,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,659,2,1,4,12:15 AM,3:20,MISS Davis 26' 3PT Jump Shot,,,,,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,660,4,0,4,12:15 AM,3:14,,,Sharpe REBOUND (Off:0 Def:3),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,662,1,6,4,12:15 AM,3:07,,,Sumner 3' Driving Layup (17 PTS),113 - 139,26,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,663,6,2,4,12:16 AM,3:07,Okpala S.FOUL (P2.PN) (T.Brothers),,,,,4,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200210,665,3,10,4,12:16 AM,3:07,,,Sumner Free Throw 1 of 1 (18 PTS),114 - 139,25,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,666,1,86,4,12:16 AM,2:45,Len 13' Turnaround Fadeaway (2 PTS),,,114 - 141,27,4,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,667,2,57,4,12:16 AM,2:26,,,MISS Sharpe 9' Driving Hook Shot,,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,668,4,0,4,12:16 AM,2:24,Len REBOUND (Off:0 Def:1),,,,,4,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,669,1,52,4,12:17 AM,2:17,Len 2' Alley Oop Dunk (4 PTS) (Dellavedova 4 AST),,,114 - 143,29,4,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,4,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,671,2,79,4,12:17 AM,2:09,,,MISS Thomas 8' Pullup Jump Shot,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,672,4,0,4,12:17 AM,2:03,,,Edwards REBOUND (Off:2 Def:0),,,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,673,2,79,4,12:17 AM,2:01,,,MISS Edwards 25' 3PT Pullup Jump Shot,,,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,674,4,0,4,12:17 AM,1:59,Davis REBOUND (Off:0 Def:8),,,,,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,675,1,1,4,12:17 AM,1:52,Holmes 3PT Jump Shot (5 PTS) (Davis 4 AST),,,114 - 146,32,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200210,677,1,6,4,12:17 AM,1:42,,,Thomas 2' Driving Layup (12 PTS),116 - 146,30,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,678,2,6,4,12:18 AM,1:29,MISS Davis 4' Driving Layup,,Sharpe BLOCK (1 BLK),,,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,1
+0022200210,680,4,0,4,12:18 AM,1:27,,,Edwards REBOUND (Off:2 Def:1),,,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,681,2,100,4,12:18 AM,1:22,,,MISS Duke Jr. 2' Running Alley Oop Layup Shot,,,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,682,4,0,4,12:18 AM,1:18,Holmes REBOUND (Off:0 Def:1),,,,,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,683,6,2,4,12:18 AM,1:18,,,Edwards S.FOUL (P1.T2) (J.Goble),,,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,4,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200210,685,9,1,4,12:18 AM,1:18,KINGS Timeout: Regular (Full 3 Short 0),,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200210,686,3,11,4,12:22 AM,1:18,Okpala Free Throw 1 of 2 (3 PTS),,,116 - 147,31,4,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,687,3,12,4,12:22 AM,1:18,Okpala Free Throw 2 of 2 (4 PTS),,,116 - 148,32,4,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,688,1,6,4,12:22 AM,1:08,,,Sharpe 2' Driving Layup (7 PTS),118 - 148,30,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,689,6,2,4,12:22 AM,0:54,,,Duke Jr. S.FOUL (P2.PN) (D.Scott),,,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,4,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200210,691,3,11,4,12:23 AM,0:54,Okpala Free Throw 1 of 2 (5 PTS),,,118 - 149,31,4,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,692,3,12,4,12:23 AM,0:54,Okpala Free Throw 2 of 2 (6 PTS),,,118 - 150,32,4,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,693,2,79,4,12:23 AM,0:45,,,MISS Thomas 11' Pullup Jump Shot,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200210,694,4,0,4,12:23 AM,0:41,Davis REBOUND (Off:0 Def:9),,,,,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,695,1,79,4,12:23 AM,0:37,Davis 25' 3PT Pullup Jump Shot (31 PTS),,,118 - 153,35,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200210,696,1,1,4,12:24 AM,0:28,,,Edwards 25' 3PT Jump Shot (6 PTS) (Thomas 3 AST),121 - 153,32,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200210,698,5,11,4,12:24 AM,0:04,KINGS Turnover: Shot Clock (T#17),,,,,2,1610612758,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200210,701,13,0,4,12:25 AM,0:00,,End of 4th Period (12:25 AM EST),,121 - 153,32,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

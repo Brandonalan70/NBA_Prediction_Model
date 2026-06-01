@@ -1,0 +1,494 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200410,2,12,0,1,7:33 PM,12:00,,Start of 1st Period (7:33 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200410,4,10,0,1,7:33 PM,12:00,Jump Ball Lopez vs. Looney: Tip to G. Antetokounmpo,,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1
+0022200410,7,5,11,1,7:33 PM,11:35,BUCKS Turnover: Shot Clock (T#1),,,,,2,1610612749,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200410,8,1,1,1,7:34 PM,11:20,,,Poole 28' 3PT Jump Shot (3 PTS) (D. Green 1 AST),3 - 0,-3,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200410,10,2,1,1,7:34 PM,11:07,MISS Middleton 26' 3PT Jump Shot,,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,11,4,0,1,7:34 PM,11:04,,,Looney REBOUND (Off:0 Def:1),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,12,1,79,1,7:34 PM,10:57,,,Thompson 18' Pullup Jump Shot (2 PTS) (D. Green 2 AST),5 - 0,-5,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200410,14,5,2,1,7:34 PM,10:42,Middleton Lost Ball Turnover (P1.T2),,Looney STEAL (1 STL),,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200410,16,2,41,1,7:34 PM,10:37,,,MISS Poole 3' Running Layup,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,17,4,0,1,7:34 PM,10:34,G. Antetokounmpo REBOUND (Off:0 Def:1),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,18,2,1,1,7:35 PM,10:24,MISS G. Antetokounmpo 18' Jump Shot,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,19,4,0,1,7:35 PM,10:21,,,Curry REBOUND (Off:0 Def:1),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,20,1,1,1,7:35 PM,10:10,,,Thompson 18' Jump Shot (4 PTS),7 - 0,-7,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,21,6,2,1,7:35 PM,9:54,,,Thompson S.FOUL (P1.T1) (B.Taylor),,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200410,23,3,11,1,7:36 PM,9:54,G. Antetokounmpo Free Throw 1 of 2 (1 PTS),,,7 - 1,-6,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,24,3,12,1,7:36 PM,9:54,G. Antetokounmpo Free Throw 2 of 2 (2 PTS),,,7 - 2,-5,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,25,6,1,1,7:36 PM,9:45,G. Antetokounmpo P.FOUL (P1.T1) (R.Acosta),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200410,27,2,79,1,7:37 PM,9:32,,,MISS Thompson 26' 3PT Pullup Jump Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,28,4,0,1,7:37 PM,9:30,,,Looney REBOUND (Off:1 Def:1),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,29,2,1,1,7:37 PM,9:25,,,MISS Poole 29' 3PT Jump Shot,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,30,4,0,1,7:37 PM,9:19,,,Curry REBOUND (Off:1 Def:1),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,31,2,99,1,7:37 PM,9:14,,,MISS Thompson 3' Cutting Finger Roll Layup Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,32,4,0,1,7:37 PM,9:12,G. Antetokounmpo REBOUND (Off:0 Def:2),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,33,1,6,1,7:37 PM,9:03,Allen 1' Driving Layup (2 PTS),,,7 - 4,-3,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,34,2,6,1,7:38 PM,8:56,,,MISS Poole 4' Driving Layup,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,35,4,0,1,7:38 PM,8:54,Lopez REBOUND (Off:0 Def:1),,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,36,6,2,1,7:38 PM,8:51,,,Looney S.FOUL (P1.T2) (R.Acosta),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200410,38,3,11,1,7:38 PM,8:51,MISS G. Antetokounmpo Free Throw 1 of 2,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,39,4,1,1,7:38 PM,8:51,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200410,40,3,12,1,7:39 PM,8:51,G. Antetokounmpo Free Throw 2 of 2 (3 PTS),,,7 - 5,-2,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,41,1,98,1,7:39 PM,8:33,,,D. Green 1' Cutting Layup Shot (2 PTS) (Poole 1 AST),9 - 5,-4,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200410,43,1,75,1,7:39 PM,8:20,G. Antetokounmpo 2' Driving Finger Roll Layup (5 PTS),,,9 - 7,-2,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,44,1,6,1,7:40 PM,8:03,,,Thompson 1' Driving Layup (6 PTS),11 - 7,-4,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,45,2,79,1,7:40 PM,7:49,MISS G. Antetokounmpo 26' 3PT Pullup Jump Shot,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,46,4,0,1,7:40 PM,7:46,,,Poole REBOUND (Off:0 Def:1),,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,47,5,45,1,7:40 PM,7:44,,,Poole Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022200410,48,1,73,1,7:40 PM,7:22,Middleton 2' Driving Reverse Layup (2 PTS),,,11 - 9,-2,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,49,5,45,1,7:41 PM,7:09,,,Thompson Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022200410,50,1,75,1,7:41 PM,6:55,G. Antetokounmpo 2' Driving Finger Roll Layup (7 PTS),,,11 - 11,TIE,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,51,1,98,1,7:41 PM,6:48,,,Poole 2' Cutting Layup Shot (5 PTS) (D. Green 3 AST),13 - 11,-2,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200410,53,6,11,1,7:41 PM,6:47,,,Poole T.FOUL (P0.T2) (R.Acosta),,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022200410,54,9,1,1,7:42 PM,6:47,BUCKS Timeout: Regular (Full 1 Short 0),,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200410,55,8,0,1,7:44 PM,6:47,SUB: Portis FOR Lopez,,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200410,57,3,16,1,7:45 PM,6:47,Middleton Free Throw Technical (3 PTS),,,13 - 12,-1,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,58,8,0,1,7:45 PM,6:47,SUB: Connaughton FOR Middleton,,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200410,60,1,75,1,7:45 PM,6:32,Connaughton 2' Driving Finger Roll Layup (2 PTS),,,13 - 14,1,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,62,2,79,1,7:46 PM,6:19,,,MISS Poole 20' Pullup Jump Shot,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,63,4,0,1,7:46 PM,6:14,Connaughton REBOUND (Off:0 Def:1),,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,64,2,101,1,7:46 PM,6:01,MISS G. Antetokounmpo 5' Driving Floating Jump Shot,,Curry BLOCK (1 BLK),,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1
+0022200410,66,4,0,1,7:46 PM,5:58,G. Antetokounmpo REBOUND (Off:1 Def:2),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,67,2,1,1,7:46 PM,5:57,MISS Portis 3PT Jump Shot,,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,68,4,0,1,7:46 PM,5:53,,,Poole REBOUND (Off:0 Def:2),,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,69,2,1,1,7:46 PM,5:35,,,MISS Looney 18' Jump Shot,,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,70,4,0,1,7:46 PM,5:35,Portis REBOUND (Off:0 Def:1),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,71,1,1,1,7:47 PM,5:21,Portis 20' Jump Shot (2 PTS) (Connaughton 1 AST),,,13 - 16,3,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200410,73,2,1,1,7:47 PM,5:11,,,MISS Curry 27' 3PT Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,74,4,0,1,7:47 PM,5:08,Connaughton REBOUND (Off:0 Def:2),,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,75,2,2,1,7:47 PM,4:59,MISS G. Antetokounmpo 27' 3PT Running Jump Shot,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,76,4,0,1,7:47 PM,4:58,Carter REBOUND (Off:1 Def:0),,,,,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,78,8,0,1,7:47 PM,4:58,SUB: Lopez FOR Allen,,,,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200410,79,8,0,1,7:47 PM,4:58,SUB: Hill FOR G. Antetokounmpo,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200410,80,8,0,1,7:47 PM,4:58,,,SUB: Kuminga FOR Looney,,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200410,81,8,0,1,7:47 PM,4:58,,,SUB: J. Green FOR D. Green,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200410,86,1,67,1,7:48 PM,4:45,Portis 2' Hook Bank Shot (4 PTS),,,13 - 18,5,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,88,1,1,1,7:48 PM,4:34,,,Thompson 28' 3PT Jump Shot (9 PTS) (Poole 2 AST),16 - 18,2,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200410,90,1,47,1,7:48 PM,4:20,Lopez 12' Turnaround Jump Shot (2 PTS),,,16 - 20,4,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,91,2,1,1,7:48 PM,4:09,,,MISS J. Green 28' 3PT Jump Shot,,,5,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,92,4,0,1,7:48 PM,4:05,Portis REBOUND (Off:0 Def:2),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,93,1,63,1,7:49 PM,3:53,Portis 8' Fadeaway Jumper (6 PTS),,,16 - 22,6,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,94,9,1,1,7:49 PM,3:53,,,Warriors Timeout: Regular (Reg.1 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200410,95,8,0,1,7:52 PM,3:53,SUB: Matthews FOR Carter,,,,,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,4,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200410,96,8,0,1,7:52 PM,3:53,,,SUB: DiVincenzo FOR Poole,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200410,99,5,45,1,7:52 PM,3:44,,,Curry Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022200410,100,5,45,1,7:53 PM,3:30,Hill Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,,,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0022200410,101,2,1,1,7:53 PM,3:17,,,MISS DiVincenzo 24' 3PT Jump Shot,,,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,102,4,0,1,7:53 PM,3:14,Hill REBOUND (Off:0 Def:1),,,,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,103,1,1,1,7:53 PM,2:59,Hill 27' 3PT Jump Shot (3 PTS) (Lopez 1 AST),,,16 - 25,9,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200410,105,2,1,1,7:53 PM,2:52,,,MISS Thompson 25' 3PT Jump Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,106,4,0,1,7:53 PM,2:49,Hill REBOUND (Off:0 Def:2),,,,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,107,1,1,1,7:54 PM,2:29,Lopez 18' Jump Shot (4 PTS),,,16 - 27,11,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,108,1,6,1,7:54 PM,2:14,,,Kuminga 1' Driving Layup (2 PTS) (Thompson 1 AST),18 - 27,9,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200410,109,6,1,1,7:54 PM,1:59,,,J. Green P.FOUL (P1.T3) (B.Taylor),,,5,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200410,112,8,0,1,7:54 PM,1:59,,,SUB: Moody FOR Thompson,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200410,114,6,2,1,7:55 PM,1:53,,,Moody S.FOUL (P1.PN) (B.Taylor),,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200410,116,3,11,1,7:55 PM,1:53,Connaughton Free Throw 1 of 2 (3 PTS),,,18 - 28,10,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,117,8,0,1,7:55 PM,1:53,SUB: Middleton FOR Hill,,,,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200410,119,3,12,1,7:56 PM,1:53,Connaughton Free Throw 2 of 2 (4 PTS),,,18 - 29,11,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,120,1,79,1,7:56 PM,1:43,,,Curry 30' 3PT Pullup Jump Shot (3 PTS),21 - 29,8,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,123,1,79,1,7:56 PM,1:26,Middleton 15' Pullup Jump Shot (5 PTS),,,21 - 31,10,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,124,1,1,1,7:57 PM,1:02,,,Kuminga 26' 3PT Jump Shot (5 PTS) (Moody 1 AST),24 - 31,7,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200410,126,1,1,1,7:57 PM,0:47,Lopez 28' 3PT Jump Shot (7 PTS) (Middleton 1 AST),,,24 - 34,10,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200410,128,1,79,1,7:57 PM,0:38,,,Curry 28' 3PT Pullup Jump Shot (6 PTS),27 - 34,7,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,129,2,79,1,7:57 PM,0:31,MISS Middleton 26' 3PT Pullup Jump Shot,,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,130,4,0,1,7:57 PM,0:30,Portis REBOUND (Off:1 Def:2),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,131,1,72,1,7:57 PM,0:30,Portis Putback Layup (8 PTS),,,27 - 36,9,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,132,6,11,1,7:57 PM,0:30,,,Curry T.FOUL (P0.PN) (R.Acosta),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022200410,133,3,16,1,7:58 PM,0:30,Middleton Free Throw Technical (6 PTS),,,27 - 37,10,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,134,6,11,1,7:58 PM,0:30,,Steve Kerr Foul:T.FOUL (B.Taylor),,,,7,204005,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200410,135,3,16,1,7:58 PM,0:30,Middleton Free Throw Technical (7 PTS),,,27 - 38,11,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0022200410,136,8,0,1,7:58 PM,0:30,SUB: Hill FOR Connaughton,,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200410,138,2,6,1,7:59 PM,0:17,,,MISS Curry 2' Driving Layup,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,139,4,0,1,7:59 PM,0:17,,,DiVincenzo REBOUND (Off:1 Def:0),,,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,140,6,1,1,7:59 PM,0:17,Portis P.FOUL (P1.T2) (R.Acosta),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200410,142,8,0,1,7:59 PM,0:17,,,SUB: Poole FOR Moody,,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200410,144,2,1,1,7:59 PM,0:02,,,MISS Poole 27' 3PT Jump Shot,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,145,4,0,1,7:59 PM,0:02,,,DiVincenzo REBOUND (Off:2 Def:0),,,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,146,2,97,1,8:00 PM,0:01,,,MISS DiVincenzo Tip Layup Shot,,,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,147,4,0,1,8:00 PM,0:00,,,Kuminga REBOUND (Off:1 Def:0),,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,148,13,0,1,8:00 PM,0:00,,End of 1st Period (8:00 PM EST),,27 - 38,11,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200410,157,12,0,2,8:03 PM,12:00,,Start of 2nd Period (8:03 PM EST),,27 - 38,11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200410,158,2,79,2,8:03 PM,11:48,,,MISS Poole 18' Pullup Jump Shot,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,159,4,0,2,8:03 PM,11:46,Allen REBOUND (Off:0 Def:1),,,,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,160,6,2,2,8:04 PM,11:36,,,D. Green S.FOUL (P1.T1) (R.Acosta),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200410,162,3,11,2,8:04 PM,11:36,MISS G. Antetokounmpo Free Throw 1 of 2,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,163,4,1,2,8:04 PM,11:36,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200410,164,3,12,2,8:05 PM,11:36,G. Antetokounmpo Free Throw 2 of 2 (8 PTS),,,27 - 39,12,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,165,1,1,2,8:05 PM,11:24,,,Lamb 27' 3PT Jump Shot (3 PTS) (Poole 3 AST),30 - 39,9,5,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200410,167,6,1,2,8:05 PM,11:17,,,Kuminga P.FOUL (P1.T2) (J.Capers),,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200410,169,1,63,2,8:05 PM,11:10,Middleton 14' Fadeaway Jumper (9 PTS) (Hill 1 AST),,,30 - 41,11,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200410,171,2,1,2,8:06 PM,10:47,,,MISS Poole 10' Jump Shot,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,172,4,0,2,8:06 PM,10:44,Hill REBOUND (Off:0 Def:3),,,,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,173,1,101,2,8:06 PM,10:38,Portis 11' Driving Floating Jump Shot (10 PTS),,,30 - 43,13,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,174,2,1,2,8:06 PM,10:19,,,MISS Kuminga 3PT Jump Shot,,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,175,4,0,2,8:06 PM,10:15,Allen REBOUND (Off:0 Def:2),,,,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,176,6,4,2,8:06 PM,10:10,G. Antetokounmpo OFF.Foul (P2) (R.Acosta),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200410,178,5,37,2,8:06 PM,10:10,G. Antetokounmpo Offensive Foul Turnover (P1.T4),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0022200410,179,1,1,2,8:07 PM,9:48,,,DiVincenzo 3PT Jump Shot (3 PTS) (Kuminga 1 AST),33 - 43,10,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200410,181,2,79,2,8:07 PM,9:31,MISS G. Antetokounmpo 17' Pullup Jump Shot,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,182,4,0,2,8:07 PM,9:28,,,D. Green REBOUND (Off:0 Def:1),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,183,2,76,2,8:07 PM,9:26,G. Antetokounmpo BLOCK (1 BLK),,MISS DiVincenzo 2' Running Finger Roll Layup,,,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1
+0022200410,185,4,0,2,8:07 PM,9:26,Middleton REBOUND (Off:0 Def:1),,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,186,2,41,2,8:07 PM,9:18,MISS Middleton 2' Running Layup,,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,187,4,0,2,8:08 PM,9:16,G. Antetokounmpo REBOUND (Off:2 Def:2),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,188,6,2,2,8:08 PM,9:16,,,Lamb S.FOUL (P1.T3) (J.Capers),,,5,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200410,190,3,11,2,8:08 PM,9:16,G. Antetokounmpo Free Throw 1 of 2 (9 PTS),,,33 - 44,11,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,191,8,0,2,8:08 PM,9:16,SUB: Carter FOR Hill,,,,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200410,192,8,0,2,8:08 PM,9:16,SUB: Connaughton FOR Middleton,,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200410,195,3,12,2,8:09 PM,9:16,G. Antetokounmpo Free Throw 2 of 2 (10 PTS),,,33 - 45,12,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,196,2,79,2,8:09 PM,9:03,,,MISS Poole 28' 3PT Pullup Jump Shot,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,197,4,0,2,8:09 PM,9:01,Connaughton REBOUND (Off:0 Def:3),,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,198,2,102,2,8:09 PM,8:52,MISS G. Antetokounmpo 8' Driving Floating Bank Jump Shot,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,200,1,97,2,8:10 PM,8:46,Portis Tip Layup Shot (12 PTS),,,33 - 47,14,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,199,4,0,2,8:10 PM,8:46,Portis REBOUND (Off:2 Def:2),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,201,1,1,2,8:10 PM,8:40,,,Lamb 26' 3PT Jump Shot (6 PTS) (D. Green 4 AST),36 - 47,11,5,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200410,203,1,102,2,8:10 PM,8:26,G. Antetokounmpo 2' Driving Floating Bank Jump Shot (12 PTS),,,36 - 49,13,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,204,1,79,2,8:10 PM,8:20,,,DiVincenzo 26' 3PT Pullup Jump Shot (6 PTS),39 - 49,10,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,205,2,1,2,8:10 PM,7:59,MISS Connaughton 27' 3PT Jump Shot,,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,206,4,0,2,8:10 PM,7:56,,,Lamb REBOUND (Off:0 Def:1),,,5,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,207,5,1,2,8:10 PM,7:53,Connaughton STEAL (1 STL),,DiVincenzo Bad Pass Turnover (P1.T4),,,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200410,209,2,76,2,8:11 PM,7:46,MISS G. Antetokounmpo 4' Running Finger Roll Layup,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,210,4,0,2,8:11 PM,7:44,,,DiVincenzo REBOUND (Off:2 Def:1),,,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,211,1,1,2,8:11 PM,7:37,,,DiVincenzo 26' 3PT Jump Shot (9 PTS) (D. Green 5 AST),42 - 49,7,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200410,213,9,1,2,8:11 PM,7:35,BUCKS Timeout: Regular (Full 2 Short 0),,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200410,214,8,0,2,8:14 PM,7:35,SUB: Lopez FOR Portis,,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200410,215,8,0,2,8:14 PM,7:35,,,SUB: Looney FOR D. Green,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200410,218,1,73,2,8:15 PM,7:14,Allen 1' Driving Reverse Layup (4 PTS) (G. Antetokounmpo 1 AST),,,42 - 51,9,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200410,219,2,79,2,8:15 PM,6:59,,,MISS Poole 13' Pullup Jump Shot,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,220,4,0,2,8:15 PM,6:58,Lopez REBOUND (Off:0 Def:2),,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,222,6,1,2,8:15 PM,6:45,,,Kuminga P.FOUL (P2.T4) (R.Acosta),,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200410,225,1,79,2,8:16 PM,6:30,Carter 15' Pullup Jump Shot (2 PTS) (Allen 1 AST),,,42 - 53,11,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200410,227,2,79,2,8:16 PM,6:16,,,MISS DiVincenzo 17' Pullup Jump Shot,,,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,228,4,0,2,8:16 PM,6:13,Allen REBOUND (Off:0 Def:3),,,,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,229,5,45,2,8:16 PM,6:07,Connaughton Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0022200410,230,8,0,2,8:16 PM,6:07,,,SUB: Thompson FOR Kuminga,,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200410,231,8,0,2,8:16 PM,6:07,,,SUB: Curry FOR Poole,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200410,234,2,1,2,8:17 PM,5:45,Connaughton BLOCK (1 BLK),,MISS DiVincenzo 3PT Jump Shot,,,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,1
+0022200410,236,4,0,2,8:17 PM,5:45,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200410,238,2,63,2,8:17 PM,5:40,,,MISS Thompson 19' Fadeaway Jumper,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,239,4,0,2,8:17 PM,5:38,G. Antetokounmpo REBOUND (Off:2 Def:3),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,240,1,50,2,8:17 PM,5:36,G. Antetokounmpo 1' Running Dunk (14 PTS),,,42 - 55,13,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,241,2,75,2,8:18 PM,5:24,Lopez BLOCK (1 BLK),,MISS Thompson 6' Driving Finger Roll Layup,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,1
+0022200410,243,4,0,2,8:18 PM,5:24,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200410,245,8,0,2,8:18 PM,5:24,SUB: Hill FOR Allen,,,,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200410,247,2,1,2,8:18 PM,5:14,,,MISS Lamb 3PT Jump Shot,,,5,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,248,4,0,2,8:18 PM,5:13,Lopez REBOUND (Off:0 Def:3),,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,251,5,45,2,8:18 PM,5:13,Connaughton Out of Bounds - Bad Pass Turnover Turnover (P2.T6),,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0022200410,252,9,1,2,8:18 PM,5:13,,,Warriors Timeout: Regular (Reg.2 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200410,253,8,0,2,8:21 PM,5:13,SUB: Portis FOR G. Antetokounmpo,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200410,254,8,0,2,8:21 PM,5:13,,,SUB: Poole FOR DiVincenzo,,,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200410,257,1,1,2,8:22 PM,4:58,,,Curry 13' Jump Shot (8 PTS) (Lamb 1 AST),44 - 55,11,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200410,259,5,1,2,8:22 PM,4:40,Carter Bad Pass Turnover (P1.T7),,Curry STEAL (1 STL),,,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200410,261,2,2,2,8:22 PM,4:37,,,MISS Curry 26' 3PT Running Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,262,4,0,2,8:22 PM,4:34,Lopez REBOUND (Off:0 Def:4),,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,263,2,1,2,8:23 PM,4:23,MISS Lopez 30' 3PT Jump Shot,,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,264,4,0,2,8:23 PM,4:21,Hill REBOUND (Off:1 Def:3),,,,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,265,6,26,2,8:23 PM,4:20,Connaughton Offensive Charge Foul (P1) (R.Acosta),,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,5,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200410,267,5,37,2,8:23 PM,4:20,Connaughton Offensive Foul Turnover (P3.T8),,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0022200410,268,8,0,2,8:23 PM,4:20,SUB: Middleton FOR Connaughton,,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200410,270,2,1,2,8:23 PM,4:02,,,MISS Curry 27' 3PT Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,271,4,0,2,8:24 PM,3:59,,,Looney REBOUND (Off:2 Def:1),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,272,6,2,2,8:24 PM,3:57,Lopez S.FOUL (P1.T1) (R.Acosta),,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200410,274,3,11,2,8:24 PM,3:57,,,Looney Free Throw 1 of 2 (1 PTS),45 - 55,10,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,279,3,12,2,8:24 PM,3:57,,,MISS Looney Free Throw 2 of 2,,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,275,8,0,2,8:24 PM,3:57,SUB: Matthews FOR Carter,,,,,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,4,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200410,276,8,0,2,8:24 PM,3:57,,,SUB: D. Green FOR Lamb,,,5,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200410,280,4,0,2,8:24 PM,3:54,Portis REBOUND (Off:2 Def:3),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,281,2,1,2,8:25 PM,3:39,MISS Lopez 16' Jump Shot,,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,282,4,0,2,8:25 PM,3:36,,,Curry REBOUND (Off:1 Def:2),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,283,1,5,2,8:25 PM,3:26,,,Looney 1' Layup (3 PTS) (Curry 1 AST),47 - 55,8,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200410,285,2,80,2,8:25 PM,3:14,MISS Middleton 16' Step Back Jump Shot,,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,286,4,0,2,8:25 PM,3:12,,,D. Green REBOUND (Off:0 Def:2),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,287,2,79,2,8:25 PM,2:57,,,MISS Curry 15' Pullup Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,288,4,0,2,8:25 PM,2:55,Portis REBOUND (Off:2 Def:4),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,289,1,2,2,8:25 PM,2:51,Matthews 3PT Running Jump Shot (3 PTS) (Hill 2 AST),,,47 - 58,11,4,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200410,291,9,1,2,8:26 PM,2:50,,,Warriors Timeout: Regular (Reg.3 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200410,292,8,0,2,8:27 PM,2:50,SUB: G. Antetokounmpo FOR Lopez,,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200410,294,5,45,2,8:27 PM,2:38,,,D. Green Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022200410,295,2,1,2,8:28 PM,2:24,MISS Portis 24' 3PT Jump Shot,,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,296,4,0,2,8:28 PM,2:21,,,Looney REBOUND (Off:2 Def:2),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,297,1,79,2,8:28 PM,2:15,,,Thompson 27' 3PT Pullup Jump Shot (12 PTS),50 - 58,8,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,298,2,79,2,8:28 PM,2:02,MISS G. Antetokounmpo 19' Pullup Jump Shot,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,299,4,0,2,8:28 PM,2:00,,,Looney REBOUND (Off:2 Def:3),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,300,5,39,2,8:28 PM,1:54,,,Curry Step Out of Bounds Turnover (P2.T6),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022200410,301,2,52,2,8:29 PM,1:37,MISS G. Antetokounmpo 2' Alley Oop Dunk,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,302,4,0,2,8:29 PM,1:34,,,Looney REBOUND (Off:2 Def:4),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,303,2,98,2,8:29 PM,1:24,Portis BLOCK (1 BLK),,MISS Looney 4' Cutting Layup Shot,,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,1
+0022200410,304,4,0,2,8:29 PM,1:22,,,Looney REBOUND (Off:3 Def:4),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,305,1,98,2,8:29 PM,1:21,,,Poole 2' Cutting Layup Shot (7 PTS) (Looney 1 AST),52 - 58,6,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200410,307,5,45,2,8:29 PM,1:18,Matthews Out of Bounds - Bad Pass Turnover Turnover (P1.T9),,,,,4,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0022200410,308,8,0,2,8:29 PM,1:18,SUB: Carter FOR Hill,,,,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200410,310,6,1,2,8:30 PM,1:10,Middleton P.FOUL (P1.T2) (J.Capers),,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200410,312,2,1,2,8:30 PM,1:04,,,MISS Poole 33' 3PT Jump Shot,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,313,4,0,2,8:30 PM,1:04,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200410,315,1,75,2,8:30 PM,0:49,G. Antetokounmpo Driving Finger Roll Layup (16 PTS),,,52 - 60,8,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,316,2,57,2,8:31 PM,0:38,,,MISS Curry 3' Driving Hook Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,317,4,0,2,8:31 PM,0:35,G. Antetokounmpo REBOUND (Off:2 Def:4),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,318,1,41,2,8:31 PM,0:33,Matthews 3' Running Layup (5 PTS) (G. Antetokounmpo 2 AST),,,52 - 62,10,4,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200410,320,5,2,2,8:31 PM,0:19,Carter STEAL (1 STL),,Poole Lost Ball Turnover (P2.T7),,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200410,322,2,41,2,8:31 PM,0:14,MISS G. Antetokounmpo 4' Running Layup,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,323,4,0,2,8:31 PM,0:14,Portis REBOUND (Off:3 Def:4),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,324,1,97,2,8:31 PM,0:13,Portis Tip Layup Shot (14 PTS),,,52 - 64,12,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,325,2,1,2,8:31 PM,0:01,,,MISS Curry 26' 3PT Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,326,4,0,2,8:31 PM,0:01,Portis REBOUND (Off:3 Def:5),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,327,13,0,2,8:31 PM,0:00,,End of 2nd Period (8:31 PM EST),,52 - 64,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200410,331,12,0,3,8:48 PM,12:00,,Start of 3rd Period (8:48 PM EST),,52 - 64,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200410,332,2,102,3,8:48 PM,11:41,,,MISS Thompson 11' Driving Floating Bank Jump Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,333,4,0,3,8:48 PM,11:38,Lopez REBOUND (Off:0 Def:5),,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,334,1,41,3,8:48 PM,11:35,G. Antetokounmpo 1' Running Layup (18 PTS),,,52 - 66,14,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,335,7,1,3,8:48 PM,11:35,BUCKS Violation: Delay of game Violation,,,,,2,1610612749,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200410,336,2,98,3,8:49 PM,11:15,,,MISS D. Green 5' Cutting Layup Shot,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,338,4,0,3,8:49 PM,11:11,G. Antetokounmpo REBOUND (Off:2 Def:5),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,339,1,1,3,8:49 PM,11:06,Middleton 3PT Jump Shot (12 PTS) (G. Antetokounmpo 3 AST),,,52 - 69,17,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200410,341,1,102,3,8:49 PM,10:55,,,Poole 8' Driving Floating Bank Jump Shot (9 PTS),54 - 69,15,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,342,2,1,3,8:49 PM,10:47,MISS G. Antetokounmpo 27' 3PT Jump Shot,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,343,4,0,3,8:49 PM,10:44,,,D. Green REBOUND (Off:0 Def:3),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,344,2,2,3,8:49 PM,10:40,,,MISS Thompson 26' 3PT Running Jump Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,345,4,0,3,8:49 PM,10:37,Carter REBOUND (Off:1 Def:1),,,,,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,346,2,1,3,8:50 PM,10:17,MISS G. Antetokounmpo 19' Jump Shot,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,347,4,0,3,8:50 PM,10:16,Allen REBOUND (Off:1 Def:3),,,,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,348,1,72,3,8:50 PM,10:14,Allen 3' Putback Layup (6 PTS),,,54 - 71,17,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,349,2,1,3,8:50 PM,9:56,,,MISS Curry 27' 3PT Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,350,4,0,3,8:50 PM,9:53,G. Antetokounmpo REBOUND (Off:2 Def:6),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,351,6,2,3,8:50 PM,9:49,,,Looney S.FOUL (P2.T1) (B.Taylor),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200410,355,3,11,3,8:51 PM,9:49,MISS G. Antetokounmpo Free Throw 1 of 2,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,356,4,1,3,8:51 PM,9:49,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200410,357,3,12,3,8:51 PM,9:49,G. Antetokounmpo Free Throw 2 of 2 (19 PTS),,,54 - 72,18,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,358,2,101,3,8:51 PM,9:35,,,MISS Curry 8' Driving Floating Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,359,4,0,3,8:52 PM,9:27,,,Looney REBOUND (Off:4 Def:4),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,360,1,72,3,8:52 PM,9:27,,,Looney Putback Layup (5 PTS),56 - 72,16,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,361,2,1,3,8:52 PM,9:17,MISS Carter 3PT Jump Shot,,,,,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,362,4,0,3,8:52 PM,9:15,,,D. Green REBOUND (Off:0 Def:4),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,383,5,1,3,8:52 PM,9:12,G. Antetokounmpo STEAL (1 STL),,D. Green Bad Pass Turnover (P2.T8),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200410,385,1,2,3,8:52 PM,9:06,Allen 26' 3PT Running Jump Shot (9 PTS) (G. Antetokounmpo 4 AST),,,56 - 75,19,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200410,387,1,98,3,8:52 PM,8:56,,,Curry 2' Cutting Layup Shot (10 PTS) (D. Green 6 AST),58 - 75,17,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200410,365,2,1,3,8:52 PM,8:34,MISS G. Antetokounmpo 16' Jump Shot,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,366,4,0,3,8:53 PM,8:31,,,Curry REBOUND (Off:1 Def:3),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,367,2,1,3,8:53 PM,8:26,,,MISS D. Green 17' Jump Shot,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,368,4,0,3,8:53 PM,8:23,Lopez REBOUND (Off:0 Def:6),,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,369,1,6,3,8:53 PM,8:20,G. Antetokounmpo 4' Driving Layup (21 PTS),,,58 - 77,19,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,370,6,2,3,8:53 PM,8:20,,,Looney S.FOUL (P3.T2) (J.Capers),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200410,372,3,10,3,8:53 PM,8:20,MISS G. Antetokounmpo Free Throw 1 of 1,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,373,4,0,3,8:53 PM,8:17,G. Antetokounmpo REBOUND (Off:3 Def:6),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,374,6,1,3,8:54 PM,8:14,,,Poole P.FOUL (P1.T3) (B.Taylor),,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200410,376,2,79,3,8:54 PM,8:02,MISS Middleton 18' Pullup Jump Shot,,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,377,4,0,3,8:54 PM,7:59,,,D. Green REBOUND (Off:0 Def:5),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,378,2,57,3,8:54 PM,7:55,Lopez BLOCK (2 BLK),,MISS Poole 8' Driving Hook Shot,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,1
+0022200410,380,4,0,3,8:54 PM,7:52,Carter REBOUND (Off:1 Def:2),,,,,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,381,5,4,3,8:54 PM,7:52,G. Antetokounmpo Traveling Turnover (P2.T10),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0022200410,382,9,1,3,8:54 PM,7:52,,,Warriors Timeout: Regular (Reg.4 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200410,389,8,0,3,8:57 PM,7:52,,,SUB: Kuminga FOR Poole,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200410,390,8,0,3,8:57 PM,7:52,,,SUB: Lamb FOR Looney,,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200410,393,6,2,3,8:58 PM,7:40,Lopez S.FOUL (P2.T1) (R.Acosta),,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200410,395,3,11,3,8:58 PM,7:40,,,Kuminga Free Throw 1 of 2 (6 PTS),59 - 77,18,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,396,3,12,3,8:58 PM,7:40,,,MISS Kuminga Free Throw 2 of 2,,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,397,4,0,3,8:58 PM,7:35,Carter REBOUND (Off:1 Def:3),,,,,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,398,1,1,3,8:59 PM,7:22,Middleton 28' 3PT Jump Shot (15 PTS) (Allen 2 AST),,,59 - 80,21,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200410,400,2,1,3,8:59 PM,7:09,,,MISS Lamb 26' 3PT Jump Shot,,,5,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,401,4,0,3,8:59 PM,7:05,Middleton REBOUND (Off:0 Def:2),,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,402,2,1,3,8:59 PM,6:47,MISS G. Antetokounmpo 29' 3PT Jump Shot,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,403,4,0,3,8:59 PM,6:46,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200410,405,2,1,3,9:00 PM,6:35,,,MISS Thompson 30' 3PT Jump Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,406,4,0,3,9:00 PM,6:33,G. Antetokounmpo REBOUND (Off:3 Def:7),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,407,6,2,3,9:00 PM,6:30,,,Kuminga S.FOUL (P3.T4) (J.Capers),,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200410,409,9,1,3,9:01 PM,6:30,,,Warriors Timeout: Regular (Reg.5 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200410,410,6,11,3,9:01 PM,6:30,,,Iguodala T.FOUL (P0.T4) (B.Taylor),,,5,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022200410,411,18,4,3,9:01 PM,6:30,,Instant Replay3rd Period (9:01 PM EST),,59 - 80,21,0,407,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200410,701,8,0,3,9:03 PM,6:30,SUB: Portis FOR Lopez,,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200410,416,3,16,3,9:04 PM,6:30,Middleton Free Throw Technical (16 PTS),,,59 - 81,22,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,417,3,11,3,9:04 PM,6:30,G. Antetokounmpo Free Throw 1 of 2 (22 PTS),,,59 - 82,23,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,418,8,0,3,9:04 PM,6:30,SUB: Connaughton FOR Middleton,,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200410,420,3,12,3,9:04 PM,6:30,G. Antetokounmpo Free Throw 2 of 2 (23 PTS),,,59 - 83,24,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,421,5,1,3,9:05 PM,6:19,Connaughton STEAL (2 STL),,D. Green Bad Pass Turnover (P3.T9),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200410,423,1,79,3,9:05 PM,6:04,Carter 18' Pullup Jump Shot (4 PTS) (G. Antetokounmpo 5 AST),,,59 - 85,26,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200410,425,1,79,3,9:05 PM,5:51,,,Curry 27' 3PT Pullup Jump Shot (13 PTS) (D. Green 7 AST),62 - 85,23,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200410,439,2,1,3,9:06 PM,5:33,MISS G. Antetokounmpo 26' 3PT Jump Shot,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,440,4,0,3,9:06 PM,5:32,,,D. Green REBOUND (Off:0 Def:6),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,430,6,2,3,9:06 PM,5:19,Carter S.FOUL (P1.T2) (B.Taylor),,,,,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200410,432,3,13,3,9:06 PM,5:19,,,Curry Free Throw 1 of 3 (14 PTS),63 - 85,22,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,433,3,14,3,9:06 PM,5:19,,,Curry Free Throw 2 of 3 (15 PTS),64 - 85,21,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,441,3,15,3,9:06 PM,5:19,,,Curry Free Throw 3 of 3 (16 PTS),65 - 85,20,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,434,8,0,3,9:07 PM,5:19,SUB: Hill FOR Allen,,,,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200410,442,6,1,3,9:09 PM,5:06,,,D. Green P.FOUL (P2.PN) (J.Capers),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200410,446,3,11,3,9:10 PM,5:06,MISS G. Antetokounmpo Free Throw 1 of 2,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,447,4,1,3,9:10 PM,5:06,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200410,448,3,12,3,9:10 PM,5:06,MISS G. Antetokounmpo Free Throw 2 of 2,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,449,4,0,3,9:10 PM,5:06,,,Curry REBOUND (Off:1 Def:4),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,700,6,18,3,9:10 PM,5:06,BUCKS Delay,,,,,2,1610612749,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200410,483,3,16,3,9:10 PM,5:06,,,Curry Free Throw Technical (17 PTS),66 - 85,19,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,450,2,1,3,9:11 PM,4:51,,,MISS Curry 27' 3PT Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,451,4,0,3,9:11 PM,4:49,,,Curry REBOUND (Off:2 Def:4),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,452,2,78,3,9:11 PM,4:40,,,MISS Kuminga 11' Floating Jump Shot,,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,453,4,0,3,9:11 PM,4:37,G. Antetokounmpo REBOUND (Off:3 Def:8),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,454,1,6,3,9:11 PM,4:30,G. Antetokounmpo 4' Driving Layup (25 PTS),,,66 - 87,21,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,455,6,11,3,9:11 PM,4:18,,Mike Budenholzer Foul:T.FOUL (R.Acosta),,,,6,1371,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200410,456,3,16,3,9:12 PM,4:18,,,Curry Free Throw Technical (18 PTS),67 - 87,20,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,457,8,0,3,9:12 PM,4:18,SUB: Matthews FOR Carter,,,,,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,4,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200410,458,8,0,3,9:12 PM,4:18,,,SUB: DiVincenzo FOR Thompson,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200410,459,8,0,3,9:12 PM,4:18,,,SUB: J. Green FOR D. Green,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200410,463,6,1,3,9:12 PM,4:14,G. Antetokounmpo P.FOUL (P3.T3) (R.Acosta),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200410,465,8,0,3,9:13 PM,4:14,SUB: Lopez FOR G. Antetokounmpo,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200410,467,1,78,3,9:13 PM,4:07,,,Curry 15' Floating Jump Shot (20 PTS) (Lamb 2 AST),69 - 87,18,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200410,469,2,5,3,9:13 PM,3:47,MISS Portis 3' Layup,,Lamb BLOCK (1 BLK),,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,5,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,1
+0022200410,474,4,0,3,9:13 PM,3:47,,,J. Green REBOUND (Off:0 Def:1),,,5,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,471,2,76,3,9:13 PM,3:42,,,MISS DiVincenzo 3' Running Finger Roll Layup,,,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,472,4,0,3,9:13 PM,3:41,,,Lamb REBOUND (Off:1 Def:1),,,5,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,473,1,97,3,9:13 PM,3:41,,,Lamb Tip Layup Shot (8 PTS),71 - 87,16,5,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,475,6,26,3,9:13 PM,3:26,Connaughton Offensive Charge Foul (P2) (J.Capers),,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200410,477,5,37,3,9:13 PM,3:26,Connaughton Offensive Foul Turnover (P4.T11),,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0022200410,479,2,79,3,9:14 PM,3:13,,,MISS Curry 25' 3PT Pullup Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,480,4,0,3,9:14 PM,3:10,Lopez REBOUND (Off:0 Def:7),,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,481,6,2,3,9:14 PM,2:57,,,J. Green S.FOUL (P2.PN) (J.Capers),,,5,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200410,484,3,11,3,9:15 PM,2:57,Portis Free Throw 1 of 2 (15 PTS),,,71 - 88,17,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,486,3,12,3,9:15 PM,2:57,Portis Free Throw 2 of 2 (16 PTS),,,71 - 89,18,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,487,2,1,3,9:15 PM,2:49,,,MISS DiVincenzo 28' 3PT Jump Shot,,,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,488,4,0,3,9:15 PM,2:48,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200410,489,6,3,3,9:15 PM,2:48,,,Kuminga L.B.FOUL (P4.PN) (J.Capers),,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200410,491,3,11,3,9:16 PM,2:48,Connaughton Free Throw 1 of 2 (5 PTS),,,71 - 90,19,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,492,8,0,3,9:16 PM,2:48,,,SUB: Poole FOR Curry,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200410,494,3,12,3,9:16 PM,2:48,Connaughton Free Throw 2 of 2 (6 PTS),,,71 - 91,20,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,495,6,17,3,9:16 PM,2:37,BUCKS T.Foul (Def. 3 Sec Lopez ) (J.Capers),,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0022200410,496,3,16,3,9:17 PM,2:37,,,Poole Free Throw Technical (10 PTS),72 - 91,19,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,497,5,1,3,9:17 PM,2:32,Hill STEAL (1 STL),,J. Green Bad Pass Turnover (P1.T10),,,5,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200410,499,6,1,3,9:17 PM,2:31,,,J. Green P.FOUL (P3.PN) (B.Taylor),,,5,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200410,501,3,11,3,9:17 PM,2:31,Hill Free Throw 1 of 2 (4 PTS),,,72 - 92,20,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,502,3,12,3,9:18 PM,2:31,Hill Free Throw 2 of 2 (5 PTS),,,72 - 93,21,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,503,6,2,3,9:18 PM,2:22,Lopez S.FOUL (P3.T4) (B.Taylor),,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200410,505,3,11,3,9:18 PM,2:22,,,Poole Free Throw 1 of 2 (11 PTS),73 - 93,20,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,506,3,12,3,9:19 PM,2:22,,,Poole Free Throw 2 of 2 (12 PTS),74 - 93,19,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,507,2,1,3,9:19 PM,2:03,MISS Connaughton 3PT Jump Shot,,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,508,4,0,3,9:19 PM,2:01,Portis REBOUND (Off:4 Def:5),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,509,5,40,3,9:19 PM,2:00,Portis Out of Bounds Lost Ball Turnover (P1.T12),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0022200410,510,1,79,3,9:19 PM,1:49,,,Poole 27' 3PT Pullup Jump Shot (15 PTS),77 - 93,16,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,511,1,86,3,9:20 PM,1:26,Portis 12' Turnaround Fadeaway (18 PTS) (Lopez 2 AST),,,77 - 95,18,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200410,513,6,4,3,9:20 PM,1:14,,,J. Green OFF.Foul (P4) (B.Taylor),,,5,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,4,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200410,515,5,37,3,9:20 PM,1:14,,,J. Green Offensive Foul Turnover (P2.T11),,,5,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022200410,516,8,0,3,9:20 PM,1:14,SUB: Allen FOR Matthews,,,,,4,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200410,517,8,0,3,9:20 PM,1:14,SUB: Middleton FOR Connaughton,,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200410,520,5,1,3,9:21 PM,1:03,Hill Bad Pass Turnover (P2.T13),,Lamb STEAL (1 STL),,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,5,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200410,522,2,106,3,9:21 PM,1:01,,,MISS Kuminga 1' Running Alley Oop Dunk Shot,,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,523,4,0,3,9:21 PM,1:01,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200410,524,5,1,3,9:21 PM,0:43,Middleton Bad Pass Turnover (P2.T14),,DiVincenzo STEAL (1 STL),,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200410,526,5,4,3,9:21 PM,0:35,,,Poole Traveling Turnover (P3.T12),,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,527,9,1,3,9:21 PM,0:35,BUCKS Timeout: Regular (Full 3 Short 0),,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200410,528,2,1,3,9:23 PM,0:27,MISS Middleton 28' 3PT Jump Shot,,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,529,4,0,3,9:23 PM,0:23,,,DiVincenzo REBOUND (Off:2 Def:2),,,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,530,2,1,3,9:23 PM,0:06,,,MISS DiVincenzo 25' 3PT Jump Shot,,,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,531,4,0,3,9:24 PM,0:03,Hill REBOUND (Off:1 Def:4),,,,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,532,13,0,3,9:24 PM,0:00,,End of 3rd Period (9:24 PM EST),,77 - 95,18,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200410,537,12,0,4,9:27 PM,12:00,,Start of 4th Period (9:27 PM EST),,77 - 95,18,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200410,538,6,4,4,9:28 PM,11:45,Hill OFF.Foul (P1) (B.Taylor),,,,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200410,540,5,37,4,9:28 PM,11:45,Hill Offensive Foul Turnover (P3.T15),,,,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0022200410,541,2,1,4,9:28 PM,11:30,,,MISS J. Green 24' 3PT Jump Shot,,,5,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,542,4,0,4,9:28 PM,11:27,Middleton REBOUND (Off:0 Def:3),,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,543,6,2,4,9:28 PM,11:18,,,Kuminga S.FOUL (P5.T1) (J.Capers),,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200410,545,6,11,4,9:28 PM,11:18,,,Kuminga T.FOUL (P5.T1) (B.Taylor),,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022200410,546,3,16,4,9:29 PM,11:18,Middleton Free Throw Technical (17 PTS),,,77 - 96,19,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,547,3,11,4,9:29 PM,11:18,G. Antetokounmpo Free Throw 1 of 2 (26 PTS),,,77 - 97,20,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,548,3,12,4,9:30 PM,11:18,G. Antetokounmpo Free Throw 2 of 2 (27 PTS),,,77 - 98,21,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,549,2,1,4,9:30 PM,11:06,,,MISS Kuminga 28' 3PT Jump Shot,,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,550,4,0,4,9:30 PM,11:02,G. Antetokounmpo REBOUND (Off:3 Def:9),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,551,6,2,4,9:30 PM,10:52,,,Poole S.FOUL (P2.T2) (B.Taylor),,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200410,553,3,11,4,9:30 PM,10:52,Allen Free Throw 1 of 2 (10 PTS),,,77 - 99,22,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,554,3,12,4,9:31 PM,10:52,Allen Free Throw 2 of 2 (11 PTS),,,77 - 100,23,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,555,1,1,4,9:31 PM,10:38,,,J. Green 27' 3PT Jump Shot (3 PTS) (Thompson 2 AST),80 - 100,20,5,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200410,557,2,86,4,9:31 PM,10:13,MISS G. Antetokounmpo 12' Turnaround Fadeaway Shot,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,558,4,0,4,9:31 PM,10:11,,,J. Green REBOUND (Off:0 Def:2),,,5,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,559,1,41,4,9:31 PM,10:07,,,Kuminga 1' Running Layup (8 PTS),82 - 100,18,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,560,6,1,4,9:32 PM,9:52,,,J. Green P.FOUL (P5.T3) (B.Taylor),,,5,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200410,562,8,0,4,9:32 PM,9:52,,,SUB: Lamb FOR Kuminga,,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,5,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200410,564,1,6,4,9:32 PM,9:41,Allen 2' Driving Layup (13 PTS) (Hill 3 AST),,,82 - 102,20,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200410,566,2,1,4,9:33 PM,9:31,,,MISS Thompson 27' 3PT Jump Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,567,4,0,4,9:33 PM,9:29,,,Thompson REBOUND (Off:1 Def:0),,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,568,2,1,4,9:33 PM,9:28,,,MISS Thompson 14' Jump Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,569,4,0,4,9:33 PM,9:28,Middleton REBOUND (Off:0 Def:4),,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,570,2,1,4,9:33 PM,9:13,MISS Middleton 26' 3PT Jump Shot,,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,571,4,0,4,9:33 PM,9:10,,,DiVincenzo REBOUND (Off:2 Def:3),,,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,572,1,74,4,9:33 PM,9:07,,,Thompson 1' Running Reverse Layup (14 PTS) (DiVincenzo 1 AST),84 - 102,18,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200410,574,1,1,4,9:33 PM,8:46,Allen 29' 3PT Jump Shot (16 PTS) (Middleton 2 AST),,,84 - 105,21,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200410,576,6,1,4,9:33 PM,8:42,Allen P.FOUL (P1.T1) (B.Taylor),,,,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200410,578,8,0,4,9:34 PM,8:42,SUB: Carter FOR Hill,,,,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200410,580,8,0,4,9:34 PM,8:42,,,SUB: Moody FOR Thompson,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200410,582,2,1,4,9:34 PM,8:29,,,MISS J. Green 28' 3PT Jump Shot,,,5,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,583,4,0,4,9:34 PM,8:25,Portis REBOUND (Off:4 Def:6),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,584,6,4,4,9:34 PM,8:19,G. Antetokounmpo OFF.Foul (P4) (J.Capers),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200410,586,5,37,4,9:34 PM,8:19,G. Antetokounmpo Offensive Foul Turnover (P3.T16),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0022200410,587,6,4,4,9:35 PM,8:14,,,J. Green OFF.Foul (P6) (B.Taylor),,,5,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200410,589,5,37,4,9:35 PM,8:14,,,J. Green Offensive Foul Turnover (P3.T13),,,5,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022200410,590,8,0,4,9:35 PM,8:14,,,SUB: Baldwin Jr. FOR J. Green,,,5,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,5,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200410,592,2,79,4,9:35 PM,7:59,MISS G. Antetokounmpo 18' Pullup Jump Shot,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,593,4,0,4,9:35 PM,7:56,,,DiVincenzo REBOUND (Off:2 Def:4),,,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,594,5,45,4,9:35 PM,7:53,,,DiVincenzo Out of Bounds - Bad Pass Turnover Turnover (P2.T14),,,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022200410,595,5,40,4,9:36 PM,7:43,G. Antetokounmpo Out of Bounds Lost Ball Turnover (P4.T17),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0022200410,596,8,0,4,9:36 PM,7:43,SUB: Connaughton FOR Middleton,,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200410,598,5,40,4,9:36 PM,7:34,,,Poole Out of Bounds Lost Ball Turnover (P4.T15),,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022200410,599,1,79,4,9:37 PM,7:12,G. Antetokounmpo 27' 3PT Pullup Jump Shot (30 PTS) (Carter 1 AST),,,84 - 108,24,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200410,601,1,1,4,9:37 PM,7:01,,,Poole 29' 3PT Jump Shot (18 PTS) (DiVincenzo 2 AST),87 - 108,21,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200410,603,5,1,4,9:37 PM,6:45,Allen Bad Pass Turnover (P1.T18),,Lamb STEAL (2 STL),,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,5,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200410,605,5,1,4,9:37 PM,6:41,Carter STEAL (2 STL),,Lamb Bad Pass Turnover (P1.T16),,,5,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200410,607,6,1,4,9:37 PM,6:33,,,Moody P.FOUL (P2.T4) (B.Taylor),,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200410,609,9,1,4,9:37 PM,6:33,BUCKS Timeout: Regular (Full 4 Short 0),,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200410,610,8,0,4,9:40 PM,6:33,SUB: Lopez FOR Allen,,,,,4,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200410,611,8,0,4,9:40 PM,6:33,SUB: Middleton FOR G. Antetokounmpo,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200410,612,8,0,4,9:40 PM,6:33,,,SUB: Kuminga FOR Poole,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200410,617,2,79,4,9:42 PM,6:18,MISS Portis 3PT Pullup Jump Shot,,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,618,4,0,4,9:42 PM,6:18,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200410,620,5,1,4,9:42 PM,6:06,Carter STEAL (3 STL),,DiVincenzo Bad Pass Turnover (P3.T17),,,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200410,622,1,41,4,9:42 PM,5:59,Portis 2' Running Layup (20 PTS) (Carter 2 AST),,,87 - 110,23,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200410,624,6,2,4,9:42 PM,5:45,Lopez S.FOUL (P4.T2) (R.Acosta),,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200410,626,3,11,4,9:43 PM,5:45,,,Kuminga Free Throw 1 of 2 (9 PTS),88 - 110,22,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0022200410,627,3,12,4,9:43 PM,5:45,,,Kuminga Free Throw 2 of 2 (10 PTS),89 - 110,21,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,628,1,1,4,9:43 PM,5:31,Connaughton 3PT Jump Shot (9 PTS) (Carter 3 AST),,,89 - 113,24,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200410,630,1,1,4,9:43 PM,5:18,,,Baldwin Jr. 27' 3PT Jump Shot (3 PTS) (Kuminga 2 AST),92 - 113,21,5,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200410,632,5,13,4,9:44 PM,4:58,Lopez Backcourt Turnover (P1.T19),,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0022200410,633,8,0,4,9:44 PM,4:58,SUB: Beauchamp FOR Connaughton,,,,,4,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,4,1630699,MarJon Beauchamp,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200410,635,2,1,4,9:44 PM,4:52,,,MISS DiVincenzo 29' 3PT Jump Shot,,,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,636,4,0,4,9:44 PM,4:50,,,Moody REBOUND (Off:1 Def:0),,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,637,1,1,4,9:44 PM,4:47,,,Kuminga 26' 3PT Jump Shot (13 PTS) (Lamb 3 AST),95 - 113,18,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,5,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200410,639,5,1,4,9:45 PM,4:32,Middleton Bad Pass Turnover (P3.T20),,DiVincenzo STEAL (2 STL),,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200410,641,6,2,4,9:45 PM,4:31,Middleton S.FOUL (P2.T3) (B.Taylor),,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200410,643,3,11,4,9:45 PM,4:31,,,MISS Kuminga Free Throw 1 of 2,,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,644,4,1,4,9:45 PM,4:31,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200410,645,3,12,4,9:45 PM,4:31,,,Kuminga Free Throw 2 of 2 (14 PTS),96 - 113,17,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,646,1,1,4,9:46 PM,4:15,Middleton 28' 3PT Jump Shot (20 PTS),,,96 - 116,20,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,647,1,1,4,9:46 PM,4:01,,,Baldwin Jr. 24' 3PT Jump Shot (6 PTS) (Moody 2 AST),99 - 116,17,5,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200410,649,1,1,4,9:46 PM,3:48,Portis 27' 3PT Jump Shot (23 PTS) (Middleton 3 AST),,,99 - 119,20,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200410,651,1,1,4,9:46 PM,3:31,,,DiVincenzo 3PT Jump Shot (12 PTS) (Kuminga 3 AST),102 - 119,17,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200410,653,1,86,4,9:47 PM,3:15,Portis 17' Turnaround Fadeaway (25 PTS),,,102 - 121,19,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,654,2,1,4,9:47 PM,3:00,,,MISS Baldwin Jr. 24' 3PT Jump Shot,,,5,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,655,4,0,4,9:47 PM,2:57,Portis REBOUND (Off:4 Def:7),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,656,9,1,4,9:47 PM,2:53,BUCKS Timeout: Regular (Full 5 Short 0),,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200410,657,8,0,4,9:50 PM,2:53,SUB: Nwora FOR Carter,,,,,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,4,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200410,658,8,0,4,9:50 PM,2:53,SUB: Matthews FOR Portis,,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,4,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200410,659,8,0,4,9:50 PM,2:53,SUB: T. Antetokounmpo FOR Lopez,,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,203648,Thanasis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200410,660,8,0,4,9:50 PM,2:53,SUB: Green FOR Middleton,,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,1631260,AJ Green,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200410,665,5,4,4,9:51 PM,2:51,T. Antetokounmpo Traveling Turnover (P1.T21),,,,,4,203648,Thanasis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0022200410,667,1,6,4,9:51 PM,2:33,,,Kuminga 2' Driving Layup (16 PTS),104 - 121,17,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,668,1,1,4,9:51 PM,2:21,Beauchamp 28' 3PT Jump Shot (3 PTS) (Green 1 AST),,,104 - 124,20,4,1630699,MarJon Beauchamp,1610612749.0,Milwaukee,Bucks,MIL,4,1631260,AJ Green,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200410,670,6,2,4,9:51 PM,2:14,Beauchamp S.FOUL (P1.T4) (R.Acosta),,,,,4,1630699,MarJon Beauchamp,1610612749.0,Milwaukee,Bucks,MIL,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200410,672,3,11,4,9:52 PM,2:14,,,DiVincenzo Free Throw 1 of 2 (13 PTS),105 - 124,19,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,673,3,12,4,9:52 PM,2:14,,,MISS DiVincenzo Free Throw 2 of 2,,,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,674,4,0,4,9:52 PM,2:11,Nwora REBOUND (Off:0 Def:1),,,,,4,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,675,2,6,4,9:52 PM,2:01,MISS Beauchamp 1' Driving Layup,,,,,4,1630699,MarJon Beauchamp,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,676,4,0,4,9:52 PM,1:59,Beauchamp REBOUND (Off:1 Def:0),,,,,4,1630699,MarJon Beauchamp,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,677,2,72,4,9:52 PM,1:58,MISS Beauchamp 2' Putback Layup,,,,,4,1630699,MarJon Beauchamp,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,678,4,0,4,9:52 PM,1:57,Beauchamp REBOUND (Off:2 Def:0),,,,,4,1630699,MarJon Beauchamp,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,679,2,72,4,9:52 PM,1:56,MISS Beauchamp Putback Layup,,,,,4,1630699,MarJon Beauchamp,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,680,4,0,4,9:52 PM,1:55,,,DiVincenzo REBOUND (Off:2 Def:5),,,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,681,2,1,4,9:52 PM,1:48,,,MISS DiVincenzo 28' 3PT Jump Shot,,,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,682,4,0,4,9:52 PM,1:44,Matthews REBOUND (Off:0 Def:1),,,,,4,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,702,5,1,4,9:52 PM,1:35,Beauchamp Bad Pass Turnover (P1.T22),,Kuminga STEAL (1 STL),,,4,1630699,MarJon Beauchamp,1610612749.0,Milwaukee,Bucks,MIL,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200410,704,5,1,4,9:53 PM,1:33,Matthews STEAL (1 STL),,Kuminga Bad Pass Turnover (P1.T18),,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,4,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200410,683,1,5,4,9:53 PM,1:30,T. Antetokounmpo 1' Layup (2 PTS) (Matthews 1 AST),,,105 - 126,21,4,203648,Thanasis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200410,685,1,1,4,9:53 PM,1:19,,,Kuminga 24' 3PT Jump Shot (19 PTS) (Moody 3 AST),108 - 126,18,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200410,687,2,1,4,9:53 PM,1:06,MISS Green 26' 3PT Jump Shot,,,,,4,1631260,AJ Green,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,688,4,0,4,9:53 PM,1:04,,,Lamb REBOUND (Off:1 Def:2),,,5,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,689,2,73,4,9:53 PM,0:57,,,MISS Moody 2' Driving Reverse Layup,,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,690,4,0,4,9:53 PM,0:55,Beauchamp REBOUND (Off:2 Def:1),,,,,4,1630699,MarJon Beauchamp,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200410,691,1,101,4,9:54 PM,0:39,Green 14' Driving Floating Jump Shot (2 PTS) (T. Antetokounmpo 1 AST),,,108 - 128,20,4,1631260,AJ Green,1610612749.0,Milwaukee,Bucks,MIL,4,203648,Thanasis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200410,693,1,101,4,9:54 PM,0:32,,,DiVincenzo 11' Driving Floating Jump Shot (15 PTS),110 - 128,18,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,694,6,2,4,9:54 PM,0:32,Green S.FOUL (P1.PN) (B.Taylor),,,,,4,1631260,AJ Green,1610612749.0,Milwaukee,Bucks,MIL,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200410,696,3,10,4,9:54 PM,0:32,,,DiVincenzo Free Throw 1 of 1 (16 PTS),111 - 128,17,5,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200410,697,5,11,4,9:55 PM,0:08,BUCKS Turnover: Shot Clock (T#23),,,,,2,1610612749,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200410,698,13,0,4,9:55 PM,0:00,,End of 4th Period (9:55 PM EST),,111 - 128,17,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

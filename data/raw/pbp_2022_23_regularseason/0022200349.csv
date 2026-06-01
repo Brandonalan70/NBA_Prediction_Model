@@ -1,0 +1,482 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200349,2,12,0,1,6:11 PM,12:00,,Start of 1st Period (6:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200349,4,10,0,1,6:11 PM,12:00,Jump Ball Porzingis vs. Davis: Tip to Morris,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,1
+0022200349,7,2,1,1,6:11 PM,11:51,MISS Avdija 26' 3PT Jump Shot,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,8,4,0,1,6:11 PM,11:48,,,Davis REBOUND (Off:0 Def:1),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,9,6,2,1,6:12 PM,11:37,Kuzma S.FOUL (P1.T1) (C.Blair),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200349,13,3,11,1,6:12 PM,11:37,,,Walker IV Free Throw 1 of 2 (1 PTS),1 - 0,-1,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,14,3,12,1,6:12 PM,11:37,,,Walker IV Free Throw 2 of 2 (2 PTS),2 - 0,-2,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,15,2,1,1,6:13 PM,11:21,MISS Kuzma 24' 3PT Jump Shot,,Beverley BLOCK (1 BLK),,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,1
+0022200349,17,4,0,1,6:13 PM,11:21,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200349,20,1,79,1,6:14 PM,11:18,Beal 19' Pullup Jump Shot (2 PTS) (Porzingis 1 AST),,,2 - 2,TIE,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200349,22,1,66,1,6:14 PM,10:59,,,Davis 13' Jump Bank Shot (2 PTS) (Schroder 1 AST),4 - 2,-2,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200349,24,1,75,1,6:14 PM,10:47,Avdija 1' Driving Finger Roll Layup (2 PTS) (Morris 1 AST),,,4 - 4,TIE,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200349,26,1,1,1,6:15 PM,10:37,,,Walker IV 24' 3PT Jump Shot (5 PTS) (Schroder 2 AST),7 - 4,-3,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200349,28,2,1,1,6:15 PM,10:25,MISS Morris 28' 3PT Jump Shot,,,,,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,29,4,0,1,6:15 PM,10:22,,,Davis REBOUND (Off:0 Def:2),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,30,1,1,1,6:15 PM,10:18,,,James 25' 3PT Jump Shot (3 PTS) (Schroder 3 AST),10 - 4,-6,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200349,32,6,26,1,6:15 PM,10:10,Kuzma Offensive Charge Foul (P2) (S.Twardoski),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200349,34,5,37,1,6:15 PM,10:10,Kuzma Offensive Foul Turnover (P1.T1),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022200349,35,2,6,1,6:16 PM,9:56,,,MISS Walker IV 6' Driving Layup,,,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,37,4,0,1,6:16 PM,9:54,Porzingis REBOUND (Off:0 Def:1),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,38,1,57,1,6:16 PM,9:50,Kuzma 4' Driving Hook Shot (2 PTS),,,10 - 6,-4,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,39,5,1,1,6:16 PM,9:46,Morris STEAL (1 STL),,James Bad Pass Turnover (P1.T1),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200349,41,1,1,1,6:16 PM,9:41,Morris 25' 3PT Jump Shot (3 PTS),,,10 - 9,-1,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,42,2,6,1,6:16 PM,9:19,,,MISS Davis 5' Driving Layup,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,43,4,0,1,6:16 PM,9:15,Porzingis REBOUND (Off:0 Def:2),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,44,5,1,1,6:16 PM,9:13,Morris Bad Pass Turnover (P1.T2),,Walker IV STEAL (1 STL),,,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200349,46,2,58,1,6:17 PM,9:01,,,MISS Davis 11' Turnaround Hook Shot,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,47,4,0,1,6:17 PM,8:59,Beal REBOUND (Off:0 Def:1),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,49,2,1,1,6:17 PM,8:42,MISS Avdija 3PT Jump Shot,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0022200349,50,4,0,1,6:17 PM,8:41,,,James REBOUND (Off:0 Def:1),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0022200349,51,2,1,1,6:17 PM,8:32,,,MISS Beverley 28' 3PT Jump Shot,,,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,52,4,0,1,6:17 PM,8:31,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200349,54,8,0,1,6:18 PM,8:31,SUB: Kispert FOR Beal,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200349,56,2,1,1,6:18 PM,8:19,MISS Porzingis 27' 3PT Jump Shot,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,57,4,0,1,6:18 PM,8:17,,,James REBOUND (Off:0 Def:2),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,58,2,80,1,6:18 PM,8:12,,,MISS James 26' 3PT Step Back Jump Shot,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,59,4,0,1,6:18 PM,8:09,,,Davis REBOUND (Off:1 Def:2),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,60,2,58,1,6:18 PM,8:06,,,MISS Davis 10' Turnaround Hook Shot,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,61,4,0,1,6:18 PM,8:04,Avdija REBOUND (Off:0 Def:1),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,63,1,57,1,6:19 PM,7:50,Kuzma 7' Driving Hook Shot (4 PTS),,,10 - 11,1,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,64,2,1,1,6:19 PM,7:37,,,MISS Davis 26' 3PT Jump Shot,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,65,4,0,1,6:19 PM,7:32,Avdija REBOUND (Off:0 Def:2),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,66,1,79,1,6:19 PM,7:21,Morris 17' Pullup Jump Shot (5 PTS),,,10 - 13,3,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,67,5,1,1,6:20 PM,7:05,Avdija STEAL (1 STL),,James Bad Pass Turnover (P2.T2),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200349,69,6,2,1,6:20 PM,7:01,,,Beverley S.FOUL (P1.T1) (B.Schwab),,,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200349,71,6,11,1,6:20 PM,7:01,,,Beverley T.FOUL (P1.T1) (B.Schwab),,,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,0
+0022200349,72,3,16,1,6:20 PM,7:01,MISS Porzingis Free Throw Technical,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,73,4,1,1,6:20 PM,7:01,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200349,74,8,0,1,6:20 PM,7:01,,,SUB: Westbrook FOR Beverley,,,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200349,76,3,11,1,6:21 PM,7:01,Kuzma Free Throw 1 of 2 (5 PTS),,,10 - 14,4,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,77,3,12,1,6:21 PM,7:01,Kuzma Free Throw 2 of 2 (6 PTS),,,10 - 15,5,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,78,2,6,1,6:21 PM,6:53,Avdija BLOCK (1 BLK),,MISS Westbrook 6' Driving Layup,,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,1
+0022200349,80,4,0,1,6:21 PM,6:53,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200349,82,9,1,1,6:21 PM,6:53,WIZARDS Timeout: Regular (Full 1 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200349,83,1,98,1,6:24 PM,6:41,,,James 2' Cutting Layup Shot (5 PTS) (Westbrook 1 AST),12 - 15,3,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200349,85,5,4,1,6:25 PM,6:26,Kuzma Traveling Turnover (P2.T3),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022200349,86,1,86,1,6:25 PM,6:12,,,James 10' Turnaround Fadeaway (7 PTS),14 - 15,1,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,87,2,1,1,6:25 PM,5:59,MISS Avdija 28' 3PT Jump Shot,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,88,4,0,1,6:25 PM,5:57,,,Schroder REBOUND (Off:0 Def:1),,,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,90,1,98,1,6:26 PM,5:49,,,James 2' Cutting Layup Shot (9 PTS) (Westbrook 2 AST),16 - 15,-1,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200349,92,2,102,1,6:26 PM,5:37,MISS Kuzma 8' Driving Floating Bank Jump Shot,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,93,4,0,1,6:26 PM,5:35,,,Davis REBOUND (Off:1 Def:3),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,94,1,57,1,6:26 PM,5:28,,,Davis 5' Driving Hook Shot (4 PTS),18 - 15,-3,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,95,2,1,1,6:26 PM,5:14,MISS Avdija 26' 3PT Jump Shot,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,96,4,0,1,6:26 PM,5:12,,,Westbrook REBOUND (Off:0 Def:1),,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,97,2,5,1,6:26 PM,5:07,,,MISS James 2' Layup,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,98,4,0,1,6:26 PM,5:03,Avdija REBOUND (Off:0 Def:3),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,99,2,79,1,6:27 PM,4:59,MISS Morris 26' 3PT Pullup Jump Shot,,,,,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,100,4,0,1,6:27 PM,4:55,,,Davis REBOUND (Off:1 Def:4),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,101,2,1,1,6:27 PM,4:53,,,MISS James 28' 3PT Jump Shot,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,102,4,0,1,6:27 PM,4:51,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200349,103,6,3,1,6:27 PM,4:51,Avdija L.B.FOUL (P1.T2) (C.Blair),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200349,105,8,0,1,6:27 PM,4:51,SUB: Goodwin FOR Morris,,,,,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200349,106,8,0,1,6:27 PM,4:51,SUB: Gill FOR Kuzma,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200349,107,8,0,1,6:27 PM,4:51,,,SUB: Reaves FOR James,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200349,108,8,0,1,6:27 PM,4:51,,,SUB: Brown Jr. FOR Schroder,,,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,5,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200349,113,2,80,1,6:27 PM,4:38,,,MISS Westbrook 3PT Step Back Jump Shot,,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,114,4,0,1,6:27 PM,4:35,Porzingis REBOUND (Off:0 Def:3),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,115,2,1,1,6:28 PM,4:28,MISS Avdija 3PT Jump Shot,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,116,4,0,1,6:28 PM,4:24,,,Reaves REBOUND (Off:0 Def:1),,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,117,2,6,1,6:28 PM,4:19,,,MISS Walker IV 6' Driving Layup,,,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,118,4,0,1,6:28 PM,4:17,Avdija REBOUND (Off:0 Def:4),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,119,1,101,1,6:28 PM,4:13,Kispert 7' Driving Floating Jump Shot (2 PTS) (Avdija 1 AST),,,18 - 17,-1,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200349,121,1,1,1,6:28 PM,3:55,,,Brown Jr. 26' 3PT Jump Shot (3 PTS) (Westbrook 3 AST),21 - 17,-4,5,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200349,123,2,1,1,6:28 PM,3:43,MISS Kispert 29' 3PT Jump Shot,,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,124,4,0,1,6:28 PM,3:40,,,Westbrook REBOUND (Off:0 Def:2),,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,125,1,101,1,6:28 PM,3:34,,,Davis 8' Driving Floating Jump Shot (6 PTS) (Westbrook 4 AST),23 - 17,-6,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200349,127,6,2,1,6:28 PM,3:34,Porzingis S.FOUL (P1.T3) (B.Schwab),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200349,129,8,0,1,6:29 PM,3:34,SUB: Barton FOR Avdija,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,4,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200349,130,8,0,1,6:29 PM,3:34,,,SUB: Gabriel FOR Walker IV,,,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,5,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200349,133,3,10,1,6:29 PM,3:34,,,Davis Free Throw 1 of 1 (7 PTS),24 - 17,-7,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,134,2,1,1,6:29 PM,3:22,MISS Porzingis 26' 3PT Jump Shot,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,135,4,0,1,6:29 PM,3:19,,,Davis REBOUND (Off:1 Def:5),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,136,1,6,1,6:30 PM,3:15,,,Davis 5' Driving Layup (9 PTS),26 - 17,-9,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,137,6,2,1,6:30 PM,3:15,Kispert S.FOUL (P1.T4) (C.Blair),,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200349,139,9,1,1,6:30 PM,3:15,WIZARDS Timeout: Regular (Full 2 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200349,140,3,10,1,6:33 PM,3:15,,,Davis Free Throw 1 of 1 (10 PTS),27 - 17,-10,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,141,1,78,1,6:33 PM,2:58,Porzingis 13' Floating Jump Shot (2 PTS),,,27 - 19,-8,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,142,5,2,1,6:33 PM,2:44,Porzingis STEAL (1 STL),,Westbrook Lost Ball Turnover (P1.T3),,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200349,144,6,1,1,6:34 PM,2:36,,,Brown Jr. P.FOUL (P1.T2) (C.Blair),,,5,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200349,146,8,0,1,6:34 PM,2:36,,,SUB: Bryant FOR Davis,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200349,148,6,1,1,6:34 PM,2:33,,,Gabriel P.FOUL (P1.T3) (C.Blair),,,5,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200349,150,8,0,1,6:34 PM,2:33,SUB: Gafford FOR Gill,,,,,4,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200349,152,1,1,1,6:34 PM,2:28,Kispert 27' 3PT Jump Shot (5 PTS) (Goodwin 1 AST),,,27 - 22,-5,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200349,154,1,79,1,6:35 PM,2:09,,,Westbrook 22' Pullup Jump Shot (2 PTS),29 - 22,-7,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,155,2,6,1,6:35 PM,1:47,MISS Goodwin 1' Driving Layup,,,,,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,156,4,0,1,6:35 PM,1:45,Goodwin REBOUND (Off:1 Def:0),,,,,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,157,2,97,1,6:35 PM,1:45,MISS Goodwin 3' Tip Layup Shot,,,,,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,158,4,0,1,6:35 PM,1:45,Goodwin REBOUND (Off:2 Def:0),,,,,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,159,6,1,1,6:35 PM,1:40,,,Gabriel P.FOUL (P2.T4) (S.Twardoski),,,5,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200349,161,2,78,1,6:36 PM,1:34,MISS Goodwin 2' Floating Jump Shot,,,,,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,162,4,0,1,6:36 PM,1:32,,,Bryant REBOUND (Off:0 Def:1),,,5,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,163,1,86,1,6:36 PM,1:25,,,Westbrook 14' Turnaround Fadeaway (4 PTS),31 - 22,-9,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,164,2,80,1,6:36 PM,1:13,MISS Barton 26' 3PT Step Back Jump Shot,,,,,4,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,165,4,0,1,6:36 PM,1:11,,,Reaves REBOUND (Off:0 Def:2),,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,166,1,98,1,6:36 PM,0:54,,,Bryant 4' Cutting Layup Shot (2 PTS) (Westbrook 5 AST),33 - 22,-11,5,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200349,168,1,80,1,6:37 PM,0:41,Porzingis 14' Step Back Jump Shot (4 PTS) (Barton 1 AST),,,33 - 24,-9,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,4,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200349,170,2,1,1,6:37 PM,0:34,,,MISS Gabriel 26' 3PT Jump Shot,,,5,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,171,4,0,1,6:37 PM,0:31,Porzingis REBOUND (Off:0 Def:4),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,172,1,1,1,6:37 PM,0:12,Goodwin 25' 3PT Jump Shot (3 PTS) (Barton 2 AST),,,33 - 27,-6,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,4,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200349,174,2,79,1,6:37 PM,0:00,,,MISS Westbrook 22' Pullup Jump Shot,,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,175,4,0,1,6:37 PM,0:00,Gafford REBOUND (Off:0 Def:1),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,176,13,0,1,6:38 PM,0:00,,End of 1st Period (6:38 PM EST),,33 - 27,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200349,185,12,0,2,6:40 PM,12:00,,Start of 2nd Period (6:40 PM EST),,33 - 27,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200349,186,6,1,2,6:40 PM,11:50,Goodwin P.FOUL (P1.T1) (S.Twardoski),,,,,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,5,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200349,190,1,1,2,6:41 PM,11:45,,,Brown Jr. 3PT Jump Shot (6 PTS) (Schroder 4 AST),36 - 27,-9,5,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200349,192,1,52,2,6:41 PM,11:28,Gafford 7' Alley Oop Dunk (2 PTS) (Kuzma 1 AST),,,36 - 29,-7,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200349,194,2,6,2,6:41 PM,11:10,Goodwin BLOCK (1 BLK),,MISS Schroder 7' Driving Layup,,,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,1
+0022200349,196,4,0,2,6:41 PM,11:08,Barton REBOUND (Off:0 Def:1),,,,,4,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,197,5,2,2,6:41 PM,11:05,Kuzma Lost Ball Turnover (P3.T4),,Schroder STEAL (1 STL),,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200349,199,2,6,2,6:42 PM,10:59,Barton BLOCK (1 BLK),,MISS Brown Jr. 6' Driving Layup,,,5,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,4,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,1
+0022200349,201,4,0,2,6:42 PM,10:59,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200349,203,1,1,2,6:42 PM,10:50,,,James 30' 3PT Jump Shot (12 PTS) (Brown Jr. 1 AST),39 - 29,-10,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200349,205,2,1,2,6:42 PM,10:33,MISS Barton 26' 3PT Jump Shot,,,,,4,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,206,4,0,2,6:42 PM,10:30,,,Bryant REBOUND (Off:0 Def:2),,,5,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,207,1,6,2,6:42 PM,10:28,,,Reaves 3' Driving Layup (2 PTS) (James 1 AST),41 - 29,-12,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200349,209,6,2,2,6:42 PM,10:28,Goodwin S.FOUL (P2.T2) (C.Blair),,,,,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200349,211,3,10,2,6:43 PM,10:28,,,Reaves Free Throw 1 of 1 (3 PTS),42 - 29,-13,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0022200349,212,1,3,2,6:43 PM,10:07,Gafford 6' Hook Shot (4 PTS) (Morris 2 AST),,,42 - 31,-11,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200349,213,2,1,2,6:43 PM,9:52,,,MISS Bryant 16' Jump Shot,,,5,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,214,4,0,2,6:44 PM,9:43,Goodwin REBOUND (Off:2 Def:1),,,,,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,215,2,1,2,6:44 PM,9:40,MISS Kuzma 28' 3PT Jump Shot,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,216,4,0,2,6:44 PM,9:37,,,Bryant REBOUND (Off:0 Def:3),,,5,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,218,1,79,2,6:44 PM,9:28,,,Schroder 17' Pullup Jump Shot (2 PTS),44 - 31,-13,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,220,1,67,2,6:44 PM,9:01,Gafford 5' Hook Bank Shot (6 PTS),,,44 - 33,-11,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,221,2,1,2,6:44 PM,8:50,,,MISS James 27' 3PT Jump Shot,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,222,4,0,2,6:44 PM,8:47,Goodwin REBOUND (Off:2 Def:2),,,,,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,223,2,80,2,6:45 PM,8:39,MISS Morris 15' Step Back Jump Shot,,,,,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,224,4,0,2,6:45 PM,8:35,,,Bryant REBOUND (Off:0 Def:4),,,5,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,225,6,1,2,6:45 PM,8:30,Morris P.FOUL (P1.T3) (S.Twardoski),,,,,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200349,227,8,0,2,6:45 PM,8:30,SUB: Avdija FOR Goodwin,,,,,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200349,229,6,4,2,6:45 PM,8:23,,,James OFF.Foul (P1) (S.Twardoski),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200349,231,5,37,2,6:45 PM,8:23,,,James Offensive Foul Turnover (P3.T4),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0022200349,232,2,1,2,6:46 PM,8:17,MISS Barton 28' 3PT Jump Shot,,,,,4,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,233,4,0,2,6:46 PM,8:14,Avdija REBOUND (Off:1 Def:4),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,234,1,7,2,6:46 PM,8:06,Gafford 3' Dunk (8 PTS) (Kuzma 2 AST),,,44 - 35,-9,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200349,236,6,2,2,6:46 PM,7:47,Gafford S.FOUL (P1.T4) (B.Schwab),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200349,238,3,11,2,6:47 PM,7:47,,,MISS Bryant Free Throw 1 of 2,,,5,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0022200349,239,4,1,2,6:47 PM,7:47,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200349,242,3,12,2,6:47 PM,7:47,,,MISS Bryant Free Throw 2 of 2,,,5,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0022200349,240,8,0,2,6:47 PM,7:47,,,SUB: Beverley FOR Reaves,,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200349,243,4,0,2,6:47 PM,7:44,,,Beverley REBOUND (Off:1 Def:0),,,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0022200349,244,2,5,2,6:47 PM,7:34,Gafford BLOCK (1 BLK),,MISS Bryant 8' Layup,,,5,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1
+0022200349,246,4,0,2,6:47 PM,7:30,,,Bryant REBOUND (Off:1 Def:4),,,5,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,247,1,7,2,6:47 PM,7:29,,,Bryant 4' Dunk (4 PTS),46 - 35,-11,5,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,248,2,1,2,6:47 PM,7:16,MISS Kuzma 24' 3PT Jump Shot,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,249,4,0,2,6:47 PM,7:14,Kuzma REBOUND (Off:1 Def:0),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,250,6,4,2,6:48 PM,7:14,Kuzma OFF.Foul (P3) (C.Blair),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200349,252,5,37,2,6:48 PM,7:14,Kuzma Offensive Foul Turnover (P4.T5),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022200349,253,8,0,2,6:48 PM,7:14,,,SUB: Davis FOR Bryant,,,5,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200349,255,8,0,2,6:48 PM,7:14,SUB: Kispert FOR Kuzma,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200349,257,1,52,2,6:48 PM,7:01,,,Davis 3' Alley Oop Dunk (12 PTS) (James 2 AST),48 - 35,-13,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200349,259,2,5,2,6:49 PM,6:32,MISS Gafford 6' Layup,,Davis BLOCK (1 BLK),,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1
+0022200349,261,4,0,2,6:49 PM,6:28,,,Davis REBOUND (Off:1 Def:6),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,262,1,78,2,6:49 PM,6:09,,,Davis 9' Floating Jump Shot (14 PTS) (Schroder 5 AST),50 - 35,-15,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200349,264,2,79,2,6:49 PM,5:45,MISS Morris 14' Pullup Jump Shot,,,,,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,265,4,0,2,6:50 PM,5:41,,,Schroder REBOUND (Off:0 Def:2),,,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,266,6,2,2,6:50 PM,5:29,Kispert S.FOUL (P2.PN) (C.Blair),,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200349,268,9,1,2,6:50 PM,5:29,WIZARDS Timeout: Regular (Full 3 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200349,269,8,0,2,6:50 PM,5:29,SUB: Porzingis FOR Gafford,,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200349,270,8,0,2,6:50 PM,5:29,,,SUB: Reaves FOR James,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200349,271,8,0,2,6:50 PM,5:29,,,SUB: Walker IV FOR Brown Jr.,,,5,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200349,272,8,0,2,6:50 PM,5:29,,,SUB: Westbrook FOR Schroder,,,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200349,277,3,11,2,6:53 PM,5:29,,,Davis Free Throw 1 of 2 (15 PTS),51 - 35,-16,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,278,3,12,2,6:53 PM,5:29,,,Davis Free Throw 2 of 2 (16 PTS),52 - 35,-17,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,279,1,1,2,6:54 PM,5:15,Kispert 24' 3PT Jump Shot (8 PTS) (Porzingis 2 AST),,,52 - 38,-14,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200349,281,1,80,2,6:54 PM,4:52,,,Davis 13' Step Back Jump Shot (18 PTS),54 - 38,-16,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,282,2,47,2,6:54 PM,4:35,MISS Porzingis 17' Turnaround Jump Shot,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,283,4,0,2,6:54 PM,4:33,,,Reaves REBOUND (Off:0 Def:3),,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,284,2,6,2,6:55 PM,4:19,,,MISS Westbrook 4' Driving Layup,,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,285,4,0,2,6:55 PM,4:17,Avdija REBOUND (Off:1 Def:5),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,286,2,1,2,6:55 PM,4:11,MISS Porzingis 26' 3PT Jump Shot,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,287,4,0,2,6:55 PM,4:08,,,Davis REBOUND (Off:1 Def:7),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,288,2,57,2,6:55 PM,4:00,,,MISS Davis 6' Driving Hook Shot,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,289,4,0,2,6:55 PM,3:58,Porzingis REBOUND (Off:0 Def:5),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,290,1,6,2,6:55 PM,3:53,Morris 2' Driving Layup (7 PTS),,,54 - 40,-14,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,291,9,1,2,6:55 PM,3:53,,,Lakers Timeout: Regular (Reg.1 Short 0),,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200349,292,1,79,2,6:58 PM,3:36,,,Walker IV 18' Pullup Jump Shot (7 PTS),56 - 40,-16,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,293,2,79,2,6:59 PM,3:18,MISS Morris 19' Pullup Jump Shot,,,,,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,294,4,0,2,6:59 PM,3:15,,,Walker IV REBOUND (Off:0 Def:1),,,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,295,1,50,2,6:59 PM,3:13,,,Davis 2' Running Dunk (20 PTS) (Walker IV 1 AST),58 - 40,-18,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200349,297,1,1,2,6:59 PM,2:56,Kispert 26' 3PT Jump Shot (11 PTS) (Morris 3 AST),,,58 - 43,-15,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200349,299,1,1,2,6:59 PM,2:40,,,Walker IV 25' 3PT Jump Shot (10 PTS) (Westbrook 6 AST),61 - 43,-18,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200349,301,6,2,2,7:00 PM,2:22,,,Walker IV S.FOUL (P1.T1) (B.Schwab),,,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200349,303,3,11,2,7:00 PM,2:22,Porzingis Free Throw 1 of 2 (5 PTS),,,61 - 44,-17,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,304,8,0,2,7:00 PM,2:22,SUB: Goodwin FOR Barton,,,,,4,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200349,305,8,0,2,7:00 PM,2:22,SUB: Kuzma FOR Morris,,,,,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200349,306,8,0,2,7:00 PM,2:22,,,SUB: James FOR Beverley,,,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200349,310,3,12,2,7:00 PM,2:22,Porzingis Free Throw 2 of 2 (6 PTS),,,61 - 45,-16,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,311,1,71,2,7:01 PM,2:09,,,Davis 3' Finger Roll Layup (22 PTS) (Westbrook 7 AST),63 - 45,-18,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200349,313,2,5,2,7:01 PM,1:58,MISS Avdija 4' Layup,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,314,4,0,2,7:01 PM,1:53,,,Davis REBOUND (Off:1 Def:8),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,315,1,6,2,7:01 PM,1:44,,,James 3' Driving Layup (14 PTS),65 - 45,-20,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,316,6,2,2,7:01 PM,1:44,Avdija S.FOUL (P2.PN) (B.Schwab),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200349,318,3,10,2,7:02 PM,1:44,,,James Free Throw 1 of 1 (15 PTS),66 - 45,-21,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,319,1,79,2,7:02 PM,1:33,Porzingis 15' Pullup Jump Shot (8 PTS),,,66 - 47,-19,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,320,1,1,2,7:02 PM,1:20,,,Davis 17' Jump Shot (24 PTS) (Westbrook 8 AST),68 - 47,-21,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200349,322,2,1,2,7:02 PM,1:09,MISS Avdija 27' 3PT Jump Shot,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,323,4,0,2,7:02 PM,1:06,,,Walker IV REBOUND (Off:0 Def:2),,,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,324,2,86,2,7:03 PM,0:53,,,MISS James 9' Turnaround Fadeaway Shot,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,325,4,0,2,7:03 PM,0:51,Kuzma REBOUND (Off:1 Def:1),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,326,1,99,2,7:03 PM,0:43,Porzingis 3' Cutting Finger Roll Layup Shot (10 PTS) (Kuzma 3 AST),,,68 - 49,-19,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200349,328,2,79,2,7:03 PM,0:33,,,MISS Walker IV 16' Pullup Jump Shot,,,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,329,4,0,2,7:03 PM,0:31,Kuzma REBOUND (Off:1 Def:2),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,330,6,2,2,7:03 PM,0:16,,,Westbrook S.FOUL (P1.T2) (S.Twardoski),,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200349,332,3,11,2,7:04 PM,0:16,Kuzma Free Throw 1 of 2 (7 PTS),,,68 - 50,-18,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,335,3,12,2,7:04 PM,0:16,MISS Kuzma Free Throw 2 of 2,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,333,8,0,2,7:04 PM,0:16,SUB: Gill FOR Kispert,,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,4,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200349,336,4,0,2,7:04 PM,0:13,,,James REBOUND (Off:0 Def:3),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,337,5,1,2,7:04 PM,0:01,Avdija STEAL (2 STL),,Westbrook Bad Pass Turnover (P2.T5),,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200349,339,2,1,2,7:04 PM,0:00,MISS Porzingis 49' 3PT Jump Shot,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,340,4,0,2,7:04 PM,0:00,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200349,341,13,0,2,7:05 PM,0:00,,End of 2nd Period (7:05 PM EST),,68 - 50,-18,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200349,350,12,0,3,7:20 PM,12:00,,Start of 3rd Period (7:20 PM EST),,68 - 50,-18,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200349,351,7,1,3,7:20 PM,12:00,,,Lakers Violation: Delay of game Violation,,,3,1610612747,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200349,352,2,1,3,7:20 PM,11:46,,,MISS Beverley 26' 3PT Jump Shot,,,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,353,4,0,3,7:20 PM,11:42,Kuzma REBOUND (Off:1 Def:3),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,354,1,85,3,7:20 PM,11:34,Porzingis 10' Turnaround Bank Shot (12 PTS),,,68 - 52,-16,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,355,2,75,3,7:21 PM,11:14,,,MISS James 2' Driving Finger Roll Layup,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,356,4,0,3,7:21 PM,11:12,Avdija REBOUND (Off:1 Def:6),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,357,2,1,3,7:21 PM,11:04,MISS Porzingis 26' 3PT Jump Shot,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,358,4,0,3,7:21 PM,11:02,,,James REBOUND (Off:0 Def:4),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,359,1,1,3,7:21 PM,10:53,,,Walker IV 25' 3PT Jump Shot (13 PTS) (James 3 AST),71 - 52,-19,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200349,361,2,101,3,7:21 PM,10:32,MISS Kuzma 7' Driving Floating Jump Shot,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,362,4,0,3,7:22 PM,10:30,,,Davis REBOUND (Off:1 Def:9),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,363,1,102,3,7:22 PM,10:23,,,James 8' Driving Floating Bank Jump Shot (17 PTS),73 - 52,-21,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,364,2,79,3,7:22 PM,10:04,MISS Kuzma 18' Pullup Jump Shot,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,365,4,0,3,7:22 PM,10:01,,,Davis REBOUND (Off:1 Def:10),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,366,2,6,3,7:22 PM,9:44,,,MISS James 3' Driving Layup,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,367,4,0,3,7:22 PM,9:42,Porzingis REBOUND (Off:0 Def:6),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,369,6,26,3,7:22 PM,9:39,Avdija Offensive Charge Foul (P3) (C.Blair),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200349,371,5,37,3,7:22 PM,9:39,Avdija Offensive Foul Turnover (P1.T6),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022200349,372,5,8,3,7:23 PM,9:24,,,Davis 3 Second Violation Turnover (P1.T6),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0022200349,373,1,78,3,7:23 PM,9:13,Kuzma 11' Floating Jump Shot (9 PTS) (Porzingis 3 AST),,,73 - 54,-19,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200349,374,1,1,3,7:24 PM,8:57,,,Walker IV 25' 3PT Jump Shot (16 PTS) (Schroder 6 AST),76 - 54,-22,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200349,376,2,79,3,7:24 PM,8:46,MISS Porzingis 15' Pullup Jump Shot,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,377,4,0,3,7:24 PM,8:44,,,Davis REBOUND (Off:1 Def:11),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,378,5,1,3,7:24 PM,8:40,Kuzma STEAL (1 STL),,Schroder Bad Pass Turnover (P1.T7),,,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200349,380,2,1,3,7:24 PM,8:35,MISS Kispert 25' 3PT Jump Shot,,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,381,4,0,3,7:24 PM,8:33,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200349,384,1,98,3,7:24 PM,8:20,,,Davis 3' Cutting Layup Shot (26 PTS) (James 4 AST),78 - 54,-24,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200349,386,6,2,3,7:25 PM,8:20,Porzingis S.FOUL (P2.T1) (S.Twardoski),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200349,388,3,10,3,7:25 PM,8:20,,,Davis Free Throw 1 of 1 (27 PTS),79 - 54,-25,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,389,2,79,3,7:25 PM,8:09,MISS Porzingis 22' Pullup Jump Shot,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,390,4,0,3,7:25 PM,8:07,,,James REBOUND (Off:0 Def:5),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,391,1,6,3,7:25 PM,8:01,,,James 2' Driving Layup (19 PTS),81 - 54,-27,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,392,9,1,3,7:25 PM,8:01,WIZARDS Timeout: Regular (Full 4 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200349,393,8,0,3,7:28 PM,8:01,SUB: Gafford FOR Avdija,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200349,395,6,1,3,7:28 PM,7:54,,,Beverley P.FOUL (P2.T1) (S.Twardoski),,,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200349,397,2,6,3,7:29 PM,7:43,MISS Porzingis 6' Driving Layup,,Davis BLOCK (2 BLK),,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1
+0022200349,399,4,0,3,7:29 PM,7:41,,,Beverley REBOUND (Off:1 Def:1),,,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,400,6,2,3,7:29 PM,7:39,Kuzma S.FOUL (P4.T2) (S.Twardoski),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200349,402,3,11,3,7:30 PM,7:39,,,James Free Throw 1 of 2 (20 PTS),82 - 54,-28,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,403,3,12,3,7:30 PM,7:39,,,James Free Throw 2 of 2 (21 PTS),83 - 54,-29,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,404,1,79,3,7:30 PM,7:28,Morris 17' Pullup Jump Shot (9 PTS),,,83 - 56,-27,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,405,5,1,3,7:30 PM,7:15,Porzingis STEAL (2 STL),,Schroder Bad Pass Turnover (P2.T8),,,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200349,407,2,79,3,7:30 PM,7:11,MISS Morris 27' 3PT Pullup Jump Shot,,,,,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,408,4,0,3,7:30 PM,7:08,,,Beverley REBOUND (Off:1 Def:2),,,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,409,1,7,3,7:30 PM,7:05,,,Walker IV 4' Dunk (18 PTS) (Beverley 1 AST),85 - 56,-29,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200349,411,1,57,3,7:31 PM,6:45,Porzingis 4' Driving Hook Shot (14 PTS) (Gafford 1 AST),,,85 - 58,-27,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200349,412,2,6,3,7:31 PM,6:34,Porzingis BLOCK (1 BLK),,MISS Schroder 6' Driving Layup,,,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1
+0022200349,414,4,0,3,7:31 PM,6:31,Kuzma REBOUND (Off:1 Def:4),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,415,1,108,3,7:31 PM,6:24,Porzingis 1' Cutting Dunk Shot (16 PTS) (Kispert 1 AST),,,85 - 60,-25,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200349,417,5,40,3,7:32 PM,6:04,,,Davis Out of Bounds Lost Ball Turnover (P2.T9),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0022200349,418,8,0,3,7:32 PM,6:04,,,SUB: Westbrook FOR Beverley,,,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200349,421,5,2,3,7:32 PM,5:57,Kuzma Lost Ball Turnover (P5.T7),,Schroder STEAL (2 STL),,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200349,423,1,6,3,7:32 PM,5:53,,,Westbrook 2' Driving Layup (6 PTS),87 - 60,-27,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,425,7,2,3,7:32 PM,5:53,Kuzma Violation:Defensive Goaltending (C.Blair),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022200349,426,1,108,3,7:32 PM,5:42,Gafford 3' Cutting Dunk Shot (10 PTS) (Morris 4 AST),,,87 - 62,-25,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200349,428,1,6,3,7:33 PM,5:24,,,Davis 1' Driving Layup (29 PTS) (Schroder 7 AST),89 - 62,-27,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200349,430,1,9,3,7:33 PM,5:10,Porzingis 2' Driving Dunk (18 PTS),,,89 - 64,-25,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,431,6,2,3,7:33 PM,5:10,,,Davis S.FOUL (P1.T2) (B.Schwab),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200349,433,8,0,3,7:33 PM,5:10,,,SUB: Reaves FOR Schroder,,,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200349,435,3,10,3,7:34 PM,5:10,Porzingis Free Throw 1 of 1 (19 PTS),,,89 - 65,-24,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,436,6,2,3,7:34 PM,4:58,Gafford S.FOUL (P2.T3) (B.Schwab),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200349,438,3,11,3,7:34 PM,4:58,,,Davis Free Throw 1 of 2 (30 PTS),90 - 65,-25,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,439,8,0,3,7:34 PM,4:58,,,SUB: Gabriel FOR James,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200349,441,3,12,3,7:35 PM,4:58,,,Davis Free Throw 2 of 2 (31 PTS),91 - 65,-26,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,442,2,1,3,7:35 PM,4:46,MISS Kuzma 27' 3PT Jump Shot,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,443,4,0,3,7:35 PM,4:43,Porzingis REBOUND (Off:1 Def:6),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,444,2,5,3,7:35 PM,4:39,MISS Porzingis 3' Layup,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,445,4,0,3,7:35 PM,4:36,Gafford REBOUND (Off:1 Def:1),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,446,1,107,3,7:35 PM,4:36,Gafford Tip Dunk Shot (12 PTS),,,91 - 67,-24,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,447,2,7,3,7:35 PM,4:24,Kuzma BLOCK (1 BLK),,MISS Davis 6' Dunk,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,1
+0022200349,449,4,0,3,7:35 PM,4:21,,,Davis REBOUND (Off:2 Def:11),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,450,1,7,3,7:35 PM,4:21,,,Davis 4' Dunk (33 PTS),93 - 67,-26,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,451,1,1,3,7:35 PM,4:11,Morris 27' 3PT Jump Shot (12 PTS),,,93 - 70,-23,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,452,1,78,3,7:36 PM,3:57,,,Davis 7' Floating Jump Shot (35 PTS) (Westbrook 9 AST),95 - 70,-25,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200349,454,2,9,3,7:36 PM,3:41,MISS Porzingis 4' Driving Dunk,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,455,4,0,3,7:36 PM,3:40,Gafford REBOUND (Off:2 Def:1),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,456,1,58,3,7:36 PM,3:40,Gafford 3' Turnaround Hook Shot (14 PTS),,,95 - 72,-23,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,457,1,108,3,7:36 PM,3:30,,,Walker IV 5' Cutting Dunk Shot (20 PTS) (Westbrook 10 AST),97 - 72,-25,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200349,459,1,1,3,7:36 PM,3:11,Porzingis 27' 3PT Jump Shot (22 PTS) (Kuzma 4 AST),,,97 - 75,-22,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200349,462,8,0,3,7:37 PM,3:01,SUB: Gill FOR Kuzma,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200349,463,8,0,3,7:37 PM,3:01,,,SUB: Bryant FOR Davis,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200349,464,8,0,3,7:37 PM,3:01,,,SUB: Brown Jr. FOR Walker IV,,,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,5,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200349,468,2,1,3,7:37 PM,2:54,,,MISS Reaves 29' 3PT Jump Shot,,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,469,4,0,3,7:37 PM,2:52,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200349,471,9,1,3,7:37 PM,2:52,,,Lakers Timeout: Regular (Reg.2 Short 0),,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200349,472,8,0,3,7:40 PM,2:52,SUB: Goodwin FOR Morris,,,,,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200349,473,8,0,3,7:40 PM,2:52,,,SUB: Davis FOR Gabriel,,,5,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200349,476,1,6,3,7:41 PM,2:38,Kispert 2' Driving Layup (13 PTS) (Gill 1 AST),,,97 - 77,-20,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,4,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200349,478,2,1,3,7:41 PM,2:18,,,MISS Reaves 3PT Jump Shot,,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,479,4,0,3,7:41 PM,2:17,Porzingis REBOUND (Off:1 Def:7),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,480,2,101,3,7:41 PM,2:06,MISS Porzingis 3' Driving Floating Jump Shot,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,481,4,0,3,7:41 PM,2:03,Gafford REBOUND (Off:3 Def:1),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,482,6,1,3,7:41 PM,2:03,,,Westbrook P.FOUL (P2.T3) (S.Twardoski),,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200349,484,8,0,3,7:41 PM,2:03,SUB: Barton FOR Kispert,,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,4,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200349,486,2,6,3,7:42 PM,1:57,MISS Porzingis 3' Driving Layup,,Davis BLOCK (3 BLK),,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1
+0022200349,488,4,0,3,7:42 PM,1:54,,,Brown Jr. REBOUND (Off:0 Def:1),,,5,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,489,1,44,3,7:42 PM,1:51,,,Reaves 4' Reverse Layup (5 PTS) (Brown Jr. 2 AST),99 - 77,-22,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200349,491,6,18,3,7:42 PM,1:49,,,Lakers Delay,,,3,1610612747,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200349,492,3,16,3,7:42 PM,1:49,MISS Porzingis Free Throw Technical,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,493,4,1,3,7:42 PM,1:49,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200349,495,2,63,3,7:43 PM,1:32,MISS Porzingis 14' Fadeaway Jumper,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,496,4,0,3,7:43 PM,1:31,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200349,498,6,2,3,7:43 PM,1:27,,,Bryant S.FOUL (P1.T4) (B.Schwab),,,5,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200349,500,3,11,3,7:43 PM,1:27,Gafford Free Throw 1 of 2 (15 PTS),,,99 - 78,-21,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,501,3,12,3,7:43 PM,1:27,MISS Gafford Free Throw 2 of 2,,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0022200349,502,4,0,3,7:43 PM,1:24,,,Westbrook REBOUND (Off:0 Def:3),,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0022200349,503,6,2,3,7:44 PM,1:19,Gafford S.FOUL (P3.T4) (B.Schwab),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200349,505,3,11,3,7:44 PM,1:19,,,MISS Bryant Free Throw 1 of 2,,,5,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0022200349,506,4,1,3,7:44 PM,1:19,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200349,507,3,12,3,7:44 PM,1:19,,,MISS Bryant Free Throw 2 of 2,,,5,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,508,4,0,3,7:44 PM,1:15,Porzingis REBOUND (Off:1 Def:8),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,509,1,6,3,7:45 PM,1:08,Goodwin 2' Driving Layup (5 PTS),,,99 - 80,-19,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,510,6,2,3,7:45 PM,1:08,,,Reaves S.FOUL (P1.PN) (B.Schwab),,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200349,512,8,0,3,7:45 PM,1:08,SUB: Kuzma FOR Porzingis,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200349,514,3,10,3,7:45 PM,1:08,Goodwin Free Throw 1 of 1 (6 PTS),,,99 - 81,-18,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,515,2,6,3,7:46 PM,0:57,,,MISS Westbrook 3' Driving Layup,,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,516,4,0,3,7:46 PM,0:55,Gafford REBOUND (Off:3 Def:2),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,517,2,78,3,7:46 PM,0:43,MISS Barton 3' Floating Jump Shot,,,,,4,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,518,4,0,3,7:46 PM,0:40,Kuzma REBOUND (Off:3 Def:4),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,519,2,97,3,7:46 PM,0:40,MISS Kuzma Tip Layup Shot,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,520,4,0,3,7:46 PM,0:40,Kuzma REBOUND (Off:3 Def:4),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,521,2,97,3,7:46 PM,0:37,MISS Kuzma Tip Layup Shot,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,522,4,0,3,7:46 PM,0:36,,,Davis REBOUND (Off:2 Def:12),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,523,1,1,3,7:46 PM,0:34,,,Davis 27' 3PT Jump Shot (38 PTS) (Westbrook 11 AST),102 - 81,-21,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200349,525,2,1,3,7:46 PM,0:23,MISS Kuzma 27' 3PT Jump Shot,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,526,4,0,3,7:46 PM,0:19,,,Westbrook REBOUND (Off:0 Def:4),,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,527,1,98,3,7:47 PM,0:04,,,Davis 1' Cutting Layup Shot (40 PTS) (Westbrook 12 AST),104 - 81,-23,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200349,529,6,2,3,7:47 PM,0:04,Gill S.FOUL (P1.PN) (B.Schwab),,,,,4,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200349,531,3,10,3,7:47 PM,0:04,,,Davis Free Throw 1 of 1 (41 PTS),105 - 81,-24,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0022200349,532,2,1,3,7:47 PM,0:00,MISS Goodwin 29' 3PT Jump Shot,,,,,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,533,4,0,3,7:47 PM,0:00,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200349,534,13,0,3,7:47 PM,0:00,,End of 3rd Period (7:47 PM EST),,105 - 81,-24,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200349,543,12,0,4,7:50 PM,12:00,,Start of 4th Period (7:50 PM EST),,105 - 81,-24,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200349,544,2,1,4,7:50 PM,11:43,MISS Avdija 25' 3PT Jump Shot,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,545,4,0,4,7:50 PM,11:41,,,Westbrook REBOUND (Off:0 Def:5),,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,546,5,45,4,7:50 PM,11:37,,,Westbrook Out of Bounds - Bad Pass Turnover Turnover (P3.T10),,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0022200349,547,2,6,4,7:50 PM,11:32,MISS Barton 5' Driving Layup,,Gabriel BLOCK (1 BLK),,,4,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,1
+0022200349,549,4,0,4,7:50 PM,11:29,,,James REBOUND (Off:0 Def:6),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,550,2,86,4,7:51 PM,11:22,,,MISS James 16' Turnaround Fadeaway Shot,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,551,4,0,4,7:51 PM,11:21,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200349,553,1,79,4,7:51 PM,11:02,Kuzma 13' Pullup Jump Shot (11 PTS),,,105 - 83,-22,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,554,1,98,4,7:51 PM,10:48,,,James 2' Cutting Layup Shot (23 PTS) (Westbrook 13 AST),107 - 83,-24,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200349,556,6,2,4,7:51 PM,10:48,Gibson S.FOUL (P1.T1) (C.Blair),,,,,4,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200349,558,3,10,4,7:52 PM,10:48,,,MISS James Free Throw 1 of 1,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,559,4,0,4,7:52 PM,10:46,,,Gabriel REBOUND (Off:1 Def:0),,,5,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,560,2,1,4,7:52 PM,10:41,,,MISS James 27' 3PT Jump Shot,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,561,4,0,4,7:52 PM,10:37,Goodwin REBOUND (Off:2 Def:3),,,,,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,562,1,57,4,7:52 PM,10:29,Avdija 7' Driving Hook Shot (4 PTS) (Barton 3 AST),,,107 - 85,-22,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,4,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200349,564,2,79,4,7:52 PM,10:21,,,MISS Brown Jr. 28' 3PT Pullup Jump Shot,,,5,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,565,4,0,4,7:52 PM,10:18,Avdija REBOUND (Off:1 Def:7),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,566,1,1,4,7:52 PM,10:08,Avdija 24' 3PT Jump Shot (7 PTS) (Barton 4 AST),,,107 - 88,-19,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,4,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200349,568,5,40,4,7:53 PM,9:49,,,Westbrook Out of Bounds Lost Ball Turnover (P4.T11),,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0022200349,569,1,75,4,7:53 PM,9:41,Kuzma 5' Driving Finger Roll Layup (13 PTS),,,107 - 90,-17,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,570,9,1,4,7:53 PM,9:41,,,Lakers Timeout: Regular (Reg.3 Short 0),,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200349,571,8,0,4,7:54 PM,9:41,,,SUB: Walker IV FOR Westbrook,,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200349,572,8,0,4,7:54 PM,9:41,,,SUB: Schroder FOR Brown Jr.,,,5,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200349,573,8,0,4,7:54 PM,9:41,,,SUB: Davis FOR Gabriel,,,5,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200349,577,5,2,4,7:56 PM,9:26,Goodwin STEAL (1 STL),,James Lost Ball Turnover (P4.T12),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200349,579,1,6,4,7:56 PM,9:20,Goodwin 3' Driving Layup (8 PTS),,,107 - 92,-15,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,580,1,6,4,7:56 PM,9:07,,,James 4' Driving Layup (25 PTS),109 - 92,-17,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,581,2,83,4,7:57 PM,8:53,MISS Goodwin 7' Fadeaway Bank Shot,,,,,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,582,4,0,4,7:57 PM,8:51,,,Davis REBOUND (Off:2 Def:13),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,583,2,6,4,7:57 PM,8:39,,,MISS James 6' Driving Layup,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,584,4,0,4,7:57 PM,8:37,Gibson REBOUND (Off:0 Def:1),,,,,4,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,585,1,58,4,7:57 PM,8:29,Kuzma 5' Turnaround Hook Shot (15 PTS),,,109 - 94,-15,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,586,1,1,4,7:57 PM,8:06,,,Davis 8' Jump Shot (43 PTS) (Schroder 8 AST),111 - 94,-17,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200349,588,1,102,4,7:58 PM,7:56,Kuzma 6' Driving Floating Bank Jump Shot (17 PTS),,,111 - 96,-15,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,589,9,1,4,7:58 PM,7:45,,,Lakers Timeout: Regular (Reg.4 Short 0),,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200349,590,8,0,4,7:58 PM,7:45,SUB: Porzingis FOR Avdija,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200349,591,8,0,4,7:58 PM,7:45,,,SUB: Beverley FOR Reaves,,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200349,592,8,0,4,7:58 PM,7:45,,,SUB: Westbrook FOR Walker IV,,,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200349,600,5,2,4,8:01 PM,7:39,Gibson STEAL (1 STL),,James Lost Ball Turnover (P5.T13),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200349,598,9,7,4,8:01 PM,7:39,WIZARDS Timeout: Coach Challenge (Full 4 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200349,599,18,5,4,8:01 PM,7:39,,Instant Replay4th Period (8:01 PM EST),,111 - 96,-15,0,596,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200349,603,6,2,4,8:04 PM,7:30,,,James S.FOUL (P2.T1) (S.Twardoski),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200349,605,3,11,4,8:05 PM,7:30,Kuzma Free Throw 1 of 2 (18 PTS),,,111 - 97,-14,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,606,3,12,4,8:05 PM,7:30,Kuzma Free Throw 2 of 2 (19 PTS),,,111 - 98,-13,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,607,5,1,4,8:05 PM,7:18,Kuzma STEAL (2 STL),,Westbrook Bad Pass Turnover (P5.T14),,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200349,609,1,50,4,8:05 PM,7:13,Kuzma 4' Running Dunk (21 PTS),,,111 - 100,-11,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,610,1,1,4,8:06 PM,6:46,,,Davis 27' 3PT Jump Shot (46 PTS) (James 5 AST),114 - 100,-14,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200349,612,1,86,4,8:06 PM,6:32,Kuzma 11' Turnaround Fadeaway (23 PTS),,,114 - 102,-12,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,613,2,1,4,8:06 PM,6:10,,,MISS Beverley 26' 3PT Jump Shot,,,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,614,4,0,4,8:06 PM,6:07,Goodwin REBOUND (Off:2 Def:4),,,,,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,615,1,1,4,8:06 PM,6:00,Kuzma 29' 3PT Jump Shot (26 PTS) (Barton 5 AST),,,114 - 105,-9,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200349,617,1,101,4,8:07 PM,5:35,,,Schroder 9' Driving Floating Jump Shot (4 PTS),116 - 105,-11,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,618,5,2,4,8:07 PM,5:20,Kuzma Lost Ball Turnover (P6.T8),,Beverley STEAL (1 STL),,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200349,620,6,3,4,8:07 PM,5:20,Kuzma L.B.FOUL (P5.T2) (S.Twardoski),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200349,622,1,52,4,8:08 PM,5:06,,,Davis 4' Alley Oop Dunk (48 PTS) (James 6 AST),118 - 105,-13,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200349,624,9,1,4,8:08 PM,5:04,WIZARDS Timeout: Regular (Full 5 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200349,625,8,0,4,8:09 PM,5:04,SUB: Morris FOR Barton,,,,,4,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200349,627,1,1,4,8:10 PM,4:46,Porzingis 16' Jump Shot (24 PTS),,,118 - 107,-11,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,628,2,5,4,8:11 PM,4:27,,,MISS Davis 7' Layup,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,629,4,0,4,8:11 PM,4:27,Gibson REBOUND (Off:0 Def:2),,,,,4,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,630,2,1,4,8:11 PM,4:16,MISS Kuzma 29' 3PT Jump Shot,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,631,4,0,4,8:11 PM,4:13,,,Westbrook REBOUND (Off:0 Def:6),,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,632,1,5,4,8:11 PM,4:10,,,Davis 3' Layup (50 PTS) (Westbrook 14 AST),120 - 107,-13,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200349,634,6,2,4,8:11 PM,4:10,Kuzma S.FOUL (P6.T3) (C.Blair),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200349,636,8,0,4,8:11 PM,4:10,SUB: Kispert FOR Kuzma,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200349,638,3,10,4,8:12 PM,4:10,,,Davis Free Throw 1 of 1 (51 PTS),121 - 107,-14,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,640,2,79,4,8:12 PM,3:54,MISS Goodwin 15' Pullup Jump Shot,,,,,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,641,4,0,4,8:12 PM,3:52,,,Westbrook REBOUND (Off:0 Def:7),,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,642,1,108,4,8:12 PM,3:45,,,Davis 3' Cutting Dunk Shot (53 PTS) (Westbrook 15 AST),123 - 107,-16,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200349,644,5,1,4,8:13 PM,3:34,Goodwin Bad Pass Turnover (P1.T9),,James STEAL (1 STL),,,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200349,646,1,50,4,8:13 PM,3:32,,,James 2' Running Dunk (27 PTS),125 - 107,-18,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,647,9,1,4,8:13 PM,3:31,WIZARDS Timeout: Regular (Full 6 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200349,648,8,0,4,8:14 PM,3:31,SUB: Gafford FOR Gibson,,,,,4,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200349,650,5,45,4,8:14 PM,3:26,Morris Out of Bounds - Bad Pass Turnover Turnover (P2.T10),,,,,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022200349,651,7,5,4,8:15 PM,3:13,Kispert Violation:Kicked Ball (C.Blair),,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0022200349,652,2,6,4,8:15 PM,3:00,,,MISS James 7' Driving Layup,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,653,4,0,4,8:15 PM,2:58,,,James REBOUND (Off:1 Def:6),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,654,2,97,4,8:15 PM,2:57,,,MISS James 6' Tip Layup Shot,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,655,4,0,4,8:15 PM,2:55,Kispert REBOUND (Off:0 Def:1),,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,656,1,52,4,8:15 PM,2:53,Gafford 4' Alley Oop Dunk (17 PTS) (Kispert 2 AST),,,125 - 109,-16,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200349,658,1,7,4,8:15 PM,2:48,,,James 3' Dunk (29 PTS) (Davis 1 AST),127 - 109,-18,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200349,660,1,108,4,8:15 PM,2:39,Porzingis 2' Cutting Dunk Shot (26 PTS) (Goodwin 2 AST),,,127 - 111,-16,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200349,662,6,2,4,8:15 PM,2:39,,,James S.FOUL (P3.T2) (C.Blair),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200349,664,3,10,4,8:16 PM,2:39,Porzingis Free Throw 1 of 1 (27 PTS),,,127 - 112,-15,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,665,6,1,4,8:16 PM,2:31,Goodwin P.FOUL (P3.T4) (S.Twardoski),,,,,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200349,667,8,0,4,8:16 PM,2:31,SUB: Gill FOR Porzingis,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,4,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200349,669,2,7,4,8:17 PM,2:22,Gill BLOCK (1 BLK),,MISS Davis 6' Dunk,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,4,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,1
+0022200349,671,4,0,4,8:17 PM,2:18,Goodwin REBOUND (Off:2 Def:5),,,,,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,672,1,1,4,8:17 PM,2:16,Kispert 3PT Jump Shot (16 PTS) (Goodwin 3 AST),,,127 - 115,-12,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200349,674,5,1,4,8:17 PM,2:01,Goodwin STEAL (2 STL),,Westbrook Bad Pass Turnover (P6.T15),,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200349,676,2,1,4,8:17 PM,1:56,MISS Morris 3PT Jump Shot,,,,,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,677,4,0,4,8:17 PM,1:53,,,James REBOUND (Off:1 Def:7),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,678,2,6,4,8:17 PM,1:33,Gafford BLOCK (2 BLK),,MISS James 4' Driving Layup,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1
+0022200349,680,4,0,4,8:17 PM,1:31,,,Beverley REBOUND (Off:2 Def:2),,,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,681,2,1,4,8:17 PM,1:31,,,MISS Beverley 3PT Jump Shot,,,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,682,4,0,4,8:17 PM,1:31,,,Davis REBOUND (Off:3 Def:13),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,683,1,5,4,8:17 PM,1:29,,,Davis 3' Layup (55 PTS),129 - 115,-14,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,684,2,1,4,8:18 PM,1:18,MISS Gill 3PT Jump Shot,,,,,4,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,685,4,0,4,8:18 PM,1:16,,,Davis REBOUND (Off:3 Def:14),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,686,2,1,4,8:18 PM,1:01,,,MISS James 27' 3PT Jump Shot,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,687,4,0,4,8:18 PM,0:56,Morris REBOUND (Off:0 Def:1),,,,,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,688,1,6,4,8:18 PM,0:46,Morris 3' Driving Layup (14 PTS),,,129 - 117,-12,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,689,6,1,4,8:18 PM,0:37,Gafford P.FOUL (P4.PN) (C.Blair),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200349,691,3,11,4,8:19 PM,0:37,,,Beverley Free Throw 1 of 2 (1 PTS),130 - 117,-13,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,692,8,0,4,8:19 PM,0:37,,,SUB: Gabriel FOR Davis,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200349,693,8,0,4,8:19 PM,0:37,,,SUB: Reaves FOR James,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200349,696,3,12,4,8:19 PM,0:37,,,MISS Beverley Free Throw 2 of 2,,,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,697,4,0,4,8:19 PM,0:33,,,Gabriel REBOUND (Off:2 Def:0),,,5,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,698,2,1,4,8:19 PM,0:29,,,MISS Schroder 28' 3PT Jump Shot,,,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200349,699,4,0,4,8:19 PM,0:26,Gafford REBOUND (Off:3 Def:3),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,700,2,78,4,8:20 PM,0:14,MISS Morris 16' Floating Jump Shot,,,,,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,701,4,0,4,8:20 PM,0:11,Gafford REBOUND (Off:4 Def:3),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,702,1,7,4,8:20 PM,0:11,Gafford 2' Dunk (19 PTS),,,130 - 119,-11,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200349,703,13,0,4,8:20 PM,0:00,,End of 4th Period (8:20 PM EST),,130 - 119,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

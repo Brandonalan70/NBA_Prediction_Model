@@ -1,0 +1,469 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200240,2,12,0,1,3:41 PM,12:00,,Start of 1st Period (3:41 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200240,4,10,0,1,3:41 PM,12:00,Jump Ball Ayton vs. Hartenstein: Tip to Payne,,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,1
+0022200240,7,5,1,1,3:41 PM,11:46,Payne Bad Pass Turnover (P1.T1),,Hartenstein STEAL (1 STL),,,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200240,9,1,41,1,3:41 PM,11:42,,,Randle 1' Running Layup (2 PTS) (Grimes 1 AST),2 - 0,-2,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200240,11,5,2,1,3:41 PM,11:29,Bridges Lost Ball Turnover (P1.T2),,Randle STEAL (1 STL),,,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200240,13,2,79,1,3:41 PM,11:21,,,MISS Randle 12' Pullup Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,14,4,0,1,3:42 PM,11:18,Bridges REBOUND (Off:0 Def:1),,,,,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,15,6,2,1,3:42 PM,11:15,,,Brunson S.FOUL (P1.T1) (N.Green),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200240,17,3,11,1,3:42 PM,11:15,Payne Free Throw 1 of 2 (1 PTS),,,2 - 1,-1,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,18,3,12,1,3:42 PM,11:15,Payne Free Throw 2 of 2 (2 PTS),,,2 - 2,TIE,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,19,2,79,1,3:43 PM,11:04,,,MISS Brunson 15' Pullup Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,20,4,0,1,3:43 PM,11:02,Craig REBOUND (Off:0 Def:1),,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,21,1,1,1,3:43 PM,10:52,Booker 3PT Jump Shot (3 PTS) (Craig 1 AST),,,2 - 5,3,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200240,23,2,47,1,3:43 PM,10:22,,,MISS Randle 5' Turnaround Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,24,4,0,1,3:43 PM,10:20,Ayton REBOUND (Off:0 Def:1),,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,25,1,103,1,3:43 PM,10:15,Payne 26' 3PT Running Pull-Up Jump Shot (5 PTS),,,2 - 8,6,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,26,6,1,1,3:44 PM,9:54,Bridges P.FOUL (P1.T1) (K.Lane),,,,,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200240,28,2,86,1,3:44 PM,9:43,,,MISS Brunson 9' Turnaround Fadeaway Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,29,4,0,1,3:44 PM,9:38,,,Randle REBOUND (Off:1 Def:0),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,30,2,1,1,3:44 PM,9:36,,,MISS Barrett 3PT Jump Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,31,4,0,1,3:44 PM,9:33,Craig REBOUND (Off:0 Def:2),,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,32,6,2,1,3:45 PM,9:26,,,Hartenstein S.FOUL (P1.T2) (K.Lane),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200240,34,3,11,1,3:45 PM,9:26,MISS Ayton Free Throw 1 of 2,,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,35,4,1,1,3:45 PM,9:26,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200240,36,3,12,1,3:45 PM,9:26,MISS Ayton Free Throw 2 of 2,,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,37,4,0,1,3:45 PM,9:24,,,Randle REBOUND (Off:1 Def:1),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,38,5,2,1,3:45 PM,9:14,Ayton STEAL (1 STL),,Barrett Lost Ball Turnover (P1.T1),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200240,40,2,76,1,3:45 PM,9:09,MISS Booker 2' Running Finger Roll Layup,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,41,4,0,1,3:45 PM,9:06,,,Barrett REBOUND (Off:0 Def:1),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,42,1,2,1,3:46 PM,9:00,,,Grimes 26' 3PT Running Jump Shot (3 PTS) (Brunson 1 AST),5 - 8,3,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200240,44,1,1,1,3:46 PM,8:45,Bridges 23' Jump Shot (2 PTS) (Payne 1 AST),,,5 - 10,5,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200240,46,6,4,1,3:46 PM,8:34,,,Hartenstein OFF.Foul (P2) (N.Green),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200240,48,5,37,1,3:46 PM,8:34,,,Hartenstein Offensive Foul Turnover (P1.T2),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022200240,49,8,0,1,3:46 PM,8:34,,,SUB: Robinson FOR Hartenstein,,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200240,51,7,1,1,3:46 PM,8:34,,,Knicks Violation: Delay of game Violation,,,3,1610612752,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200240,52,2,101,1,3:47 PM,8:14,MISS Payne 9' Driving Floating Jump Shot,,,,,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,53,4,0,1,3:47 PM,8:10,Payne REBOUND (Off:1 Def:0),,,,,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,54,1,97,1,3:47 PM,8:10,Payne Tip Layup Shot (7 PTS),,,5 - 12,7,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,55,2,101,1,3:47 PM,7:57,Payne BLOCK (1 BLK),,MISS Brunson 6' Driving Floating Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,1
+0022200240,57,4,0,1,3:47 PM,7:55,Booker REBOUND (Off:0 Def:1),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,58,2,103,1,3:47 PM,7:52,MISS Booker 26' 3PT Running Pull-Up Jump Shot,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,59,4,0,1,3:47 PM,7:50,,,Grimes REBOUND (Off:0 Def:1),,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,60,1,6,1,3:47 PM,7:42,,,Randle 1' Driving Layup (4 PTS) (Grimes 2 AST),7 - 12,5,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200240,62,6,2,1,3:48 PM,7:29,,,Randle S.FOUL (P1.T3) (T.Ford),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200240,64,3,13,1,3:48 PM,7:29,Payne Free Throw 1 of 3 (8 PTS),,,7 - 13,6,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0022200240,65,3,14,1,3:49 PM,7:29,Payne Free Throw 2 of 3 (9 PTS),,,7 - 14,7,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0022200240,66,3,15,1,3:49 PM,7:29,Payne Free Throw 3 of 3 (10 PTS),,,7 - 15,8,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0022200240,67,1,80,1,3:49 PM,7:14,,,Grimes 20' Step Back Jump Shot (5 PTS) (Randle 1 AST),9 - 15,6,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200240,69,2,80,1,3:49 PM,6:57,MISS Booker 20' Step Back Jump Shot,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,70,4,0,1,3:50 PM,6:55,,,Robinson REBOUND (Off:0 Def:1),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,71,2,1,1,3:50 PM,6:32,,,MISS Grimes 26' 3PT Jump Shot,,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,72,4,0,1,3:50 PM,6:30,Ayton REBOUND (Off:0 Def:2),,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,73,1,1,1,3:50 PM,6:25,Booker 27' 3PT Jump Shot (6 PTS) (Craig 2 AST),,,9 - 18,9,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200240,75,6,2,1,3:50 PM,6:25,,,Robinson S.FOUL (P1.T4) (T.Ford),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200240,77,9,1,1,3:50 PM,6:25,SUNS Timeout: Regular (Full 1 Short 0),,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200240,78,3,10,1,3:53 PM,6:25,Booker Free Throw 1 of 1 (7 PTS),,,9 - 19,10,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,79,1,102,1,3:53 PM,6:11,,,Brunson 7' Driving Floating Bank Jump Shot (2 PTS),11 - 19,8,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,80,1,58,1,3:54 PM,5:51,Ayton 9' Turnaround Hook Shot (2 PTS) (Craig 3 AST),,,11 - 21,10,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200240,82,6,2,1,3:54 PM,5:39,Craig S.FOUL (P1.T2) (T.Ford),,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200240,84,3,11,1,3:54 PM,5:39,,,Barrett Free Throw 1 of 2 (1 PTS),12 - 21,9,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,85,8,0,1,3:54 PM,5:39,,,SUB: Rose FOR Brunson,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200240,87,3,12,1,3:55 PM,5:39,,,Barrett Free Throw 2 of 2 (2 PTS),13 - 21,8,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,89,8,0,1,3:55 PM,5:18,,,SUB: Quickley FOR Barrett,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200240,91,2,1,1,3:55 PM,5:16,MISS Bridges 18' Jump Shot,,,,,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,92,4,0,1,3:55 PM,5:14,,,Randle REBOUND (Off:1 Def:2),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,93,2,6,1,3:56 PM,5:00,Craig BLOCK (1 BLK),,MISS Rose 9' Driving Layup,,,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,1
+0022200240,95,4,0,1,3:56 PM,4:57,,,Rose REBOUND (Off:1 Def:0),,,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,96,1,58,1,3:56 PM,4:56,,,Rose 4' Turnaround Hook Shot (2 PTS),15 - 21,6,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,97,2,1,1,3:56 PM,4:43,MISS Craig 24' 3PT Jump Shot,,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,98,4,0,1,3:56 PM,4:40,,,Robinson REBOUND (Off:0 Def:2),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,99,2,80,1,3:56 PM,4:29,,,MISS Randle 19' Step Back Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,100,4,0,1,3:56 PM,4:25,Payne REBOUND (Off:1 Def:1),,,,,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,101,2,41,1,3:56 PM,4:21,MISS Craig 5' Running Layup,,Grimes BLOCK (1 BLK),,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,1
+0022200240,103,4,0,1,3:56 PM,4:19,,,Grimes REBOUND (Off:0 Def:2),,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,104,6,2,1,3:56 PM,4:17,Ayton S.FOUL (P1.T3) (N.Green),,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200240,106,3,11,1,3:57 PM,4:17,,,Quickley Free Throw 1 of 2 (1 PTS),16 - 21,5,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,107,8,0,1,3:57 PM,4:17,SUB: Washington Jr. FOR Payne,,,,,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200240,109,3,12,1,3:57 PM,4:17,,,Quickley Free Throw 2 of 2 (2 PTS),17 - 21,4,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,110,2,1,1,3:58 PM,4:00,MISS Craig 25' 3PT Jump Shot,,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,111,4,0,1,3:58 PM,3:57,,,Rose REBOUND (Off:1 Def:1),,,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,112,2,2,1,3:58 PM,3:54,,,MISS Grimes 24' 3PT Running Jump Shot,,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,113,4,0,1,3:58 PM,3:51,Ayton REBOUND (Off:0 Def:3),,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,114,2,79,1,3:58 PM,3:37,MISS Washington Jr. 16' Pullup Jump Shot,,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,115,4,0,1,3:58 PM,3:34,Ayton REBOUND (Off:1 Def:3),,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,116,1,102,1,3:58 PM,3:29,Bridges 6' Driving Floating Bank Jump Shot (4 PTS) (Ayton 1 AST),,,17 - 23,6,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200240,117,1,108,1,3:59 PM,3:03,,,Robinson Cutting Dunk Shot (2 PTS) (Grimes 3 AST),19 - 23,4,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200240,119,2,1,1,3:59 PM,2:48,MISS Bridges 26' 3PT Jump Shot,,,,,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,120,4,0,1,3:59 PM,2:46,,,Rose REBOUND (Off:1 Def:2),,,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,121,5,4,1,3:59 PM,2:34,,,Randle Traveling Turnover (P1.T3),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022200240,122,9,1,1,3:59 PM,2:34,,,Knicks Timeout: Regular (Reg.1 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200240,124,8,0,1,4:01 PM,2:34,SUB: Lee FOR Ayton,,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200240,125,8,0,1,4:01 PM,2:34,SUB: Biyombo FOR Bridges,,,,,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200240,126,8,0,1,4:01 PM,2:34,,,SUB: Toppin FOR Randle,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200240,130,2,6,1,4:02 PM,2:23,MISS Washington Jr. 1' Driving Layup,,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,131,4,0,1,4:02 PM,2:22,,,Robinson REBOUND (Off:0 Def:3),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,132,1,1,1,4:03 PM,2:03,,,Rose 25' 3PT Jump Shot (5 PTS) (Toppin 1 AST),22 - 23,1,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200240,134,6,4,1,4:03 PM,1:47,Biyombo OFF.Foul (P1) (K.Lane),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200240,136,5,37,1,4:03 PM,1:47,Biyombo Offensive Foul Turnover (P1.T3),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0022200240,137,8,0,1,4:03 PM,1:47,SUB: Wainright FOR Craig,,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200240,138,8,0,1,4:03 PM,1:47,,,SUB: Barrett FOR Grimes,,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200240,141,2,7,1,4:03 PM,1:31,Lee BLOCK (1 BLK),,MISS Robinson 1' Dunk,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,1
+0022200240,143,4,0,1,4:04 PM,1:27,Booker REBOUND (Off:0 Def:2),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,144,2,2,1,4:04 PM,1:25,MISS Lee 25' 3PT Running Jump Shot,,,,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,145,4,0,1,4:04 PM,1:23,Wainright REBOUND (Off:1 Def:0),,,,,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,146,2,79,1,4:04 PM,1:21,MISS Booker 28' 3PT Pullup Jump Shot,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,147,4,0,1,4:04 PM,1:18,,,Quickley REBOUND (Off:0 Def:1),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,148,2,2,1,4:04 PM,1:14,,,MISS Barrett 3PT Running Jump Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,149,4,0,1,4:04 PM,1:10,Lee REBOUND (Off:0 Def:1),,,,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,151,2,6,1,4:04 PM,1:02,MISS Booker 1' Driving Layup,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,152,4,0,1,4:04 PM,1:02,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200240,154,2,101,1,4:04 PM,0:41,,,MISS Quickley 8' Driving Floating Jump Shot,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,155,4,0,1,4:04 PM,0:38,Booker REBOUND (Off:0 Def:3),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,156,2,2,1,4:05 PM,0:34,MISS Wainright 3PT Running Jump Shot,,,,,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,157,4,0,1,4:05 PM,0:31,Booker REBOUND (Off:1 Def:3),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,158,1,1,1,4:05 PM,0:29,Lee 3PT Jump Shot (3 PTS) (Washington Jr. 1 AST),,,22 - 26,4,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200240,160,2,79,1,4:05 PM,0:11,,,MISS Rose 24' 3PT Pullup Jump Shot,,,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,161,4,0,1,4:05 PM,0:08,Lee REBOUND (Off:0 Def:2),,,,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,162,1,43,1,4:05 PM,0:01,Biyombo 2' Alley Oop Layup (2 PTS) (Booker 1 AST),,,22 - 28,6,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200240,164,13,0,1,4:05 PM,0:00,,End of 1st Period (4:05 PM EST),,22 - 28,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200240,167,12,0,2,4:08 PM,12:00,,Start of 2nd Period (4:08 PM EST),,22 - 28,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200240,168,2,6,2,4:08 PM,11:37,Biyombo BLOCK (1 BLK),,MISS Barrett 6' Driving Layup,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,1
+0022200240,170,4,0,2,4:08 PM,11:35,,,Rose REBOUND (Off:2 Def:2),,,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,171,5,11,2,4:08 PM,11:35,,,Knicks Turnover: Shot Clock (T#4),,,3,1610612752,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200240,172,2,6,2,4:09 PM,11:21,MISS Wainright 8' Driving Layup,,Robinson BLOCK (1 BLK),,,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,1
+0022200240,174,4,0,2,4:09 PM,11:18,Wainright REBOUND (Off:2 Def:0),,,,,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,175,1,79,2,4:09 PM,11:16,Okogie 12' Pullup Jump Shot (2 PTS) (Wainright 1 AST),,,22 - 30,8,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200240,177,1,102,2,4:09 PM,10:48,,,Rose 7' Driving Floating Bank Jump Shot (7 PTS) (Barrett 1 AST),24 - 30,6,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200240,179,2,6,2,4:10 PM,10:34,MISS Washington Jr. 5' Driving Layup,,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,219,2,97,2,4:10 PM,10:31,MISS Biyombo Tip Layup Shot,,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,220,4,0,2,4:10 PM,10:31,Wainright REBOUND (Off:3 Def:0),,,,,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,180,4,0,2,4:10 PM,10:31,Biyombo REBOUND (Off:1 Def:0),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,181,2,72,2,4:10 PM,10:30,MISS Wainright 3' Putback Layup,,Robinson BLOCK (2 BLK),,,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,1
+0022200240,183,4,0,2,4:10 PM,10:30,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200240,185,8,0,2,4:10 PM,10:30,,,SUB: Sims FOR Robinson,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200240,187,6,2,2,4:10 PM,10:18,Okogie S.FOUL (P1.T1) (K.Lane),,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200240,189,3,11,2,4:11 PM,10:18,,,MISS Barrett Free Throw 1 of 2,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,190,4,1,2,4:11 PM,10:18,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200240,191,3,12,2,4:11 PM,10:18,,,Barrett Free Throw 2 of 2 (3 PTS),25 - 30,5,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,192,2,1,2,4:11 PM,10:01,MISS Okogie 26' 3PT Jump Shot,,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,193,4,0,2,4:11 PM,9:57,Biyombo REBOUND (Off:2 Def:0),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,194,2,79,2,4:11 PM,9:56,MISS Lee 15' Pullup Jump Shot,,Sims BLOCK (1 BLK),,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,1
+0022200240,196,4,0,2,4:11 PM,9:53,Lee REBOUND (Off:1 Def:2),,,,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,197,2,79,2,4:11 PM,9:49,MISS Washington Jr. 26' 3PT Pullup Jump Shot,,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,198,4,0,2,4:11 PM,9:48,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200240,199,6,3,2,4:11 PM,9:48,,,Toppin L.B.FOUL (P1.T1) (K.Lane),,,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200240,201,8,0,2,4:12 PM,9:48,,,SUB: Brunson FOR Rose,,,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200240,203,5,40,2,4:12 PM,9:43,Washington Jr. Out of Bounds Lost Ball Turnover (P1.T4),,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0022200240,204,5,4,2,4:12 PM,9:27,,,Sims Traveling Turnover (P1.T5),,,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022200240,205,8,0,2,4:12 PM,9:27,SUB: Payne FOR Washington Jr.,,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200240,207,8,0,2,4:13 PM,9:27,SUB: Bridges FOR Wainright,,,,,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200240,209,1,44,2,4:13 PM,9:09,Bridges 2' Reverse Layup (6 PTS) (Biyombo 1 AST),,,25 - 32,7,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200240,211,1,6,2,4:13 PM,8:55,,,Brunson 1' Driving Layup (4 PTS),27 - 32,5,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,212,1,6,2,4:14 PM,8:36,Okogie 2' Driving Layup (4 PTS) (Lee 1 AST),,,27 - 34,7,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200240,214,2,6,2,4:14 PM,8:21,,,MISS Barrett 2' Driving Layup,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,216,1,97,2,4:14 PM,8:17,,,Barrett Tip Layup Shot (5 PTS),29 - 34,5,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,215,4,0,2,4:14 PM,8:17,,,Barrett REBOUND (Off:1 Def:1),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,217,6,2,2,4:14 PM,8:12,,,Barrett S.FOUL (P1.T2) (N.Green),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200240,221,3,13,2,4:15 PM,8:12,Lee Free Throw 1 of 3 (4 PTS),,,29 - 35,6,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,222,3,14,2,4:15 PM,8:12,Lee Free Throw 2 of 3 (5 PTS),,,29 - 36,7,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,223,3,15,2,4:16 PM,8:12,Lee Free Throw 3 of 3 (6 PTS),,,29 - 37,8,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,224,6,2,2,4:16 PM,8:00,Okogie S.FOUL (P2.T2) (T.Ford),,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200240,226,3,11,2,4:17 PM,8:00,,,Sims Free Throw 1 of 2 (1 PTS),30 - 37,7,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,227,8,0,2,4:17 PM,8:00,,,SUB: Grimes FOR Barrett,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200240,229,3,12,2,4:18 PM,8:00,,,Sims Free Throw 2 of 2 (2 PTS),31 - 37,6,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,230,1,80,2,4:18 PM,7:46,Okogie 25' 3PT Step Back Jump Shot (7 PTS) (Bridges 1 AST),,,31 - 40,9,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200240,232,2,5,2,4:18 PM,7:36,,,MISS Toppin 1' Layup,,,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,233,4,0,2,4:18 PM,7:34,Okogie REBOUND (Off:0 Def:1),,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,234,2,58,2,4:18 PM,7:21,MISS Biyombo 7' Turnaround Hook Shot,,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,235,4,0,2,4:18 PM,7:19,,,Toppin REBOUND (Off:0 Def:1),,,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,236,2,102,2,4:18 PM,7:11,,,MISS Brunson 11' Driving Floating Bank Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,237,4,0,2,4:18 PM,7:09,Bridges REBOUND (Off:0 Def:2),,,,,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,238,2,79,2,4:19 PM,7:02,MISS Bridges 13' Pullup Jump Shot,,,,,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,239,4,0,2,4:19 PM,7:01,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200240,241,8,0,2,4:19 PM,7:01,SUB: Ayton FOR Biyombo,,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200240,243,8,0,2,4:19 PM,7:01,,,SUB: Randle FOR Toppin,,,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200240,245,8,0,2,4:19 PM,7:01,SUB: Craig FOR Okogie,,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200240,247,1,1,2,4:19 PM,6:56,Ayton 16' Jump Shot (4 PTS) (Lee 2 AST),,,31 - 42,11,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200240,249,1,101,2,4:20 PM,6:35,,,Quickley 13' Driving Floating Jump Shot (4 PTS) (Brunson 2 AST),33 - 42,9,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200240,250,1,108,2,4:20 PM,6:15,Craig 2' Cutting Dunk Shot (2 PTS) (Ayton 2 AST),,,33 - 44,11,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200240,253,2,102,2,4:20 PM,5:59,,,MISS Brunson 5' Driving Floating Bank Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,254,4,0,2,4:20 PM,5:56,Payne REBOUND (Off:1 Def:2),,,,,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,255,2,103,2,4:20 PM,5:52,MISS Payne 26' 3PT Running Pull-Up Jump Shot,,,,,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,256,4,0,2,4:20 PM,5:47,,,Sims REBOUND (Off:0 Def:1),,,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,257,1,1,2,4:21 PM,5:34,,,Brunson 25' 3PT Jump Shot (7 PTS) (Quickley 1 AST),36 - 44,8,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200240,259,9,1,2,4:21 PM,5:31,SUNS Timeout: Regular (Full 2 Short 0),,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200240,260,8,0,2,4:23 PM,5:31,SUB: Booker FOR Lee,,,,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200240,262,6,1,2,4:24 PM,5:19,,,Sims P.FOUL (P1.T3) (T.Ford),,,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200240,264,1,108,2,4:24 PM,5:09,Craig 2' Cutting Dunk Shot (4 PTS) (Bridges 2 AST),,,36 - 46,10,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200240,266,6,1,2,4:25 PM,4:58,Craig P.FOUL (P2.T3) (N.Green),,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200240,268,2,86,2,4:25 PM,4:49,,,MISS Brunson 13' Turnaround Fadeaway Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,269,4,0,2,4:25 PM,4:46,Ayton REBOUND (Off:1 Def:4),,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,270,2,79,2,4:25 PM,4:40,MISS Booker 26' 3PT Pullup Jump Shot,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,271,4,0,2,4:25 PM,4:36,,,Brunson REBOUND (Off:0 Def:1),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,272,1,5,2,4:26 PM,4:19,,,Randle 1' Layup (6 PTS),38 - 46,8,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,273,2,86,2,4:26 PM,4:03,MISS Ayton 11' Turnaround Fadeaway Shot,,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,274,4,0,2,4:26 PM,4:01,,,Grimes REBOUND (Off:0 Def:3),,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,275,1,41,2,4:26 PM,3:57,,,Grimes 1' Running Layup (7 PTS),40 - 46,6,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,276,2,86,2,4:26 PM,3:34,MISS Booker 8' Turnaround Fadeaway Shot,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,277,4,0,2,4:26 PM,3:32,,,Randle REBOUND (Off:1 Def:3),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,325,2,41,2,4:26 PM,3:28,Payne BLOCK (2 BLK),,MISS Grimes 6' Running Layup,,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,1
+0022200240,327,4,0,2,4:26 PM,3:27,,,Sims REBOUND (Off:1 Def:1),,,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,278,1,87,2,4:26 PM,3:25,,,Sims 1' Putback Dunk (4 PTS),42 - 46,4,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,279,2,5,2,4:27 PM,3:13,MISS Ayton 2' Layup,,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,280,4,0,2,4:27 PM,3:13,Ayton REBOUND (Off:2 Def:4),,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,281,6,2,2,4:27 PM,3:13,,,Sims S.FOUL (P2.T4) (T.Ford),,,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200240,283,3,11,2,4:27 PM,3:13,MISS Ayton Free Throw 1 of 2,,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,284,4,1,2,4:27 PM,3:13,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200240,287,3,12,2,4:27 PM,3:13,MISS Ayton Free Throw 2 of 2,,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,285,8,0,2,4:27 PM,3:13,,,SUB: Barrett FOR Quickley,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200240,288,4,0,2,4:27 PM,3:10,,,Randle REBOUND (Off:1 Def:4),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,289,1,102,2,4:28 PM,3:07,,,Brunson 8' Driving Floating Bank Jump Shot (9 PTS),44 - 46,2,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,290,6,2,2,4:28 PM,3:07,Ayton S.FOUL (P2.T4) (K.Lane),,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200240,292,3,10,2,4:28 PM,3:07,,,Brunson Free Throw 1 of 1 (10 PTS),45 - 46,1,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,293,5,39,2,4:28 PM,2:58,Payne Step Out of Bounds Turnover (P2.T5),,,,,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0022200240,294,9,1,2,4:28 PM,2:58,,,Knicks Timeout: Regular (Reg.2 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200240,295,5,4,2,4:32 PM,2:48,,,Brunson Traveling Turnover (P1.T6),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022200240,296,2,1,2,4:32 PM,2:30,MISS Payne 26' 3PT Jump Shot,,,,,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,297,4,0,2,4:32 PM,2:29,Craig REBOUND (Off:1 Def:2),,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,298,6,2,2,4:32 PM,2:28,,,Sims S.FOUL (P3.PN) (N.Green),,,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200240,300,3,11,2,4:33 PM,2:28,Craig Free Throw 1 of 2 (5 PTS),,,45 - 47,2,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,301,8,0,2,4:33 PM,2:28,,,SUB: Robinson FOR Sims,,,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200240,303,3,12,2,4:33 PM,2:28,Craig Free Throw 2 of 2 (6 PTS),,,45 - 48,3,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,304,2,1,2,4:33 PM,2:17,,,MISS Randle 24' 3PT Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,305,4,0,2,4:33 PM,2:14,Bridges REBOUND (Off:0 Def:3),,,,,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,306,1,1,2,4:33 PM,2:00,Craig 25' 3PT Jump Shot (9 PTS) (Bridges 3 AST),,,45 - 51,6,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200240,308,1,101,2,4:34 PM,1:39,,,Barrett 9' Driving Floating Jump Shot (7 PTS),47 - 51,4,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,309,1,108,2,4:34 PM,1:27,Booker 2' Cutting Dunk Shot (9 PTS) (Payne 2 AST),,,47 - 53,6,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200240,311,2,1,2,4:34 PM,1:13,,,MISS Grimes 24' 3PT Jump Shot,,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,312,4,0,2,4:34 PM,1:11,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200240,314,1,1,2,4:35 PM,1:06,,,Randle 25' 3PT Jump Shot (9 PTS) (Grimes 4 AST),50 - 53,3,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200240,316,5,2,2,4:35 PM,0:49,Craig Lost Ball Turnover (P1.T6),,Robinson STEAL (1 STL),,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200240,318,1,1,2,4:35 PM,0:35,,,Brunson 3PT Jump Shot (13 PTS) (Grimes 5 AST),53 - 53,TIE,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200240,320,1,101,2,4:36 PM,0:17,Bridges 9' Driving Floating Jump Shot (8 PTS) (Payne 3 AST),,,53 - 55,2,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200240,322,2,79,2,4:36 PM,0:02,,,MISS Brunson 26' 3PT Pullup Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,323,4,0,2,4:36 PM,0:02,,,Brunson REBOUND (Off:1 Def:1),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,324,13,0,2,4:36 PM,0:00,,End of 2nd Period (4:36 PM EST),,53 - 55,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200240,330,12,0,3,4:52 PM,12:00,,Start of 3rd Period (4:52 PM EST),,53 - 55,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200240,331,7,1,3,4:52 PM,12:00,SUNS Violation: Delay of game Violation,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200240,332,2,1,3,4:52 PM,11:40,,,MISS Brunson 26' 3PT Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,333,4,0,3,4:52 PM,11:36,Craig REBOUND (Off:1 Def:3),,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,334,1,98,3,4:52 PM,11:21,Craig 2' Cutting Layup Shot (11 PTS) (Ayton 3 AST),,,53 - 57,4,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200240,336,2,1,3,4:52 PM,11:06,,,MISS Randle 29' 3PT Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,337,4,0,3,4:53 PM,11:03,Payne REBOUND (Off:1 Def:3),,,,,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,338,2,1,3,4:53 PM,10:52,MISS Craig 14' Jump Shot,,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,339,4,0,3,4:53 PM,10:50,,,Hartenstein REBOUND (Off:0 Def:1),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,340,2,6,3,4:53 PM,10:32,Bridges BLOCK (1 BLK),,MISS Barrett 2' Driving Layup,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,1
+0022200240,342,4,0,3,4:53 PM,10:30,,,Hartenstein REBOUND (Off:1 Def:1),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,343,2,72,3,4:53 PM,10:29,Craig BLOCK (2 BLK),,MISS Hartenstein 2' Putback Layup,,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,1
+0022200240,345,4,0,3,4:53 PM,10:27,Payne REBOUND (Off:1 Def:4),,,,,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,346,2,41,3,4:53 PM,10:25,MISS Booker 7' Running Layup,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,347,4,0,3,4:53 PM,10:21,,,Brunson REBOUND (Off:1 Def:2),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,348,1,2,3,4:53 PM,10:17,,,Barrett 3PT Running Jump Shot (10 PTS) (Grimes 6 AST),56 - 57,1,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200240,350,1,1,3,4:54 PM,10:03,Booker 24' 3PT Jump Shot (12 PTS) (Bridges 4 AST),,,56 - 60,4,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200240,352,1,78,3,4:54 PM,9:43,,,Hartenstein 11' Floating Jump Shot (2 PTS) (Grimes 7 AST),58 - 60,2,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200240,354,2,1,3,4:54 PM,9:29,MISS Payne 24' 3PT Jump Shot,,,,,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,355,4,0,3,4:54 PM,9:26,,,Barrett REBOUND (Off:1 Def:2),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,356,1,6,3,4:54 PM,9:19,,,Grimes 2' Driving Layup (9 PTS) (Brunson 3 AST),60 - 60,TIE,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200240,358,2,6,3,4:55 PM,9:03,MISS Payne 4' Driving Layup,,Brunson BLOCK (1 BLK),,,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1
+0022200240,360,4,0,3,4:55 PM,9:03,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200240,362,2,63,3,4:55 PM,8:59,MISS Booker 12' Fadeaway Jumper,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,363,4,0,3,4:55 PM,8:55,Ayton REBOUND (Off:3 Def:4),,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,364,2,1,3,4:55 PM,8:53,MISS Bridges 25' 3PT Jump Shot,,,,,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,365,4,0,3,4:55 PM,8:53,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200240,366,6,3,3,4:55 PM,8:53,Craig L.B.FOUL (P3.T1) (N.Green),,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200240,368,2,57,3,4:56 PM,8:43,,,MISS Hartenstein 8' Driving Hook Shot,,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,369,4,0,3,4:56 PM,8:41,Booker REBOUND (Off:1 Def:4),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,370,1,5,3,4:56 PM,8:28,Ayton 7' Layup (6 PTS) (Payne 4 AST),,,60 - 62,2,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200240,372,5,1,3,4:56 PM,8:04,Bridges STEAL (1 STL),,Randle Bad Pass Turnover (P2.T7),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200240,374,1,50,3,4:56 PM,8:03,Booker 3' Running Dunk (14 PTS) (Bridges 5 AST),,,60 - 64,4,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200240,376,9,1,3,4:56 PM,8:03,,,Knicks Timeout: Regular (Reg.3 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200240,377,1,101,3,4:59 PM,7:52,,,Brunson 12' Driving Floating Jump Shot (15 PTS) (Barrett 2 AST),62 - 64,2,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200240,379,1,1,3,5:00 PM,7:32,Bridges 3PT Jump Shot (11 PTS) (Payne 5 AST),,,62 - 67,5,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200240,381,6,2,3,5:00 PM,7:21,Ayton S.FOUL (P3.T2) (T.Ford),,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200240,383,3,11,3,5:00 PM,7:21,,,Barrett Free Throw 1 of 2 (11 PTS),63 - 67,4,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,384,3,12,3,5:01 PM,7:21,,,Barrett Free Throw 2 of 2 (12 PTS),64 - 67,3,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,385,1,1,3,5:01 PM,7:05,Craig 3PT Jump Shot (14 PTS) (Booker 2 AST),,,64 - 70,6,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200240,387,2,6,3,5:01 PM,6:42,,,MISS Randle 2' Driving Layup,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,388,4,0,3,5:01 PM,6:41,Ayton REBOUND (Off:3 Def:5),,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,389,1,103,3,5:01 PM,6:35,Booker 25' 3PT Running Pull-Up Jump Shot (17 PTS) (Ayton 4 AST),,,64 - 73,9,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200240,390,2,79,3,5:02 PM,6:16,,,MISS Grimes 27' 3PT Pullup Jump Shot,,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,391,4,0,3,5:02 PM,6:13,Ayton REBOUND (Off:3 Def:6),,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,392,1,1,3,5:02 PM,6:00,Ayton 4' Jump Shot (8 PTS) (Booker 3 AST),,,64 - 75,11,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200240,394,9,1,3,5:02 PM,6:00,,,Knicks Timeout: Regular (Reg.4 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200240,396,8,0,3,5:04 PM,6:00,,,SUB: Quickley FOR Barrett,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200240,397,8,0,3,5:04 PM,6:00,,,SUB: Robinson FOR Hartenstein,,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200240,400,1,80,3,5:05 PM,5:37,,,Brunson 13' Step Back Jump Shot (17 PTS),66 - 75,9,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,401,1,52,3,5:05 PM,5:21,Ayton Alley Oop Dunk (10 PTS) (Payne 6 AST),,,66 - 77,11,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200240,403,6,1,3,5:06 PM,5:14,Payne P.FOUL (P1.T3) (T.Ford),,,,,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200240,405,5,21,3,5:06 PM,5:02,,,Quickley Palming Turnover (P1.T8),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022200240,406,2,79,3,5:07 PM,4:41,MISS Booker 10' Pullup Jump Shot,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,407,4,0,3,5:07 PM,4:37,,,Randle REBOUND (Off:1 Def:5),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,408,1,104,3,5:07 PM,4:30,,,Brunson 9' Step Back Bank Jump Shot (19 PTS),68 - 77,9,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,409,1,101,3,5:07 PM,4:18,Payne 9' Driving Floating Jump Shot (12 PTS),,,68 - 79,11,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,410,1,101,3,5:07 PM,4:05,,,Brunson 13' Driving Floating Jump Shot (21 PTS),70 - 79,9,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,411,6,2,3,5:07 PM,4:05,Craig S.FOUL (P4.T4) (N.Green),,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200240,413,8,0,3,5:08 PM,4:05,SUB: Washington Jr. FOR Payne,,,,,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200240,415,8,0,3,5:08 PM,4:05,SUB: Wainright FOR Craig,,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200240,417,3,10,3,5:08 PM,4:05,,,Brunson Free Throw 1 of 1 (22 PTS),71 - 79,8,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,418,2,1,3,5:08 PM,3:57,MISS Wainright 25' 3PT Jump Shot,,,,,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,419,4,0,3,5:09 PM,3:54,,,Grimes REBOUND (Off:0 Def:4),,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,420,1,101,3,5:09 PM,3:37,,,Brunson 11' Driving Floating Jump Shot (24 PTS) (Randle 2 AST),73 - 79,6,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200240,422,2,1,3,5:09 PM,3:17,MISS Washington Jr. 3PT Jump Shot,,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,423,4,0,3,5:09 PM,3:15,,,Robinson REBOUND (Off:0 Def:4),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,424,2,79,3,5:09 PM,3:08,,,MISS Randle 27' 3PT Pullup Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,425,4,0,3,5:09 PM,3:03,Washington Jr. REBOUND (Off:0 Def:1),,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,426,2,1,3,5:10 PM,2:55,MISS Ayton 25' 3PT Jump Shot,,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,428,1,97,3,5:10 PM,2:48,Bridges Tip Layup Shot (13 PTS),,,73 - 81,8,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,427,4,0,3,5:10 PM,2:48,Bridges REBOUND (Off:1 Def:3),,,,,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,429,5,1,3,5:10 PM,2:26,Bridges STEAL (2 STL),,Randle Bad Pass Turnover (P3.T9),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200240,431,2,2,3,5:10 PM,2:21,MISS Wainright 3PT Running Jump Shot,,,,,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,432,4,0,3,5:10 PM,2:17,,,Grimes REBOUND (Off:0 Def:5),,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,433,2,101,3,5:10 PM,2:07,,,MISS Brunson 9' Driving Floating Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,434,4,0,3,5:10 PM,2:06,Ayton REBOUND (Off:3 Def:7),,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,435,2,1,3,5:11 PM,1:55,MISS Bridges 20' Jump Shot,,,,,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,436,4,0,3,5:11 PM,1:54,Ayton REBOUND (Off:4 Def:7),,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,437,1,72,3,5:11 PM,1:54,Ayton 1' Putback Layup (12 PTS),,,73 - 83,10,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,438,6,2,3,5:11 PM,1:54,,,Grimes S.FOUL (P1.T1) (N.Green),,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200240,455,3,10,3,5:11 PM,1:54,Ayton Free Throw 1 of 1 (13 PTS),,,73 - 84,11,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0022200240,440,8,0,3,5:11 PM,1:54,SUB: Lee FOR Bridges,,,,,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200240,441,8,0,3,5:11 PM,1:54,,,SUB: McBride FOR Grimes,,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200240,442,8,0,3,5:11 PM,1:54,,,SUB: Barrett FOR Brunson,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200240,443,8,0,3,5:11 PM,1:54,,,SUB: Toppin FOR Randle,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200240,448,8,0,3,5:11 PM,1:54,,,SUB: Sims FOR Robinson,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200240,450,2,102,3,5:12 PM,1:39,,,MISS Barrett 2' Driving Floating Bank Jump Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,451,4,0,3,5:12 PM,1:39,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200240,453,8,0,3,5:12 PM,1:39,SUB: Biyombo FOR Ayton,,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200240,456,5,45,3,5:12 PM,1:23,Wainright Out of Bounds - Bad Pass Turnover Turnover (P1.T7),,,,,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0022200240,457,2,1,3,5:13 PM,1:06,,,MISS Quickley 3PT Jump Shot,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,458,4,0,3,5:13 PM,1:04,Lee REBOUND (Off:1 Def:3),,,,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,459,1,1,3,5:13 PM,0:46,Booker 24' 3PT Jump Shot (20 PTS),,,73 - 87,14,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,460,2,6,3,5:13 PM,0:40,,,MISS Quickley 2' Driving Layup,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,461,4,0,3,5:13 PM,0:37,Wainright REBOUND (Off:3 Def:1),,,,,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,462,1,1,3,5:13 PM,0:32,Washington Jr. 29' 3PT Jump Shot (3 PTS) (Lee 3 AST),,,73 - 90,17,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200240,464,1,79,3,5:14 PM,0:16,,,McBride 20' Pullup Jump Shot (2 PTS) (Sims 1 AST),75 - 90,15,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200240,466,2,1,3,5:14 PM,0:00,MISS Lee 3PT Jump Shot,,,,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,467,4,0,3,5:14 PM,0:00,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200240,468,13,0,3,5:14 PM,0:00,,End of 3rd Period (5:14 PM EST),,75 - 90,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200240,471,12,0,4,5:17 PM,12:00,,Start of 4th Period (5:17 PM EST),,75 - 90,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200240,472,1,1,4,5:17 PM,11:37,Wainright 25' 3PT Jump Shot (3 PTS) (Okogie 1 AST),,,75 - 93,18,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200240,475,2,6,4,5:18 PM,11:12,,,MISS Barrett 2' Driving Layup,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,476,4,0,4,5:18 PM,11:12,,,Barrett REBOUND (Off:2 Def:2),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,477,2,72,4,5:18 PM,11:12,,,MISS Barrett 1' Putback Layup,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,478,4,0,4,5:18 PM,11:12,,,Sims REBOUND (Off:2 Def:1),,,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,479,6,2,4,5:18 PM,11:12,Washington Jr. S.FOUL (P1.T1) (N.Green),,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200240,481,3,11,4,5:18 PM,11:12,,,MISS Sims Free Throw 1 of 2,,,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,482,4,1,4,5:18 PM,11:12,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200240,483,3,12,4,5:18 PM,11:12,,,Sims Free Throw 2 of 2 (5 PTS),76 - 93,17,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,484,2,101,4,5:19 PM,10:58,MISS Lee 11' Driving Floating Jump Shot,,,,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,485,4,0,4,5:19 PM,10:57,,,Toppin REBOUND (Off:0 Def:2),,,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,486,1,79,4,5:19 PM,10:49,,,McBride 19' Pullup Jump Shot (4 PTS),78 - 93,15,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,487,6,1,4,5:19 PM,10:36,,,McBride P.FOUL (P1.T1) (K.Lane),,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200240,489,2,1,4,5:20 PM,10:29,MISS Wainright 3PT Jump Shot,,,,,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,490,4,0,4,5:20 PM,10:25,Biyombo REBOUND (Off:3 Def:0),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,491,2,80,4,5:20 PM,10:22,MISS Washington Jr. 15' Step Back Jump Shot,,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,492,4,0,4,5:20 PM,10:22,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200240,493,6,3,4,5:20 PM,10:22,,,McBride L.B.FOUL (P2.T2) (N.Green),,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200240,495,2,57,4,5:20 PM,10:10,MISS Biyombo 5' Driving Hook Shot,,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,496,4,0,4,5:20 PM,10:07,Biyombo REBOUND (Off:4 Def:0),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,497,6,2,4,5:20 PM,10:07,,,Barrett S.FOUL (P2.T3) (K.Lane),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200240,499,3,11,4,5:21 PM,10:07,MISS Biyombo Free Throw 1 of 2,,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,500,4,1,4,5:21 PM,10:07,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200240,501,3,12,4,5:21 PM,10:07,Biyombo Free Throw 2 of 2 (3 PTS),,,78 - 94,16,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,502,2,1,4,5:21 PM,9:55,,,MISS Toppin 25' 3PT Jump Shot,,,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,503,4,0,4,5:21 PM,9:54,,,Sims REBOUND (Off:3 Def:1),,,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,547,2,97,4,5:21 PM,9:54,,,MISS Sims 1' Tip Layup Shot,,,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,548,4,0,4,5:21 PM,9:54,Wainright REBOUND (Off:3 Def:2),,,,,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,504,2,6,4,5:21 PM,9:43,MISS Washington Jr. 1' Driving Layup,,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,505,4,0,4,5:21 PM,9:42,Biyombo REBOUND (Off:5 Def:0),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,506,2,63,4,5:22 PM,9:31,MISS Okogie 10' Fadeaway Jumper,,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,507,4,0,4,5:22 PM,9:28,,,Toppin REBOUND (Off:0 Def:3),,,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,508,6,1,4,5:22 PM,9:19,Washington Jr. P.FOUL (P2.T2) (T.Ford),,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200240,510,5,4,4,5:22 PM,9:11,,,Quickley Traveling Turnover (P2.T10),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022200240,511,6,4,4,5:23 PM,8:58,Biyombo OFF.Foul (P2) (K.Lane),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200240,513,5,37,4,5:23 PM,8:58,Biyombo Offensive Foul Turnover (P2.T8),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0022200240,514,8,0,4,5:23 PM,8:58,,,SUB: Brunson FOR Quickley,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200240,516,6,2,4,5:23 PM,8:45,Wainright S.FOUL (P1.T3) (K.Lane),,,,,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200240,518,3,11,4,5:24 PM,8:45,,,Brunson Free Throw 1 of 2 (25 PTS),79 - 94,15,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,519,8,0,4,5:24 PM,8:45,SUB: Payne FOR Okogie,,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200240,520,8,0,4,5:24 PM,8:45,SUB: Bridges FOR Washington Jr.,,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200240,521,8,0,4,5:24 PM,8:45,,,SUB: Grimes FOR Barrett,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200240,525,3,12,4,5:24 PM,8:45,,,MISS Brunson Free Throw 2 of 2,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0022200240,526,4,0,4,5:24 PM,8:42,Bridges REBOUND (Off:1 Def:4),,,,,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,527,1,80,4,5:25 PM,8:26,Payne 14' Step Back Jump Shot (14 PTS),,,79 - 96,17,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,529,2,1,4,5:25 PM,8:14,,,MISS Toppin 26' 3PT Jump Shot,,,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,530,4,0,4,5:25 PM,8:13,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200240,531,6,3,4,5:25 PM,8:13,Wainright L.B.FOUL (P2.T4) (K.Lane),,,,,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200240,533,2,1,4,5:25 PM,8:09,,,MISS Brunson 17' Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,534,4,0,4,5:25 PM,8:05,Payne REBOUND (Off:1 Def:5),,,,,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,535,1,103,4,5:25 PM,8:00,Lee 27' 3PT Running Pull-Up Jump Shot (9 PTS) (Wainright 2 AST),,,79 - 99,20,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200240,537,2,79,4,5:26 PM,7:33,,,MISS McBride 19' Pullup Jump Shot,,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,538,4,0,4,5:26 PM,7:29,Bridges REBOUND (Off:1 Def:5),,,,,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,539,6,4,4,5:26 PM,7:26,Biyombo OFF.Foul (P3) (N.Green),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200240,541,5,37,4,5:26 PM,7:26,Biyombo Offensive Foul Turnover (P3.T9),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0022200240,542,6,4,4,5:26 PM,7:13,,,Grimes OFF.Foul (P2) (N.Green),,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200240,544,5,37,4,5:26 PM,7:13,,,Grimes Offensive Foul Turnover (P1.T11),,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022200240,545,1,1,4,5:27 PM,7:01,Lee 3PT Jump Shot (12 PTS) (Payne 7 AST),,,79 - 102,23,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200240,549,2,101,4,5:27 PM,6:37,,,MISS Toppin 11' Driving Floating Jump Shot,,,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,550,4,0,4,5:27 PM,6:35,Biyombo REBOUND (Off:5 Def:1),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,551,1,1,4,5:28 PM,6:29,Payne 25' 3PT Jump Shot (17 PTS) (Lee 4 AST),,,79 - 105,26,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200240,553,9,1,4,5:28 PM,6:28,,,Knicks Timeout: Regular (Reg.5 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200240,554,1,58,4,5:31 PM,6:14,,,Brunson 8' Turnaround Hook Shot (27 PTS),81 - 105,24,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,555,2,101,4,5:31 PM,5:56,MISS Payne 5' Driving Floating Jump Shot,,,,,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,556,4,0,4,5:31 PM,5:56,,,Sims REBOUND (Off:3 Def:2),,,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,558,8,0,4,5:31 PM,5:56,,,SUB: Hartenstein FOR Brunson,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200240,559,8,0,4,5:31 PM,5:56,,,SUB: Arcidiacono FOR Sims,,,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,5,1627853,Ryan Arcidiacono,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200240,563,1,98,4,5:32 PM,5:42,,,Hartenstein 2' Cutting Layup Shot (4 PTS) (Grimes 8 AST),83 - 105,22,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200240,565,2,1,4,5:32 PM,5:30,MISS Wainright 25' 3PT Jump Shot,,,,,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,566,4,0,4,5:32 PM,5:26,Biyombo REBOUND (Off:6 Def:1),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,567,2,6,4,5:32 PM,5:17,MISS Payne 2' Driving Layup,,,,,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,568,4,0,4,5:32 PM,5:17,Wainright REBOUND (Off:4 Def:2),,,,,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,569,5,45,4,5:32 PM,5:17,Wainright Out of Bounds - Bad Pass Turnover Turnover (P2.T10),,,,,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0022200240,570,2,1,4,5:32 PM,5:06,,,MISS Grimes 8' Jump Shot,,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,571,4,0,4,5:32 PM,5:06,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200240,572,6,3,4,5:32 PM,5:06,Biyombo L.B.FOUL (P4.PN) (N.Green),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200240,574,3,11,4,5:33 PM,5:06,,,MISS Grimes Free Throw 1 of 2,,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,575,4,1,4,5:33 PM,5:06,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200240,580,3,12,4,5:33 PM,5:06,,,Grimes Free Throw 2 of 2 (10 PTS),84 - 105,21,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,576,8,0,4,5:33 PM,5:06,SUB: Okogie FOR Bridges,,,,,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200240,577,8,0,4,5:33 PM,5:06,,,SUB: Mykhailiuk FOR Toppin,,,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,5,1629004,Svi Mykhailiuk,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200240,582,5,15,4,5:34 PM,4:53,Biyombo Offensive Goaltending Turnover (P4.T11),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0022200240,649,8,0,4,5:34 PM,4:53,,,SUB: Quickley FOR Grimes,,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200240,583,1,1,4,5:34 PM,4:36,,,McBride 27' 3PT Jump Shot (7 PTS) (Quickley 2 AST),87 - 105,18,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200240,585,5,40,4,5:35 PM,4:11,Okogie Out of Bounds Lost Ball Turnover (P1.T12),,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0022200240,588,1,98,4,5:35 PM,4:02,,,McBride 1' Cutting Layup Shot (9 PTS) (Hartenstein 1 AST),89 - 105,16,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200240,590,9,1,4,5:35 PM,4:02,SUNS Timeout: Regular (Full 3 Short 0),,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200240,591,5,1,4,5:38 PM,3:50,Okogie Bad Pass Turnover (P2.T13),,McBride STEAL (1 STL),,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200240,593,2,41,4,5:38 PM,3:47,Okogie BLOCK (1 BLK),,MISS Hartenstein 3' Running Layup,,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,1
+0022200240,595,4,0,4,5:38 PM,3:44,Biyombo REBOUND (Off:6 Def:2),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,596,1,5,4,5:38 PM,3:23,Biyombo 2' Layup (5 PTS) (Payne 8 AST),,,89 - 107,18,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200240,598,2,1,4,5:39 PM,3:08,,,MISS Quickley 26' 3PT Jump Shot,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,599,4,0,4,5:39 PM,3:04,Payne REBOUND (Off:1 Def:6),,,,,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,600,1,101,4,5:39 PM,2:56,Payne 10' Driving Floating Jump Shot (19 PTS),,,89 - 109,20,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,601,2,101,4,5:39 PM,2:33,,,MISS Arcidiacono 8' Driving Floating Jump Shot,,,5,1627853,Ryan Arcidiacono,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,602,4,0,4,5:39 PM,2:31,Wainright REBOUND (Off:4 Def:3),,,,,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,603,1,1,4,5:40 PM,2:19,Lee 28' 3PT Jump Shot (15 PTS) (Payne 9 AST),,,89 - 112,23,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200240,605,2,1,4,5:40 PM,2:09,,,MISS Arcidiacono 3PT Jump Shot,,,5,1627853,Ryan Arcidiacono,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,606,4,0,4,5:40 PM,2:05,Biyombo REBOUND (Off:6 Def:3),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,607,1,79,4,5:40 PM,1:47,Payne 15' Pullup Jump Shot (21 PTS) (Biyombo 2 AST),,,89 - 114,25,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200240,608,6,28,4,5:40 PM,1:45,Lee Personal Take Foul (P1.PN) (T.Ford),,,,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0022200240,611,3,11,4,5:41 PM,1:45,,,Quickley Free Throw 1 of 2 (5 PTS),90 - 114,24,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,612,8,0,4,5:41 PM,1:45,SUB: Washington Jr. FOR Payne,,,,,4,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200240,614,3,12,4,5:41 PM,1:45,,,Quickley Free Throw 2 of 2 (6 PTS),91 - 114,23,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,615,2,1,4,5:42 PM,1:29,MISS Okogie 25' 3PT Jump Shot,,Quickley BLOCK (1 BLK),,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,1
+0022200240,617,4,0,4,5:42 PM,1:27,Okogie REBOUND (Off:1 Def:1),,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,620,2,3,4,5:42 PM,1:22,MISS Biyombo 1' Hook Shot,,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0022200240,621,4,0,4,5:42 PM,1:21,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200240,623,2,80,4,5:42 PM,1:14,,,MISS Quickley 19' Step Back Jump Shot,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,624,4,0,4,5:42 PM,1:13,Okogie REBOUND (Off:1 Def:2),,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,625,1,79,4,5:42 PM,1:01,Washington Jr. 13' Pullup Jump Shot (5 PTS) (Biyombo 3 AST),,,91 - 116,25,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200240,627,6,2,4,5:43 PM,0:54,Okogie S.FOUL (P3.PN) (T.Ford),,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200240,629,3,13,4,5:43 PM,0:54,,,Hartenstein Free Throw 1 of 3 (5 PTS),92 - 116,24,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,630,3,14,4,5:43 PM,0:54,,,Hartenstein Free Throw 2 of 3 (6 PTS),93 - 116,23,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,631,3,15,4,5:44 PM,0:54,,,Hartenstein Free Throw 3 of 3 (7 PTS),94 - 116,22,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,632,2,101,4,5:44 PM,0:41,MISS Washington Jr. 6' Driving Floating Jump Shot,,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,633,4,0,4,5:44 PM,0:37,,,Mykhailiuk REBOUND (Off:0 Def:1),,,5,1629004,Svi Mykhailiuk,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,634,6,2,4,5:44 PM,0:31,Biyombo S.FOUL (P5.PN) (N.Green),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,5,1629004,Svi Mykhailiuk,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200240,636,3,11,4,5:44 PM,0:31,,,Mykhailiuk Free Throw 1 of 2 (1 PTS),95 - 116,21,5,1629004,Svi Mykhailiuk,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,637,3,12,4,5:44 PM,0:31,,,MISS Mykhailiuk Free Throw 2 of 2,,,5,1629004,Svi Mykhailiuk,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,638,4,0,4,5:44 PM,0:29,Biyombo REBOUND (Off:6 Def:4),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,639,2,7,4,5:45 PM,0:21,MISS Okogie 2' Dunk,,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,640,4,0,4,5:45 PM,0:18,Okogie REBOUND (Off:2 Def:2),,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,641,2,72,4,5:45 PM,0:17,MISS Okogie 2' Putback Layup,,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,642,4,0,4,5:45 PM,0:12,Okogie REBOUND (Off:3 Def:2),,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200240,643,2,97,4,5:45 PM,0:11,MISS Okogie 1' Tip Layup Shot,,Hartenstein BLOCK (1 BLK),,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,1
+0022200240,644,4,0,4,5:45 PM,0:08,,,Hartenstein REBOUND (Off:1 Def:2),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,645,2,79,4,5:45 PM,0:00,,,MISS McBride 30' 3PT Pullup Jump Shot,,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200240,646,4,0,4,5:45 PM,0:00,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200240,647,13,0,4,5:45 PM,0:00,,End of 4th Period (5:45 PM EST),,95 - 116,21,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

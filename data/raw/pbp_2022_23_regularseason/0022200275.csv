@@ -1,0 +1,480 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200275,2,12,0,1,8:12 PM,12:00,,Start of 1st Period (8:12 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200275,4,10,0,1,8:12 PM,12:00,Jump Ball Horford vs. Sabonis: Tip to Murray,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,1
+0022200275,7,1,6,1,8:12 PM,11:48,,,Barnes 5' Driving Layup (2 PTS) (Fox 1 AST),2 - 0,-2,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200275,9,2,6,1,8:12 PM,11:32,MISS Horford 4' Driving Layup,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,10,4,0,1,8:12 PM,11:29,,,Fox REBOUND (Off:0 Def:1),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,11,5,45,1,8:12 PM,11:20,,,Huerter Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022200275,12,2,101,1,8:13 PM,11:00,MISS Tatum 5' Driving Floating Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,13,4,0,1,8:13 PM,10:57,,,Murray REBOUND (Off:0 Def:1),,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,14,2,1,1,8:13 PM,10:36,,,MISS Huerter 27' 3PT Jump Shot,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,15,4,0,1,8:13 PM,10:32,,,Murray REBOUND (Off:1 Def:1),,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,16,2,1,1,8:13 PM,10:30,,,MISS Murray 26' 3PT Jump Shot,,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,17,4,0,1,8:13 PM,10:28,Tatum REBOUND (Off:0 Def:1),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,18,2,2,1,8:13 PM,10:22,MISS Smart 25' 3PT Running Jump Shot,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,19,4,0,1,8:14 PM,10:19,,,Huerter REBOUND (Off:0 Def:1),,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,20,1,5,1,8:14 PM,10:05,,,Sabonis 4' Layup (2 PTS) (Huerter 1 AST),4 - 0,-4,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200275,22,1,73,1,8:14 PM,9:57,Brown 3' Driving Reverse Layup (2 PTS),,,4 - 2,-2,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,23,2,63,1,8:14 PM,9:37,,,MISS Huerter 14' Fadeaway Jumper,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,24,4,0,1,8:14 PM,9:33,Smart REBOUND (Off:0 Def:1),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,25,2,79,1,8:14 PM,9:29,MISS Brown 14' Pullup Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,26,4,0,1,8:14 PM,9:27,,,Fox REBOUND (Off:0 Def:2),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,27,2,1,1,8:15 PM,9:09,,,MISS Huerter 28' 3PT Jump Shot,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,28,4,0,1,8:15 PM,9:06,Tatum REBOUND (Off:0 Def:2),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,29,1,1,1,8:15 PM,8:51,White 29' 3PT Jump Shot (3 PTS) (Brown 1 AST),,,4 - 5,1,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200275,31,2,6,1,8:15 PM,8:41,,,MISS Fox 2' Driving Layup,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,32,4,0,1,8:15 PM,8:39,Horford REBOUND (Off:0 Def:1),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,33,6,2,1,8:15 PM,8:35,,,Sabonis S.FOUL (P1.T1) (E.Lewis),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200275,35,3,11,1,8:16 PM,8:35,MISS White Free Throw 1 of 2,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,36,4,1,1,8:16 PM,8:35,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200275,37,3,12,1,8:16 PM,8:35,White Free Throw 2 of 2 (4 PTS),,,4 - 6,2,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,38,2,1,1,8:16 PM,8:21,,,MISS Murray 24' 3PT Jump Shot,,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,39,4,0,1,8:16 PM,8:17,Smart REBOUND (Off:0 Def:2),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,40,2,1,1,8:17 PM,8:10,MISS Tatum 26' 3PT Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,41,4,0,1,8:17 PM,8:08,,,Murray REBOUND (Off:1 Def:2),,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,42,2,41,1,8:17 PM,8:02,Horford BLOCK (1 BLK),,MISS Murray 5' Running Layup,,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,1
+0022200275,44,4,0,1,8:17 PM,8:01,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200275,46,2,5,1,8:17 PM,7:54,,,MISS Sabonis 5' Layup,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,47,4,0,1,8:17 PM,7:54,,,Sabonis REBOUND (Off:1 Def:0),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,48,6,2,1,8:17 PM,7:54,Brown S.FOUL (P1.T1) (E.Lewis),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200275,50,3,11,1,8:18 PM,7:54,,,Sabonis Free Throw 1 of 2 (3 PTS),5 - 6,1,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,51,3,12,1,8:18 PM,7:54,,,Sabonis Free Throw 2 of 2 (4 PTS),6 - 6,TIE,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,52,1,1,1,8:18 PM,7:43,Horford 27' 3PT Jump Shot (3 PTS) (White 1 AST),,,6 - 9,3,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200275,54,2,1,1,8:18 PM,7:27,,,MISS Murray 28' 3PT Jump Shot,,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,55,4,0,1,8:19 PM,7:24,White REBOUND (Off:0 Def:1),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,56,1,6,1,8:19 PM,7:20,Tatum 3' Driving Layup (2 PTS) (White 2 AST),,,6 - 11,5,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200275,58,6,2,1,8:19 PM,7:20,,,Huerter S.FOUL (P1.T2) (N.Sago),,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200275,60,3,10,1,8:19 PM,7:20,MISS Tatum Free Throw 1 of 1,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,61,4,0,1,8:19 PM,7:20,,,Sabonis REBOUND (Off:1 Def:1),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,62,2,6,1,8:19 PM,7:07,,,MISS Barnes 5' Driving Layup,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,63,4,0,1,8:19 PM,7:05,White REBOUND (Off:0 Def:2),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,64,2,74,1,8:19 PM,7:01,MISS White 3' Running Reverse Layup,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,65,4,0,1,8:19 PM,6:59,,,Fox REBOUND (Off:0 Def:3),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,66,5,2,1,8:19 PM,6:56,White STEAL (1 STL),,Fox Lost Ball Turnover (P1.T2),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200275,68,1,5,1,8:20 PM,6:53,White 2' Layup (6 PTS) (Smart 1 AST),,,6 - 13,7,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200275,70,6,11,1,8:20 PM,6:53,,Mike Brown Foul:T.FOUL (N.Sago),,,,7,1658,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200275,71,6,11,1,8:20 PM,6:53,,,Fox T.FOUL (P0.T2) (N.Sago),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,0
+0022200275,72,9,1,1,8:21 PM,6:53,CELTICS Timeout: Regular (Full 1 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200275,73,3,16,1,8:23 PM,6:53,Tatum Free Throw Technical (3 PTS),,,6 - 14,8,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0022200275,74,3,16,1,8:23 PM,6:53,Tatum Free Throw Technical (4 PTS),,,6 - 15,9,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,75,6,2,1,8:24 PM,6:34,White S.FOUL (P1.T2) (N.Sago),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200275,77,3,11,1,8:24 PM,6:34,,,Barnes Free Throw 1 of 2 (3 PTS),7 - 15,8,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,78,8,0,1,8:24 PM,6:34,SUB: Williams FOR Tatum,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200275,80,3,12,1,8:24 PM,6:34,,,Barnes Free Throw 2 of 2 (4 PTS),8 - 15,7,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,81,2,1,1,8:25 PM,6:20,MISS Brown 25' 3PT Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,82,4,0,1,8:25 PM,6:16,,,Barnes REBOUND (Off:0 Def:1),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,83,1,6,1,8:25 PM,6:10,,,Barnes 4' Driving Layup (6 PTS),10 - 15,5,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,84,1,1,1,8:25 PM,6:00,Horford 24' 3PT Jump Shot (6 PTS) (Smart 2 AST),,,10 - 18,8,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200275,86,5,1,1,8:25 PM,5:51,Brown STEAL (1 STL),,Huerter Bad Pass Turnover (P2.T3),,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200275,88,1,74,1,8:25 PM,5:47,White 1' Running Reverse Layup (8 PTS) (Brown 2 AST),,,10 - 20,10,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200275,90,5,1,1,8:26 PM,5:27,White STEAL (2 STL),,Barnes Bad Pass Turnover (P1.T4),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200275,92,5,1,1,8:26 PM,5:22,Smart Bad Pass Turnover (P1.T1),,Murray STEAL (1 STL),,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200275,94,2,1,1,8:26 PM,5:17,,,MISS Huerter 24' 3PT Jump Shot,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,95,4,0,1,8:26 PM,5:13,,,Murray REBOUND (Off:2 Def:2),,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,96,2,1,1,8:26 PM,5:11,,,MISS Fox 27' 3PT Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,97,4,0,1,8:26 PM,5:08,Horford REBOUND (Off:0 Def:2),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,98,2,6,1,8:26 PM,4:59,MISS Horford 4' Driving Layup,,Huerter BLOCK (1 BLK),,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,1
+0022200275,100,4,0,1,8:26 PM,4:59,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200275,102,8,0,1,8:26 PM,4:59,SUB: Brogdon FOR White,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200275,103,8,0,1,8:26 PM,4:59,,,SUB: Monk FOR Fox,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200275,104,8,0,1,8:26 PM,4:59,,,SUB: Mitchell FOR Murray,,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200275,108,5,45,1,8:27 PM,4:47,,,Mitchell Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022200275,109,1,6,1,8:27 PM,4:31,Brown 1' Driving Layup (4 PTS),,,10 - 22,12,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,111,6,2,1,8:27 PM,4:31,,,Huerter S.FOUL (P2.T3) (N.Sago),,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200275,113,3,10,1,8:27 PM,4:31,Brown Free Throw 1 of 1 (5 PTS),,,10 - 23,13,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,114,1,79,1,8:28 PM,4:22,,,Mitchell 17' Pullup Jump Shot (2 PTS),12 - 23,11,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,115,2,98,1,8:28 PM,4:04,MISS Horford 3' Cutting Layup Shot,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,116,4,0,1,8:28 PM,4:01,,,Huerter REBOUND (Off:0 Def:2),,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,117,6,1,1,8:28 PM,3:59,Brown P.FOUL (P2.T3) (E.Lewis),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200275,119,8,0,1,8:28 PM,3:59,SUB: Hauser FOR Horford,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200275,121,6,11,1,8:29 PM,3:59,Brown T.FOUL (P2.T3) (E.Lewis),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,0
+0022200275,125,8,0,1,8:29 PM,3:59,,,SUB: Lyles FOR Huerter,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200275,143,8,0,1,8:29 PM,3:59,,,SUB: Okpala FOR Barnes,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200275,122,3,16,1,8:29 PM,3:59,,,MISS Monk Free Throw Technical,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,123,4,1,1,8:29 PM,3:59,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200275,124,5,39,1,8:29 PM,3:48,,,Lyles Step Out of Bounds Turnover (P1.T6),,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022200275,127,2,1,1,8:30 PM,3:36,MISS Smart 3PT Jump Shot,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,128,4,0,1,8:30 PM,3:33,,,Sabonis REBOUND (Off:1 Def:2),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,129,1,6,1,8:30 PM,3:26,,,Monk 4' Driving Layup (2 PTS) (Sabonis 1 AST),14 - 23,9,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200275,131,1,79,1,8:30 PM,3:15,Brogdon 25' 3PT Pullup Jump Shot (3 PTS) (Williams 1 AST),,,14 - 26,12,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200275,132,1,1,1,8:30 PM,2:59,,,Monk 28' 3PT Jump Shot (5 PTS) (Sabonis 2 AST),17 - 26,9,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200275,135,2,6,1,8:31 PM,2:39,MISS Brogdon 6' Driving Layup,,Mitchell BLOCK (1 BLK),,,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,1
+0022200275,137,4,0,1,8:31 PM,2:36,Williams REBOUND (Off:1 Def:0),,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,138,1,6,1,8:31 PM,2:36,Brown 1' Driving Layup (7 PTS) (Williams 2 AST),,,17 - 28,11,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200275,140,6,2,1,8:31 PM,2:36,,,Okpala S.FOUL (P1.T4) (N.Sago),,,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200275,142,9,1,1,8:31 PM,2:36,,,Kings Timeout: Regular (Reg.1 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200275,145,8,0,1,8:33 PM,2:36,SUB: White FOR Smart,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200275,146,8,0,1,8:33 PM,2:36,,,SUB: Metu FOR Sabonis,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200275,147,8,0,1,8:33 PM,2:36,,,SUB: Davis FOR Mitchell,,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200275,148,8,0,1,8:33 PM,2:36,,,SUB: Fox FOR Okpala,,,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200275,153,3,10,1,8:34 PM,2:36,Brown Free Throw 1 of 1 (8 PTS),,,17 - 29,12,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,154,6,4,1,8:34 PM,2:27,,,Metu OFF.Foul (P1) (E.Lewis),,,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200275,156,5,37,1,8:34 PM,2:27,,,Metu Offensive Foul Turnover (P1.T7),,,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022200275,157,8,0,1,8:34 PM,2:27,SUB: Tatum FOR Brown,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200275,159,7,5,1,8:35 PM,2:20,,,Fox Violation:Kicked Ball (E.Lewis),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,0
+0022200275,160,2,1,1,8:35 PM,2:12,MISS Hauser 3PT Jump Shot,,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,161,4,0,1,8:35 PM,2:10,,,Lyles REBOUND (Off:0 Def:1),,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,162,5,1,1,8:35 PM,2:02,White STEAL (3 STL),,Monk Bad Pass Turnover (P1.T8),,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200275,164,1,41,1,8:35 PM,1:56,Tatum 2' Running Layup (6 PTS),,,17 - 31,14,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,165,6,1,1,8:36 PM,1:41,Tatum P.FOUL (P1.T4) (D.Mosher),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200275,167,1,79,1,8:36 PM,1:31,,,Fox 26' 3PT Pullup Jump Shot (3 PTS) (Monk 1 AST),20 - 31,11,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200275,169,2,6,1,8:36 PM,1:16,MISS Tatum 4' Driving Layup,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,170,4,0,1,8:36 PM,1:14,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200275,172,1,1,1,8:37 PM,1:12,Hauser 26' 3PT Jump Shot (3 PTS) (Brogdon 1 AST),,,20 - 34,14,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200275,174,5,45,1,8:37 PM,0:59,,,Metu Out of Bounds - Bad Pass Turnover Turnover (P2.T9),,,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022200275,175,6,4,1,8:37 PM,0:47,Brogdon OFF.Foul (P1) (D.Mosher),,,,,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200275,177,5,37,1,8:37 PM,0:47,Brogdon Offensive Foul Turnover (P1.T2),,,,,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0022200275,178,6,1,1,8:38 PM,0:40,Williams P.FOUL (P1.PN) (E.Lewis),,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200275,180,3,11,1,8:38 PM,0:40,,,Metu Free Throw 1 of 2 (1 PTS),21 - 34,13,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,181,8,0,1,8:38 PM,0:40,,,SUB: Okpala FOR Davis,,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200275,183,3,12,1,8:38 PM,0:40,,,Metu Free Throw 2 of 2 (2 PTS),22 - 34,12,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,184,2,6,1,8:39 PM,0:33,MISS Brogdon 3' Driving Layup,,,,,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,185,4,0,1,8:39 PM,0:31,,,Monk REBOUND (Off:0 Def:1),,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,186,5,1,1,8:39 PM,0:26,Brogdon STEAL (1 STL),,Lyles Bad Pass Turnover (P2.T10),,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200275,188,1,108,1,8:39 PM,0:21,Tatum 1' Cutting Dunk Shot (8 PTS) (Hauser 1 AST),,,22 - 36,14,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200275,190,2,80,1,8:39 PM,0:01,,,MISS Fox 27' 3PT Step Back Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,191,4,0,1,8:39 PM,0:01,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200275,192,13,0,1,8:39 PM,0:00,,End of 1st Period (8:39 PM EST),,22 - 36,14,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200275,195,12,0,2,8:42 PM,12:00,,Start of 2nd Period (8:42 PM EST),,22 - 36,14,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200275,196,1,86,2,8:42 PM,11:44,Tatum 10' Turnaround Fadeaway (10 PTS),,,22 - 38,16,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,197,1,108,2,8:42 PM,11:29,,,Okpala 4' Cutting Dunk Shot (2 PTS) (Monk 2 AST),24 - 38,14,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200275,199,2,1,2,8:43 PM,11:12,MISS Tatum 26' 3PT Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,200,4,0,2,8:43 PM,11:10,,,Okpala REBOUND (Off:0 Def:1),,,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,201,1,6,2,8:43 PM,11:02,,,Monk 4' Driving Layup (7 PTS),26 - 38,12,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,202,2,78,2,8:43 PM,10:44,MISS Williams 5' Floating Jump Shot,,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,203,4,0,2,8:43 PM,10:42,,,Davis REBOUND (Off:0 Def:1),,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,204,2,79,2,8:43 PM,10:37,,,MISS Monk 27' 3PT Pullup Jump Shot,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,205,4,0,2,8:43 PM,10:34,Brogdon REBOUND (Off:0 Def:1),,,,,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,206,2,101,2,8:43 PM,10:29,MISS Brogdon 8' Driving Floating Jump Shot,,Okpala BLOCK (1 BLK),,,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,1
+0022200275,208,4,0,2,8:43 PM,10:26,,,Okpala REBOUND (Off:0 Def:2),,,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,209,1,108,2,8:44 PM,10:22,,,Metu 3' Cutting Dunk Shot (4 PTS) (Davis 1 AST),28 - 38,10,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200275,211,2,63,2,8:44 PM,9:56,MISS Tatum 15' Fadeaway Jumper,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,212,4,0,2,8:44 PM,9:52,,,Metu REBOUND (Off:0 Def:1),,,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,213,2,2,2,8:44 PM,9:49,,,MISS Monk 25' 3PT Running Jump Shot,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,214,4,0,2,8:44 PM,9:47,Hauser REBOUND (Off:0 Def:1),,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,215,2,6,2,8:44 PM,9:34,MISS Brogdon 2' Driving Layup,,,,,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,216,4,0,2,8:44 PM,9:32,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200275,218,1,80,2,8:45 PM,9:26,,,Fox 16' Step Back Jump Shot (5 PTS),30 - 38,8,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0022200275,219,1,1,2,8:45 PM,9:06,White 26' 3PT Jump Shot (11 PTS) (Brogdon 2 AST),,,30 - 41,11,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200275,221,6,1,2,8:45 PM,8:58,Brogdon P.FOUL (P2.T1) (E.Lewis),,,,,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200275,223,8,0,2,8:45 PM,8:58,SUB: Brown FOR Brogdon,,,,,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200275,225,1,80,2,8:46 PM,8:45,,,Fox 26' 3PT Step Back Jump Shot (8 PTS),33 - 41,8,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,226,6,2,2,8:46 PM,8:33,,,Okpala S.FOUL (P2.T1) (N.Sago),,,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200275,258,18,7,2,8:46 PM,8:33,,Instant Replay2nd Period (8:46 PM EST),,33 - 41,8,0,225,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200275,228,3,11,2,8:47 PM,8:33,Tatum Free Throw 1 of 2 (11 PTS),,,33 - 42,9,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,229,8,0,2,8:47 PM,8:33,SUB: Horford FOR White,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200275,231,3,12,2,8:47 PM,8:33,Tatum Free Throw 2 of 2 (12 PTS),,,33 - 43,10,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,232,2,1,2,8:48 PM,8:16,,,MISS Okpala 29' 3PT Jump Shot,,,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,233,4,0,2,8:48 PM,8:13,Brown REBOUND (Off:0 Def:1),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,234,2,1,2,8:48 PM,8:06,MISS Tatum 25' 3PT Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,235,4,0,2,8:48 PM,8:06,,,Fox REBOUND (Off:0 Def:4),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,236,2,41,2,8:48 PM,7:57,,,MISS Okpala 5' Running Layup,,,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,238,2,97,2,8:48 PM,7:52,,,MISS Metu Tip Layup Shot,,,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,239,4,0,2,8:48 PM,7:52,Hauser REBOUND (Off:0 Def:2),,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,237,4,0,2,8:48 PM,7:52,,,Metu REBOUND (Off:1 Def:1),,,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,240,1,1,2,8:48 PM,7:48,Hauser 26' 3PT Jump Shot (6 PTS) (Brown 3 AST),,,33 - 46,13,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200275,242,1,6,2,8:48 PM,7:40,,,Fox 3' Driving Layup (10 PTS),35 - 46,11,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,243,6,2,2,8:48 PM,7:40,Williams S.FOUL (P2.T2) (D.Mosher),,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200275,245,8,0,2,8:49 PM,7:40,SUB: Smart FOR Tatum,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200275,247,3,10,2,8:49 PM,7:40,,,Fox Free Throw 1 of 1 (11 PTS),36 - 46,10,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0022200275,248,1,80,2,8:49 PM,7:31,Brown 27' 3PT Step Back Jump Shot (11 PTS),,,36 - 49,13,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,249,1,6,2,8:49 PM,7:17,,,Monk 3' Driving Layup (9 PTS) (Fox 2 AST),38 - 49,11,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200275,251,2,1,2,8:49 PM,7:05,MISS Hauser 3PT Jump Shot,,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,252,4,0,2,8:49 PM,7:02,,,Davis REBOUND (Off:0 Def:2),,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,253,2,2,2,8:50 PM,7:00,,,MISS Monk 27' 3PT Running Jump Shot,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,254,4,0,2,8:50 PM,6:57,Horford REBOUND (Off:0 Def:3),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,255,6,1,2,8:50 PM,6:49,,,Monk P.FOUL (P1.T2) (D.Mosher),,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200275,257,9,1,2,8:50 PM,6:49,CELTICS Timeout: Regular (Full 2 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200275,259,8,0,2,8:52 PM,6:49,,,SUB: Huerter FOR Davis,,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200275,260,8,0,2,8:52 PM,6:49,,,SUB: Sabonis FOR Fox,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200275,261,8,0,2,8:52 PM,6:49,,,SUB: Mitchell FOR Metu,,,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200275,265,5,7,2,8:53 PM,6:38,Brown Discontinue Dribble Turnover (P1.T3),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0022200275,266,1,5,2,8:53 PM,6:21,,,Sabonis 5' Layup (6 PTS),40 - 49,9,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,267,2,1,2,8:54 PM,6:00,MISS Williams 3PT Jump Shot,,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,268,4,0,2,8:54 PM,5:58,,,Sabonis REBOUND (Off:1 Def:3),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,269,1,1,2,8:54 PM,5:51,,,Okpala 3PT Jump Shot (5 PTS) (Mitchell 1 AST),43 - 49,6,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200275,271,5,1,2,8:54 PM,5:33,Smart Bad Pass Turnover (P2.T4),,Monk STEAL (1 STL),,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200275,273,1,41,2,8:54 PM,5:29,,,Mitchell 2' Running Layup (4 PTS) (Sabonis 3 AST),45 - 49,4,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200275,275,1,6,2,8:55 PM,5:12,Brown 1' Driving Layup (13 PTS) (Smart 3 AST),,,45 - 51,6,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200275,277,6,1,2,8:55 PM,4:58,Smart P.FOUL (P1.T3) (D.Mosher),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200275,279,8,0,2,8:55 PM,4:58,SUB: Tatum FOR Williams,,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200275,280,8,0,2,8:55 PM,4:58,,,SUB: Barnes FOR Monk,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200275,283,1,58,2,8:56 PM,4:47,,,Sabonis 6' Turnaround Hook Shot (8 PTS),47 - 51,4,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,284,1,79,2,8:56 PM,4:32,Brown 19' Pullup Jump Shot (15 PTS) (Horford 1 AST),,,47 - 53,6,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200275,286,1,108,2,8:56 PM,4:17,,,Okpala 3' Cutting Dunk Shot (7 PTS) (Sabonis 4 AST),49 - 53,4,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200275,288,9,1,2,8:56 PM,4:17,CELTICS Timeout: Regular (Full 3 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200275,289,8,0,2,8:58 PM,4:17,SUB: White FOR Hauser,,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200275,291,6,4,2,8:59 PM,4:02,Smart OFF.Foul (P2) (N.Sago),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200275,293,5,37,2,8:59 PM,4:02,Smart Offensive Foul Turnover (P3.T5),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0022200275,294,5,1,2,9:00 PM,3:51,Brown STEAL (2 STL),,Barnes Bad Pass Turnover (P2.T11),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200275,296,1,1,2,9:00 PM,3:43,White 3PT Jump Shot (14 PTS) (Horford 2 AST),,,49 - 56,7,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200275,298,6,4,2,9:00 PM,3:19,,,Sabonis OFF.Foul (P2) (D.Mosher),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200275,300,5,37,2,9:00 PM,3:19,,,Sabonis Offensive Foul Turnover (P1.T12),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022200275,301,2,1,2,9:01 PM,3:05,MISS White 25' 3PT Jump Shot,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,302,4,0,2,9:01 PM,3:01,,,Okpala REBOUND (Off:0 Def:3),,,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,303,1,6,2,9:01 PM,2:53,,,Mitchell 4' Driving Layup (6 PTS) (Okpala 1 AST),51 - 56,5,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200275,305,5,1,2,9:01 PM,2:33,Tatum Bad Pass Turnover (P1.T6),,Okpala STEAL (1 STL),,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200275,307,6,2,2,9:01 PM,2:31,Tatum S.FOUL (P2.T4) (N.Sago),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200275,309,3,11,2,9:02 PM,2:31,,,Mitchell Free Throw 1 of 2 (7 PTS),52 - 56,4,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,310,3,12,2,9:02 PM,2:31,,,Mitchell Free Throw 2 of 2 (8 PTS),53 - 56,3,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,311,2,1,2,9:02 PM,2:12,MISS Tatum 27' 3PT Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,312,4,0,2,9:02 PM,2:09,,,Sabonis REBOUND (Off:1 Def:4),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,313,2,6,2,9:02 PM,2:01,,,MISS Barnes 5' Driving Layup,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,314,4,0,2,9:02 PM,2:01,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200275,316,6,3,2,9:03 PM,2:01,Brown L.B.FOUL (P3.PN) (D.Mosher),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200275,321,7,1,2,9:03 PM,2:01,CELTICS Violation: Delay of game Violation,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200275,318,3,11,2,9:03 PM,2:01,,,Sabonis Free Throw 1 of 2 (9 PTS),54 - 56,2,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,319,8,0,2,9:03 PM,2:01,SUB: Williams FOR Brown,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200275,322,3,12,2,9:04 PM,2:01,,,Sabonis Free Throw 2 of 2 (10 PTS),55 - 56,1,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,323,1,5,2,9:04 PM,1:47,Horford 2' Layup (8 PTS) (Tatum 1 AST),,,55 - 58,3,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200275,325,1,108,2,9:04 PM,1:34,,,Sabonis 3' Cutting Dunk Shot (12 PTS) (Huerter 2 AST),57 - 58,1,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200275,327,1,78,2,9:04 PM,1:15,Tatum 8' Floating Jump Shot (14 PTS),,,57 - 60,3,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,328,1,6,2,9:05 PM,0:55,,,Mitchell 5' Driving Layup (10 PTS) (Barnes 1 AST),59 - 60,1,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200275,330,6,2,2,9:05 PM,0:48,,,Okpala S.FOUL (P3.T3) (N.Sago),,,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200275,332,3,11,2,9:05 PM,0:48,Smart Free Throw 1 of 2 (1 PTS),,,59 - 61,2,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,333,8,0,2,9:05 PM,0:48,,,SUB: Monk FOR Mitchell,,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200275,334,8,0,2,9:05 PM,0:48,,,SUB: Fox FOR Okpala,,,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200275,337,3,12,2,9:06 PM,0:48,Smart Free Throw 2 of 2 (2 PTS),,,59 - 62,3,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,338,2,1,2,9:06 PM,0:40,,,MISS Monk 27' 3PT Jump Shot,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,339,4,0,2,9:06 PM,0:36,White REBOUND (Off:0 Def:3),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,340,2,103,2,9:06 PM,0:32,MISS White 24' 3PT Running Pull-Up Jump Shot,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,341,4,0,2,9:06 PM,0:29,,,Sabonis REBOUND (Off:1 Def:5),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,342,1,79,2,9:07 PM,0:12,,,Fox 7' Pullup Jump Shot (13 PTS),61 - 62,1,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,343,6,2,2,9:07 PM,0:12,White S.FOUL (P2.PN) (N.Sago),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200275,345,8,0,2,9:07 PM,0:12,,,SUB: Okpala FOR Huerter,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200275,346,8,0,2,9:07 PM,0:12,,,SUB: Mitchell FOR Monk,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200275,349,8,0,2,9:07 PM,0:12,,,SUB: Metu FOR Sabonis,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200275,351,3,10,2,9:07 PM,0:12,,,Fox Free Throw 1 of 1 (14 PTS),62 - 62,TIE,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,352,1,6,2,9:07 PM,0:02,Tatum 1' Driving Layup (16 PTS) (Horford 3 AST),,,62 - 64,2,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200275,354,2,79,2,9:08 PM,0:00,,,MISS Fox 39' 3PT Pullup Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,355,4,0,2,9:08 PM,0:00,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200275,356,13,0,2,9:08 PM,0:00,,End of 2nd Period (9:08 PM EST),,62 - 64,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200275,365,12,0,3,9:23 PM,12:00,,Start of 3rd Period (9:23 PM EST),,62 - 64,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200275,366,2,102,3,9:23 PM,11:46,MISS Smart 8' Driving Floating Bank Jump Shot,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,367,4,0,3,9:23 PM,11:43,,,Murray REBOUND (Off:2 Def:3),,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,368,2,101,3,9:23 PM,11:27,,,MISS Barnes 8' Driving Floating Jump Shot,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,369,4,0,3,9:24 PM,11:25,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200275,370,6,3,3,9:24 PM,11:25,,,Barnes L.B.FOUL (P1.T1) (E.Lewis),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200275,373,2,1,3,9:24 PM,11:06,MISS Smart 28' 3PT Jump Shot,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,374,4,0,3,9:24 PM,11:03,,,Barnes REBOUND (Off:0 Def:2),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,375,2,1,3,9:24 PM,10:47,,,MISS Fox 27' 3PT Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,376,4,0,3,9:24 PM,10:44,,,Barnes REBOUND (Off:1 Def:2),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,377,2,98,3,9:24 PM,10:42,Horford BLOCK (2 BLK),,MISS Fox 3' Cutting Layup Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,1
+0022200275,379,4,0,3,9:24 PM,10:39,,,Sabonis REBOUND (Off:2 Def:5),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,380,2,72,3,9:24 PM,10:39,,,MISS Sabonis 3' Putback Layup,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,381,4,0,3,9:25 PM,10:37,,,Barnes REBOUND (Off:2 Def:2),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,382,2,78,3,9:25 PM,10:35,,,MISS Barnes 2' Floating Jump Shot,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,383,4,0,3,9:25 PM,10:34,Brown REBOUND (Off:0 Def:2),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,384,2,41,3,9:25 PM,10:29,MISS Brown 5' Running Layup,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,385,4,0,3,9:25 PM,10:26,,,Sabonis REBOUND (Off:2 Def:6),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,386,2,5,3,9:25 PM,10:17,,,MISS Sabonis 3' Layup,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,387,4,0,3,9:25 PM,10:17,,,Barnes REBOUND (Off:3 Def:2),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,388,1,97,3,9:25 PM,10:12,,,Barnes Tip Layup Shot (8 PTS),64 - 64,TIE,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,389,2,1,3,9:25 PM,10:02,MISS White 26' 3PT Jump Shot,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,390,4,0,3,9:25 PM,9:59,,,Murray REBOUND (Off:2 Def:4),,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,391,6,2,3,9:25 PM,9:51,Horford S.FOUL (P1.T1) (D.Mosher),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200275,393,3,11,3,9:26 PM,9:51,,,Huerter Free Throw 1 of 2 (1 PTS),65 - 64,-1,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,394,3,12,3,9:26 PM,9:51,,,Huerter Free Throw 2 of 2 (2 PTS),66 - 64,-2,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,395,6,4,3,9:27 PM,9:42,Tatum OFF.Foul (P3) (N.Sago),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200275,397,5,37,3,9:27 PM,9:42,Tatum Offensive Foul Turnover (P2.T7),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0022200275,398,6,2,3,9:27 PM,9:31,Brown S.FOUL (P4.T2) (N.Sago),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200275,400,3,11,3,9:27 PM,9:31,,,Barnes Free Throw 1 of 2 (9 PTS),67 - 64,-3,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,401,8,0,3,9:27 PM,9:31,SUB: Brogdon FOR Brown,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200275,403,3,12,3,9:28 PM,9:31,,,Barnes Free Throw 2 of 2 (10 PTS),68 - 64,-4,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,404,6,1,3,9:28 PM,9:19,,,Fox P.FOUL (P1.T2) (D.Mosher),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200275,406,5,4,3,9:28 PM,9:10,Smart Traveling Turnover (P4.T8),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0022200275,407,2,80,3,9:29 PM,8:54,,,MISS Fox 19' Step Back Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,408,4,0,3,9:29 PM,8:51,Tatum REBOUND (Off:0 Def:3),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,410,6,1,3,9:29 PM,8:40,,,Murray P.FOUL (P1.T3) (E.Lewis),,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200275,412,1,79,3,9:30 PM,8:30,Tatum 27' 3PT Pullup Jump Shot (19 PTS),,,68 - 67,-1,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,413,6,1,3,9:30 PM,8:19,Smart P.FOUL (P3.T3) (D.Mosher),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200275,415,1,1,3,9:30 PM,8:04,,,Fox 25' 3PT Jump Shot (17 PTS),71 - 67,-4,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,416,1,47,3,9:31 PM,7:48,Tatum 14' Turnaround Jump Shot (21 PTS),,,71 - 69,-2,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,417,5,1,3,9:31 PM,7:31,Brogdon STEAL (2 STL),,Fox Bad Pass Turnover (P2.T13),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200275,419,6,2,3,9:31 PM,7:23,,,Barnes S.FOUL (P2.T4) (E.Lewis),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200275,421,3,11,3,9:32 PM,7:23,Tatum Free Throw 1 of 2 (22 PTS),,,71 - 70,-1,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,422,3,12,3,9:32 PM,7:23,Tatum Free Throw 2 of 2 (23 PTS),,,71 - 71,TIE,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,423,2,1,3,9:32 PM,7:11,,,MISS Huerter 24' 3PT Jump Shot,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,424,4,0,3,9:32 PM,7:08,Tatum REBOUND (Off:0 Def:4),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,425,2,41,3,9:32 PM,7:05,MISS Brogdon 4' Running Layup,,,,,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,426,4,0,3,9:32 PM,7:03,Brogdon REBOUND (Off:1 Def:1),,,,,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,427,2,1,3,9:32 PM,6:55,MISS White 24' 3PT Jump Shot,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,428,4,0,3,9:32 PM,6:52,,,Sabonis REBOUND (Off:2 Def:7),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,429,1,108,3,9:33 PM,6:37,,,Barnes 2' Cutting Dunk Shot (12 PTS) (Sabonis 5 AST),73 - 71,-2,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200275,431,1,1,3,9:33 PM,6:20,Brogdon 24' 3PT Jump Shot (6 PTS) (Horford 4 AST),,,73 - 74,1,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200275,433,9,1,3,9:33 PM,6:20,,,Kings Timeout: Regular (Reg.2 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200275,434,8,0,3,9:36 PM,6:20,,,SUB: Okpala FOR Murray,,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200275,436,6,14,3,9:36 PM,6:02,Smart FLAGRANT.FOUL.TYPE1 (P4.T4) (N.Sago),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200275,438,18,1,3,9:37 PM,6:02,,Instant Replay3rd Period (9:37 PM EST),,73 - 74,1,0,436,Juwan Howard,,,,,0,0,,,,,,1,0,,,,,,0
+0022200275,439,3,27,3,9:38 PM,6:02,,,Fox Free Throw Flagrant 1 of 3 (18 PTS),74 - 74,TIE,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,440,3,28,3,9:38 PM,6:02,,,Fox Free Throw Flagrant 2 of 3 (19 PTS),75 - 74,-1,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,441,3,29,3,9:38 PM,6:02,,,Fox Free Throw Flagrant 3 of 3 (20 PTS),76 - 74,-2,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,442,8,0,3,9:38 PM,6:02,SUB: Williams FOR Smart,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200275,444,2,98,3,9:39 PM,5:48,,,MISS Huerter 2' Cutting Layup Shot,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,445,4,0,3,9:39 PM,5:45,Tatum REBOUND (Off:0 Def:5),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,446,6,2,3,9:39 PM,5:35,,,Barnes S.FOUL (P3.PN) (E.Lewis),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200275,448,3,11,3,9:39 PM,5:35,Williams Free Throw 1 of 2 (1 PTS),,,76 - 75,-1,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,449,8,0,3,9:39 PM,5:35,,,SUB: Monk FOR Fox,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200275,450,8,0,3,9:39 PM,5:35,,,SUB: Mitchell FOR Barnes,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200275,453,3,12,3,9:40 PM,5:35,Williams Free Throw 2 of 2 (2 PTS),,,76 - 76,TIE,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,454,1,58,3,9:40 PM,5:17,,,Sabonis 8' Turnaround Hook Shot (14 PTS),78 - 76,-2,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,455,7,2,3,9:40 PM,5:17,Horford Violation:Defensive Goaltending (N.Sago),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0022200275,456,2,78,3,9:41 PM,5:01,MISS Williams 10' Floating Jump Shot,,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,457,4,0,3,9:41 PM,4:59,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200275,459,2,5,3,9:41 PM,4:48,Williams BLOCK (1 BLK),,MISS Mitchell 4' Layup,,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,1
+0022200275,461,4,0,3,9:41 PM,4:48,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200275,463,6,11,3,9:41 PM,4:48,Williams T.FOUL (P2.T4) (N.Sago),,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0022200275,464,3,16,3,9:41 PM,4:48,,,Huerter Free Throw Technical (3 PTS),79 - 76,-3,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,465,1,79,3,9:42 PM,4:41,,,Mitchell 25' 3PT Pullup Jump Shot (13 PTS),82 - 76,-6,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,466,1,98,3,9:42 PM,4:17,White 2' Cutting Layup Shot (16 PTS) (Horford 5 AST),,,82 - 78,-4,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200275,468,1,98,3,9:42 PM,4:04,,,Huerter 1' Cutting Layup Shot (5 PTS) (Monk 3 AST),84 - 78,-6,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200275,470,6,26,3,9:43 PM,3:50,Tatum Offensive Charge Foul (P4) (N.Sago),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200275,472,5,37,3,9:43 PM,3:50,Tatum Offensive Foul Turnover (P3.T9),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0022200275,473,8,0,3,9:43 PM,3:50,SUB: Hauser FOR White,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200275,475,2,80,3,9:44 PM,3:24,,,MISS Huerter 28' 3PT Step Back Jump Shot,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,476,4,0,3,9:44 PM,3:23,Horford REBOUND (Off:0 Def:4),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,477,6,2,3,9:44 PM,3:12,,,Okpala S.FOUL (P4.PN) (D.Mosher),,,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200275,479,3,11,3,9:44 PM,3:12,Tatum Free Throw 1 of 2 (24 PTS),,,84 - 79,-5,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,480,8,0,3,9:44 PM,3:12,SUB: Kornet FOR Williams,,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200275,481,8,0,3,9:44 PM,3:12,SUB: Pritchard FOR Horford,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200275,482,8,0,3,9:44 PM,3:12,,,SUB: Barnes FOR Okpala,,,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200275,486,3,12,3,9:45 PM,3:12,Tatum Free Throw 2 of 2 (25 PTS),,,84 - 80,-4,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,487,2,1,3,9:45 PM,2:57,,,MISS Sabonis 25' 3PT Jump Shot,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,488,4,0,3,9:45 PM,2:52,Kornet REBOUND (Off:0 Def:1),,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,489,1,101,3,9:45 PM,2:33,Brogdon 12' Driving Floating Jump Shot (8 PTS) (Tatum 2 AST),,,84 - 82,-2,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200275,491,2,6,3,9:46 PM,2:22,Brogdon BLOCK (1 BLK),,MISS Monk 4' Driving Layup,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,1
+0022200275,493,4,0,3,9:46 PM,2:19,Tatum REBOUND (Off:0 Def:6),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,494,6,2,3,9:46 PM,2:19,,,Mitchell S.FOUL (P1.PN) (E.Lewis),,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200275,496,9,1,3,9:46 PM,2:19,CELTICS Timeout: Regular (Full 4 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200275,497,8,0,3,9:48 PM,2:19,,,SUB: Metu FOR Huerter,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200275,498,8,0,3,9:48 PM,2:19,,,SUB: Davis FOR Mitchell,,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200275,511,8,0,3,9:48 PM,2:19,,,SUB: Fox FOR Sabonis,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200275,503,3,11,3,9:49 PM,2:19,Pritchard Free Throw 1 of 2 (1 PTS),,,84 - 83,-1,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,504,3,12,3,9:49 PM,2:19,Pritchard Free Throw 2 of 2 (2 PTS),,,84 - 84,TIE,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,505,2,1,3,9:49 PM,1:59,,,MISS Monk 25' 3PT Jump Shot,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,506,4,0,3,9:49 PM,1:57,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200275,508,1,1,3,9:50 PM,1:37,Pritchard 28' 3PT Jump Shot (5 PTS) (Brogdon 3 AST),,,84 - 87,3,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200275,510,2,101,3,9:50 PM,1:26,,,MISS Barnes 8' Driving Floating Jump Shot,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,512,4,0,3,9:50 PM,1:21,Kornet REBOUND (Off:0 Def:2),,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,515,1,52,3,9:50 PM,1:08,Kornet Alley Oop Dunk (2 PTS) (Tatum 3 AST),,,84 - 89,5,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200275,516,9,1,3,9:51 PM,1:08,,,Kings Timeout: Regular (Reg.3 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200275,518,5,1,3,9:52 PM,0:53,Tatum STEAL (1 STL),,Davis Bad Pass Turnover (P1.T14),,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200275,520,1,101,3,9:52 PM,0:47,Tatum 5' Driving Floating Jump Shot (27 PTS),,,84 - 91,7,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,521,2,80,3,9:52 PM,0:33,,,MISS Fox 27' 3PT Step Back Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,522,4,0,3,9:52 PM,0:31,Tatum REBOUND (Off:0 Def:7),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,523,1,79,3,9:53 PM,0:14,Tatum 27' 3PT Pullup Jump Shot (30 PTS),,,84 - 94,10,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,524,2,1,3,9:53 PM,0:00,,,MISS Davis 26' 3PT Jump Shot,,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,525,4,0,3,9:53 PM,0:00,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200275,526,13,0,3,9:53 PM,0:00,,End of 3rd Period (9:53 PM EST),,84 - 94,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200275,533,12,0,4,9:56 PM,12:00,,Start of 4th Period (9:56 PM EST),,84 - 94,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200275,534,2,6,4,9:56 PM,11:45,Kornet BLOCK (1 BLK),,MISS Monk 3' Driving Layup,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,1
+0022200275,536,4,0,4,9:56 PM,11:42,,,Okpala REBOUND (Off:1 Def:3),,,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,537,2,79,4,9:56 PM,11:40,,,MISS Fox 6' Pullup Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,538,4,0,4,9:56 PM,11:37,Brogdon REBOUND (Off:1 Def:2),,,,,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,539,1,1,4,9:56 PM,11:22,Hauser 28' 3PT Jump Shot (9 PTS) (Tatum 4 AST),,,84 - 97,13,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200275,541,1,6,4,9:57 PM,10:57,,,Huerter 4' Driving Layup (7 PTS) (Sabonis 6 AST),86 - 97,11,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200275,544,8,0,4,9:57 PM,10:37,SUB: Brown FOR Brogdon,,,,,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200275,546,2,1,4,9:58 PM,10:35,MISS Hauser 24' 3PT Jump Shot,,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,547,4,0,4,9:58 PM,10:30,Tatum REBOUND (Off:1 Def:7),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,548,2,79,4,9:58 PM,10:25,MISS Brown 25' 3PT Pullup Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,549,4,0,4,9:58 PM,10:23,,,Huerter REBOUND (Off:0 Def:3),,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,550,2,1,4,9:58 PM,10:11,,,MISS Sabonis 25' 3PT Jump Shot,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,551,4,0,4,9:58 PM,10:08,Brown REBOUND (Off:0 Def:3),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,552,6,2,4,9:58 PM,10:02,,,Sabonis S.FOUL (P3.T1) (E.Lewis),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200275,554,3,11,4,9:59 PM,10:02,Brown Free Throw 1 of 2 (16 PTS),,,86 - 98,12,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,555,8,0,4,9:59 PM,10:02,SUB: Smart FOR Tatum,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200275,556,8,0,4,9:59 PM,10:02,,,SUB: Murray FOR Monk,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200275,559,3,12,4,9:59 PM,10:02,Brown Free Throw 2 of 2 (17 PTS),,,86 - 99,13,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,560,2,79,4,9:59 PM,9:45,,,MISS Fox 12' Pullup Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,561,4,0,4,9:59 PM,9:43,Smart REBOUND (Off:0 Def:3),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,562,1,47,4,9:59 PM,9:36,Brown 15' Turnaround Jump Shot (19 PTS),,,86 - 101,15,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,564,2,1,4,10:00 PM,9:19,,,MISS Sabonis 18' Jump Shot,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,565,4,0,4,10:00 PM,9:15,,,Murray REBOUND (Off:3 Def:4),,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,566,6,4,4,10:00 PM,9:11,,,Sabonis OFF.Foul (P4) (N.Sago),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200275,568,5,37,4,10:00 PM,9:11,,,Sabonis Offensive Foul Turnover (P2.T15),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022200275,569,8,0,4,10:00 PM,9:11,,,SUB: Mitchell FOR Fox,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200275,571,1,79,4,10:00 PM,8:57,Brown 5' Pullup Jump Shot (21 PTS),,,86 - 103,17,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,572,1,6,4,10:01 PM,8:38,,,Sabonis 4' Driving Layup (16 PTS) (Huerter 3 AST),88 - 103,15,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200275,574,1,1,4,10:01 PM,8:24,Pritchard 25' 3PT Jump Shot (8 PTS) (Smart 4 AST),,,88 - 106,18,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200275,576,2,1,4,10:01 PM,8:03,,,MISS Huerter 26' 3PT Jump Shot,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,577,4,0,4,10:01 PM,8:01,Brown REBOUND (Off:0 Def:4),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,578,6,2,4,10:01 PM,7:52,,,Murray S.FOUL (P2.T2) (D.Mosher),,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200275,580,3,11,4,10:02 PM,7:52,Brown Free Throw 1 of 2 (22 PTS),,,88 - 107,19,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,581,8,0,4,10:02 PM,7:52,,,SUB: Fox FOR Okpala,,,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200275,583,3,12,4,10:02 PM,7:52,Brown Free Throw 2 of 2 (23 PTS),,,88 - 108,20,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,584,2,80,4,10:03 PM,7:33,,,MISS Fox 24' 3PT Step Back Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,585,4,0,4,10:03 PM,7:29,Pritchard REBOUND (Off:0 Def:1),,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,586,2,1,4,10:03 PM,7:23,MISS Pritchard 3PT Jump Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,587,4,0,4,10:03 PM,7:20,,,Murray REBOUND (Off:3 Def:5),,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,588,2,41,4,10:03 PM,7:15,Kornet BLOCK (2 BLK),,MISS Murray 6' Running Layup,,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,1
+0022200275,590,4,0,4,10:03 PM,7:12,Kornet REBOUND (Off:0 Def:3),,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,591,2,1,4,10:03 PM,7:01,MISS Brown 19' Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,592,4,0,4,10:03 PM,6:58,Hauser REBOUND (Off:1 Def:2),,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,593,1,98,4,10:03 PM,6:55,Brown 3' Cutting Layup Shot (25 PTS) (Smart 5 AST),,,88 - 110,22,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200275,595,9,1,4,10:03 PM,6:55,,,Kings Timeout: Regular (Reg.4 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200275,596,8,0,4,10:05 PM,6:55,SUB: Horford FOR Kornet,,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200275,597,8,0,4,10:05 PM,6:55,,,SUB: Monk FOR Mitchell,,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200275,600,6,1,4,10:07 PM,6:35,Smart P.FOUL (P5.T1) (E.Lewis),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200275,602,2,80,4,10:07 PM,6:25,,,MISS Monk 14' Step Back Jump Shot,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,603,4,0,4,10:07 PM,6:22,Brown REBOUND (Off:0 Def:5),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,604,2,1,4,10:07 PM,6:07,MISS Brown 28' 3PT Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,605,4,0,4,10:08 PM,6:04,,,Sabonis REBOUND (Off:2 Def:8),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,606,6,1,4,10:08 PM,5:58,Hauser P.FOUL (P1.T2) (N.Sago),,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200275,608,8,0,4,10:08 PM,5:58,SUB: Brogdon FOR Hauser,,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200275,610,2,1,4,10:08 PM,5:47,,,MISS Murray 26' 3PT Jump Shot,,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,611,4,0,4,10:08 PM,5:44,Smart REBOUND (Off:0 Def:4),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,612,2,1,4,10:08 PM,5:31,MISS Brogdon 27' 3PT Jump Shot,,,,,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,613,4,0,4,10:08 PM,5:28,,,Monk REBOUND (Off:0 Def:2),,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,614,6,4,4,10:09 PM,5:17,,,Sabonis OFF.Foul (P5) (E.Lewis),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200275,616,5,37,4,10:09 PM,5:17,,,Sabonis Offensive Foul Turnover (P3.T16),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022200275,617,1,1,4,10:09 PM,5:04,Horford 28' 3PT Jump Shot (11 PTS) (Brown 4 AST),,,88 - 113,25,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200275,619,1,6,4,10:10 PM,4:40,,,Sabonis 4' Driving Layup (18 PTS),90 - 113,23,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,620,1,5,4,10:10 PM,4:31,Horford 3' Layup (13 PTS) (Brogdon 4 AST),,,90 - 115,25,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200275,622,9,1,4,10:10 PM,4:30,,,Kings Timeout: Regular (Reg.5 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200275,623,8,0,4,10:12 PM,4:30,SUB: Kornet FOR Horford,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200275,624,8,0,4,10:12 PM,4:30,,,SUB: Dellavedova FOR Monk,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,5,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200275,625,8,0,4,10:12 PM,4:30,,,SUB: Davis FOR Fox,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200275,626,8,0,4,10:12 PM,4:30,,,SUB: Holmes FOR Huerter,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200275,627,8,0,4,10:12 PM,4:30,,,SUB: Lyles FOR Sabonis,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200275,635,5,40,4,10:13 PM,4:14,,,Davis Out of Bounds Lost Ball Turnover (P2.T17),,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022200275,636,6,2,4,10:13 PM,4:04,,,Davis S.FOUL (P1.T3) (E.Lewis),,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200275,638,3,11,4,10:14 PM,4:04,Smart Free Throw 1 of 2 (3 PTS),,,90 - 116,26,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,639,8,0,4,10:14 PM,4:04,SUB: Jackson FOR Brogdon,,,,,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,4,1628382,Justin Jackson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200275,643,3,12,4,10:14 PM,4:04,Smart Free Throw 2 of 2 (4 PTS),,,90 - 117,27,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,644,6,2,4,10:14 PM,3:45,Kornet S.FOUL (P1.T3) (D.Mosher),,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200275,646,3,11,4,10:15 PM,3:45,,,Lyles Free Throw 1 of 2 (1 PTS),91 - 117,26,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,647,8,0,4,10:15 PM,3:45,SUB: Vonleh FOR Smart,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,203943,Noah Vonleh,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200275,649,3,12,4,10:15 PM,3:45,,,Lyles Free Throw 2 of 2 (2 PTS),92 - 117,25,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,650,2,80,4,10:15 PM,3:27,MISS Brown 15' Step Back Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,651,4,0,4,10:15 PM,3:22,,,Murray REBOUND (Off:3 Def:6),,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,652,1,2,4,10:15 PM,3:21,,,Murray 25' 3PT Running Jump Shot (3 PTS),95 - 117,22,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,653,2,1,4,10:16 PM,3:04,MISS Jackson 25' 3PT Jump Shot,,,,,4,1628382,Justin Jackson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,654,4,0,4,10:16 PM,3:00,,,Davis REBOUND (Off:0 Def:3),,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,669,1,41,4,10:16 PM,2:55,,,Dellavedova 1' Running Layup (2 PTS),97 - 117,20,5,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,655,6,2,4,10:16 PM,2:55,Kornet S.FOUL (P2.T4) (N.Sago),,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,5,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200275,657,8,0,4,10:16 PM,2:55,SUB: Davison FOR Brown,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1631120,JD Davison,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0022200275,661,3,10,4,10:16 PM,2:55,,,MISS Dellavedova Free Throw 1 of 1,,,5,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,678,4,0,4,10:16 PM,2:55,Kornet REBOUND (Off:0 Def:4),,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,663,1,78,4,10:17 PM,2:30,Kornet 6' Floating Jump Shot (4 PTS),,,97 - 119,22,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,664,2,1,4,10:17 PM,2:17,,,MISS Dellavedova 25' 3PT Jump Shot,,,5,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,665,4,0,4,10:17 PM,2:15,,,Lyles REBOUND (Off:1 Def:1),,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,666,6,2,4,10:17 PM,2:14,Kornet S.FOUL (P3.PN) (E.Lewis),,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200275,668,3,11,4,10:17 PM,2:14,,,Lyles Free Throw 1 of 2 (3 PTS),98 - 119,21,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,670,3,12,4,10:18 PM,2:14,,,MISS Lyles Free Throw 2 of 2,,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,671,4,0,4,10:18 PM,2:11,Kornet REBOUND (Off:0 Def:5),,,,,4,1628436,Luke Kornet,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,672,6,2,4,10:18 PM,2:02,,,Davis S.FOUL (P2.T4) (E.Lewis),,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0022200275,674,3,11,4,10:18 PM,2:02,MISS Pritchard Free Throw 1 of 2,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,675,4,1,4,10:18 PM,2:02,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200275,676,3,12,4,10:18 PM,2:02,Pritchard Free Throw 2 of 2 (9 PTS),,,98 - 120,22,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,677,1,1,4,10:19 PM,1:50,,,Davis 25' 3PT Jump Shot (3 PTS) (Dellavedova 1 AST),101 - 120,19,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,5,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200275,680,5,45,4,10:19 PM,1:27,Vonleh Out of Bounds - Bad Pass Turnover Turnover (P1.T10),,,,,4,203943,Noah Vonleh,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0022200275,681,5,2,4,10:20 PM,1:11,Davison STEAL (1 STL),,Murray Lost Ball Turnover (P1.T18),,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,1631120,JD Davison,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0022200275,683,1,41,4,10:20 PM,1:07,Davison 4' Running Layup (2 PTS),,,101 - 122,21,4,1631120,JD Davison,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,684,2,1,4,10:20 PM,0:47,,,MISS Murray 29' 3PT Jump Shot,,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,685,4,0,4,10:20 PM,0:43,Jackson REBOUND (Off:0 Def:1),,,,,4,1628382,Justin Jackson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,686,2,41,4,10:20 PM,0:39,MISS Pritchard 5' Running Layup,,Murray BLOCK (1 BLK),,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,1
+0022200275,688,4,0,4,10:20 PM,0:37,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200275,690,2,101,4,10:21 PM,0:30,MISS Davison 12' Driving Floating Jump Shot,,,,,4,1631120,JD Davison,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0022200275,691,4,0,4,10:21 PM,0:27,,,Murray REBOUND (Off:3 Def:7),,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200275,692,1,2,4,10:21 PM,0:22,,,Lyles 27' 3PT Running Jump Shot (6 PTS) (Dellavedova 2 AST),104 - 122,18,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,5,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200275,693,13,0,4,10:22 PM,0:00,,End of 4th Period (10:22 PM EST),,104 - 122,18,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

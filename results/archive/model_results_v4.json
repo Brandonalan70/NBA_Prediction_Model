@@ -1,0 +1,119 @@
+{
+  "training_time_seconds": 4.774776458740234,
+  "n_features": 19,
+  "n_samples_train": 643640,
+  "n_samples_test": 160911,
+  "train_metrics": {
+    "accuracy": 0.7922813995401156,
+    "precision": 0.8053918792757772,
+    "recall": 0.8461639474304826,
+    "f1_score": 0.8252746419787291,
+    "roc_auc": 0.8744258695355784
+  },
+  "test_metrics": {
+    "accuracy": 0.7914996488742224,
+    "precision": 0.8043675420093139,
+    "recall": 0.8461521969835025,
+    "f1_score": 0.8247309581026017,
+    "roc_auc": 0.8741286690650425
+  },
+  "feature_names": [
+    "SECONDS REMAINING",
+    "VISITOR_SCORE",
+    "HOME_SCORE",
+    "SCOREMARGIN",
+    "HOME_PPG_TOTAL",
+    "HOME_APG_TOTAL",
+    "HOME_RPG_TOTAL",
+    "HOME_PLUSMIN_TOTAL",
+    "VISITOR_PPG_TOTAL",
+    "VISITOR_APG_TOTAL",
+    "VISITOR_RPG_TOTAL",
+    "VISITOR_PLUSMIN_TOTAL",
+    "ELO_DIFF",
+    "PPG_DIFFERENTIAL",
+    "APG_DIFFERENTIAL",
+    "RPG_DIFFERENTIAL",
+    "PLUSMIN_DIFFERENTIAL",
+    "GAME_PROGRESS",
+    "FINAL_QUARTER"
+  ],
+  "feature_importance": [
+    {
+      "feature": "SCOREMARGIN",
+      "coefficient": 1.5362586628203645
+    },
+    {
+      "feature": "VISITOR_PLUSMIN_TOTAL",
+      "coefficient": 0.5775812128855096
+    },
+    {
+      "feature": "PLUSMIN_DIFFERENTIAL",
+      "coefficient": -0.5754111977383249
+    },
+    {
+      "feature": "HOME_SCORE",
+      "coefficient": -0.42006075936733117
+    },
+    {
+      "feature": "HOME_PLUSMIN_TOTAL",
+      "coefficient": -0.35879252613073853
+    },
+    {
+      "feature": "ELO_DIFF",
+      "coefficient": 0.27863369679621225
+    },
+    {
+      "feature": "GAME_PROGRESS",
+      "coefficient": 0.15381714614562292
+    },
+    {
+      "feature": "SECONDS REMAINING",
+      "coefficient": -0.15381714614561956
+    },
+    {
+      "feature": "VISITOR_SCORE",
+      "coefficient": 0.0956886545647159
+    },
+    {
+      "feature": "HOME_RPG_TOTAL",
+      "coefficient": -0.09096383284275468
+    },
+    {
+      "feature": "VISITOR_PPG_TOTAL",
+      "coefficient": 0.08402142730365533
+    },
+    {
+      "feature": "VISITOR_RPG_TOTAL",
+      "coefficient": -0.07947869630718153
+    },
+    {
+      "feature": "VISITOR_APG_TOTAL",
+      "coefficient": -0.07899396032601734
+    },
+    {
+      "feature": "PPG_DIFFERENTIAL",
+      "coefficient": -0.0609424038915343
+    },
+    {
+      "feature": "APG_DIFFERENTIAL",
+      "coefficient": 0.05583615912225431
+    },
+    {
+      "feature": "FINAL_QUARTER",
+      "coefficient": -0.015572151161037967
+    },
+    {
+      "feature": "RPG_DIFFERENTIAL",
+      "coefficient": -0.011226366164002972
+    },
+    {
+      "feature": "HOME_PPG_TOTAL",
+      "coefficient": -0.003368354743359854
+    },
+    {
+      "feature": "HOME_APG_TOTAL",
+      "coefficient": 0.0008995178781193544
+    }
+  ]
+}

@@ -1,0 +1,471 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200218,2,12,0,1,8:41 PM,12:00,,Start of 1st Period (8:41 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200218,4,10,0,1,8:41 PM,12:00,Jump Ball Powell vs. Sengun: Tip to Bullock,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,1
+0022200218,7,2,52,1,8:41 PM,11:44,MISS Powell 1' Alley Oop Dunk,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,8,4,0,1,8:41 PM,11:42,Green REBOUND (Off:1 Def:0),,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,9,2,9,1,8:41 PM,11:35,MISS Finney-Smith 3' Driving Dunk,,Sengun BLOCK (1 BLK),,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1
+0022200218,11,4,0,1,8:41 PM,11:31,,,Sengun REBOUND (Off:0 Def:1),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,12,2,1,1,8:41 PM,11:28,,,MISS Porter Jr. 24' 3PT Jump Shot,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,13,4,0,1,8:41 PM,11:25,Dinwiddie REBOUND (Off:0 Def:1),,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,14,2,1,1,8:42 PM,11:13,MISS Dinwiddie 27' 3PT Jump Shot,,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,15,4,0,1,8:42 PM,11:10,,,Gordon REBOUND (Off:0 Def:1),,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,16,2,1,1,8:42 PM,10:55,,,MISS Smith Jr. 25' 3PT Jump Shot,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,17,4,0,1,8:42 PM,10:52,Green REBOUND (Off:1 Def:1),,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,18,2,1,1,8:42 PM,10:36,MISS Dinwiddie 24' 3PT Jump Shot,,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,19,4,0,1,8:42 PM,10:33,,,Green REBOUND (Off:0 Def:1),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,20,2,101,1,8:43 PM,10:17,,,MISS Gordon 5' Driving Floating Jump Shot,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,21,4,0,1,8:43 PM,10:15,,,Sengun REBOUND (Off:1 Def:1),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,24,5,15,1,8:43 PM,10:15,,,Sengun Offensive Goaltending Turnover (P1.T1),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200218,25,2,5,1,8:43 PM,10:02,MISS Dinwiddie 2' Layup,,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,26,4,0,1,8:43 PM,10:00,,,Porter Jr. REBOUND (Off:0 Def:1),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,27,1,101,1,8:43 PM,9:55,,,Porter Jr. 2' Driving Floating Jump Shot (2 PTS),2 - 0,-2,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,28,2,1,1,8:43 PM,9:40,MISS Finney-Smith 24' 3PT Jump Shot,,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,29,4,0,1,8:43 PM,9:40,,,Gordon REBOUND (Off:0 Def:2),,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,30,2,1,1,8:44 PM,9:30,,,MISS Gordon 26' 3PT Jump Shot,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,31,4,0,1,8:44 PM,9:28,Finney-Smith REBOUND (Off:0 Def:1),,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,32,2,1,1,8:44 PM,9:11,MISS Finney-Smith 3PT Jump Shot,,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,33,4,0,1,8:44 PM,9:08,,,Sengun REBOUND (Off:1 Def:2),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,34,2,44,1,8:44 PM,8:57,,,MISS Sengun 1' Reverse Layup,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,35,4,0,1,8:44 PM,8:55,,,Porter Jr. REBOUND (Off:1 Def:1),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,36,2,5,1,8:44 PM,8:53,,,MISS Smith Jr. 6' Layup,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,37,4,0,1,8:44 PM,8:51,,,Green REBOUND (Off:1 Def:1),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,38,2,78,1,8:44 PM,8:46,,,MISS Green 11' Floating Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,39,4,0,1,8:44 PM,8:45,,,Sengun REBOUND (Off:2 Def:2),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,40,1,72,1,8:44 PM,8:45,,,Sengun 1' Putback Layup (2 PTS),4 - 0,-4,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,41,6,2,1,8:44 PM,8:45,Bullock S.FOUL (P1.T1) (Z.Zarba),,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200218,43,3,10,1,8:45 PM,8:45,,,Sengun Free Throw 1 of 1 (3 PTS),5 - 0,-5,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,44,1,101,1,8:45 PM,8:31,Finney-Smith 6' Driving Floating Jump Shot (2 PTS) (Dinwiddie 1 AST),,,5 - 2,-3,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200218,46,2,57,1,8:45 PM,8:19,,,MISS Sengun 3' Driving Hook Shot,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,47,4,0,1,8:46 PM,8:16,,,Sengun REBOUND (Off:3 Def:2),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,48,6,2,1,8:46 PM,8:15,Finney-Smith S.FOUL (P1.T2) (D.Mosher),,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200218,50,3,11,1,8:46 PM,8:15,,,MISS Sengun Free Throw 1 of 2,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,51,4,1,1,8:46 PM,8:15,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200218,52,3,12,1,8:46 PM,8:15,,,Sengun Free Throw 2 of 2 (4 PTS),6 - 2,-4,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,53,6,2,1,8:47 PM,8:02,,,Smith Jr. S.FOUL (P1.T1) (D.Mosher),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022200218,55,3,11,1,8:47 PM,8:02,Dinwiddie Free Throw 1 of 2 (1 PTS),,,6 - 3,-3,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,56,8,0,1,8:47 PM,8:02,SUB: Wood FOR Powell,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200218,58,3,12,1,8:47 PM,8:02,Dinwiddie Free Throw 2 of 2 (2 PTS),,,6 - 4,-2,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,59,6,1,1,8:48 PM,7:50,Green P.FOUL (P1.T3) (K.Lane),,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200218,61,8,0,1,8:48 PM,7:50,SUB: Hardaway Jr. FOR Green,,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200218,63,1,108,1,8:48 PM,7:43,,,Sengun 1' Cutting Dunk Shot (6 PTS) (Green 1 AST),8 - 4,-4,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200218,65,6,1,1,8:49 PM,7:32,,,Green P.FOUL (P1.T2) (D.Mosher),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022200218,67,2,79,1,8:49 PM,7:22,MISS Hardaway Jr. 18' Pullup Jump Shot,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,68,4,0,1,8:49 PM,7:19,,,Porter Jr. REBOUND (Off:1 Def:2),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,69,1,1,1,8:49 PM,7:12,,,Smith Jr. 24' 3PT Jump Shot (3 PTS) (Porter Jr. 1 AST),11 - 4,-7,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200218,71,1,6,1,8:49 PM,7:02,Wood 1' Driving Layup (2 PTS) (Dinwiddie 2 AST),,,11 - 6,-5,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200218,73,2,6,1,8:49 PM,6:51,,,MISS Green 1' Driving Layup,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,74,4,0,1,8:49 PM,6:50,Hardaway Jr. REBOUND (Off:0 Def:1),,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,75,5,1,1,8:49 PM,6:49,Hardaway Jr. Bad Pass Turnover (P1.T1),,Porter Jr. STEAL (1 STL),,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200218,77,1,63,1,8:50 PM,6:34,,,Smith Jr. 10' Fadeaway Jumper (5 PTS),13 - 6,-7,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,78,2,1,1,8:50 PM,6:16,MISS Dinwiddie 27' 3PT Jump Shot,,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,79,4,0,1,8:50 PM,6:14,Dinwiddie REBOUND (Off:1 Def:1),,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,80,1,1,1,8:50 PM,6:09,Wood 25' 3PT Jump Shot (5 PTS) (Dinwiddie 3 AST),,,13 - 9,-4,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200218,82,1,101,1,8:50 PM,5:55,,,Gordon 4' Driving Floating Jump Shot (2 PTS) (Green 2 AST),15 - 9,-6,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200218,84,2,1,1,8:51 PM,5:42,MISS Wood 26' 3PT Jump Shot,,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,85,4,0,1,8:51 PM,5:41,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200218,87,9,1,1,8:51 PM,5:41,MAVERICKS Timeout: Regular (Full 1 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200218,88,8,0,1,8:51 PM,5:41,SUB: Campazzo FOR Dinwiddie,,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,4,1630267,Facundo Campazzo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200218,89,8,0,1,8:51 PM,5:41,,,SUB: Nix FOR Smith Jr.,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200218,90,8,0,1,8:51 PM,5:41,,,SUB: Eason FOR Porter Jr.,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200218,91,8,0,1,8:51 PM,5:41,,,SUB: Martin Jr. FOR Gordon,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200218,96,2,58,1,8:54 PM,5:26,,,MISS Sengun 10' Turnaround Hook Shot,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,97,4,0,1,8:54 PM,5:25,,,Sengun REBOUND (Off:4 Def:2),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,98,1,3,1,8:54 PM,5:21,,,Sengun 6' Hook Shot (8 PTS),17 - 9,-8,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,99,1,1,1,8:54 PM,5:10,Hardaway Jr. 25' 3PT Jump Shot (3 PTS) (Campazzo 1 AST),,,17 - 12,-5,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1630267,Facundo Campazzo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200218,101,6,2,1,8:54 PM,4:57,Bullock S.FOUL (P2.T4) (Z.Zarba),,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200218,103,3,11,1,8:55 PM,4:57,,,Green Free Throw 1 of 2 (1 PTS),18 - 12,-6,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,104,8,0,1,8:55 PM,4:57,,,SUB: Garuba FOR Sengun,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200218,106,3,12,1,8:55 PM,4:57,,,MISS Green Free Throw 2 of 2,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,107,4,0,1,8:55 PM,4:55,Campazzo REBOUND (Off:0 Def:1),,,,,4,1630267,Facundo Campazzo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,108,2,1,1,8:55 PM,4:44,MISS Bullock 25' 3PT Jump Shot,,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,109,4,0,1,8:55 PM,4:41,,,Green REBOUND (Off:1 Def:2),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,110,1,79,1,8:56 PM,4:34,,,Green 19' Pullup Jump Shot (3 PTS),20 - 12,-8,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,111,2,101,1,8:56 PM,4:22,MISS Hardaway Jr. 5' Driving Floating Jump Shot,,Eason BLOCK (1 BLK),,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,1
+0022200218,113,4,0,1,8:56 PM,4:22,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200218,115,1,1,1,8:56 PM,4:10,Hardaway Jr. 26' 3PT Jump Shot (6 PTS) (Campazzo 2 AST),,,20 - 15,-5,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1630267,Facundo Campazzo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200218,117,5,45,1,8:56 PM,4:00,,,Green Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200218,118,8,0,1,8:56 PM,4:00,SUB: Green FOR Bullock,,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200218,120,6,1,1,8:57 PM,3:52,,,Nix P.FOUL (P1.T3) (Z.Zarba),,,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022200218,122,2,101,1,8:57 PM,3:47,MISS Hardaway Jr. 6' Driving Floating Jump Shot,,Garuba BLOCK (1 BLK),,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,1
+0022200218,124,4,0,1,8:57 PM,3:45,,,Garuba REBOUND (Off:0 Def:1),,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,125,5,2,1,8:57 PM,3:42,Campazzo STEAL (1 STL),,Martin Jr. Lost Ball Turnover (P1.T3),,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,4,1630267,Facundo Campazzo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200218,127,6,2,1,8:57 PM,3:37,,,Eason S.FOUL (P1.T4) (D.Mosher),,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022200218,129,3,11,1,8:58 PM,3:37,Green Free Throw 1 of 2 (1 PTS),,,20 - 16,-4,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,130,3,12,1,8:58 PM,3:37,Green Free Throw 2 of 2 (2 PTS),,,20 - 17,-3,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,132,1,75,1,8:59 PM,3:26,,,Green 2' Driving Finger Roll Layup (5 PTS),22 - 17,-5,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,133,6,2,1,8:59 PM,3:26,Wood S.FOUL (P1.PN) (Z.Zarba),,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200218,135,3,10,1,8:59 PM,3:26,,,Green Free Throw 1 of 1 (6 PTS),23 - 17,-6,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,136,2,1,1,8:59 PM,3:09,MISS Campazzo 27' 3PT Jump Shot,,,,,4,1630267,Facundo Campazzo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,137,4,0,1,8:59 PM,3:03,,,Eason REBOUND (Off:0 Def:1),,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,138,5,2,1,9:00 PM,2:54,Green STEAL (1 STL),,Green Lost Ball Turnover (P2.T4),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200218,140,1,2,1,9:00 PM,2:49,Hardaway Jr. 3PT Running Jump Shot (9 PTS) (Wood 1 AST),,,23 - 20,-3,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200218,142,6,2,1,9:00 PM,2:44,Wood S.FOUL (P2.PN) (K.Lane),,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200218,144,9,1,1,9:00 PM,2:44,,,Rockets Timeout: Regular (Reg.1 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200218,145,8,0,1,9:01 PM,2:44,SUB: Ntilikina FOR Finney-Smith,,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200218,146,8,0,1,9:01 PM,2:44,SUB: Powell FOR Wood,,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200218,149,3,11,1,9:03 PM,2:44,,,Green Free Throw 1 of 2 (7 PTS),24 - 20,-4,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,150,3,12,1,9:03 PM,2:44,,,Green Free Throw 2 of 2 (8 PTS),25 - 20,-5,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,151,2,1,1,9:03 PM,2:26,MISS Hardaway Jr. 27' 3PT Jump Shot,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,152,4,0,1,9:03 PM,2:25,Green REBOUND (Off:2 Def:1),,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,153,6,2,1,9:04 PM,2:17,,,Eason S.FOUL (P2.PN) (K.Lane),,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022200218,155,3,11,1,9:04 PM,2:17,Green Free Throw 1 of 2 (3 PTS),,,25 - 21,-4,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,156,3,12,1,9:04 PM,2:17,Green Free Throw 2 of 2 (4 PTS),,,25 - 22,-3,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,157,5,1,1,9:04 PM,2:14,Campazzo STEAL (2 STL),,Eason Bad Pass Turnover (P1.T5),,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,4,1630267,Facundo Campazzo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200218,159,1,1,1,9:04 PM,2:06,Ntilikina 3PT Jump Shot (3 PTS) (Campazzo 3 AST),,,25 - 25,TIE,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,4,1630267,Facundo Campazzo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200218,161,1,6,1,9:05 PM,1:46,,,Martin Jr. 2' Driving Layup (2 PTS),27 - 25,-2,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,162,1,79,1,9:05 PM,1:33,Hardaway Jr. 13' Pullup Jump Shot (11 PTS) (Campazzo 4 AST),,,27 - 27,TIE,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1630267,Facundo Campazzo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200218,164,2,80,1,9:05 PM,1:21,,,MISS Green 24' 3PT Step Back Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,165,4,0,1,9:05 PM,1:19,Campazzo REBOUND (Off:0 Def:2),,,,,4,1630267,Facundo Campazzo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,166,5,45,1,9:05 PM,1:19,Campazzo Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,,,4,1630267,Facundo Campazzo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0022200218,167,8,0,1,9:05 PM,1:19,,,SUB: Gordon FOR Green,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200218,169,1,108,1,9:06 PM,1:10,,,Martin Jr. 1' Cutting Dunk Shot (4 PTS) (Garuba 1 AST),29 - 27,-2,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200218,171,6,14,1,9:06 PM,1:10,,,Martin Jr. FLAGRANT.FOUL.TYPE1 (P1.PN) (K.Lane),,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022200218,172,18,1,1,9:06 PM,1:10,,Instant Replay1st Period (9:06 PM EST),,29 - 27,-2,0,171,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200218,173,3,18,1,9:09 PM,1:10,MISS Powell Free Throw Flagrant 1 of 2,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,174,4,1,1,9:09 PM,1:10,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200218,176,3,19,1,9:09 PM,1:10,Powell Free Throw Flagrant 2 of 2 (1 PTS),,,29 - 28,-1,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,177,2,1,1,9:10 PM,1:00,MISS Campazzo 25' 3PT Jump Shot,,,,,4,1630267,Facundo Campazzo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,178,4,0,1,9:10 PM,0:57,,,Eason REBOUND (Off:0 Def:2),,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,179,1,98,1,9:10 PM,0:39,,,Eason 1' Cutting Layup Shot (2 PTS) (Garuba 2 AST),31 - 28,-3,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200218,181,2,75,1,9:10 PM,0:29,MISS Green 4' Driving Finger Roll Layup,,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,182,4,0,1,9:10 PM,0:27,,,Garuba REBOUND (Off:0 Def:2),,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,183,2,1,1,9:11 PM,0:21,,,MISS Gordon 30' 3PT Jump Shot,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,184,4,0,1,9:11 PM,0:18,Hardaway Jr. REBOUND (Off:0 Def:2),,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,185,2,79,1,9:11 PM,0:02,MISS Hardaway Jr. 26' 3PT Pullup Jump Shot,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,186,4,0,1,9:11 PM,0:02,,,Eason REBOUND (Off:0 Def:3),,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,189,13,0,1,9:11 PM,0:00,,End of 1st Period (9:11 PM EST),,31 - 28,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200218,198,12,0,2,9:14 PM,12:00,,Start of 2nd Period (9:14 PM EST),,31 - 28,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200218,199,1,98,2,9:14 PM,11:45,,,Garuba 1' Cutting Layup Shot (2 PTS) (Porter Jr. 2 AST),33 - 28,-5,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200218,201,1,1,2,9:14 PM,11:27,Bertans 25' 3PT Jump Shot (3 PTS) (Dinwiddie 4 AST),,,33 - 31,-2,4,202722,Dāvis Bertāns,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200218,203,6,1,2,9:14 PM,11:16,Ntilikina P.FOUL (P1.T1) (D.Mosher),,,,,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200218,205,1,80,2,9:15 PM,11:06,,,Porter Jr. 19' Step Back Jump Shot (4 PTS),35 - 31,-4,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,206,2,6,2,9:15 PM,10:47,MISS Bertans 3' Driving Layup,,Garuba BLOCK (2 BLK),,,4,202722,Dāvis Bertāns,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,1
+0022200218,208,4,0,2,9:15 PM,10:46,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200218,210,8,0,2,9:15 PM,10:46,,,SUB: Christopher FOR Martin Jr.,,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200218,211,8,0,2,9:15 PM,10:46,,,SUB: Sengun FOR Garuba,,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200218,214,1,1,2,9:16 PM,10:40,Dinwiddie 3PT Jump Shot (5 PTS) (Hardaway Jr. 1 AST),,,35 - 34,-1,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200218,216,2,80,2,9:16 PM,10:27,,,MISS Porter Jr. 13' Step Back Jump Shot,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,217,4,0,2,9:16 PM,10:26,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200218,219,2,6,2,9:16 PM,10:13,MISS Dinwiddie 5' Driving Layup,,Sengun BLOCK (2 BLK),,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1
+0022200218,221,4,0,2,9:16 PM,10:08,Powell REBOUND (Off:1 Def:0),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,222,1,72,2,9:16 PM,10:07,Powell 1' Putback Layup (3 PTS),,,35 - 36,1,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,223,2,1,2,9:16 PM,9:54,,,MISS Sengun 23' Jump Shot,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,224,4,0,2,9:16 PM,9:54,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200218,225,6,3,2,9:16 PM,9:54,Bertans L.B.FOUL (P1.T2) (Z.Zarba),,,,,4,202722,Dāvis Bertāns,1610612742.0,Dallas,Mavericks,DAL,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200218,227,6,2,2,9:17 PM,9:45,Bertans S.FOUL (P2.T3) (K.Lane),,,,,4,202722,Dāvis Bertāns,1610612742.0,Dallas,Mavericks,DAL,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200218,229,3,13,2,9:17 PM,9:45,,,Gordon Free Throw 1 of 3 (3 PTS),36 - 36,TIE,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,230,3,14,2,9:17 PM,9:45,,,Gordon Free Throw 2 of 3 (4 PTS),37 - 36,-1,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,231,3,15,2,9:18 PM,9:45,,,Gordon Free Throw 3 of 3 (5 PTS),38 - 36,-2,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,232,1,43,2,9:18 PM,9:30,Powell 2' Alley Oop Layup (5 PTS) (Hardaway Jr. 2 AST),,,38 - 38,TIE,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200218,234,2,79,2,9:18 PM,9:14,,,MISS Porter Jr. 20' Pullup Jump Shot,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,235,4,0,2,9:18 PM,9:12,Ntilikina REBOUND (Off:0 Def:1),,,,,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,236,2,75,2,9:18 PM,9:06,MISS Hardaway Jr. 2' Driving Finger Roll Layup,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,237,4,0,2,9:18 PM,9:06,Powell REBOUND (Off:2 Def:0),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,320,5,40,2,9:19 PM,9:06,Powell Out of Bounds Lost Ball Turnover (P1.T3),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0022200218,239,2,79,2,9:19 PM,8:51,,,MISS Smith Jr. 19' Pullup Jump Shot,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,240,4,0,2,9:19 PM,8:49,Hardaway Jr. REBOUND (Off:0 Def:3),,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,241,2,1,2,9:19 PM,8:39,MISS Bertans 26' 3PT Jump Shot,,,,,4,202722,Dāvis Bertāns,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,242,4,0,2,9:19 PM,8:36,,,Porter Jr. REBOUND (Off:1 Def:3),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,243,6,2,2,9:19 PM,8:32,Bertans S.FOUL (P3.T4) (Z.Zarba),,,,,4,202722,Dāvis Bertāns,1610612742.0,Dallas,Mavericks,DAL,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200218,245,3,11,2,9:20 PM,8:32,,,Sengun Free Throw 1 of 2 (9 PTS),39 - 38,-1,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,246,8,0,2,9:20 PM,8:32,SUB: Finney-Smith FOR Powell,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200218,247,8,0,2,9:20 PM,8:32,SUB: Bullock FOR Hardaway Jr.,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200218,248,8,0,2,9:20 PM,8:32,SUB: Wood FOR Bertans,,,,,4,202722,Dāvis Bertāns,1610612742.0,Dallas,Mavericks,DAL,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200218,252,3,12,2,9:20 PM,8:32,,,Sengun Free Throw 2 of 2 (10 PTS),40 - 38,-2,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,253,1,80,2,9:21 PM,8:15,Ntilikina 19' Step Back Jump Shot (5 PTS),,,40 - 40,TIE,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,254,1,98,2,9:21 PM,8:02,,,Sengun 2' Cutting Layup Shot (12 PTS) (Porter Jr. 3 AST),42 - 40,-2,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200218,256,2,1,2,9:21 PM,7:50,MISS Wood 26' 3PT Jump Shot,,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,257,4,0,2,9:21 PM,7:48,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200218,259,5,4,2,9:21 PM,7:39,,,Gordon Traveling Turnover (P1.T6),,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200218,260,2,7,2,9:22 PM,7:21,MISS Wood 2' Dunk,,Porter Jr. BLOCK (1 BLK),,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,1
+0022200218,262,4,0,2,9:22 PM,7:21,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200218,264,1,86,2,9:22 PM,7:14,Wood 12' Turnaround Fadeaway (7 PTS) (Dinwiddie 5 AST),,,42 - 42,TIE,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200218,266,5,2,2,9:22 PM,7:05,Wood STEAL (1 STL),,Gordon Lost Ball Turnover (P2.T7),,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200218,268,2,1,2,9:23 PM,6:52,MISS Dinwiddie 3PT Jump Shot,,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,269,4,0,2,9:23 PM,6:47,,,Christopher REBOUND (Off:0 Def:1),,,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,270,5,1,2,9:23 PM,6:32,Ntilikina STEAL (1 STL),,Sengun Bad Pass Turnover (P2.T8),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200218,272,2,2,2,9:23 PM,6:28,MISS Ntilikina 25' 3PT Running Jump Shot,,,,,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,273,4,0,2,9:23 PM,6:24,Wood REBOUND (Off:1 Def:0),,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,274,2,80,2,9:23 PM,6:14,MISS Dinwiddie 21' Step Back Jump Shot,,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,275,4,0,2,9:23 PM,6:13,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200218,277,9,1,2,9:24 PM,6:13,MAVERICKS Timeout: Regular (Full 2 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200218,278,8,0,2,9:24 PM,6:13,SUB: Campazzo FOR Ntilikina,,,,,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,4,1630267,Facundo Campazzo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200218,279,8,0,2,9:24 PM,6:13,,,SUB: Martin Jr. FOR Christopher,,,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200218,280,8,0,2,9:24 PM,6:13,,,SUB: Green FOR Gordon,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200218,284,5,4,2,9:27 PM,6:00,,,Sengun Traveling Turnover (P3.T9),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200218,285,2,6,2,9:27 PM,5:41,MISS Wood 3' Driving Layup,,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,286,4,0,2,9:27 PM,5:38,Finney-Smith REBOUND (Off:1 Def:1),,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,287,2,98,2,9:27 PM,5:27,MISS Wood 3' Cutting Layup Shot,,Porter Jr. BLOCK (2 BLK),,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,1
+0022200218,289,4,0,2,9:27 PM,5:25,,,Green REBOUND (Off:1 Def:3),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,290,5,45,2,9:27 PM,5:22,,,Porter Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T10),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200218,291,1,79,2,9:28 PM,5:02,Campazzo 25' 3PT Pullup Jump Shot (3 PTS),,,42 - 45,3,4,1630267,Facundo Campazzo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,292,2,78,2,9:28 PM,4:44,,,MISS Porter Jr. 8' Floating Jump Shot,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,293,4,0,2,9:28 PM,4:42,Finney-Smith REBOUND (Off:1 Def:2),,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,294,1,1,2,9:28 PM,4:34,Wood 25' 3PT Jump Shot (10 PTS) (Dinwiddie 6 AST),,,42 - 48,6,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200218,296,2,79,2,9:29 PM,4:13,,,MISS Green 16' Pullup Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,297,4,0,2,9:29 PM,4:09,Wood REBOUND (Off:1 Def:1),,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,298,1,2,2,9:29 PM,4:04,Finney-Smith 25' 3PT Running Jump Shot (5 PTS) (Wood 2 AST),,,42 - 51,9,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200218,366,9,1,2,9:29 PM,4:04,,,Rockets Timeout: Regular (Reg.2 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200218,300,8,0,2,9:29 PM,4:04,,,SUB: Garuba FOR Smith Jr.,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200218,301,8,0,2,9:29 PM,4:04,,,SUB: Eason FOR Sengun,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200218,304,7,5,2,9:32 PM,3:48,Finney-Smith Violation:Kicked Ball (Z.Zarba),,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0022200218,305,2,6,2,9:32 PM,3:36,,,MISS Green 3' Driving Layup,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,306,4,0,2,9:32 PM,3:35,,,Eason REBOUND (Off:1 Def:3),,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,307,1,97,2,9:32 PM,3:34,,,Eason Tip Layup Shot (4 PTS),44 - 51,7,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,308,2,1,2,9:33 PM,3:20,MISS Finney-Smith 3PT Jump Shot,,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,309,4,0,2,9:33 PM,3:17,,,Garuba REBOUND (Off:0 Def:3),,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,310,5,1,2,9:33 PM,3:10,Campazzo STEAL (3 STL),,Porter Jr. Bad Pass Turnover (P2.T11),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,4,1630267,Facundo Campazzo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200218,312,2,1,2,9:33 PM,3:04,MISS Dinwiddie 3PT Jump Shot,,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,313,4,0,2,9:33 PM,3:01,,,Porter Jr. REBOUND (Off:1 Def:4),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,314,1,1,2,9:33 PM,2:50,,,Garuba 25' 3PT Jump Shot (5 PTS) (Porter Jr. 4 AST),47 - 51,4,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200218,316,6,1,2,9:33 PM,2:27,,,Porter Jr. P.FOUL (P1.T1) (Z.Zarba),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022200218,318,8,0,2,9:34 PM,2:27,,,SUB: Gordon FOR Martin Jr.,,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200218,321,2,1,2,9:34 PM,2:12,MISS Wood 17' Jump Shot,,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,322,4,0,2,9:34 PM,2:09,,,Porter Jr. REBOUND (Off:1 Def:5),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,323,2,102,2,9:34 PM,1:56,,,MISS Porter Jr. 5' Driving Floating Bank Jump Shot,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,324,4,0,2,9:35 PM,1:54,,,Garuba REBOUND (Off:1 Def:3),,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,325,1,72,2,9:35 PM,1:53,,,Garuba 2' Putback Layup (7 PTS),49 - 51,2,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,326,2,1,2,9:35 PM,1:42,MISS Campazzo 24' 3PT Jump Shot,,,,,4,1630267,Facundo Campazzo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,327,4,0,2,9:35 PM,1:40,,,Porter Jr. REBOUND (Off:1 Def:6),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,328,9,1,2,9:35 PM,1:34,,,Rockets Timeout: Regular (Reg.3 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200218,329,8,0,2,9:36 PM,1:34,SUB: Powell FOR Dinwiddie,,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200218,330,8,0,2,9:36 PM,1:34,SUB: Hardaway Jr. FOR Wood,,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200218,333,1,1,2,9:37 PM,1:20,,,Garuba 25' 3PT Jump Shot (10 PTS) (Porter Jr. 5 AST),52 - 51,-1,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200218,335,5,4,2,9:37 PM,0:55,Campazzo Traveling Turnover (P2.T4),,,,,4,1630267,Facundo Campazzo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0022200218,336,1,63,2,9:38 PM,0:32,,,Porter Jr. 11' Fadeaway Jumper (6 PTS),54 - 51,-3,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,337,6,1,2,9:38 PM,0:20,,,Green P.FOUL (P2.T2) (D.Mosher),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022200218,339,2,1,2,9:38 PM,0:09,MISS Hardaway Jr. 3PT Jump Shot,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,340,4,0,2,9:39 PM,0:05,,,Green REBOUND (Off:1 Def:4),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,341,1,103,2,9:39 PM,0:00,,,Green 27' 3PT Running Pull-Up Jump Shot (11 PTS),57 - 51,-6,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,342,18,0,2,9:39 PM,0:00,,Instant Replay2nd Period (9:39 PM EST),,57 - 51,-6,0,341,Joe Wolf,,,,,0,0,,,,,,1,0,,,,,,0
+0022200218,343,13,0,2,9:39 PM,0:00,,End of 2nd Period (9:39 PM EST),,57 - 51,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200218,352,12,0,3,9:54 PM,12:00,,Start of 3rd Period (9:54 PM EST),,57 - 51,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200218,353,5,4,3,9:54 PM,11:46,,,Sengun Traveling Turnover (P4.T12),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200218,354,1,75,3,9:55 PM,11:26,Dinwiddie 1' Driving Finger Roll Layup (7 PTS),,,57 - 53,-4,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,355,6,1,3,9:55 PM,11:17,Powell P.FOUL (P1.T1) (K.Lane),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200218,358,1,108,3,9:56 PM,11:06,,,Green 1' Cutting Dunk Shot (13 PTS) (Porter Jr. 6 AST),59 - 53,-6,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200218,360,2,6,3,9:56 PM,10:53,MISS Dinwiddie 7' Driving Layup,,Green BLOCK (1 BLK),,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,1
+0022200218,362,4,0,3,9:56 PM,10:52,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200218,364,2,1,3,9:56 PM,10:48,MISS Bullock 24' 3PT Jump Shot,,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,365,4,0,3,9:56 PM,10:45,,,Porter Jr. REBOUND (Off:1 Def:7),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,367,5,6,3,9:56 PM,10:38,,,Green Double Dribble Turnover (P3.T13),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200218,368,1,75,3,9:57 PM,10:18,Dinwiddie 1' Driving Finger Roll Layup (9 PTS),,,59 - 55,-4,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,369,2,1,3,9:57 PM,10:02,,,MISS Green 26' 3PT Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,370,4,0,3,9:57 PM,10:00,Finney-Smith REBOUND (Off:1 Def:3),,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,371,2,6,3,9:57 PM,9:53,MISS Dinwiddie 3' Driving Layup,,Sengun BLOCK (3 BLK),,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1
+0022200218,373,4,0,3,9:57 PM,9:52,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200218,375,2,58,3,9:58 PM,9:32,,,MISS Sengun 10' Turnaround Hook Shot,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,376,4,0,3,9:58 PM,9:31,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200218,377,6,3,3,9:58 PM,9:31,Powell L.B.FOUL (P2.T2) (Z.Zarba),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200218,379,1,80,3,9:58 PM,9:20,,,Porter Jr. 3PT Step Back Jump Shot (9 PTS) (Gordon 1 AST),62 - 55,-7,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200218,381,2,1,3,9:59 PM,8:57,MISS Bullock 26' 3PT Jump Shot,,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,382,4,0,3,9:59 PM,8:53,,,Gordon REBOUND (Off:0 Def:3),,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,383,1,76,3,9:59 PM,8:51,,,Gordon 1' Running Finger Roll Layup (7 PTS) (Green 3 AST),64 - 55,-9,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200218,385,9,1,3,9:59 PM,8:51,MAVERICKS Timeout: Regular (Full 3 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200218,386,8,0,3,10:01 PM,8:51,SUB: Wood FOR Powell,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200218,387,8,0,3,10:01 PM,8:51,SUB: Hardaway Jr. FOR Green,,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200218,390,2,1,3,10:02 PM,8:35,MISS Hardaway Jr. 25' 3PT Jump Shot,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,391,4,0,3,10:02 PM,8:30,,,Smith Jr. REBOUND (Off:0 Def:1),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,392,5,2,3,10:02 PM,8:20,Dinwiddie STEAL (1 STL),,Porter Jr. Lost Ball Turnover (P3.T14),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200218,394,1,2,3,10:02 PM,8:16,Hardaway Jr. 15' Running Jump Shot (13 PTS) (Wood 3 AST),,,64 - 57,-7,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200218,396,2,1,3,10:03 PM,7:48,,,MISS Green 26' 3PT Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,397,4,0,3,10:03 PM,7:47,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200218,399,2,1,3,10:03 PM,7:22,MISS Finney-Smith 25' 3PT Jump Shot,,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,400,4,0,3,10:04 PM,7:20,,,Sengun REBOUND (Off:4 Def:3),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,401,2,6,3,10:04 PM,7:10,,,MISS Porter Jr. 2' Driving Layup,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,402,4,0,3,10:04 PM,7:07,Wood REBOUND (Off:1 Def:2),,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,403,2,41,3,10:04 PM,7:03,MISS Wood 3' Running Layup,,Porter Jr. BLOCK (3 BLK),,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,1
+0022200218,405,4,0,3,10:04 PM,7:03,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200218,407,8,0,3,10:04 PM,7:03,SUB: Campazzo FOR Dinwiddie,,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,4,1630267,Facundo Campazzo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200218,409,2,6,3,10:04 PM,6:55,MISS Hardaway Jr. 2' Driving Layup,,Sengun BLOCK (4 BLK),,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1
+0022200218,411,4,0,3,10:04 PM,6:51,,,Green REBOUND (Off:1 Def:5),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,412,5,45,3,10:04 PM,6:50,,,Green Out of Bounds - Bad Pass Turnover Turnover (P4.T15),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200218,413,6,2,3,10:05 PM,6:38,,,Sengun S.FOUL (P1.T1) (D.Mosher),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022200218,415,3,11,3,10:05 PM,6:38,Wood Free Throw 1 of 2 (11 PTS),,,64 - 58,-6,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,416,3,12,3,10:06 PM,6:38,Wood Free Throw 2 of 2 (12 PTS),,,64 - 59,-5,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,417,2,86,3,10:06 PM,6:22,,,MISS Smith Jr. 9' Turnaround Fadeaway Shot,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,418,4,0,3,10:06 PM,6:19,Wood REBOUND (Off:1 Def:3),,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,419,1,41,3,10:06 PM,6:16,Wood 1' Running Layup (14 PTS),,,64 - 61,-3,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,420,6,2,3,10:06 PM,6:16,,,Smith Jr. S.FOUL (P2.T2) (K.Lane),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022200218,422,3,10,3,10:07 PM,6:16,Wood Free Throw 1 of 1 (15 PTS),,,64 - 62,-2,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,423,2,57,3,10:07 PM,5:53,,,MISS Gordon 7' Driving Hook Shot,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,424,4,0,3,10:07 PM,5:51,Finney-Smith REBOUND (Off:1 Def:4),,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,425,1,76,3,10:07 PM,5:46,Hardaway Jr. 1' Running Finger Roll Layup (15 PTS),,,64 - 64,TIE,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,426,9,1,3,10:07 PM,5:46,,,Rockets Timeout: Regular (Reg.4 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200218,427,8,0,3,10:08 PM,5:46,,,SUB: Eason FOR Smith Jr.,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200218,428,8,0,3,10:08 PM,5:46,,,SUB: Martin Jr. FOR Gordon,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200218,429,8,0,3,10:08 PM,5:46,,,SUB: Garuba FOR Sengun,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200218,433,2,101,3,10:10 PM,5:28,,,MISS Porter Jr. 9' Driving Floating Jump Shot,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,434,4,0,3,10:10 PM,5:26,Wood REBOUND (Off:1 Def:4),,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,435,1,6,3,10:10 PM,5:17,Finney-Smith 1' Driving Layup (7 PTS) (Hardaway Jr. 3 AST),,,64 - 66,2,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200218,437,1,98,3,10:11 PM,5:03,,,Eason 1' Cutting Layup Shot (6 PTS) (Porter Jr. 7 AST),66 - 66,TIE,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200218,439,2,80,3,10:11 PM,4:36,MISS Bullock 25' 3PT Step Back Jump Shot,,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,440,4,0,3,10:11 PM,4:33,,,Garuba REBOUND (Off:1 Def:4),,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,441,1,6,3,10:11 PM,4:25,,,Green Driving Layup (15 PTS),68 - 66,-2,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,442,2,1,3,10:12 PM,4:07,MISS Bullock 3PT Jump Shot,,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,443,4,0,3,10:12 PM,4:04,,,Garuba REBOUND (Off:1 Def:5),,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,444,2,102,3,10:12 PM,3:57,,,MISS Porter Jr. 6' Driving Floating Bank Jump Shot,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,445,4,0,3,10:12 PM,3:54,Wood REBOUND (Off:1 Def:5),,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,446,2,1,3,10:12 PM,3:46,MISS Wood 25' 3PT Jump Shot,,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,447,4,0,3,10:12 PM,3:42,,,Porter Jr. REBOUND (Off:1 Def:8),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,448,6,2,3,10:12 PM,3:28,Wood S.FOUL (P3.T3) (K.Lane),,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200218,450,3,11,3,10:13 PM,3:28,,,Green Free Throw 1 of 2 (16 PTS),69 - 66,-3,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,451,8,0,3,10:13 PM,3:28,SUB: Ntilikina FOR Bullock,,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200218,452,8,0,3,10:13 PM,3:28,,,SUB: Nix FOR Porter Jr.,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200218,455,3,12,3,10:13 PM,3:28,,,Green Free Throw 2 of 2 (17 PTS),70 - 66,-4,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,456,6,3,3,10:13 PM,3:28,,,Garuba L.B.FOUL (P1.T3) (Z.Zarba),,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022200218,458,1,1,3,10:14 PM,3:18,Hardaway Jr. 25' 3PT Jump Shot (18 PTS) (Campazzo 5 AST),,,70 - 69,-1,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1630267,Facundo Campazzo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200218,460,2,75,3,10:14 PM,2:51,,,MISS Green 6' Driving Finger Roll Layup,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,461,4,0,3,10:14 PM,2:51,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200218,463,5,11,3,10:14 PM,2:51,,,Rockets Turnover: Shot Clock (T#16),,,3,1610612745,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200218,464,2,98,3,10:15 PM,2:40,MISS Wood 3' Cutting Layup Shot,,Martin Jr. BLOCK (1 BLK),,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,1
+0022200218,466,4,0,3,10:15 PM,2:37,,,Eason REBOUND (Off:1 Def:4),,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,467,6,26,3,10:15 PM,2:33,,,Eason Offensive Charge Foul (P3) (D.Mosher),,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,4,1630267,Facundo Campazzo,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022200218,469,5,37,3,10:15 PM,2:33,,,Eason Offensive Foul Turnover (P2.T17),,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200218,470,5,45,3,10:16 PM,2:14,Campazzo Out of Bounds - Bad Pass Turnover Turnover (P3.T5),,,,,4,1630267,Facundo Campazzo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0022200218,471,1,1,3,10:16 PM,2:02,,,Martin Jr. 26' 3PT Jump Shot (7 PTS) (Green 4 AST),73 - 69,-4,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200218,473,1,101,3,10:16 PM,1:48,Wood 6' Driving Floating Jump Shot (17 PTS),,,73 - 71,-2,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,474,6,2,3,10:16 PM,1:48,,,Garuba S.FOUL (P2.T4) (Z.Zarba),,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022200218,476,8,0,3,10:16 PM,1:48,SUB: Green FOR Finney-Smith,,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200218,478,3,10,3,10:17 PM,1:48,Wood Free Throw 1 of 1 (18 PTS),,,73 - 72,-1,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,479,2,1,3,10:17 PM,1:26,,,MISS Eason 25' 3PT Jump Shot,,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,480,4,0,3,10:17 PM,1:23,Green REBOUND (Off:2 Def:2),,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,481,2,6,3,10:17 PM,1:17,MISS Ntilikina 4' Driving Layup,,Martin Jr. BLOCK (2 BLK),,,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,1
+0022200218,483,4,0,3,10:18 PM,1:14,,,Eason REBOUND (Off:1 Def:5),,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,484,1,2,3,10:18 PM,1:11,,,Nix 25' 3PT Running Jump Shot (3 PTS) (Martin Jr. 1 AST),76 - 72,-4,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200218,486,2,6,3,10:18 PM,0:56,MISS Campazzo 3' Driving Layup,,Nix BLOCK (1 BLK),,,4,1630267,Facundo Campazzo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,1
+0022200218,488,4,0,3,10:18 PM,0:54,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200218,490,5,11,3,10:18 PM,0:29,,,Rockets Turnover: Shot Clock (T#18),,,3,1610612745,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200218,491,6,1,3,10:19 PM,0:26,,,Garuba P.FOUL (P3.PN) (D.Mosher),,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022200218,493,3,11,3,10:19 PM,0:26,Wood Free Throw 1 of 2 (19 PTS),,,76 - 73,-3,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,494,3,12,3,10:20 PM,0:26,Wood Free Throw 2 of 2 (20 PTS),,,76 - 74,-2,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,495,5,11,3,10:20 PM,0:02,,,Rockets Turnover: Shot Clock (T#19),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200218,496,2,1,3,10:21 PM,0:00,MISS Hardaway Jr. 33' 3PT Jump Shot,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,497,4,0,3,10:21 PM,0:00,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200218,498,13,0,3,10:21 PM,0:00,,End of 3rd Period (10:21 PM EST),,76 - 74,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200218,505,12,0,4,10:23 PM,12:00,,Start of 4th Period (10:23 PM EST),,76 - 74,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200218,506,2,6,4,10:23 PM,11:51,MISS Wood 7' Driving Layup,,Nix BLOCK (2 BLK),,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,1
+0022200218,508,4,0,4,10:23 PM,11:48,,,Nix REBOUND (Off:0 Def:1),,,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,509,1,50,4,10:24 PM,11:47,,,Martin Jr. 3' Running Dunk (9 PTS) (Nix 1 AST),78 - 74,-4,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200218,511,6,2,4,10:24 PM,11:47,Finney-Smith S.FOUL (P2.T1) (D.Mosher),,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200218,513,3,10,4,10:24 PM,11:47,,,Martin Jr. Free Throw 1 of 1 (10 PTS),79 - 74,-5,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,514,1,5,4,10:24 PM,11:32,Wood 1' Layup (22 PTS) (Dinwiddie 7 AST),,,79 - 76,-3,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200218,516,6,2,4,10:25 PM,11:11,Wood S.FOUL (P4.T2) (K.Lane),,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200218,518,3,11,4,10:25 PM,11:11,,,Eason Free Throw 1 of 2 (7 PTS),80 - 76,-4,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,519,3,12,4,10:25 PM,11:11,,,Eason Free Throw 2 of 2 (8 PTS),81 - 76,-5,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,520,6,1,4,10:26 PM,11:02,,,Nix P.FOUL (P2.T1) (K.Lane),,,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022200218,522,2,1,4,10:26 PM,10:54,MISS Hardaway Jr. 25' 3PT Jump Shot,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,523,4,0,4,10:26 PM,10:49,,,Eason REBOUND (Off:1 Def:6),,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,524,2,6,4,10:26 PM,10:33,Wood BLOCK (1 BLK),,MISS Gordon 5' Driving Layup,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,1
+0022200218,526,4,0,4,10:27 PM,10:29,Wood REBOUND (Off:1 Def:6),,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,527,2,79,4,10:27 PM,10:24,MISS Dinwiddie 25' 3PT Pullup Jump Shot,,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,528,4,0,4,10:27 PM,10:20,,,Garuba REBOUND (Off:1 Def:6),,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,529,2,1,4,10:27 PM,10:09,,,MISS Nix 26' 3PT Jump Shot,,,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,530,4,0,4,10:27 PM,10:07,Hardaway Jr. REBOUND (Off:0 Def:4),,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,531,1,41,4,10:27 PM,10:00,Hardaway Jr. 3' Running Layup (20 PTS),,,81 - 78,-3,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,532,2,101,4,10:27 PM,9:49,,,MISS Eason 4' Driving Floating Jump Shot,,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,533,4,0,4,10:27 PM,9:46,Finney-Smith REBOUND (Off:1 Def:5),,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,534,1,103,4,10:27 PM,9:41,Hardaway Jr. 25' 3PT Running Pull-Up Jump Shot (23 PTS),,,81 - 81,TIE,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,535,9,1,4,10:27 PM,9:39,,,Rockets Timeout: Regular (Reg.5 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200218,536,8,0,4,10:29 PM,9:39,SUB: Green FOR Campazzo,,,,,4,1630267,Facundo Campazzo,1610612742.0,Dallas,Mavericks,DAL,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200218,537,8,0,4,10:29 PM,9:39,,,SUB: Smith Jr. FOR Nix,,,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200218,538,8,0,4,10:29 PM,9:39,,,SUB: Porter Jr. FOR Eason,,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200218,542,2,1,4,10:31 PM,9:19,,,MISS Smith Jr. 25' 3PT Jump Shot,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,543,4,0,4,10:31 PM,9:19,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200218,545,2,79,4,10:31 PM,9:05,MISS Hardaway Jr. 13' Pullup Jump Shot,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,546,4,0,4,10:31 PM,9:02,Green REBOUND (Off:3 Def:2),,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,547,2,6,4,10:31 PM,8:48,MISS Dinwiddie 5' Driving Layup,,Garuba BLOCK (3 BLK),,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,1
+0022200218,549,4,0,4,10:31 PM,8:46,,,Martin Jr. REBOUND (Off:0 Def:1),,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,550,5,1,4,10:31 PM,8:43,Green STEAL (2 STL),,Porter Jr. Bad Pass Turnover (P4.T20),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200218,552,1,106,4,10:31 PM,8:38,Wood 1' Running Alley Oop Dunk Shot (24 PTS) (Dinwiddie 8 AST),,,81 - 83,2,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200218,554,5,1,4,10:32 PM,8:19,Dinwiddie STEAL (2 STL),,Gordon Bad Pass Turnover (P3.T21),,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200218,556,2,2,4,10:32 PM,8:12,MISS Finney-Smith 24' 3PT Running Jump Shot,,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,557,4,0,4,10:32 PM,8:10,,,Smith Jr. REBOUND (Off:0 Def:2),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,558,1,5,4,10:32 PM,8:02,,,Garuba 1' Layup (12 PTS) (Porter Jr. 8 AST),83 - 83,TIE,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200218,560,5,4,4,10:32 PM,7:47,Green Traveling Turnover (P1.T6),,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0022200218,561,8,0,4,10:32 PM,7:47,SUB: Bullock FOR Finney-Smith,,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200218,562,8,0,4,10:32 PM,7:47,,,SUB: Sengun FOR Garuba,,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200218,565,2,79,4,10:33 PM,7:33,,,MISS Gordon 25' 3PT Pullup Jump Shot,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,566,4,0,4,10:33 PM,7:31,,,Smith Jr. REBOUND (Off:1 Def:2),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,567,6,2,4,10:33 PM,7:31,Green S.FOUL (P2.T3) (K.Lane),,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200218,569,3,11,4,10:34 PM,7:31,,,Smith Jr. Free Throw 1 of 2 (6 PTS),84 - 83,-1,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,570,3,12,4,10:34 PM,7:31,,,Smith Jr. Free Throw 2 of 2 (7 PTS),85 - 83,-2,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,571,2,1,4,10:34 PM,7:10,MISS Green 3PT Jump Shot,,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,572,4,0,4,10:35 PM,7:07,,,Porter Jr. REBOUND (Off:1 Def:9),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,573,6,1,4,10:35 PM,7:02,Green P.FOUL (P3.T4) (D.Mosher),,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200218,575,8,0,4,10:35 PM,7:02,,,SUB: Green FOR Gordon,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200218,577,1,1,4,10:35 PM,6:52,,,Smith Jr. 25' 3PT Jump Shot (10 PTS) (Green 5 AST),88 - 83,-5,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200218,579,2,1,4,10:36 PM,6:25,MISS Wood 25' 3PT Jump Shot,,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,580,4,0,4,10:36 PM,6:22,,,Green REBOUND (Off:1 Def:6),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,581,1,9,4,10:36 PM,6:14,,,Sengun 1' Driving Dunk (14 PTS) (Green 6 AST),90 - 83,-7,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200218,583,9,1,4,10:36 PM,6:14,MAVERICKS Timeout: Regular (Full 4 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200218,585,8,0,4,10:38 PM,6:14,SUB: Campazzo FOR Green,,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,1630267,Facundo Campazzo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200218,586,8,0,4,10:38 PM,6:14,SUB: Finney-Smith FOR Dinwiddie,,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200218,587,8,0,4,10:38 PM,6:14,SUB: Powell FOR Wood,,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200218,591,2,1,4,10:39 PM,6:03,MISS Hardaway Jr. 27' 3PT Jump Shot,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,592,4,0,4,10:39 PM,6:01,Bullock REBOUND (Off:1 Def:0),,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,593,6,2,4,10:39 PM,5:59,,,Sengun S.FOUL (P2.T2) (Z.Zarba),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022200218,595,3,11,4,10:40 PM,5:59,Hardaway Jr. Free Throw 1 of 2 (24 PTS),,,90 - 84,-6,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,596,3,12,4,10:40 PM,5:59,Hardaway Jr. Free Throw 2 of 2 (25 PTS),,,90 - 85,-5,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,597,2,9,4,10:40 PM,5:42,Finney-Smith BLOCK (1 BLK),,MISS Martin Jr. 3' Driving Dunk,,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,1
+0022200218,599,4,0,4,10:40 PM,5:39,Powell REBOUND (Off:2 Def:1),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,600,2,1,4,10:40 PM,5:30,MISS Campazzo 24' 3PT Jump Shot,,,,,4,1630267,Facundo Campazzo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,601,4,0,4,10:40 PM,5:27,,,Smith Jr. REBOUND (Off:1 Def:3),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,602,2,101,4,10:41 PM,5:17,,,MISS Green 6' Driving Floating Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,603,4,0,4,10:41 PM,5:16,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200218,605,6,3,4,10:41 PM,5:16,,,Porter Jr. L.B.FOUL (P2.T3) (Z.Zarba),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022200218,607,2,1,4,10:41 PM,5:05,MISS Campazzo 25' 3PT Jump Shot,,,,,4,1630267,Facundo Campazzo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,608,4,0,4,10:41 PM,5:02,,,Smith Jr. REBOUND (Off:1 Def:4),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,609,6,1,4,10:41 PM,4:57,Campazzo P.FOUL (P1.PN) (K.Lane),,,,,4,1630267,Facundo Campazzo,1610612742.0,Dallas,Mavericks,DAL,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200218,611,3,11,4,10:42 PM,4:57,,,MISS Porter Jr. Free Throw 1 of 2,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,612,4,1,4,10:42 PM,4:57,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200218,613,8,0,4,10:42 PM,4:57,SUB: Dinwiddie FOR Campazzo,,,,,4,1630267,Facundo Campazzo,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200218,615,3,12,4,10:42 PM,4:57,,,Porter Jr. Free Throw 2 of 2 (10 PTS),91 - 85,-6,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,616,2,1,4,10:43 PM,4:37,MISS Hardaway Jr. 3PT Jump Shot,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,617,4,0,4,10:43 PM,4:34,Powell REBOUND (Off:3 Def:1),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,618,6,2,4,10:43 PM,4:34,,,Smith Jr. S.FOUL (P3.T4) (K.Lane),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022200218,620,3,11,4,10:43 PM,4:34,Powell Free Throw 1 of 2 (6 PTS),,,91 - 86,-5,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,621,3,12,4,10:43 PM,4:34,Powell Free Throw 2 of 2 (7 PTS),,,91 - 87,-4,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,622,5,45,4,10:44 PM,4:13,,,Porter Jr. Out of Bounds - Bad Pass Turnover Turnover (P5.T22),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200218,623,2,6,4,10:44 PM,4:02,MISS Dinwiddie 1' Driving Layup,,Smith Jr. BLOCK (1 BLK),,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,1
+0022200218,625,4,0,4,10:44 PM,3:58,Powell REBOUND (Off:4 Def:1),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,626,2,1,4,10:44 PM,3:55,MISS Finney-Smith 26' 3PT Jump Shot,,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,627,4,0,4,10:44 PM,3:53,,,Smith Jr. REBOUND (Off:1 Def:5),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,628,6,2,4,10:45 PM,3:38,Powell S.FOUL (P3.PN) (K.Lane),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200218,630,3,11,4,10:45 PM,3:38,,,Porter Jr. Free Throw 1 of 2 (11 PTS),92 - 87,-5,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,631,8,0,4,10:45 PM,3:38,SUB: Wood FOR Powell,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0022200218,632,8,0,4,10:45 PM,3:38,,,SUB: Gordon FOR Martin Jr.,,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200218,635,3,12,4,10:45 PM,3:38,,,Porter Jr. Free Throw 2 of 2 (12 PTS),93 - 87,-6,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,636,2,52,4,10:46 PM,3:25,MISS Wood 4' Alley Oop Dunk,,Sengun BLOCK (5 BLK),,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1
+0022200218,638,4,0,4,10:46 PM,3:22,,,Smith Jr. REBOUND (Off:1 Def:6),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,639,2,103,4,10:46 PM,3:20,,,MISS Smith Jr. 26' 3PT Running Pull-Up Jump Shot,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,640,4,0,4,10:46 PM,3:20,Bullock REBOUND (Off:1 Def:1),,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,641,1,102,4,10:46 PM,3:13,Hardaway Jr. 4' Driving Floating Bank Jump Shot (27 PTS) (Dinwiddie 9 AST),,,93 - 89,-4,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200218,643,6,2,4,10:46 PM,3:13,,,Smith Jr. S.FOUL (P4.PN) (Z.Zarba),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0022200218,645,3,10,4,10:47 PM,3:13,Hardaway Jr. Free Throw 1 of 1 (28 PTS),,,93 - 90,-3,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,646,2,101,4,10:47 PM,2:59,,,MISS Green 7' Driving Floating Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,647,4,0,4,10:47 PM,2:57,Wood REBOUND (Off:1 Def:7),,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,648,2,6,4,10:47 PM,2:52,MISS Hardaway Jr. 3' Driving Layup,,Smith Jr. BLOCK (2 BLK),,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,1
+0022200218,650,4,0,4,10:47 PM,2:49,,,Smith Jr. REBOUND (Off:1 Def:7),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,651,1,80,4,10:47 PM,2:39,,,Porter Jr. 3PT Step Back Jump Shot (15 PTS),96 - 90,-6,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,652,1,75,4,10:47 PM,2:23,Wood 1' Driving Finger Roll Layup (26 PTS) (Dinwiddie 10 AST),,,96 - 92,-4,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0022200218,654,2,98,4,10:48 PM,1:59,,,MISS Smith Jr. 5' Cutting Layup Shot,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,655,4,0,4,10:48 PM,1:56,Finney-Smith REBOUND (Off:1 Def:6),,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,656,2,80,4,10:48 PM,1:51,MISS Hardaway Jr. 25' 3PT Step Back Jump Shot,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,657,4,0,4,10:48 PM,1:48,,,Porter Jr. REBOUND (Off:1 Def:10),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,658,1,101,4,10:48 PM,1:33,,,Porter Jr. 6' Driving Floating Jump Shot (17 PTS) (Sengun 1 AST),98 - 92,-6,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200218,660,9,1,4,10:48 PM,1:33,MAVERICKS Timeout: Regular (Full 5 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200218,661,8,0,4,10:49 PM,1:33,,,SUB: Garuba FOR Sengun,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200218,663,2,1,4,10:50 PM,1:24,MISS Finney-Smith 24' 3PT Jump Shot,,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,664,4,0,4,10:50 PM,1:20,Bullock REBOUND (Off:2 Def:1),,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,665,2,1,4,10:50 PM,1:17,MISS Dinwiddie 25' 3PT Jump Shot,,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,666,4,0,4,10:50 PM,1:15,,,Garuba REBOUND (Off:1 Def:7),,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,667,1,1,4,10:51 PM,0:57,,,Gordon 3PT Jump Shot (10 PTS) (Garuba 3 AST),101 - 92,-9,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200218,669,2,80,4,10:51 PM,0:43,MISS Wood 25' 3PT Step Back Jump Shot,,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,670,4,0,4,10:51 PM,0:40,,,Smith Jr. REBOUND (Off:1 Def:8),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,671,5,40,4,10:51 PM,0:23,,,Green Out of Bounds Lost Ball Turnover (P5.T23),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200218,672,2,1,4,10:52 PM,0:19,MISS Dinwiddie 28' 3PT Jump Shot,,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,673,4,0,4,10:52 PM,0:17,Finney-Smith REBOUND (Off:2 Def:6),,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,674,2,1,4,10:52 PM,0:14,MISS Bullock 3PT Jump Shot,,,,,4,203493,Reggie Bullock Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0022200218,675,4,0,4,10:52 PM,0:11,,,Garuba REBOUND (Off:1 Def:8),,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200218,676,13,0,4,10:52 PM,0:00,,End of 4th Period (10:52 PM EST),,101 - 92,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

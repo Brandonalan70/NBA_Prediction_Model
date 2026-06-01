@@ -1,0 +1,429 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200120,2,12,0,1,7:11 PM,12:00,,Start of 1st Period (7:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200120,4,10,0,1,7:11 PM,12:00,Jump Ball Stewart vs. Allen: Tip to Mobley,,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022200120,7,6,2,1,7:12 PM,11:45,Stewart S.FOUL (P1.T1) (D.Richardson),,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200120,9,3,11,1,7:12 PM,11:45,,,Allen Free Throw 1 of 2 (1 PTS),1 - 0,-1,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,10,3,12,1,7:12 PM,11:45,,,MISS Allen Free Throw 2 of 2,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,11,4,0,1,7:12 PM,11:44,Stewart REBOUND (Off:0 Def:1),,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,12,2,1,1,7:12 PM,11:27,MISS Cunningham 3PT Jump Shot,,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,13,4,0,1,7:13 PM,11:23,,,LeVert REBOUND (Off:0 Def:1),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,14,2,5,1,7:13 PM,11:16,Cunningham BLOCK (1 BLK),,MISS Allen 3' Layup,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,1
+0022200120,16,4,0,1,7:13 PM,11:16,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200120,18,5,4,1,7:13 PM,11:08,,,Allen Traveling Turnover (P1.T1),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0022200120,19,1,80,1,7:14 PM,10:49,Cunningham 19' Step Back Jump Shot (2 PTS),,,1 - 2,1,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,20,2,1,1,7:14 PM,10:23,,,MISS Wade 26' 3PT Jump Shot,,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,21,4,0,1,7:14 PM,10:15,,,Allen REBOUND (Off:1 Def:0),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,22,2,97,1,7:14 PM,10:15,,,MISS Allen Tip Layup Shot,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,23,4,0,1,7:14 PM,10:15,Ivey REBOUND (Off:0 Def:1),,,,,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,24,1,41,1,7:14 PM,10:12,Ivey 3' Running Layup (2 PTS),,,1 - 4,3,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,25,2,63,1,7:14 PM,9:53,,,MISS LeVert 13' Fadeaway Jumper,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,26,4,0,1,7:14 PM,9:52,PISTONS Rebound,,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200120,27,6,3,1,7:15 PM,9:52,,,Allen L.B.FOUL (P1.T1) (J.Capers),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022200120,29,6,17,1,7:15 PM,9:39,,,Cavaliers T.Foul (Def. 3 Sec Mobley ) (D.Richardson),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0022200120,30,3,16,1,7:15 PM,9:39,Bogdanovic Free Throw Technical (1 PTS),,,1 - 5,4,4,202711,Bojan Bogdanović,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,31,5,4,1,7:16 PM,9:32,Bey Traveling Turnover (P1.T1),,,,,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0022200120,32,2,58,1,7:16 PM,9:18,,,MISS Mobley 7' Turnaround Hook Shot,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,33,4,0,1,7:16 PM,9:17,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200120,34,1,6,1,7:17 PM,9:09,,,LeVert 4' Driving Layup (2 PTS),3 - 5,2,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,35,2,78,1,7:17 PM,8:57,MISS Cunningham 6' Floating Jump Shot,,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,36,4,0,1,7:17 PM,8:54,,,Wade REBOUND (Off:0 Def:1),,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,37,2,1,1,7:17 PM,8:48,,,MISS Mobley 13' Jump Shot,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,38,4,0,1,7:17 PM,8:46,Cunningham REBOUND (Off:0 Def:1),,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,40,2,1,1,7:17 PM,8:32,MISS Ivey 27' 3PT Jump Shot,,,,,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,41,4,0,1,7:17 PM,8:29,Bogdanovic REBOUND (Off:1 Def:0),,,,,4,202711,Bojan Bogdanović,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,42,2,1,1,7:17 PM,8:25,MISS Bogdanovic 25' 3PT Jump Shot,,,,,4,202711,Bojan Bogdanović,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,43,4,0,1,7:17 PM,8:25,,,LeVert REBOUND (Off:0 Def:2),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,44,1,9,1,7:18 PM,8:13,,,Okoro 2' Driving Dunk (2 PTS) (Mobley 1 AST),5 - 5,TIE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200120,46,1,101,1,7:18 PM,7:49,Bey 8' Driving Floating Jump Shot (2 PTS),,,5 - 7,2,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,47,6,2,1,7:18 PM,7:49,,,LeVert S.FOUL (P1.T2) (D.Richardson),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022200120,49,7,1,1,7:19 PM,7:49,PISTONS Violation: Delay of game Violation,,,,,2,1610612765,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200120,50,3,10,1,7:19 PM,7:49,Bey Free Throw 1 of 1 (3 PTS),,,5 - 8,3,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,53,1,73,1,7:19 PM,7:31,,,LeVert 6' Driving Reverse Layup (4 PTS),7 - 8,1,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,61,2,5,1,7:19 PM,7:21,MISS Stewart 2' Layup,,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,62,4,0,1,7:19 PM,7:20,Stewart REBOUND (Off:1 Def:1),,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,54,1,72,1,7:19 PM,7:15,Stewart 3' Putback Layup (2 PTS),,,7 - 10,3,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,55,2,58,1,7:20 PM,6:56,,,MISS Mobley 8' Turnaround Hook Shot,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,56,4,0,1,7:20 PM,6:54,,,Allen REBOUND (Off:2 Def:0),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,57,1,72,1,7:20 PM,6:53,,,Allen 3' Putback Layup (3 PTS),9 - 10,1,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,58,6,1,1,7:20 PM,6:41,,,Wade P.FOUL (P1.T3) (J.Capers),,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022200120,60,9,1,1,7:20 PM,6:41,PISTONS Timeout: Regular (Full 1 Short 0),,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200120,63,1,1,1,7:23 PM,6:33,Ivey 28' 3PT Jump Shot (5 PTS) (Cunningham 1 AST),,,9 - 13,4,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022200120,65,6,2,1,7:23 PM,6:15,Stewart S.FOUL (P2.T2) (J.Capers),,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200120,67,3,11,1,7:24 PM,6:15,,,Mobley Free Throw 1 of 2 (1 PTS),10 - 13,3,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,72,3,12,1,7:24 PM,6:15,,,MISS Mobley Free Throw 2 of 2,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,68,8,0,1,7:24 PM,6:15,,,SUB: Love FOR Allen,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200120,70,8,0,1,7:24 PM,6:15,SUB: Noel FOR Stewart,,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,4,203457,Nerlens Noel,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022200120,73,4,0,1,7:24 PM,6:07,Noel REBOUND (Off:0 Def:1),,,,,4,203457,Nerlens Noel,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,74,5,40,1,7:25 PM,6:02,Noel Out of Bounds Lost Ball Turnover (P1.T2),,,,,4,203457,Nerlens Noel,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0022200120,76,1,101,1,7:25 PM,5:37,,,Okoro 7' Driving Floating Jump Shot (4 PTS) (Love 1 AST),12 - 13,1,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200120,78,2,79,1,7:26 PM,5:25,MISS Bey 11' Pullup Jump Shot,,,,,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,79,4,0,1,7:26 PM,5:21,,,Mobley REBOUND (Off:0 Def:1),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,80,2,1,1,7:26 PM,5:15,,,MISS Love 28' 3PT Jump Shot,,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,81,4,0,1,7:26 PM,5:11,,,Mobley REBOUND (Off:1 Def:1),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,82,1,87,1,7:26 PM,5:10,,,Mobley 2' Putback Dunk (3 PTS),14 - 13,-1,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,83,2,79,1,7:26 PM,5:02,MISS Cunningham 11' Pullup Jump Shot,,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,84,4,0,1,7:26 PM,5:00,,,Mobley REBOUND (Off:1 Def:2),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,85,2,1,1,7:26 PM,4:48,,,MISS Mobley 24' 3PT Jump Shot,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,86,4,0,1,7:26 PM,4:44,Ivey REBOUND (Off:0 Def:2),,,,,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,87,2,6,1,7:26 PM,4:37,MISS Ivey 4' Driving Layup,,Wade BLOCK (1 BLK),,,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022200120,89,4,0,1,7:26 PM,4:34,Ivey REBOUND (Off:1 Def:2),,,,,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,90,2,1,1,7:26 PM,4:32,MISS Ivey 24' 3PT Jump Shot,,,,,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,91,4,0,1,7:26 PM,4:29,,,Wade REBOUND (Off:0 Def:2),,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,92,2,1,1,7:27 PM,4:24,,,MISS Love 25' 3PT Jump Shot,,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,93,4,0,1,7:27 PM,4:20,Bogdanovic REBOUND (Off:1 Def:1),,,,,4,202711,Bojan Bogdanović,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,94,2,63,1,7:27 PM,4:08,MISS Bogdanovic 15' Fadeaway Jumper,,,,,4,202711,Bojan Bogdanović,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,95,4,0,1,7:27 PM,4:06,,,LeVert REBOUND (Off:0 Def:3),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,96,9,1,1,7:27 PM,4:04,,,Cavaliers Timeout: Regular (Reg.1 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200120,97,8,0,1,7:28 PM,4:04,SUB: Hayes FOR Ivey,,,,,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,4,1630165,Killian Hayes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022200120,98,8,0,1,7:28 PM,4:04,,,SUB: Neto FOR LeVert,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200120,99,8,0,1,7:28 PM,4:04,,,SUB: Osman FOR Okoro,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200120,103,5,1,1,7:30 PM,3:55,Noel STEAL (1 STL),,Osman Bad Pass Turnover (P1.T2),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,4,203457,Nerlens Noel,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022200120,105,1,80,1,7:30 PM,3:50,Cunningham 27' 3PT Step Back Jump Shot (5 PTS),,,14 - 16,2,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,106,2,57,1,7:31 PM,3:30,,,MISS Osman 5' Driving Hook Shot,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,107,4,0,1,7:31 PM,3:27,Cunningham REBOUND (Off:0 Def:2),,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,108,2,1,1,7:31 PM,3:12,MISS Bey 27' 3PT Jump Shot,,,,,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,109,4,0,1,7:31 PM,3:09,Hayes REBOUND (Off:1 Def:0),,,,,4,1630165,Killian Hayes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,110,1,1,1,7:31 PM,3:02,Bey 27' 3PT Jump Shot (6 PTS) (Cunningham 2 AST),,,14 - 19,5,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022200120,112,1,1,1,7:31 PM,2:43,,,Love 20' Jump Shot (2 PTS),16 - 19,3,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,113,5,2,1,7:32 PM,2:22,Bogdanovic Lost Ball Turnover (P1.T3),,Wade STEAL (1 STL),,,4,202711,Bojan Bogdanović,1610612765.0,Detroit,Pistons,DET,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200120,115,1,1,1,7:32 PM,2:17,,,Love 28' 3PT Jump Shot (5 PTS) (Wade 1 AST),19 - 19,TIE,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200120,117,1,79,1,7:32 PM,1:58,Cunningham 13' Pullup Jump Shot (7 PTS),,,19 - 21,2,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,118,2,1,1,7:32 PM,1:46,,,MISS Wade 25' 3PT Jump Shot,,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,119,4,0,1,7:32 PM,1:43,Noel REBOUND (Off:0 Def:2),,,,,4,203457,Nerlens Noel,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,120,2,3,1,7:33 PM,1:29,MISS Noel 7' Hook Shot,,Mobley BLOCK (1 BLK),,,4,203457,Nerlens Noel,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022200120,122,4,0,1,7:33 PM,1:26,,,Neto REBOUND (Off:0 Def:1),,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,123,1,41,1,7:33 PM,1:26,,,Osman 3' Running Layup (2 PTS) (Neto 1 AST),21 - 21,TIE,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200120,124,6,2,1,7:33 PM,1:26,Cunningham S.FOUL (P1.T3) (D.Richardson),,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200120,126,8,0,1,7:33 PM,1:26,SUB: Diallo FOR Bey,,,,,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,4,1628977,Hamidou Diallo,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022200120,127,8,0,1,7:33 PM,1:26,,,SUB: LeVert FOR Mobley,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200120,128,8,0,1,7:33 PM,1:26,,,SUB: Allen FOR Wade,,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200120,132,3,10,1,7:33 PM,1:26,,,Osman Free Throw 1 of 1 (3 PTS),22 - 21,-1,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,134,2,63,1,7:34 PM,1:03,MISS Noel 13' Fadeaway Jumper,,,,,4,203457,Nerlens Noel,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,135,4,0,1,7:34 PM,1:00,,,Love REBOUND (Off:0 Def:1),,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,136,2,1,1,7:34 PM,0:54,,,MISS Love 24' 3PT Jump Shot,,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,137,4,0,1,7:34 PM,0:51,,,Love REBOUND (Off:1 Def:1),,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,138,2,5,1,7:34 PM,0:46,Diallo BLOCK (1 BLK),,MISS Allen 2' Layup,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1628977,Hamidou Diallo,1610612765.0,Detroit,Pistons,DET,1
+0022200120,140,4,0,1,7:34 PM,0:42,Noel REBOUND (Off:0 Def:3),,,,,4,203457,Nerlens Noel,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,141,5,1,1,7:34 PM,0:39,Hayes Bad Pass Turnover (P1.T4),,,,,4,1630165,Killian Hayes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0022200120,143,8,0,1,7:34 PM,0:39,SUB: Livers FOR Bogdanovic,,,,,4,202711,Bojan Bogdanović,1610612765.0,Detroit,Pistons,DET,4,1630587,Isaiah Livers,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022200120,145,6,2,1,7:35 PM,0:33,Hayes S.FOUL (P1.PN) (J.Capers),,,,,4,1630165,Killian Hayes,1610612765.0,Detroit,Pistons,DET,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200120,147,3,11,1,7:35 PM,0:33,,,Neto Free Throw 1 of 2 (1 PTS),23 - 21,-2,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,148,8,0,1,7:35 PM,0:33,,,SUB: Wade FOR Love,,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200120,150,3,12,1,7:35 PM,0:33,,,Neto Free Throw 2 of 2 (2 PTS),24 - 21,-3,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,151,2,108,1,7:36 PM,0:13,MISS Diallo 4' Cutting Dunk Shot,,Allen BLOCK (1 BLK),,,4,1628977,Hamidou Diallo,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022200120,153,4,0,1,7:36 PM,0:09,,,Osman REBOUND (Off:0 Def:1),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,154,2,1,1,7:36 PM,0:05,,,MISS LeVert 24' 3PT Jump Shot,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,155,4,0,1,7:36 PM,0:02,Noel REBOUND (Off:0 Def:4),,,,,4,203457,Nerlens Noel,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,156,2,1,1,7:36 PM,0:00,MISS Cunningham 31' 3PT Jump Shot,,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,157,4,0,1,7:36 PM,0:00,PISTONS Rebound,,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200120,158,13,0,1,7:37 PM,0:00,,End of 1st Period (7:37 PM EST),,24 - 21,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200120,167,12,0,2,7:39 PM,12:00,,Start of 2nd Period (7:39 PM EST),,24 - 21,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200120,168,2,73,2,7:39 PM,11:40,MISS Diallo 3' Driving Reverse Layup,,,,,4,1628977,Hamidou Diallo,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,169,4,0,2,7:39 PM,11:37,,,Allen REBOUND (Off:2 Def:1),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,170,1,98,2,7:39 PM,11:31,,,Allen 2' Cutting Layup Shot (5 PTS) (Love 2 AST),26 - 21,-5,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200120,172,2,1,2,7:39 PM,11:18,MISS Diallo 3PT Jump Shot,,,,,4,1628977,Hamidou Diallo,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,173,4,0,2,7:40 PM,11:13,,,Osman REBOUND (Off:0 Def:2),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,174,6,1,2,7:40 PM,11:11,Diallo P.FOUL (P1.T1) (B.Schwab),,,,,4,1628977,Hamidou Diallo,1610612765.0,Detroit,Pistons,DET,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200120,176,1,3,2,7:40 PM,11:02,,,Allen 7' Hook Shot (7 PTS) (LeVert 1 AST),28 - 21,-7,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200120,178,6,2,2,7:40 PM,10:49,,,Osman S.FOUL (P1.T1) (D.Richardson),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,4,1630587,Isaiah Livers,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022200120,180,3,11,2,7:41 PM,10:49,Livers Free Throw 1 of 2 (1 PTS),,,28 - 22,-6,4,1630587,Isaiah Livers,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,181,3,12,2,7:41 PM,10:49,Livers Free Throw 2 of 2 (2 PTS),,,28 - 23,-5,4,1630587,Isaiah Livers,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,182,1,1,2,7:41 PM,10:29,,,Osman 28' 3PT Jump Shot (6 PTS) (Love 3 AST),31 - 23,-8,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200120,184,5,19,2,7:42 PM,10:02,Ivey Kicked Ball Violation Turnover (P1.T5),,,,,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,185,1,7,2,7:43 PM,9:45,,,Allen 3' Dunk (9 PTS) (LeVert 2 AST),33 - 23,-10,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200120,187,9,1,2,7:43 PM,9:44,PISTONS Timeout: Regular (Full 2 Short 0),,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200120,188,8,0,2,7:44 PM,9:44,SUB: Bey FOR Diallo,,,,,4,1628977,Hamidou Diallo,1610612765.0,Detroit,Pistons,DET,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022200120,190,2,63,2,7:46 PM,9:24,MISS Livers 12' Fadeaway Jumper,,,,,4,1630587,Isaiah Livers,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,191,4,0,2,7:46 PM,9:21,Stewart REBOUND (Off:2 Def:1),,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,195,18,5,2,7:46 PM,9:19,,Instant Replay2nd Period (7:46 PM EST),,33 - 23,-10,0,192,Dennis Scott,,,,,0,0,,,,,,1,0,,,,,,0
+0022200120,196,6,26,2,7:48 PM,9:19,Ivey Offensive Charge Foul (P1) (J.Capers),,,,,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200120,198,5,37,2,7:48 PM,9:19,Ivey Offensive Foul Turnover (P2.T6),,,,,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0022200120,200,5,2,2,7:50 PM,9:04,Hayes STEAL (1 STL),,Osman Lost Ball Turnover (P2.T3),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,4,1630165,Killian Hayes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022200120,202,2,3,2,7:50 PM,8:59,MISS Hayes 5' Hook Shot,,,,,4,1630165,Killian Hayes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,203,4,0,2,7:50 PM,8:57,,,Allen REBOUND (Off:2 Def:2),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,204,1,1,2,7:50 PM,8:51,,,Osman 24' 3PT Jump Shot (9 PTS) (Love 4 AST),36 - 23,-13,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200120,206,2,1,2,7:50 PM,8:38,MISS Livers 26' 3PT Jump Shot,,,,,4,1630587,Isaiah Livers,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,207,4,0,2,7:50 PM,8:35,,,Allen REBOUND (Off:2 Def:3),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,208,1,108,2,7:50 PM,8:29,,,Allen 4' Cutting Dunk Shot (11 PTS) (Love 5 AST),38 - 23,-15,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200120,210,2,1,2,7:51 PM,8:13,MISS Hayes 26' 3PT Jump Shot,,,,,4,1630165,Killian Hayes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,211,4,0,2,7:51 PM,8:11,,,Love REBOUND (Off:1 Def:2),,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,212,1,1,2,7:51 PM,8:04,,,Allen 13' Jump Shot (13 PTS) (Love 6 AST),40 - 23,-17,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200120,214,1,1,2,7:51 PM,7:49,Livers 3PT Jump Shot (5 PTS) (Ivey 1 AST),,,40 - 26,-14,4,1630587,Isaiah Livers,1610612765.0,Detroit,Pistons,DET,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022200120,216,1,1,2,7:51 PM,7:31,,,Love 24' 3PT Jump Shot (8 PTS) (Osman 1 AST),43 - 26,-17,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200120,218,9,1,2,7:52 PM,7:25,PISTONS Timeout: Regular (Full 3 Short 0),,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200120,219,8,0,2,7:53 PM,7:25,SUB: Cunningham FOR Hayes,,,,,4,1630165,Killian Hayes,1610612765.0,Detroit,Pistons,DET,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022200120,220,8,0,2,7:53 PM,7:25,SUB: Bogdanovic FOR Livers,,,,,4,1630587,Isaiah Livers,1610612765.0,Detroit,Pistons,DET,4,202711,Bojan Bogdanović,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022200120,221,8,0,2,7:53 PM,7:25,,,SUB: Neto FOR LeVert,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200120,225,2,1,2,7:54 PM,7:06,MISS Cunningham 27' 3PT Jump Shot,,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,226,4,0,2,7:54 PM,7:02,,,Osman REBOUND (Off:0 Def:3),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,227,1,52,2,7:54 PM,6:46,,,Allen 2' Alley Oop Dunk (15 PTS) (Osman 2 AST),45 - 26,-19,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200120,229,6,4,2,7:55 PM,6:32,Stewart OFF.Foul (P3) (B.Schwab),,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200120,231,5,37,2,7:55 PM,6:32,Stewart Offensive Foul Turnover (P1.T7),,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0022200120,232,8,0,2,7:55 PM,6:32,,,SUB: Mobley FOR Allen,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200120,234,1,86,2,7:55 PM,6:16,,,Mobley 13' Turnaround Fadeaway (5 PTS) (Osman 3 AST),47 - 26,-21,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200120,236,1,79,2,7:55 PM,6:05,Cunningham 18' Pullup Jump Shot (9 PTS),,,47 - 28,-19,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,237,6,2,2,7:55 PM,6:05,,,Stevens S.FOUL (P1.T2) (D.Richardson),,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022200120,239,8,0,2,7:56 PM,6:05,SUB: Knox II FOR Stewart,,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,4,1628995,Kevin Knox II,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022200120,241,3,10,2,7:56 PM,6:05,Cunningham Free Throw 1 of 1 (10 PTS),,,47 - 29,-18,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,242,2,58,2,7:56 PM,5:46,,,MISS Mobley 4' Turnaround Hook Shot,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,243,4,0,2,7:56 PM,5:44,,,Love REBOUND (Off:2 Def:2),,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,244,2,1,2,7:56 PM,5:41,,,MISS Osman 26' 3PT Jump Shot,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,245,4,0,2,7:56 PM,5:40,,,Love REBOUND (Off:3 Def:2),,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,247,1,7,2,7:57 PM,5:30,,,Mobley 3' Dunk (7 PTS) (Love 7 AST),49 - 29,-20,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200120,249,1,6,2,7:57 PM,5:11,Cunningham 3' Driving Layup (12 PTS),,,49 - 31,-18,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,250,6,2,2,7:57 PM,5:11,,,Stevens S.FOUL (P2.T3) (B.Schwab),,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022200120,252,3,10,2,7:58 PM,5:11,Cunningham Free Throw 1 of 1 (13 PTS),,,49 - 32,-17,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0022200120,253,6,2,2,7:58 PM,4:58,Knox II S.FOUL (P1.T2) (B.Schwab),,,,,4,1628995,Kevin Knox II,1610612765.0,Detroit,Pistons,DET,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200120,255,3,11,2,7:58 PM,4:58,,,Stevens Free Throw 1 of 2 (1 PTS),50 - 32,-18,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0022200120,256,3,12,2,7:59 PM,4:58,,,Stevens Free Throw 2 of 2 (2 PTS),51 - 32,-19,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,257,1,79,2,7:59 PM,4:48,Cunningham 28' 3PT Pullup Jump Shot (16 PTS),,,51 - 35,-16,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,258,2,6,2,7:59 PM,4:34,Knox II BLOCK (1 BLK),,MISS Osman 7' Driving Layup,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1628995,Kevin Knox II,1610612765.0,Detroit,Pistons,DET,1
+0022200120,260,4,0,2,7:59 PM,4:33,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200120,262,8,0,2,7:59 PM,4:33,,,SUB: Okoro FOR Stevens,,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200120,263,8,0,2,7:59 PM,4:33,,,SUB: Wade FOR Osman,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200120,266,8,0,2,8:00 PM,4:33,,,SUB: Allen FOR Love,,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200120,268,6,1,2,8:00 PM,4:25,Ivey P.FOUL (P2.T3) (B.Schwab),,,,,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200120,270,2,86,2,8:01 PM,4:10,,,MISS Mobley 14' Turnaround Fadeaway Shot,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,271,4,0,2,8:01 PM,4:07,Cunningham REBOUND (Off:0 Def:3),,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,272,1,6,2,8:01 PM,3:59,Bey 3' Driving Layup (8 PTS),,,51 - 37,-14,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,273,9,1,2,8:01 PM,3:58,,,Cavaliers Timeout: Regular (Reg.2 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200120,274,1,108,2,8:03 PM,3:47,,,Allen 3' Cutting Dunk Shot (17 PTS) (Neto 2 AST),53 - 37,-16,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200120,276,2,6,2,8:03 PM,3:32,MISS Bogdanovic 8' Driving Layup,,Mobley BLOCK (2 BLK),,,4,202711,Bojan Bogdanović,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022200120,278,4,0,2,8:03 PM,3:28,,,Mobley REBOUND (Off:1 Def:3),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,279,5,1,2,8:03 PM,3:25,Cunningham STEAL (1 STL),,Neto Bad Pass Turnover (P1.T4),,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022200120,280,2,1,2,8:03 PM,3:20,MISS Bogdanovic 27' 3PT Jump Shot,,,,,4,202711,Bojan Bogdanović,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,281,4,0,2,8:03 PM,3:17,,,Neto REBOUND (Off:0 Def:2),,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,283,2,101,2,8:03 PM,2:56,Ivey BLOCK (1 BLK),,MISS Wade 4' Driving Floating Jump Shot,,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,1
+0022200120,285,4,0,2,8:03 PM,2:53,Bey REBOUND (Off:0 Def:1),,,,,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,286,1,74,2,8:04 PM,2:51,Ivey 4' Running Reverse Layup (7 PTS) (Bey 1 AST),,,53 - 39,-14,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022200120,288,2,1,2,8:04 PM,2:32,,,MISS Wade 26' 3PT Jump Shot,,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,289,4,0,2,8:04 PM,2:24,,,Mobley REBOUND (Off:2 Def:3),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,290,2,97,2,8:04 PM,2:24,,,MISS Mobley Tip Layup Shot,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,291,4,0,2,8:04 PM,2:23,Cunningham REBOUND (Off:0 Def:4),,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,292,10,0,2,8:05 PM,2:20,Jump Ball Knox II vs. Allen: Tip to Mobley,,,,,4,1628995,Kevin Knox II,1610612765.0,Detroit,Pistons,DET,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022200120,645,5,45,2,8:05 PM,2:20,Cunningham Out of Bounds - Bad Pass Turnover Turnover (P1.T8),,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0022200120,297,8,0,2,8:05 PM,2:20,,,SUB: LeVert FOR Neto,,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200120,299,2,1,2,8:05 PM,2:00,,,MISS Okoro 24' 3PT Jump Shot,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,300,4,0,2,8:05 PM,1:57,Knox II REBOUND (Off:0 Def:1),,,,,4,1628995,Kevin Knox II,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,301,2,1,2,8:05 PM,1:46,MISS Bogdanovic 27' 3PT Jump Shot,,,,,4,202711,Bojan Bogdanović,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,302,4,0,2,8:05 PM,1:43,,,Allen REBOUND (Off:2 Def:4),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,303,5,1,2,8:05 PM,1:39,Bey STEAL (1 STL),,Allen Bad Pass Turnover (P2.T5),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022200120,305,2,1,2,8:05 PM,1:35,MISS Ivey 25' 3PT Jump Shot,,,,,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,306,4,0,2,8:05 PM,1:32,Knox II REBOUND (Off:1 Def:1),,,,,4,1628995,Kevin Knox II,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,330,2,78,2,8:06 PM,1:22,MISS Bey 7' Floating Jump Shot,,Mobley BLOCK (3 BLK),,,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022200120,332,4,0,2,8:06 PM,1:22,,,Mobley REBOUND (Off:2 Def:4),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,309,5,1,2,8:06 PM,1:18,Bey STEAL (2 STL),,Mobley Bad Pass Turnover (P1.T6),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022200120,310,5,1,2,8:06 PM,1:10,Ivey Bad Pass Turnover (P3.T9),,Okoro STEAL (1 STL),,,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200120,313,6,1,2,8:06 PM,1:00,Knox II P.FOUL (P2.T4) (B.Schwab),,,,,4,1628995,Kevin Knox II,1610612765.0,Detroit,Pistons,DET,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200120,315,1,63,2,8:07 PM,0:51,,,Mobley 13' Fadeaway Jumper (9 PTS) (LeVert 3 AST),55 - 39,-16,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200120,317,5,40,2,8:07 PM,0:28,Bey Out of Bounds Lost Ball Turnover (P2.T10),,,,,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0022200120,319,8,0,2,8:07 PM,0:28,SUB: Noel FOR Knox II,,,,,4,1628995,Kevin Knox II,1610612765.0,Detroit,Pistons,DET,4,203457,Nerlens Noel,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022200120,320,8,0,2,8:07 PM,0:28,,,SUB: Love FOR Okoro,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200120,321,8,0,2,8:07 PM,0:28,,,SUB: Osman FOR Allen,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200120,325,1,7,2,8:08 PM,0:09,,,Mobley 3' Dunk (11 PTS) (Love 8 AST),57 - 39,-18,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200120,327,2,63,2,8:08 PM,0:02,MISS Cunningham 12' Fadeaway Jumper,,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,328,4,0,2,8:08 PM,0:02,,,Love REBOUND (Off:3 Def:3),,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,329,13,0,2,8:08 PM,0:00,,End of 2nd Period (8:08 PM EST),,57 - 39,-18,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200120,339,12,0,3,8:24 PM,12:00,,Start of 3rd Period (8:24 PM EST),,57 - 39,-18,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200120,340,2,57,3,8:24 PM,11:40,MISS Cunningham 7' Driving Hook Shot,,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,341,4,0,3,8:24 PM,11:36,,,Okoro REBOUND (Off:0 Def:1),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,342,1,5,3,8:24 PM,11:32,,,Allen 2' Layup (19 PTS) (Mobley 2 AST),59 - 39,-20,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200120,344,1,79,3,8:24 PM,11:19,Bogdanovic 12' Pullup Jump Shot (3 PTS) (Cunningham 3 AST),,,59 - 41,-18,4,202711,Bojan Bogdanović,1610612765.0,Detroit,Pistons,DET,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022200120,346,1,7,3,8:25 PM,11:01,,,Allen 1' Dunk (21 PTS) (LeVert 4 AST),61 - 41,-20,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200120,348,6,1,3,8:25 PM,10:43,,,LeVert P.FOUL (P2.T1) (J.Capers),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022200120,350,6,2,3,8:25 PM,10:40,,,LeVert S.FOUL (P3.T2) (D.Richardson),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022200120,352,3,11,3,8:26 PM,10:40,Ivey Free Throw 1 of 2 (8 PTS),,,61 - 42,-19,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,353,3,12,3,8:26 PM,10:40,Ivey Free Throw 2 of 2 (9 PTS),,,61 - 43,-18,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,354,2,58,3,8:26 PM,10:22,,,MISS Mobley 6' Turnaround Hook Shot,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,355,4,0,3,8:26 PM,10:18,Bey REBOUND (Off:0 Def:2),,,,,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,357,6,4,3,8:27 PM,10:13,Bogdanovic OFF.Foul (P1) (B.Schwab),,,,,4,202711,Bojan Bogdanović,1610612765.0,Detroit,Pistons,DET,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200120,359,5,37,3,8:27 PM,10:13,Bogdanovic Offensive Foul Turnover (P2.T11),,,,,4,202711,Bojan Bogdanović,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0022200120,360,5,1,3,8:27 PM,9:52,Stewart STEAL (1 STL),,Wade Bad Pass Turnover (P1.T7),,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022200120,362,2,5,3,8:27 PM,9:46,MISS Bogdanovic 4' Layup,,Allen BLOCK (2 BLK),,,4,202711,Bojan Bogdanović,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022200120,364,4,0,3,8:27 PM,9:43,,,Okoro REBOUND (Off:0 Def:2),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,365,6,2,3,8:28 PM,9:31,Ivey S.FOUL (P3.T1) (D.Richardson),,,,,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200120,367,3,11,3,8:28 PM,9:31,,,LeVert Free Throw 1 of 2 (5 PTS),62 - 43,-19,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,368,3,12,3,8:28 PM,9:31,,,LeVert Free Throw 2 of 2 (6 PTS),63 - 43,-20,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,369,2,80,3,8:28 PM,9:20,MISS Cunningham 19' Step Back Jump Shot,,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,370,4,0,3,8:29 PM,9:17,,,Okoro REBOUND (Off:0 Def:3),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,371,1,41,3,8:29 PM,9:15,,,Okoro 3' Running Layup (6 PTS),65 - 43,-22,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,372,6,2,3,8:29 PM,9:15,Bogdanovic S.FOUL (P2.T2) (B.Schwab),,,,,4,202711,Bojan Bogdanović,1610612765.0,Detroit,Pistons,DET,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200120,374,3,10,3,8:29 PM,9:15,,,Okoro Free Throw 1 of 1 (7 PTS),66 - 43,-23,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,375,1,1,3,8:29 PM,9:05,Bey 27' 3PT Jump Shot (11 PTS) (Stewart 1 AST),,,66 - 46,-20,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022200120,377,1,6,3,8:29 PM,8:52,,,LeVert 5' Driving Layup (8 PTS),68 - 46,-22,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,378,1,5,3,8:30 PM,8:34,Stewart 4' Layup (4 PTS) (Cunningham 4 AST),,,68 - 48,-20,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022200120,380,5,1,3,8:30 PM,8:12,Bogdanovic STEAL (1 STL),,LeVert Bad Pass Turnover (P1.T8),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,4,202711,Bojan Bogdanović,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022200120,382,2,5,3,8:30 PM,8:07,MISS Bogdanovic 4' Layup,,Mobley BLOCK (4 BLK),,,4,202711,Bojan Bogdanović,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022200120,384,4,0,3,8:30 PM,8:04,,,Okoro REBOUND (Off:0 Def:4),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,385,2,3,3,8:30 PM,7:59,Stewart BLOCK (1 BLK),,MISS Okoro 7' Hook Shot,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,1
+0022200120,387,4,0,3,8:30 PM,7:55,Ivey REBOUND (Off:1 Def:3),,,,,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,388,2,1,3,8:30 PM,7:49,MISS Bey 24' 3PT Jump Shot,,,,,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,389,4,0,3,8:30 PM,7:45,Stewart REBOUND (Off:3 Def:1),,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,390,6,2,3,8:30 PM,7:45,,,Okoro S.FOUL (P1.T3) (B.Schwab),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022200120,392,3,11,3,8:31 PM,7:45,Bey Free Throw 1 of 2 (12 PTS),,,68 - 49,-19,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,393,3,12,3,8:31 PM,7:45,Bey Free Throw 2 of 2 (13 PTS),,,68 - 50,-18,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,395,5,1,3,8:32 PM,7:28,Bey STEAL (3 STL),,LeVert Bad Pass Turnover (P2.T9),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022200120,397,1,50,3,8:32 PM,7:24,Ivey 1' Running Dunk (11 PTS) (Bey 2 AST),,,68 - 52,-16,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022200120,399,9,1,3,8:32 PM,7:23,,,Cavaliers Timeout: Regular (Reg.3 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200120,400,8,0,3,8:32 PM,7:23,,,SUB: Osman FOR LeVert,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200120,401,8,0,3,8:32 PM,7:23,,,SUB: Neto FOR Okoro,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200120,404,2,1,3,8:35 PM,7:08,,,MISS Neto 28' 3PT Jump Shot,,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,405,4,0,3,8:35 PM,7:05,Bey REBOUND (Off:0 Def:3),,,,,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,406,1,1,3,8:35 PM,6:59,Bogdanovic 25' 3PT Jump Shot (6 PTS) (Ivey 2 AST),,,68 - 55,-13,4,202711,Bojan Bogdanović,1610612765.0,Detroit,Pistons,DET,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022200120,408,1,104,3,8:35 PM,6:37,,,Osman 27' 3PT Step Back Bank Jump Shot (12 PTS),71 - 55,-16,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,409,2,79,3,8:36 PM,6:23,MISS Ivey 14' Pullup Jump Shot,,,,,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,410,4,0,3,8:36 PM,6:19,,,Allen REBOUND (Off:2 Def:5),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,411,6,1,3,8:36 PM,6:15,Bogdanovic P.FOUL (P3.T3) (D.Richardson),,,,,4,202711,Bojan Bogdanović,1610612765.0,Detroit,Pistons,DET,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200120,413,8,0,3,8:36 PM,6:15,,,SUB: Love FOR Mobley,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200120,415,5,45,3,8:36 PM,6:05,,,Allen Out of Bounds - Bad Pass Turnover Turnover (P3.T10),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0022200120,416,2,1,3,8:37 PM,5:51,MISS Stewart 25' 3PT Jump Shot,,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,417,4,0,3,8:37 PM,5:49,,,Love REBOUND (Off:3 Def:4),,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,418,2,58,3,8:37 PM,5:36,,,MISS Allen 6' Turnaround Hook Shot,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,419,4,0,3,8:37 PM,5:33,Ivey REBOUND (Off:1 Def:4),,,,,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,420,6,1,3,8:37 PM,5:31,,,Wade P.FOUL (P2.T4) (B.Schwab),,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022200120,422,1,75,3,8:37 PM,5:22,Bey 5' Driving Finger Roll Layup (15 PTS),,,71 - 57,-14,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,423,1,79,3,8:38 PM,5:03,,,Osman 30' 3PT Pullup Jump Shot (15 PTS),74 - 57,-17,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,424,1,5,3,8:38 PM,4:41,Stewart 6' Layup (6 PTS) (Cunningham 5 AST),,,74 - 59,-15,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022200120,426,1,108,3,8:38 PM,4:30,,,Allen 5' Cutting Dunk Shot (23 PTS) (Osman 4 AST),76 - 59,-17,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200120,428,2,1,3,8:39 PM,4:14,MISS Bey 27' 3PT Jump Shot,,,,,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,429,4,0,3,8:39 PM,4:14,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200120,430,6,3,3,8:39 PM,4:14,Stewart L.B.FOUL (P4.T4) (J.Capers),,,,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200120,432,8,0,3,8:39 PM,4:14,,,SUB: LeVert FOR Wade,,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200120,434,1,79,3,8:39 PM,4:04,,,Love 13' Pullup Jump Shot (10 PTS),78 - 59,-19,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,435,6,2,3,8:39 PM,4:04,Ivey S.FOUL (P4.PN) (B.Schwab),,,,,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200120,437,8,0,3,8:39 PM,4:04,,,SUB: Mobley FOR Allen,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200120,439,8,0,3,8:40 PM,4:04,SUB: Livers FOR Bogdanovic,,,,,4,202711,Bojan Bogdanović,1610612765.0,Detroit,Pistons,DET,4,1630587,Isaiah Livers,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022200120,441,3,10,3,8:40 PM,4:04,,,Love Free Throw 1 of 1 (11 PTS),79 - 59,-20,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,442,2,98,3,8:40 PM,3:48,MISS Livers 3' Cutting Layup Shot,,Mobley BLOCK (5 BLK),,,4,1630587,Isaiah Livers,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022200120,444,4,0,3,8:40 PM,3:45,,,Mobley REBOUND (Off:2 Def:5),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,445,1,1,3,8:40 PM,3:40,,,Love 20' Jump Shot (13 PTS) (LeVert 5 AST),81 - 59,-22,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200120,448,18,7,3,8:40 PM,3:40,,Instant Replay3rd Period (8:40 PM EST),,81 - 59,-22,0,445,Wesley Person,,,,,0,0,,,,,,0,0,,,,,,0
+0022200120,447,9,1,3,8:40 PM,3:40,PISTONS Timeout: Regular (Full 4 Short 0),,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200120,449,8,0,3,8:41 PM,3:40,SUB: Hayes FOR Ivey,,,,,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,4,1630165,Killian Hayes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022200120,451,2,6,3,8:43 PM,3:26,MISS Cunningham 7' Driving Layup,,Love BLOCK (1 BLK),,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022200120,453,4,0,3,8:43 PM,3:21,Cunningham REBOUND (Off:1 Def:4),,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,454,2,72,3,8:43 PM,3:20,MISS Cunningham 6' Putback Layup,,Mobley BLOCK (6 BLK),,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022200120,455,4,0,3,8:44 PM,3:18,,,Neto REBOUND (Off:0 Def:3),,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,456,5,1,3,8:44 PM,3:10,Stewart STEAL (2 STL),,Love Bad Pass Turnover (P1.T11),,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022200120,458,2,5,3,8:44 PM,2:57,MISS Bey 3' Layup,,Mobley BLOCK (7 BLK),,,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022200120,460,4,0,3,8:44 PM,2:52,,,Neto REBOUND (Off:0 Def:4),,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,461,6,2,3,8:44 PM,2:43,Hayes S.FOUL (P2.PN) (D.Richardson),,,,,4,1630165,Killian Hayes,1610612765.0,Detroit,Pistons,DET,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200120,463,3,11,3,8:45 PM,2:43,,,MISS Love Free Throw 1 of 2,,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0022200120,464,4,1,3,8:45 PM,2:43,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200120,465,3,12,3,8:45 PM,2:43,,,Love Free Throw 2 of 2 (14 PTS),82 - 59,-23,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0022200120,466,1,79,3,8:45 PM,2:29,Cunningham 25' 3PT Pullup Jump Shot (19 PTS),,,82 - 62,-20,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,467,2,63,3,8:45 PM,2:12,,,MISS Mobley 16' Fadeaway Jumper,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,468,4,0,3,8:45 PM,2:08,Livers REBOUND (Off:0 Def:1),,,,,4,1630587,Isaiah Livers,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,469,6,17,3,8:46 PM,2:03,,,Cavaliers T.Foul (Def. 3 Sec Mobley ) (B.Schwab),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0022200120,470,3,16,3,8:46 PM,2:03,MISS Cunningham Free Throw Technical,,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,471,4,1,3,8:46 PM,2:03,PISTONS Rebound,,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200120,473,2,79,3,8:46 PM,1:48,MISS Cunningham 24' Pullup Jump Shot,,,,,4,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,474,4,0,3,8:46 PM,1:47,PISTONS Rebound,,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200120,475,5,11,3,8:47 PM,1:47,PISTONS Turnover: Shot Clock (T#12),,,,,2,1610612765,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200120,476,2,1,3,8:47 PM,1:32,,,MISS LeVert 26' 3PT Jump Shot,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,477,4,0,3,8:47 PM,1:29,,,Love REBOUND (Off:4 Def:4),,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,478,1,1,3,8:47 PM,1:22,,,Neto 3PT Jump Shot (5 PTS) (Osman 5 AST),85 - 62,-23,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200120,480,1,1,3,8:47 PM,1:05,Livers 24' 3PT Jump Shot (8 PTS) (Hayes 1 AST),,,85 - 65,-20,4,1630587,Isaiah Livers,1610612765.0,Detroit,Pistons,DET,4,1630165,Killian Hayes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022200120,482,1,44,3,8:48 PM,0:41,,,Neto 3' Reverse Layup (7 PTS) (Love 9 AST),87 - 65,-22,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200120,484,1,1,3,8:48 PM,0:29,Bey 3PT Jump Shot (18 PTS) (Hayes 2 AST),,,87 - 68,-19,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,4,1630165,Killian Hayes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022200120,486,1,1,3,8:48 PM,0:07,,,LeVert 26' 3PT Jump Shot (11 PTS) (Neto 3 AST),90 - 68,-22,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200120,488,5,1,3,8:49 PM,0:05,Stewart Bad Pass Turnover (P2.T13),,Neto STEAL (1 STL),,,4,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200120,490,2,1,3,8:49 PM,0:04,,,MISS LeVert 26' 3PT Jump Shot,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,491,4,0,3,8:49 PM,0:00,Bey REBOUND (Off:0 Def:4),,,,,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,492,2,1,3,8:49 PM,0:00,MISS Bey 58' 3PT Jump Shot,,,,,4,1630180,Saddiq Bey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,493,4,0,3,8:49 PM,0:00,PISTONS Rebound,,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200120,494,13,0,3,8:49 PM,0:00,,End of 3rd Period (8:49 PM EST),,90 - 68,-22,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200120,505,12,0,4,8:52 PM,12:00,,Start of 4th Period (8:52 PM EST),,90 - 68,-22,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200120,506,6,1,4,8:52 PM,11:49,Noel P.FOUL (P1.T1) (D.Richardson),,,,,4,203457,Nerlens Noel,1610612765.0,Detroit,Pistons,DET,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200120,508,1,1,4,8:52 PM,11:42,,,Love 25' 3PT Jump Shot (17 PTS) (Neto 4 AST),93 - 68,-25,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200120,510,6,2,4,8:52 PM,11:42,Livers S.FOUL (P1.T2) (B.Schwab),,,,,4,1630587,Isaiah Livers,1610612765.0,Detroit,Pistons,DET,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200120,512,3,10,4,8:53 PM,11:42,,,Love Free Throw 1 of 1 (18 PTS),94 - 68,-26,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,513,1,79,4,8:53 PM,11:31,Hayes 14' Pullup Jump Shot (2 PTS),,,94 - 70,-24,4,1630165,Killian Hayes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,514,2,1,4,8:53 PM,11:15,,,MISS Allen 16' Jump Shot,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,515,4,0,4,8:53 PM,11:11,Ivey REBOUND (Off:1 Def:5),,,,,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,516,1,9,4,8:53 PM,11:04,Ivey 3' Driving Dunk (13 PTS),,,94 - 72,-22,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,517,5,45,4,8:54 PM,10:47,,,Osman Out of Bounds - Bad Pass Turnover Turnover (P3.T12),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0022200120,518,6,4,4,8:54 PM,10:38,Hayes OFF.Foul (P3) (J.Capers),,,,,4,1630165,Killian Hayes,1610612765.0,Detroit,Pistons,DET,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200120,520,5,37,4,8:54 PM,10:38,Hayes Offensive Foul Turnover (P2.T14),,,,,4,1630165,Killian Hayes,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0022200120,521,7,1,4,8:54 PM,10:38,,,Cavaliers Violation: Delay of game Violation,,,3,1610612739,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200120,522,5,45,4,8:55 PM,10:22,,,Neto Out of Bounds - Bad Pass Turnover Turnover (P2.T13),,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0022200120,523,6,4,4,8:55 PM,10:14,Noel OFF.Foul (P2) (B.Schwab),,,,,4,203457,Nerlens Noel,1610612765.0,Detroit,Pistons,DET,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200120,525,5,37,4,8:55 PM,10:14,Noel Offensive Foul Turnover (P2.T15),,,,,4,203457,Nerlens Noel,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0022200120,526,8,0,4,8:55 PM,10:14,,,SUB: LeVert FOR Neto,,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200120,528,1,98,4,8:56 PM,9:52,,,Stevens 4' Cutting Layup Shot (4 PTS) (Love 10 AST),96 - 72,-24,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200120,530,2,80,4,8:56 PM,9:41,MISS Knox II 25' 3PT Step Back Jump Shot,,,,,4,1628995,Kevin Knox II,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,531,4,0,4,8:56 PM,9:35,,,LeVert REBOUND (Off:0 Def:4),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,532,5,8,4,8:56 PM,9:30,,,Allen 3 Second Violation Turnover (P4.T14),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0022200120,533,2,79,4,8:57 PM,9:08,MISS Ivey 24' 3PT Pullup Jump Shot,,,,,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,534,4,0,4,8:57 PM,9:04,,,Osman REBOUND (Off:0 Def:4),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,535,1,1,4,8:57 PM,8:59,,,Love 3PT Jump Shot (21 PTS) (LeVert 6 AST),99 - 72,-27,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200120,537,6,2,4,8:57 PM,8:45,,,Stevens S.FOUL (P3.T1) (D.Richardson),,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022200120,539,3,11,4,8:57 PM,8:45,Ivey Free Throw 1 of 2 (14 PTS),,,99 - 73,-26,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,540,3,12,4,8:58 PM,8:45,Ivey Free Throw 2 of 2 (15 PTS),,,99 - 74,-25,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,542,8,0,4,8:58 PM,8:26,,,SUB: Mobley FOR Love,,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200120,544,2,1,4,8:58 PM,8:22,,,MISS Osman 32' 3PT Jump Shot,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,545,4,0,4,8:59 PM,8:16,,,LeVert REBOUND (Off:1 Def:4),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,546,5,2,4,8:59 PM,8:11,Noel STEAL (2 STL),,Osman Lost Ball Turnover (P4.T15),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,4,203457,Nerlens Noel,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022200120,548,5,45,4,8:59 PM,8:07,Ivey Out of Bounds - Bad Pass Turnover Turnover (P4.T16),,,,,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0022200120,549,1,6,4,8:59 PM,7:48,,,Stevens 3' Driving Layup (6 PTS) (Osman 6 AST),101 - 74,-27,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200120,551,1,101,4,8:59 PM,7:33,Ivey 16' Driving Floating Jump Shot (17 PTS),,,101 - 76,-25,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,556,6,14,4,9:02 PM,7:33,,,Allen FLAGRANT.FOUL.TYPE1 (P2.T2) (D.Richardson),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0022200120,559,3,18,4,9:02 PM,7:33,MISS Ivey Free Throw Flagrant 1 of 2,,,,,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,560,4,1,4,9:02 PM,7:33,PISTONS Rebound,,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200120,561,3,19,4,9:02 PM,7:33,Ivey Free Throw Flagrant 2 of 2 (18 PTS),,,101 - 77,-24,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,562,2,6,4,9:03 PM,7:14,MISS Ivey 4' Driving Layup,,Stevens BLOCK (1 BLK),,,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022200120,564,4,0,4,9:03 PM,7:09,,,Mobley REBOUND (Off:2 Def:6),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,565,6,4,4,9:03 PM,7:08,,,Stevens OFF.Foul (P4) (D.Richardson),,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,4,203457,Nerlens Noel,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022200120,568,5,37,4,9:03 PM,7:08,,,Stevens Offensive Foul Turnover (P1.T16),,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0022200120,569,1,1,4,9:03 PM,6:51,Livers 26' 3PT Jump Shot (11 PTS) (Ivey 3 AST),,,101 - 80,-21,4,1630587,Isaiah Livers,1610612765.0,Detroit,Pistons,DET,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022200120,571,1,6,4,9:04 PM,6:23,,,LeVert 5' Driving Layup (13 PTS),103 - 80,-23,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,572,5,4,4,9:04 PM,6:05,Knox II Traveling Turnover (P1.T17),,,,,4,1628995,Kevin Knox II,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0022200120,573,9,1,4,9:04 PM,6:05,PISTONS Timeout: Regular (Full 5 Short 0),,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200120,574,8,0,4,9:05 PM,6:05,SUB: Joseph FOR Hayes,,,,,4,1630165,Killian Hayes,1610612765.0,Detroit,Pistons,DET,4,202709,Cory Joseph,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022200120,575,8,0,4,9:05 PM,6:05,SUB: McGruder FOR Ivey,,,,,4,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,4,203585,Rodney McGruder,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0022200120,576,8,0,4,9:05 PM,6:05,,,SUB: Okoro FOR Stevens,,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200120,577,8,0,4,9:05 PM,6:05,,,SUB: Neto FOR Osman,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200120,582,1,75,4,9:07 PM,5:50,,,LeVert 4' Driving Finger Roll Layup (15 PTS),105 - 80,-25,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,583,2,6,4,9:08 PM,5:27,MISS McGruder 6' Driving Layup,,Mobley BLOCK (8 BLK),,,4,203585,Rodney McGruder,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022200120,585,4,0,4,9:08 PM,5:21,McGruder REBOUND (Off:1 Def:0),,,,,4,203585,Rodney McGruder,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,586,2,1,4,9:08 PM,5:20,MISS McGruder 14' Jump Shot,,,,,4,203585,Rodney McGruder,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,587,4,0,4,9:08 PM,5:13,,,LeVert REBOUND (Off:1 Def:5),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,588,6,1,4,9:08 PM,5:09,Joseph P.FOUL (P1.T3) (J.Capers),,,,,4,202709,Cory Joseph,1610612765.0,Detroit,Pistons,DET,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200120,590,9,1,4,9:08 PM,5:09,,,Cavaliers Timeout: Regular (Reg.4 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200120,591,8,0,4,9:08 PM,5:09,,,SUB: Lopez FOR LeVert,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200120,592,8,0,4,9:08 PM,5:09,,,SUB: Diakite FOR Mobley,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1629603,Mamadi Diakite,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200120,593,8,0,4,9:08 PM,5:09,,,SUB: Stevens FOR Allen,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200120,597,1,80,4,9:11 PM,4:55,,,Neto 26' 3PT Step Back Jump Shot (10 PTS),108 - 80,-28,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,598,2,1,4,9:11 PM,4:30,MISS Livers 26' 3PT Jump Shot,,,,,4,1630587,Isaiah Livers,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,599,4,0,4,9:12 PM,4:29,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200120,602,2,80,4,9:12 PM,4:10,,,MISS Stevens 19' Step Back Jump Shot,,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,603,4,0,4,9:12 PM,4:06,Noel REBOUND (Off:0 Def:5),,,,,4,203457,Nerlens Noel,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,604,5,2,4,9:12 PM,3:54,Noel Lost Ball Turnover (P3.T18),,Neto STEAL (2 STL),,,4,203457,Nerlens Noel,1610612765.0,Detroit,Pistons,DET,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200120,606,1,41,4,9:12 PM,3:48,,,Okoro 3' Running Layup (9 PTS) (Neto 5 AST),110 - 80,-30,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200120,608,2,1,4,9:13 PM,3:31,MISS Joseph 27' 3PT Jump Shot,,,,,4,202709,Cory Joseph,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,609,4,0,4,9:13 PM,3:30,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200120,611,5,4,4,9:13 PM,3:12,,,Lopez Traveling Turnover (P1.T17),,,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0022200120,612,6,1,4,9:14 PM,3:04,,,Diakite P.FOUL (P1.T3) (J.Capers),,,5,1629603,Mamadi Diakite,1610612739.0,Cleveland,Cavaliers,CLE,4,1630587,Isaiah Livers,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022200120,614,1,1,4,9:14 PM,2:54,Noel 17' Jump Shot (2 PTS) (McGruder 1 AST),,,110 - 82,-28,4,203457,Nerlens Noel,1610612765.0,Detroit,Pistons,DET,4,203585,Rodney McGruder,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022200120,616,6,4,4,9:14 PM,2:44,,,Lopez OFF.Foul (P1) (B.Schwab),,,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,4,202709,Cory Joseph,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0022200120,618,5,37,4,9:14 PM,2:44,,,Lopez Offensive Foul Turnover (P2.T18),,,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0022200120,619,2,1,4,9:15 PM,2:34,MISS Joseph 3PT Jump Shot,,,,,4,202709,Cory Joseph,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,620,4,0,4,9:15 PM,2:30,,,Diakite REBOUND (Off:0 Def:1),,,5,1629603,Mamadi Diakite,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,621,2,1,4,9:15 PM,2:21,,,MISS Neto 21' Jump Shot,,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,622,4,0,4,9:15 PM,2:17,Joseph REBOUND (Off:0 Def:1),,,,,4,202709,Cory Joseph,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,623,2,1,4,9:15 PM,2:13,MISS Knox II 25' 3PT Jump Shot,,,,,4,1628995,Kevin Knox II,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,624,4,0,4,9:15 PM,2:08,,,Neto REBOUND (Off:0 Def:5),,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,625,1,78,4,9:15 PM,1:47,,,Diakite 7' Floating Jump Shot (2 PTS),112 - 82,-30,5,1629603,Mamadi Diakite,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,626,1,1,4,9:16 PM,1:37,Knox II 26' 3PT Jump Shot (3 PTS) (Joseph 1 AST),,,112 - 85,-27,4,1628995,Kevin Knox II,1610612765.0,Detroit,Pistons,DET,4,202709,Cory Joseph,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022200120,629,2,1,4,9:16 PM,1:11,Livers BLOCK (1 BLK),,MISS Neto 16' Jump Shot,,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1630587,Isaiah Livers,1610612765.0,Detroit,Pistons,DET,1
+0022200120,631,4,0,4,9:17 PM,1:07,Noel REBOUND (Off:0 Def:6),,,,,4,203457,Nerlens Noel,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,632,2,1,4,9:17 PM,1:05,MISS McGruder 25' 3PT Jump Shot,,,,,4,203585,Rodney McGruder,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,633,4,0,4,9:17 PM,1:02,,,Diakite REBOUND (Off:0 Def:2),,,5,1629603,Mamadi Diakite,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,634,2,41,4,9:17 PM,1:00,,,MISS Neto 3' Running Layup,,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,635,4,0,4,9:17 PM,0:57,McGruder REBOUND (Off:1 Def:1),,,,,4,203585,Rodney McGruder,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0022200120,636,1,1,4,9:17 PM,0:53,Joseph 3PT Jump Shot (3 PTS) (Knox II 1 AST),,,112 - 88,-24,4,202709,Cory Joseph,1610612765.0,Detroit,Pistons,DET,4,1628995,Kevin Knox II,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0022200120,638,2,1,4,9:17 PM,0:34,,,MISS Stevens 25' 3PT Jump Shot,,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,639,4,0,4,9:17 PM,0:30,,,Lopez REBOUND (Off:1 Def:0),,,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200120,640,5,11,4,9:17 PM,0:17,,,Cavaliers Turnover: Shot Clock (T#19),,,3,1610612739,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200120,641,5,1,4,9:18 PM,0:10,Joseph Bad Pass Turnover (P1.T19),,Diakite STEAL (1 STL),,,4,202709,Cory Joseph,1610612765.0,Detroit,Pistons,DET,5,1629603,Mamadi Diakite,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200120,643,13,0,4,9:18 PM,0:00,,End of 4th Period (9:18 PM EST),,112 - 88,-24,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

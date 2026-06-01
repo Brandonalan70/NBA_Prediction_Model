@@ -1,0 +1,474 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022300090,2,12,0,1,7:11 PM,12:00,,Start of 1st Period (7:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300090,4,10,0,1,7:12 PM,12:00, ,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,3,1610612752,,,,,,1
+0022300090,9,2,1,1,7:12 PM,11:44,,,MISS Barrett 25' 3PT Jump Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,10,4,0,1,7:12 PM,11:41,McCollum REBOUND (Off:0 Def:1),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,11,2,73,1,7:13 PM,11:16,MISS Williamson 3' Driving Reverse Layup,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,12,4,0,1,7:13 PM,11:14,,,Robinson REBOUND (Off:0 Def:1),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,13,2,1,1,7:13 PM,11:09,,,MISS Brunson 20' Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,14,4,0,1,7:13 PM,11:07,,,Robinson REBOUND (Off:1 Def:1),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,15,2,5,1,7:13 PM,11:04,,,MISS Robinson 8' Layup,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,16,4,0,1,7:13 PM,11:01,Valanciunas REBOUND (Off:0 Def:1),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,17,6,1,1,7:13 PM,10:57,,,Grimes P.FOUL (P1.T1) (M.Kallio),,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300090,19,2,1,1,7:13 PM,10:49,MISS Ingram 24' 3PT Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,20,4,0,1,7:13 PM,10:47,,,Brunson REBOUND (Off:0 Def:1),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,21,1,6,1,7:14 PM,10:32,,,Barrett 7' Driving Layup (2 PTS) (Randle 1 AST),2 - 0,-2,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300090,22,1,41,1,7:14 PM,10:22,McCollum 3' Running Layup (2 PTS),,,2 - 2,TIE,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,23,5,1,1,7:14 PM,10:00,Williamson STEAL (1 STL),,Brunson Bad Pass Turnover (P1.T1),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300090,25,1,79,1,7:14 PM,9:56,McCollum 26' 3PT Pullup Jump Shot (5 PTS) (Williamson 1 AST),,,2 - 5,3,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300090,27,2,1,1,7:15 PM,9:33,,,MISS Barrett 24' 3PT Jump Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,28,4,0,1,7:15 PM,9:30,Valanciunas REBOUND (Off:0 Def:2),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,29,1,1,1,7:15 PM,9:21,Jones 25' 3PT Jump Shot (3 PTS) (Ingram 1 AST),,,2 - 8,6,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300090,31,9,1,1,7:15 PM,9:15,,,Knicks Timeout: Regular (Reg.1 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300090,33,2,79,1,7:18 PM,9:04,,,MISS Randle 14' Pullup Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,34,4,0,1,7:18 PM,9:01,,,Robinson REBOUND (Off:2 Def:1),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,35,2,97,1,7:18 PM,9:00,,,MISS Robinson 8' Tip Layup Shot,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,36,4,0,1,7:18 PM,8:58,Jones REBOUND (Off:0 Def:1),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,37,2,47,1,7:18 PM,8:40,MISS Valanciunas 4' Turnaround Jump Shot,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,38,4,0,1,7:18 PM,8:38,,,Randle REBOUND (Off:0 Def:1),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,39,2,1,1,7:19 PM,8:19,,,MISS Brunson 27' 3PT Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,40,4,0,1,7:19 PM,8:15,Valanciunas REBOUND (Off:0 Def:3),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,41,1,86,1,7:19 PM,8:07,Ingram 13' Turnaround Fadeaway (2 PTS),,,2 - 10,8,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,42,2,57,1,7:19 PM,7:51,,,MISS Brunson 5' Driving Hook Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,43,4,0,1,7:19 PM,7:49,Valanciunas REBOUND (Off:0 Def:4),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,44,2,79,1,7:20 PM,7:32,MISS Ingram 13' Pullup Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,45,4,0,1,7:20 PM,7:30,,,Barrett REBOUND (Off:0 Def:1),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,46,1,44,1,7:20 PM,7:25,,,Randle 4' Reverse Layup (2 PTS) (Barrett 1 AST),4 - 10,6,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300090,48,2,79,1,7:20 PM,7:07,MISS Ingram 26' 3PT Pullup Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,49,4,0,1,7:20 PM,7:05,,,Randle REBOUND (Off:0 Def:2),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,50,5,1,1,7:20 PM,7:01,McCollum STEAL (1 STL),,Randle Bad Pass Turnover (P1.T2),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300090,52,1,43,1,7:20 PM,6:57,Williamson 3' Alley Oop Layup (2 PTS) (McCollum 1 AST),,,4 - 12,8,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300090,54,5,2,1,7:21 PM,6:36,McCollum STEAL (2 STL),,Randle Lost Ball Turnover (P2.T3),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300090,56,1,50,1,7:21 PM,6:31,Ingram 2' Running Dunk (4 PTS) (Jones 1 AST),,,4 - 14,10,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300090,58,5,45,1,7:21 PM,6:15,,,Barrett Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022300090,61,2,6,1,7:21 PM,6:03,MISS Williamson 9' Driving Layup,,Robinson BLOCK (1 BLK),,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,1
+0022300090,63,4,0,1,7:21 PM,6:01,,,Brunson REBOUND (Off:0 Def:2),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,64,1,41,1,7:21 PM,5:54,,,Robinson 6' Running Layup (2 PTS) (Randle 2 AST),6 - 14,8,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300090,66,6,4,1,7:22 PM,5:44,Valanciunas OFF.Foul (P1) (M.Kallio),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300090,68,5,37,1,7:22 PM,5:44,Valanciunas Offensive Foul Turnover (P1.T1),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022300090,69,8,0,1,7:22 PM,5:44,SUB: Lewis Jr. FOR Williamson,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300090,70,8,0,1,7:22 PM,5:44,SUB: Daniels FOR Valanciunas,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300090,71,8,0,1,7:22 PM,5:44,SUB: Nance Jr. FOR McCollum,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300090,72,8,0,1,7:22 PM,5:44,,,SUB: Hart FOR Barrett,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300090,77,2,1,1,7:22 PM,5:27,,,MISS Grimes 3PT Jump Shot,,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,78,4,0,1,7:22 PM,5:24,,,Robinson REBOUND (Off:3 Def:1),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,79,1,87,1,7:22 PM,5:23,,,Robinson 2' Putback Dunk (4 PTS),8 - 14,6,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,80,1,101,1,7:22 PM,5:15,Daniels 4' Driving Floating Jump Shot (2 PTS) (Ingram 2 AST),,,8 - 16,8,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300090,82,2,1,1,7:23 PM,5:03,,,MISS Randle 26' 3PT Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,83,4,0,1,7:23 PM,4:59,Ingram REBOUND (Off:0 Def:1),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,84,2,41,1,7:23 PM,4:54,MISS Ingram 5' Running Layup,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,85,4,0,1,7:23 PM,4:51,Ingram REBOUND (Off:1 Def:1),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,86,5,2,1,7:23 PM,4:50,Ingram Lost Ball Turnover (P1.T2),,Hart STEAL (1 STL),,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300090,89,6,1,1,7:23 PM,4:50,Nance Jr. P.FOUL (P1.T1) (T.Washington),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300090,91,8,0,1,7:23 PM,4:50,,,SUB: Quickley FOR Grimes,,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300090,153,2,6,1,7:24 PM,4:34,Jones BLOCK (1 BLK),,MISS Randle 2' Driving Layup,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,1
+0022300090,155,4,0,1,7:24 PM,4:34,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300090,95,8,0,1,7:24 PM,4:34,SUB: Ryan FOR Jones,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1630346,Matt Ryan,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300090,97,1,86,1,7:24 PM,4:20,Ingram 12' Turnaround Fadeaway (6 PTS),,,8 - 18,10,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,98,2,80,1,7:24 PM,4:03,,,MISS Brunson 16' Step Back Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,99,4,0,1,7:24 PM,3:56,Ryan REBOUND (Off:0 Def:1),,,,,4,1630346,Matt Ryan,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,100,6,1,1,7:25 PM,3:52,,,Brunson P.FOUL (P1.T2) (S.Wright),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300090,102,8,0,1,7:25 PM,3:52,,,SUB: Hartenstein FOR Brunson,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300090,103,8,0,1,7:25 PM,3:52,,,SUB: DiVincenzo FOR Robinson,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300090,106,1,79,1,7:25 PM,3:47,Ingram 16' Pullup Jump Shot (8 PTS),,,8 - 20,12,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,107,6,1,1,7:25 PM,3:31,Daniels P.FOUL (P1.T2) (S.Wright),,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300090,109,2,1,1,7:26 PM,3:20,,,MISS DiVincenzo 25' 3PT Jump Shot,,,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,110,4,0,1,7:26 PM,3:16,,,Hartenstein REBOUND (Off:1 Def:0),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,111,1,6,1,7:26 PM,3:07,,,Randle 5' Driving Layup (4 PTS),10 - 20,10,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,112,2,1,1,7:26 PM,2:50,MISS Daniels 26' 3PT Jump Shot,,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,113,4,0,1,7:26 PM,2:47,Nance Jr. REBOUND (Off:1 Def:0),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,115,9,1,1,7:27 PM,2:46,PELICANS Timeout: Regular (Full 1 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300090,116,8,0,1,7:28 PM,2:46,SUB: Williamson FOR Ingram,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300090,118,2,1,1,7:30 PM,2:35,MISS Lewis Jr. 27' 3PT Jump Shot,,,,,4,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,119,4,0,1,7:30 PM,2:30,,,Hart REBOUND (Off:0 Def:1),,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,120,5,40,1,7:30 PM,2:28,,,Randle Out of Bounds Lost Ball Turnover (P3.T5),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022300090,122,1,6,1,7:30 PM,2:08,Williamson 8' Driving Layup (4 PTS),,,10 - 22,12,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,123,2,1,1,7:30 PM,1:53,,,MISS Randle 26' 3PT Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,124,4,0,1,7:31 PM,1:49,Daniels REBOUND (Off:0 Def:1),,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,125,2,41,1,7:31 PM,1:45,MISS Daniels 7' Running Layup,,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,126,4,0,1,7:31 PM,1:43,,,Randle REBOUND (Off:0 Def:3),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,127,1,50,1,7:31 PM,1:38,,,Hartenstein 4' Running Dunk (2 PTS) (DiVincenzo 1 AST),12 - 22,10,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300090,129,2,73,1,7:31 PM,1:17,MISS Lewis Jr. 3' Driving Reverse Layup,,,,,4,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,130,4,0,1,7:31 PM,1:15,,,Hartenstein REBOUND (Off:1 Def:1),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,131,5,45,1,7:31 PM,1:09,,,Quickley Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022300090,135,8,0,1,7:31 PM,1:09,SUB: McCollum FOR Lewis Jr.,,,,,4,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300090,136,2,1,1,7:32 PM,0:54,MISS Daniels 25' 3PT Jump Shot,,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,137,4,0,1,7:32 PM,0:51,,,DiVincenzo REBOUND (Off:0 Def:1),,,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,138,5,1,1,7:32 PM,0:44,Ryan STEAL (1 STL),,DiVincenzo Bad Pass Turnover (P1.T7),,,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,4,1630346,Matt Ryan,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300090,140,1,41,1,7:32 PM,0:39,Williamson 5' Running Layup (6 PTS) (Ryan 1 AST),,,12 - 24,12,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1630346,Matt Ryan,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300090,142,2,80,1,7:32 PM,0:33,,,MISS Quickley 28' 3PT Step Back Jump Shot,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,143,4,0,1,7:32 PM,0:33,Nance Jr. REBOUND (Off:1 Def:1),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,144,1,3,1,7:33 PM,0:20,Williamson 5' Hook Shot (8 PTS) (McCollum 2 AST),,,12 - 26,14,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300090,146,6,1,1,7:33 PM,0:02,Nance Jr. P.FOUL (P2.T3) (S.Wright),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300090,148,8,0,1,7:33 PM,0:02,SUB: Jones FOR Nance Jr.,,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300090,150,2,83,1,7:33 PM,0:00,,,MISS Randle 18' Fadeaway Bank Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,151,4,0,1,7:33 PM,0:00,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300090,152,13,0,1,7:33 PM,0:00,,End of 1st Period (7:33 PM EST),,12 - 26,14,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300090,162,12,0,2,7:36 PM,12:00,,Start of 2nd Period (7:36 PM EST),,12 - 26,14,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300090,163,2,1,2,7:36 PM,11:50,MISS McCollum 26' 3PT Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,164,4,0,2,7:36 PM,11:46,,,Hart REBOUND (Off:0 Def:2),,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,165,2,101,2,7:36 PM,11:39,,,MISS Barrett 10' Driving Floating Jump Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,166,4,0,2,7:36 PM,11:35,McCollum REBOUND (Off:0 Def:2),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,167,1,2,2,7:36 PM,11:32,Ryan 25' 3PT Running Jump Shot (3 PTS) (McCollum 3 AST),,,12 - 29,17,4,1630346,Matt Ryan,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300090,170,6,2,2,7:37 PM,11:11,Valanciunas S.FOUL (P2.T1) (T.Washington),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300090,172,3,11,2,7:37 PM,11:11,,,MISS Hartenstein Free Throw 1 of 2,,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,173,4,1,2,7:37 PM,11:11,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300090,174,3,12,2,7:38 PM,11:11,,,Hartenstein Free Throw 2 of 2 (3 PTS),13 - 29,16,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,175,1,1,2,7:38 PM,10:57,Hawkins 24' 3PT Jump Shot (3 PTS) (McCollum 4 AST),,,13 - 32,19,4,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300090,178,1,6,2,7:38 PM,10:31,,,Quickley 7' Driving Layup (2 PTS),15 - 32,17,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,179,2,1,2,7:39 PM,10:21,MISS Ryan 25' 3PT Jump Shot,,,,,4,1630346,Matt Ryan,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,180,4,0,2,7:39 PM,10:18,,,DiVincenzo REBOUND (Off:0 Def:2),,,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,181,6,1,2,7:39 PM,10:13,Ryan P.FOUL (P1.T2) (S.Wright),,,,,4,1630346,Matt Ryan,1610612740.0,New Orleans,Pelicans,NOP,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300090,183,1,101,2,7:39 PM,10:06,,,Barrett 11' Driving Floating Jump Shot (4 PTS) (Hartenstein 1 AST),17 - 32,15,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300090,184,2,98,2,7:40 PM,9:49,MISS Daniels 4' Cutting Layup Shot,,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,185,4,0,2,7:40 PM,9:47,,,Hartenstein REBOUND (Off:1 Def:2),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,186,2,1,2,7:40 PM,9:38,,,MISS DiVincenzo 24' 3PT Jump Shot,,,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,187,4,0,2,7:40 PM,9:35,Daniels REBOUND (Off:0 Def:2),,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,188,1,80,2,7:40 PM,9:30,Hawkins 24' 3PT Step Back Jump Shot (6 PTS) (Daniels 1 AST),,,17 - 35,18,4,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300090,190,5,1,2,7:40 PM,9:03,McCollum STEAL (3 STL),,Barrett Bad Pass Turnover (P2.T8),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300090,192,5,1,2,7:40 PM,8:59,Daniels Bad Pass Turnover (P1.T3),,DiVincenzo STEAL (1 STL),,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300090,194,1,2,2,7:40 PM,8:55,,,Barrett 3PT Running Jump Shot (7 PTS) (Hart 1 AST),20 - 35,15,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300090,196,2,5,2,7:41 PM,8:34,MISS Valanciunas 3' Layup,,Barrett BLOCK (1 BLK),,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,1
+0022300090,198,4,0,2,7:41 PM,8:34,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300090,200,6,4,2,7:41 PM,8:34,Valanciunas OFF.Foul (P3) (S.Wright),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300090,202,5,37,2,7:41 PM,8:34,Valanciunas Offensive Foul Turnover (P2.T4),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022300090,203,8,0,2,7:41 PM,8:34,SUB: Nance Jr. FOR Valanciunas,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300090,205,2,79,2,7:42 PM,8:26,,,MISS Quickley 15' Pullup Jump Shot,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,206,4,0,2,7:42 PM,8:23,Nance Jr. REBOUND (Off:1 Def:2),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,207,6,2,2,7:42 PM,8:15,,,DiVincenzo S.FOUL (P1.T1) (M.Kallio),,,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300090,209,3,11,2,7:42 PM,8:15,McCollum Free Throw 1 of 2 (6 PTS),,,20 - 36,16,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,210,8,0,2,7:42 PM,8:15,SUB: Jones FOR Daniels,,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300090,211,8,0,2,7:42 PM,8:15,,,SUB: Brunson FOR Barrett,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300090,214,3,12,2,7:43 PM,8:15,McCollum Free Throw 2 of 2 (7 PTS),,,20 - 37,17,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,215,2,1,2,7:43 PM,8:02,,,MISS Quickley 3PT Jump Shot,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,216,4,0,2,7:43 PM,8:02,Nance Jr. REBOUND (Off:1 Def:3),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,218,1,79,2,7:43 PM,7:48,Jones 6' Pullup Jump Shot (5 PTS),,,20 - 39,19,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,219,6,1,2,7:44 PM,7:31,Ryan P.FOUL (P2.T3) (T.Washington),,,,,4,1630346,Matt Ryan,1610612740.0,New Orleans,Pelicans,NOP,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300090,221,8,0,2,7:44 PM,7:31,,,SUB: Robinson FOR Hartenstein,,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300090,223,2,1,2,7:44 PM,7:21,,,MISS Hart 27' 3PT Jump Shot,,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,224,4,0,2,7:44 PM,7:18,Nance Jr. REBOUND (Off:1 Def:4),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,225,2,79,2,7:44 PM,7:14,MISS McCollum 25' 3PT Pullup Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,226,4,0,2,7:44 PM,7:10,,,Quickley REBOUND (Off:0 Def:1),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,227,2,1,2,7:45 PM,6:55,,,MISS DiVincenzo 3PT Jump Shot,,,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,228,4,0,2,7:45 PM,6:50,,,Robinson REBOUND (Off:4 Def:1),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,229,6,2,2,7:45 PM,6:47,Jones S.FOUL (P1.T4) (S.Wright),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300090,231,9,1,2,7:45 PM,6:47,PELICANS Timeout: Regular (Full 2 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300090,232,8,0,2,7:45 PM,6:47,SUB: Williamson FOR McCollum,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300090,233,8,0,2,7:45 PM,6:47,SUB: Ingram FOR Ryan,,,,,4,1630346,Matt Ryan,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300090,236,3,11,2,7:48 PM,6:47,,,Quickley Free Throw 1 of 2 (3 PTS),21 - 39,18,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,237,3,12,2,7:48 PM,6:47,,,Quickley Free Throw 2 of 2 (4 PTS),22 - 39,17,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,238,1,108,2,7:49 PM,6:30,Jones 1' Cutting Dunk Shot (7 PTS) (Ingram 3 AST),,,22 - 41,19,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300090,240,1,1,2,7:49 PM,6:11,,,DiVincenzo 26' 3PT Jump Shot (3 PTS) (Hart 2 AST),25 - 41,16,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300090,242,1,79,2,7:49 PM,5:50,Ingram 11' Pullup Jump Shot (10 PTS),,,25 - 43,18,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,243,1,6,2,7:50 PM,5:40,,,Quickley 2' Driving Layup (6 PTS),27 - 43,16,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,244,2,79,2,7:50 PM,5:19,MISS Hawkins 19' Pullup Jump Shot,,,,,4,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,245,4,0,2,7:50 PM,5:17,,,Hart REBOUND (Off:0 Def:3),,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,246,2,1,2,7:50 PM,5:11,,,MISS DiVincenzo 26' 3PT Jump Shot,,,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,247,4,0,2,7:50 PM,5:08,,,DiVincenzo REBOUND (Off:1 Def:2),,,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,248,1,72,2,7:50 PM,5:07,,,DiVincenzo 11' Putback Layup (5 PTS),29 - 43,14,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,249,1,1,2,7:50 PM,4:44,Hawkins 3PT Jump Shot (9 PTS) (Williamson 2 AST),,,29 - 46,17,4,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300090,251,6,2,2,7:51 PM,4:28,Jones S.FOUL (P2.PN) (S.Wright),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300090,253,3,11,2,7:51 PM,4:28,,,Brunson Free Throw 1 of 2 (1 PTS),30 - 46,16,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,254,8,0,2,7:51 PM,4:28,SUB: Zeller FOR Nance Jr.,,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,203469,Cody Zeller,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300090,255,8,0,2,7:51 PM,4:28,,,SUB: Randle FOR DiVincenzo,,,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300090,256,8,0,2,7:51 PM,4:28,,,SUB: Grimes FOR Hart,,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300090,260,3,12,2,7:52 PM,4:28,,,Brunson Free Throw 2 of 2 (2 PTS),31 - 46,15,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,261,1,75,2,7:52 PM,4:18,Ingram 4' Driving Finger Roll Layup (12 PTS),,,31 - 48,17,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,262,2,101,2,7:52 PM,3:58,,,MISS Quickley 7' Driving Floating Jump Shot,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,263,4,0,2,7:52 PM,3:56,Hawkins REBOUND (Off:0 Def:1),,,,,4,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,264,1,41,2,7:52 PM,3:55,Williamson 4' Running Layup (10 PTS) (Hawkins 1 AST),,,31 - 50,19,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300090,266,6,2,2,7:52 PM,3:55,,,Randle S.FOUL (P1.T2) (S.Wright),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300090,268,8,0,2,7:53 PM,3:55,,,SUB: Barrett FOR Quickley,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300090,270,3,10,2,7:53 PM,3:55,MISS Williamson Free Throw 1 of 1,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,271,4,0,2,7:53 PM,3:52,,,Randle REBOUND (Off:0 Def:4),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,272,2,5,2,7:53 PM,3:37,,,MISS Randle 9' Layup,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,273,4,0,2,7:53 PM,3:31,,,Robinson REBOUND (Off:5 Def:1),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,274,2,97,2,7:53 PM,3:31,,,MISS Robinson Tip Layup Shot,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,275,4,0,2,7:53 PM,3:29,,,Robinson REBOUND (Off:6 Def:1),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,276,1,97,2,7:53 PM,3:29,,,Robinson Tip Layup Shot (6 PTS),33 - 50,17,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,277,2,80,2,7:54 PM,3:21,MISS Ingram 15' Step Back Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,278,4,0,2,7:54 PM,3:19,,,Brunson REBOUND (Off:0 Def:3),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,279,1,41,2,7:54 PM,3:15,,,Barrett 3' Running Layup (9 PTS) (Brunson 1 AST),35 - 50,15,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300090,281,1,75,2,7:54 PM,2:53,Williamson 6' Driving Finger Roll Layup (12 PTS),,,35 - 52,17,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,282,1,98,2,7:54 PM,2:35,,,Barrett 6' Cutting Layup Shot (11 PTS) (Brunson 2 AST),37 - 52,15,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300090,284,5,45,2,7:54 PM,2:28,Ingram Out of Bounds - Bad Pass Turnover Turnover (P2.T5),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022300090,285,9,1,2,7:55 PM,2:28,,,Knicks Timeout: Regular (Reg.2 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300090,286,8,0,2,7:55 PM,2:28,SUB: McCollum FOR Jones,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300090,287,8,0,2,7:55 PM,2:28,SUB: Daniels FOR Hawkins,,,,,4,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300090,290,2,1,2,7:58 PM,2:10,,,MISS Grimes 3PT Jump Shot,,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,291,4,0,2,7:58 PM,2:07,McCollum REBOUND (Off:0 Def:3),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,292,2,80,2,7:58 PM,2:00,MISS McCollum 9' Step Back Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,293,4,0,2,7:58 PM,1:56,,,Randle REBOUND (Off:0 Def:5),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,294,6,26,2,7:58 PM,1:52,,,Randle Offensive Charge Foul (P2) (M.Kallio),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,203469,Cody Zeller,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300090,296,5,37,2,7:58 PM,1:52,,,Randle Offensive Foul Turnover (P4.T9),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022300090,297,2,58,2,7:59 PM,1:24,MISS Daniels 3' Turnaround Hook Shot,,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,298,4,0,2,7:59 PM,1:22,,,Robinson REBOUND (Off:6 Def:2),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,299,5,1,2,7:59 PM,1:15,Daniels STEAL (1 STL),,Randle Bad Pass Turnover (P5.T10),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300090,301,6,2,2,7:59 PM,1:12,,,Brunson S.FOUL (P2.T3) (S.Wright),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300090,303,3,11,2,7:59 PM,1:12,MISS Daniels Free Throw 1 of 2,,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,304,4,1,2,7:59 PM,1:12,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300090,305,3,12,2,7:59 PM,1:12,MISS Daniels Free Throw 2 of 2,,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,306,4,0,2,7:59 PM,1:10,,,Randle REBOUND (Off:0 Def:6),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,307,2,101,2,8:00 PM,1:00,,,MISS Brunson 17' Driving Floating Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,308,4,0,2,8:00 PM,0:56,Zeller REBOUND (Off:0 Def:1),,,,,4,203469,Cody Zeller,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,309,6,26,2,8:00 PM,0:52,Ingram Offensive Charge Foul (P1) (M.Kallio),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300090,311,5,37,2,8:00 PM,0:52,Ingram Offensive Foul Turnover (P3.T6),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022300090,312,2,80,2,8:01 PM,0:33,,,MISS Barrett 13' Step Back Jump Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,313,4,0,2,8:01 PM,0:30,Williamson REBOUND (Off:0 Def:1),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,314,2,2,2,8:01 PM,0:26,MISS McCollum 26' 3PT Running Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,315,4,0,2,8:01 PM,0:23,Ingram REBOUND (Off:2 Def:1),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,316,2,98,2,8:01 PM,0:19,MISS Zeller 3' Cutting Layup Shot,,Robinson BLOCK (2 BLK),,,4,203469,Cody Zeller,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,1
+0022300090,318,4,0,2,8:01 PM,0:19,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300090,320,8,0,2,8:01 PM,0:19,SUB: Ryan FOR Daniels,,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,4,1630346,Matt Ryan,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300090,322,1,1,2,8:01 PM,0:17,McCollum 26' 3PT Jump Shot (10 PTS) (Ryan 2 AST),,,37 - 55,18,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1630346,Matt Ryan,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300090,324,2,1,2,8:02 PM,0:02,,,MISS Randle 27' 3PT Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,325,4,0,2,8:02 PM,0:02,Ingram REBOUND (Off:2 Def:2),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,326,13,0,2,8:02 PM,0:00,,End of 2nd Period (8:02 PM EST),,37 - 55,18,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300090,331,12,0,3,8:17 PM,12:00,,Start of 3rd Period (8:17 PM EST),,37 - 55,18,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300090,332,2,1,3,8:18 PM,11:50,MISS McCollum 24' 3PT Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,333,4,0,3,8:18 PM,11:47,,,Barrett REBOUND (Off:0 Def:2),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,334,2,1,3,8:18 PM,11:27,,,MISS Barrett 3PT Jump Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,335,4,0,3,8:18 PM,11:23,,,Robinson REBOUND (Off:7 Def:2),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,336,2,79,3,8:18 PM,11:19,,,MISS Brunson 29' 3PT Pullup Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,337,4,0,3,8:18 PM,11:15,Williamson REBOUND (Off:0 Def:2),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,338,2,6,3,8:18 PM,11:08,MISS Williamson 3' Driving Layup,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,339,4,0,3,8:18 PM,11:06,,,Robinson REBOUND (Off:7 Def:3),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,340,1,2,3,8:18 PM,11:01,,,Grimes 3PT Running Jump Shot (3 PTS) (Randle 3 AST),40 - 55,15,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300090,342,1,1,3,8:19 PM,10:40,Ingram 3PT Jump Shot (15 PTS) (McCollum 5 AST),,,40 - 58,18,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300090,344,1,101,3,8:19 PM,10:12,,,Brunson 11' Driving Floating Jump Shot (4 PTS),42 - 58,16,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,345,2,58,3,8:20 PM,9:52,MISS Williamson 5' Turnaround Hook Shot,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,346,4,0,3,8:20 PM,9:49,,,Robinson REBOUND (Off:7 Def:4),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,347,6,2,3,8:20 PM,9:49,McCollum S.FOUL (P1.T1) (M.Kallio),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300090,349,3,11,3,8:20 PM,9:49,,,Barrett Free Throw 1 of 2 (12 PTS),43 - 58,15,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,350,3,12,3,8:20 PM,9:49,,,MISS Barrett Free Throw 2 of 2,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,351,4,0,3,8:20 PM,9:47,Williamson REBOUND (Off:0 Def:3),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,352,5,1,3,8:21 PM,9:32,Valanciunas Bad Pass Turnover (P3.T7),,Robinson STEAL (1 STL),,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300090,354,1,41,3,8:21 PM,9:25,,,Randle 4' Running Layup (6 PTS) (Brunson 3 AST),45 - 58,13,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300090,356,2,1,3,8:21 PM,9:02,MISS Valanciunas 26' 3PT Jump Shot,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,357,4,0,3,8:21 PM,8:59,,,Randle REBOUND (Off:0 Def:7),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,358,6,2,3,8:21 PM,8:46,McCollum S.FOUL (P2.T2) (T.Washington),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300090,360,3,11,3,8:22 PM,8:46,,,Barrett Free Throw 1 of 2 (13 PTS),46 - 58,12,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,361,3,12,3,8:22 PM,8:46,,,Barrett Free Throw 2 of 2 (14 PTS),47 - 58,11,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,362,1,1,3,8:22 PM,8:36,Jones 3PT Jump Shot (10 PTS) (McCollum 6 AST),,,47 - 61,14,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300090,364,6,1,3,8:23 PM,8:18,Jones P.FOUL (P3.T3) (T.Washington),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300090,366,1,6,3,8:23 PM,8:10,,,Randle 5' Driving Layup (8 PTS) (Brunson 4 AST),49 - 61,12,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300090,368,2,73,3,8:23 PM,7:59,MISS Jones 4' Driving Reverse Layup,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,369,4,0,3,8:23 PM,7:57,,,Robinson REBOUND (Off:7 Def:5),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,370,1,73,3,8:23 PM,7:52,,,Barrett 3' Driving Reverse Layup (16 PTS) (Brunson 5 AST),51 - 61,10,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300090,372,9,1,3,8:23 PM,7:52,PELICANS Timeout: Regular (Full 3 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300090,373,2,6,3,8:26 PM,7:39,MISS Williamson 6' Driving Layup,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,374,4,0,3,8:27 PM,7:33,Williamson REBOUND (Off:1 Def:3),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,375,1,72,3,8:27 PM,7:33,Williamson Putback Layup (14 PTS),,,51 - 63,12,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,376,2,1,3,8:27 PM,7:21,,,MISS Grimes 25' 3PT Jump Shot,,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,377,4,0,3,8:27 PM,7:18,Jones REBOUND (Off:0 Def:2),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,378,5,1,3,8:27 PM,7:13,Jones Bad Pass Turnover (P1.T8),,Grimes STEAL (1 STL),,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300090,380,2,41,3,8:27 PM,7:10,,,MISS Grimes Running Layup,,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,382,1,97,3,8:27 PM,7:04,,,Brunson Tip Layup Shot (6 PTS),53 - 63,10,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,381,4,0,3,8:27 PM,7:04,,,Brunson REBOUND (Off:1 Def:3),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,383,2,6,3,8:27 PM,7:00,MISS McCollum 4' Driving Layup,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,384,4,0,3,8:27 PM,6:58,,,Randle REBOUND (Off:0 Def:8),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,385,1,79,3,8:27 PM,6:55,,,Brunson 25' 3PT Pullup Jump Shot (9 PTS),56 - 63,7,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,386,1,6,3,8:28 PM,6:37,Williamson 8' Driving Layup (16 PTS),,,56 - 65,9,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,387,6,2,3,8:28 PM,6:37,,,Randle S.FOUL (P3.T1) (T.Washington),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300090,389,8,0,3,8:28 PM,6:37,SUB: Daniels FOR Valanciunas,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300090,391,3,10,3,8:28 PM,6:37,MISS Williamson Free Throw 1 of 1,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,392,4,0,3,8:28 PM,6:34,,,Barrett REBOUND (Off:0 Def:3),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,393,5,4,3,8:28 PM,6:19,,,Randle Traveling Turnover (P6.T11),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022300090,394,1,6,3,8:29 PM,6:07,Williamson 8' Driving Layup (18 PTS),,,56 - 67,11,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,395,9,1,3,8:29 PM,6:06,,,Knicks Timeout: Regular (Reg.3 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300090,396,2,1,3,8:32 PM,5:50,,,MISS Randle 26' 3PT Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,397,4,0,3,8:32 PM,5:47,Williamson REBOUND (Off:1 Def:4),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,398,2,79,3,8:32 PM,5:32,MISS Ingram 15' Pullup Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,399,4,0,3,8:32 PM,5:30,,,Randle REBOUND (Off:0 Def:9),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,400,2,1,3,8:33 PM,5:18,,,MISS Grimes 24' 3PT Jump Shot,,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,401,4,0,3,8:33 PM,5:15,Daniels REBOUND (Off:0 Def:3),,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,402,1,98,3,8:33 PM,5:04,Williamson 2' Cutting Layup Shot (20 PTS) (Daniels 2 AST),,,56 - 69,13,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300090,404,5,40,3,8:33 PM,4:41,,,Barrett Out of Bounds Lost Ball Turnover (P3.T12),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022300090,406,8,0,3,8:33 PM,4:41,SUB: Lewis Jr. FOR McCollum,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300090,407,8,0,3,8:33 PM,4:41,,,SUB: Hart FOR Barrett,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300090,410,2,1,3,8:34 PM,4:31,MISS Lewis Jr. 25' 3PT Jump Shot,,,,,4,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,411,4,0,3,8:34 PM,4:27,,,Hart REBOUND (Off:0 Def:4),,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,412,2,101,3,8:34 PM,4:12,,,MISS Hart 7' Driving Floating Jump Shot,,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,413,4,0,3,8:34 PM,4:06,,,Robinson REBOUND (Off:8 Def:5),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,414,1,87,3,8:34 PM,4:06,,,Robinson Putback Dunk (8 PTS),58 - 69,11,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,415,5,2,3,8:34 PM,3:49,Ingram Lost Ball Turnover (P4.T9),,Grimes STEAL (2 STL),,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300090,417,2,98,3,8:34 PM,3:42,Jones BLOCK (2 BLK),,MISS Randle 8' Cutting Layup Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,1
+0022300090,419,4,0,3,8:34 PM,3:42,Lewis Jr. REBOUND (Off:0 Def:1),,,,,4,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,420,1,76,3,8:35 PM,3:37,Lewis Jr. 3' Running Finger Roll Layup (2 PTS),,,58 - 71,13,4,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,421,9,1,3,8:35 PM,3:37,,,Knicks Timeout: Regular (Reg.4 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300090,422,8,0,3,8:35 PM,3:37,SUB: Nance Jr. FOR Williamson,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300090,423,8,0,3,8:35 PM,3:37,SUB: Ryan FOR Jones,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1630346,Matt Ryan,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300090,424,8,0,3,8:35 PM,3:37,,,SUB: Hartenstein FOR Robinson,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300090,428,2,79,3,8:36 PM,3:26,,,MISS Brunson 26' 3PT Pullup Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,429,4,0,3,8:36 PM,3:22,Lewis Jr. REBOUND (Off:0 Def:2),,,,,4,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,430,5,4,3,8:36 PM,3:14,Ingram Traveling Turnover (P5.T10),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022300090,431,8,0,3,8:37 PM,3:14,,,SUB: Quickley FOR Grimes,,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300090,433,6,11,3,8:37 PM,3:14,,,Brunson T.FOUL (P2.T1) (S.Wright),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+0022300090,434,3,16,3,8:37 PM,3:14,Ingram Free Throw Technical (16 PTS),,,58 - 72,14,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,435,2,1,3,8:38 PM,2:51,,,MISS Brunson 28' 3PT Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,436,4,0,3,8:38 PM,2:49,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300090,437,6,3,3,8:38 PM,2:49,Ingram L.B.FOUL (P2.T4) (M.Kallio),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300090,439,6,1,3,8:38 PM,2:44,Ingram P.FOUL (P3.PN) (S.Wright),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300090,441,3,11,3,8:39 PM,2:44,,,Brunson Free Throw 1 of 2 (10 PTS),59 - 72,13,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,442,3,12,3,8:39 PM,2:44,,,MISS Brunson Free Throw 2 of 2,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,443,4,0,3,8:39 PM,2:42,Ingram REBOUND (Off:2 Def:3),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,444,2,80,3,8:40 PM,2:34,MISS Ryan 24' 3PT Step Back Jump Shot,,,,,4,1630346,Matt Ryan,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,445,4,0,3,8:40 PM,2:31,,,Randle REBOUND (Off:0 Def:10),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,446,6,2,3,8:40 PM,2:22,Daniels S.FOUL (P2.PN) (T.Washington),,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300090,448,3,11,3,8:40 PM,2:22,,,Randle Free Throw 1 of 2 (9 PTS),60 - 72,12,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,449,8,0,3,8:40 PM,2:22,SUB: McCollum FOR Lewis Jr.,,,,,4,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300090,450,8,0,3,8:40 PM,2:22,,,SUB: DiVincenzo FOR Brunson,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300090,453,3,12,3,8:41 PM,2:22,,,Randle Free Throw 2 of 2 (10 PTS),61 - 72,11,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,454,5,2,3,8:41 PM,2:14,McCollum Lost Ball Turnover (P1.T11),,DiVincenzo STEAL (2 STL),,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300090,456,2,41,3,8:41 PM,2:10,,,MISS DiVincenzo 2' Running Layup,,,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,457,4,0,3,8:41 PM,2:08,,,Hart REBOUND (Off:1 Def:4),,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,458,1,79,3,8:41 PM,1:59,,,Quickley 10' Pullup Jump Shot (8 PTS),63 - 72,9,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,459,2,1,3,8:42 PM,1:33,MISS Daniels 25' 3PT Jump Shot,,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,460,4,0,3,8:42 PM,1:30,,,Hart REBOUND (Off:1 Def:5),,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,461,5,4,3,8:42 PM,1:24,,,Randle Traveling Turnover (P7.T13),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022300090,462,2,1,3,8:42 PM,1:11,MISS McCollum 26' 3PT Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,463,4,0,3,8:42 PM,1:09,,,Hart REBOUND (Off:1 Def:6),,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,464,1,1,3,8:43 PM,0:56,,,Hart 26' 3PT Jump Shot (3 PTS) (Quickley 1 AST),66 - 72,6,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300090,467,1,1,3,8:43 PM,0:32,Ingram 20' Jump Shot (18 PTS) (Daniels 3 AST),,,66 - 74,8,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300090,469,1,86,3,8:44 PM,0:10,,,Quickley 8' Turnaround Fadeaway (10 PTS),68 - 74,6,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,470,6,1,3,8:44 PM,0:07,,,Quickley P.FOUL (P1.T2) (S.Wright),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300090,472,8,0,3,8:44 PM,0:07,SUB: Hawkins FOR Daniels,,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,4,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300090,474,1,63,3,8:45 PM,0:02,Ingram 20' Fadeaway Jumper (20 PTS),,,68 - 76,8,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,475,6,2,3,8:45 PM,0:02,,,Hart S.FOUL (P1.PN) (S.Wright),,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300090,477,8,0,3,8:45 PM,0:02,SUB: Daniels FOR Ryan,,,,,4,1630346,Matt Ryan,1610612740.0,New Orleans,Pelicans,NOP,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300090,478,8,0,3,8:45 PM,0:02,SUB: Jones FOR Hawkins,,,,,4,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300090,481,3,10,3,8:46 PM,0:02,Ingram Free Throw 1 of 1 (21 PTS),,,68 - 77,9,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,482,5,45,3,8:46 PM,0:02,,,Hart Out of Bounds - Bad Pass Turnover Turnover (P1.T14),,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022300090,484,8,0,3,8:46 PM,0:02,SUB: Ryan FOR Daniels,,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,4,1630346,Matt Ryan,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300090,485,8,0,3,8:46 PM,0:02,SUB: Hawkins FOR Jones,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300090,488,2,101,3,8:46 PM,0:00,MISS Nance Jr. 15' Driving Floating Jump Shot,,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,489,4,0,3,8:46 PM,0:00,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300090,490,13,0,3,8:47 PM,0:00,,End of 3rd Period (8:47 PM EST),,68 - 77,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300090,497,12,0,4,8:49 PM,12:00,,Start of 4th Period (8:49 PM EST),,68 - 77,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300090,498,6,26,4,8:50 PM,11:37,,,Hart Offensive Charge Foul (P2) (T.Washington),,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300090,500,5,37,4,8:50 PM,11:37,,,Hart Offensive Foul Turnover (P2.T15),,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022300090,501,6,2,4,8:50 PM,11:27,,,DiVincenzo S.FOUL (P2.T1) (M.Kallio),,,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300090,503,3,11,4,8:51 PM,11:27,MISS McCollum Free Throw 1 of 2,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,504,4,1,4,8:51 PM,11:27,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300090,505,3,12,4,8:51 PM,11:27,MISS McCollum Free Throw 2 of 2,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,506,4,0,4,8:51 PM,11:25,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300090,507,6,3,4,8:51 PM,11:25,,,DiVincenzo L.B.FOUL (P3.T2) (T.Washington),,,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,4,1630346,Matt Ryan,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300090,509,1,1,4,8:52 PM,11:17,Valanciunas 12' Jump Shot (2 PTS) (Ryan 3 AST),,,68 - 79,11,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1630346,Matt Ryan,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300090,511,2,80,4,8:52 PM,11:04,,,MISS Quickley 26' 3PT Step Back Jump Shot,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,512,4,0,4,8:52 PM,11:04,Hawkins REBOUND (Off:0 Def:2),,,,,4,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,513,6,4,4,8:52 PM,10:55,Valanciunas OFF.Foul (P4) (S.Wright),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300090,515,5,37,4,8:52 PM,10:55,Valanciunas Offensive Foul Turnover (P4.T12),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022300090,516,2,3,4,8:52 PM,10:44,,,MISS Barrett 5' Hook Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,517,4,0,4,8:52 PM,10:42,Hawkins REBOUND (Off:0 Def:3),,,,,4,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,518,2,6,4,8:53 PM,10:30,MISS Jones 6' Driving Layup,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,520,4,0,4,8:53 PM,10:27,,,Hart REBOUND (Off:1 Def:7),,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,521,6,2,4,8:53 PM,10:21,Jones S.FOUL (P4.T1) (S.Wright),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300090,523,3,11,4,8:53 PM,10:21,,,MISS Hartenstein Free Throw 1 of 2,,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,524,4,1,4,8:53 PM,10:21,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300090,525,3,12,4,8:54 PM,10:21,,,Hartenstein Free Throw 2 of 2 (4 PTS),69 - 79,10,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,526,1,1,4,8:54 PM,10:01,Valanciunas 11' Jump Shot (4 PTS) (McCollum 7 AST),,,69 - 81,12,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300090,528,2,1,4,8:54 PM,9:37,Jones BLOCK (3 BLK),,MISS Barrett 26' 3PT Jump Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,1
+0022300090,530,4,0,4,8:54 PM,9:29,,,Hart REBOUND (Off:2 Def:7),,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,531,2,63,4,8:54 PM,9:29,,,MISS Hart 11' Fadeaway Jumper,,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,532,4,0,4,8:55 PM,9:26,Ryan REBOUND (Off:0 Def:2),,,,,4,1630346,Matt Ryan,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,533,6,1,4,8:55 PM,9:26,,,Quickley P.FOUL (P2.T3) (S.Wright),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300090,535,8,0,4,8:55 PM,9:26,,,SUB: Robinson FOR Hartenstein,,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300090,537,1,86,4,8:55 PM,9:13,Valanciunas 11' Turnaround Fadeaway (6 PTS),,,69 - 83,14,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,538,6,26,4,8:55 PM,9:05,,,Quickley Offensive Charge Foul (P3) (S.Wright),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300090,540,5,37,4,8:55 PM,9:05,,,Quickley Offensive Foul Turnover (P2.T16),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022300090,541,8,0,4,8:56 PM,9:05,,,SUB: Brunson FOR Quickley,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300090,543,2,1,4,8:56 PM,8:48,MISS Valanciunas 14' Jump Shot,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,544,4,0,4,8:56 PM,8:46,,,Hart REBOUND (Off:2 Def:8),,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,545,2,79,4,8:56 PM,8:41,,,MISS Hart 25' 3PT Pullup Jump Shot,,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,546,4,0,4,8:56 PM,8:36,,,DiVincenzo REBOUND (Off:2 Def:2),,,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,547,5,2,4,8:56 PM,8:35,McCollum STEAL (4 STL),,DiVincenzo Lost Ball Turnover (P2.T17),,,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300090,549,1,41,4,8:56 PM,8:30,McCollum 3' Running Layup (12 PTS),,,69 - 85,16,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,550,9,1,4,8:57 PM,8:30,,,Knicks Timeout: Regular (Reg.5 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300090,551,8,0,4,8:58 PM,8:30,,,SUB: Randle FOR Hart,,,5,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300090,553,2,6,4,9:00 PM,8:14,,,MISS Randle 5' Driving Layup,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,554,4,0,4,9:00 PM,8:13,,,Robinson REBOUND (Off:9 Def:5),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,559,2,72,4,9:00 PM,8:13,Ryan BLOCK (1 BLK),,MISS Robinson 2' Putback Layup,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1630346,Matt Ryan,1610612740.0,New Orleans,Pelicans,NOP,1
+0022300090,561,4,0,4,9:00 PM,8:13,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300090,557,5,11,4,9:00 PM,8:00,,,Knicks Turnover: Shot Clock (T#18),,,3,1610612752,,,,,,0,0,,,,,,1,0,,,,,,0
+0022300090,558,6,2,4,9:01 PM,7:51,,,Robinson S.FOUL (P1.T4) (M.Kallio),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300090,563,3,11,4,9:01 PM,7:51,Valanciunas Free Throw 1 of 2 (7 PTS),,,69 - 86,17,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,564,3,12,4,9:02 PM,7:51,Valanciunas Free Throw 2 of 2 (8 PTS),,,69 - 87,18,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,565,2,101,4,9:02 PM,7:39,,,MISS Brunson 13' Driving Floating Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,566,4,0,4,9:02 PM,7:38,,,Robinson REBOUND (Off:10 Def:5),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,567,1,6,4,9:02 PM,7:32,,,Brunson 6' Driving Layup (12 PTS),71 - 87,16,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,569,8,0,4,9:03 PM,7:09,SUB: Williamson FOR McCollum,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300090,570,8,0,4,9:03 PM,7:09,SUB: Ingram FOR Hawkins,,,,,4,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300090,573,2,1,4,9:03 PM,7:06,MISS Ryan 3PT Jump Shot,,,,,4,1630346,Matt Ryan,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,574,4,0,4,9:03 PM,7:03,,,Randle REBOUND (Off:0 Def:11),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,575,1,101,4,9:04 PM,6:42,,,Barrett 12' Driving Floating Jump Shot (18 PTS) (Randle 4 AST),73 - 87,14,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300090,577,1,6,4,9:04 PM,6:24,Williamson 4' Driving Layup (22 PTS),,,73 - 89,16,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,578,6,2,4,9:04 PM,6:06,Jones S.FOUL (P5.T2) (T.Washington),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300090,580,3,11,4,9:05 PM,6:06,,,Brunson Free Throw 1 of 2 (13 PTS),74 - 89,15,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,581,8,0,4,9:05 PM,6:06,SUB: Nance Jr. FOR Jones,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300090,582,8,0,4,9:05 PM,6:06,SUB: Daniels FOR Valanciunas,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300090,583,8,0,4,9:05 PM,6:06,,,SUB: Grimes FOR DiVincenzo,,,5,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300090,587,3,12,4,9:05 PM,6:06,,,Brunson Free Throw 2 of 2 (14 PTS),75 - 89,14,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,588,2,1,4,9:06 PM,5:51,MISS Ryan 24' 3PT Jump Shot,,,,,4,1630346,Matt Ryan,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,589,4,0,4,9:06 PM,5:49,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300090,591,2,80,4,9:06 PM,5:32,,,MISS Randle 26' 3PT Step Back Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,592,4,0,4,9:06 PM,5:29,Ingram REBOUND (Off:2 Def:4),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,593,6,1,4,9:06 PM,5:29,,,Randle P.FOUL (P4.PN) (M.Kallio),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300090,595,3,11,4,9:07 PM,5:29,MISS Ingram Free Throw 1 of 2,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,596,4,1,4,9:07 PM,5:29,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300090,597,3,12,4,9:07 PM,5:29,Ingram Free Throw 2 of 2 (22 PTS),,,75 - 90,15,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,598,2,1,4,9:07 PM,5:17,,,MISS Barrett 3PT Jump Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,599,4,0,4,9:07 PM,5:13,Ingram REBOUND (Off:2 Def:5),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,600,1,79,4,9:07 PM,5:06,Ingram 17' Pullup Jump Shot (24 PTS),,,75 - 92,17,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,601,2,6,4,9:08 PM,4:43,Nance Jr. BLOCK (1 BLK),,MISS Brunson 9' Driving Layup,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,1
+0022300090,603,4,0,4,9:08 PM,4:43,Ryan REBOUND (Off:0 Def:3),,,,,4,1630346,Matt Ryan,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,604,1,79,4,9:08 PM,4:35,Ingram 13' Pullup Jump Shot (26 PTS),,,75 - 94,19,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,605,9,1,4,9:08 PM,4:31,,,Knicks Timeout: Regular (Reg.6 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300090,606,8,0,4,9:10 PM,4:31,,,SUB: Sims FOR Brunson,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300090,607,8,0,4,9:10 PM,4:31,,,SUB: McBride FOR Robinson,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300090,610,6,1,4,9:12 PM,4:22,Ingram P.FOUL (P4.T3) (M.Kallio),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300090,612,1,6,4,9:12 PM,4:11,,,Grimes 3' Driving Layup (5 PTS) (Barrett 2 AST),77 - 94,17,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300090,614,2,1,4,9:12 PM,3:56,MISS Ryan 25' 3PT Jump Shot,,,,,4,1630346,Matt Ryan,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,615,4,0,4,9:12 PM,3:53,,,Randle REBOUND (Off:0 Def:12),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,617,5,2,4,9:13 PM,3:41,Ingram STEAL (1 STL),,Randle Lost Ball Turnover (P8.T19),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300090,619,1,50,4,9:13 PM,3:34,Williamson 2' Running Dunk (24 PTS),,,77 - 96,19,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,620,2,101,4,9:13 PM,3:22,,,MISS Barrett 6' Driving Floating Jump Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,621,4,0,4,9:13 PM,3:20,Nance Jr. REBOUND (Off:1 Def:5),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,622,9,1,4,9:13 PM,3:16,PELICANS Timeout: Regular (Full 4 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300090,623,8,0,4,9:14 PM,3:16,SUB: Hawkins FOR Williamson,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300090,624,8,0,4,9:14 PM,3:16,SUB: Zeller FOR Ingram,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,203469,Cody Zeller,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300090,625,8,0,4,9:14 PM,3:16,SUB: Lewis Jr. FOR Nance Jr.,,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300090,626,8,0,4,9:14 PM,3:16,,,SUB: Windler FOR Barrett,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,1629685,Dylan Windler,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300090,627,8,0,4,9:14 PM,3:16,,,SUB: Jeffries FOR Randle,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1629610,DaQuan Jeffries,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300090,634,2,1,4,9:15 PM,3:08,MISS Ryan 3PT Jump Shot,,,,,4,1630346,Matt Ryan,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,635,4,0,4,9:15 PM,3:05,,,Grimes REBOUND (Off:0 Def:1),,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,636,2,79,4,9:15 PM,3:00,,,MISS Grimes 25' 3PT Pullup Jump Shot,,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,637,4,0,4,9:15 PM,2:56,Daniels REBOUND (Off:0 Def:4),,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,638,6,2,4,9:16 PM,2:39,,,Windler S.FOUL (P1.PN) (S.Wright),,,5,1629685,Dylan Windler,1610612752.0,New York,Knicks,NYK,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300090,640,3,11,4,9:16 PM,2:39,MISS Daniels Free Throw 1 of 2,,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,641,4,1,4,9:16 PM,2:39,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300090,642,3,12,4,9:16 PM,2:39,MISS Daniels Free Throw 2 of 2,,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,643,4,0,4,9:16 PM,2:35,,,Jeffries REBOUND (Off:0 Def:1),,,5,1629610,DaQuan Jeffries,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,644,6,1,4,9:16 PM,2:28,Ryan P.FOUL (P3.T4) (T.Washington),,,,,4,1630346,Matt Ryan,1610612740.0,New Orleans,Pelicans,NOP,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300090,646,8,0,4,9:17 PM,2:28,SUB: Liddell FOR Daniels,,,,,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,4,1630604,E.J. Liddell,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300090,648,2,1,4,9:17 PM,2:23,,,MISS McBride 26' 3PT Jump Shot,,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,649,4,0,4,9:17 PM,2:23,Liddell REBOUND (Off:0 Def:1),,,,,4,1630604,E.J. Liddell,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,650,2,79,4,9:17 PM,2:02,MISS Hawkins 26' 3PT Pullup Jump Shot,,,,,4,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,651,4,0,4,9:17 PM,1:59,,,Sims REBOUND (Off:0 Def:1),,,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,652,2,1,4,9:17 PM,1:51,,,MISS McBride 3PT Jump Shot,,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,653,4,0,4,9:17 PM,1:48,Hawkins REBOUND (Off:0 Def:4),,,,,4,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,654,2,1,4,9:18 PM,1:41,MISS Hawkins 3PT Jump Shot,,,,,4,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,655,4,0,4,9:18 PM,1:38,,,Grimes REBOUND (Off:0 Def:2),,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,656,2,1,4,9:18 PM,1:32,,,MISS Grimes 19' Jump Shot,,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,657,4,0,4,9:18 PM,1:28,Liddell REBOUND (Off:0 Def:2),,,,,4,1630604,E.J. Liddell,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,658,2,1,4,9:18 PM,1:19,MISS Hawkins 26' 3PT Jump Shot,,,,,4,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,659,4,0,4,9:18 PM,1:15,,,Sims REBOUND (Off:0 Def:2),,,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,660,1,1,4,9:18 PM,1:08,,,Jeffries 3PT Jump Shot (3 PTS) (Windler 1 AST),80 - 96,16,5,1629610,DaQuan Jeffries,1610612752.0,New York,Knicks,NYK,5,1629685,Dylan Windler,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300090,662,2,1,4,9:19 PM,0:44,MISS Liddell 28' 3PT Jump Shot,,,,,4,1630604,E.J. Liddell,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,663,4,0,4,9:19 PM,0:44,,,Sims REBOUND (Off:0 Def:3),,,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,664,1,1,4,9:19 PM,0:29,,,Windler 28' 3PT Jump Shot (3 PTS) (Grimes 1 AST),83 - 96,13,5,1629685,Dylan Windler,1610612752.0,New York,Knicks,NYK,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300090,666,5,1,4,9:19 PM,0:26,Hawkins Bad Pass Turnover (P1.T13),,McBride STEAL (1 STL),,,4,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300090,668,1,41,4,9:19 PM,0:25,,,McBride Running Layup (2 PTS),85 - 96,11,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,670,2,1,4,9:20 PM,0:19,MISS Ryan 26' 3PT Jump Shot,,,,,4,1630346,Matt Ryan,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300090,671,4,0,4,9:20 PM,0:15,,,McBride REBOUND (Off:0 Def:1),,,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300090,672,1,6,4,9:20 PM,0:10,,,Jeffries 3' Driving Layup (5 PTS) (McBride 1 AST),87 - 96,9,5,1629610,DaQuan Jeffries,1610612752.0,New York,Knicks,NYK,5,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300090,673,13,0,4,9:20 PM,0:00,,End of 4th Period (9:20 PM EST),,87 - 96,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

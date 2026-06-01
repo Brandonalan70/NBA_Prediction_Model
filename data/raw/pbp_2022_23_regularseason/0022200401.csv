@@ -1,0 +1,458 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200401,2,12,0,1,7:12 PM,12:00,,Start of 1st Period (7:12 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200401,4,10,0,1,7:13 PM,12:00,Jump Ball Sengun vs. Lopez: Tip to G. Antetokounmpo,,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1
+0022200401,7,7,1,1,7:13 PM,12:00,,,Bucks Violation: Delay of game Violation,,,3,1610612749,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200401,8,7,1,1,7:13 PM,12:00,ROCKETS Violation: Delay of game Violation,,,,,2,1610612745,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200401,9,2,86,1,7:13 PM,11:36,,,MISS G. Antetokounmpo 9' Turnaround Fadeaway Shot,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,10,4,0,1,7:13 PM,11:34,Smith Jr. REBOUND (Off:0 Def:1),,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,11,2,79,1,7:13 PM,11:25,MISS Gordon 24' 3PT Pullup Jump Shot,,,,,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,12,4,0,1,7:13 PM,11:22,Smith Jr. REBOUND (Off:1 Def:1),,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,13,2,1,1,7:13 PM,11:19,MISS Smith Jr. 25' 3PT Jump Shot,,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,14,4,0,1,7:13 PM,11:18,,,Allen REBOUND (Off:0 Def:1),,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,15,1,9,1,7:13 PM,11:01,,,G. Antetokounmpo 2' Driving Dunk (2 PTS),2 - 0,-2,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,16,1,79,1,7:14 PM,10:33,Green 17' Pullup Jump Shot (2 PTS),,,2 - 2,TIE,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,17,1,1,1,7:14 PM,10:10,,,Allen 27' 3PT Jump Shot (3 PTS) (G. Antetokounmpo 1 AST),5 - 2,-3,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200401,19,5,1,1,7:14 PM,9:57,Porter Jr. Bad Pass Turnover (P1.T1),,G. Antetokounmpo STEAL (1 STL),,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200401,21,1,50,1,7:15 PM,9:53,,,G. Antetokounmpo 2' Running Dunk (4 PTS),7 - 2,-5,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,22,2,79,1,7:15 PM,9:40,MISS Green 27' 3PT Pullup Jump Shot,,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,23,4,0,1,7:15 PM,9:39,,,G. Antetokounmpo REBOUND (Off:0 Def:1),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,24,1,79,1,7:15 PM,9:29,,,Holiday 26' 3PT Pullup Jump Shot (3 PTS) (G. Antetokounmpo 2 AST),10 - 2,-8,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200401,26,2,101,1,7:15 PM,9:14,MISS Porter Jr. 12' Driving Floating Jump Shot,,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,27,4,0,1,7:15 PM,9:12,,,Lopez REBOUND (Off:0 Def:1),,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,28,2,1,1,7:15 PM,9:07,,,MISS Allen 3PT Jump Shot,,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,29,4,0,1,7:15 PM,9:05,,,Lopez REBOUND (Off:1 Def:1),,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,30,2,75,1,7:16 PM,8:51,,,MISS Holiday 8' Driving Finger Roll Layup,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,31,4,0,1,7:16 PM,8:51,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200401,32,5,11,1,7:16 PM,8:51,,,Bucks Turnover: Shot Clock (T#1),,,3,1610612749,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200401,33,1,98,1,7:16 PM,8:33,Sengun 2' Cutting Layup Shot (2 PTS) (Porter Jr. 1 AST),,,10 - 4,-6,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200401,35,2,79,1,7:16 PM,8:21,,,MISS Holiday 18' Pullup Jump Shot,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,36,4,0,1,7:16 PM,8:20,Sengun REBOUND (Off:0 Def:1),,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,37,2,57,1,7:17 PM,8:11,MISS Sengun 8' Driving Hook Shot,,Lopez BLOCK (1 BLK),,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,1
+0022200401,38,4,0,1,7:17 PM,8:10,,,G. Antetokounmpo REBOUND (Off:0 Def:2),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,39,2,79,1,7:17 PM,8:03,,,MISS G. Antetokounmpo 26' 3PT Pullup Jump Shot,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,40,4,0,1,7:17 PM,8:02,Sengun REBOUND (Off:0 Def:2),,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,41,5,2,1,7:17 PM,7:54,Porter Jr. Lost Ball Turnover (P2.T2),,Holiday STEAL (1 STL),,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200401,43,1,50,1,7:17 PM,7:49,,,G. Antetokounmpo 2' Running Dunk (6 PTS),12 - 4,-8,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,44,9,1,1,7:17 PM,7:49,ROCKETS Timeout: Regular (Full 1 Short 0),,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200401,46,8,0,1,7:19 PM,7:49,,,SUB: Portis FOR Lopez,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200401,48,1,6,1,7:20 PM,7:27,Green 2' Driving Layup (4 PTS) (Porter Jr. 2 AST),,,12 - 6,-6,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200401,49,6,2,1,7:21 PM,7:04,Smith Jr. S.FOUL (P1.T1) (J.Goble),,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200401,51,3,11,1,7:21 PM,7:04,,,Holiday Free Throw 1 of 2 (4 PTS),13 - 6,-7,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0022200401,52,8,0,1,7:21 PM,7:04,,,SUB: Carter FOR Middleton,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200401,55,3,12,1,7:21 PM,7:04,,,Holiday Free Throw 2 of 2 (5 PTS),14 - 6,-8,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0022200401,56,1,79,1,7:22 PM,6:52,Green 18' Pullup Jump Shot (6 PTS),,,14 - 8,-6,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,58,2,1,1,7:22 PM,6:37,,,MISS Portis 27' 3PT Jump Shot,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,59,4,0,1,7:22 PM,6:36,Sengun REBOUND (Off:0 Def:3),,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,60,5,4,1,7:22 PM,6:24,Sengun Traveling Turnover (P1.T3),,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200401,61,8,0,1,7:22 PM,6:24,,,SUB: Connaughton FOR Allen,,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200401,63,2,86,1,7:23 PM,6:10,,,MISS G. Antetokounmpo 13' Turnaround Fadeaway Shot,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,64,4,0,1,7:23 PM,6:09,Green REBOUND (Off:0 Def:1),,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,65,6,1,1,7:23 PM,6:01,,,Portis P.FOUL (P1.T1) (J.Goble),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200401,67,8,0,1,7:23 PM,6:01,SUB: Garuba FOR Gordon,,,,,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200401,68,8,0,1,7:23 PM,6:01,SUB: Martin Jr. FOR Sengun,,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200401,69,8,0,1,7:23 PM,6:01,,,SUB: Lopez FOR G. Antetokounmpo,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200401,73,2,1,1,7:23 PM,5:53,MISS Smith Jr. 25' 3PT Jump Shot,,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,74,4,0,1,7:23 PM,5:52,,,Carter REBOUND (Off:0 Def:1),,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,75,1,58,1,7:24 PM,5:39,,,Portis 8' Turnaround Hook Shot (2 PTS),16 - 8,-8,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,76,2,79,1,7:24 PM,5:16,MISS Smith Jr. 20' Pullup Jump Shot,,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,77,4,0,1,7:24 PM,5:14,,,Portis REBOUND (Off:0 Def:1),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,78,2,1,1,7:24 PM,5:04,,,MISS Connaughton 3PT Jump Shot,,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,79,4,0,1,7:24 PM,5:03,,,Portis REBOUND (Off:1 Def:1),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,80,2,5,1,7:24 PM,5:00,Garuba BLOCK (1 BLK),,MISS Portis 4' Layup,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,1
+0022200401,82,4,0,1,7:24 PM,5:00,,,Portis REBOUND (Off:2 Def:1),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,83,2,43,1,7:24 PM,4:53,,,MISS Lopez 4' Alley Oop Layup,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,84,4,0,1,7:24 PM,4:52,Smith Jr. REBOUND (Off:1 Def:2),,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,85,1,79,1,7:25 PM,4:44,Porter Jr. 12' Pullup Jump Shot (2 PTS),,,16 - 10,-6,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,86,6,1,1,7:25 PM,4:32,Porter Jr. P.FOUL (P1.T2) (J.Butler),,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200401,88,5,1,1,7:25 PM,4:25,Martin Jr. STEAL (1 STL),,Holiday Bad Pass Turnover (P1.T2),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200401,90,1,50,1,7:25 PM,4:20,Green 1' Running Dunk (8 PTS) (Martin Jr. 1 AST),,,16 - 12,-4,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200401,92,1,1,1,7:26 PM,4:01,,,Holiday 24' 3PT Jump Shot (8 PTS) (Portis 1 AST),19 - 12,-7,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200401,94,2,79,1,7:26 PM,3:47,MISS Porter Jr. 26' 3PT Pullup Jump Shot,,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,95,4,0,1,7:26 PM,3:45,,,Portis REBOUND (Off:2 Def:2),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,97,9,1,1,7:26 PM,3:33,,,Bucks Timeout: Regular (Reg.1 Short 0),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200401,98,8,0,1,7:28 PM,3:33,SUB: Nix FOR Smith Jr.,,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200401,99,8,0,1,7:28 PM,3:33,SUB: Eason FOR Porter Jr.,,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200401,102,2,1,1,7:29 PM,3:24,,,MISS Lopez 21' Jump Shot,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,103,4,0,1,7:29 PM,3:23,Green REBOUND (Off:0 Def:2),,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,104,2,1,1,7:30 PM,3:08,MISS Martin Jr. 26' 3PT Jump Shot,,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,105,4,0,1,7:30 PM,3:07,,,Portis REBOUND (Off:2 Def:3),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,106,1,41,1,7:30 PM,3:01,,,Holiday 1' Running Layup (10 PTS),21 - 12,-9,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,107,2,79,1,7:30 PM,2:44,MISS Eason 15' Pullup Jump Shot,,,,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,108,4,0,1,7:30 PM,2:43,,,Portis REBOUND (Off:2 Def:4),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,109,2,1,1,7:30 PM,2:28,,,MISS Connaughton 3PT Jump Shot,,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,110,4,0,1,7:30 PM,2:26,Martin Jr. REBOUND (Off:0 Def:1),,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,111,2,9,1,7:30 PM,2:18,MISS Martin Jr. 3' Driving Dunk,,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,112,4,0,1,7:30 PM,2:16,,,Portis REBOUND (Off:2 Def:5),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,113,2,1,1,7:31 PM,2:10,,,MISS Holiday 26' 3PT Jump Shot,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,114,4,0,1,7:31 PM,2:08,Garuba REBOUND (Off:0 Def:1),,,,,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,115,1,80,1,7:31 PM,1:58,Green 24' 3PT Step Back Jump Shot (11 PTS) (Nix 1 AST),,,21 - 15,-6,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200401,117,1,98,1,7:31 PM,1:43,,,Connaughton 3' Cutting Layup Shot (2 PTS) (Holiday 1 AST),23 - 15,-8,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200401,119,1,108,1,7:31 PM,1:28,Martin Jr. 2' Cutting Dunk Shot (2 PTS) (Green 1 AST),,,23 - 17,-6,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200401,121,2,86,1,7:32 PM,1:02,,,MISS Holiday 16' Turnaround Fadeaway Shot,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,122,4,0,1,7:32 PM,1:00,Garuba REBOUND (Off:0 Def:2),,,,,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,123,2,1,1,7:32 PM,0:49,MISS Garuba 26' 3PT Jump Shot,,,,,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,124,4,0,1,7:32 PM,0:48,,,Holiday REBOUND (Off:0 Def:1),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,125,2,1,1,7:32 PM,0:31,,,MISS Carter 24' 3PT Jump Shot,,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,126,4,0,1,7:32 PM,0:30,,,Portis REBOUND (Off:3 Def:5),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,127,1,7,1,7:32 PM,0:18,,,Portis 2' Dunk (4 PTS) (Holiday 2 AST),25 - 17,-8,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200401,129,1,57,1,7:33 PM,0:00,Martin Jr. 6' Driving Hook Shot (4 PTS) (Nix 2 AST),,,25 - 19,-6,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200401,131,13,0,1,7:33 PM,0:00,,End of 1st Period (7:33 PM EST),,25 - 19,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200401,148,12,0,2,7:36 PM,12:00,,Start of 2nd Period (7:36 PM EST),,25 - 19,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200401,149,1,80,2,7:36 PM,11:42,Mathews 25' 3PT Step Back Jump Shot (3 PTS) (Nix 3 AST),,,25 - 22,-3,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200401,151,2,1,2,7:36 PM,11:26,,,MISS Allen 27' 3PT Jump Shot,,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,152,4,0,2,7:36 PM,11:24,Mathews REBOUND (Off:0 Def:1),,,,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,153,2,1,2,7:36 PM,11:18,MISS Mathews 30' 3PT Jump Shot,,,,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,154,4,0,2,7:36 PM,11:17,,,G. Antetokounmpo REBOUND (Off:0 Def:3),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,155,2,1,2,7:36 PM,11:08,,,MISS Middleton 3PT Jump Shot,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,156,4,0,2,7:36 PM,11:07,Gordon REBOUND (Off:0 Def:1),,,,,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,157,1,101,2,7:37 PM,11:00,Smith Jr. 5' Driving Floating Jump Shot (2 PTS) (Gordon 1 AST),,,25 - 24,-1,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200401,159,2,79,2,7:37 PM,10:39,,,MISS Middleton 27' 3PT Pullup Jump Shot,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,160,4,0,2,7:37 PM,10:38,Smith Jr. REBOUND (Off:1 Def:3),,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,161,6,1,2,7:37 PM,10:27,,,G. Antetokounmpo P.FOUL (P1.T1) (E.Dalen),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200401,163,8,0,2,7:37 PM,10:27,,,SUB: Nwora FOR Middleton,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200401,165,2,79,2,7:38 PM,10:23,MISS Smith Jr. 13' Pullup Jump Shot,,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,166,4,0,2,7:38 PM,10:20,Sengun REBOUND (Off:1 Def:3),,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,167,2,1,2,7:38 PM,10:17,MISS Nix 25' 3PT Jump Shot,,,,,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,168,4,0,2,7:38 PM,10:15,,,G. Antetokounmpo REBOUND (Off:0 Def:4),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,169,5,2,2,7:38 PM,10:05,Nix STEAL (1 STL),,G. Antetokounmpo Lost Ball Turnover (P1.T3),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200401,171,1,41,2,7:38 PM,10:00,Nix 1' Running Layup (2 PTS) (Smith Jr. 1 AST),,,25 - 26,1,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200401,172,1,9,2,7:38 PM,9:44,,,G. Antetokounmpo 3' Driving Dunk (8 PTS) (Hill 1 AST),27 - 26,-1,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200401,174,1,101,2,7:38 PM,9:32,Gordon 4' Driving Floating Jump Shot (2 PTS) (Nix 4 AST),,,27 - 28,1,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200401,176,2,6,2,7:39 PM,9:19,Sengun BLOCK (1 BLK),,MISS Allen 4' Driving Layup,,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1
+0022200401,178,4,0,2,7:39 PM,9:18,,,Portis REBOUND (Off:4 Def:5),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,179,1,72,2,7:39 PM,9:14,,,Portis 2' Putback Layup (6 PTS),29 - 28,-1,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,180,5,4,2,7:39 PM,9:08,Smith Jr. Traveling Turnover (P1.T4),,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200401,181,8,0,2,7:39 PM,9:08,,,SUB: Lopez FOR Portis,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200401,183,8,0,2,7:39 PM,9:08,SUB: Porter Jr. FOR Nix,,,,,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200401,186,2,1,2,7:39 PM,8:50,,,MISS Lopez 27' 3PT Jump Shot,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,187,4,0,2,7:39 PM,8:49,,,Nwora REBOUND (Off:1 Def:0),,,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,188,6,2,2,7:40 PM,8:39,Porter Jr. S.FOUL (P2.T1) (J.Goble),,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200401,190,3,11,2,7:40 PM,8:39,,,Allen Free Throw 1 of 2 (4 PTS),30 - 28,-2,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0022200401,191,3,12,2,7:40 PM,8:39,,,Allen Free Throw 2 of 2 (5 PTS),31 - 28,-3,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0022200401,192,1,102,2,7:41 PM,8:26,Gordon 9' Driving Floating Bank Jump Shot (4 PTS),,,31 - 30,-1,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,193,2,79,2,7:41 PM,8:08,,,MISS Allen 27' 3PT Pullup Jump Shot,,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,194,4,0,2,7:41 PM,8:07,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200401,195,6,3,2,7:41 PM,8:07,,,Lopez L.B.FOUL (P1.T2) (E.Dalen),,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200401,197,8,0,2,7:41 PM,8:07,SUB: Fernando FOR Sengun,,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200401,199,1,63,2,7:41 PM,7:52,Porter Jr. 13' Fadeaway Jumper (4 PTS),,,31 - 32,1,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,200,2,1,2,7:42 PM,7:25,,,MISS Nwora 3PT Jump Shot,,,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,201,4,0,2,7:42 PM,7:24,Fernando REBOUND (Off:0 Def:1),,,,,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,202,1,101,2,7:42 PM,7:15,Gordon 11' Driving Floating Jump Shot (6 PTS),,,31 - 34,3,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,203,9,1,2,7:42 PM,7:15,,,Bucks Timeout: Regular (Reg.2 Short 0),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200401,204,8,0,2,7:45 PM,7:15,SUB: Eason FOR Smith Jr.,,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200401,206,1,80,2,7:45 PM,6:58,,,Allen 27' 3PT Step Back Jump Shot (8 PTS) (G. Antetokounmpo 3 AST),34 - 34,TIE,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200401,208,2,63,2,7:46 PM,6:40,MISS Porter Jr. 13' Fadeaway Jumper,,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,209,4,0,2,7:46 PM,6:38,Fernando REBOUND (Off:1 Def:1),,,,,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,210,1,1,2,7:46 PM,6:37,Mathews 21' Jump Shot (5 PTS) (Fernando 1 AST),,,34 - 36,2,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200401,212,2,101,2,7:46 PM,6:21,Fernando BLOCK (1 BLK),,MISS Allen 3' Driving Floating Jump Shot,,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,1
+0022200401,213,4,0,2,7:46 PM,6:20,Gordon REBOUND (Off:0 Def:2),,,,,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,214,2,58,2,7:46 PM,6:12,MISS Fernando 5' Turnaround Hook Shot,,,,,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,215,4,0,2,7:46 PM,6:08,,,G. Antetokounmpo REBOUND (Off:0 Def:5),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,217,5,2,2,7:46 PM,5:59,Gordon STEAL (1 STL),,Nwora Lost Ball Turnover (P1.T4),,,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200401,219,1,41,2,7:46 PM,5:53,Porter Jr. 3' Running Layup (6 PTS),,,34 - 38,4,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,220,2,79,2,7:47 PM,5:30,,,MISS Allen 26' 3PT Pullup Jump Shot,,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,221,4,0,2,7:47 PM,5:28,Fernando REBOUND (Off:1 Def:2),,,,,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,222,2,98,2,7:47 PM,5:18,MISS Fernando 3' Cutting Layup Shot,,,,,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,224,4,0,2,7:47 PM,5:16,,,Hill REBOUND (Off:0 Def:1),,,5,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,225,6,1,2,7:47 PM,5:13,Eason P.FOUL (P1.T2) (E.Dalen),,,,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200401,227,8,0,2,7:47 PM,5:13,,,SUB: Carter FOR Hill,,,5,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200401,228,8,0,2,7:47 PM,5:13,,,SUB: Holiday FOR Allen,,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200401,229,8,0,2,7:47 PM,5:13,,,SUB: Connaughton FOR Nwora,,,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200401,235,8,0,2,7:47 PM,5:13,SUB: Green FOR Mathews,,,,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200401,233,2,1,2,7:48 PM,5:07,,,MISS Lopez 28' 3PT Jump Shot,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,234,4,0,2,7:48 PM,5:06,Gordon REBOUND (Off:0 Def:3),,,,,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,237,5,1,2,7:48 PM,4:54,Gordon Bad Pass Turnover (P1.T5),,Connaughton STEAL (1 STL),,,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200401,239,5,2,2,7:48 PM,4:47,Eason STEAL (1 STL),,G. Antetokounmpo Lost Ball Turnover (P2.T5),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200401,241,2,1,2,7:48 PM,4:31,MISS Gordon 30' 3PT Jump Shot,,,,,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,242,4,0,2,7:48 PM,4:30,,,G. Antetokounmpo REBOUND (Off:0 Def:6),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,243,1,80,2,7:48 PM,4:21,,,Holiday 26' 3PT Step Back Jump Shot (13 PTS),37 - 38,1,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,244,9,1,2,7:49 PM,4:19,ROCKETS Timeout: Regular (Full 2 Short 0),,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200401,246,8,0,2,7:51 PM,4:19,SUB: Martin Jr. FOR Gordon,,,,,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200401,247,8,0,2,7:51 PM,4:19,,,SUB: Portis FOR Lopez,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200401,251,1,52,2,7:52 PM,4:03,Fernando 1' Alley Oop Dunk (2 PTS) (Porter Jr. 3 AST),,,37 - 40,3,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200401,253,2,80,2,7:52 PM,3:44,,,MISS Holiday 26' 3PT Step Back Jump Shot,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,254,4,0,2,7:52 PM,3:42,Fernando REBOUND (Off:1 Def:3),,,,,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,255,1,6,2,7:52 PM,3:34,Porter Jr. 4' Driving Layup (8 PTS),,,37 - 42,5,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,256,1,5,2,7:52 PM,3:19,,,Portis 3' Layup (8 PTS),39 - 42,3,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,257,2,79,2,7:53 PM,3:02,MISS Green 15' Pullup Jump Shot,,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,258,4,0,2,7:53 PM,3:01,,,Portis REBOUND (Off:4 Def:6),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,259,1,6,2,7:53 PM,2:55,,,G. Antetokounmpo 7' Driving Layup (10 PTS) (Carter 1 AST),41 - 42,1,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200401,261,6,2,2,7:53 PM,2:55,Fernando S.FOUL (P1.T3) (J.Butler),,,,,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200401,263,8,0,2,7:53 PM,2:55,SUB: Smith Jr. FOR Fernando,,,,,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200401,264,8,0,2,7:53 PM,2:55,SUB: Sengun FOR Eason,,,,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200401,267,3,10,2,7:53 PM,2:55,,,G. Antetokounmpo Free Throw 1 of 1 (11 PTS),42 - 42,TIE,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0022200401,268,2,75,2,7:54 PM,2:36,MISS Porter Jr. 3' Driving Finger Roll Layup,,G. Antetokounmpo BLOCK (1 BLK),,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1
+0022200401,270,4,0,2,7:54 PM,2:35,,,Portis REBOUND (Off:4 Def:7),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,271,2,41,2,7:54 PM,2:29,,,MISS G. Antetokounmpo 4' Running Layup,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,272,4,0,2,7:54 PM,2:27,Green REBOUND (Off:0 Def:3),,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,273,2,44,2,7:54 PM,2:22,MISS Green 3' Reverse Layup,,Carter BLOCK (1 BLK),,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,1
+0022200401,275,4,0,2,7:54 PM,2:22,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200401,277,1,43,2,7:55 PM,2:13,Martin Jr. 6' Alley Oop Layup (6 PTS) (Green 2 AST),,,42 - 44,2,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200401,279,5,4,2,7:55 PM,2:00,,,G. Antetokounmpo Traveling Turnover (P3.T6),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0022200401,280,1,52,2,7:55 PM,1:48,Martin Jr. 1' Alley Oop Dunk (8 PTS) (Porter Jr. 4 AST),,,42 - 46,4,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200401,282,2,98,2,7:55 PM,1:30,Martin Jr. BLOCK (1 BLK),,MISS Connaughton 7' Cutting Layup Shot,,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,1
+0022200401,284,4,0,2,7:55 PM,1:28,Sengun REBOUND (Off:1 Def:4),,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,285,1,50,2,7:56 PM,1:27,Green 1' Running Dunk (13 PTS) (Sengun 1 AST),,,42 - 48,6,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200401,287,1,1,2,7:56 PM,1:08,,,Holiday 26' 3PT Jump Shot (16 PTS) (G. Antetokounmpo 4 AST),45 - 48,3,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200401,289,6,4,2,7:56 PM,0:58,Martin Jr. OFF.Foul (P1) (J.Butler),,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200401,291,5,37,2,7:56 PM,0:58,Martin Jr. Offensive Foul Turnover (P1.T6),,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200401,292,8,0,2,7:56 PM,0:58,,,SUB: Allen FOR Connaughton,,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200401,294,6,2,2,7:57 PM,0:50,Smith Jr. S.FOUL (P2.T4) (E.Dalen),,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200401,296,3,11,2,7:57 PM,0:50,,,MISS G. Antetokounmpo Free Throw 1 of 2,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0022200401,297,4,1,2,7:57 PM,0:50,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200401,298,3,12,2,7:57 PM,0:50,,,MISS G. Antetokounmpo Free Throw 2 of 2,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0022200401,299,4,0,2,7:57 PM,0:50,,,Allen REBOUND (Off:1 Def:1),,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,300,1,1,2,7:58 PM,0:40,,,Portis 3PT Jump Shot (11 PTS) (Holiday 3 AST),48 - 48,TIE,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200401,302,1,51,2,7:58 PM,0:30,Sengun 2' Reverse Dunk (4 PTS),,,48 - 50,2,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,303,2,79,2,7:58 PM,0:12,,,MISS Holiday 27' 3PT Pullup Jump Shot,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,304,4,0,2,7:58 PM,0:10,,,Carter REBOUND (Off:1 Def:1),,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,305,2,76,2,7:59 PM,0:02,Porter Jr. BLOCK (1 BLK),,MISS Holiday 8' Running Finger Roll Layup,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,1
+0022200401,307,4,0,2,7:59 PM,0:02,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200401,308,2,79,2,7:59 PM,0:00,,,MISS G. Antetokounmpo 20' Pullup Jump Shot,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,309,4,0,2,7:59 PM,0:00,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200401,310,13,0,2,7:59 PM,0:00,,End of 2nd Period (7:59 PM EST),,48 - 50,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200401,316,12,0,3,8:14 PM,12:00,,Start of 3rd Period (8:14 PM EST),,48 - 50,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200401,317,2,1,3,8:15 PM,11:47,MISS Smith Jr. 27' 3PT Jump Shot,,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,318,4,0,3,8:15 PM,11:45,,,Holiday REBOUND (Off:0 Def:2),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,320,1,85,3,8:15 PM,11:31,,,G. Antetokounmpo 5' Turnaround Bank Shot (13 PTS),50 - 50,TIE,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,321,1,101,3,8:15 PM,11:16,Green 17' Driving Floating Jump Shot (15 PTS) (Sengun 2 AST),,,50 - 52,2,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200401,323,1,1,3,8:16 PM,11:02,,,Lopez 24' 3PT Jump Shot (3 PTS) (Holiday 4 AST),53 - 52,-1,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200401,325,2,1,3,8:16 PM,10:42,MISS Porter Jr. 3PT Jump Shot,,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,326,4,0,3,8:16 PM,10:41,,,G. Antetokounmpo REBOUND (Off:0 Def:7),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,327,1,57,3,8:16 PM,10:26,,,Holiday 6' Driving Hook Shot (18 PTS),55 - 52,-3,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,329,1,1,3,8:17 PM,10:16,Green 26' 3PT Jump Shot (18 PTS) (Porter Jr. 5 AST),,,55 - 55,TIE,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200401,331,5,1,3,8:17 PM,10:04,Smith Jr. STEAL (1 STL),,Allen Bad Pass Turnover (P1.T7),,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200401,333,1,106,3,8:17 PM,10:00,Porter Jr. 2' Running Alley Oop Dunk Shot (10 PTS) (Green 3 AST),,,55 - 57,2,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200401,335,2,6,3,8:17 PM,9:53,Smith Jr. BLOCK (1 BLK),,MISS G. Antetokounmpo 5' Driving Layup,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,1
+0022200401,337,4,0,3,8:17 PM,9:52,Sengun REBOUND (Off:1 Def:5),,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,338,1,108,3,8:17 PM,9:43,Porter Jr. 2' Cutting Dunk Shot (12 PTS) (Smith Jr. 2 AST),,,55 - 59,4,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200401,340,9,1,3,8:17 PM,9:43,,,Bucks Timeout: Regular (Reg.3 Short 0),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200401,341,1,1,3,8:20 PM,9:32,,,Carter 26' 3PT Jump Shot (3 PTS) (Holiday 5 AST),58 - 59,1,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200401,343,2,6,3,8:21 PM,9:10,MISS Green 4' Driving Layup,,Lopez BLOCK (2 BLK),,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,1
+0022200401,345,4,0,3,8:21 PM,9:08,,,G. Antetokounmpo REBOUND (Off:0 Def:8),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,346,2,2,3,8:21 PM,9:05,,,MISS Allen 26' 3PT Running Jump Shot,,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,347,4,0,3,8:21 PM,9:05,Porter Jr. REBOUND (Off:0 Def:1),,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,348,1,58,3,8:21 PM,8:50,Sengun 7' Turnaround Hook Shot (6 PTS),,,58 - 61,3,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,349,1,52,3,8:21 PM,8:34,,,Lopez 2' Alley Oop Dunk (5 PTS) (Holiday 6 AST),60 - 61,1,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200401,351,2,79,3,8:21 PM,8:23,MISS Porter Jr. 16' Pullup Jump Shot,,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,352,4,0,3,8:21 PM,8:22,,,G. Antetokounmpo REBOUND (Off:0 Def:9),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,353,2,6,3,8:22 PM,8:05,,,MISS G. Antetokounmpo 5' Driving Layup,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,355,4,0,3,8:22 PM,8:03,Green REBOUND (Off:0 Def:4),,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,356,6,2,3,8:22 PM,7:59,,,Carter S.FOUL (P1.T1) (J.Goble),,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200401,358,3,11,3,8:22 PM,7:59,Smith Jr. Free Throw 1 of 2 (3 PTS),,,60 - 62,2,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0022200401,359,3,12,3,8:23 PM,7:59,Smith Jr. Free Throw 2 of 2 (4 PTS),,,60 - 63,3,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0022200401,360,2,1,3,8:23 PM,7:44,,,MISS Lopez 26' 3PT Jump Shot,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,361,4,0,3,8:23 PM,7:42,Smith Jr. REBOUND (Off:1 Def:4),,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,362,6,1,3,8:23 PM,7:32,,,G. Antetokounmpo P.FOUL (P2.T2) (E.Dalen),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200401,364,8,0,3,8:24 PM,7:32,,,SUB: Portis FOR Lopez,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200401,366,5,4,3,8:24 PM,7:25,Smith Jr. Traveling Turnover (P2.T7),,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200401,367,2,1,3,8:24 PM,7:09,,,MISS Portis 3PT Jump Shot,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,368,4,0,3,8:24 PM,7:08,Sengun REBOUND (Off:1 Def:6),,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,369,2,79,3,8:25 PM,6:55,MISS Smith Jr. 13' Pullup Jump Shot,,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,370,4,0,3,8:25 PM,6:53,Sengun REBOUND (Off:2 Def:6),,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,371,2,44,3,8:25 PM,6:47,MISS Sengun 4' Reverse Layup,,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,372,4,0,3,8:25 PM,6:47,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200401,374,8,0,3,8:25 PM,6:47,SUB: Garuba FOR Gordon,,,,,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200401,375,8,0,3,8:25 PM,6:47,SUB: Martin Jr. FOR Sengun,,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200401,376,8,0,3,8:25 PM,6:47,,,SUB: Connaughton FOR Allen,,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200401,380,2,1,3,8:25 PM,6:33,MISS Garuba 3PT Jump Shot,,,,,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,381,4,0,3,8:25 PM,6:31,,,Holiday REBOUND (Off:0 Def:3),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,382,1,86,3,8:26 PM,6:19,,,Holiday 12' Turnaround Fadeaway (20 PTS),62 - 63,1,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,383,2,80,3,8:26 PM,6:03,MISS Green 26' 3PT Step Back Jump Shot,,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,384,4,0,3,8:26 PM,6:02,,,G. Antetokounmpo REBOUND (Off:0 Def:10),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,385,2,1,3,8:26 PM,5:50,,,MISS Portis 24' 3PT Jump Shot,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,386,4,0,3,8:26 PM,5:47,Porter Jr. REBOUND (Off:0 Def:2),,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,387,2,44,3,8:26 PM,5:40,MISS Green 2' Reverse Layup,,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,388,4,0,3,8:26 PM,5:38,Smith Jr. REBOUND (Off:2 Def:4),,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,389,1,5,3,8:27 PM,5:28,Garuba 3' Layup (2 PTS) (Porter Jr. 6 AST),,,62 - 65,3,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200401,391,1,101,3,8:27 PM,5:13,,,Holiday 6' Driving Floating Jump Shot (22 PTS),64 - 65,1,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,393,6,3,3,8:27 PM,5:13,,,G. Antetokounmpo L.B.FOUL (P3.T3) (J.Butler),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200401,406,8,0,3,8:27 PM,5:13,SUB: Eason FOR Smith Jr.,,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200401,408,8,0,3,8:27 PM,5:13,,,SUB: Lopez FOR G. Antetokounmpo,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200401,395,5,2,3,8:28 PM,4:52,Green Lost Ball Turnover (P1.T8),,Holiday STEAL (2 STL),,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200401,397,1,103,3,8:28 PM,4:48,,,Carter 25' 3PT Running Pull-Up Jump Shot (6 PTS) (Holiday 7 AST),67 - 65,-2,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200401,399,1,78,3,8:28 PM,4:25,Porter Jr. 7' Floating Jump Shot (14 PTS),,,67 - 67,TIE,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,400,1,1,3,8:28 PM,4:16,,,Connaughton 26' 3PT Jump Shot (5 PTS) (Holiday 8 AST),70 - 67,-3,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200401,402,5,45,3,8:29 PM,4:04,Porter Jr. Out of Bounds - Bad Pass Turnover Turnover (P3.T9),,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200401,405,9,1,3,8:29 PM,4:04,ROCKETS Timeout: Regular (Full 3 Short 0),,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200401,412,8,0,3,8:31 PM,4:04,SUB: Gordon FOR Porter Jr.,,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200401,413,8,0,3,8:31 PM,4:04,SUB: Nix FOR Green,,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200401,414,8,0,3,8:31 PM,4:04,,,SUB: Hill FOR Carter,,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,5,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200401,418,2,80,3,8:32 PM,3:50,,,MISS Holiday 25' 3PT Step Back Jump Shot,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,419,4,0,3,8:32 PM,3:50,,,Connaughton REBOUND (Off:1 Def:0),,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,420,5,1,3,8:32 PM,3:44,Eason STEAL (2 STL),,Connaughton Bad Pass Turnover (P1.T8),,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200401,422,2,80,3,8:32 PM,3:26,MISS Gordon 3PT Step Back Jump Shot,,,,,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,423,4,0,3,8:32 PM,3:24,,,Portis REBOUND (Off:4 Def:8),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,424,6,1,3,8:32 PM,3:22,Eason P.FOUL (P2.T1) (J.Goble),,,,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200401,426,2,75,3,8:33 PM,3:05,,,MISS Holiday 6' Driving Finger Roll Layup,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,427,4,0,3,8:33 PM,3:03,Eason REBOUND (Off:0 Def:1),,,,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,428,1,80,3,8:33 PM,2:51,Nix 26' 3PT Step Back Jump Shot (5 PTS),,,70 - 70,TIE,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,429,1,80,3,8:34 PM,2:35,,,Holiday 15' Step Back Jump Shot (24 PTS),72 - 70,-2,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,430,2,58,3,8:34 PM,2:21,MISS Martin Jr. 6' Turnaround Hook Shot,,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,431,4,0,3,8:34 PM,2:19,Martin Jr. REBOUND (Off:1 Def:1),,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,432,1,87,3,8:34 PM,2:18,Martin Jr. 2' Putback Dunk (10 PTS),,,72 - 72,TIE,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,434,6,18,3,8:34 PM,2:16,ROCKETS Delay,,,,,2,1610612745,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200401,435,3,16,3,8:34 PM,2:16,,,Holiday Free Throw Technical (25 PTS),73 - 72,-1,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0022200401,436,8,0,3,8:34 PM,2:16,SUB: Sengun FOR Garuba,,,,,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200401,438,2,101,3,8:35 PM,1:57,,,MISS Holiday 9' Driving Floating Jump Shot,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,439,4,0,3,8:35 PM,1:55,,,Lopez REBOUND (Off:2 Def:1),,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,440,2,97,3,8:35 PM,1:53,,,MISS Lopez Tip Layup Shot,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,441,4,0,3,8:35 PM,1:52,Martin Jr. REBOUND (Off:1 Def:2),,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,442,2,78,3,8:35 PM,1:44,MISS Sengun 8' Floating Jump Shot,,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,443,4,0,3,8:35 PM,1:43,,,Connaughton REBOUND (Off:1 Def:1),,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,444,2,5,3,8:35 PM,1:33,,,MISS Portis 2' Layup,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,445,4,0,3,8:35 PM,1:32,,,Portis REBOUND (Off:5 Def:8),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,475,2,72,3,8:35 PM,1:29,,,MISS Portis 2' Putback Layup,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,476,4,0,3,8:35 PM,1:29,,,Portis REBOUND (Off:6 Def:8),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,446,1,72,3,8:35 PM,1:29,,,Portis 1' Putback Layup (13 PTS),75 - 72,-3,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,447,2,9,3,8:36 PM,1:10,MISS Eason 4' Driving Dunk,,Lopez BLOCK (3 BLK),,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,1
+0022200401,449,4,0,3,8:36 PM,1:08,,,Holiday REBOUND (Off:0 Def:4),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,450,1,41,3,8:36 PM,1:03,,,Connaughton 2' Running Layup (7 PTS) (Portis 2 AST),77 - 72,-5,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200401,452,2,58,3,8:36 PM,0:46,MISS Sengun 5' Turnaround Hook Shot,,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,453,4,0,3,8:36 PM,0:45,,,Portis REBOUND (Off:6 Def:9),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,454,2,80,3,8:36 PM,0:31,,,MISS Holiday 27' 3PT Step Back Jump Shot,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,455,4,0,3,8:36 PM,0:30,Nix REBOUND (Off:0 Def:1),,,,,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,456,1,7,3,8:37 PM,0:05,Sengun 4' Dunk (8 PTS),,,77 - 74,-3,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,457,6,2,3,8:37 PM,0:02,Eason S.FOUL (P3.T2) (E.Dalen),,,,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200401,459,3,11,3,8:37 PM,0:02,,,Portis Free Throw 1 of 2 (14 PTS),78 - 74,-4,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0022200401,464,3,12,3,8:37 PM,0:02,,,Portis Free Throw 2 of 2 (15 PTS),79 - 74,-5,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0022200401,460,8,0,3,8:37 PM,0:02,SUB: Mathews FOR Martin Jr.,,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200401,461,8,0,3,8:37 PM,0:02,,,SUB: Carter FOR Holiday,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200401,465,2,79,3,8:38 PM,0:01,MISS Nix 50' 3PT Pullup Jump Shot,,,,,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,466,4,0,3,8:38 PM,0:00,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200401,467,13,0,3,8:38 PM,0:00,,End of 3rd Period (8:38 PM EST),,79 - 74,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200401,474,12,0,4,8:41 PM,12:00,,Start of 4th Period (8:41 PM EST),,79 - 74,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200401,478,2,1,4,8:41 PM,11:39,Mathews BLOCK (1 BLK),,MISS Connaughton 3PT Jump Shot,,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,1
+0022200401,480,4,0,4,8:41 PM,11:37,Smith Jr. REBOUND (Off:2 Def:5),,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,481,2,58,4,8:42 PM,11:24,MISS Sengun 11' Turnaround Hook Shot,,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,482,4,0,4,8:42 PM,11:24,,,G. Antetokounmpo REBOUND (Off:0 Def:11),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,483,1,1,4,8:42 PM,11:10,,,Portis 18' Jump Shot (17 PTS) (Connaughton 1 AST),81 - 74,-7,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200401,485,2,79,4,8:42 PM,10:43,MISS Gordon 26' 3PT Pullup Jump Shot,,,,,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,486,4,0,4,8:42 PM,10:41,,,Hill REBOUND (Off:0 Def:2),,,5,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,487,2,1,4,8:42 PM,10:35,,,MISS Connaughton 27' 3PT Jump Shot,,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,488,4,0,4,8:42 PM,10:33,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200401,490,8,0,4,8:43 PM,10:33,SUB: Fernando FOR Sengun,,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200401,492,2,78,4,8:43 PM,10:21,MISS Gordon 11' Floating Jump Shot,,,,,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,493,4,0,4,8:43 PM,10:20,,,Connaughton REBOUND (Off:1 Def:2),,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,494,6,1,4,8:43 PM,10:13,Fernando P.FOUL (P2.T1) (E.Dalen),,,,,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200401,496,8,0,4,8:43 PM,10:13,SUB: Porter Jr. FOR Nix,,,,,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200401,498,6,1,4,8:44 PM,10:05,Fernando P.FOUL (P3.T2) (J.Butler),,,,,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200401,500,5,40,4,8:44 PM,9:54,,,Hill Out of Bounds Lost Ball Turnover (P1.T9),,,5,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0022200401,501,1,1,4,8:45 PM,9:33,Gordon 27' 3PT Jump Shot (9 PTS),,,81 - 77,-4,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,502,2,1,4,8:45 PM,9:17,,,MISS Connaughton 3PT Jump Shot,,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,503,4,0,4,8:45 PM,9:15,Fernando REBOUND (Off:1 Def:4),,,,,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,504,2,6,4,8:45 PM,9:04,MISS Porter Jr. 4' Driving Layup,,G. Antetokounmpo BLOCK (2 BLK),,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1
+0022200401,506,4,0,4,8:45 PM,9:04,Fernando REBOUND (Off:2 Def:4),,,,,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,507,6,2,4,8:46 PM,9:04,,,Allen S.FOUL (P1.T1) (J.Goble),,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200401,509,3,11,4,8:46 PM,9:04,Fernando Free Throw 1 of 2 (3 PTS),,,81 - 78,-3,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0022200401,510,8,0,4,8:46 PM,9:04,,,SUB: Lopez FOR Hill,,,5,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200401,511,8,0,4,8:46 PM,9:04,,,SUB: Carter FOR Portis,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200401,514,3,12,4,8:46 PM,9:04,Fernando Free Throw 2 of 2 (4 PTS),,,81 - 79,-2,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0022200401,515,2,6,4,8:47 PM,8:45,Mathews BLOCK (2 BLK),,MISS Connaughton 5' Driving Layup,,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,1
+0022200401,517,4,0,4,8:47 PM,8:45,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200401,519,8,0,4,8:47 PM,8:45,SUB: Martin Jr. FOR Gordon,,,,,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200401,521,2,78,4,8:47 PM,8:41,,,MISS G. Antetokounmpo 11' Floating Jump Shot,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,522,4,0,4,8:47 PM,8:39,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200401,524,2,79,4,8:47 PM,8:32,MISS Mathews 26' 3PT Pullup Jump Shot,,,,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,525,4,0,4,8:47 PM,8:31,,,G. Antetokounmpo REBOUND (Off:0 Def:12),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,526,6,2,4,8:47 PM,8:27,Smith Jr. S.FOUL (P3.T3) (J.Butler),,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200401,528,3,13,4,8:48 PM,8:27,,,Allen Free Throw 1 of 3 (9 PTS),82 - 79,-3,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0022200401,529,3,14,4,8:48 PM,8:27,,,Allen Free Throw 2 of 3 (10 PTS),83 - 79,-4,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0022200401,530,8,0,4,8:48 PM,8:27,SUB: Green FOR Mathews,,,,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200401,532,3,15,4,8:49 PM,8:27,,,Allen Free Throw 3 of 3 (11 PTS),84 - 79,-5,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0022200401,533,2,79,4,8:49 PM,8:04,MISS Porter Jr. 26' 3PT Pullup Jump Shot,,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,534,4,0,4,8:49 PM,8:02,Martin Jr. REBOUND (Off:2 Def:2),,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,535,5,7,4,8:49 PM,7:57,Green Discontinue Dribble Turnover (P2.T10),,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200401,536,6,1,4,8:49 PM,7:51,Fernando P.FOUL (P4.T4) (J.Goble),,,,,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200401,538,2,1,4,8:50 PM,7:45,,,MISS Allen 26' 3PT Jump Shot,,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,539,4,0,4,8:50 PM,7:44,Martin Jr. REBOUND (Off:2 Def:3),,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,540,2,101,4,8:50 PM,7:29,MISS Green 10' Driving Floating Jump Shot,,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,541,4,0,4,8:50 PM,7:28,Porter Jr. REBOUND (Off:1 Def:2),,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,542,1,79,4,8:50 PM,7:20,Green 16' Pullup Jump Shot (20 PTS),,,84 - 81,-3,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,543,1,1,4,8:51 PM,7:03,,,Carter 28' 3PT Jump Shot (9 PTS) (Allen 1 AST),87 - 81,-6,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200401,545,1,101,4,8:51 PM,6:38,Porter Jr. 10' Driving Floating Jump Shot (16 PTS) (Martin Jr. 2 AST),,,87 - 83,-4,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200401,547,5,1,4,8:51 PM,6:15,Smith Jr. STEAL (2 STL),,Allen Bad Pass Turnover (P2.T10),,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200401,549,6,4,4,8:52 PM,6:03,Fernando OFF.Foul (P5) (J.Butler),,,,,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200401,551,5,37,4,8:52 PM,6:03,Fernando Offensive Foul Turnover (P1.T11),,,,,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200401,552,9,1,4,8:52 PM,6:03,ROCKETS Timeout: Regular (Full 4 Short 0),,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200401,553,8,0,4,8:54 PM,6:03,SUB: Sengun FOR Fernando,,,,,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200401,554,8,0,4,8:54 PM,6:03,,,SUB: Portis FOR Allen,,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200401,555,8,0,4,8:54 PM,6:03,,,SUB: Holiday FOR Connaughton,,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200401,559,5,1,4,8:55 PM,5:43,Smith Jr. STEAL (3 STL),,Holiday Bad Pass Turnover (P2.T11),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200401,561,2,79,4,8:55 PM,5:36,MISS Smith Jr. 26' 3PT Pullup Jump Shot,,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,562,4,0,4,8:55 PM,5:34,,,G. Antetokounmpo REBOUND (Off:0 Def:13),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,563,6,1,4,8:55 PM,5:25,Smith Jr. P.FOUL (P4.PN) (J.Goble),,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200401,565,3,11,4,8:56 PM,5:25,,,Lopez Free Throw 1 of 2 (6 PTS),88 - 83,-5,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0022200401,566,3,12,4,8:56 PM,5:25,,,Lopez Free Throw 2 of 2 (7 PTS),89 - 83,-6,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0022200401,567,5,2,4,8:57 PM,5:04,Porter Jr. Lost Ball Turnover (P4.T12),,Holiday STEAL (3 STL),,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200401,569,5,1,4,8:57 PM,5:00,Sengun STEAL (1 STL),,Holiday Bad Pass Turnover (P3.T12),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200401,571,2,101,4,8:57 PM,4:54,MISS Green 12' Driving Floating Jump Shot,,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,573,2,97,4,8:57 PM,4:49,MISS Martin Jr. Tip Layup Shot,,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,572,4,0,4,8:57 PM,4:49,Martin Jr. REBOUND (Off:3 Def:3),,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,574,4,0,4,8:57 PM,4:48,,,G. Antetokounmpo REBOUND (Off:0 Def:14),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,575,2,1,4,8:57 PM,4:41,,,MISS Carter 26' 3PT Jump Shot,,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,576,4,0,4,8:57 PM,4:40,Smith Jr. REBOUND (Off:2 Def:6),,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,577,1,1,4,8:57 PM,4:23,Green 25' 3PT Jump Shot (23 PTS) (Sengun 3 AST),,,89 - 86,-3,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200401,579,9,1,4,8:57 PM,4:16,,,Bucks Timeout: Regular (Reg.4 Short 0),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200401,580,8,0,4,9:00 PM,4:16,SUB: Gordon FOR Martin Jr.,,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200401,581,8,0,4,9:00 PM,4:16,,,SUB: Allen FOR Carter,,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200401,582,8,0,4,9:00 PM,4:16,,,SUB: Connaughton FOR Lopez,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200401,586,5,1,4,9:00 PM,4:09,Porter Jr. STEAL (1 STL),,Holiday Bad Pass Turnover (P4.T13),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200401,588,1,50,4,9:00 PM,4:05,Green 2' Running Dunk (25 PTS) (Porter Jr. 7 AST),,,89 - 88,-1,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200401,590,2,78,4,9:01 PM,3:42,,,MISS Portis 7' Floating Jump Shot,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,591,4,0,4,9:01 PM,3:39,,,G. Antetokounmpo REBOUND (Off:1 Def:14),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,592,6,2,4,9:01 PM,3:30,Sengun S.FOUL (P1.PN) (J.Butler),,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200401,594,9,1,4,9:01 PM,3:30,ROCKETS Timeout: Regular (Full 5 Short 0),,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200401,595,8,0,4,9:02 PM,3:30,,,SUB: Lopez FOR Portis,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200401,596,8,0,4,9:02 PM,3:30,,,SUB: Carter FOR Connaughton,,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200401,599,3,11,4,9:03 PM,3:30,,,G. Antetokounmpo Free Throw 1 of 2 (14 PTS),90 - 88,-2,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0022200401,600,3,12,4,9:03 PM,3:30,,,MISS G. Antetokounmpo Free Throw 2 of 2,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0022200401,601,4,0,4,9:03 PM,3:30,Smith Jr. REBOUND (Off:2 Def:7),,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,602,2,101,4,9:04 PM,3:11,MISS Smith Jr. 10' Driving Floating Jump Shot,,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,603,4,0,4,9:04 PM,3:10,,,G. Antetokounmpo REBOUND (Off:1 Def:15),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,604,9,1,4,9:04 PM,3:05,,,Bucks Timeout: Regular (Reg.5 Short 0),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200401,605,2,1,4,9:05 PM,2:54,,,MISS G. Antetokounmpo 25' 3PT Jump Shot,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,606,4,0,4,9:05 PM,2:53,Green REBOUND (Off:0 Def:5),,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,607,6,1,4,9:06 PM,2:50,,,Carter P.FOUL (P2.T2) (J.Butler),,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200401,609,6,2,4,9:06 PM,2:45,,,Holiday S.FOUL (P1.T3) (J.Goble),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200401,611,3,11,4,9:06 PM,2:45,Porter Jr. Free Throw 1 of 2 (17 PTS),,,90 - 89,-1,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0022200401,612,3,12,4,9:07 PM,2:45,Porter Jr. Free Throw 2 of 2 (18 PTS),,,90 - 90,TIE,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0022200401,613,2,1,4,9:07 PM,2:33,,,MISS Allen 26' 3PT Jump Shot,,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,614,4,0,4,9:07 PM,2:32,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200401,616,2,6,4,9:07 PM,2:08,MISS Gordon 3' Driving Layup,,,,,4,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,617,4,0,4,9:07 PM,2:06,,,Holiday REBOUND (Off:0 Def:5),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,618,2,50,4,9:08 PM,2:02,,,MISS Allen 2' Running Dunk,,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,619,4,0,4,9:08 PM,2:00,Green REBOUND (Off:0 Def:6),,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,620,1,101,4,9:08 PM,1:55,Green 6' Driving Floating Jump Shot (27 PTS),,,90 - 92,2,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,623,5,15,4,9:08 PM,1:41,,,Lopez Offensive Goaltending Turnover (P1.T14),,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0022200401,624,18,0,4,9:09 PM,1:41,,Instant Replay4th Period (9:09 PM EST),,90 - 92,2,0,623,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200401,625,2,108,4,9:10 PM,1:28,MISS Sengun 5' Cutting Dunk Shot,,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,626,4,0,4,9:10 PM,1:25,,,Holiday REBOUND (Off:0 Def:6),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,627,5,1,4,9:10 PM,1:19,Porter Jr. STEAL (2 STL),,Holiday Bad Pass Turnover (P5.T15),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200401,629,2,79,4,9:10 PM,1:06,MISS Green 26' 3PT Pullup Jump Shot,,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,630,4,0,4,9:10 PM,1:04,,,G. Antetokounmpo REBOUND (Off:1 Def:16),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,631,1,6,4,9:10 PM,0:55,,,G. Antetokounmpo 2' Driving Layup (16 PTS),92 - 92,TIE,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,632,6,2,4,9:10 PM,0:55,Sengun S.FOUL (P2.PN) (J.Butler),,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200401,634,3,10,4,9:11 PM,0:55,,,MISS G. Antetokounmpo Free Throw 1 of 1,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,635,4,0,4,9:11 PM,0:53,Green REBOUND (Off:0 Def:7),,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,636,6,2,4,9:11 PM,0:34,,,Lopez S.FOUL (P2.T4) (J.Butler),,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200401,639,3,11,4,9:12 PM,0:34,Green Free Throw 1 of 2 (28 PTS),,,92 - 93,1,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,640,8,0,4,9:12 PM,0:34,SUB: Fernando FOR Sengun,,,,,4,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200401,642,3,12,4,9:12 PM,0:34,Green Free Throw 2 of 2 (29 PTS),,,92 - 94,2,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,643,9,1,4,9:12 PM,0:34,,,Bucks Timeout: Regular (Reg.6 Short 0),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200401,644,8,0,4,9:13 PM,0:34,,,SUB: Connaughton FOR Carter,,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200401,646,5,1,4,9:14 PM,0:27,,,Allen Bad Pass Turnover (P3.T16),,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,648,6,3,4,9:14 PM,0:27,,,G. Antetokounmpo L.B.FOUL (P4.PN) (E.Dalen),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200401,650,3,11,4,9:15 PM,0:27,Green Free Throw 1 of 2 (30 PTS),,,92 - 95,3,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,651,3,12,4,9:15 PM,0:27,MISS Green Free Throw 2 of 2,,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,652,4,0,4,9:15 PM,0:27,,,G. Antetokounmpo REBOUND (Off:1 Def:17),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,653,2,102,4,9:15 PM,0:19,,,MISS G. Antetokounmpo 3' Driving Floating Bank Jump Shot,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,654,4,0,4,9:15 PM,0:18,Smith Jr. REBOUND (Off:2 Def:8),,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,655,6,1,4,9:15 PM,0:18,,,G. Antetokounmpo P.FOUL (P5.PN) (J.Butler),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200401,657,3,11,4,9:16 PM,0:18,Smith Jr. Free Throw 1 of 2 (5 PTS),,,92 - 96,4,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,658,8,0,4,9:16 PM,0:18,SUB: Martin Jr. FOR Fernando,,,,,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200401,659,8,0,4,9:16 PM,0:18,,,SUB: Portis FOR Lopez,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200401,662,3,12,4,9:17 PM,0:18,Smith Jr. Free Throw 2 of 2 (6 PTS),,,92 - 97,5,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,663,2,1,4,9:17 PM,0:14,,,MISS Portis 26' 3PT Jump Shot,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200401,665,4,0,4,9:17 PM,0:12,Martin Jr. REBOUND (Off:3 Def:4),,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200401,666,13,0,4,9:17 PM,0:00,,End of 4th Period (9:17 PM EST),,92 - 97,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

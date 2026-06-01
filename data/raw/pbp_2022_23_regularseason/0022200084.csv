@@ -1,0 +1,465 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200084,2,12,0,1,8:11 PM,12:00,,Start of 1st Period (8:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200084,4,10,0,1,8:11 PM,12:00,Jump Ball Vucevic vs. Embiid: Tip to Maxey,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,1
+0022200084,7,2,79,1,8:11 PM,11:35,,,MISS Maxey 27' 3PT Pullup Jump Shot,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,8,4,0,1,8:11 PM,11:30,Vucevic REBOUND (Off:0 Def:1),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,9,2,1,1,8:12 PM,11:18,MISS Williams 25' 3PT Jump Shot,,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,10,4,0,1,8:12 PM,11:15,,,Tucker REBOUND (Off:0 Def:1),,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,11,1,75,1,8:12 PM,11:06,,,Embiid 1' Driving Finger Roll Layup (2 PTS) (Harden 1 AST),2 - 0,-2,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200084,13,6,2,1,8:12 PM,10:45,,,Maxey S.FOUL (P1.T1) (S.Twardoski),,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200084,15,3,11,1,8:13 PM,10:45,MISS DeRozan Free Throw 1 of 2,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,16,4,1,1,8:13 PM,10:45,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200084,17,3,12,1,8:13 PM,10:45,DeRozan Free Throw 2 of 2 (1 PTS),,,2 - 1,-1,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,18,5,1,1,8:13 PM,10:32,Caruso STEAL (1 STL),,Embiid Bad Pass Turnover (P1.T1),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200084,20,1,73,1,8:13 PM,10:26,LaVine 2' Driving Reverse Layup (2 PTS) (DeRozan 1 AST),,,2 - 3,1,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200084,22,6,1,1,8:14 PM,10:15,Caruso P.FOUL (P1.T1) (S.Twardoski),,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200084,24,2,79,1,8:14 PM,10:01,,,MISS Embiid 21' Pullup Jump Shot,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,25,4,0,1,8:14 PM,9:58,DeRozan REBOUND (Off:0 Def:1),,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,26,5,39,1,8:14 PM,9:53,Williams Step Out of Bounds Turnover (P1.T1),,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,27,6,2,1,8:14 PM,9:44,DeRozan S.FOUL (P1.T2) (J.Tiven),,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200084,29,3,11,1,8:15 PM,9:44,,,Harden Free Throw 1 of 2 (1 PTS),3 - 3,TIE,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,30,3,12,1,8:15 PM,9:44,,,Harden Free Throw 2 of 2 (2 PTS),4 - 3,-1,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,31,5,4,1,8:15 PM,9:34,Vucevic Traveling Turnover (P1.T2),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0022200084,32,1,1,1,8:16 PM,9:18,,,Maxey 3PT Jump Shot (3 PTS) (Embiid 1 AST),7 - 3,-4,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200084,34,6,2,1,8:16 PM,9:12,,,Maxey S.FOUL (P2.T2) (J.Tiven),,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200084,36,3,11,1,8:16 PM,9:12,Caruso Free Throw 1 of 2 (1 PTS),,,7 - 4,-3,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,37,3,12,1,8:17 PM,9:12,Caruso Free Throw 2 of 2 (2 PTS),,,7 - 5,-2,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,38,1,80,1,8:17 PM,9:00,,,Harden 15' Step Back Jump Shot (4 PTS),9 - 5,-4,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,39,2,6,1,8:17 PM,8:36,MISS Vucevic 3' Driving Layup,,Tucker BLOCK (1 BLK),,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,1
+0022200084,41,4,0,1,8:17 PM,8:34,,,Tucker REBOUND (Off:0 Def:2),,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,42,1,3,1,8:18 PM,8:19,,,Tucker 7' Hook Shot (2 PTS) (Harden 2 AST),11 - 5,-6,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200084,44,2,80,1,8:18 PM,8:06,MISS LaVine 3PT Step Back Jump Shot,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,45,4,0,1,8:18 PM,8:03,,,Harden REBOUND (Off:0 Def:1),,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,46,1,6,1,8:18 PM,8:01,,,Harris 1' Driving Layup (2 PTS) (Harden 3 AST),13 - 5,-8,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200084,48,9,1,1,8:18 PM,8:01,BULLS Timeout: Regular (Full 1 Short 0),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200084,49,8,0,1,8:21 PM,8:01,,,SUB: Thybulle FOR Maxey,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200084,51,1,9,1,8:21 PM,7:40,Vucevic 1' Driving Dunk (2 PTS) (LaVine 1 AST),,,13 - 7,-6,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200084,53,2,1,1,8:22 PM,7:17,,,MISS Harden 25' 3PT Jump Shot,,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,54,4,0,1,8:22 PM,7:15,Williams REBOUND (Off:0 Def:1),,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,55,2,101,1,8:22 PM,7:06,MISS Williams 7' Driving Floating Jump Shot,,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,56,4,0,1,8:22 PM,7:04,,,Embiid REBOUND (Off:0 Def:1),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,57,1,1,1,8:22 PM,6:54,,,Tucker 3PT Jump Shot (5 PTS) (Harris 1 AST),16 - 7,-9,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200084,59,2,1,1,8:23 PM,6:30,MISS DeRozan 26' 3PT Jump Shot,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,60,4,0,1,8:23 PM,6:25,,,Embiid REBOUND (Off:0 Def:2),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,61,1,1,1,8:23 PM,6:15,,,Harris 25' 3PT Jump Shot (5 PTS) (Embiid 2 AST),19 - 7,-12,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200084,63,2,79,1,8:23 PM,5:59,MISS LaVine 27' 3PT Pullup Jump Shot,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,64,4,0,1,8:23 PM,5:55,,,Harris REBOUND (Off:0 Def:1),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,65,5,1,1,8:23 PM,5:47,Vucevic STEAL (1 STL),,Harden Bad Pass Turnover (P1.T2),,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200084,68,6,2,1,8:23 PM,5:39,,,Thybulle S.FOUL (P1.T3) (S.Twardoski),,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200084,70,3,11,1,8:24 PM,5:39,DeRozan Free Throw 1 of 2 (2 PTS),,,19 - 8,-11,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,71,8,0,1,8:24 PM,5:39,SUB: White FOR Caruso,,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200084,72,8,0,1,8:24 PM,5:39,SUB: Green FOR LaVine,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200084,73,8,0,1,8:24 PM,5:39,SUB: Terry FOR Williams,,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,4,1631207,Dalen Terry,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200084,77,8,0,1,8:24 PM,5:39,,,SUB: Melton FOR Tucker,,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200084,79,3,12,1,8:24 PM,5:39,DeRozan Free Throw 2 of 2 (3 PTS),,,19 - 9,-10,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,80,1,6,1,8:25 PM,5:25,,,Embiid 1' Driving Layup (4 PTS) (Harden 4 AST),21 - 9,-12,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200084,82,2,1,1,8:25 PM,5:06,MISS Terry 3PT Jump Shot,,,,,4,1631207,Dalen Terry,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,83,4,0,1,8:25 PM,5:04,Green REBOUND (Off:1 Def:0),,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,84,2,6,1,8:25 PM,5:02,MISS Terry 1' Driving Layup,,,,,4,1631207,Dalen Terry,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,85,4,0,1,8:25 PM,5:01,,,Harden REBOUND (Off:0 Def:2),,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,86,2,1,1,8:25 PM,4:53,,,MISS Embiid 26' 3PT Jump Shot,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,87,4,0,1,8:25 PM,4:49,,,Harris REBOUND (Off:1 Def:1),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,88,6,17,1,8:25 PM,4:43,BULLS T.Foul (Def. 3 Sec Terry ) (J.Tiven),,,,,4,1631207,Dalen Terry,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0022200084,89,3,16,1,8:26 PM,4:43,,,Harden Free Throw Technical (5 PTS),22 - 9,-13,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,90,2,79,1,8:26 PM,4:35,,,MISS Harden 13' Pullup Jump Shot,,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,91,4,0,1,8:26 PM,4:31,Vucevic REBOUND (Off:0 Def:2),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,92,1,79,1,8:27 PM,4:21,DeRozan 20' Pullup Jump Shot (5 PTS) (Terry 1 AST),,,22 - 11,-11,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,4,1631207,Dalen Terry,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200084,94,1,75,1,8:27 PM,4:01,,,Embiid 2' Driving Finger Roll Layup (6 PTS) (Harden 5 AST),24 - 11,-13,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200084,96,6,2,1,8:27 PM,3:43,,,Thybulle S.FOUL (P2.T4) (J.Tiven),,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200084,98,3,11,1,8:28 PM,3:43,DeRozan Free Throw 1 of 2 (6 PTS),,,24 - 12,-12,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,99,8,0,1,8:28 PM,3:43,,,SUB: Niang FOR Harris,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200084,101,3,12,1,8:28 PM,3:43,DeRozan Free Throw 2 of 2 (7 PTS),,,24 - 13,-11,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,102,2,79,1,8:28 PM,3:34,,,MISS Harden 14' Pullup Jump Shot,,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,103,4,0,1,8:28 PM,3:30,Vucevic REBOUND (Off:0 Def:3),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,104,5,1,1,8:28 PM,3:12,DeRozan Bad Pass Turnover (P1.T3),,Thybulle STEAL (1 STL),,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200084,106,1,6,1,8:29 PM,3:04,,,Embiid 2' Driving Layup (8 PTS),26 - 13,-13,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,107,1,75,1,8:29 PM,2:51,DeRozan 2' Driving Finger Roll Layup (9 PTS),,,26 - 15,-11,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,108,9,1,1,8:29 PM,2:44,,,76ers Timeout: Regular (Reg.1 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200084,109,8,0,1,8:32 PM,2:44,SUB: Dragic FOR DeRozan,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200084,110,8,0,1,8:32 PM,2:44,SUB: LaVine FOR Terry,,,,,4,1631207,Dalen Terry,1610612741.0,Chicago,Bulls,CHI,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200084,111,8,0,1,8:32 PM,2:44,,,SUB: Milton FOR Harden,,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200084,112,8,0,1,8:32 PM,2:44,,,SUB: Harrell FOR Embiid,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200084,117,2,1,1,8:32 PM,2:35,,,MISS Melton 24' 3PT Jump Shot,,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,118,4,0,1,8:32 PM,2:29,Vucevic REBOUND (Off:0 Def:4),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,119,2,1,1,8:32 PM,2:25,MISS White 16' Jump Shot,,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,120,4,0,1,8:32 PM,2:21,Green REBOUND (Off:2 Def:0),,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,121,1,87,1,8:32 PM,2:21,Green Putback Dunk (2 PTS),,,26 - 17,-9,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,122,2,101,1,8:33 PM,2:07,,,MISS Niang 11' Driving Floating Jump Shot,,,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,123,4,0,1,8:33 PM,2:05,Vucevic REBOUND (Off:0 Def:5),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,124,1,47,1,8:33 PM,1:52,Vucevic 1' Turnaround Jump Shot (4 PTS),,,26 - 19,-7,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,125,1,1,1,8:33 PM,1:31,,,Melton 27' 3PT Jump Shot (3 PTS) (Milton 1 AST),29 - 19,-10,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200084,127,2,75,1,8:34 PM,1:13,MISS Dragic 1' Driving Finger Roll Layup,,,,,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,128,4,0,1,8:34 PM,1:11,,,Milton REBOUND (Off:0 Def:1),,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,129,1,1,1,8:34 PM,1:07,,,Niang 26' 3PT Jump Shot (3 PTS) (Melton 1 AST),32 - 19,-13,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200084,131,2,6,1,8:34 PM,0:48,MISS White 1' Driving Layup,,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,132,4,0,1,8:34 PM,0:46,Vucevic REBOUND (Off:1 Def:5),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,133,5,2,1,8:34 PM,0:45,Vucevic Lost Ball Turnover (P2.T4),,Harrell STEAL (1 STL),,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200084,135,1,6,1,8:34 PM,0:43,,,Milton 1' Driving Layup (2 PTS) (Melton 2 AST),34 - 19,-15,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200084,137,1,1,1,8:34 PM,0:26,White 25' 3PT Jump Shot (3 PTS) (Vucevic 1 AST),,,34 - 22,-12,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200084,139,1,1,1,8:35 PM,0:06,,,Melton 26' 3PT Jump Shot (6 PTS),37 - 22,-15,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,140,2,79,1,8:35 PM,0:00,MISS White 28' 3PT Pullup Jump Shot,,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,141,4,0,1,8:35 PM,0:00,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200084,142,13,0,1,8:35 PM,0:00,,End of 1st Period (8:35 PM EST),,37 - 22,-15,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200084,149,12,0,2,8:38 PM,12:00,,Start of 2nd Period (8:38 PM EST),,37 - 22,-15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200084,150,2,1,2,8:38 PM,11:48,MISS LaVine 3PT Jump Shot,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,151,4,0,2,8:38 PM,11:47,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200084,152,1,6,2,8:38 PM,11:35,,,Milton 2' Driving Layup (4 PTS),39 - 22,-17,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,153,7,2,2,8:38 PM,11:35,Jones Jr. Violation:Defensive Goaltending (J.Tiven),,,,,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0022200084,154,1,6,2,8:39 PM,11:23,Jones Jr. 1' Driving Layup (2 PTS) (Caruso 1 AST),,,39 - 24,-15,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200084,155,2,6,2,8:39 PM,11:06,,,MISS Harrell 1' Driving Layup,,,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,156,4,0,2,8:39 PM,11:04,,,Niang REBOUND (Off:1 Def:0),,,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,157,2,6,2,8:39 PM,10:59,,,MISS Harrell 2' Driving Layup,,,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,158,4,0,2,8:39 PM,10:57,Williams REBOUND (Off:0 Def:2),,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,159,6,2,2,8:39 PM,10:55,,,Thybulle S.FOUL (P3.T1) (J.Ralls),,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200084,161,3,11,2,8:39 PM,10:55,Williams Free Throw 1 of 2 (1 PTS),,,39 - 25,-14,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,162,8,0,2,8:40 PM,10:55,,,SUB: Maxey FOR Thybulle,,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200084,164,3,12,2,8:40 PM,10:55,Williams Free Throw 2 of 2 (2 PTS),,,39 - 26,-13,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,165,2,101,2,8:40 PM,10:40,,,MISS Milton 7' Driving Floating Jump Shot,,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,166,4,0,2,8:40 PM,10:40,,,Harrell REBOUND (Off:1 Def:0),,,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,167,2,7,2,8:40 PM,10:40,Jones Jr. BLOCK (1 BLK),,MISS Harrell 3' Dunk,,,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,1
+0022200084,168,4,0,2,8:40 PM,10:38,,,Milton REBOUND (Off:1 Def:1),,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,170,1,97,2,8:41 PM,10:37,,,Milton 1' Tip Layup Shot (6 PTS),41 - 26,-15,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,172,6,1,2,8:41 PM,10:30,,,Maxey P.FOUL (P3.T2) (J.Ralls),,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200084,174,2,79,2,8:41 PM,10:22,MISS Dragic 13' Pullup Jump Shot,,,,,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,175,4,0,2,8:41 PM,10:18,,,Melton REBOUND (Off:0 Def:1),,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,176,6,2,2,8:41 PM,10:12,LaVine S.FOUL (P1.T1) (J.Ralls),,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200084,179,3,11,2,8:42 PM,10:12,,,Harrell Free Throw 1 of 2 (1 PTS),42 - 26,-16,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,180,3,12,2,8:42 PM,10:12,,,MISS Harrell Free Throw 2 of 2,,,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,181,4,0,2,8:42 PM,10:09,LaVine REBOUND (Off:0 Def:1),,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,182,2,1,2,8:42 PM,10:03,MISS Jones Jr. 3PT Jump Shot,,,,,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,183,4,0,2,8:42 PM,10:00,,,Harrell REBOUND (Off:1 Def:1),,,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,184,2,79,2,8:42 PM,9:54,,,MISS Milton 26' 3PT Pullup Jump Shot,,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,185,4,0,2,8:42 PM,9:52,Jones Jr. REBOUND (Off:0 Def:1),,,,,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,186,6,2,2,8:42 PM,9:48,,,Niang S.FOUL (P1.T3) (J.Ralls),,,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200084,188,3,11,2,8:43 PM,9:48,Jones Jr. Free Throw 1 of 2 (3 PTS),,,42 - 27,-15,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,189,3,12,2,8:43 PM,9:48,MISS Jones Jr. Free Throw 2 of 2,,,,,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,190,4,0,2,8:43 PM,9:45,,,Melton REBOUND (Off:0 Def:2),,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,191,1,73,2,8:43 PM,9:27,,,Niang 2' Driving Reverse Layup (5 PTS) (Harrell 1 AST),44 - 27,-17,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200084,203,2,101,2,8:44 PM,9:09,MISS LaVine 3' Driving Floating Jump Shot,,Milton BLOCK (1 BLK),,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,1
+0022200084,205,4,0,2,8:44 PM,9:09,,,Harrell REBOUND (Off:1 Def:2),,,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,195,2,1,2,8:44 PM,9:03,,,MISS Melton 4' Jump Shot,,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,196,4,0,2,8:44 PM,9:01,Jones Jr. REBOUND (Off:0 Def:2),,,,,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,197,2,73,2,8:44 PM,8:54,MISS LaVine 1' Driving Reverse Layup,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,198,4,0,2,8:44 PM,8:53,Jones Jr. REBOUND (Off:1 Def:2),,,,,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,199,1,6,2,8:44 PM,8:53,LaVine 1' Driving Layup (4 PTS) (Jones Jr. 1 AST),,,44 - 29,-15,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200084,201,6,2,2,8:44 PM,8:53,,,Harrell S.FOUL (P1.T4) (S.Twardoski),,,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200084,206,3,10,2,8:45 PM,8:53,LaVine Free Throw 1 of 1 (5 PTS),,,44 - 30,-14,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,207,2,79,2,8:45 PM,8:37,,,MISS Melton 25' 3PT Pullup Jump Shot,,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,208,4,0,2,8:45 PM,8:33,Caruso REBOUND (Off:0 Def:1),,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,209,2,6,2,8:45 PM,8:29,MISS Jones Jr. 1' Driving Layup,,,,,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,210,4,0,2,8:45 PM,8:26,,,Niang REBOUND (Off:1 Def:1),,,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,211,6,1,2,8:45 PM,8:13,Dragic P.FOUL (P1.T2) (J.Ralls),,,,,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200084,213,8,0,2,8:46 PM,8:13,SUB: White FOR Dragic,,,,,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200084,214,8,0,2,8:46 PM,8:13,SUB: DeRozan FOR LaVine,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200084,215,8,0,2,8:46 PM,8:13,,,SUB: Embiid FOR Harrell,,,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200084,216,8,0,2,8:46 PM,8:13,,,SUB: House Jr. FOR Maxey,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200084,221,2,1,2,8:46 PM,8:00,,,MISS Niang 25' 3PT Jump Shot,,,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,222,4,0,2,8:46 PM,7:54,,,Embiid REBOUND (Off:1 Def:2),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,223,1,72,2,8:46 PM,7:54,,,Embiid Putback Layup (10 PTS),46 - 30,-16,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,224,9,1,2,8:47 PM,7:49,BULLS Timeout: Regular (Full 2 Short 0),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200084,225,8,0,2,8:49 PM,7:49,SUB: Green FOR Jones Jr.,,,,,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200084,226,8,0,2,8:49 PM,7:49,SUB: Vucevic FOR Caruso,,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200084,227,8,0,2,8:49 PM,7:49,,,SUB: Harden FOR Milton,,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200084,231,5,39,2,8:50 PM,7:47,Williams Step Out of Bounds Turnover (P2.T5),,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0022200084,232,1,1,2,8:50 PM,7:30,,,House Jr. 24' 3PT Jump Shot (3 PTS) (Melton 3 AST),49 - 30,-19,5,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200084,234,1,1,2,8:50 PM,7:14,Williams 25' 3PT Jump Shot (5 PTS) (White 1 AST),,,49 - 33,-16,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200084,236,1,1,2,8:50 PM,6:59,,,Embiid 16' Jump Shot (12 PTS) (Harden 6 AST),51 - 33,-18,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200084,238,5,1,2,8:51 PM,6:44,White Bad Pass Turnover (P1.T6),,Harden STEAL (1 STL),,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200084,240,2,79,2,8:51 PM,6:39,,,MISS Harden 27' 3PT Pullup Jump Shot,,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,241,4,0,2,8:51 PM,6:35,Vucevic REBOUND (Off:1 Def:6),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,242,6,2,2,8:51 PM,6:26,,,Embiid S.FOUL (P1.PN) (J.Ralls),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200084,244,3,11,2,8:52 PM,6:26,DeRozan Free Throw 1 of 2 (10 PTS),,,51 - 34,-17,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,245,8,0,2,8:52 PM,6:26,SUB: Caruso FOR Williams,,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200084,246,8,0,2,8:52 PM,6:26,,,SUB: Harris FOR Melton,,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200084,247,8,0,2,8:52 PM,6:26,,,SUB: Tucker FOR Niang,,,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200084,251,3,12,2,8:52 PM,6:26,DeRozan Free Throw 2 of 2 (11 PTS),,,51 - 35,-16,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,252,6,4,2,8:53 PM,6:12,,,Embiid OFF.Foul (P2) (J.Tiven),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200084,254,5,37,2,8:53 PM,6:12,,,Embiid Offensive Foul Turnover (P2.T3),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200084,255,2,6,2,8:53 PM,5:48,MISS White 6' Driving Layup,,Tucker BLOCK (2 BLK),,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,1
+0022200084,257,4,0,2,8:53 PM,5:44,,,Embiid REBOUND (Off:1 Def:3),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,258,1,2,2,8:53 PM,5:42,,,Harris 26' 3PT Running Jump Shot (8 PTS) (Harden 7 AST),54 - 35,-19,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200084,260,6,2,2,8:54 PM,5:27,,,Embiid S.FOUL (P3.PN) (J.Ralls),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200084,262,3,11,2,8:54 PM,5:27,DeRozan Free Throw 1 of 2 (12 PTS),,,54 - 36,-18,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,263,3,12,2,8:55 PM,5:27,DeRozan Free Throw 2 of 2 (13 PTS),,,54 - 37,-17,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,264,2,6,2,8:55 PM,5:11,,,MISS Embiid 3' Driving Layup,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,265,4,0,2,8:55 PM,5:11,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200084,266,5,4,2,8:55 PM,5:11,,,Embiid Traveling Turnover (P3.T4),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200084,267,1,79,2,8:56 PM,5:02,DeRozan 19' Pullup Jump Shot (15 PTS),,,54 - 39,-15,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,268,9,1,2,8:56 PM,4:55,,,76ers Timeout: Regular (Reg.2 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200084,269,8,0,2,8:59 PM,4:55,,,SUB: Melton FOR Embiid,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200084,271,5,40,2,8:59 PM,4:37,,,House Jr. Out of Bounds Lost Ball Turnover (P1.T5),,,5,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200084,272,1,1,2,9:00 PM,4:16,DeRozan 3PT Jump Shot (18 PTS) (White 2 AST),,,54 - 42,-12,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200084,274,5,2,2,9:00 PM,4:05,Caruso STEAL (2 STL),,Harden Lost Ball Turnover (P2.T6),,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200084,276,6,2,2,9:00 PM,4:05,,,Tucker S.FOUL (P1.PN) (S.Twardoski),,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200084,278,3,11,2,9:01 PM,4:05,Caruso Free Throw 1 of 2 (3 PTS),,,54 - 43,-11,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,279,3,12,2,9:01 PM,4:05,Caruso Free Throw 2 of 2 (4 PTS),,,54 - 44,-10,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,280,2,78,2,9:01 PM,3:44,,,MISS Harden 5' Floating Jump Shot,,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,281,4,0,2,9:01 PM,3:42,Vucevic REBOUND (Off:1 Def:7),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,282,2,6,2,9:01 PM,3:35,MISS Caruso 3' Driving Layup,,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,283,4,0,2,9:01 PM,3:33,Vucevic REBOUND (Off:2 Def:7),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,284,2,97,2,9:01 PM,3:33,MISS Vucevic Tip Layup Shot,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,285,4,0,2,9:01 PM,3:32,Vucevic REBOUND (Off:3 Def:7),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,286,2,97,2,9:01 PM,3:32,MISS Vucevic Tip Layup Shot,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,287,4,0,2,9:01 PM,3:31,Green REBOUND (Off:3 Def:0),,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,288,5,1,2,9:02 PM,3:28,DeRozan Bad Pass Turnover (P2.T7),,Harden STEAL (2 STL),,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200084,290,6,2,2,9:02 PM,3:24,DeRozan S.FOUL (P2.T3) (S.Twardoski),,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200084,292,9,1,2,9:02 PM,3:24,BULLS Timeout: Regular (Full 3 Short 0),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200084,293,18,4,2,9:02 PM,3:24,,Instant Replay2nd Period (9:02 PM EST),,54 - 44,-10,0,290,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200084,294,3,11,2,9:04 PM,3:24,,,Harden Free Throw 1 of 2 (6 PTS),55 - 44,-11,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,313,8,0,2,9:05 PM,3:24,SUB: LaVine FOR White,,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200084,314,8,0,2,9:05 PM,3:24,SUB: Williams FOR Green,,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200084,315,8,0,2,9:05 PM,3:24,,,SUB: Thybulle FOR House Jr.,,,5,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200084,305,3,12,2,9:05 PM,3:24,,,Harden Free Throw 2 of 2 (7 PTS),56 - 44,-12,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,306,1,75,2,9:05 PM,3:17,Caruso Driving Finger Roll Layup (6 PTS),,,56 - 46,-10,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,307,5,11,2,9:05 PM,2:49,,,76ers Turnover: Shot Clock (T#7),,,3,1610612755,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200084,308,1,6,2,9:06 PM,2:35,Williams 1' Driving Layup (7 PTS) (LaVine 2 AST),,,56 - 48,-8,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200084,310,2,1,2,9:06 PM,2:23,,,MISS Harris 26' 3PT Jump Shot,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,311,4,0,2,9:06 PM,2:22,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200084,312,1,73,2,9:06 PM,2:11,DeRozan 1' Driving Reverse Layup (20 PTS),,,56 - 50,-6,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,319,2,1,2,9:07 PM,1:50,,,MISS Harden 28' 3PT Jump Shot,,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,320,4,0,2,9:07 PM,1:47,Vucevic REBOUND (Off:3 Def:8),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,321,1,1,2,9:07 PM,1:41,Vucevic 25' 3PT Jump Shot (7 PTS) (Caruso 2 AST),,,56 - 53,-3,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200084,323,1,1,2,9:07 PM,1:19,,,Harris 24' 3PT Jump Shot (11 PTS) (Melton 4 AST),59 - 53,-6,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200084,325,1,80,2,9:07 PM,0:58,Caruso 3PT Step Back Jump Shot (9 PTS) (Vucevic 2 AST),,,59 - 56,-3,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200084,327,1,78,2,9:08 PM,0:42,,,Melton 1' Floating Jump Shot (8 PTS),61 - 56,-5,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,328,5,40,2,9:08 PM,0:33,DeRozan Out of Bounds Lost Ball Turnover (P3.T8),,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0022200084,329,8,0,2,9:08 PM,0:33,,,SUB: Harrell FOR Melton,,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200084,331,1,1,2,9:09 PM,0:11,,,Tucker 3PT Jump Shot (8 PTS) (Harden 8 AST),64 - 56,-8,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200084,333,2,80,2,9:09 PM,0:00,MISS DeRozan 22' Step Back Jump Shot,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,334,4,0,2,9:09 PM,0:00,,,Tucker REBOUND (Off:0 Def:3),,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,335,13,0,2,9:09 PM,0:00,,End of 2nd Period (9:09 PM EST),,64 - 56,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200084,340,12,0,3,9:24 PM,12:00,,Start of 3rd Period (9:24 PM EST),,64 - 56,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200084,341,1,79,3,9:25 PM,11:47,Vucevic 26' 3PT Pullup Jump Shot (10 PTS) (DeRozan 2 AST),,,64 - 59,-5,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200084,343,1,6,3,9:25 PM,11:25,,,Embiid Driving Layup (14 PTS) (Harris 2 AST),66 - 59,-7,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200084,345,6,2,3,9:25 PM,11:25,Vucevic S.FOUL (P1.T1) (J.Tiven),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200084,347,3,10,3,9:25 PM,11:25,,,Embiid Free Throw 1 of 1 (15 PTS),67 - 59,-8,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,348,1,1,3,9:26 PM,11:12,Vucevic 26' 3PT Jump Shot (13 PTS) (DeRozan 3 AST),,,67 - 62,-5,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200084,350,1,1,3,9:26 PM,10:49,,,Maxey 3PT Jump Shot (6 PTS) (Harris 3 AST),70 - 62,-8,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200084,352,1,108,3,9:26 PM,10:39,LaVine 1' Cutting Dunk Shot (7 PTS) (Caruso 3 AST),,,70 - 64,-6,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200084,354,6,2,3,9:26 PM,10:30,LaVine S.FOUL (P2.T2) (J.Ralls),,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200084,356,3,11,3,9:27 PM,10:30,,,Embiid Free Throw 1 of 2 (16 PTS),71 - 64,-7,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,357,3,12,3,9:27 PM,10:30,,,Embiid Free Throw 2 of 2 (17 PTS),72 - 64,-8,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,359,2,1,3,9:28 PM,10:07,MISS LaVine 26' 3PT Jump Shot,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,360,4,0,3,9:28 PM,10:04,,,Maxey REBOUND (Off:0 Def:1),,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,361,2,6,3,9:29 PM,9:54,,,MISS Maxey 2' Driving Layup,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,362,4,0,3,9:29 PM,9:54,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200084,364,5,40,3,9:29 PM,9:47,LaVine Out of Bounds Lost Ball Turnover (P1.T9),,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0022200084,365,6,4,3,9:29 PM,9:38,,,Tucker OFF.Foul (P2) (J.Ralls),,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200084,367,5,37,3,9:29 PM,9:38,,,Tucker Offensive Foul Turnover (P1.T8),,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200084,368,5,40,3,9:29 PM,9:28,Vucevic Out of Bounds Lost Ball Turnover (P3.T10),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0022200084,369,2,75,3,9:30 PM,9:10,,,MISS Harden 5' Driving Finger Roll Layup,,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,370,4,0,3,9:30 PM,9:08,Vucevic REBOUND (Off:3 Def:9),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,371,1,79,3,9:30 PM,8:55,LaVine 26' 3PT Pullup Jump Shot (10 PTS) (Vucevic 3 AST),,,72 - 67,-5,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200084,373,5,40,3,9:30 PM,8:33,,,Embiid Out of Bounds Lost Ball Turnover (P4.T9),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200084,375,1,1,3,9:31 PM,8:21,Vucevic 3PT Jump Shot (16 PTS) (Caruso 4 AST),,,72 - 70,-2,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200084,377,6,4,3,9:31 PM,8:02,,,Tucker OFF.Foul (P3) (J.Tiven),,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200084,379,5,37,3,9:31 PM,8:02,,,Tucker Offensive Foul Turnover (P2.T10),,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200084,380,2,1,3,9:32 PM,7:40,MISS Williams 25' 3PT Jump Shot,,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,381,4,0,3,9:32 PM,7:37,,,Harden REBOUND (Off:0 Def:3),,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,382,6,4,3,9:32 PM,7:27,,,Tucker OFF.Foul (P4) (J.Ralls),,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200084,384,5,37,3,9:32 PM,7:27,,,Tucker Offensive Foul Turnover (P3.T11),,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200084,385,8,0,3,9:33 PM,7:27,,,SUB: Thybulle FOR Tucker,,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200084,387,1,75,3,9:33 PM,7:18,LaVine 2' Driving Finger Roll Layup (12 PTS),,,72 - 72,TIE,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,388,9,1,3,9:33 PM,7:18,,,76ers Timeout: Regular (Reg.3 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200084,389,2,47,3,9:36 PM,6:59,Williams BLOCK (1 BLK),,MISS Embiid 15' Turnaround Jump Shot,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,1
+0022200084,391,4,0,3,9:36 PM,6:56,LaVine REBOUND (Off:0 Def:2),,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,392,1,63,3,9:36 PM,6:46,DeRozan 21' Fadeaway Jumper (22 PTS),,,72 - 74,2,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,394,5,1,3,9:37 PM,6:28,Williams STEAL (1 STL),,Maxey Bad Pass Turnover (P1.T12),,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200084,396,1,6,3,9:37 PM,6:26,LaVine 1' Driving Layup (14 PTS) (Caruso 5 AST),,,72 - 76,4,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200084,398,7,2,3,9:37 PM,6:26,,,Embiid Violation:Defensive Goaltending (J.Ralls),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200084,399,6,2,3,9:38 PM,6:08,Vucevic S.FOUL (P2.T3) (J.Tiven),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200084,401,3,11,3,9:38 PM,6:08,,,Embiid Free Throw 1 of 2 (18 PTS),73 - 76,3,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,402,3,12,3,9:38 PM,6:08,,,Embiid Free Throw 2 of 2 (19 PTS),74 - 76,2,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,403,2,47,3,9:39 PM,5:53,MISS Caruso 8' Turnaround Jump Shot,,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,404,4,0,3,9:39 PM,5:51,,,Harden REBOUND (Off:0 Def:4),,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,405,2,52,3,9:39 PM,5:48,,,MISS Thybulle 1' Alley Oop Dunk,,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,406,4,0,3,9:39 PM,5:46,Vucevic REBOUND (Off:3 Def:10),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,407,2,86,3,9:39 PM,5:31,MISS Vucevic 11' Turnaround Fadeaway Shot,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,408,4,0,3,9:39 PM,5:29,,,Harden REBOUND (Off:0 Def:5),,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,409,1,5,3,9:39 PM,5:14,,,Thybulle 1' Layup (2 PTS) (Embiid 3 AST),76 - 76,TIE,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200084,411,6,1,3,9:40 PM,5:01,,,Harris P.FOUL (P1.T1) (J.Tiven),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200084,413,8,0,3,9:40 PM,5:01,SUB: White FOR LaVine,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200084,414,8,0,3,9:40 PM,5:01,SUB: Green FOR Williams,,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200084,417,8,0,3,9:40 PM,5:01,,,SUB: Melton FOR Harden,,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200084,419,2,98,3,9:41 PM,4:51,MISS Green 2' Cutting Layup Shot,,Melton BLOCK (1 BLK),,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,1
+0022200084,421,4,0,3,9:41 PM,4:51,,,Melton REBOUND (Off:0 Def:3),,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,422,5,40,3,9:41 PM,4:51,,,Melton Out of Bounds Lost Ball Turnover (P1.T13),,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200084,423,1,1,3,9:41 PM,4:47,Vucevic 25' 3PT Jump Shot (19 PTS) (Caruso 6 AST),,,76 - 79,3,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200084,425,2,101,3,9:41 PM,4:30,,,MISS Maxey 3' Driving Floating Jump Shot,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,426,4,0,3,9:41 PM,4:29,DeRozan REBOUND (Off:0 Def:2),,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,427,1,79,3,9:41 PM,4:15,DeRozan 21' Pullup Jump Shot (24 PTS),,,76 - 81,5,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,428,9,1,3,9:42 PM,4:15,,,76ers Timeout: Regular (Reg.4 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200084,429,8,0,3,9:44 PM,4:15,SUB: Dragic FOR Caruso,,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200084,431,2,6,3,9:45 PM,4:05,,,MISS Maxey 2' Driving Layup,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,432,4,0,3,9:45 PM,4:03,Vucevic REBOUND (Off:3 Def:11),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,433,5,2,3,9:45 PM,4:02,White Lost Ball Turnover (P2.T11),,Maxey STEAL (1 STL),,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200084,435,1,6,3,9:45 PM,4:02,,,Maxey 1' Driving Layup (8 PTS),78 - 81,3,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,436,6,2,3,9:45 PM,4:02,Vucevic S.FOUL (P3.T4) (J.Tiven),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200084,438,3,10,3,9:45 PM,4:02,,,Maxey Free Throw 1 of 1 (9 PTS),79 - 81,2,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,439,2,47,3,9:46 PM,3:47,MISS DeRozan 13' Turnaround Jump Shot,,Harris BLOCK (1 BLK),,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,1
+0022200084,441,4,0,3,9:46 PM,3:44,,,Harris REBOUND (Off:1 Def:2),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,442,6,2,3,9:46 PM,3:44,Vucevic S.FOUL (P4.PN) (J.Ralls),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200084,444,3,11,3,9:46 PM,3:44,,,Maxey Free Throw 1 of 2 (10 PTS),80 - 81,1,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,445,3,12,3,9:46 PM,3:44,,,MISS Maxey Free Throw 2 of 2,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,446,4,0,3,9:46 PM,3:41,Vucevic REBOUND (Off:3 Def:12),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,447,2,1,3,9:47 PM,3:25,MISS White 3PT Jump Shot,,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,448,4,0,3,9:47 PM,3:25,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200084,450,1,6,3,9:47 PM,3:15,,,Maxey 2' Driving Layup (12 PTS),82 - 81,-1,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,451,5,1,3,9:47 PM,3:03,Vucevic Bad Pass Turnover (P4.T12),,Melton STEAL (1 STL),,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200084,453,5,39,3,9:47 PM,2:59,,,Harris Step Out of Bounds Turnover (P1.T14),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200084,455,8,0,3,9:48 PM,2:59,SUB: Jones Jr. FOR Vucevic,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200084,457,1,47,3,9:48 PM,2:37,Dragic 16' Turnaround Jump Shot (2 PTS),,,82 - 83,1,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,458,2,1,3,9:48 PM,2:26,,,MISS Maxey 31' 3PT Jump Shot,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,459,4,0,3,9:48 PM,2:24,Green REBOUND (Off:3 Def:1),,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,461,8,0,3,9:48 PM,2:21,SUB: LaVine FOR DeRozan,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200084,462,8,0,3,9:48 PM,2:21,,,SUB: Niang FOR Harris,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200084,465,2,75,3,9:49 PM,2:11,MISS Dragic 2' Driving Finger Roll Layup,,,,,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,466,4,0,3,9:49 PM,2:09,,,Embiid REBOUND (Off:1 Def:4),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,467,6,1,3,9:49 PM,1:58,Jones Jr. P.FOUL (P1.PN) (S.Twardoski),,,,,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200084,469,3,11,3,9:50 PM,1:58,,,Embiid Free Throw 1 of 2 (20 PTS),83 - 83,TIE,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,472,3,12,3,9:50 PM,1:58,,,MISS Embiid Free Throw 2 of 2,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,470,8,0,3,9:50 PM,1:58,SUB: Vucevic FOR Jones Jr.,,,,,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200084,473,4,0,3,9:50 PM,1:55,Vucevic REBOUND (Off:3 Def:13),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,474,2,79,3,9:50 PM,1:43,MISS Vucevic 28' 3PT Pullup Jump Shot,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,475,4,0,3,9:50 PM,1:41,,,Maxey REBOUND (Off:0 Def:2),,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,476,2,1,3,9:50 PM,1:37,,,MISS Maxey 18' Jump Shot,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,477,4,0,3,9:50 PM,1:33,Vucevic REBOUND (Off:3 Def:14),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,478,9,1,3,9:51 PM,1:33,BULLS Timeout: Regular (Full 4 Short 0),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200084,479,8,0,3,9:52 PM,1:33,SUB: Jones Jr. FOR Vucevic,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200084,480,8,0,3,9:52 PM,1:33,,,SUB: Harrell FOR Embiid,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200084,483,5,39,3,9:52 PM,1:22,White Step Out of Bounds Turnover (P3.T13),,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0022200084,484,1,101,3,9:53 PM,1:01,,,Maxey 10' Driving Floating Jump Shot (14 PTS),85 - 83,-2,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,485,1,57,3,9:53 PM,0:51,Green 1' Driving Hook Shot (4 PTS) (LaVine 3 AST),,,85 - 85,TIE,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200084,487,1,1,3,9:53 PM,0:42,,,Niang 25' 3PT Jump Shot (8 PTS) (Maxey 1 AST),88 - 85,-3,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200084,489,2,79,3,9:53 PM,0:34,MISS LaVine 29' 3PT Pullup Jump Shot,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,490,4,0,3,9:54 PM,0:32,,,Niang REBOUND (Off:1 Def:2),,,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,491,2,6,3,9:54 PM,0:23,,,MISS Melton 2' Driving Layup,,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,492,4,0,3,9:54 PM,0:21,,,Harrell REBOUND (Off:2 Def:2),,,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,493,1,78,3,9:54 PM,0:21,,,Melton 7' Floating Jump Shot (10 PTS) (Harrell 2 AST),90 - 85,-5,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200084,495,2,1,3,9:54 PM,0:03,MISS Dragic 24' 3PT Jump Shot,,,,,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,496,4,0,3,9:54 PM,0:02,Green REBOUND (Off:4 Def:1),,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,497,1,87,3,9:54 PM,0:02,Green Putback Dunk (6 PTS),,,90 - 87,-3,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,498,2,1,3,9:54 PM,0:00,,,MISS Maxey 39' 3PT Jump Shot,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,499,4,0,3,9:54 PM,0:00,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200084,500,13,0,3,9:54 PM,0:00,,End of 3rd Period (9:54 PM EST),,90 - 87,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200084,509,12,0,4,9:57 PM,12:00,,Start of 4th Period (9:57 PM EST),,90 - 87,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200084,510,6,2,4,9:57 PM,11:44,Dragic S.FOUL (P2.T1) (S.Twardoski),,,,,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200084,512,3,11,4,9:58 PM,11:44,,,Harden Free Throw 1 of 2 (8 PTS),91 - 87,-4,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,513,3,12,4,9:58 PM,11:44,,,Harden Free Throw 2 of 2 (9 PTS),92 - 87,-5,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,514,1,6,4,9:58 PM,11:38,LaVine 1' Driving Layup (16 PTS),,,92 - 89,-3,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,515,6,2,4,9:58 PM,11:38,,,House Jr. S.FOUL (P1.T1) (J.Ralls),,,5,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200084,517,3,10,4,9:59 PM,11:38,LaVine Free Throw 1 of 1 (17 PTS),,,92 - 90,-2,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0022200084,518,2,79,4,9:59 PM,11:22,,,MISS Harden 25' 3PT Pullup Jump Shot,,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,519,4,0,4,9:59 PM,11:20,Williams REBOUND (Off:0 Def:3),,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,520,6,26,4,9:59 PM,11:15,LaVine Offensive Charge Foul (P3) (J.Tiven),,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200084,522,5,37,4,9:59 PM,11:15,LaVine Offensive Foul Turnover (P2.T14),,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0022200084,523,1,108,4,10:00 PM,11:01,,,Harrell 1' Cutting Dunk Shot (3 PTS) (Harden 9 AST),94 - 90,-4,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200084,525,6,2,4,10:00 PM,10:54,,,Harrell S.FOUL (P2.T2) (J.Tiven),,,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200084,527,3,11,4,10:00 PM,10:54,Williams Free Throw 1 of 2 (8 PTS),,,94 - 91,-3,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,530,3,12,4,10:00 PM,10:54,Williams Free Throw 2 of 2 (9 PTS),,,94 - 92,-2,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0022200084,528,8,0,4,10:00 PM,10:54,,,SUB: Maxey FOR Melton,,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200084,531,2,1,4,10:02 PM,10:32,,,MISS Maxey 24' 3PT Jump Shot,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,532,4,0,4,10:02 PM,10:28,Dragic REBOUND (Off:0 Def:1),,,,,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,533,1,108,4,10:02 PM,10:12,Jones Jr. 1' Cutting Dunk Shot (5 PTS) (Dragic 1 AST),,,94 - 94,TIE,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200084,535,6,2,4,10:02 PM,10:12,,,Maxey S.FOUL (P4.T3) (J.Ralls),,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200084,537,3,10,4,10:02 PM,10:12,Jones Jr. Free Throw 1 of 1 (6 PTS),,,94 - 95,1,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,538,1,101,4,10:03 PM,9:58,,,Niang 4' Driving Floating Jump Shot (10 PTS) (Harden 10 AST),96 - 95,-1,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200084,540,2,79,4,10:03 PM,9:49,MISS LaVine 27' 3PT Pullup Jump Shot,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,541,4,0,4,10:03 PM,9:47,,,Maxey REBOUND (Off:0 Def:3),,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,542,1,1,4,10:03 PM,9:42,,,Niang 28' 3PT Jump Shot (13 PTS) (Maxey 2 AST),99 - 95,-4,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200084,544,2,1,4,10:03 PM,9:26,MISS Dragic 25' 3PT Jump Shot,,,,,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,545,4,0,4,10:03 PM,9:22,,,Maxey REBOUND (Off:0 Def:4),,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,546,5,40,4,10:03 PM,9:21,,,Harden Out of Bounds Lost Ball Turnover (P3.T15),,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200084,547,8,0,4,10:03 PM,9:21,SUB: White FOR Dragic,,,,,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200084,549,6,26,4,10:04 PM,9:01,Williams Offensive Charge Foul (P1) (S.Twardoski),,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200084,551,5,37,4,10:04 PM,9:01,Williams Offensive Foul Turnover (P3.T15),,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0022200084,552,2,1,4,10:05 PM,8:38,,,MISS Harden 8' Jump Shot,,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,553,4,0,4,10:05 PM,8:38,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200084,555,8,0,4,10:05 PM,8:38,,,SUB: Embiid FOR Harrell,,,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200084,557,1,79,4,10:05 PM,8:18,LaVine 27' 3PT Pullup Jump Shot (20 PTS),,,99 - 98,-1,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,558,2,101,4,10:06 PM,7:48,,,MISS Maxey 10' Driving Floating Jump Shot,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,559,4,0,4,10:06 PM,7:46,,,Embiid REBOUND (Off:2 Def:4),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,560,1,5,4,10:06 PM,7:33,,,Niang 1' Layup (15 PTS) (Embiid 4 AST),101 - 98,-3,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200084,562,5,40,4,10:07 PM,7:07,Caruso Out of Bounds Lost Ball Turnover (P1.T16),,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0022200084,563,8,0,4,10:07 PM,7:07,SUB: DeRozan FOR Jones Jr.,,,,,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200084,564,8,0,4,10:07 PM,7:07,SUB: Vucevic FOR LaVine,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200084,565,8,0,4,10:07 PM,7:07,,,SUB: Thybulle FOR House Jr.,,,5,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200084,569,5,2,4,10:07 PM,6:52,White STEAL (1 STL),,Embiid Lost Ball Turnover (P5.T16),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200084,571,1,41,4,10:07 PM,6:48,White 1' Running Layup (5 PTS),,,101 - 100,-1,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,572,9,1,4,10:07 PM,6:48,,,76ers Timeout: Regular (Reg.5 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200084,573,8,0,4,10:10 PM,6:48,SUB: Green FOR Caruso,,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200084,574,8,0,4,10:10 PM,6:48,,,SUB: Harris FOR Thybulle,,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200084,577,1,63,4,10:11 PM,6:34,,,Embiid 17' Fadeaway Jumper (22 PTS) (Maxey 3 AST),103 - 100,-3,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200084,579,6,2,4,10:11 PM,6:12,,,Niang S.FOUL (P2.T4) (J.Tiven),,,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200084,581,3,11,4,10:12 PM,6:12,MISS Green Free Throw 1 of 2,,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,582,4,1,4,10:12 PM,6:12,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200084,583,3,12,4,10:12 PM,6:12,Green Free Throw 2 of 2 (7 PTS),,,103 - 101,-2,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,584,5,2,4,10:12 PM,6:01,Green STEAL (1 STL),,Maxey Lost Ball Turnover (P2.T17),,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200084,586,5,2,4,10:13 PM,5:56,Green Lost Ball Turnover (P1.T17),,Embiid STEAL (1 STL),,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200084,588,6,1,4,10:13 PM,5:56,Green P.FOUL (P1.T2) (J.Ralls),,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200084,590,6,1,4,10:13 PM,5:45,Green P.FOUL (P2.T3) (S.Twardoski),,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200084,592,5,11,4,10:14 PM,5:30,,,76ers Turnover: Shot Clock (T#18),,,3,1610612755,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200084,593,2,1,4,10:14 PM,5:17,MISS White 3PT Jump Shot,,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,594,4,0,4,10:14 PM,5:15,Green REBOUND (Off:5 Def:1),,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,595,6,2,4,10:14 PM,5:15,,,Niang S.FOUL (P3.PN) (S.Twardoski),,,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200084,597,3,11,4,10:15 PM,5:15,Green Free Throw 1 of 2 (8 PTS),,,103 - 102,-1,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,598,8,0,4,10:15 PM,5:15,SUB: Caruso FOR Williams,,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200084,599,8,0,4,10:15 PM,5:15,,,SUB: Tucker FOR Niang,,,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200084,602,3,12,4,10:15 PM,5:15,Green Free Throw 2 of 2 (9 PTS),,,103 - 103,TIE,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,603,2,78,4,10:16 PM,5:03,Caruso BLOCK (1 BLK),,MISS Harden 5' Floating Jump Shot,,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,1
+0022200084,605,4,0,4,10:16 PM,5:00,DeRozan REBOUND (Off:0 Def:3),,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,606,1,41,4,10:16 PM,4:57,White 1' Running Layup (7 PTS) (DeRozan 4 AST),,,103 - 105,2,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200084,608,1,86,4,10:16 PM,4:30,,,Harden 12' Turnaround Fadeaway (11 PTS),105 - 105,TIE,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,609,1,1,4,10:16 PM,4:14,Vucevic 21' Jump Shot (21 PTS) (Green 1 AST),,,105 - 107,2,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200084,611,2,86,4,10:17 PM,3:47,,,MISS Embiid 13' Turnaround Fadeaway Shot,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,612,4,0,4,10:17 PM,3:42,,,Harris REBOUND (Off:2 Def:2),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,613,2,72,4,10:17 PM,3:42,,,MISS Harris Putback Layup,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,615,4,0,4,10:17 PM,3:40,Vucevic REBOUND (Off:3 Def:15),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,616,2,1,4,10:17 PM,3:28,MISS Vucevic 28' 3PT Jump Shot,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,617,4,0,4,10:17 PM,3:26,,,Maxey REBOUND (Off:0 Def:5),,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,618,6,2,4,10:17 PM,3:16,Green S.FOUL (P3.T4) (J.Ralls),,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200084,620,3,11,4,10:18 PM,3:16,,,Harden Free Throw 1 of 2 (12 PTS),106 - 107,1,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,621,9,1,4,10:18 PM,3:16,BULLS Timeout: Regular (Full 5 Short 0),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200084,622,8,0,4,10:21 PM,3:16,SUB: LaVine FOR White,,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200084,623,8,0,4,10:21 PM,3:16,SUB: Williams FOR Green,,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200084,626,3,12,4,10:22 PM,3:16,,,Harden Free Throw 2 of 2 (13 PTS),107 - 107,TIE,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,627,2,79,4,10:22 PM,2:53,MISS DeRozan 20' Pullup Jump Shot,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,628,4,0,4,10:22 PM,2:50,,,Tucker REBOUND (Off:0 Def:4),,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,629,6,1,4,10:22 PM,2:31,Williams P.FOUL (P2.PN) (J.Ralls),,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200084,631,3,11,4,10:23 PM,2:31,,,Harden Free Throw 1 of 2 (14 PTS),108 - 107,-1,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,632,3,12,4,10:23 PM,2:31,,,Harden Free Throw 2 of 2 (15 PTS),109 - 107,-2,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,633,5,1,4,10:24 PM,2:18,DeRozan Bad Pass Turnover (P4.T18),,Harris STEAL (1 STL),,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200084,635,2,79,4,10:24 PM,1:56,,,MISS Harden 25' 3PT Pullup Jump Shot,,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,636,4,0,4,10:24 PM,1:52,Vucevic REBOUND (Off:3 Def:16),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,637,2,1,4,10:24 PM,1:41,MISS LaVine 21' Jump Shot,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,638,4,0,4,10:24 PM,1:39,,,Embiid REBOUND (Off:2 Def:5),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,639,2,1,4,10:24 PM,1:22,,,MISS Embiid 18' Jump Shot,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,640,4,0,4,10:24 PM,1:21,Caruso REBOUND (Off:0 Def:2),,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,641,6,1,4,10:25 PM,1:10,,,Embiid P.FOUL (P4.PN) (J.Tiven),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200084,643,3,11,4,10:25 PM,1:10,Vucevic Free Throw 1 of 2 (22 PTS),,,109 - 108,-1,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,644,3,12,4,10:25 PM,1:10,Vucevic Free Throw 2 of 2 (23 PTS),,,109 - 109,TIE,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,645,9,1,4,10:26 PM,1:10,,,76ers Timeout: Regular (Reg.6 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200084,646,6,1,4,10:27 PM,1:01,Williams P.FOUL (P3.PN) (J.Ralls),,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200084,648,3,11,4,10:28 PM,1:01,,,MISS Embiid Free Throw 1 of 2,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,649,4,1,4,10:28 PM,1:01,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200084,650,3,12,4,10:28 PM,1:01,,,MISS Embiid Free Throw 2 of 2,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,651,4,0,4,10:28 PM,0:58,Caruso REBOUND (Off:0 Def:3),,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,652,2,79,4,10:29 PM,0:37,MISS LaVine 20' Pullup Jump Shot,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,653,4,0,4,10:29 PM,0:35,,,Harden REBOUND (Off:0 Def:6),,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,654,9,1,4,10:29 PM,0:35,,,76ers Timeout: Regular (Reg.7 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200084,655,1,1,4,10:31 PM,0:18,,,Embiid 25' 3PT Jump Shot (25 PTS) (Harden 11 AST),112 - 109,-3,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200084,657,9,1,4,10:31 PM,0:18,BULLS Timeout: Regular (Full 6 Short 0),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200084,658,8,0,4,10:32 PM,0:18,,,SUB: Thybulle FOR Maxey,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200084,660,2,6,4,10:32 PM,0:12,MISS DeRozan 2' Driving Layup,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,661,4,0,4,10:32 PM,0:10,,,Tucker REBOUND (Off:0 Def:5),,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,662,5,1,4,10:32 PM,0:07,Caruso STEAL (3 STL),,Tucker Bad Pass Turnover (P4.T19),,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200084,664,2,1,4,10:32 PM,0:04,MISS Caruso 26' 3PT Jump Shot,,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200084,665,4,0,4,10:33 PM,0:04,,,Harris REBOUND (Off:2 Def:3),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,666,6,1,4,10:33 PM,0:04,LaVine P.FOUL (P4.PN) (J.Ralls),,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200084,668,3,11,4,10:33 PM,0:04,,,Harris Free Throw 1 of 2 (12 PTS),113 - 109,-4,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,669,3,12,4,10:33 PM,0:04,,,Harris Free Throw 2 of 2 (13 PTS),114 - 109,-5,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,670,9,1,4,10:33 PM,0:04,BULLS Timeout: Regular (Full 7 Short 0),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200084,673,8,0,4,10:35 PM,0:04,,,SUB: Melton FOR Harden,,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200084,674,2,63,4,10:35 PM,0:00,MISS LaVine 24' 3PT Fadeaway Jumper,,Harris BLOCK (2 BLK),,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,1
+0022200084,675,4,0,4,10:35 PM,0:00,,,Tucker REBOUND (Off:0 Def:6),,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200084,676,13,0,4,10:35 PM,0:00,,End of 4th Period (10:35 PM EST),,114 - 109,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

@@ -1,0 +1,462 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200139,2,12,0,1,10:11 PM,12:00,,Start of 1st Period (10:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200139,4,10,0,1,10:11 PM,12:00,Jump Ball Ayton vs. Nurkic: Tip to Winslow,,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,5,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,1
+0022200139,7,2,6,1,10:12 PM,11:47,,,MISS Winslow 6' Driving Layup,,,5,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,8,4,0,1,10:12 PM,11:45,Ayton REBOUND (Off:0 Def:1),,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,9,1,1,1,10:12 PM,11:40,Paul 19' Jump Shot (2 PTS),,,0 - 2,2,4,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,10,6,2,1,10:12 PM,11:22,Ayton S.FOUL (P1.T1) (N.Sago),,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200139,12,3,11,1,10:12 PM,11:22,,,Grant Free Throw 1 of 2 (1 PTS),1 - 2,1,5,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,13,3,12,1,10:13 PM,11:22,,,Grant Free Throw 2 of 2 (2 PTS),2 - 2,TIE,5,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,14,5,1,1,10:13 PM,11:06,Paul Bad Pass Turnover (P1.T1),,Hart STEAL (1 STL),,,4,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,5,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200139,16,1,103,1,10:13 PM,11:01,,,Sharpe 16' Running Pull-Up Jump Shot (2 PTS) (Grant 1 AST),4 - 2,-2,5,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,5,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200139,18,1,3,1,10:13 PM,10:43,Ayton 8' Hook Shot (2 PTS),,,4 - 4,TIE,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,19,1,58,1,10:14 PM,10:25,,,Nurkic 12' Turnaround Hook Shot (2 PTS),6 - 4,-2,5,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,20,5,1,1,10:14 PM,10:13,Booker Bad Pass Turnover (P1.T2),,Winslow STEAL (1 STL),,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200139,22,1,74,1,10:14 PM,10:06,,,Sharpe 1' Running Reverse Layup (4 PTS) (Hart 1 AST),8 - 4,-4,5,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,5,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200139,24,1,1,1,10:14 PM,9:45,Craig 24' 3PT Jump Shot (3 PTS) (Bridges 1 AST),,,8 - 7,-1,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200139,26,2,6,1,10:15 PM,9:28,Craig BLOCK (1 BLK),,MISS Grant 3' Driving Layup,,,5,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,1
+0022200139,28,4,0,1,10:15 PM,9:28,,,Trail Blazers Rebound,,,3,1610612757,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200139,31,2,101,1,10:16 PM,9:19,,,MISS Winslow 13' Driving Floating Jump Shot,,,5,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,32,4,0,1,10:16 PM,9:17,Craig REBOUND (Off:0 Def:1),,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,33,6,1,1,10:16 PM,9:12,,,Hart P.FOUL (P1.T1) (N.Sago),,,5,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200139,35,1,108,1,10:16 PM,9:03,Ayton 2' Cutting Dunk Shot (4 PTS) (Craig 1 AST),,,8 - 9,1,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200139,37,2,79,1,10:17 PM,8:46,,,MISS Grant 19' Pullup Jump Shot,,,5,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,38,4,0,1,10:17 PM,8:43,Craig REBOUND (Off:0 Def:2),,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,39,2,78,1,10:17 PM,8:36,MISS Ayton 11' Floating Jump Shot,,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,40,4,0,1,10:17 PM,8:35,,,Nurkic REBOUND (Off:0 Def:1),,,5,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,41,2,1,1,10:17 PM,8:22,,,MISS Nurkic 25' 3PT Jump Shot,,,5,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,42,4,0,1,10:17 PM,8:18,Bridges REBOUND (Off:0 Def:1),,,,,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,43,2,6,1,10:17 PM,8:11,MISS Booker 3' Driving Layup,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,44,4,0,1,10:17 PM,8:09,,,Hart REBOUND (Off:0 Def:1),,,5,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,45,1,106,1,10:17 PM,8:05,,,Sharpe Running Alley Oop Dunk Shot (6 PTS) (Hart 2 AST),10 - 9,-1,5,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,5,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200139,47,6,1,1,10:18 PM,7:54,,,Winslow P.FOUL (P1.T2) (E.Scott),,,5,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200139,49,2,1,1,10:18 PM,7:48,MISS Craig 24' 3PT Jump Shot,,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,50,4,0,1,10:18 PM,7:42,Ayton REBOUND (Off:1 Def:1),,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,51,1,72,1,10:18 PM,7:41,Ayton 3' Putback Layup (6 PTS),,,10 - 11,1,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,53,1,66,1,10:18 PM,7:21,,,Nurkic 14' Jump Bank Shot (4 PTS),12 - 11,-1,5,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,55,1,1,1,10:19 PM,6:56,Booker 3PT Jump Shot (3 PTS) (Craig 2 AST),,,12 - 14,2,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200139,57,1,80,1,10:19 PM,6:29,,,Nurkic 18' Step Back Jump Shot (6 PTS) (Hart 3 AST),14 - 14,TIE,5,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,5,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200139,59,1,108,1,10:20 PM,6:16,Craig 1' Cutting Dunk Shot (5 PTS) (Paul 1 AST),,,14 - 16,2,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,4,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200139,61,2,101,1,10:20 PM,6:02,,,MISS Winslow 7' Driving Floating Jump Shot,,,5,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,62,4,0,1,10:20 PM,6:00,,,Trail Blazers Rebound,,,3,1610612757,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200139,64,9,1,1,10:20 PM,6:00,SUNS Timeout: Regular (Full 1 Short 0),,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200139,65,8,0,1,10:21 PM,6:00,,,SUB: Johnson FOR Winslow,,,5,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,5,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200139,67,2,3,1,10:23 PM,5:51,,,MISS Nurkic 9' Hook Shot,,,5,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,68,4,0,1,10:23 PM,5:48,Ayton REBOUND (Off:1 Def:2),,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,69,2,1,1,10:23 PM,5:28,MISS Craig 3PT Jump Shot,,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,70,4,0,1,10:23 PM,5:27,,,Sharpe REBOUND (Off:0 Def:1),,,5,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,71,2,73,1,10:24 PM,5:14,,,MISS Sharpe 5' Driving Reverse Layup,,,5,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,72,4,0,1,10:24 PM,5:14,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200139,74,8,0,1,10:24 PM,5:14,,,SUB: Eubanks FOR Sharpe,,,5,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,5,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200139,75,8,0,1,10:24 PM,5:14,,,SUB: Little FOR Nurkic,,,5,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,5,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200139,78,1,6,1,10:24 PM,5:07,Booker 5' Driving Layup (5 PTS) (Bridges 2 AST),,,14 - 18,4,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200139,80,6,1,1,10:24 PM,5:03,Paul P.FOUL (P1.T2) (J.Tiven),,,,,4,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,5,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200139,82,6,2,1,10:25 PM,4:52,Ayton S.FOUL (P2.T3) (E.Scott),,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200139,84,3,11,1,10:25 PM,4:52,,,Little Free Throw 1 of 2 (1 PTS),15 - 18,3,5,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,85,8,0,1,10:25 PM,4:52,SUB: Landale FOR Ayton,,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200139,87,3,12,1,10:26 PM,4:52,,,Little Free Throw 2 of 2 (2 PTS),16 - 18,2,5,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,88,1,1,1,10:26 PM,4:44,Paul 27' 3PT Jump Shot (5 PTS) (Booker 1 AST),,,16 - 21,5,4,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200139,90,2,98,1,10:26 PM,4:27,Booker BLOCK (1 BLK),,MISS Little 8' Cutting Layup Shot,,,5,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1
+0022200139,92,4,0,1,10:26 PM,4:27,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200139,95,1,1,1,10:26 PM,4:20,Bridges 24' 3PT Jump Shot (3 PTS) (Craig 3 AST),,,16 - 24,8,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200139,97,9,1,1,10:27 PM,4:18,,,Trail Blazers Timeout: Regular (Reg.1 Short 0),,,3,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200139,98,8,0,1,10:27 PM,4:18,SUB: Shamet FOR Craig,,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,4,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200139,99,8,0,1,10:27 PM,4:18,SUB: Lee FOR Paul,,,,,4,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200139,102,1,1,1,10:30 PM,4:03,,,Little 26' 3PT Jump Shot (5 PTS) (Grant 2 AST),19 - 24,5,5,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,5,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200139,104,2,75,1,10:30 PM,3:45,MISS Booker 3' Driving Finger Roll Layup,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,105,4,0,1,10:30 PM,3:43,,,Little REBOUND (Off:0 Def:1),,,5,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,106,1,1,1,10:30 PM,3:26,,,Grant 14' Jump Shot (4 PTS) (Hart 4 AST),21 - 24,3,5,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,5,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200139,108,6,1,1,10:31 PM,3:13,,,Johnson P.FOUL (P1.T3) (J.Tiven),,,5,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200139,110,6,2,1,10:31 PM,3:05,,,Little S.FOUL (P1.T4) (J.Tiven),,,5,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200139,112,3,11,1,10:31 PM,3:05,Bridges Free Throw 1 of 2 (4 PTS),,,21 - 25,4,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,113,3,12,1,10:32 PM,3:05,Bridges Free Throw 2 of 2 (5 PTS),,,21 - 26,5,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,114,5,1,1,10:32 PM,2:48,Bridges STEAL (1 STL),,Johnson Bad Pass Turnover (P1.T1),,,5,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200139,116,1,79,1,10:32 PM,2:37,Bridges 8' Pullup Jump Shot (7 PTS),,,21 - 28,7,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,117,2,101,1,10:32 PM,2:27,,,MISS Hart 11' Driving Floating Jump Shot,,,5,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,118,4,0,1,10:32 PM,2:24,Lee REBOUND (Off:0 Def:1),,,,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,119,1,79,1,10:33 PM,2:06,Lee 4' Pullup Jump Shot (2 PTS) (Landale 1 AST),,,21 - 30,9,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200139,121,1,98,1,10:33 PM,1:42,,,Little 2' Cutting Layup Shot (7 PTS) (Eubanks 1 AST),23 - 30,7,5,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,5,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200139,123,6,1,1,10:33 PM,1:34,,,Johnson P.FOUL (P2.PN) (E.Scott),,,5,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200139,125,3,11,1,10:34 PM,1:34,Booker Free Throw 1 of 2 (6 PTS),,,23 - 31,8,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,126,8,0,1,10:34 PM,1:34,SUB: Saric FOR Bridges,,,,,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,4,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200139,127,8,0,1,10:34 PM,1:34,,,SUB: Walker FOR Grant,,,5,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,5,1631133,Jabari Walker,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200139,128,8,0,1,10:34 PM,1:34,,,SUB: Sharpe FOR Hart,,,5,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,5,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200139,132,3,12,1,10:34 PM,1:34,Booker Free Throw 2 of 2 (7 PTS),,,23 - 32,9,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,134,1,1,1,10:35 PM,1:19,,,Sharpe 24' 3PT Jump Shot (9 PTS) (Little 1 AST),26 - 32,6,5,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,5,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200139,136,2,75,1,10:35 PM,1:02,MISS Booker 4' Driving Finger Roll Layup,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,137,4,0,1,10:35 PM,1:01,Saric REBOUND (Off:1 Def:0),,,,,4,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,138,5,13,1,10:35 PM,0:59,Landale Backcourt Turnover (P1.T3),,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0022200139,139,8,0,1,10:35 PM,0:59,SUB: Okogie FOR Booker,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200139,141,2,101,1,10:36 PM,0:52,,,MISS Johnson 6' Driving Floating Jump Shot,,,5,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,142,4,0,1,10:36 PM,0:49,Shamet REBOUND (Off:0 Def:1),,,,,4,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,143,2,5,1,10:36 PM,0:40,MISS Lee 7' Layup,,Walker BLOCK (1 BLK),,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,1631133,Jabari Walker,1610612757.0,Portland,Trail Blazers,POR,1
+0022200139,145,4,0,1,10:36 PM,0:38,,,Johnson REBOUND (Off:0 Def:1),,,5,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,146,6,14,1,10:37 PM,0:38,,,Eubanks FLAGRANT.FOUL.TYPE1 (P1.PN) (J.Tiven),,,5,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200139,148,5,0,1,10:37 PM,0:38,,,Eubanks Turnover Turnover (P1.T2),,,5,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0022200139,149,18,1,1,10:38 PM,0:38,,Instant Replay1st Period (10:38 PM EST),,26 - 32,6,0,146,Jud Buechler,,,,,0,0,,,,,,1,0,,,,,,0
+0022200139,150,3,18,1,10:39 PM,0:38,MISS Lee Free Throw Flagrant 1 of 2,,,,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,151,4,1,1,10:39 PM,0:38,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200139,152,3,19,1,10:39 PM,0:38,Lee Free Throw Flagrant 2 of 2 (3 PTS),,,26 - 33,7,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,153,1,98,1,10:40 PM,0:35,Landale 2' Cutting Layup Shot (2 PTS) (Shamet 1 AST),,,26 - 35,9,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,4,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200139,155,5,1,1,10:40 PM,0:19,Landale STEAL (1 STL),,Johnson Bad Pass Turnover (P2.T3),,,5,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200139,157,2,79,1,10:41 PM,0:01,MISS Okogie 15' Pullup Jump Shot,,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,158,4,0,1,10:41 PM,0:01,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200139,159,13,0,1,10:41 PM,0:00,,End of 1st Period (10:41 PM EST),,26 - 35,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200139,164,12,0,2,10:43 PM,12:00,,Start of 2nd Period (10:43 PM EST),,26 - 35,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200139,165,5,4,2,10:44 PM,11:43,Okogie Traveling Turnover (P1.T4),,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0022200139,166,5,40,2,10:44 PM,11:30,,,Sharpe Out of Bounds Lost Ball Turnover (P1.T4),,,5,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0022200139,167,1,1,2,10:44 PM,11:18,Shamet 28' 3PT Jump Shot (3 PTS) (Landale 2 AST),,,26 - 38,12,4,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200139,169,1,98,2,10:45 PM,10:59,,,Walker 4' Cutting Layup Shot (2 PTS) (Winslow 1 AST),28 - 38,10,5,1631133,Jabari Walker,1610612757.0,Portland,Trail Blazers,POR,5,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200139,171,10,0,2,10:45 PM,10:45, ,,,,,4,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,5,1631133,Jabari Walker,1610612757.0,Portland,Trail Blazers,POR,2,1610612756,,,,,,1
+0022200139,174,2,1,2,10:46 PM,10:41,MISS Shamet 27' 3PT Jump Shot,,,,,4,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,175,4,0,2,10:46 PM,10:38,Landale REBOUND (Off:1 Def:0),,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,176,2,6,2,10:46 PM,10:28,MISS Saric 5' Driving Layup,,Winslow BLOCK (1 BLK),,,4,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,1
+0022200139,178,4,0,2,10:46 PM,10:28,Landale REBOUND (Off:2 Def:0),,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,179,6,2,2,10:46 PM,10:28,,,Walker S.FOUL (P1.T1) (N.Sago),,,5,1631133,Jabari Walker,1610612757.0,Portland,Trail Blazers,POR,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200139,181,3,11,2,10:46 PM,10:28,MISS Landale Free Throw 1 of 2,,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,182,4,1,2,10:46 PM,10:28,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200139,183,3,12,2,10:46 PM,10:28,Landale Free Throw 2 of 2 (3 PTS),,,28 - 39,11,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0022200139,184,6,1,2,10:47 PM,10:13,Okogie P.FOUL (P1.T1) (J.Tiven),,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,5,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200139,187,2,47,2,10:48 PM,9:59,,,MISS Winslow 17' Turnaround Jump Shot,,,5,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,188,4,0,2,10:48 PM,9:57,,,Trail Blazers Rebound,,,3,1610612757,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200139,189,6,3,2,10:48 PM,9:57,Landale L.B.FOUL (P1.T2) (E.Scott),,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,5,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200139,191,5,1,2,10:48 PM,9:48,Saric STEAL (1 STL),,Sharpe Bad Pass Turnover (P2.T5),,,5,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,4,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200139,193,1,1,2,10:49 PM,9:43,Lee 26' 3PT Jump Shot (6 PTS) (Shamet 2 AST),,,28 - 42,14,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,4,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200139,195,9,1,2,10:49 PM,9:41,,,Trail Blazers Timeout: Regular (Reg.2 Short 0),,,3,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200139,196,8,0,2,10:51 PM,9:41,,,SUB: Watford FOR Little,,,5,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200139,197,8,0,2,10:51 PM,9:41,,,SUB: Hart FOR Walker,,,5,1631133,Jabari Walker,1610612757.0,Portland,Trail Blazers,POR,5,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200139,200,1,1,2,10:52 PM,9:19,,,Winslow 24' 3PT Jump Shot (3 PTS) (Hart 5 AST),31 - 42,11,5,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,5,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200139,202,2,1,2,10:52 PM,9:04,MISS Landale 27' 3PT Jump Shot,,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,203,4,0,2,10:52 PM,9:01,,,Watford REBOUND (Off:0 Def:1),,,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,204,2,5,2,10:52 PM,8:55,Shamet BLOCK (1 BLK),,MISS Hart 5' Layup,,,5,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,4,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,1
+0022200139,206,4,0,2,10:52 PM,8:52,,,Hart REBOUND (Off:1 Def:1),,,5,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,208,8,0,2,10:53 PM,8:48,SUB: Paul FOR Okogie,,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,4,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200139,210,1,108,2,10:53 PM,8:43,,,Sharpe 1' Cutting Dunk Shot (11 PTS) (Winslow 2 AST),33 - 42,9,5,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,5,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200139,212,2,80,2,10:53 PM,8:20,MISS Lee 22' Step Back Jump Shot,,,,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,213,4,0,2,10:53 PM,8:17,Saric REBOUND (Off:2 Def:0),,,,,4,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,214,2,72,2,10:53 PM,8:16,MISS Saric 4' Putback Layup,,Nurkic BLOCK (1 BLK),,,4,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,1
+0022200139,216,4,0,2,10:53 PM,8:13,,,Sharpe REBOUND (Off:0 Def:2),,,5,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,217,2,47,2,10:54 PM,8:01,,,MISS Nurkic 7' Turnaround Jump Shot,,,5,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,218,4,0,2,10:54 PM,8:00,,,Winslow REBOUND (Off:1 Def:0),,,5,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,219,2,72,2,10:54 PM,7:58,,,MISS Winslow 2' Putback Layup,,,5,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,220,4,0,2,10:54 PM,7:57,Paul REBOUND (Off:0 Def:1),,,,,4,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,221,2,1,2,10:54 PM,7:48,MISS Saric 27' 3PT Jump Shot,,,,,4,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,222,4,0,2,10:54 PM,7:46,,,Sharpe REBOUND (Off:0 Def:3),,,5,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,224,6,1,2,10:54 PM,7:42,Saric P.FOUL (P1.T3) (N.Sago),,,,,4,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,5,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200139,226,8,0,2,10:54 PM,7:42,SUB: Ayton FOR Landale,,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200139,227,8,0,2,10:54 PM,7:42,SUB: Bridges FOR Shamet,,,,,4,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200139,230,8,0,2,10:54 PM,7:42,SUB: Craig FOR Saric,,,,,4,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200139,232,8,0,2,10:54 PM,7:42,,,SUB: Grant FOR Sharpe,,,5,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,5,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200139,234,2,1,2,10:55 PM,7:27,,,MISS Watford 3PT Jump Shot,,,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,235,4,0,2,10:55 PM,7:26,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200139,237,6,4,2,10:55 PM,7:18,Ayton OFF.Foul (P3) (J.Tiven),,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200139,239,5,37,2,10:55 PM,7:18,Ayton Offensive Foul Turnover (P1.T5),,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0022200139,240,2,3,2,10:56 PM,7:04,Ayton BLOCK (1 BLK),,MISS Nurkic 8' Hook Shot,,,5,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,1
+0022200139,243,2,72,2,10:56 PM,7:00,Ayton BLOCK (2 BLK),,MISS Watford 6' Putback Layup,,,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,1
+0022200139,242,4,0,2,10:56 PM,7:00,,,Watford REBOUND (Off:1 Def:1),,,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,245,4,0,2,10:56 PM,6:58,Paul REBOUND (Off:0 Def:2),,,,,4,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,246,6,1,2,10:56 PM,6:48,,,Nurkic P.FOUL (P1.T2) (N.Sago),,,5,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200139,248,6,11,2,10:56 PM,6:48,,,Nurkic T.FOUL (P1.T2) (N.Sago),,,5,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0022200139,249,3,16,2,10:57 PM,6:48,Paul Free Throw Technical (6 PTS),,,33 - 43,10,4,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,250,8,0,2,10:57 PM,6:48,SUB: Biyombo FOR Ayton,,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200139,252,2,6,2,10:57 PM,6:33,MISS Paul 6' Driving Layup,,,,,4,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,253,4,0,2,10:57 PM,6:32,,,Nurkic REBOUND (Off:0 Def:2),,,5,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,254,2,63,2,10:57 PM,6:19,,,MISS Grant 13' Fadeaway Jumper,,,5,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,255,4,0,2,10:57 PM,6:16,Biyombo REBOUND (Off:0 Def:1),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,258,6,1,2,10:58 PM,6:09,,,Nurkic P.FOUL (P2.T3) (E.Scott),,,5,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200139,260,8,0,2,10:58 PM,6:09,SUB: Booker FOR Lee,,,,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200139,261,8,0,2,10:58 PM,6:09,,,SUB: Johnson FOR Watford,,,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,5,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200139,262,8,0,2,10:58 PM,6:09,,,SUB: Eubanks FOR Nurkic,,,5,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,5,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200139,266,2,79,2,10:59 PM,5:59,MISS Bridges 13' Pullup Jump Shot,,,,,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,267,4,0,2,10:59 PM,5:55,,,Eubanks REBOUND (Off:0 Def:1),,,5,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,268,2,1,2,10:59 PM,5:48,,,MISS Winslow 26' 3PT Jump Shot,,,5,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,269,4,0,2,10:59 PM,5:46,Craig REBOUND (Off:0 Def:3),,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,270,6,1,2,10:59 PM,5:42,,,Eubanks P.FOUL (P2.T4) (E.Scott),,,5,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200139,272,1,6,2,10:59 PM,5:30,Bridges 3' Driving Layup (9 PTS) (Paul 2 AST),,,33 - 45,12,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,4,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200139,274,2,6,2,11:00 PM,5:12,Booker BLOCK (2 BLK),,MISS Hart 5' Driving Layup,,,5,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1
+0022200139,276,4,0,2,11:00 PM,5:10,Booker REBOUND (Off:0 Def:1),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,277,1,103,2,11:00 PM,5:05,Booker 27' 3PT Running Pull-Up Jump Shot (10 PTS),,,33 - 48,15,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,278,2,1,2,11:00 PM,4:40,,,MISS Winslow 24' 3PT Jump Shot,,,5,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,280,2,72,2,11:00 PM,4:35,Biyombo BLOCK (1 BLK),,MISS Johnson 3' Putback Layup,,,5,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,1
+0022200139,279,4,0,2,11:00 PM,4:35,,,Johnson REBOUND (Off:1 Def:1),,,5,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,282,4,0,2,11:00 PM,4:32,Paul REBOUND (Off:0 Def:3),,,,,4,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,284,6,2,2,11:01 PM,4:29,,,Hart S.FOUL (P2.PN) (J.Tiven),,,5,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200139,286,3,11,2,11:01 PM,4:29,Booker Free Throw 1 of 2 (11 PTS),,,33 - 49,16,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,287,3,12,2,11:01 PM,4:29,Booker Free Throw 2 of 2 (12 PTS),,,33 - 50,17,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,288,1,1,2,11:02 PM,4:17,,,Johnson 26' 3PT Jump Shot (3 PTS) (Eubanks 2 AST),36 - 50,14,5,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,5,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200139,290,1,79,2,11:02 PM,4:01,Booker 13' Pullup Jump Shot (14 PTS),,,36 - 52,16,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,291,2,6,2,11:02 PM,3:44,,,MISS Grant 6' Driving Layup,,,5,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,292,4,0,2,11:02 PM,3:42,Booker REBOUND (Off:0 Def:2),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,293,6,1,2,11:02 PM,3:31,,,Winslow P.FOUL (P2.PN) (E.Scott),,,5,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,4,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200139,295,3,11,2,11:03 PM,3:31,Paul Free Throw 1 of 2 (7 PTS),,,36 - 53,17,4,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,296,3,12,2,11:03 PM,3:31,Paul Free Throw 2 of 2 (8 PTS),,,36 - 54,18,4,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,297,5,40,2,11:03 PM,3:20,,,Grant Out of Bounds Lost Ball Turnover (P1.T6),,,5,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0022200139,298,6,4,2,11:04 PM,3:05,Biyombo OFF.Foul (P1) (N.Sago),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,5,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200139,300,5,37,2,11:04 PM,3:05,Biyombo Offensive Foul Turnover (P1.T6),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0022200139,301,2,101,2,11:04 PM,2:55,,,MISS Johnson 12' Driving Floating Jump Shot,,,5,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,302,4,0,2,11:04 PM,2:53,Craig REBOUND (Off:0 Def:4),,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,303,1,1,2,11:05 PM,2:45,Paul 27' 3PT Jump Shot (11 PTS) (Craig 4 AST),,,36 - 57,21,4,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200139,305,2,73,2,11:05 PM,2:18,Biyombo BLOCK (2 BLK),,MISS Hart 3' Driving Reverse Layup,,,5,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,1
+0022200139,307,4,0,2,11:05 PM,2:17,,,Trail Blazers Rebound,,,3,1610612757,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200139,308,5,11,2,11:05 PM,2:17,,,Trail Blazers Turnover: Shot Clock (T#7),,,3,1610612757,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200139,309,9,1,2,11:05 PM,2:17,SUNS Timeout: Regular (Full 2 Short 0),,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200139,310,8,0,2,11:07 PM,2:17,,,SUB: Nurkic FOR Winslow,,,5,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,5,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200139,311,8,0,2,11:07 PM,2:17,,,SUB: Sharpe FOR Eubanks,,,5,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,5,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200139,314,1,1,2,11:09 PM,2:00,Booker 18' Jump Shot (16 PTS) (Paul 3 AST),,,36 - 59,23,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200139,316,1,6,2,11:09 PM,1:46,,,Grant 3' Driving Layup (6 PTS) (Johnson 1 AST),38 - 59,21,5,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,5,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200139,318,6,2,2,11:09 PM,1:46,Booker S.FOUL (P1.T4) (N.Sago),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200139,320,3,10,2,11:09 PM,1:46,,,MISS Grant Free Throw 1 of 1,,,5,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,321,4,0,2,11:09 PM,1:43,,,Grant REBOUND (Off:1 Def:0),,,5,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,322,2,1,2,11:09 PM,1:39,,,MISS Grant 17' Jump Shot,,,5,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,323,4,0,2,11:09 PM,1:35,Biyombo REBOUND (Off:0 Def:2),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,324,2,103,2,11:10 PM,1:31,MISS Booker 26' 3PT Running Pull-Up Jump Shot,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,325,4,0,2,11:10 PM,1:29,,,Nurkic REBOUND (Off:0 Def:3),,,5,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,326,2,76,2,11:10 PM,1:22,,,MISS Johnson 4' Running Finger Roll Layup,,,5,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,327,4,0,2,11:10 PM,1:20,Biyombo REBOUND (Off:0 Def:3),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,328,2,58,2,11:10 PM,1:10,MISS Biyombo 6' Turnaround Hook Shot,,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,329,4,0,2,11:10 PM,1:08,,,Sharpe REBOUND (Off:0 Def:4),,,5,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,330,2,6,2,11:10 PM,1:01,,,MISS Sharpe 5' Driving Layup,,,5,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,332,4,0,2,11:10 PM,1:00,,,Nurkic REBOUND (Off:1 Def:3),,,5,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,333,1,72,2,11:10 PM,1:00,,,Nurkic 2' Putback Layup (8 PTS),40 - 59,19,5,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,334,2,80,2,11:11 PM,0:39,MISS Booker 28' 3PT Step Back Jump Shot,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,335,4,0,2,11:11 PM,0:37,,,Hart REBOUND (Off:1 Def:2),,,5,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,336,2,79,2,11:11 PM,0:27,,,MISS Sharpe 15' Pullup Jump Shot,,,5,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,337,4,0,2,11:11 PM,0:25,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200139,338,6,3,2,11:11 PM,0:25,,,Hart L.B.FOUL (P3.PN) (J.Tiven),,,5,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,4,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200139,340,3,11,2,11:11 PM,0:25,Paul Free Throw 1 of 2 (12 PTS),,,40 - 60,20,4,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,341,3,12,2,11:12 PM,0:25,Paul Free Throw 2 of 2 (13 PTS),,,40 - 61,21,4,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,342,5,39,2,11:12 PM,0:01,,,Grant Step Out of Bounds Turnover (P2.T8),,,5,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0022200139,343,2,1,2,11:13 PM,0:00,MISS Booker 30' 3PT Jump Shot,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,344,4,0,2,11:13 PM,0:00,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200139,345,13,0,2,11:13 PM,0:00,,End of 2nd Period (11:13 PM EST),,40 - 61,21,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200139,350,12,0,3,11:28 PM,12:00,,Start of 3rd Period (11:28 PM EST),,40 - 61,21,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200139,351,2,1,3,11:29 PM,11:35,MISS Paul 26' 3PT Jump Shot,,,,,4,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,352,4,0,3,11:29 PM,11:33,Ayton REBOUND (Off:2 Def:2),,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,353,6,2,3,11:29 PM,11:33,,,Nurkic S.FOUL (P3.T1) (J.Tiven),,,5,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200139,355,3,11,3,11:29 PM,11:33,MISS Ayton Free Throw 1 of 2,,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,356,4,1,3,11:29 PM,11:33,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200139,357,3,12,3,11:29 PM,11:33,Ayton Free Throw 2 of 2 (7 PTS),,,40 - 62,22,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,358,5,40,3,11:29 PM,11:22,,,Nurkic Out of Bounds Lost Ball Turnover (P1.T9),,,5,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0022200139,359,2,6,3,11:30 PM,11:15,MISS Ayton 1' Driving Layup,,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,360,4,0,3,11:30 PM,11:13,,,Nurkic REBOUND (Off:1 Def:4),,,5,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,361,5,4,3,11:30 PM,11:09,,,Winslow Traveling Turnover (P1.T10),,,5,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0022200139,362,2,80,3,11:30 PM,10:52,MISS Booker 17' Step Back Jump Shot,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,363,4,0,3,11:30 PM,10:49,,,Winslow REBOUND (Off:1 Def:1),,,5,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,364,6,1,3,11:30 PM,10:44,Craig P.FOUL (P1.T1) (J.Tiven),,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,5,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200139,366,1,98,3,11:31 PM,10:37,,,Winslow 3' Cutting Layup Shot (5 PTS) (Hart 6 AST),42 - 62,20,5,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,5,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200139,368,1,80,3,11:31 PM,10:21,Booker 8' Step Back Jump Shot (18 PTS) (Ayton 1 AST),,,42 - 64,22,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200139,370,2,5,3,11:31 PM,10:06,Craig BLOCK (2 BLK),,MISS Grant 7' Layup,,,5,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,1
+0022200139,372,4,0,3,11:31 PM,10:03,,,Grant REBOUND (Off:2 Def:0),,,5,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,373,2,1,3,11:31 PM,10:02,,,MISS Sharpe 3PT Jump Shot,,,5,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,374,4,0,3,11:32 PM,10:00,Ayton REBOUND (Off:2 Def:3),,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,376,6,1,3,11:32 PM,9:43,,,Sharpe P.FOUL (P1.T2) (N.Sago),,,5,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,4,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200139,378,2,1,3,11:32 PM,9:41,MISS Booker 25' 3PT Jump Shot,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0022200139,379,4,0,3,11:32 PM,9:38,,,Nurkic REBOUND (Off:1 Def:5),,,5,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,380,5,2,3,11:32 PM,9:23,Bridges STEAL (2 STL),,Nurkic Lost Ball Turnover (P2.T11),,,5,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200139,382,2,101,3,11:33 PM,9:04,MISS Bridges 7' Driving Floating Jump Shot,,,,,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,383,4,0,3,11:33 PM,9:03,,,Hart REBOUND (Off:1 Def:3),,,5,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,384,2,6,3,11:33 PM,8:56,Bridges BLOCK (1 BLK),,MISS Hart 5' Driving Layup,,,5,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,1
+0022200139,386,4,0,3,11:33 PM,8:54,Craig REBOUND (Off:0 Def:5),,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,387,2,98,3,11:33 PM,8:49,MISS Craig 1' Cutting Layup Shot,,Grant BLOCK (1 BLK),,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,1
+0022200139,389,4,0,3,11:33 PM,8:46,Booker REBOUND (Off:1 Def:2),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,390,1,72,3,11:33 PM,8:46,Booker 4' Putback Layup (20 PTS),,,42 - 66,24,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,391,9,1,3,11:33 PM,8:46,,,Trail Blazers Timeout: Regular (Reg.3 Short 0),,,3,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200139,392,6,4,3,11:36 PM,8:33,,,Nurkic OFF.Foul (P4) (E.Scott),,,5,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200139,394,5,37,3,11:36 PM,8:33,,,Nurkic Offensive Foul Turnover (P3.T12),,,5,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0022200139,395,2,1,3,11:37 PM,8:25,MISS Ayton 26' 3PT Jump Shot,,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,396,4,0,3,11:37 PM,8:20,,,Grant REBOUND (Off:2 Def:1),,,5,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,398,1,74,3,11:37 PM,8:14,,,Grant 4' Running Reverse Layup (8 PTS),44 - 66,22,5,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,399,5,45,3,11:37 PM,7:58,Craig Out of Bounds - Bad Pass Turnover Turnover (P1.T7),,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,400,5,2,3,11:38 PM,7:38,Craig STEAL (1 STL),,Nurkic Lost Ball Turnover (P4.T13),,,5,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200139,402,2,1,3,11:38 PM,7:31,MISS Bridges 24' 3PT Jump Shot,,,,,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,403,4,0,3,11:38 PM,7:29,,,Nurkic REBOUND (Off:1 Def:6),,,5,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,404,1,41,3,11:38 PM,7:21,,,Sharpe 4' Running Layup (13 PTS) (Grant 3 AST),46 - 66,20,5,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,5,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200139,406,2,79,3,11:38 PM,7:02,MISS Paul 18' Pullup Jump Shot,,,,,4,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,407,4,0,3,11:38 PM,6:57,,,Hart REBOUND (Off:1 Def:4),,,5,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,408,2,41,3,11:38 PM,6:53,Craig BLOCK (3 BLK),,MISS Sharpe 6' Running Layup,,,5,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,1
+0022200139,410,4,0,3,11:38 PM,6:51,Paul REBOUND (Off:0 Def:4),,,,,4,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,411,6,1,3,11:38 PM,6:48,,,Winslow P.FOUL (P3.T3) (N.Sago),,,5,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,4,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200139,413,6,2,3,11:39 PM,6:42,,,Winslow S.FOUL (P4.T4) (J.Tiven),,,5,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200139,415,3,13,3,11:39 PM,6:42,Bridges Free Throw 1 of 3 (10 PTS),,,46 - 67,21,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,416,3,14,3,11:40 PM,6:42,MISS Bridges Free Throw 2 of 3,,,,,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0022200139,417,4,1,3,11:40 PM,6:42,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200139,418,8,0,3,11:40 PM,6:42,,,SUB: Johnson FOR Winslow,,,5,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,5,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200139,420,3,15,3,11:40 PM,6:42,Bridges Free Throw 3 of 3 (11 PTS),,,46 - 68,22,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,421,6,2,3,11:40 PM,6:21,Craig S.FOUL (P2.T2) (J.Tiven),,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,5,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200139,423,3,11,3,11:41 PM,6:21,,,MISS Johnson Free Throw 1 of 2,,,5,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,424,4,1,3,11:41 PM,6:21,,,Trail Blazers Rebound,,,3,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200139,425,3,12,3,11:41 PM,6:21,,,MISS Johnson Free Throw 2 of 2,,,5,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,426,4,0,3,11:41 PM,6:19,Ayton REBOUND (Off:2 Def:4),,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,427,1,73,3,11:41 PM,6:09,Booker 1' Driving Reverse Layup (22 PTS) (Paul 4 AST),,,46 - 70,24,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200139,429,6,2,3,11:41 PM,5:59,Craig S.FOUL (P3.T3) (N.Sago),,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,5,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200139,431,3,13,3,11:42 PM,5:59,,,Grant Free Throw 1 of 3 (9 PTS),47 - 70,23,5,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,432,3,14,3,11:42 PM,5:59,,,Grant Free Throw 2 of 3 (10 PTS),48 - 70,22,5,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,433,3,15,3,11:42 PM,5:59,,,Grant Free Throw 3 of 3 (11 PTS),49 - 70,21,5,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,434,6,1,3,11:42 PM,5:53,,,Sharpe P.FOUL (P2.PN) (N.Sago),,,5,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,4,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200139,436,3,11,3,11:43 PM,5:53,Paul Free Throw 1 of 2 (14 PTS),,,49 - 71,22,4,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,437,3,12,3,11:43 PM,5:53,Paul Free Throw 2 of 2 (15 PTS),,,49 - 72,23,4,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,438,6,1,3,11:44 PM,5:46,Craig P.FOUL (P4.T4) (E.Scott),,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,5,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200139,440,8,0,3,11:44 PM,5:46,SUB: Lee FOR Craig,,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200139,442,1,1,3,11:44 PM,5:29,,,Grant 29' 3PT Jump Shot (14 PTS) (Hart 7 AST),52 - 72,20,5,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,5,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200139,444,2,79,3,11:45 PM,5:13,MISS Booker 9' Pullup Jump Shot,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,445,4,0,3,11:45 PM,5:11,,,Grant REBOUND (Off:2 Def:2),,,5,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,447,6,4,3,11:45 PM,5:01,,,Grant OFF.Foul (P1) (N.Sago),,,5,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200139,451,5,37,3,11:45 PM,5:01,,,Grant Offensive Foul Turnover (P3.T14),,,5,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0022200139,449,9,1,3,11:45 PM,5:01,SUNS Timeout: Regular (Full 3 Short 0),,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200139,450,18,5,3,11:46 PM,5:01,,Instant Replay3rd Period (11:46 PM EST),,52 - 72,20,0,447,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200139,452,2,47,3,11:49 PM,4:47,MISS Bridges 7' Turnaround Jump Shot,,,,,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,453,4,0,3,11:49 PM,4:45,,,Grant REBOUND (Off:2 Def:3),,,5,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,454,2,85,3,11:49 PM,4:27,,,MISS Johnson 9' Turnaround Bank Shot,,,5,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,455,4,0,3,11:49 PM,4:25,Paul REBOUND (Off:0 Def:5),,,,,4,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,456,2,103,3,11:49 PM,4:22,MISS Paul 26' 3PT Running Pull-Up Jump Shot,,,,,4,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,457,4,0,3,11:49 PM,4:21,Lee REBOUND (Off:1 Def:1),,,,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,458,2,80,3,11:49 PM,4:15,MISS Booker 3PT Step Back Jump Shot,,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,459,4,0,3,11:49 PM,4:13,,,Hart REBOUND (Off:1 Def:5),,,5,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,460,6,1,3,11:49 PM,4:09,Paul P.FOUL (P2.PN) (J.Tiven),,,,,4,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,5,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200139,462,3,11,3,11:50 PM,4:09,,,MISS Hart Free Throw 1 of 2,,,5,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,463,4,1,3,11:50 PM,4:09,,,Trail Blazers Rebound,,,3,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200139,464,8,0,3,11:50 PM,4:09,SUB: Landale FOR Paul,,,,,4,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200139,465,8,0,3,11:50 PM,4:09,SUB: Shamet FOR Ayton,,,,,4,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,4,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200139,466,8,0,3,11:50 PM,4:09,,,SUB: Eubanks FOR Grant,,,5,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,5,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200139,467,8,0,3,11:50 PM,4:09,,,SUB: Little FOR Nurkic,,,5,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,5,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200139,472,3,12,3,11:50 PM,4:09,,,Hart Free Throw 2 of 2 (1 PTS),53 - 72,19,5,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,473,2,75,3,11:51 PM,3:45,MISS Booker 1' Driving Finger Roll Layup,,Sharpe BLOCK (1 BLK),,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,1
+0022200139,475,4,0,3,11:51 PM,3:42,,,Hart REBOUND (Off:1 Def:6),,,5,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,476,2,63,3,11:51 PM,3:33,Landale BLOCK (1 BLK),,MISS Sharpe 6' Fadeaway Jumper,,,5,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,1
+0022200139,478,4,0,3,11:51 PM,3:33,,,Trail Blazers Rebound,,,3,1610612757,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200139,479,1,6,3,11:51 PM,3:29,,,Eubanks 3' Driving Layup (2 PTS) (Johnson 2 AST),55 - 72,17,5,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,5,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200139,481,1,98,3,11:52 PM,3:13,Shamet 1' Cutting Layup Shot (5 PTS) (Landale 3 AST),,,55 - 74,19,4,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200139,483,6,1,3,11:52 PM,3:08,Booker P.FOUL (P2.PN) (J.Tiven),,,,,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200139,485,3,11,3,11:52 PM,3:08,,,MISS Eubanks Free Throw 1 of 2,,,5,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,486,4,1,3,11:52 PM,3:08,,,Trail Blazers Rebound,,,3,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200139,487,8,0,3,11:52 PM,3:08,SUB: Saric FOR Bridges,,,,,4,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,4,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200139,489,3,12,3,11:53 PM,3:08,,,Eubanks Free Throw 2 of 2 (3 PTS),56 - 74,18,5,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,490,2,79,3,11:53 PM,2:51,MISS Shamet 13' Pullup Jump Shot,,,,,4,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,491,4,0,3,11:53 PM,2:47,,,Eubanks REBOUND (Off:0 Def:2),,,5,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,492,1,79,3,11:53 PM,2:39,,,Little 17' Pullup Jump Shot (9 PTS) (Hart 8 AST),58 - 74,16,5,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,5,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200139,494,1,96,3,11:53 PM,2:20,Landale 6' Turnaround Bank Hook Shot (5 PTS) (Booker 2 AST),,,58 - 76,18,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200139,496,2,58,3,11:54 PM,2:02,,,MISS Eubanks 8' Turnaround Hook Shot,,,5,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,497,4,0,3,11:54 PM,2:00,Landale REBOUND (Off:2 Def:1),,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,498,1,1,3,11:54 PM,1:48,Saric 24' 3PT Jump Shot (3 PTS) (Lee 1 AST),,,58 - 79,21,4,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200139,500,1,1,3,11:54 PM,1:23,,,Hart 29' 3PT Jump Shot (4 PTS) (Little 2 AST),61 - 79,18,5,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,5,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200139,502,1,1,3,11:55 PM,1:01,Lee 27' 3PT Jump Shot (9 PTS) (Booker 3 AST),,,61 - 82,21,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200139,504,5,1,3,11:55 PM,0:44,Booker STEAL (1 STL),,Johnson Bad Pass Turnover (P3.T15),,,5,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200139,508,1,41,3,11:55 PM,0:42,Booker 2' Running Layup (24 PTS),,,61 - 84,23,4,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,511,7,2,3,11:56 PM,0:42,,,Johnson Violation:Defensive Goaltending (J.Tiven),,,5,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0022200139,512,2,79,3,11:56 PM,0:26,,,MISS Johnson 25' 3PT Pullup Jump Shot,,,5,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,513,4,0,3,11:56 PM,0:23,Saric REBOUND (Off:2 Def:1),,,,,4,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,514,2,1,3,11:56 PM,0:00,MISS Shamet 24' 3PT Jump Shot,,,,,4,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,515,4,0,3,11:56 PM,0:00,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200139,516,13,0,3,11:56 PM,0:00,,End of 3rd Period (11:56 PM EST),,61 - 84,23,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200139,523,12,0,4,11:59 PM,12:00,,Start of 4th Period (11:59 PM EST),,61 - 84,23,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200139,524,2,79,4,12:00 AM,11:39,,,MISS Johnson 16' Pullup Jump Shot,,,5,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,525,4,0,4,12:00 AM,11:37,Lee REBOUND (Off:1 Def:2),,,,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,526,6,1,4,12:00 AM,11:22,,,Walker P.FOUL (P2.T1) (N.Sago),,,5,1631133,Jabari Walker,1610612757.0,Portland,Trail Blazers,POR,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200139,528,2,1,4,12:00 AM,11:10,MISS Okogie 26' 3PT Jump Shot,,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,529,4,0,4,12:00 AM,11:06,,,Trail Blazers Rebound,,,3,1610612757,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200139,531,5,1,4,12:01 AM,10:42,Okogie STEAL (1 STL),,Little Bad Pass Turnover (P1.T16),,,5,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200139,533,1,50,4,12:01 AM,10:40,Okogie Running Dunk (2 PTS),,,61 - 86,25,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,534,2,101,4,12:01 AM,10:23,,,MISS Watford 9' Driving Floating Jump Shot,,,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,535,4,0,4,12:01 AM,10:21,,,Eubanks REBOUND (Off:1 Def:2),,,5,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,536,2,97,4,12:01 AM,10:21,,,MISS Eubanks 2' Tip Layup Shot,,,5,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,537,4,0,4,12:01 AM,10:20,Saric REBOUND (Off:2 Def:2),,,,,4,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,538,5,45,4,12:02 AM,10:13,Landale Out of Bounds - Bad Pass Turnover Turnover (P2.T8),,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0022200139,539,2,80,4,12:02 AM,9:48,,,MISS Little 21' Step Back Jump Shot,,,5,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0022200139,540,4,0,4,12:02 AM,9:45,Okogie REBOUND (Off:0 Def:1),,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,541,1,44,4,12:02 AM,9:35,Saric 1' Reverse Layup (5 PTS) (Landale 4 AST),,,61 - 88,27,4,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200139,543,1,80,4,12:03 AM,9:09,,,Eubanks 13' Step Back Jump Shot (5 PTS) (Walker 1 AST),63 - 88,25,5,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,5,1631133,Jabari Walker,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200139,545,1,79,4,12:03 AM,8:58,Shamet 27' 3PT Pullup Jump Shot (8 PTS),,,63 - 91,28,4,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,546,9,1,4,12:03 AM,8:57,,,Trail Blazers Timeout: Regular (Reg.4 Short 0),,,3,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200139,547,8,0,4,12:05 AM,8:57,,,SUB: Brown III FOR Little,,,5,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,5,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200139,548,8,0,4,12:05 AM,8:57,,,SUB: Butler Jr. FOR Eubanks,,,5,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,5,1631219,John Butler Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200139,551,6,1,4,12:06 AM,8:46,Lee P.FOUL (P1.T1) (J.Tiven),,,,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,5,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200139,553,2,6,4,12:07 AM,8:31,Okogie BLOCK (1 BLK),,MISS Brown III 8' Driving Layup,,,5,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,1
+0022200139,555,4,0,4,12:07 AM,8:28,Okogie REBOUND (Off:0 Def:2),,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,556,6,2,4,12:07 AM,8:19,,,Watford S.FOUL (P1.T2) (J.Tiven),,,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200139,558,3,11,4,12:07 AM,8:19,MISS Okogie Free Throw 1 of 2,,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,559,4,1,4,12:07 AM,8:19,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200139,560,3,12,4,12:08 AM,8:19,Okogie Free Throw 2 of 2 (3 PTS),,,63 - 92,29,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,561,1,9,4,12:08 AM,8:07,,,Brown III 1' Driving Dunk (2 PTS) (Johnson 3 AST),65 - 92,27,5,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,5,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200139,563,5,39,4,12:08 AM,7:51,Okogie Step Out of Bounds Turnover (P2.T9),,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0022200139,564,5,40,4,12:09 AM,7:37,,,Johnson Out of Bounds Lost Ball Turnover (P4.T17),,,5,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0022200139,565,2,3,4,12:09 AM,7:18,MISS Landale 2' Hook Shot,,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,566,4,0,4,12:09 AM,7:16,Saric REBOUND (Off:3 Def:2),,,,,4,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,567,1,97,4,12:09 AM,7:15,Saric 4' Tip Layup Shot (7 PTS),,,65 - 94,29,4,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,569,8,0,4,12:09 AM,7:01,SUB: Biyombo FOR Landale,,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200139,571,6,2,4,12:10 AM,6:55,Saric S.FOUL (P2.T2) (J.Tiven),,,,,4,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,5,1631133,Jabari Walker,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200139,573,3,11,4,12:10 AM,6:55,,,MISS Walker Free Throw 1 of 2,,,5,1631133,Jabari Walker,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,574,4,1,4,12:10 AM,6:55,,,Trail Blazers Rebound,,,3,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200139,575,3,12,4,12:10 AM,6:55,,,Walker Free Throw 2 of 2 (3 PTS),66 - 94,28,5,1631133,Jabari Walker,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,576,6,1,4,12:11 AM,6:43,,,Watford P.FOUL (P2.T3) (N.Sago),,,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200139,578,2,1,4,12:11 AM,6:34,MISS Okogie 24' 3PT Jump Shot,,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,579,4,0,4,12:11 AM,6:31,,,Walker REBOUND (Off:0 Def:1),,,5,1631133,Jabari Walker,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,580,2,103,4,12:11 AM,6:26,,,MISS Johnson 23' Running Pull-Up Jump Shot,,,5,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,581,4,0,4,12:11 AM,6:23,Saric REBOUND (Off:3 Def:3),,,,,4,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,582,5,1,4,12:12 AM,6:12,Okogie Bad Pass Turnover (P3.T10),,Brown III STEAL (1 STL),,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,5,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200139,584,2,47,4,12:12 AM,5:53,,,MISS Walker 7' Turnaround Jump Shot,,,5,1631133,Jabari Walker,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,585,4,0,4,12:12 AM,5:52,Saric REBOUND (Off:3 Def:4),,,,,4,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,586,2,44,4,12:12 AM,5:41,MISS Biyombo 4' Reverse Layup,,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,587,4,0,4,12:12 AM,5:39,Biyombo REBOUND (Off:1 Def:3),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,588,5,1,4,12:12 AM,5:36,Biyombo Bad Pass Turnover (P2.T11),,Brown III STEAL (2 STL),,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,5,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200139,590,2,74,4,12:12 AM,5:32,Biyombo BLOCK (3 BLK),,MISS Watford 3' Running Reverse Layup,,,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,1
+0022200139,592,4,0,4,12:12 AM,5:29,Lee REBOUND (Off:1 Def:3),,,,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,593,6,2,4,12:12 AM,5:26,,,Brown III S.FOUL (P1.T4) (E.Scott),,,5,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200139,595,3,11,4,12:13 AM,5:26,MISS Okogie Free Throw 1 of 2,,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,596,4,1,4,12:13 AM,5:26,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200139,597,8,0,4,12:13 AM,5:26,SUB: Washington Jr. FOR Shamet,,,,,4,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200139,599,3,12,4,12:13 AM,5:26,Okogie Free Throw 2 of 2 (4 PTS),,,66 - 95,29,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,600,1,47,4,12:13 AM,5:11,,,Johnson 9' Turnaround Jump Shot (5 PTS),68 - 95,27,5,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,601,2,3,4,12:14 AM,4:48,MISS Biyombo 8' Hook Shot,,Butler Jr. BLOCK (1 BLK),,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,1631219,John Butler Jr.,1610612757.0,Portland,Trail Blazers,POR,1
+0022200139,603,4,0,4,12:14 AM,4:48,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200139,605,2,1,4,12:14 AM,4:46,MISS Washington Jr. 28' 3PT Jump Shot,,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,606,4,0,4,12:14 AM,4:43,,,Walker REBOUND (Off:0 Def:2),,,5,1631133,Jabari Walker,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,607,2,1,4,12:14 AM,4:37,,,MISS Watford 28' 3PT Jump Shot,,,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,608,4,0,4,12:14 AM,4:34,Okogie REBOUND (Off:0 Def:3),,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,609,6,1,4,12:14 AM,4:30,,,Brown III P.FOUL (P2.PN) (J.Tiven),,,5,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200139,611,3,11,4,12:15 AM,4:30,Biyombo Free Throw 1 of 2 (1 PTS),,,68 - 96,28,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,612,5,17,4,12:15 AM,4:30,Saric Lane Violation Turnover (P1.T12),,,,,4,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,614,6,1,4,12:17 AM,4:19,Saric P.FOUL (P3.T3) (J.Tiven),,,,,4,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,5,1631133,Jabari Walker,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0022200139,616,2,6,4,12:17 AM,4:11,,,MISS Johnson 6' Driving Layup,,,5,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,617,4,0,4,12:18 AM,4:11,,,Trail Blazers Rebound,,,3,1610612757,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200139,619,6,2,4,12:18 AM,4:09,Okogie S.FOUL (P2.T4) (N.Sago),,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200139,621,3,11,4,12:18 AM,4:09,,,Watford Free Throw 1 of 2 (1 PTS),69 - 96,27,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,622,3,12,4,12:18 AM,4:09,,,Watford Free Throw 2 of 2 (2 PTS),70 - 96,26,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,623,2,5,4,12:19 AM,3:54,MISS Saric 3' Layup,,Brown III BLOCK (1 BLK),,,4,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,1
+0022200139,625,4,0,4,12:19 AM,3:52,Saric REBOUND (Off:4 Def:4),,,,,4,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,626,1,44,4,12:19 AM,3:52,Saric 1' Reverse Layup (9 PTS),,,70 - 98,28,4,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,627,6,2,4,12:19 AM,3:52,,,Brown III S.FOUL (P3.PN) (J.Tiven),,,5,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,4,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200139,629,3,10,4,12:19 AM,3:52,MISS Saric Free Throw 1 of 1,,,,,4,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,630,4,0,4,12:19 AM,3:49,,,Butler Jr. REBOUND (Off:0 Def:1),,,5,1631219,John Butler Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,631,1,101,4,12:20 AM,3:32,,,Watford 9' Driving Floating Jump Shot (4 PTS),72 - 98,26,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,632,2,1,4,12:20 AM,3:14,MISS Washington Jr. 3PT Jump Shot,,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,633,4,0,4,12:20 AM,3:13,,,Watford REBOUND (Off:1 Def:2),,,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,634,1,76,4,12:20 AM,3:06,,,Watford 3' Running Finger Roll Layup (6 PTS),74 - 98,24,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,635,5,1,4,12:20 AM,2:53,Washington Jr. Bad Pass Turnover (P1.T13),,Johnson STEAL (1 STL),,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,5,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200139,637,2,2,4,12:20 AM,2:48,,,MISS Butler Jr. 27' 3PT Running Jump Shot,,,5,1631219,John Butler Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,638,4,0,4,12:20 AM,2:44,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200139,640,9,1,4,12:20 AM,2:44,SUNS Timeout: Regular (Full 4 Short 0),,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200139,641,1,3,4,12:24 AM,2:25,Biyombo 5' Hook Shot (3 PTS) (Saric 1 AST),,,74 - 100,26,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,4,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200139,643,6,2,4,12:24 AM,2:14,Biyombo S.FOUL (P2.PN) (E.Scott),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200139,645,3,11,4,12:24 AM,2:14,,,MISS Watford Free Throw 1 of 2,,,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,646,4,1,4,12:24 AM,2:14,,,Trail Blazers Rebound,,,3,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200139,647,3,12,4,12:24 AM,2:14,,,Watford Free Throw 2 of 2 (7 PTS),75 - 100,25,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,648,2,1,4,12:25 AM,1:56,MISS Saric 16' Jump Shot,,,,,4,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,649,4,0,4,12:25 AM,1:53,,,Walker REBOUND (Off:0 Def:3),,,5,1631133,Jabari Walker,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,650,5,40,4,12:25 AM,1:48,,,Brown III Out of Bounds Lost Ball Turnover (P1.T18),,,5,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0022200139,651,2,79,4,12:25 AM,1:38,MISS Washington Jr. 19' Pullup Jump Shot,,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,652,4,0,4,12:25 AM,1:36,,,Watford REBOUND (Off:1 Def:3),,,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,653,6,2,4,12:25 AM,1:32,Okogie S.FOUL (P3.PN) (N.Sago),,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200139,655,3,11,4,12:26 AM,1:32,,,Watford Free Throw 1 of 2 (8 PTS),76 - 100,24,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,656,3,12,4,12:26 AM,1:32,,,Watford Free Throw 2 of 2 (9 PTS),77 - 100,23,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,657,5,4,4,12:26 AM,1:12,Saric Traveling Turnover (P2.T14),,,,,4,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0022200139,658,1,44,4,12:27 AM,0:57,,,Butler Jr. 3' Reverse Layup (2 PTS) (Watford 1 AST),79 - 100,21,5,1631219,John Butler Jr.,1610612757.0,Portland,Trail Blazers,POR,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200139,660,2,80,4,12:27 AM,0:49,MISS Washington Jr. 17' Step Back Jump Shot,,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,661,4,0,4,12:27 AM,0:45,,,Brown III REBOUND (Off:0 Def:1),,,5,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,662,6,2,4,12:27 AM,0:41,Biyombo S.FOUL (P3.PN) (J.Tiven),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,5,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200139,664,3,11,4,12:28 AM,0:41,,,MISS Brown III Free Throw 1 of 2,,,5,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,665,4,1,4,12:28 AM,0:41,,,Trail Blazers Rebound,,,3,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200139,666,3,12,4,12:28 AM,0:41,,,MISS Brown III Free Throw 2 of 2,,,5,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,667,4,0,4,12:28 AM,0:40,Saric REBOUND (Off:4 Def:5),,,,,4,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,668,1,101,4,12:28 AM,0:27,Washington Jr. 6' Driving Floating Jump Shot (2 PTS),,,79 - 102,23,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200139,669,1,79,4,12:29 AM,0:12,,,Johnson 3PT Pullup Jump Shot (8 PTS),82 - 102,20,5,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200139,670,13,0,4,12:29 AM,0:00,,End of 4th Period (12:29 AM EST),,82 - 102,20,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

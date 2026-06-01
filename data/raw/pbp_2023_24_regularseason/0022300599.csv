@@ -1,0 +1,490 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022300599,2,12,0,1,8:11 PM,12:00,,Start of 1st Period (8:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300599,4,10,0,1,8:11 PM,12:00,Jump Ball Gobert vs. Holmgren: Tip to Giddey,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,1
+0022300599,7,6,2,1,8:11 PM,11:46,Edwards S.FOUL (P1.T1) (R.Hussey),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022300599,9,3,11,1,8:12 PM,11:46,,,Gilgeous-Alexander Free Throw 1 of 2 (1 PTS),1 - 0,-1,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,10,3,12,1,8:12 PM,11:46,,,Gilgeous-Alexander Free Throw 2 of 2 (2 PTS),2 - 0,-2,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,11,5,1,1,8:12 PM,11:30,Conley Bad Pass Turnover (P1.T1),,Jal. Williams STEAL (1 STL),,,4,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022300599,13,1,6,1,8:12 PM,11:23,,,Gilgeous-Alexander 2' Driving Layup (4 PTS) (Dort 1 AST),4 - 0,-4,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022300599,15,2,1,1,8:13 PM,11:12,MISS Conley 3PT Jump Shot,,,,,4,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,16,4,0,1,8:13 PM,11:10,,,Giddey REBOUND (Off:0 Def:1),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,17,1,1,1,8:13 PM,11:03,,,Holmgren 25' 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 1 AST),7 - 0,-7,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022300599,19,5,40,1,8:13 PM,10:44,Edwards Out of Bounds Lost Ball Turnover (P1.T2),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022300599,20,1,1,1,8:13 PM,10:30,,,Giddey 15' Jump Shot (2 PTS) (Jal. Williams 1 AST),9 - 0,-9,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022300599,22,1,101,1,8:14 PM,10:07,Towns 5' Driving Floating Jump Shot (2 PTS),,,9 - 2,-7,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,23,7,5,1,8:14 PM,9:59,Towns Violation:Kicked Ball (R.Hussey),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,0
+0022300599,24,6,2,1,8:14 PM,9:44,Conley S.FOUL (P1.T2) (S.Wright),,,,,4,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022300599,26,3,11,1,8:15 PM,9:44,,,MISS Jal. Williams Free Throw 1 of 2,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,27,4,1,1,8:15 PM,9:44,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300599,28,3,12,1,8:15 PM,9:44,,,Jal. Williams Free Throw 2 of 2 (1 PTS),10 - 2,-8,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,29,2,1,1,8:15 PM,9:28,MISS Towns 3PT Jump Shot,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,30,4,0,1,8:15 PM,9:25,,,Jal. Williams REBOUND (Off:0 Def:1),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,31,2,1,1,8:16 PM,9:11,,,MISS Giddey 3PT Jump Shot,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,32,4,0,1,8:16 PM,9:06,Towns REBOUND (Off:0 Def:1),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,35,2,57,1,8:16 PM,8:56,MISS Gobert 3' Driving Hook Shot,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,36,4,0,1,8:16 PM,8:54,,,Giddey REBOUND (Off:0 Def:2),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,37,2,78,1,8:16 PM,8:37,,,MISS Giddey 9' Floating Jump Shot,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,38,4,0,1,8:16 PM,8:33,McDaniels REBOUND (Off:0 Def:1),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,39,1,1,1,8:16 PM,8:19,McDaniels 3PT Jump Shot (3 PTS) (Gobert 1 AST),,,10 - 5,-5,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022300599,41,2,75,1,8:17 PM,8:02,,,MISS Jal. Williams 5' Driving Finger Roll Layup,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,42,4,0,1,8:17 PM,8:01,,,Dort REBOUND (Off:1 Def:0),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,43,2,1,1,8:17 PM,7:55,,,MISS Dort 25' 3PT Jump Shot,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,44,4,0,1,8:17 PM,7:52,Towns REBOUND (Off:0 Def:2),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,45,5,2,1,8:17 PM,7:41,Towns Lost Ball Turnover (P1.T3),,Giddey STEAL (1 STL),,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022300599,47,6,2,1,8:17 PM,7:37,McDaniels S.FOUL (P1.T3) (S.Wright),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022300599,49,3,11,1,8:18 PM,7:37,,,Holmgren Free Throw 1 of 2 (4 PTS),11 - 5,-6,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,50,3,12,1,8:18 PM,7:37,,,Holmgren Free Throw 2 of 2 (5 PTS),12 - 5,-7,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,51,5,1,1,8:18 PM,7:19,Conley Bad Pass Turnover (P2.T4),,Gilgeous-Alexander STEAL (1 STL),,,4,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022300599,53,1,41,1,8:19 PM,7:13,,,Jal. Williams 1' Running Layup (3 PTS) (Gilgeous-Alexander 2 AST),14 - 5,-9,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022300599,55,2,6,1,8:19 PM,6:57,MISS Edwards 3' Driving Layup,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,56,4,0,1,8:19 PM,6:57,Gobert REBOUND (Off:1 Def:0),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,57,2,1,1,8:19 PM,6:50,MISS Edwards 3PT Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,58,4,0,1,8:19 PM,6:48,,,Giddey REBOUND (Off:0 Def:3),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,59,2,2,1,8:19 PM,6:42,,,MISS Dort 25' 3PT Running Jump Shot,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,60,4,0,1,8:19 PM,6:40,Gobert REBOUND (Off:1 Def:1),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,61,2,1,1,8:19 PM,6:31,MISS Conley 25' 3PT Jump Shot,,,,,4,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,62,4,0,1,8:19 PM,6:29,,,Giddey REBOUND (Off:0 Def:4),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,63,2,6,1,8:19 PM,6:19,,,MISS Giddey 3' Driving Layup,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,64,4,0,1,8:20 PM,6:18,,,Holmgren REBOUND (Off:1 Def:0),,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,65,1,78,1,8:20 PM,6:13,,,Giddey 9' Floating Jump Shot (4 PTS),16 - 5,-11,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,66,9,1,1,8:20 PM,6:12,TIMBERWOLVES Timeout: Regular (Full 1 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300599,67,2,79,1,8:23 PM,5:59,MISS Conley 25' 3PT Pullup Jump Shot,,,,,4,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,68,4,0,1,8:23 PM,5:57,,,Giddey REBOUND (Off:0 Def:5),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,69,1,98,1,8:23 PM,5:48,,,Jal. Williams 6' Cutting Layup Shot (5 PTS) (Gilgeous-Alexander 3 AST),18 - 5,-13,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022300599,71,6,4,1,8:23 PM,5:27,Gobert OFF.Foul (P1) (M.Kogut),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022300599,73,5,37,1,8:23 PM,5:27,Gobert Offensive Foul Turnover (P1.T5),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022300599,74,8,0,1,8:23 PM,5:26,SUB: Anderson FOR Towns,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022300599,75,8,0,1,8:23 PM,5:26,SUB: Reid FOR Conley,,,,,4,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022300599,76,8,0,1,8:23 PM,5:26,,,SUB: Wallace FOR Jal. Williams,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022300599,80,1,1,1,8:24 PM,5:10,,,Dort 25' 3PT Jump Shot (3 PTS) (Giddey 1 AST),21 - 5,-16,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022300599,82,1,79,1,8:24 PM,4:58,Edwards 25' 3PT Pullup Jump Shot (3 PTS) (Gobert 2 AST),,,21 - 8,-13,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022300599,84,2,79,1,8:24 PM,4:48,,,MISS Gilgeous-Alexander 17' Pullup Jump Shot,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,85,4,0,1,8:24 PM,4:45,Edwards REBOUND (Off:0 Def:1),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,86,1,1,1,8:25 PM,4:35,McDaniels 3PT Jump Shot (6 PTS) (Edwards 1 AST),,,21 - 11,-10,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022300599,88,1,75,1,8:25 PM,4:26,,,Gilgeous-Alexander 3' Driving Finger Roll Layup (6 PTS),23 - 11,-12,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,89,1,6,1,8:25 PM,4:13,McDaniels 2' Driving Layup (8 PTS) (Anderson 1 AST),,,23 - 13,-10,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022300599,91,6,2,1,8:25 PM,4:13,,,Wallace S.FOUL (P1.T1) (S.Wright),,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022300599,93,8,0,1,8:25 PM,4:13,,,SUB: Joe FOR Giddey,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022300599,95,3,10,1,8:26 PM,4:13,MISS McDaniels Free Throw 1 of 1,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,96,4,0,1,8:26 PM,4:11,,,Dort REBOUND (Off:1 Def:1),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,97,2,1,1,8:26 PM,4:01,,,MISS Holmgren 25' 3PT Jump Shot,,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,98,4,0,1,8:26 PM,3:59,Gobert REBOUND (Off:1 Def:2),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,99,2,58,1,8:26 PM,3:48,MISS Reid 3' Turnaround Hook Shot,,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,100,4,0,1,8:26 PM,3:48,Gobert REBOUND (Off:2 Def:2),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,101,6,2,1,8:26 PM,3:48,,,Holmgren S.FOUL (P1.T2) (S.Wright),,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022300599,103,3,11,1,8:27 PM,3:48,Gobert Free Throw 1 of 2 (1 PTS),,,23 - 14,-9,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,104,8,0,1,8:27 PM,3:48,,,SUB: Jay. Williams FOR Holmgren,,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022300599,106,3,12,1,8:27 PM,3:48,Gobert Free Throw 2 of 2 (2 PTS),,,23 - 15,-8,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,107,5,45,1,8:27 PM,3:35,,,Jay. Williams Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0022300599,108,8,0,1,8:27 PM,3:35,,,SUB: Wiggins FOR Dort,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022300599,110,2,1,1,8:28 PM,3:18,MISS Reid 25' 3PT Jump Shot,,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,111,4,0,1,8:28 PM,3:16,,,Joe REBOUND (Off:0 Def:1),,,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,112,6,1,1,8:28 PM,3:05,Anderson P.FOUL (P1.T4) (R.Hussey),,,,,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022300599,114,9,1,1,8:28 PM,3:05,,,Thunder Timeout: Regular (Reg.1 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300599,115,8,0,1,8:31 PM,3:05,SUB: Alexander-Walker FOR McDaniels,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022300599,116,8,0,1,8:31 PM,3:05,SUB: Towns FOR Gobert,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022300599,119,1,80,1,8:31 PM,2:53,,,Gilgeous-Alexander 22' Step Back Jump Shot (8 PTS),25 - 15,-10,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,120,2,1,1,8:32 PM,2:38,MISS Towns 26' 3PT Jump Shot,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,121,4,0,1,8:32 PM,2:37,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300599,123,2,1,1,8:32 PM,2:21,,,MISS Joe 25' 3PT Jump Shot,,,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,124,4,0,1,8:32 PM,2:18,,,Wallace REBOUND (Off:1 Def:0),,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,125,2,75,1,8:32 PM,2:10,Reid BLOCK (1 BLK),,MISS Gilgeous-Alexander 4' Driving Finger Roll Layup,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,1
+0022300599,127,4,0,1,8:32 PM,2:08,Alexander-Walker REBOUND (Off:0 Def:1),,,,,4,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,128,2,75,1,8:33 PM,1:55,MISS Alexander-Walker 4' Driving Finger Roll Layup,,Jay. Williams BLOCK (1 BLK),,,4,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,1
+0022300599,130,4,0,1,8:33 PM,1:53,,,Joe REBOUND (Off:0 Def:2),,,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,131,6,2,1,8:33 PM,1:47,Reid S.FOUL (P1.PN) (S.Wright),,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022300599,133,3,11,1,8:33 PM,1:47,,,Gilgeous-Alexander Free Throw 1 of 2 (9 PTS),26 - 15,-11,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0022300599,134,3,12,1,8:33 PM,1:47,,,Gilgeous-Alexander Free Throw 2 of 2 (10 PTS),27 - 15,-12,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,135,5,1,1,8:34 PM,1:24,Reid Bad Pass Turnover (P1.T6),,Wallace STEAL (1 STL),,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022300599,137,1,2,1,8:34 PM,1:20,,,Joe 3PT Running Jump Shot (3 PTS) (Gilgeous-Alexander 4 AST),30 - 15,-15,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022300599,139,1,1,1,8:34 PM,1:05,Reid 3PT Jump Shot (3 PTS) (Anderson 2 AST),,,30 - 18,-12,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022300599,141,2,75,1,8:34 PM,0:50,,,MISS Gilgeous-Alexander 2' Driving Finger Roll Layup,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,142,4,0,1,8:34 PM,0:48,Alexander-Walker REBOUND (Off:0 Def:2),,,,,4,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,143,1,1,1,8:34 PM,0:42,Anderson 24' 3PT Jump Shot (3 PTS) (Alexander-Walker 1 AST),,,30 - 21,-9,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,4,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022300599,145,5,1,1,8:35 PM,0:30,Anderson STEAL (1 STL),,Gilgeous-Alexander Bad Pass Turnover (P1.T2),,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022300599,147,1,101,1,8:35 PM,0:21,Edwards 5' Driving Floating Jump Shot (5 PTS) (Towns 1 AST),,,30 - 23,-7,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022300599,149,6,2,1,8:35 PM,0:21,,,Jay. Williams S.FOUL (P1.T3) (R.Hussey),,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022300599,151,8,0,1,8:35 PM,0:21,SUB: McDaniels FOR Towns,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022300599,152,8,0,1,8:35 PM,0:21,,,SUB: Jal. Williams FOR Jay. Williams,,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022300599,153,8,0,1,8:35 PM,0:21,,,SUB: Holmgren FOR Wallace,,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022300599,157,3,10,1,8:36 PM,0:21,Edwards Free Throw 1 of 1 (6 PTS),,,30 - 24,-6,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,158,2,79,1,8:36 PM,0:06,,,MISS Gilgeous-Alexander 14' Pullup Jump Shot,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,159,4,0,1,8:36 PM,0:04,Reid REBOUND (Off:0 Def:1),,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,160,2,79,1,8:36 PM,0:00,MISS Anderson 34' 3PT Pullup Jump Shot,,,,,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,161,4,0,1,8:36 PM,0:00,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300599,162,13,0,1,8:36 PM,0:00,,End of 1st Period (8:36 PM EST),,30 - 24,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300599,173,12,0,2,8:39 PM,12:00,,Start of 2nd Period (8:39 PM EST),,30 - 24,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300599,174,2,6,2,8:39 PM,11:45,MISS Towns 3' Driving Layup,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,175,4,0,2,8:39 PM,11:43,,,Wallace REBOUND (Off:1 Def:1),,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,176,2,1,2,8:39 PM,11:32,,,MISS K. Williams 25' 3PT Jump Shot,,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,177,4,0,2,8:39 PM,11:30,Towns REBOUND (Off:0 Def:3),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,178,1,41,2,8:39 PM,11:24,McDaniels 3' Running Layup (10 PTS),,,30 - 26,-4,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,179,2,101,2,8:40 PM,10:56,,,MISS Micic 10' Driving Floating Jump Shot,,,5,203995,Vasilije Micić,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,180,4,0,2,8:40 PM,10:54,Towns REBOUND (Off:0 Def:4),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,181,1,41,2,8:40 PM,10:49,Reid 1' Running Layup (5 PTS),,,30 - 28,-2,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,182,1,80,2,8:40 PM,10:35,,,Jal. Williams 14' Step Back Jump Shot (7 PTS),32 - 28,-4,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,183,1,78,2,8:40 PM,10:25,Towns 6' Floating Jump Shot (4 PTS) (McLaughlin 1 AST),,,32 - 30,-2,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022300599,184,9,1,2,8:40 PM,10:24,,,Thunder Timeout: Regular (Reg.2 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300599,186,5,1,2,8:44 PM,10:14,McLaughlin STEAL (1 STL),,K. Williams Bad Pass Turnover (P1.T3),,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022300599,188,6,26,2,8:44 PM,10:11,Towns Offensive Charge Foul (P1) (S.Wright),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022300599,190,5,37,2,8:44 PM,10:11,Towns Offensive Foul Turnover (P2.T7),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022300599,191,2,6,2,8:44 PM,9:51,Alexander-Walker BLOCK (1 BLK),,MISS Micic 5' Driving Layup,,,5,203995,Vasilije Micić,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,4,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,1
+0022300599,193,4,0,2,8:44 PM,9:49,Reid REBOUND (Off:0 Def:2),,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,194,5,40,2,8:44 PM,9:48,Alexander-Walker Out of Bounds Lost Ball Turnover (P1.T8),,,,,4,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022300599,195,6,11,2,8:44 PM,9:48,,Mark Daigneault Foul:T.FOUL (M.Kogut),,,,7,1627327,,,,,,0,0,,,,,,1,0,,,,,,1
+0022300599,196,3,16,2,8:45 PM,9:48,Towns Free Throw Technical (5 PTS),,,32 - 31,-1,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,197,2,6,2,8:45 PM,9:36,Reid BLOCK (2 BLK),,MISS Wallace 3' Driving Layup,,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,1
+0022300599,199,4,0,2,8:45 PM,9:34,Towns REBOUND (Off:0 Def:5),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,200,5,4,2,8:45 PM,9:32,McDaniels Traveling Turnover (P1.T9),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022300599,201,5,1,2,8:46 PM,9:14,Alexander-Walker STEAL (1 STL),,Wiggins Bad Pass Turnover (P1.T4),,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,4,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022300599,203,2,41,2,8:46 PM,9:10,MISS Reid 2' Running Layup,,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,204,4,0,2,8:46 PM,9:09,McLaughlin REBOUND (Off:1 Def:0),,,,,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,205,2,72,2,8:46 PM,9:08,MISS McLaughlin 2' Putback Layup,,,,,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,206,4,0,2,8:46 PM,9:06,,,K. Williams REBOUND (Off:0 Def:1),,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,207,5,45,2,8:46 PM,9:01,,,Wallace Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0022300599,208,8,0,2,8:46 PM,9:01,,,SUB: Giddey FOR Wallace,,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022300599,210,1,6,2,8:47 PM,8:52,Reid 5' Driving Layup (7 PTS) (McLaughlin 2 AST),,,32 - 33,1,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022300599,212,6,2,2,8:47 PM,8:43,Alexander-Walker S.FOUL (P1.T1) (R.Hussey),,,,,4,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022300599,214,3,11,2,8:47 PM,8:43,,,Jal. Williams Free Throw 1 of 2 (8 PTS),33 - 33,TIE,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,215,8,0,2,8:47 PM,8:43,,,SUB: Jay. Williams FOR K. Williams,,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022300599,217,3,12,2,8:47 PM,8:43,,,Jal. Williams Free Throw 2 of 2 (9 PTS),34 - 33,-1,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,218,5,2,2,8:48 PM,8:30,Reid Lost Ball Turnover (P2.T10),,Jal. Williams STEAL (2 STL),,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022300599,220,1,41,2,8:48 PM,8:26,,,Jal. Williams 3' Running Layup (11 PTS),36 - 33,-3,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,221,1,73,2,8:48 PM,8:17,McLaughlin 1' Driving Reverse Layup (2 PTS),,,36 - 35,-1,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,222,2,6,2,8:48 PM,8:05,Reid BLOCK (3 BLK),,MISS Jal. Williams 4' Driving Layup,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,1
+0022300599,224,4,0,2,8:48 PM,8:02,,,Jal. Williams REBOUND (Off:1 Def:1),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,225,2,97,2,8:48 PM,8:02,,,MISS Jal. Williams Tip Layup Shot,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,226,4,0,2,8:48 PM,8:01,,,Jal. Williams REBOUND (Off:2 Def:1),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,227,2,97,2,8:48 PM,8:01,,,MISS Jal. Williams Tip Layup Shot,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,228,4,0,2,8:48 PM,8:00,Alexander-Walker REBOUND (Off:0 Def:3),,,,,4,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,229,1,1,2,8:48 PM,7:55,Reid 26' 3PT Jump Shot (10 PTS) (McLaughlin 3 AST),,,36 - 38,2,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022300599,231,1,1,2,8:49 PM,7:38,,,Wiggins 25' 3PT Jump Shot (3 PTS) (Jal. Williams 2 AST),39 - 38,-1,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022300599,233,2,1,2,8:49 PM,7:24,MISS Reid 26' 3PT Jump Shot,,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,234,4,0,2,8:49 PM,7:21,Towns REBOUND (Off:1 Def:5),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,235,6,1,2,8:49 PM,7:21,,,Jal. Williams P.FOUL (P1.T1) (M.Kogut),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022300599,237,8,0,2,8:50 PM,7:21,SUB: Conley FOR Alexander-Walker,,,,,4,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,4,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022300599,238,8,0,2,8:50 PM,7:21,SUB: Gobert FOR Towns,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022300599,242,8,0,2,8:50 PM,7:21,,,SUB: Holmgren FOR Jay. Williams,,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022300599,243,8,0,2,8:50 PM,7:21,,,SUB: Wallace FOR Wiggins,,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022300599,241,1,80,2,8:50 PM,7:07,McLaughlin 3PT Step Back Jump Shot (5 PTS) (Conley 1 AST),,,39 - 41,2,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,4,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022300599,246,2,80,2,8:50 PM,6:51,,,MISS Jal. Williams 25' 3PT Step Back Jump Shot,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,247,4,0,2,8:50 PM,6:48,Gobert REBOUND (Off:2 Def:3),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,249,2,57,2,8:51 PM,6:27,MISS Gobert 4' Driving Hook Shot,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,250,4,0,2,8:51 PM,6:24,McDaniels REBOUND (Off:1 Def:1),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,253,1,87,2,8:51 PM,6:22,McDaniels 1' Putback Dunk (12 PTS),,,39 - 43,4,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,254,6,2,2,8:51 PM,6:04,McDaniels S.FOUL (P2.T2) (R.Hussey),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022300599,256,3,11,2,8:52 PM,6:04,,,MISS Giddey Free Throw 1 of 2,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,257,4,1,2,8:52 PM,6:04,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300599,258,8,0,2,8:52 PM,6:04,,,SUB: Joe FOR Jal. Williams,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022300599,259,8,0,2,8:52 PM,6:04,,,SUB: Gilgeous-Alexander FOR Micic,,,5,203995,Vasilije Micić,1610612760.0,Oklahoma City,Thunder,OKC,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022300599,263,8,0,2,8:52 PM,6:04,SUB: Edwards FOR McDaniels,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022300599,264,8,0,2,8:52 PM,6:04,,,SUB: Dort FOR Wallace,,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022300599,267,3,12,2,8:53 PM,6:04,,,Giddey Free Throw 2 of 2 (5 PTS),40 - 43,3,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,268,5,1,2,8:53 PM,5:52,Conley Bad Pass Turnover (P3.T11),,Holmgren STEAL (1 STL),,,4,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022300599,270,2,98,2,8:53 PM,5:40,Reid BLOCK (4 BLK),,MISS Dort 4' Cutting Layup Shot,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,1
+0022300599,272,4,0,2,8:53 PM,5:39,,,Dort REBOUND (Off:2 Def:1),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,274,6,4,2,8:53 PM,5:39,,,Dort OFF.Foul (P1) (S.Wright),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022300599,276,5,37,2,8:53 PM,5:39,,,Dort Offensive Foul Turnover (P1.T6),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0022300599,277,2,101,2,8:53 PM,5:26,MISS Conley 14' Driving Floating Jump Shot,,,,,4,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,278,4,0,2,8:54 PM,5:22,,,Holmgren REBOUND (Off:1 Def:1),,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,279,2,79,2,8:54 PM,5:17,,,MISS Gilgeous-Alexander 11' Pullup Jump Shot,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,280,4,0,2,8:54 PM,5:15,Gobert REBOUND (Off:2 Def:4),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,281,1,1,2,8:54 PM,5:05,McLaughlin 26' 3PT Jump Shot (8 PTS) (Conley 2 AST),,,40 - 46,6,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,4,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022300599,283,6,1,2,8:54 PM,4:48,McLaughlin P.FOUL (P1.T3) (S.Wright),,,,,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022300599,285,8,0,2,8:54 PM,4:48,SUB: Towns FOR Reid,,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022300599,287,2,80,2,8:55 PM,4:36,,,MISS Joe 20' Step Back Jump Shot,,,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,288,4,0,2,8:55 PM,4:32,Towns REBOUND (Off:1 Def:6),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,289,2,1,2,8:55 PM,4:21,MISS Conley 25' 3PT Jump Shot,,,,,4,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,290,4,0,2,8:55 PM,4:20,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300599,291,6,3,2,8:55 PM,4:20,Gobert L.B.FOUL (P2.T4) (M.Kogut),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022300599,293,6,2,2,8:56 PM,4:09,Towns S.FOUL (P2.PN) (M.Kogut),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022300599,295,3,11,2,8:56 PM,4:09,,,Gilgeous-Alexander Free Throw 1 of 2 (11 PTS),41 - 46,5,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,296,8,0,2,8:56 PM,4:09,,,SUB: Jal. Williams FOR Giddey,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022300599,298,3,12,2,8:57 PM,4:09,,,Gilgeous-Alexander Free Throw 2 of 2 (12 PTS),42 - 46,4,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,299,2,1,2,8:57 PM,3:44,MISS McLaughlin 3PT Jump Shot,,,,,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,300,4,0,2,8:57 PM,3:42,,,Joe REBOUND (Off:0 Def:3),,,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,301,1,79,2,8:57 PM,3:27,,,Dort 11' Pullup Jump Shot (5 PTS) (Joe 1 AST),44 - 46,2,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022300599,302,9,1,2,8:58 PM,3:25,TIMBERWOLVES Timeout: Regular (Full 2 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300599,303,8,0,2,9:00 PM,3:25,SUB: McDaniels FOR McLaughlin,,,,,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022300599,305,1,1,2,9:01 PM,3:12,Towns 3PT Jump Shot (8 PTS) (Edwards 2 AST),,,44 - 49,5,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022300599,307,1,86,2,9:01 PM,2:53,,,Holmgren 13' Turnaround Fadeaway (7 PTS) (Jal. Williams 3 AST),46 - 49,3,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022300599,308,6,2,2,9:01 PM,2:34,,,Holmgren S.FOUL (P2.T2) (M.Kogut),,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022300599,310,3,11,2,9:02 PM,2:34,Edwards Free Throw 1 of 2 (7 PTS),,,46 - 50,4,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,311,3,12,2,9:02 PM,2:34,Edwards Free Throw 2 of 2 (8 PTS),,,46 - 51,5,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,312,1,78,2,9:02 PM,2:25,,,Holmgren 10' Floating Jump Shot (9 PTS) (Gilgeous-Alexander 5 AST),48 - 51,3,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022300599,314,2,47,2,9:03 PM,2:09,MISS McDaniels 11' Turnaround Jump Shot,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,315,4,0,2,9:03 PM,2:06,,,Joe REBOUND (Off:0 Def:4),,,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,316,6,1,2,9:03 PM,2:04,McDaniels P.FOUL (P3.PN) (R.Hussey),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022300599,319,3,11,2,9:03 PM,2:04,,,Gilgeous-Alexander Free Throw 1 of 2 (13 PTS),49 - 51,2,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,320,8,0,2,9:03 PM,2:04,SUB: Alexander-Walker FOR McDaniels,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022300599,322,3,12,2,9:04 PM,2:04,,,Gilgeous-Alexander Free Throw 2 of 2 (14 PTS),50 - 51,1,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,323,5,1,2,9:04 PM,1:53,Towns Bad Pass Turnover (P3.T12),,Joe STEAL (1 STL),,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022300599,325,1,80,2,9:04 PM,1:37,,,Gilgeous-Alexander 18' Step Back Jump Shot (16 PTS),52 - 51,-1,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,326,6,2,2,9:04 PM,1:25,,,Dort S.FOUL (P2.T3) (R.Hussey),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022300599,328,3,11,2,9:05 PM,1:25,Gobert Free Throw 1 of 2 (3 PTS),,,52 - 52,TIE,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,329,3,12,2,9:05 PM,1:25,MISS Gobert Free Throw 2 of 2,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,330,4,0,2,9:05 PM,1:24,,,Holmgren REBOUND (Off:1 Def:2),,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,331,1,1,2,9:05 PM,1:07,,,Dort 26' 3PT Jump Shot (8 PTS) (Holmgren 1 AST),55 - 52,-3,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022300599,333,6,17,2,9:06 PM,0:46,,,Thunder T.Foul (Def. 3 Sec Holmgren ) (M.Kogut),,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0022300599,334,3,16,2,9:06 PM,0:46,Towns Free Throw Technical (9 PTS),,,55 - 53,-2,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,335,5,2,2,9:07 PM,0:35,Edwards Lost Ball Turnover (P2.T13),,Dort STEAL (1 STL),,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022300599,337,6,2,2,9:07 PM,0:29,Towns S.FOUL (P3.PN) (S.Wright),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022300599,339,3,11,2,9:07 PM,0:29,,,Gilgeous-Alexander Free Throw 1 of 2 (17 PTS),56 - 53,-3,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,340,8,0,2,9:07 PM,0:29,SUB: Reid FOR Towns,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022300599,342,3,12,2,9:08 PM,0:29,,,Gilgeous-Alexander Free Throw 2 of 2 (18 PTS),57 - 53,-4,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,343,2,79,2,9:08 PM,0:14,MISS Conley 25' 3PT Pullup Jump Shot,,,,,4,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,344,4,0,2,9:08 PM,0:11,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300599,345,6,3,2,9:08 PM,0:11,,,Joe L.B.FOUL (P1.PN) (R.Hussey),,,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022300599,347,3,11,2,9:09 PM,0:11,MISS Gobert Free Throw 1 of 2,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,348,4,1,2,9:09 PM,0:11,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300599,349,8,0,2,9:09 PM,0:11,SUB: Anderson FOR Reid,,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022300599,351,3,12,2,9:09 PM,0:11,Gobert Free Throw 2 of 2 (4 PTS),,,57 - 54,-3,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,352,2,75,2,9:09 PM,0:01,,,MISS Jal. Williams 6' Driving Finger Roll Layup,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,353,4,0,2,9:09 PM,0:01,Gobert REBOUND (Off:2 Def:5),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,354,13,0,2,9:09 PM,0:00,,End of 2nd Period (9:09 PM EST),,57 - 54,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300599,361,12,0,3,9:24 PM,12:00,,Start of 3rd Period (9:24 PM EST),,57 - 54,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300599,362,2,1,3,9:25 PM,11:43,MISS Conley 3PT Jump Shot,,,,,4,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,363,4,0,3,9:25 PM,11:39,,,Giddey REBOUND (Off:0 Def:6),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,364,5,40,3,9:25 PM,11:25,,,Gilgeous-Alexander Out of Bounds Lost Ball Turnover (P2.T7),,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0022300599,366,1,1,3,9:25 PM,11:16,McDaniels 3PT Jump Shot (15 PTS) (Conley 3 AST),,,57 - 57,TIE,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022300599,368,1,79,3,9:25 PM,11:03,,,Dort 6' Pullup Jump Shot (10 PTS),59 - 57,-2,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,369,1,108,3,9:26 PM,10:47,Gobert 2' Cutting Dunk Shot (6 PTS) (Towns 2 AST),,,59 - 59,TIE,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022300599,371,2,80,3,9:26 PM,10:21,,,MISS Gilgeous-Alexander 25' 3PT Step Back Jump Shot,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,372,4,0,3,9:26 PM,10:18,Edwards REBOUND (Off:0 Def:2),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,373,2,7,3,9:26 PM,10:12,MISS Gobert 2' Dunk,,Holmgren BLOCK (1 BLK),,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,1
+0022300599,375,4,0,3,9:26 PM,10:12,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300599,377,2,1,3,9:27 PM,10:07,MISS Towns 25' 3PT Jump Shot,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,378,4,0,3,9:27 PM,10:03,,,Holmgren REBOUND (Off:1 Def:3),,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,379,6,2,3,9:27 PM,9:57,McDaniels S.FOUL (P4.T1) (M.Kogut),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022300599,381,9,1,3,9:27 PM,9:57,TIMBERWOLVES Timeout: Regular (Full 3 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300599,382,18,6,3,9:28 PM,9:57,,Instant Replay3rd Period (9:28 PM EST),,59 - 59,TIE,0,379,,,,,,0,0,,,,,,1,0,,,,,,1
+0022300599,383,8,0,3,9:30 PM,9:57,SUB: Anderson FOR McDaniels,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022300599,385,3,11,3,9:30 PM,9:57,,,Holmgren Free Throw 1 of 2 (10 PTS),60 - 59,-1,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,386,3,12,3,9:31 PM,9:57,,,Holmgren Free Throw 2 of 2 (11 PTS),61 - 59,-2,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,387,1,79,3,9:31 PM,9:42,Edwards 21' Pullup Jump Shot (10 PTS) (Conley 4 AST),,,61 - 61,TIE,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022300599,389,2,1,3,9:31 PM,9:21,,,MISS Dort 25' 3PT Jump Shot,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,390,4,0,3,9:32 PM,9:17,Gobert REBOUND (Off:2 Def:6),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,391,2,1,3,9:32 PM,9:08,MISS Anderson 24' 3PT Jump Shot,,,,,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,392,4,0,3,9:32 PM,9:07,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300599,393,6,3,3,9:32 PM,9:07,,,Holmgren L.B.FOUL (P3.T1) (S.Wright),,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022300599,395,1,1,3,9:32 PM,9:02,Conley 25' 3PT Jump Shot (3 PTS) (Edwards 3 AST),,,61 - 64,3,4,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022300599,397,2,1,3,9:32 PM,8:50,,,MISS Dort 24' 3PT Jump Shot,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,398,4,0,3,9:32 PM,8:46,Gobert REBOUND (Off:2 Def:7),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,399,1,6,3,9:33 PM,8:36,Edwards 2' Driving Layup (12 PTS),,,61 - 66,5,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,400,2,1,3,9:33 PM,8:21,,,MISS Giddey 3PT Jump Shot,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,401,4,0,3,9:33 PM,8:19,Gobert REBOUND (Off:2 Def:8),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,402,6,4,3,9:33 PM,8:10,Gobert OFF.Foul (P3) (M.Kogut),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022300599,404,5,37,3,9:33 PM,8:10,Gobert Offensive Foul Turnover (P2.T14),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022300599,405,2,101,3,9:34 PM,7:58,Towns BLOCK (1 BLK),,MISS Dort 5' Driving Floating Jump Shot,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1
+0022300599,407,4,0,3,9:34 PM,7:55,,,Gilgeous-Alexander REBOUND (Off:1 Def:0),,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,408,2,1,3,9:34 PM,7:54,,,MISS Jal. Williams 24' 3PT Jump Shot,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,409,4,0,3,9:34 PM,7:51,Gobert REBOUND (Off:2 Def:9),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,410,2,1,3,9:34 PM,7:33,MISS Conley 3PT Jump Shot,,,,,4,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,411,4,0,3,9:34 PM,7:29,,,Giddey REBOUND (Off:0 Def:7),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,412,2,79,3,9:34 PM,7:20,Conley BLOCK (1 BLK),,MISS Gilgeous-Alexander 11' Pullup Jump Shot,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,4,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,1
+0022300599,414,4,0,3,9:34 PM,7:20,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300599,416,2,6,3,9:35 PM,7:07,,,MISS Jal. Williams 2' Driving Layup,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,417,4,0,3,9:35 PM,7:04,Edwards REBOUND (Off:0 Def:3),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,418,2,6,3,9:35 PM,6:56,MISS Edwards 2' Driving Layup,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,419,4,0,3,9:35 PM,6:54,,,Dort REBOUND (Off:2 Def:2),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,420,1,50,3,9:35 PM,6:50,,,Jal. Williams 2' Running Dunk (13 PTS) (Giddey 2 AST),63 - 66,3,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022300599,422,6,2,3,9:35 PM,6:29,,,Jal. Williams S.FOUL (P2.T2) (R.Hussey),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022300599,424,3,11,3,9:36 PM,6:29,Towns Free Throw 1 of 2 (10 PTS),,,63 - 67,4,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,425,8,0,3,9:36 PM,6:29,,,SUB: Wiggins FOR Dort,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022300599,427,3,12,3,9:36 PM,6:29,Towns Free Throw 2 of 2 (11 PTS),,,63 - 68,5,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,428,6,2,3,9:37 PM,6:10,Anderson S.FOUL (P2.T2) (S.Wright),,,,,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022300599,430,3,11,3,9:37 PM,6:10,,,Holmgren Free Throw 1 of 2 (12 PTS),64 - 68,4,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,431,8,0,3,9:37 PM,6:10,SUB: Alexander-Walker FOR Conley,,,,,4,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,4,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022300599,433,3,12,3,9:38 PM,6:10,,,Holmgren Free Throw 2 of 2 (13 PTS),65 - 68,3,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,434,1,79,3,9:38 PM,5:53,Anderson 10' Pullup Jump Shot (5 PTS) (Alexander-Walker 2 AST),,,65 - 70,5,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,4,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022300599,435,2,79,3,9:38 PM,5:38,,,MISS Holmgren 11' Pullup Jump Shot,,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,436,4,0,3,9:38 PM,5:36,Edwards REBOUND (Off:0 Def:4),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,442,2,108,3,9:38 PM,5:26,MISS Gobert 3' Cutting Dunk Shot,,Holmgren BLOCK (2 BLK),,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,1
+0022300599,444,4,0,3,9:38 PM,5:26,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300599,440,9,1,3,9:39 PM,5:26,,,Thunder Timeout: Regular (Reg.3 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300599,441,18,5,3,9:39 PM,5:26,,Instant Replay3rd Period (9:39 PM EST),,65 - 70,5,0,438,Robert Werdann,,,,,0,0,,,,,,1,0,,,,,,0
+0022300599,445,8,0,3,9:41 PM,5:26,SUB: Reid FOR Towns,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022300599,446,8,0,3,9:41 PM,5:26,,,SUB: Dort FOR Giddey,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022300599,447,8,0,3,9:41 PM,5:26,,,SUB: Joe FOR Jal. Williams,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022300599,451,2,101,3,9:42 PM,5:07,,,MISS Dort 3' Driving Floating Jump Shot,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,452,4,0,3,9:42 PM,5:07,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300599,454,1,1,3,9:42 PM,4:52,Reid 26' 3PT Jump Shot (13 PTS) (Anderson 3 AST),,,65 - 73,8,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022300599,456,1,79,3,9:43 PM,4:35,,,Gilgeous-Alexander 15' Pullup Jump Shot (20 PTS),67 - 73,6,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,457,1,1,3,9:43 PM,4:16,Reid 26' 3PT Jump Shot (16 PTS) (Edwards 4 AST),,,67 - 76,9,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022300599,459,1,98,3,9:43 PM,4:01,,,Wiggins 1' Cutting Layup Shot (5 PTS) (Gilgeous-Alexander 6 AST),69 - 76,7,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022300599,461,2,79,3,9:43 PM,3:48,MISS Edwards 25' 3PT Pullup Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,462,4,0,3,9:43 PM,3:46,,,Holmgren REBOUND (Off:1 Def:4),,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,463,2,79,3,9:44 PM,3:39,,,MISS Gilgeous-Alexander 12' Pullup Jump Shot,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,464,4,0,3,9:44 PM,3:36,Gobert REBOUND (Off:2 Def:10),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,465,2,1,3,9:44 PM,3:27,MISS Reid 26' 3PT Jump Shot,,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,466,4,0,3,9:44 PM,3:25,Anderson REBOUND (Off:1 Def:0),,,,,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,467,1,1,3,9:44 PM,3:13,Alexander-Walker 25' 3PT Jump Shot (3 PTS) (Edwards 5 AST),,,69 - 79,10,4,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022300599,469,2,86,3,9:44 PM,2:55,,,MISS Holmgren 12' Turnaround Fadeaway Shot,,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,470,4,0,3,9:44 PM,2:52,Gobert REBOUND (Off:2 Def:11),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,471,1,73,3,9:44 PM,2:45,Edwards 2' Driving Reverse Layup (14 PTS),,,69 - 81,12,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,472,9,1,3,9:45 PM,2:45,,,Thunder Timeout: Regular (Reg.4 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300599,473,8,0,3,9:46 PM,2:45,SUB: Towns FOR Gobert,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022300599,474,8,0,3,9:46 PM,2:45,,,SUB: Jay. Williams FOR Holmgren,,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022300599,479,1,6,3,9:46 PM,2:33,,,Gilgeous-Alexander 3' Driving Layup (22 PTS),71 - 81,10,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,480,7,2,3,9:46 PM,2:33,Reid Violation:Defensive Goaltending (S.Wright),,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022300599,481,6,2,3,9:47 PM,2:17,,,Joe S.FOUL (P2.T3) (R.Hussey),,,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022300599,483,3,11,3,9:47 PM,2:17,Towns Free Throw 1 of 2 (12 PTS),,,71 - 82,11,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,484,8,0,3,9:47 PM,2:17,,,SUB: K. Williams FOR Wiggins,,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022300599,486,3,12,3,9:48 PM,2:17,Towns Free Throw 2 of 2 (13 PTS),,,71 - 83,12,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,487,1,1,3,9:48 PM,2:01,,,Jay. Williams 25' 3PT Jump Shot (3 PTS) (Joe 2 AST),74 - 83,9,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022300599,489,2,1,3,9:48 PM,1:36,MISS Reid 3PT Jump Shot,,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,490,4,0,3,9:48 PM,1:34,,,K. Williams REBOUND (Off:0 Def:2),,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,491,6,1,3,9:49 PM,1:19,Reid P.FOUL (P2.T3) (S.Wright),,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022300599,493,2,80,3,9:49 PM,1:08,,,MISS Gilgeous-Alexander 14' Step Back Jump Shot,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,494,4,0,3,9:49 PM,1:05,Edwards REBOUND (Off:0 Def:5),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,495,2,80,3,9:50 PM,0:47,MISS Alexander-Walker 24' 3PT Step Back Jump Shot,,,,,4,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,496,4,0,3,9:50 PM,0:44,,,Jay. Williams REBOUND (Off:0 Def:1),,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,497,2,73,3,9:50 PM,0:25,,,MISS Gilgeous-Alexander 4' Driving Reverse Layup,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,498,4,0,3,9:50 PM,0:23,Alexander-Walker REBOUND (Off:0 Def:4),,,,,4,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,499,6,1,3,9:50 PM,0:06,,,Dort P.FOUL (P3.T4) (M.Kogut),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022300599,501,2,78,3,9:51 PM,0:00,MISS Towns 12' Floating Jump Shot,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,502,4,0,3,9:51 PM,0:00,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300599,503,13,0,3,9:51 PM,0:00,,End of 3rd Period (9:51 PM EST),,74 - 83,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300599,512,12,0,4,9:54 PM,12:00,,Start of 4th Period (9:54 PM EST),,74 - 83,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300599,513,5,2,4,9:54 PM,11:43,McLaughlin STEAL (2 STL),,Giddey Lost Ball Turnover (P1.T8),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022300599,515,5,4,4,9:54 PM,11:38,Reid Traveling Turnover (P3.T15),,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022300599,516,2,1,4,9:54 PM,11:21,,,MISS Giddey 3PT Jump Shot,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,517,4,0,4,9:54 PM,11:18,Alexander-Walker REBOUND (Off:0 Def:5),,,,,4,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,518,6,2,4,9:55 PM,11:04,,,Wallace S.FOUL (P2.T1) (S.Wright),,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022300599,520,3,11,4,9:56 PM,11:04,Towns Free Throw 1 of 2 (14 PTS),,,74 - 84,10,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,521,3,12,4,9:56 PM,11:04,Towns Free Throw 2 of 2 (15 PTS),,,74 - 85,11,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,522,2,1,4,9:56 PM,10:52,,,MISS K. Williams 25' 3PT Jump Shot,,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,523,4,0,4,9:56 PM,10:48,Towns REBOUND (Off:1 Def:7),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,524,5,4,4,9:57 PM,10:32,Reid Traveling Turnover (P4.T16),,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022300599,525,2,79,4,9:57 PM,10:20,,,MISS Jal. Williams 17' Pullup Jump Shot,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,526,4,0,4,9:57 PM,10:16,Towns REBOUND (Off:1 Def:8),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,527,2,102,4,9:57 PM,9:57,MISS McLaughlin 13' Driving Floating Bank Jump Shot,,,,,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,528,4,0,4,9:57 PM,9:54,McLaughlin REBOUND (Off:2 Def:0),,,,,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,529,2,72,4,9:57 PM,9:53,MISS McLaughlin 3' Putback Layup,,Jay. Williams BLOCK (2 BLK),,,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,1
+0022300599,531,4,0,4,9:57 PM,9:50,,,Wallace REBOUND (Off:1 Def:2),,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,532,1,1,4,9:58 PM,9:39,,,Jay. Williams 13' Jump Shot (5 PTS) (Giddey 3 AST),76 - 85,9,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022300599,534,5,1,4,9:58 PM,9:23,Alexander-Walker Bad Pass Turnover (P2.T17),,K. Williams STEAL (1 STL),,,4,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022300599,536,1,50,4,9:58 PM,9:18,,,Jal. Williams 1' Running Dunk (15 PTS) (Giddey 4 AST),78 - 85,7,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022300599,538,1,51,4,9:58 PM,8:58,Towns 2' Reverse Dunk (17 PTS) (Anderson 4 AST),,,78 - 87,9,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022300599,540,6,2,4,9:58 PM,8:48,Reid S.FOUL (P3.T1) (M.Kogut),,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022300599,542,3,11,4,9:59 PM,8:48,,,Jal. Williams Free Throw 1 of 2 (16 PTS),79 - 87,8,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,543,8,0,4,9:59 PM,8:48,SUB: McDaniels FOR Anderson,,,,,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022300599,544,8,0,4,9:59 PM,8:48,SUB: Conley FOR Alexander-Walker,,,,,4,1629638,Nickeil Alexander-Walker,1610612750.0,Minnesota,Timberwolves,MIN,4,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022300599,545,8,0,4,9:59 PM,8:48,,,SUB: Micic FOR Wallace,,,5,1641717,Cason Wallace,1610612760.0,Oklahoma City,Thunder,OKC,5,203995,Vasilije Micić,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022300599,549,3,12,4,9:59 PM,8:48,,,MISS Jal. Williams Free Throw 2 of 2,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,550,4,0,4,9:59 PM,8:46,Reid REBOUND (Off:0 Def:3),,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,551,2,78,4,10:00 PM,8:27,MISS McDaniels 11' Floating Jump Shot,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,552,4,0,4,10:00 PM,8:25,,,K. Williams REBOUND (Off:0 Def:3),,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,553,2,1,4,10:00 PM,8:07,,,MISS Jay. Williams 25' 3PT Jump Shot,,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,554,4,0,4,10:00 PM,8:04,Towns REBOUND (Off:1 Def:9),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,555,6,1,4,10:00 PM,7:56,,,K. Williams P.FOUL (P1.T2) (M.Kogut),,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022300599,557,8,0,4,10:00 PM,7:56,SUB: Gobert FOR McLaughlin,,,,,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022300599,558,8,0,4,10:00 PM,7:56,SUB: Edwards FOR Towns,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022300599,559,8,0,4,10:00 PM,7:56,,,SUB: Dort FOR Jay. Williams,,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022300599,560,8,0,4,10:00 PM,7:56,,,SUB: Holmgren FOR K. Williams,,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022300599,565,2,75,4,10:01 PM,7:42,MISS Conley 8' Driving Finger Roll Layup,,,,,4,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,566,4,0,4,10:01 PM,7:42,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300599,567,6,3,4,10:01 PM,7:42,Gobert L.B.FOUL (P4.T2) (S.Wright),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022300599,569,2,79,4,10:01 PM,7:31,,,MISS Jal. Williams 11' Pullup Jump Shot,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,570,4,0,4,10:01 PM,7:28,Conley REBOUND (Off:0 Def:1),,,,,4,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,571,6,2,4,10:02 PM,7:06,,,Jal. Williams S.FOUL (P3.T3) (R.Hussey),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022300599,573,3,11,4,10:02 PM,7:06,MISS Edwards Free Throw 1 of 2,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,574,4,1,4,10:02 PM,7:06,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300599,577,3,12,4,10:02 PM,7:06,Edwards Free Throw 2 of 2 (15 PTS),,,79 - 88,9,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,669,8,0,4,10:03 PM,7:06,,,SUB: Gilgeous-Alexander FOR Micic,,,5,203995,Vasilije Micić,1610612760.0,Oklahoma City,Thunder,OKC,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022300599,578,2,101,4,10:03 PM,6:58,,,MISS Jal. Williams 3' Driving Floating Jump Shot,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,579,4,0,4,10:03 PM,6:56,,,Jal. Williams REBOUND (Off:3 Def:1),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,624,2,97,4,10:03 PM,6:55,,,MISS Jal. Williams 2' Tip Layup Shot,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,625,4,0,4,10:03 PM,6:55,,,Giddey REBOUND (Off:1 Def:7),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,580,2,1,4,10:03 PM,6:48,,,MISS Giddey 3PT Jump Shot,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,581,4,0,4,10:03 PM,6:45,Conley REBOUND (Off:0 Def:2),,,,,4,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,582,5,45,4,10:03 PM,6:27,Edwards Out of Bounds - Bad Pass Turnover Turnover (P3.T18),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022300599,583,9,1,4,10:03 PM,6:27,TIMBERWOLVES Timeout: Regular (Full 4 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300599,584,8,0,4,10:06 PM,6:27,,,SUB: Joe FOR Giddey,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022300599,586,1,79,4,10:07 PM,6:11,,,Gilgeous-Alexander 13' Pullup Jump Shot (24 PTS) (Holmgren 2 AST),81 - 88,7,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022300599,587,2,101,4,10:07 PM,5:50,MISS McDaniels 7' Driving Floating Jump Shot,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,588,4,0,4,10:07 PM,5:48,Gobert REBOUND (Off:3 Def:11),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,589,2,72,4,10:07 PM,5:48,MISS Gobert 2' Putback Layup,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,590,4,0,4,10:07 PM,5:48,,,Jal. Williams REBOUND (Off:3 Def:2),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,591,1,1,4,10:07 PM,5:29,,,Dort 25' 3PT Jump Shot (13 PTS) (Joe 3 AST),84 - 88,4,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022300599,594,5,2,4,10:08 PM,5:06,Edwards Lost Ball Turnover (P4.T19),,Dort STEAL (2 STL),,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022300599,596,2,80,4,10:08 PM,4:57,,,MISS Gilgeous-Alexander 17' Step Back Jump Shot,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,597,4,0,4,10:08 PM,4:54,Gobert REBOUND (Off:3 Def:12),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,598,6,1,4,10:08 PM,4:47,,,Holmgren P.FOUL (P4.T4) (M.Kogut),,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022300599,600,8,0,4,10:08 PM,4:47,SUB: Towns FOR Reid,,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022300599,602,2,1,4,10:09 PM,4:37,MISS McDaniels 25' 3PT Jump Shot,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,603,4,0,4,10:09 PM,4:31,Gobert REBOUND (Off:4 Def:12),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,604,6,1,4,10:09 PM,4:28,,,Joe P.FOUL (P3.PN) (R.Hussey),,,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022300599,606,3,11,4,10:09 PM,4:28,Edwards Free Throw 1 of 2 (16 PTS),,,84 - 89,5,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,607,3,12,4,10:10 PM,4:28,Edwards Free Throw 2 of 2 (17 PTS),,,84 - 90,6,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,608,1,7,4,10:10 PM,4:14,,,Holmgren 2' Dunk (15 PTS) (Joe 4 AST),86 - 90,4,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022300599,610,5,1,4,10:10 PM,3:52,McDaniels Bad Pass Turnover (P2.T20),,Gilgeous-Alexander STEAL (2 STL),,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022300599,612,6,2,4,10:10 PM,3:45,Towns S.FOUL (P4.T3) (S.Wright),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022300599,614,3,11,4,10:11 PM,3:45,,,Gilgeous-Alexander Free Throw 1 of 2 (25 PTS),87 - 90,3,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,615,3,12,4,10:11 PM,3:45,,,Gilgeous-Alexander Free Throw 2 of 2 (26 PTS),88 - 90,2,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,616,9,1,4,10:11 PM,3:45,TIMBERWOLVES Timeout: Regular (Full 5 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300599,617,5,1,4,10:14 PM,3:28,Edwards Bad Pass Turnover (P5.T21),,Jal. Williams STEAL (3 STL),,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022300599,619,1,86,4,10:15 PM,3:20,,,Gilgeous-Alexander 8' Turnaround Fadeaway (28 PTS),90 - 90,TIE,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,620,6,2,4,10:15 PM,3:04,,,Jal. Williams S.FOUL (P4.PN) (M.Kogut),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022300599,622,3,11,4,10:15 PM,3:04,Towns Free Throw 1 of 2 (18 PTS),,,90 - 91,1,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,623,9,1,4,10:15 PM,3:04,,,Thunder Timeout: Regular (Reg.5 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300599,626,3,12,4,10:17 PM,3:04,Towns Free Throw 2 of 2 (19 PTS),,,90 - 92,2,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,627,2,86,4,10:18 PM,2:41,,,MISS Gilgeous-Alexander 11' Turnaround Fadeaway Shot,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,628,4,0,4,10:18 PM,2:39,Gobert REBOUND (Off:4 Def:13),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,629,2,78,4,10:18 PM,2:21,MISS Towns 9' Floating Jump Shot,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,630,4,0,4,10:18 PM,2:19,,,Joe REBOUND (Off:0 Def:5),,,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,631,1,41,4,10:18 PM,2:18,,,Gilgeous-Alexander 3' Running Layup (30 PTS) (Joe 5 AST),92 - 92,TIE,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0022300599,632,6,2,4,10:18 PM,2:18,Conley S.FOUL (P2.T4) (R.Hussey),,,,,4,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022300599,634,3,10,4,10:19 PM,2:18,,,MISS Gilgeous-Alexander Free Throw 1 of 1,,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,635,4,0,4,10:19 PM,2:16,Gobert REBOUND (Off:4 Def:14),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,636,1,6,4,10:19 PM,2:03,Edwards 2' Driving Layup (19 PTS),,,92 - 94,2,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,637,6,2,4,10:19 PM,1:45,Towns S.FOUL (P5.PN) (S.Wright),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022300599,639,3,11,4,10:20 PM,1:45,,,Dort Free Throw 1 of 2 (14 PTS),93 - 94,1,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,640,3,12,4,10:20 PM,1:45,,,MISS Dort Free Throw 2 of 2,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,641,4,0,4,10:20 PM,1:43,Towns REBOUND (Off:1 Def:10),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,642,2,1,4,10:21 PM,1:23,MISS McDaniels 24' 3PT Jump Shot,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,643,4,0,4,10:21 PM,1:20,,,Gilgeous-Alexander REBOUND (Off:1 Def:1),,,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,644,1,80,4,10:21 PM,1:14,,,Gilgeous-Alexander 25' 3PT Step Back Jump Shot (33 PTS),96 - 94,-2,5,1628983,Shai Gilgeous-Alexander,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,645,6,1,4,10:21 PM,0:59,,,Joe P.FOUL (P4.PN) (S.Wright),,,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022300599,647,3,11,4,10:22 PM,0:59,MISS Gobert Free Throw 1 of 2,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,648,4,1,4,10:22 PM,0:59,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300599,649,8,0,4,10:22 PM,0:59,SUB: Anderson FOR Towns,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022300599,651,3,12,4,10:22 PM,0:59,Gobert Free Throw 2 of 2 (7 PTS),,,96 - 95,-1,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,652,2,79,4,10:22 PM,0:39,,,MISS Holmgren 14' Pullup Jump Shot,,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,653,4,0,4,10:22 PM,0:35,Conley REBOUND (Off:0 Def:3),,,,,4,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,654,9,1,4,10:22 PM,0:35,TIMBERWOLVES Timeout: Regular (Full 6 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300599,655,8,0,4,10:24 PM,0:35,SUB: Towns FOR Anderson,,,,,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022300599,657,2,1,4,10:24 PM,0:23,MISS Conley 25' 3PT Jump Shot,,,,,4,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,658,4,0,4,10:24 PM,0:20,,,Dort REBOUND (Off:2 Def:3),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,659,6,1,4,10:25 PM,0:15,Towns P.FOUL (P6.PN) (S.Wright),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022300599,661,8,0,4,10:25 PM,0:15,SUB: Reid FOR Towns,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022300599,663,3,11,4,10:25 PM,0:15,,,Jal. Williams Free Throw 1 of 2 (17 PTS),97 - 95,-2,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,664,3,12,4,10:26 PM,0:15,,,Jal. Williams Free Throw 2 of 2 (18 PTS),98 - 95,-3,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,665,9,1,4,10:26 PM,0:15,TIMBERWOLVES Timeout: Regular (Full 7 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300599,666,1,6,4,10:28 PM,0:08,Reid 2' Driving Layup (18 PTS),,,98 - 97,-1,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,667,7,2,4,10:28 PM,0:08,,,Holmgren Violation:Defensive Goaltending (M.Kogut),,,5,1631096,Chet Holmgren,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0022300599,668,18,3,4,10:28 PM,0:08,,Instant Replay4th Period (10:28 PM EST),,98 - 97,-1,0,667,,,,,,0,0,,,,,,1,0,,,,,,0
+0022300599,671,9,1,4,10:29 PM,0:08,,,Thunder Timeout: Regular (Reg.6 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300599,672,8,0,4,10:30 PM,0:08,SUB: Anderson FOR Gobert,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022300599,673,8,0,4,10:30 PM,0:08,,,SUB: Giddey FOR Dort,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022300599,676,6,28,4,10:30 PM,0:06,Conley Personal Take Foul (P3.PN) (M.Kogut),,,,,4,201144,Mike Conley,1610612750.0,Minnesota,Timberwolves,MIN,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022300599,678,3,11,4,10:31 PM,0:06,,,Joe Free Throw 1 of 2 (4 PTS),99 - 97,-2,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,679,8,0,4,10:31 PM,0:06,SUB: Gobert FOR Anderson,,,,,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022300599,680,8,0,4,10:31 PM,0:06,,,SUB: Dort FOR Giddey,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022300599,683,3,12,4,10:31 PM,0:06,,,Joe Free Throw 2 of 2 (5 PTS),100 - 97,-3,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,684,6,2,4,10:32 PM,0:03,,,Dort S.FOUL (P4.PN) (R.Hussey),,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022300599,686,3,13,4,10:32 PM,0:03,MISS Edwards Free Throw 1 of 3,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,687,4,1,4,10:32 PM,0:03,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300599,688,3,14,4,10:32 PM,0:03,MISS Edwards Free Throw 2 of 3,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,689,4,1,4,10:32 PM,0:03,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300599,692,3,15,4,10:32 PM,0:03,MISS Edwards Free Throw 3 of 3,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022300599,693,4,0,4,10:32 PM,0:03,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300599,708,8,0,4,10:33 PM,0:03,,,SUB: Jay. Williams FOR Joe,,,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022300599,694,9,1,4,10:33 PM,0:03,,,Thunder Timeout: Regular (Reg.7 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300599,696,8,0,4,10:34 PM,0:03,SUB: Anderson FOR Gobert,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022300599,697,8,0,4,10:34 PM,0:03,,,SUB: Giddey FOR Dort,,,5,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022300599,698,8,0,4,10:34 PM,0:03,,,SUB: Joe FOR Jay. Williams,,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1630198,Isaiah Joe,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0022300599,702,6,28,4,10:35 PM,0:01,Edwards Personal Take Foul (P2.PN) (S.Wright),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0022300599,704,3,11,4,10:35 PM,0:01,,,Jal. Williams Free Throw 1 of 2 (19 PTS),101 - 97,-4,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,705,3,12,4,10:35 PM,0:01,,,Jal. Williams Free Throw 2 of 2 (20 PTS),102 - 97,-5,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0022300599,706,13,0,4,10:36 PM,0:00,,End of 4th Period (10:36 PM EST),,102 - 97,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

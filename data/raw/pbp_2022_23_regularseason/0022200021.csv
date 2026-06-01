@@ -1,0 +1,452 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200021,2,12,0,1,7:42 PM,12:00,,Start of 1st Period (7:42 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200021,4,10,0,1,7:42 PM,12:00,Jump Ball Claxton vs. Barnes: Tip to Siakam,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,1
+0022200021,7,5,4,1,7:43 PM,11:46,,,Anunoby Traveling Turnover (P1.T1),,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0022200021,8,1,79,1,7:43 PM,11:23,Irving 21' Pullup Jump Shot (2 PTS),,,0 - 2,2,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,9,1,101,1,7:44 PM,11:02,,,Trent Jr. 9' Driving Floating Jump Shot (2 PTS) (Anunoby 1 AST),2 - 2,TIE,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200021,11,5,1,1,7:44 PM,10:43,Irving Bad Pass Turnover (P1.T1),,VanVleet STEAL (1 STL),,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200021,13,1,50,1,7:44 PM,10:37,,,Barnes 2' Running Dunk (2 PTS) (Siakam 1 AST),4 - 2,-2,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200021,15,2,78,1,7:44 PM,10:21,MISS O'Neale 5' Floating Jump Shot,,,,,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,16,4,0,1,7:44 PM,10:18,Claxton REBOUND (Off:1 Def:0),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,17,2,1,1,7:44 PM,10:17,MISS Durant 25' 3PT Jump Shot,,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,18,4,0,1,7:44 PM,10:13,,,VanVleet REBOUND (Off:0 Def:1),,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,20,6,1,1,7:45 PM,10:09,Irving P.FOUL (P1.T1) (S.Corbin),,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200021,22,1,85,1,7:45 PM,9:55,,,Siakam 10' Turnaround Bank Shot (2 PTS),6 - 2,-4,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,23,2,79,1,7:46 PM,9:39,MISS Durant 12' Pullup Jump Shot,,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,24,4,0,1,7:46 PM,9:36,,,Trent Jr. REBOUND (Off:0 Def:1),,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,25,2,80,1,7:46 PM,9:25,,,MISS Anunoby 16' Step Back Jump Shot,,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,26,4,0,1,7:46 PM,9:22,Durant REBOUND (Off:0 Def:1),,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,27,1,57,1,7:46 PM,9:10,Simmons 9' Driving Hook Shot (2 PTS),,,6 - 4,-2,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,29,6,1,1,7:46 PM,8:58,Claxton P.FOUL (P1.T2) (J.Capers),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200021,31,1,6,1,7:47 PM,8:48,,,Trent Jr. Driving Layup (4 PTS) (VanVleet 1 AST),8 - 4,-4,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200021,33,1,108,1,7:47 PM,8:27,Claxton 1' Cutting Dunk Shot (2 PTS) (Durant 1 AST),,,8 - 6,-2,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200021,35,2,1,1,7:47 PM,8:13,,,MISS Anunoby 3PT Jump Shot,,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,36,4,0,1,7:47 PM,8:10,,,Anunoby REBOUND (Off:1 Def:0),,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,37,2,5,1,7:48 PM,8:09,Simmons BLOCK (1 BLK),,MISS Anunoby 2' Layup,,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,1
+0022200021,39,4,0,1,7:48 PM,8:06,Simmons REBOUND (Off:0 Def:1),,,,,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,40,6,1,1,7:48 PM,7:55,,,VanVleet P.FOUL (P1.T1) (D.Mosher),,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200021,42,1,98,1,7:48 PM,7:53,O'Neale 1' Cutting Layup Shot (2 PTS) (Simmons 1 AST),,,8 - 8,TIE,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200021,44,6,1,1,7:48 PM,7:48,Claxton P.FOUL (P2.T3) (D.Mosher),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200021,46,2,1,1,7:49 PM,7:39,,,MISS Siakam 26' 3PT Jump Shot,,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,47,4,0,1,7:49 PM,7:36,Simmons REBOUND (Off:0 Def:2),,,,,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,48,6,2,1,7:49 PM,7:26,,,Siakam S.FOUL (P1.T2) (D.Mosher),,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200021,50,3,11,1,7:49 PM,7:26,O'Neale Free Throw 1 of 2 (3 PTS),,,8 - 9,1,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,51,3,12,1,7:49 PM,7:26,O'Neale Free Throw 2 of 2 (4 PTS),,,8 - 10,2,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,52,1,79,1,7:50 PM,7:05,,,Trent Jr. 17' Pullup Jump Shot (6 PTS),10 - 10,TIE,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,53,1,101,1,7:50 PM,6:49,Simmons 8' Driving Floating Jump Shot (4 PTS) (Durant 2 AST),,,10 - 12,2,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200021,55,2,79,1,7:50 PM,6:36,,,MISS Barnes 20' Pullup Jump Shot,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,56,4,0,1,7:50 PM,6:36,Claxton REBOUND (Off:1 Def:1),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,57,1,6,1,7:51 PM,6:20,Claxton 2' Driving Layup (4 PTS),,,10 - 14,4,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,58,1,6,1,7:51 PM,6:01,,,Siakam 3' Driving Layup (4 PTS),12 - 14,2,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,59,9,1,1,7:51 PM,6:00,NETS Timeout: Regular (Full 1 Short 0),,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200021,60,8,0,1,7:51 PM,6:00,SUB: Harris FOR Irving,,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,4,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200021,62,2,58,1,7:54 PM,5:40,MISS Claxton 4' Turnaround Hook Shot,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,63,4,0,1,7:54 PM,5:38,,,Siakam REBOUND (Off:0 Def:1),,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,64,1,85,1,7:55 PM,5:26,,,Siakam 5' Turnaround Bank Shot (6 PTS),14 - 14,TIE,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,65,6,2,1,7:55 PM,5:19,,,Siakam S.FOUL (P2.T3) (S.Corbin),,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200021,67,3,11,1,7:55 PM,5:19,Durant Free Throw 1 of 2 (1 PTS),,,14 - 15,1,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,68,8,0,1,7:55 PM,5:19,SUB: Sharpe FOR Claxton,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200021,69,8,0,1,7:55 PM,5:19,,,SUB: Achiuwa FOR Siakam,,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200021,72,3,12,1,7:56 PM,5:19,Durant Free Throw 2 of 2 (2 PTS),,,14 - 16,2,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,73,1,101,1,7:56 PM,5:03,,,VanVleet 8' Driving Floating Jump Shot (2 PTS),16 - 16,TIE,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,74,1,58,1,7:56 PM,4:47,Sharpe 5' Turnaround Hook Shot (2 PTS) (Durant 3 AST),,,16 - 18,2,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200021,76,1,79,1,7:56 PM,4:32,,,Achiuwa 15' Pullup Jump Shot (2 PTS) (VanVleet 2 AST),18 - 18,TIE,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200021,78,1,108,1,7:57 PM,4:18,Sharpe 1' Cutting Dunk Shot (4 PTS) (Durant 4 AST),,,18 - 20,2,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200021,80,1,1,1,7:57 PM,4:07,,,Trent Jr. 25' 3PT Jump Shot (9 PTS) (VanVleet 3 AST),21 - 20,-1,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200021,82,2,101,1,7:57 PM,3:51,MISS Harris 10' Driving Floating Jump Shot,,,,,4,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,83,4,0,1,7:57 PM,3:48,,,Achiuwa REBOUND (Off:0 Def:1),,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,84,5,1,1,7:57 PM,3:41,O'Neale STEAL (1 STL),,Achiuwa Bad Pass Turnover (P1.T2),,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200021,86,2,1,1,7:57 PM,3:34,MISS Durant 3PT Jump Shot,,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,87,4,0,1,7:57 PM,3:30,,,Barnes REBOUND (Off:0 Def:1),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,88,2,1,1,7:58 PM,3:22,,,MISS VanVleet 3PT Jump Shot,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,89,4,0,1,7:58 PM,3:17,Sharpe REBOUND (Off:0 Def:1),,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,90,2,1,1,7:58 PM,3:09,MISS Durant 26' 3PT Jump Shot,,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,91,4,0,1,7:58 PM,3:06,,,Achiuwa REBOUND (Off:0 Def:2),,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,92,9,1,1,7:58 PM,3:01,,,Raptors Timeout: Regular (Reg.1 Short 0),,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200021,93,8,0,1,7:58 PM,3:01,SUB: Irving FOR O'Neale,,,,,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200021,94,8,0,1,7:58 PM,3:01,SUB: Mills FOR Durant,,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200021,95,8,0,1,7:58 PM,3:01,SUB: Morris FOR Simmons,,,,,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,4,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200021,96,8,0,1,7:58 PM,3:01,,,SUB: Koloko FOR Anunoby,,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200021,97,8,0,1,7:58 PM,3:01,,,SUB: Banton FOR VanVleet,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200021,103,2,101,1,8:01 PM,2:51,,,MISS Trent Jr. 7' Driving Floating Jump Shot,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,104,4,0,1,8:01 PM,2:51,,,Koloko REBOUND (Off:1 Def:0),,,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,105,6,2,1,8:01 PM,2:51,Sharpe S.FOUL (P1.T4) (S.Corbin),,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200021,107,3,11,1,8:02 PM,2:51,,,Koloko Free Throw 1 of 2 (1 PTS),22 - 20,-2,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,108,3,12,1,8:02 PM,2:51,,,MISS Koloko Free Throw 2 of 2,,,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,109,4,0,1,8:02 PM,2:48,Morris REBOUND (Off:0 Def:1),,,,,4,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,110,1,1,1,8:02 PM,2:39,Harris 26' 3PT Jump Shot (3 PTS) (Irving 1 AST),,,22 - 23,1,4,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200021,112,2,6,1,8:02 PM,2:17,Sharpe BLOCK (1 BLK),,MISS Achiuwa 5' Driving Layup,,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,1
+0022200021,114,4,0,1,8:02 PM,2:15,,,Barnes REBOUND (Off:1 Def:1),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,115,5,40,1,8:02 PM,2:15,,,Banton Out of Bounds Lost Ball Turnover (P1.T3),,,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0022200021,117,2,6,1,8:03 PM,1:58,MISS Mills 2' Driving Layup,,,,,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,118,4,0,1,8:03 PM,1:56,Sharpe REBOUND (Off:1 Def:1),,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,119,1,1,1,8:03 PM,1:49,Irving 24' 3PT Jump Shot (5 PTS),,,22 - 26,4,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,120,2,6,1,8:04 PM,1:26,,,MISS Barnes 3' Driving Layup,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,121,4,0,1,8:04 PM,1:25,Sharpe REBOUND (Off:1 Def:2),,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,122,2,2,1,8:04 PM,1:21,MISS Irving 25' 3PT Running Jump Shot,,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,123,4,0,1,8:04 PM,1:17,,,Achiuwa REBOUND (Off:0 Def:3),,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,124,6,2,1,8:04 PM,1:13,Morris S.FOUL (P1.PN) (S.Corbin),,,,,4,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200021,126,3,11,1,8:04 PM,1:13,,,Achiuwa Free Throw 1 of 2 (3 PTS),23 - 26,3,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,127,8,0,1,8:04 PM,1:13,,,SUB: Anunoby FOR Barnes,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200021,129,3,12,1,8:05 PM,1:13,,,Achiuwa Free Throw 2 of 2 (4 PTS),24 - 26,2,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,130,6,2,1,8:05 PM,1:01,,,Banton S.FOUL (P1.T4) (D.Mosher),,,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200021,132,3,11,1,8:05 PM,1:01,Mills Free Throw 1 of 2 (1 PTS),,,24 - 27,3,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,133,3,12,1,8:06 PM,1:01,Mills Free Throw 2 of 2 (2 PTS),,,24 - 28,4,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,134,2,79,1,8:06 PM,0:45,,,MISS Trent Jr. 25' 3PT Pullup Jump Shot,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,135,4,0,1,8:06 PM,0:39,Morris REBOUND (Off:0 Def:2),,,,,4,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,136,2,41,1,8:06 PM,0:35,MISS Irving Running Layup,,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,137,4,0,1,8:06 PM,0:33,Sharpe REBOUND (Off:2 Def:2),,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,138,2,1,1,8:06 PM,0:30,MISS Mills 26' 3PT Jump Shot,,,,,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,139,4,0,1,8:06 PM,0:28,,,Achiuwa REBOUND (Off:0 Def:4),,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,140,6,31,1,8:06 PM,0:28,Sharpe Transition Take Foul (P2.PN) (S.Corbin),,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200021,142,3,10,1,8:07 PM,0:28,,,MISS Achiuwa Free Throw 1 of 1,,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,143,4,0,1,8:07 PM,0:28,,,Raptors Rebound,,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200021,144,8,0,1,8:07 PM,0:28,SUB: O'Neale FOR Mills,,,,,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200021,145,8,0,1,8:07 PM,0:28,,,SUB: VanVleet FOR Banton,,,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200021,148,2,79,1,8:08 PM,0:16,,,MISS VanVleet 25' 3PT Pullup Jump Shot,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,149,4,0,1,8:08 PM,0:13,Sharpe REBOUND (Off:2 Def:3),,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,150,2,101,1,8:08 PM,0:01,MISS O'Neale 7' Driving Floating Jump Shot,,Koloko BLOCK (1 BLK),,,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,1
+0022200021,152,4,0,1,8:08 PM,0:01,,,VanVleet REBOUND (Off:0 Def:2),,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,153,13,0,1,8:08 PM,0:00,,End of 1st Period (8:08 PM EST),,24 - 28,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200021,162,12,0,2,8:10 PM,12:00,,Start of 2nd Period (8:10 PM EST),,24 - 28,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200021,163,6,2,2,8:11 PM,11:43,,,Koloko S.FOUL (P1.T1) (S.Corbin),,,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200021,165,3,11,2,8:11 PM,11:43,MISS Claxton Free Throw 1 of 2,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,166,4,1,2,8:11 PM,11:43,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200021,167,3,12,2,8:11 PM,11:43,MISS Claxton Free Throw 2 of 2,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,168,4,0,2,8:11 PM,11:40,,,Siakam REBOUND (Off:0 Def:2),,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,169,2,80,2,8:12 PM,11:20,,,MISS Siakam 17' Step Back Jump Shot,,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,170,4,0,2,8:12 PM,11:17,,,Raptors Rebound,,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200021,172,1,6,2,8:12 PM,11:08,,,Siakam 2' Driving Layup (8 PTS),26 - 28,2,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,173,2,1,2,8:13 PM,10:54,MISS Morris 26' 3PT Jump Shot,,,,,4,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,174,4,0,2,8:13 PM,10:51,,,Siakam REBOUND (Off:0 Def:3),,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,175,2,1,2,8:13 PM,10:43,,,MISS Banton 3PT Jump Shot,,,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,176,4,0,2,8:13 PM,10:43,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200021,177,6,3,2,8:13 PM,10:43,,,Achiuwa L.B.FOUL (P1.T2) (S.Corbin),,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200021,179,6,1,2,8:13 PM,10:33,,,Achiuwa P.FOUL (P2.T3) (D.Mosher),,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200021,182,5,2,2,8:14 PM,10:19,Simmons Lost Ball Turnover (P1.T2),,VanVleet STEAL (2 STL),,,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200021,184,2,1,2,8:14 PM,10:08,,,MISS Achiuwa 25' 3PT Jump Shot,,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,185,4,0,2,8:14 PM,10:04,Simmons REBOUND (Off:0 Def:3),,,,,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,186,5,39,2,8:15 PM,9:57,O'Neale Step Out of Bounds Turnover (P1.T3),,,,,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022200021,187,1,98,2,8:15 PM,9:43,,,Banton 3' Cutting Layup Shot (2 PTS) (Siakam 2 AST),28 - 28,TIE,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200021,189,1,78,2,8:15 PM,9:32,Irving 5' Floating Jump Shot (7 PTS) (Simmons 2 AST),,,28 - 30,2,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200021,191,2,44,2,8:15 PM,9:17,Claxton BLOCK (1 BLK),,MISS Koloko 1' Reverse Layup,,,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1
+0022200021,193,4,0,2,8:15 PM,9:14,,,Koloko REBOUND (Off:2 Def:0),,,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,194,2,1,2,8:16 PM,9:09,,,MISS Siakam 24' 3PT Jump Shot,,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,195,4,0,2,8:16 PM,9:04,O'Neale REBOUND (Off:0 Def:1),,,,,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,196,5,2,2,8:16 PM,9:00,Irving Lost Ball Turnover (P2.T4),,Banton STEAL (1 STL),,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200021,198,1,2,2,8:16 PM,8:56,,,VanVleet 25' 3PT Running Jump Shot (5 PTS) (Siakam 3 AST),31 - 30,-1,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200021,200,9,1,2,8:16 PM,8:55,NETS Timeout: Regular (Full 2 Short 0),,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200021,201,8,0,2,8:16 PM,8:55,SUB: Harris FOR O'Neale,,,,,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,4,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200021,202,8,0,2,8:16 PM,8:55,SUB: Durant FOR Morris,,,,,4,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200021,203,8,0,2,8:16 PM,8:55,,,SUB: Young FOR Achiuwa,,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200021,207,5,1,2,8:19 PM,8:37,Durant Bad Pass Turnover (P1.T5),,VanVleet STEAL (3 STL),,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200021,209,1,50,2,8:19 PM,8:33,,,Banton 1' Running Dunk (4 PTS) (VanVleet 4 AST),33 - 30,-3,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200021,211,1,79,2,8:19 PM,8:20,Irving 27' 3PT Pullup Jump Shot (10 PTS),,,33 - 33,TIE,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,212,2,1,2,8:20 PM,7:58,,,MISS Young 3PT Jump Shot,,,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,213,4,0,2,8:20 PM,7:54,,,Siakam REBOUND (Off:1 Def:3),,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,214,1,78,2,8:20 PM,7:52,,,Siakam 1' Floating Jump Shot (10 PTS),35 - 33,-2,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,215,1,108,2,8:20 PM,7:37,Claxton 1' Cutting Dunk Shot (6 PTS) (Simmons 3 AST),,,35 - 35,TIE,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200021,217,6,1,2,8:21 PM,7:22,Simmons P.FOUL (P1.T1) (S.Corbin),,,,,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200021,219,8,0,2,8:21 PM,7:22,,,SUB: Anunoby FOR VanVleet,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200021,220,8,0,2,8:21 PM,7:22,,,SUB: Trent Jr. FOR Banton,,,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200021,223,1,1,2,8:21 PM,7:09,,,Siakam 20' Jump Shot (12 PTS),37 - 35,-2,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,224,2,1,2,8:21 PM,6:53,MISS Durant 3PT Jump Shot,,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,225,4,0,2,8:21 PM,6:49,,,Young REBOUND (Off:0 Def:1),,,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,226,1,63,2,8:21 PM,6:43,,,Siakam 15' Fadeaway Jumper (14 PTS),39 - 35,-4,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,227,1,79,2,8:22 PM,6:28,Durant 13' Pullup Jump Shot (4 PTS),,,39 - 37,-2,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,228,2,1,2,8:22 PM,6:07,,,MISS Koloko 21' Jump Shot,,,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,229,4,0,2,8:22 PM,6:04,Simmons REBOUND (Off:0 Def:4),,,,,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,230,2,1,2,8:22 PM,5:58,MISS Irving 26' 3PT Jump Shot,,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,231,4,0,2,8:22 PM,5:56,,,Siakam REBOUND (Off:1 Def:4),,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,232,6,2,2,8:22 PM,5:52,Irving S.FOUL (P2.T2) (D.Mosher),,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200021,234,3,11,2,8:23 PM,5:52,,,Siakam Free Throw 1 of 2 (15 PTS),40 - 37,-3,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,235,8,0,2,8:23 PM,5:52,SUB: Sharpe FOR Simmons,,,,,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200021,236,8,0,2,8:23 PM,5:52,SUB: O'Neale FOR Irving,,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200021,237,8,0,2,8:23 PM,5:52,SUB: Mills FOR Claxton,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200021,238,8,0,2,8:23 PM,5:52,,,SUB: Barnes FOR Koloko,,,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200021,243,3,12,2,8:23 PM,5:52,,,Siakam Free Throw 2 of 2 (16 PTS),41 - 37,-4,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,244,5,1,2,8:24 PM,5:35,Durant Bad Pass Turnover (P2.T6),,Barnes STEAL (1 STL),,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200021,246,1,50,2,8:24 PM,5:30,,,Siakam 2' Running Dunk (18 PTS) (Young 1 AST),43 - 37,-6,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200021,248,6,2,2,8:24 PM,5:15,,,Barnes S.FOUL (P1.T4) (D.Mosher),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200021,250,3,11,2,8:24 PM,5:15,MISS Sharpe Free Throw 1 of 2,,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,251,4,1,2,8:24 PM,5:15,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200021,252,3,12,2,8:24 PM,5:15,MISS Sharpe Free Throw 2 of 2,,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,253,4,0,2,8:25 PM,5:11,,,Siakam REBOUND (Off:1 Def:5),,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,254,2,47,2,8:25 PM,4:57,,,MISS Anunoby 9' Turnaround Jump Shot,,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,255,4,0,2,8:25 PM,4:54,Sharpe REBOUND (Off:2 Def:4),,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,256,2,63,2,8:25 PM,4:46,MISS Durant 10' Fadeaway Jumper,,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,257,4,0,2,8:25 PM,4:45,,,Raptors Rebound,,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200021,259,5,4,2,8:26 PM,4:32,,,Siakam Traveling Turnover (P1.T4),,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0022200021,260,2,6,2,8:26 PM,4:20,MISS Sharpe 6' Driving Layup,,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,261,4,0,2,8:26 PM,4:17,,,Siakam REBOUND (Off:1 Def:6),,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,262,6,1,2,8:26 PM,4:13,Sharpe P.FOUL (P3.T3) (J.Capers),,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200021,264,1,1,2,8:27 PM,4:03,,,Trent Jr. 27' 3PT Jump Shot (12 PTS) (Siakam 4 AST),46 - 37,-9,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200021,266,6,2,2,8:27 PM,3:47,,,Anunoby S.FOUL (P1.PN) (J.Capers),,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200021,268,3,11,2,8:27 PM,3:47,Durant Free Throw 1 of 2 (5 PTS),,,46 - 38,-8,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,269,3,12,2,8:27 PM,3:47,MISS Durant Free Throw 2 of 2,,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,270,4,0,2,8:27 PM,3:44,,,Siakam REBOUND (Off:1 Def:7),,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,271,2,79,2,8:28 PM,3:38,,,MISS Siakam 25' 3PT Pullup Jump Shot,,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,272,4,0,2,8:28 PM,3:34,Sharpe REBOUND (Off:2 Def:5),,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,273,1,9,2,8:28 PM,3:28,Durant 1' Driving Dunk (7 PTS),,,46 - 40,-6,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,274,6,2,2,8:28 PM,3:17,Harris S.FOUL (P1.T4) (J.Capers),,,,,4,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200021,276,3,11,2,8:29 PM,3:17,,,Anunoby Free Throw 1 of 2 (1 PTS),47 - 40,-7,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,277,8,0,2,8:29 PM,3:17,SUB: Simmons FOR Harris,,,,,4,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200021,278,8,0,2,8:29 PM,3:17,SUB: Irving FOR Sharpe,,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200021,281,3,12,2,8:29 PM,3:17,,,Anunoby Free Throw 2 of 2 (2 PTS),48 - 40,-8,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,282,1,1,2,8:29 PM,3:03,Mills 3PT Jump Shot (5 PTS) (Simmons 4 AST),,,48 - 43,-5,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200021,284,9,1,2,8:29 PM,2:56,,,Raptors Timeout: Regular (Reg.2 Short 0),,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200021,285,8,0,2,8:29 PM,2:56,,,SUB: VanVleet FOR Young,,,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200021,287,1,6,2,8:33 PM,2:44,,,Barnes 2' Driving Layup (4 PTS) (VanVleet 5 AST),50 - 43,-7,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200021,289,6,1,2,8:33 PM,2:30,,,Anunoby P.FOUL (P2.PN) (S.Corbin),,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200021,291,3,11,2,8:33 PM,2:30,Durant Free Throw 1 of 2 (8 PTS),,,50 - 44,-6,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,292,3,12,2,8:34 PM,2:30,Durant Free Throw 2 of 2 (9 PTS),,,50 - 45,-5,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,293,2,1,2,8:34 PM,2:16,,,MISS Trent Jr. 3PT Jump Shot,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,294,4,0,2,8:34 PM,2:13,Simmons REBOUND (Off:0 Def:5),,,,,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,295,6,2,2,8:34 PM,2:09,,,Siakam S.FOUL (P3.PN) (J.Capers),,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200021,297,3,11,2,8:34 PM,2:09,Mills Free Throw 1 of 2 (6 PTS),,,50 - 46,-4,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,298,8,0,2,8:34 PM,2:09,,,SUB: Achiuwa FOR Siakam,,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200021,300,3,12,2,8:35 PM,2:09,Mills Free Throw 2 of 2 (7 PTS),,,50 - 47,-3,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,301,2,1,2,8:35 PM,1:48,,,MISS Barnes 18' Jump Shot,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,302,4,0,2,8:35 PM,1:46,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200021,304,2,79,2,8:36 PM,1:27,MISS Durant 9' Pullup Jump Shot,,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,305,4,0,2,8:36 PM,1:24,,,Achiuwa REBOUND (Off:0 Def:5),,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,306,2,98,2,8:36 PM,1:13,Simmons BLOCK (2 BLK),,MISS Achiuwa 1' Cutting Layup Shot,,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,1
+0022200021,308,4,0,2,8:36 PM,1:13,,,Raptors Rebound,,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200021,310,6,2,2,8:36 PM,1:07,O'Neale S.FOUL (P1.PN) (J.Capers),,,,,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200021,312,3,11,2,8:37 PM,1:07,,,Barnes Free Throw 1 of 2 (5 PTS),51 - 47,-4,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,313,8,0,2,8:37 PM,1:07,,,SUB: Banton FOR Anunoby,,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200021,315,3,12,2,8:37 PM,1:07,,,Barnes Free Throw 2 of 2 (6 PTS),52 - 47,-5,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,316,1,78,2,8:37 PM,0:56,Durant 8' Floating Jump Shot (11 PTS) (Simmons 5 AST),,,52 - 49,-3,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200021,327,5,35,2,8:38 PM,0:34,,,Barnes Basket from Below Turnover (P1.T5),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0022200021,321,2,1,2,8:38 PM,0:25,MISS Irving 26' 3PT Jump Shot,,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,322,4,0,2,8:38 PM,0:21,Durant REBOUND (Off:1 Def:1),,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,323,2,52,2,8:38 PM,0:19,MISS Simmons Alley Oop Dunk,,,,,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,324,4,0,2,8:39 PM,0:17,,,Achiuwa REBOUND (Off:0 Def:6),,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,326,5,40,2,8:39 PM,0:15,,,Achiuwa Out of Bounds Lost Ball Turnover (P2.T6),,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0022200021,328,2,6,2,8:39 PM,0:01,MISS Irving 4' Driving Layup,,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,329,4,0,2,8:39 PM,0:01,,,VanVleet REBOUND (Off:0 Def:3),,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,330,13,0,2,8:39 PM,0:00,,End of 2nd Period (8:39 PM EST),,52 - 49,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200021,337,12,0,3,8:55 PM,12:00,,Start of 3rd Period (8:55 PM EST),,52 - 49,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200021,338,1,79,3,8:55 PM,11:41,Durant 20' Pullup Jump Shot (13 PTS),,,52 - 51,-1,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,339,2,79,3,8:55 PM,11:23,Durant BLOCK (1 BLK),,MISS Trent Jr. 11' Pullup Jump Shot,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1
+0022200021,341,4,0,3,8:55 PM,11:19,Simmons REBOUND (Off:0 Def:6),,,,,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,342,1,41,3,8:55 PM,11:18,Irving Running Layup (12 PTS) (Simmons 6 AST),,,52 - 53,1,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200021,344,2,1,3,8:56 PM,10:56,Durant BLOCK (2 BLK),,MISS Trent Jr. 25' 3PT Jump Shot,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1
+0022200021,345,4,0,3,8:56 PM,10:52,Claxton REBOUND (Off:1 Def:2),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,346,1,2,3,8:56 PM,10:48,Irving 25' 3PT Running Jump Shot (15 PTS) (Durant 5 AST),,,52 - 56,4,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200021,349,2,63,3,8:57 PM,10:20,,,MISS Trent Jr. 12' Fadeaway Jumper,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,350,4,0,3,8:57 PM,10:19,,,Raptors Rebound,,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200021,351,5,11,3,8:57 PM,10:19,,,Raptors Turnover: Shot Clock (T#7),,,3,1610612761,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200021,352,1,79,3,8:57 PM,10:11,Irving 16' Pullup Jump Shot (17 PTS) (Simmons 7 AST),,,52 - 58,6,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200021,354,5,4,3,8:58 PM,9:50,,,Barnes Traveling Turnover (P2.T8),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0022200021,355,5,1,3,8:58 PM,9:37,Durant Bad Pass Turnover (P3.T7),,Barnes STEAL (2 STL),,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200021,357,5,4,3,8:58 PM,9:33,,,Anunoby Traveling Turnover (P2.T9),,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0022200021,358,2,1,3,8:58 PM,9:24,MISS Irving 24' 3PT Jump Shot,,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,359,4,0,3,8:59 PM,9:22,,,Anunoby REBOUND (Off:1 Def:1),,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,432,2,101,3,8:59 PM,9:12,Irving BLOCK (1 BLK),,MISS Barnes 5' Driving Floating Jump Shot,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,1
+0022200021,434,4,0,3,8:59 PM,9:11,O'Neale REBOUND (Off:0 Def:2),,,,,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,362,5,2,3,8:59 PM,8:57,Durant Lost Ball Turnover (P4.T8),,Anunoby STEAL (1 STL),,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200021,364,1,41,3,8:59 PM,8:54,,,Anunoby Running Layup (4 PTS),54 - 58,4,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,366,2,1,3,8:59 PM,8:37,MISS O'Neale 25' 3PT Jump Shot,,,,,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,367,4,0,3,9:00 PM,8:33,,,Siakam REBOUND (Off:1 Def:8),,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,368,1,108,3,9:00 PM,8:27,,,Siakam 2' Cutting Dunk Shot (20 PTS) (Barnes 1 AST),56 - 58,2,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200021,370,6,2,3,9:00 PM,8:27,Durant S.FOUL (P1.T1) (S.Corbin),,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200021,372,3,10,3,9:00 PM,8:27,,,MISS Siakam Free Throw 1 of 1,,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,373,4,0,3,9:00 PM,8:24,Durant REBOUND (Off:1 Def:2),,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,374,2,79,3,9:01 PM,8:09,MISS Irving 25' 3PT Pullup Jump Shot,,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,375,4,0,3,9:01 PM,8:06,Irving REBOUND (Off:1 Def:0),,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,376,1,1,3,9:01 PM,8:04,Durant 25' 3PT Jump Shot (16 PTS) (Irving 2 AST),,,56 - 61,5,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200021,378,2,1,3,9:01 PM,7:46,,,MISS Anunoby 25' 3PT Jump Shot,,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,379,4,0,3,9:01 PM,7:42,Simmons REBOUND (Off:0 Def:7),,,,,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,380,1,1,3,9:01 PM,7:34,Durant 25' 3PT Jump Shot (19 PTS) (Simmons 8 AST),,,56 - 64,8,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200021,382,9,1,3,9:01 PM,7:33,,,Raptors Timeout: Regular (Reg.3 Short 0),,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200021,384,6,1,3,9:05 PM,7:13,Irving P.FOUL (P3.T2) (S.Corbin),,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200021,386,1,79,3,9:05 PM,7:07,,,VanVleet 19' Pullup Jump Shot (7 PTS) (Siakam 5 AST),58 - 64,6,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200021,388,2,1,3,9:05 PM,6:45,MISS O'Neale 25' 3PT Jump Shot,,,,,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,389,4,0,3,9:05 PM,6:41,,,Barnes REBOUND (Off:1 Def:2),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,390,1,6,3,9:05 PM,6:32,,,Barnes 2' Driving Layup (8 PTS),60 - 64,4,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,392,5,1,3,9:06 PM,6:26,Simmons Bad Pass Turnover (P2.T9),,Trent Jr. STEAL (1 STL),,,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200021,394,2,41,3,9:06 PM,6:23,Claxton BLOCK (2 BLK),,MISS Trent Jr. 1' Running Layup,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1
+0022200021,396,4,0,3,9:06 PM,6:20,Simmons REBOUND (Off:0 Def:8),,,,,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,397,2,79,3,9:06 PM,6:17,MISS Irving 25' 3PT Pullup Jump Shot,,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,398,4,0,3,9:06 PM,6:17,Claxton REBOUND (Off:2 Def:2),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,399,8,0,3,9:06 PM,6:13,SUB: Harris FOR Irving,,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,4,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200021,401,10,0,3,9:06 PM,6:07,Jump Ball Claxton vs. VanVleet: Tip to Durant,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1
+0022200021,404,2,63,3,9:07 PM,6:03,MISS Durant 10' Fadeaway Jumper,,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,405,4,0,3,9:07 PM,5:58,Claxton REBOUND (Off:3 Def:2),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,406,2,72,3,9:07 PM,5:58,MISS Claxton 1' Putback Layup,,VanVleet BLOCK (1 BLK),,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,1
+0022200021,408,4,0,3,9:07 PM,5:58,,,VanVleet REBOUND (Off:0 Def:4),,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,410,1,1,3,9:07 PM,5:54,,,Siakam 24' 3PT Jump Shot (23 PTS) (VanVleet 6 AST),63 - 64,1,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200021,412,6,2,3,9:07 PM,5:54,Simmons S.FOUL (P2.T3) (J.Capers),,,,,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200021,414,8,0,3,9:07 PM,5:54,,,SUB: Koloko FOR Trent Jr.,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200021,416,3,10,3,9:08 PM,5:54,,,MISS Siakam Free Throw 1 of 1,,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,417,4,0,3,9:08 PM,5:52,,,Barnes REBOUND (Off:2 Def:2),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,418,2,47,3,9:08 PM,5:39,Claxton BLOCK (3 BLK),,MISS Barnes 15' Turnaround Jump Shot,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1
+0022200021,420,4,0,3,9:08 PM,5:39,,,Raptors Rebound,,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200021,421,5,11,3,9:08 PM,5:39,,,Raptors Turnover: Shot Clock (T#10),,,3,1610612761,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200021,422,5,45,3,9:09 PM,5:26,Durant Out of Bounds - Bad Pass Turnover Turnover (P5.T10),,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022200021,423,8,0,3,9:09 PM,5:26,SUB: Sharpe FOR Claxton,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200021,425,1,1,3,9:09 PM,5:10,,,Barnes 25' 3PT Jump Shot (11 PTS) (VanVleet 7 AST),66 - 64,-2,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200021,427,5,1,3,9:09 PM,4:52,Simmons Bad Pass Turnover (P3.T11),,VanVleet STEAL (4 STL),,,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200021,429,1,50,3,9:09 PM,4:48,,,Siakam 1' Running Dunk (25 PTS) (Barnes 2 AST),68 - 64,-4,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200021,431,9,1,3,9:10 PM,4:48,NETS Timeout: Regular (Full 3 Short 0),,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200021,435,2,1,3,9:13 PM,4:34,MISS Harris 24' 3PT Jump Shot,,,,,4,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,436,4,0,3,9:13 PM,4:31,,,Barnes REBOUND (Off:2 Def:3),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,437,1,47,3,9:13 PM,4:24,,,Siakam 7' Turnaround Jump Shot (27 PTS),70 - 64,-6,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,438,6,2,3,9:13 PM,4:24,O'Neale S.FOUL (P2.T4) (S.Corbin),,,,,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200021,440,7,2,3,9:13 PM,4:24,Sharpe Violation:Defensive Goaltending (J.Capers),,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022200021,441,3,10,3,9:14 PM,4:24,,,Siakam Free Throw 1 of 1 (28 PTS),71 - 64,-7,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,442,8,0,3,9:14 PM,4:24,SUB: Irving FOR Simmons,,,,,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200021,444,1,47,3,9:14 PM,4:09,Durant 12' Turnaround Jump Shot (21 PTS) (Harris 1 AST),,,71 - 66,-5,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,4,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200021,446,1,85,3,9:14 PM,3:52,,,Barnes 7' Turnaround Bank Shot (13 PTS),73 - 66,-7,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,447,5,21,3,9:14 PM,3:46,O'Neale Palming Turnover (P2.T12),,,,,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022200021,448,1,1,3,9:15 PM,3:31,,,Siakam 26' 3PT Jump Shot (31 PTS) (VanVleet 8 AST),76 - 66,-10,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200021,450,6,2,3,9:15 PM,3:12,,,Anunoby S.FOUL (P3.T1) (S.Corbin),,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200021,452,3,11,3,9:15 PM,3:12,Durant Free Throw 1 of 2 (22 PTS),,,76 - 67,-9,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,453,8,0,3,9:15 PM,3:12,SUB: Morris FOR O'Neale,,,,,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,4,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200021,454,8,0,3,9:15 PM,3:12,SUB: Claxton FOR Sharpe,,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200021,455,8,0,3,9:15 PM,3:12,,,SUB: Banton FOR Anunoby,,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200021,456,8,0,3,9:15 PM,3:12,,,SUB: Achiuwa FOR Barnes,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200021,457,8,0,3,9:15 PM,3:12,,,SUB: Trent Jr. FOR VanVleet,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200021,463,3,12,3,9:16 PM,3:12,Durant Free Throw 2 of 2 (23 PTS),,,76 - 68,-8,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,464,1,79,3,9:16 PM,2:54,,,Siakam 18' Pullup Jump Shot (33 PTS),78 - 68,-10,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,465,6,2,3,9:17 PM,2:43,,,Koloko S.FOUL (P2.T2) (D.Mosher),,,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200021,467,3,11,3,9:17 PM,2:43,MISS Claxton Free Throw 1 of 2,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,468,4,1,3,9:17 PM,2:43,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200021,469,8,0,3,9:17 PM,2:43,SUB: Mills FOR Durant,,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200021,471,3,12,3,9:18 PM,2:43,Claxton Free Throw 2 of 2 (7 PTS),,,78 - 69,-9,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,472,6,1,3,9:18 PM,2:35,Morris P.FOUL (P2.PN) (S.Corbin),,,,,4,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200021,474,3,11,3,9:18 PM,2:35,,,MISS Siakam Free Throw 1 of 2,,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,475,4,1,3,9:18 PM,2:35,,,Raptors Rebound,,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200021,476,3,12,3,9:19 PM,2:35,,,Siakam Free Throw 2 of 2 (34 PTS),79 - 69,-10,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,477,1,44,3,9:19 PM,2:16,Claxton 1' Reverse Layup (9 PTS) (Irving 3 AST),,,79 - 71,-8,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200021,479,2,6,3,9:19 PM,2:05,Claxton BLOCK (4 BLK),,MISS Banton 2' Driving Layup,,,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1
+0022200021,481,4,0,3,9:19 PM,2:02,Morris REBOUND (Off:0 Def:3),,,,,4,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,482,2,103,3,9:19 PM,1:59,MISS Irving 25' 3PT Running Pull-Up Jump Shot,,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,483,4,0,3,9:19 PM,1:57,Claxton REBOUND (Off:4 Def:2),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,484,6,2,3,9:19 PM,1:57,,,Koloko S.FOUL (P3.T3) (D.Mosher),,,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200021,486,3,11,3,9:20 PM,1:57,MISS Claxton Free Throw 1 of 2,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,487,4,1,3,9:20 PM,1:57,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200021,488,3,12,3,9:20 PM,1:57,MISS Claxton Free Throw 2 of 2,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,489,4,0,3,9:20 PM,1:54,Harris REBOUND (Off:1 Def:0),,,,,4,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,490,1,98,3,9:20 PM,1:50,Claxton 2' Cutting Layup Shot (11 PTS) (Harris 2 AST),,,79 - 73,-6,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200021,492,2,79,3,9:20 PM,1:33,,,MISS Trent Jr. 25' 3PT Pullup Jump Shot,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,493,4,0,3,9:20 PM,1:29,Claxton REBOUND (Off:4 Def:3),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,494,2,1,3,9:21 PM,1:21,MISS Mills 25' 3PT Jump Shot,,,,,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,495,4,0,3,9:21 PM,1:18,,,Siakam REBOUND (Off:1 Def:9),,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,496,5,1,3,9:21 PM,1:10,Claxton STEAL (1 STL),,Siakam Bad Pass Turnover (P2.T11),,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200021,498,1,41,3,9:21 PM,1:05,Claxton 2' Running Layup (13 PTS),,,79 - 75,-4,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,499,2,79,3,9:21 PM,0:47,,,MISS Siakam 26' 3PT Pullup Jump Shot,,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,500,4,0,3,9:21 PM,0:45,Harris REBOUND (Off:1 Def:1),,,,,4,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,501,1,1,3,9:21 PM,0:28,Mills 3PT Jump Shot (10 PTS) (Irving 4 AST),,,79 - 78,-1,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200021,504,8,0,3,9:22 PM,0:06,SUB: O'Neale FOR Mills,,,,,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200021,505,8,0,3,9:22 PM,0:06,,,SUB: VanVleet FOR Banton,,,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200021,508,2,78,3,9:23 PM,0:04,,,MISS Achiuwa 11' Floating Jump Shot,,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,509,4,0,3,9:23 PM,0:00,,,VanVleet REBOUND (Off:1 Def:4),,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,510,2,63,3,9:23 PM,0:00,,,MISS VanVleet 3' Fadeaway Jumper,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,511,4,0,3,9:23 PM,0:00,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200021,513,13,0,3,9:23 PM,0:00,,End of 3rd Period (9:23 PM EST),,79 - 78,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200021,520,12,0,4,9:26 PM,12:00,,Start of 4th Period (9:26 PM EST),,79 - 78,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200021,521,5,1,4,9:26 PM,11:44,O'Neale STEAL (2 STL),,Anunoby Bad Pass Turnover (P3.T12),,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200021,523,1,1,4,9:26 PM,11:27,Morris 25' 3PT Jump Shot (3 PTS) (Irving 5 AST),,,79 - 81,2,4,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200021,526,2,86,4,9:27 PM,10:59,,,MISS Achiuwa 12' Turnaround Fadeaway Shot,,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,527,4,0,4,9:27 PM,10:55,Simmons REBOUND (Off:0 Def:9),,,,,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,528,2,1,4,9:27 PM,10:50,MISS O'Neale 25' 3PT Jump Shot,,,,,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,529,4,0,4,9:27 PM,10:49,,,VanVleet REBOUND (Off:1 Def:5),,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,592,5,2,4,9:27 PM,10:49,,,Achiuwa Lost Ball Turnover (P3.T13),,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,531,2,57,4,9:27 PM,10:28,MISS Simmons 11' Driving Hook Shot,,,,,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,532,4,0,4,9:28 PM,10:26,Claxton REBOUND (Off:5 Def:3),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,533,2,97,4,9:28 PM,10:26,MISS Claxton Tip Layup Shot,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,534,4,0,4,9:28 PM,10:26,Claxton REBOUND (Off:6 Def:3),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,535,6,2,4,9:28 PM,10:26,,,Koloko S.FOUL (P4.T1) (D.Mosher),,,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200021,537,3,11,4,9:28 PM,10:26,Claxton Free Throw 1 of 2 (14 PTS),,,79 - 82,3,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,538,8,0,4,9:28 PM,10:26,,,SUB: Barnes FOR Banton,,,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200021,540,3,12,4,9:28 PM,10:26,Claxton Free Throw 2 of 2 (15 PTS),,,79 - 83,4,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,541,6,1,4,9:29 PM,10:12,Irving P.FOUL (P4.T1) (S.Corbin),,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200021,543,2,1,4,9:29 PM,10:05,,,MISS Barnes 26' 3PT Jump Shot,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,544,4,0,4,9:29 PM,10:02,Simmons REBOUND (Off:0 Def:10),,,,,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,545,2,78,4,9:29 PM,9:48,MISS Irving 7' Floating Jump Shot,,Anunoby BLOCK (1 BLK),,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,1
+0022200021,547,4,0,4,9:30 PM,9:45,Claxton REBOUND (Off:7 Def:3),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,548,1,80,4,9:30 PM,9:43,Irving 19' Step Back Jump Shot (19 PTS) (O'Neale 1 AST),,,79 - 85,6,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200021,549,6,2,4,9:30 PM,9:43,,,Anunoby S.FOUL (P4.T2) (S.Corbin),,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200021,551,3,10,4,9:30 PM,9:43,Irving Free Throw 1 of 1 (20 PTS),,,79 - 86,7,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,553,1,1,4,9:30 PM,9:33,,,VanVleet 26' 3PT Jump Shot (10 PTS) (Barnes 3 AST),82 - 86,4,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200021,555,1,80,4,9:31 PM,9:13,Irving 25' 3PT Step Back Jump Shot (23 PTS),,,82 - 89,7,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,556,1,1,4,9:31 PM,9:00,,,Anunoby 25' 3PT Jump Shot (7 PTS) (VanVleet 9 AST),85 - 89,4,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200021,558,1,98,4,9:31 PM,8:39,Simmons 1' Cutting Layup Shot (6 PTS) (Irving 6 AST),,,85 - 91,6,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200021,560,1,79,4,9:32 PM,8:21,,,VanVleet 25' 3PT Pullup Jump Shot (13 PTS),88 - 91,3,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,561,9,1,4,9:32 PM,8:16,NETS Timeout: Regular (Full 4 Short 0),,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200021,562,8,0,4,9:32 PM,8:16,SUB: Durant FOR Simmons,,,,,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200021,563,8,0,4,9:32 PM,8:16,,,SUB: Siakam FOR Achiuwa,,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200021,566,1,108,4,9:35 PM,7:57,Claxton Cutting Dunk Shot (17 PTS) (O'Neale 2 AST),,,88 - 93,5,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200021,670,2,101,4,9:35 PM,7:35,O'Neale BLOCK (1 BLK),,MISS Siakam 6' Driving Floating Jump Shot,,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0
+0022200021,672,4,0,4,9:35 PM,7:34,Durant REBOUND (Off:1 Def:3),,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0022200021,570,6,2,4,9:36 PM,7:18,,,Koloko S.FOUL (P5.T3) (S.Corbin),,,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200021,572,3,11,4,9:36 PM,7:18,Irving Free Throw 1 of 2 (24 PTS),,,88 - 94,6,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,573,8,0,4,9:36 PM,7:18,,,SUB: Trent Jr. FOR Koloko,,,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200021,575,3,12,4,9:37 PM,7:18,Irving Free Throw 2 of 2 (25 PTS),,,88 - 95,7,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,576,6,4,4,9:37 PM,7:08,,,Barnes OFF.Foul (P2) (J.Capers),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200021,580,5,37,4,9:37 PM,7:08,,,Barnes Offensive Foul Turnover (P3.T14),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0022200021,578,9,1,4,9:37 PM,7:08,NETS Timeout: Regular (Full 5 Short 0),,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200021,579,18,5,4,9:37 PM,7:08,,Instant Replay4th Period (9:37 PM EST),,88 - 95,7,0,576,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200021,581,1,79,4,9:40 PM,6:57,Irving 26' 3PT Pullup Jump Shot (28 PTS),,,88 - 98,10,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,582,2,47,4,9:41 PM,6:32,,,MISS Barnes 6' Turnaround Jump Shot,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,583,4,0,4,9:41 PM,6:30,Claxton REBOUND (Off:7 Def:4),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,584,2,75,4,9:41 PM,6:20,MISS Irving 1' Driving Finger Roll Layup,,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,585,4,0,4,9:41 PM,6:18,,,Anunoby REBOUND (Off:1 Def:2),,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,586,2,41,4,9:41 PM,6:15,O'Neale BLOCK (2 BLK),,MISS Anunoby 2' Running Layup,,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,1
+0022200021,591,4,0,4,9:41 PM,6:10,,,Raptors Rebound,,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200021,588,10,0,4,9:42 PM,6:10,Jump Ball O'Neale vs. Anunoby: Tip to Anunoby,,,,,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,1
+0022200021,593,2,79,4,9:42 PM,5:57,,,MISS Trent Jr. 17' Pullup Jump Shot,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,594,4,0,4,9:42 PM,5:53,O'Neale REBOUND (Off:0 Def:3),,,,,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,595,1,99,4,9:42 PM,5:38,Claxton Cutting Finger Roll Layup Shot (19 PTS) (Durant 6 AST),,,88 - 100,12,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200021,598,1,3,4,9:42 PM,5:17,,,Barnes 2' Hook Shot (15 PTS) (Siakam 6 AST),90 - 100,10,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200021,600,2,79,4,9:43 PM,4:54,MISS Durant 26' 3PT Pullup Jump Shot,,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,601,4,0,4,9:43 PM,4:51,,,Siakam REBOUND (Off:1 Def:10),,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,602,1,2,4,9:43 PM,4:47,,,VanVleet 26' 3PT Running Jump Shot (16 PTS) (Siakam 7 AST),93 - 100,7,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200021,604,2,1,4,9:43 PM,4:21,MISS Morris 3PT Jump Shot,,,,,4,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,605,4,0,4,9:43 PM,4:18,Morris REBOUND (Off:1 Def:3),,,,,4,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,606,2,78,4,9:43 PM,4:16,MISS Morris 12' Floating Jump Shot,,,,,4,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,607,4,0,4,9:43 PM,4:14,,,VanVleet REBOUND (Off:1 Def:6),,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,608,1,7,4,9:44 PM,3:57,,,Barnes Dunk (17 PTS) (Siakam 8 AST),95 - 100,5,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200021,610,2,1,4,9:44 PM,3:30,MISS Durant 25' 3PT Jump Shot,,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,611,4,0,4,9:44 PM,3:27,,,Barnes REBOUND (Off:2 Def:4),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,612,2,1,4,9:44 PM,3:18,,,MISS Trent Jr. 26' 3PT Jump Shot,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,613,4,0,4,9:45 PM,3:14,O'Neale REBOUND (Off:0 Def:4),,,,,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,614,2,6,4,9:45 PM,3:03,MISS Irving 2' Driving Layup,,Barnes BLOCK (1 BLK),,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,1
+0022200021,616,4,0,4,9:45 PM,3:00,,,Anunoby REBOUND (Off:1 Def:3),,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,617,2,41,4,9:45 PM,2:57,Morris BLOCK (1 BLK),,MISS VanVleet 1' Running Layup,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,1
+0022200021,618,4,0,4,9:45 PM,2:55,,,Siakam REBOUND (Off:2 Def:10),,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,619,1,72,4,9:45 PM,2:54,,,Siakam 2' Putback Layup (36 PTS),97 - 100,3,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,620,9,1,4,9:45 PM,2:45,NETS Timeout: Regular (Full 6 Short 0),,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200021,622,8,0,4,9:45 PM,2:45,SUB: Simmons FOR Claxton,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200021,624,2,1,4,9:47 PM,2:34,MISS Irving 25' 3PT Jump Shot,,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,625,4,0,4,9:47 PM,2:30,,,Anunoby REBOUND (Off:1 Def:4),,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,626,6,26,4,9:47 PM,2:19,,,Siakam Offensive Charge Foul (P4) (J.Capers),,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200021,628,5,37,4,9:47 PM,2:19,,,Siakam Offensive Foul Turnover (P3.T15),,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0022200021,629,18,4,4,9:48 PM,2:19,,Instant Replay4th Period (9:48 PM EST),,97 - 100,3,0,626,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200021,630,9,1,4,9:48 PM,2:19,,,Raptors Timeout: Regular (Reg.4 Short 0),,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200021,631,6,4,4,9:50 PM,2:02,Morris OFF.Foul (P3) (J.Capers),,,,,4,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200021,633,5,37,4,9:50 PM,2:02,Morris Offensive Foul Turnover (P1.T13),,,,,4,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022200021,634,8,0,4,9:50 PM,2:02,SUB: Claxton FOR Morris,,,,,4,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200021,636,1,1,4,9:51 PM,1:46,,,Anunoby 25' 3PT Jump Shot (10 PTS) (Siakam 9 AST),100 - 100,TIE,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200021,638,1,79,4,9:51 PM,1:27,Irving 21' Pullup Jump Shot (30 PTS),,,100 - 102,2,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,639,1,6,4,9:51 PM,1:13,,,Trent Jr. 2' Driving Layup (14 PTS) (Siakam 10 AST),102 - 102,TIE,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200021,641,1,79,4,9:52 PM,0:56,Durant 25' 3PT Pullup Jump Shot (26 PTS) (O'Neale 3 AST),,,102 - 105,3,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200021,643,1,79,4,9:52 PM,0:38,,,VanVleet 12' Pullup Jump Shot (18 PTS) (Siakam 11 AST),104 - 105,1,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200021,645,1,1,4,9:52 PM,0:15,O'Neale 25' 3PT Jump Shot (7 PTS) (Irving 7 AST),,,104 - 108,4,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200021,647,9,1,4,9:53 PM,0:14,,,Raptors Timeout: Regular (Reg.5 Short 0),,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200021,648,6,2,4,9:54 PM,0:09,Durant S.FOUL (P2.T2) (J.Capers),,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200021,650,3,11,4,9:55 PM,0:09,,,Siakam Free Throw 1 of 2 (37 PTS),105 - 108,3,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,653,3,12,4,9:55 PM,0:09,,,MISS Siakam Free Throw 2 of 2,,,5,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,651,8,0,4,9:55 PM,0:09,SUB: Sharpe FOR Irving,,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200021,654,4,0,4,9:55 PM,0:06,Durant REBOUND (Off:1 Def:4),,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,655,6,1,4,9:56 PM,0:06,,,VanVleet P.FOUL (P2.T4) (S.Corbin),,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200021,657,8,0,4,9:56 PM,0:06,SUB: Irving FOR Claxton,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200021,658,8,0,4,9:56 PM,0:06,SUB: Mills FOR Sharpe,,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200021,661,6,1,4,9:56 PM,0:04,,,VanVleet P.FOUL (P3.PN) (J.Capers),,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200021,663,3,11,4,9:57 PM,0:04,Durant Free Throw 1 of 2 (27 PTS),,,105 - 109,4,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,666,3,12,4,9:57 PM,0:04,MISS Durant Free Throw 2 of 2,,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200021,664,8,0,4,9:57 PM,0:04,SUB: Claxton FOR Mills,,,,,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200021,667,4,0,4,9:57 PM,0:02,,,Barnes REBOUND (Off:2 Def:5),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200021,668,13,0,4,9:57 PM,0:00,,End of 4th Period (9:57 PM EST),,105 - 109,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

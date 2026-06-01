@@ -1,0 +1,509 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200382,2,12,0,1,7:46 PM,12:00,,Start of 1st Period (7:46 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200382,4,10,0,1,7:46 PM,12:00,Jump Ball Embiid vs. Davis: Tip to Harden,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1
+0022200382,7,1,1,1,7:47 PM,11:45,Embiid 16' Jump Shot (2 PTS) (Harden 1 AST),,,0 - 2,2,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,9,5,11,1,7:47 PM,11:19,,,Lakers Turnover: Shot Clock (T#1),,,3,1610612747,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200382,10,1,6,1,7:47 PM,10:56,Embiid 1' Driving Layup (4 PTS),,,0 - 4,4,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,11,1,79,1,7:48 PM,10:37,,,Walker IV 18' Pullup Jump Shot (2 PTS),2 - 4,2,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,12,6,26,1,7:48 PM,10:16,Embiid Offensive Charge Foul (P1) (M.Boland),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200382,14,5,37,1,7:48 PM,10:16,Embiid Offensive Foul Turnover (P1.T1),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200382,15,2,79,1,7:49 PM,10:07,,,MISS James 18' Pullup Jump Shot,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,17,1,97,1,7:49 PM,10:00,,,Davis Tip Layup Shot (2 PTS),4 - 4,TIE,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,16,4,0,1,7:49 PM,10:00,,,Davis REBOUND (Off:1 Def:0),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,18,6,1,1,7:49 PM,9:46,,,Beverley P.FOUL (P1.T1) (M.Boland),,,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200382,22,2,101,1,7:50 PM,9:41,MISS Harden 7' Driving Floating Jump Shot,,Beverley BLOCK (1 BLK),,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,1
+0022200382,24,4,0,1,7:50 PM,9:41,Harden REBOUND (Off:1 Def:0),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,25,2,78,1,7:50 PM,9:37,MISS Harden 9' Floating Jump Shot,,Davis BLOCK (1 BLK),,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1
+0022200382,27,4,0,1,7:50 PM,9:37,Embiid REBOUND (Off:1 Def:0),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,28,6,2,1,7:50 PM,9:36,,,Davis S.FOUL (P1.T2) (M.Boland),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200382,30,3,11,1,7:50 PM,9:36,Embiid Free Throw 1 of 2 (5 PTS),,,4 - 5,1,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,31,3,12,1,7:50 PM,9:36,Embiid Free Throw 2 of 2 (6 PTS),,,4 - 6,2,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,32,2,1,1,7:50 PM,9:22,,,MISS Schroder 26' 3PT Jump Shot,,,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,33,4,0,1,7:50 PM,9:19,Harris REBOUND (Off:0 Def:1),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,34,5,2,1,7:51 PM,9:12,Harris Lost Ball Turnover (P1.T2),,James STEAL (1 STL),,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,36,1,76,1,7:51 PM,9:09,,,Beverley 1' Running Finger Roll Layup (2 PTS) (James 1 AST),6 - 6,TIE,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,51,2,80,1,7:51 PM,8:52,MISS Harris 26' 3PT Step Back Jump Shot,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,52,4,0,1,7:51 PM,8:50,,,Davis REBOUND (Off:1 Def:1),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,66,5,2,1,7:51 PM,8:50,Tucker STEAL (1 STL),,Davis Lost Ball Turnover (P1.T2),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,96,2,79,1,7:51 PM,8:38,MISS Embiid 25' 3PT Pullup Jump Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,97,4,0,1,7:51 PM,8:36,,,Beverley REBOUND (Off:0 Def:1),,,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,41,5,2,1,7:51 PM,8:30,Melton STEAL (1 STL),,Davis Lost Ball Turnover (P2.T3),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,43,6,1,1,7:52 PM,8:23,,,Davis P.FOUL (P2.T3) (M.Boland),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200382,45,1,6,1,7:52 PM,8:08,Harden 1' Driving Layup (2 PTS),,,6 - 8,2,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,46,1,1,1,7:52 PM,7:50,,,Walker IV 27' 3PT Jump Shot (5 PTS) (Schroder 1 AST),9 - 8,-1,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,48,2,80,1,7:53 PM,7:37,MISS Melton 24' 3PT Step Back Jump Shot,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,49,4,0,1,7:53 PM,7:34,,,Walker IV REBOUND (Off:0 Def:1),,,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,50,5,40,1,7:53 PM,7:31,,,Walker IV Out of Bounds Lost Ball Turnover (P1.T4),,,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0022200382,54,5,2,1,7:53 PM,7:15,Tucker Lost Ball Turnover (P1.T3),,Beverley STEAL (1 STL),,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,56,2,41,1,7:53 PM,7:08,,,MISS James 7' Running Layup,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,57,4,0,1,7:53 PM,7:08,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200382,59,2,1,1,7:54 PM,7:04,,,MISS Walker IV 18' Jump Shot,,,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,60,4,0,1,7:54 PM,7:04,Harris REBOUND (Off:0 Def:2),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,61,2,1,1,7:54 PM,6:51,MISS Tucker 3PT Jump Shot,,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,62,4,0,1,7:54 PM,6:48,,,Beverley REBOUND (Off:0 Def:2),,,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,63,6,1,1,7:54 PM,6:38,Harris P.FOUL (P1.T1) (M.Boland),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200382,65,9,1,1,7:54 PM,6:38,76ERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200382,68,2,86,1,7:58 PM,6:27,,,MISS Davis 16' Turnaround Fadeaway Shot,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,69,4,0,1,7:58 PM,6:24,Tucker REBOUND (Off:0 Def:1),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,70,2,6,1,7:58 PM,6:08,MISS Harris 1' Driving Layup,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,71,4,0,1,7:58 PM,6:05,,,Schroder REBOUND (Off:0 Def:1),,,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,72,2,1,1,7:59 PM,5:48,,,MISS James 30' 3PT Jump Shot,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,73,4,0,1,7:59 PM,5:45,Embiid REBOUND (Off:1 Def:1),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,74,6,26,1,7:59 PM,5:39,Harden Offensive Charge Foul (P1) (S.Corbin),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200382,76,5,37,1,7:59 PM,5:39,Harden Offensive Foul Turnover (P1.T4),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200382,77,8,0,1,7:59 PM,5:39,SUB: Milton FOR Melton,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200382,78,8,0,1,7:59 PM,5:39,,,SUB: Westbrook FOR Beverley,,,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200382,79,8,0,1,7:59 PM,5:39,,,SUB: Reaves FOR Schroder,,,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200382,83,1,1,1,8:00 PM,5:27,,,Reaves 28' 3PT Jump Shot (3 PTS) (Westbrook 1 AST),12 - 8,-4,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,85,1,1,1,8:00 PM,5:07,Embiid 25' 3PT Jump Shot (9 PTS) (Harris 1 AST),,,12 - 11,-1,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,87,5,1,1,8:00 PM,4:55,Harden STEAL (1 STL),,Westbrook Bad Pass Turnover (P1.T5),,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,89,6,1,1,8:00 PM,4:51,,,Davis P.FOUL (P3.T4) (J.Williams),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200382,91,8,0,1,8:00 PM,4:51,,,SUB: Brown Jr. FOR Davis,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200382,92,8,0,1,8:00 PM,4:51,,,SUB: Bryant FOR James,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200382,95,1,63,1,8:01 PM,4:41,Embiid 10' Fadeaway Jumper (11 PTS) (Harden 2 AST),,,12 - 13,1,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,99,2,79,1,8:01 PM,4:29,,,MISS Westbrook 16' Pullup Jump Shot,,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,100,4,0,1,8:01 PM,4:26,Embiid REBOUND (Off:1 Def:2),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,101,1,6,1,8:01 PM,4:11,Embiid 1' Driving Layup (13 PTS) (Milton 1 AST),,,12 - 15,3,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,103,2,79,1,8:01 PM,3:55,,,MISS Walker IV 17' Pullup Jump Shot,,,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,104,4,0,1,8:02 PM,3:53,Milton REBOUND (Off:0 Def:1),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,105,2,101,1,8:02 PM,3:44,MISS Harden 3' Driving Floating Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,106,4,0,1,8:02 PM,3:43,Tucker REBOUND (Off:1 Def:1),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,107,2,1,1,8:02 PM,3:41,MISS Harris 24' 3PT Jump Shot,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,108,4,0,1,8:02 PM,3:38,,,Westbrook REBOUND (Off:0 Def:1),,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,109,5,2,1,8:02 PM,3:25,Harden STEAL (2 STL),,Walker IV Lost Ball Turnover (P2.T6),,,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,111,2,6,1,8:02 PM,3:16,MISS Milton 2' Driving Layup,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,112,4,0,1,8:02 PM,3:16,Harris REBOUND (Off:1 Def:2),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,113,1,97,1,8:02 PM,3:16,Harris Tip Layup Shot (2 PTS),,,12 - 17,5,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,114,9,1,1,8:02 PM,3:16,,,Lakers Timeout: Regular (Reg.1 Short 0),,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200382,115,8,0,1,8:05 PM,3:16,SUB: Korkmaz FOR Tucker,,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200382,116,8,0,1,8:05 PM,3:16,,,SUB: James FOR Walker IV,,,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200382,119,6,1,1,8:06 PM,3:08,Milton P.FOUL (P1.T2) (M.Boland),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0022200382,122,2,79,1,8:06 PM,2:56,,,MISS James 27' 3PT Pullup Jump Shot,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,123,4,0,1,8:06 PM,2:54,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200382,124,6,3,1,8:06 PM,2:54,,,Bryant L.B.FOUL (P1.PN) (S.Corbin),,,5,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200382,126,3,11,1,8:07 PM,2:54,Harris Free Throw 1 of 2 (3 PTS),,,12 - 18,6,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,127,3,12,1,8:07 PM,2:54,Harris Free Throw 2 of 2 (4 PTS),,,12 - 19,7,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0022200382,128,2,63,1,8:08 PM,2:34,,,MISS James 7' Fadeaway Jumper,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,129,4,0,1,8:08 PM,2:32,Milton REBOUND (Off:0 Def:2),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,130,1,41,1,8:08 PM,2:26,Embiid 2' Running Layup (15 PTS) (Harris 2 AST),,,12 - 21,9,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,132,6,1,1,8:08 PM,2:23,Milton P.FOUL (P2.T3) (S.Corbin),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200382,134,8,0,1,8:08 PM,2:23,SUB: Melton FOR Harden,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200382,136,7,1,1,8:08 PM,2:23,76ERS Violation: Delay of game Violation,,,,,2,1610612755,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200382,137,2,79,1,8:08 PM,2:19,,,MISS Westbrook 27' 3PT Pullup Jump Shot,,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,138,4,0,1,8:08 PM,2:15,,,Bryant REBOUND (Off:1 Def:0),,,5,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,139,2,1,1,8:08 PM,2:14,,,MISS James 28' 3PT Jump Shot,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,140,4,0,1,8:08 PM,2:11,Korkmaz REBOUND (Off:0 Def:1),,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,141,1,1,1,8:09 PM,1:50,Harris 3PT Jump Shot (7 PTS) (Melton 1 AST),,,12 - 24,12,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,143,2,101,1,8:09 PM,1:35,,,MISS Brown Jr. 3' Driving Floating Jump Shot,,,5,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,144,4,0,1,8:09 PM,1:31,Harris REBOUND (Off:1 Def:3),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,145,5,6,1,8:09 PM,1:29,Milton Double Dribble Turnover (P1.T5),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200382,146,1,1,1,8:09 PM,1:17,,,James 13' Jump Shot (2 PTS) (Westbrook 2 AST),14 - 24,10,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,148,1,1,1,8:10 PM,1:05,Milton 6' Jump Shot (2 PTS),,,14 - 26,12,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,149,2,98,1,8:10 PM,0:50,,,MISS James 5' Cutting Layup Shot,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,150,4,0,1,8:10 PM,0:47,,,Reaves REBOUND (Off:1 Def:0),,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,151,1,1,1,8:10 PM,0:44,,,James 24' 3PT Jump Shot (5 PTS) (Reaves 1 AST),17 - 26,9,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,153,1,9,1,8:10 PM,0:27,Embiid 1' Driving Dunk (17 PTS),,,17 - 28,11,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,154,1,1,1,8:11 PM,0:08,,,Bryant 24' 3PT Jump Shot (3 PTS) (Reaves 2 AST),20 - 28,8,5,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,156,1,79,1,8:11 PM,0:00,Embiid 3PT Pullup Jump Shot (20 PTS) (Milton 2 AST),,,20 - 31,11,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,158,13,0,1,8:11 PM,0:00,,End of 1st Period (8:11 PM EST),,20 - 31,11,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200382,165,12,0,2,8:15 PM,12:00,,Start of 2nd Period (8:15 PM EST),,20 - 31,11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200382,166,2,80,2,8:15 PM,11:42,,,MISS Westbrook 24' 3PT Step Back Jump Shot,,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,167,4,0,2,8:15 PM,11:38,Korkmaz REBOUND (Off:0 Def:2),,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,168,2,1,2,8:15 PM,11:33,MISS Melton 3PT Jump Shot,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,169,4,0,2,8:15 PM,11:31,,,James REBOUND (Off:0 Def:1),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,170,2,41,2,8:15 PM,11:26,,,MISS Reaves 4' Running Layup,,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,171,4,0,2,8:15 PM,11:24,Korkmaz REBOUND (Off:0 Def:3),,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,172,1,71,2,8:16 PM,11:16,Korkmaz 1' Finger Roll Layup (2 PTS),,,20 - 33,13,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,173,5,39,2,8:16 PM,11:10,,,Beverley Step Out of Bounds Turnover (P1.T7),,,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0022200382,174,2,1,2,8:16 PM,10:57,MISS Korkmaz 27' 3PT Jump Shot,,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,175,4,0,2,8:16 PM,10:54,,,James REBOUND (Off:0 Def:2),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,176,6,2,2,8:16 PM,10:50,Reed S.FOUL (P1.T1) (S.Corbin),,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200382,178,3,11,2,8:17 PM,10:50,,,Westbrook Free Throw 1 of 2 (1 PTS),21 - 33,12,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,181,3,12,2,8:17 PM,10:50,,,MISS Westbrook Free Throw 2 of 2,,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,179,8,0,2,8:17 PM,10:50,,,SUB: Davis FOR Bryant,,,5,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200382,182,4,0,2,8:17 PM,10:48,Harden REBOUND (Off:1 Def:1),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,183,2,101,2,8:17 PM,10:26,MISS Korkmaz 7' Driving Floating Jump Shot,,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,184,4,0,2,8:17 PM,10:23,,,Davis REBOUND (Off:1 Def:2),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,185,1,41,2,8:18 PM,10:18,,,Westbrook 3' Running Layup (3 PTS),23 - 33,10,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,186,9,1,2,8:18 PM,10:18,76ERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200382,187,8,0,2,8:21 PM,10:18,SUB: Tucker FOR Milton,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200382,189,2,98,2,8:21 PM,10:04,MISS Reed 2' Cutting Layup Shot,,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,190,4,0,2,8:21 PM,10:01,,,Davis REBOUND (Off:1 Def:3),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,191,6,2,2,8:21 PM,9:54,Reed S.FOUL (P2.T2) (M.Boland),,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200382,193,3,11,2,8:22 PM,9:54,,,Davis Free Throw 1 of 2 (3 PTS),24 - 33,9,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,194,3,12,2,8:22 PM,9:54,,,Davis Free Throw 2 of 2 (4 PTS),25 - 33,8,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,195,2,101,2,8:23 PM,9:34,MISS Korkmaz 4' Driving Floating Jump Shot,,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,196,4,0,2,8:23 PM,9:32,,,Davis REBOUND (Off:1 Def:4),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,197,1,80,2,8:23 PM,9:26,,,Reaves 24' 3PT Step Back Jump Shot (6 PTS) (Westbrook 3 AST),28 - 33,5,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,199,7,5,2,8:23 PM,9:14,,,Reaves Violation:Kicked Ball (S.Corbin),,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,0
+0022200382,200,8,0,2,8:23 PM,9:14,SUB: Harris FOR Korkmaz,,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200382,202,2,1,2,8:23 PM,9:00,MISS Tucker 24' 3PT Jump Shot,,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,203,4,0,2,8:23 PM,8:57,,,Westbrook REBOUND (Off:0 Def:2),,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,204,1,1,2,8:24 PM,8:37,,,Westbrook 28' 3PT Jump Shot (6 PTS) (Beverley 1 AST),31 - 33,2,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,206,5,1,2,8:24 PM,8:24,Harden Bad Pass Turnover (P2.T6),,Reaves STEAL (1 STL),,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,208,1,41,2,8:24 PM,8:23,,,Reaves 1' Running Layup (8 PTS),33 - 33,TIE,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,210,6,2,2,8:24 PM,8:23,Reed S.FOUL (P3.T3) (S.Corbin),,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200382,212,9,1,2,8:25 PM,8:23,76ERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200382,213,8,0,2,8:28 PM,8:23,SUB: Embiid FOR Reed,,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200382,215,8,0,2,8:28 PM,8:23,SUB: Milton FOR Melton,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200382,217,3,10,2,8:28 PM,8:23,,,Reaves Free Throw 1 of 1 (9 PTS),34 - 33,-1,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,218,1,80,2,8:28 PM,7:58,Embiid 29' 3PT Step Back Jump Shot (23 PTS) (Harden 3 AST),,,34 - 36,2,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,220,1,86,2,8:29 PM,7:33,,,James 15' Turnaround Fadeaway (7 PTS),36 - 36,TIE,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,221,6,26,2,8:29 PM,7:17,Embiid Offensive Charge Foul (P2) (M.Boland),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200382,223,5,37,2,8:29 PM,7:17,Embiid Offensive Foul Turnover (P2.T7),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200382,224,1,98,2,8:29 PM,7:08,,,James Cutting Layup Shot (9 PTS) (Westbrook 4 AST),38 - 36,-2,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,226,2,101,2,8:30 PM,6:43,MISS Milton 10' Driving Floating Jump Shot,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,227,4,0,2,8:30 PM,6:40,Embiid REBOUND (Off:2 Def:2),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,228,1,58,2,8:30 PM,6:38,Embiid 4' Turnaround Hook Shot (25 PTS),,,38 - 38,TIE,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,229,1,6,2,8:30 PM,6:21,,,Reaves 1' Driving Layup (11 PTS),40 - 38,-2,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,230,2,79,2,8:30 PM,6:11,MISS Harden 24' 3PT Pullup Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,231,4,0,2,8:30 PM,6:09,,,Westbrook REBOUND (Off:0 Def:3),,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,232,6,2,2,8:30 PM,6:07,Milton S.FOUL (P3.T4) (J.Williams),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200382,234,3,11,2,8:31 PM,6:07,,,Westbrook Free Throw 1 of 2 (7 PTS),41 - 38,-3,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,235,8,0,2,8:31 PM,6:07,,,SUB: Walker IV FOR James,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200382,237,3,12,2,8:31 PM,6:07,,,Westbrook Free Throw 2 of 2 (8 PTS),42 - 38,-4,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,238,2,1,2,8:31 PM,5:59,MISS Harris 27' 3PT Jump Shot,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,239,4,0,2,8:31 PM,5:57,Embiid REBOUND (Off:3 Def:2),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,240,2,1,2,8:32 PM,5:53,MISS Milton 27' 3PT Jump Shot,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,241,4,0,2,8:32 PM,5:49,Tucker REBOUND (Off:2 Def:1),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,242,5,1,2,8:32 PM,5:45,Embiid Bad Pass Turnover (P3.T8),,Reaves STEAL (2 STL),,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,244,1,98,2,8:32 PM,5:41,,,Reaves 2' Cutting Layup Shot (13 PTS) (Beverley 2 AST),44 - 38,-6,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,246,1,98,2,8:32 PM,5:26,Harris Cutting Layup Shot (9 PTS) (Milton 3 AST),,,44 - 40,-4,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,248,1,43,2,8:32 PM,5:09,,,Davis Alley Oop Layup (6 PTS) (Westbrook 5 AST),46 - 40,-6,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,250,6,1,2,8:32 PM,5:03,,,Reaves P.FOUL (P1.T1) (S.Corbin),,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200382,252,8,0,2,8:33 PM,5:03,SUB: Melton FOR Milton,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200382,255,8,0,2,8:33 PM,4:50,,,SUB: James FOR Davis,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200382,257,8,0,2,8:33 PM,4:50,,,SUB: Schroder FOR Westbrook,,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200382,259,1,1,2,8:34 PM,4:44,Harden 28' 3PT Jump Shot (5 PTS) (Melton 2 AST),,,46 - 43,-3,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,261,1,79,2,8:34 PM,4:19,,,Reaves 16' Pullup Jump Shot (15 PTS) (James 2 AST),48 - 43,-5,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,263,1,1,2,8:34 PM,3:59,Melton 24' 3PT Jump Shot (3 PTS) (Harden 4 AST),,,48 - 46,-2,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,265,1,79,2,8:35 PM,3:32,,,Schroder 15' Pullup Jump Shot (2 PTS) (Reaves 3 AST),50 - 46,-4,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,266,1,1,2,8:35 PM,3:18,Harris 24' 3PT Jump Shot (12 PTS) (Tucker 1 AST),,,50 - 49,-1,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,268,1,1,2,8:35 PM,2:57,,,Beverley 24' 3PT Jump Shot (5 PTS) (James 3 AST),53 - 49,-4,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,270,1,1,2,8:36 PM,2:46,Melton 27' 3PT Jump Shot (6 PTS) (Harden 5 AST),,,53 - 52,-1,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,272,1,1,2,8:36 PM,2:26,,,Walker IV 26' 3PT Jump Shot (8 PTS) (Reaves 4 AST),56 - 52,-4,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,274,6,1,2,8:36 PM,2:03,,,James P.FOUL (P1.T2) (J.Williams),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200382,276,8,0,2,8:37 PM,2:03,SUB: Thybulle FOR Tucker,,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200382,277,8,0,2,8:37 PM,2:03,,,SUB: Westbrook FOR Beverley,,,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200382,280,1,9,2,8:37 PM,1:52,Thybulle 1' Driving Dunk (2 PTS) (Harden 6 AST),,,56 - 54,-2,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,282,2,1,2,8:38 PM,1:37,,,MISS Walker IV 26' 3PT Jump Shot,,,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,283,4,0,2,8:38 PM,1:34,,,Westbrook REBOUND (Off:1 Def:3),,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,284,1,108,2,8:38 PM,1:32,,,James 1' Cutting Dunk Shot (11 PTS) (Westbrook 6 AST),58 - 54,-4,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,286,1,52,2,8:38 PM,1:20,Thybulle 1' Alley Oop Dunk (4 PTS) (Harden 7 AST),,,58 - 56,-2,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,288,2,1,2,8:38 PM,1:02,,,MISS Schroder 26' 3PT Jump Shot,,,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,289,4,0,2,8:38 PM,1:00,Harris REBOUND (Off:1 Def:4),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,290,1,80,2,8:38 PM,0:55,Harden 26' 3PT Step Back Jump Shot (8 PTS),,,58 - 59,1,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,293,8,0,2,8:38 PM,0:55,,,SUB: Davis FOR Reaves,,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200382,291,6,2,2,8:38 PM,0:55,,,Schroder S.FOUL (P1.T3) (S.Corbin),,,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200382,295,3,10,2,8:39 PM,0:55,MISS Harden Free Throw 1 of 1,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,296,4,0,2,8:39 PM,0:55,,,Westbrook REBOUND (Off:1 Def:4),,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,298,5,1,2,8:40 PM,0:36,Melton STEAL (2 STL),,Westbrook Bad Pass Turnover (P2.T8),,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,300,1,7,2,8:40 PM,0:28,Thybulle 1' Dunk (6 PTS) (Embiid 1 AST),,,58 - 61,3,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,302,6,1,2,8:40 PM,0:06,Melton P.FOUL (P1.PN) (M.Boland),,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200382,304,7,1,2,8:41 PM,0:06,,,Lakers Violation: Delay of game Violation,,,3,1610612747,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200382,305,3,11,2,8:41 PM,0:06,,,MISS James Free Throw 1 of 2,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,306,4,1,2,8:41 PM,0:06,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200382,307,8,0,2,8:41 PM,0:06,,,SUB: Beverley FOR Davis,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200382,309,3,12,2,8:41 PM,0:06,,,James Free Throw 2 of 2 (12 PTS),59 - 61,2,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,310,2,79,2,8:41 PM,0:00,MISS Harden 28' 3PT Pullup Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,311,4,0,2,8:41 PM,0:00,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200382,312,13,0,2,8:42 PM,0:00,,End of 2nd Period (8:42 PM EST),,59 - 61,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200382,318,12,0,3,8:57 PM,12:00,,Start of 3rd Period (8:57 PM EST),,59 - 61,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200382,319,2,1,3,8:57 PM,11:42,,,MISS James 28' 3PT Jump Shot,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,320,4,0,3,8:57 PM,11:39,Harris REBOUND (Off:1 Def:5),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,321,2,1,3,8:58 PM,11:19,MISS Embiid 22' Jump Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,322,4,0,3,8:58 PM,11:17,,,Davis REBOUND (Off:1 Def:5),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,325,6,1,3,8:58 PM,11:06,Tucker P.FOUL (P1.T1) (M.Boland),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200382,327,1,102,3,8:58 PM,10:55,,,Walker IV 4' Driving Floating Bank Jump Shot (10 PTS) (Schroder 2 AST),61 - 61,TIE,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,329,1,101,3,8:58 PM,10:42,Harden 8' Driving Floating Jump Shot (10 PTS) (Embiid 2 AST),,,61 - 63,2,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,331,1,6,3,8:59 PM,10:33,,,Schroder 3' Driving Layup (4 PTS),63 - 63,TIE,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,332,1,1,3,8:59 PM,10:15,Tucker 24' 3PT Jump Shot (3 PTS) (Harris 3 AST),,,63 - 66,3,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,334,1,102,3,8:59 PM,9:52,,,Davis 6' Driving Floating Bank Jump Shot (8 PTS),65 - 66,1,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,335,1,1,3,9:00 PM,9:36,Melton 26' 3PT Jump Shot (9 PTS) (Harden 8 AST),,,65 - 69,4,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,337,1,108,3,9:00 PM,9:23,,,James 1' Cutting Dunk Shot (14 PTS) (Schroder 3 AST),67 - 69,2,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,339,6,2,3,9:00 PM,9:23,Tucker S.FOUL (P2.T2) (J.Williams),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200382,341,3,10,3,9:00 PM,9:23,,,MISS James Free Throw 1 of 1,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,342,4,0,3,9:00 PM,9:21,Harden REBOUND (Off:1 Def:2),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,343,6,2,3,9:01 PM,9:13,,,Davis S.FOUL (P4.T1) (S.Corbin),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200382,345,3,11,3,9:01 PM,9:13,Embiid Free Throw 1 of 2 (26 PTS),,,67 - 70,3,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,346,8,0,3,9:01 PM,9:13,,,SUB: Westbrook FOR Davis,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200382,348,3,12,3,9:02 PM,9:13,Embiid Free Throw 2 of 2 (27 PTS),,,67 - 71,4,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,349,2,1,3,9:02 PM,9:03,,,MISS James 28' 3PT Jump Shot,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,350,4,0,3,9:02 PM,9:00,Embiid REBOUND (Off:3 Def:3),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,353,5,45,3,9:03 PM,8:43,Embiid Out of Bounds - Bad Pass Turnover Turnover (P4.T9),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200382,354,2,75,3,9:03 PM,8:35,,,MISS Schroder 2' Driving Finger Roll Layup,,,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,355,4,0,3,9:03 PM,8:33,Embiid REBOUND (Off:3 Def:4),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,356,1,41,3,9:03 PM,8:28,Melton 2' Running Layup (11 PTS),,,67 - 73,6,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,357,1,1,3,9:03 PM,8:09,,,Walker IV 27' 3PT Jump Shot (13 PTS),70 - 73,3,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,358,1,1,3,9:03 PM,7:46,Melton 26' 3PT Jump Shot (14 PTS) (Embiid 3 AST),,,70 - 76,6,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,360,2,79,3,9:04 PM,7:33,,,MISS Westbrook 14' Pullup Jump Shot,,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,361,4,0,3,9:04 PM,7:30,Tucker REBOUND (Off:2 Def:2),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,362,6,1,3,9:04 PM,7:24,,,Beverley P.FOUL (P2.T2) (M.Boland),,,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200382,364,1,1,3,9:04 PM,7:15,Melton 26' 3PT Jump Shot (17 PTS) (Tucker 2 AST),,,70 - 79,9,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,366,9,1,3,9:05 PM,7:06,,,Lakers Timeout: Regular (Reg.2 Short 0),,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200382,370,8,0,3,9:08 PM,7:06,,,SUB: Reaves FOR Beverley,,,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200382,369,5,1,3,9:08 PM,6:54,Melton STEAL (3 STL),,Walker IV Bad Pass Turnover (P3.T9),,,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,372,2,1,3,9:08 PM,6:48,MISS Harden 26' 3PT Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,373,4,0,3,9:08 PM,6:45,,,Westbrook REBOUND (Off:1 Def:5),,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,374,1,2,3,9:08 PM,6:40,,,Reaves 25' 3PT Running Jump Shot (18 PTS) (Schroder 4 AST),73 - 79,6,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,376,2,1,3,9:09 PM,6:14,MISS Harris 3PT Jump Shot,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,377,4,0,3,9:09 PM,6:12,,,James REBOUND (Off:0 Def:3),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,378,1,50,3,9:09 PM,6:08,,,Walker IV 1' Running Dunk (15 PTS) (James 4 AST),75 - 79,4,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,380,2,78,3,9:09 PM,5:48,MISS Tucker 7' Floating Jump Shot,,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,381,4,0,3,9:09 PM,5:47,,,Westbrook REBOUND (Off:1 Def:6),,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,382,1,41,3,9:09 PM,5:42,,,James 1' Running Layup (16 PTS) (Westbrook 7 AST),77 - 79,2,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,384,6,1,3,9:10 PM,5:25,,,Westbrook P.FOUL (P1.T3) (M.Boland),,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200382,386,8,0,3,9:10 PM,5:25,SUB: Thybulle FOR Tucker,,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200382,387,8,0,3,9:10 PM,5:25,,,SUB: Beverley FOR Schroder,,,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200382,390,1,1,3,9:10 PM,5:13,Melton 24' 3PT Jump Shot (20 PTS) (Harden 9 AST),,,77 - 82,5,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,392,6,1,3,9:11 PM,4:46,Harden P.FOUL (P2.T3) (S.Corbin),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200382,394,8,0,3,9:11 PM,4:46,SUB: Milton FOR Harris,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200382,396,1,43,3,9:11 PM,4:40,,,James 1' Alley Oop Layup (18 PTS) (Westbrook 8 AST),79 - 82,3,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,398,2,1,3,9:12 PM,4:18,MISS Thybulle 26' 3PT Jump Shot,,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,399,4,0,3,9:12 PM,4:17,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200382,400,6,3,3,9:12 PM,4:17,,,James L.B.FOUL (P2.T4) (S.Corbin),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200382,402,8,0,3,9:12 PM,4:17,,,SUB: Davis FOR Walker IV,,,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200382,404,1,47,3,9:13 PM,4:07,Embiid 15' Turnaround Jump Shot (29 PTS) (Harden 10 AST),,,79 - 84,5,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,406,5,1,3,9:13 PM,3:49,Melton STEAL (4 STL),,Reaves Bad Pass Turnover (P1.T10),,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,408,6,2,3,9:13 PM,3:45,,,Beverley S.FOUL (P3.PN) (M.Boland),,,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200382,410,3,11,3,9:13 PM,3:45,Harden Free Throw 1 of 2 (11 PTS),,,79 - 85,6,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,411,8,0,3,9:13 PM,3:45,SUB: Harris FOR Milton,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200382,412,8,0,3,9:13 PM,3:45,,,SUB: Schroder FOR James,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200382,415,3,12,3,9:14 PM,3:45,Harden Free Throw 2 of 2 (12 PTS),,,79 - 86,7,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0022200382,417,8,0,3,9:14 PM,3:33,SUB: Milton FOR Harris,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200382,419,2,79,3,9:14 PM,3:25,,,MISS Reaves 17' Pullup Jump Shot,,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,420,4,0,3,9:14 PM,3:23,Milton REBOUND (Off:0 Def:3),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,421,6,1,3,9:15 PM,3:15,,,Westbrook P.FOUL (P2.PN) (S.Corbin),,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200382,423,3,11,3,9:15 PM,3:15,Embiid Free Throw 1 of 2 (30 PTS),,,79 - 87,8,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,424,8,0,3,9:15 PM,3:15,SUB: Korkmaz FOR Harden,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200382,426,3,12,3,9:16 PM,3:15,Embiid Free Throw 2 of 2 (31 PTS),,,79 - 88,9,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,427,5,2,3,9:16 PM,2:59,Melton STEAL (5 STL),,Schroder Lost Ball Turnover (P1.T11),,,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,429,1,41,3,9:16 PM,2:56,Melton 2' Running Layup (22 PTS) (Thybulle 1 AST),,,79 - 90,11,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,432,9,1,3,9:16 PM,2:48,76ERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200382,433,8,0,3,9:19 PM,2:48,,,SUB: Walker IV FOR Schroder,,,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200382,434,8,0,3,9:19 PM,2:48,,,SUB: Brown Jr. FOR Beverley,,,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,5,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200382,437,2,1,3,9:20 PM,2:39,,,MISS Davis 21' Jump Shot,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,438,4,0,3,9:20 PM,2:36,Milton REBOUND (Off:0 Def:4),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,439,5,45,3,9:20 PM,2:27,Thybulle Out of Bounds - Bad Pass Turnover Turnover (P1.T10),,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200382,440,2,1,3,9:20 PM,2:15,,,MISS Brown Jr. 27' 3PT Jump Shot,,,5,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,441,4,0,3,9:20 PM,2:13,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200382,443,2,101,3,9:21 PM,2:05,,,MISS Walker IV 3' Driving Floating Jump Shot,,,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,444,4,0,3,9:21 PM,2:03,Embiid REBOUND (Off:3 Def:5),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,445,1,1,3,9:21 PM,1:53,Thybulle 24' 3PT Jump Shot (9 PTS) (Korkmaz 1 AST),,,79 - 93,14,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,447,2,1,3,9:21 PM,1:34,,,MISS Reaves 29' 3PT Jump Shot,,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,448,4,0,3,9:21 PM,1:29,Melton REBOUND (Off:0 Def:1),,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,449,2,1,3,9:21 PM,1:25,MISS Milton 26' 3PT Jump Shot,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,450,4,0,3,9:21 PM,1:23,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200382,453,2,6,3,9:22 PM,1:13,MISS Korkmaz 3' Driving Layup,,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,454,4,0,3,9:22 PM,1:11,,,Reaves REBOUND (Off:1 Def:1),,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,455,1,108,3,9:22 PM,0:58,,,Davis 1' Cutting Dunk Shot (10 PTS) (Reaves 5 AST),81 - 93,12,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,457,2,6,3,9:23 PM,0:49,MISS Embiid 12' Driving Layup,,Walker IV BLOCK (1 BLK),,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,1
+0022200382,459,4,0,3,9:23 PM,0:47,,,Walker IV REBOUND (Off:0 Def:2),,,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,460,1,47,3,9:23 PM,0:31,,,Reaves 6' Turnaround Jump Shot (20 PTS),83 - 93,10,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,461,2,63,3,9:23 PM,0:09,MISS Embiid 14' Fadeaway Jumper,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,462,4,0,3,9:23 PM,0:09,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200382,463,6,3,3,9:23 PM,0:09,Thybulle L.B.FOUL (P1.T4) (J.Williams),,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200382,465,8,0,3,9:24 PM,0:09,,,SUB: James FOR Brown Jr.,,,5,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200382,467,8,0,3,9:24 PM,0:09,SUB: Tucker FOR Korkmaz,,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200382,469,5,1,3,9:24 PM,0:01,Thybulle STEAL (1 STL),,Westbrook Bad Pass Turnover (P3.T12),,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,471,2,2,3,9:24 PM,0:00,MISS Thybulle 44' 3PT Running Jump Shot,,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,472,4,0,3,9:24 PM,0:00,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200382,473,13,0,3,9:24 PM,0:00,,End of 3rd Period (9:24 PM EST),,83 - 93,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200382,484,12,0,4,9:28 PM,12:00,,Start of 4th Period (9:28 PM EST),,83 - 93,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200382,485,1,102,4,9:28 PM,11:42,Milton 2' Driving Floating Bank Jump Shot (4 PTS) (Harden 11 AST),,,83 - 95,12,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,487,6,2,4,9:28 PM,11:27,Harrell S.FOUL (P1.T1) (S.Corbin),,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200382,489,3,11,4,9:29 PM,11:27,,,MISS James Free Throw 1 of 2,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,490,4,1,4,9:29 PM,11:27,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200382,491,3,12,4,9:29 PM,11:27,,,James Free Throw 2 of 2 (19 PTS),84 - 95,11,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,492,1,80,4,9:29 PM,11:10,Harden 17' Step Back Jump Shot (14 PTS),,,84 - 97,13,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,493,6,1,4,9:30 PM,10:57,Thybulle P.FOUL (P2.T2) (M.Boland),,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200382,495,5,2,4,9:30 PM,10:44,Thybulle STEAL (2 STL),,Reaves Lost Ball Turnover (P2.T13),,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,497,1,103,4,9:30 PM,10:38,Milton 10' Running Pull-Up Jump Shot (6 PTS) (Harris 4 AST),,,84 - 99,15,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,499,6,1,4,9:30 PM,10:28,Harrell P.FOUL (P2.T3) (S.Corbin),,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200382,501,2,1,4,9:31 PM,10:17,,,MISS Brown Jr. 27' 3PT Jump Shot,,,5,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,502,4,0,4,9:31 PM,10:14,Harris REBOUND (Off:1 Def:6),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,503,1,103,4,9:31 PM,10:09,Harden 26' 3PT Running Pull-Up Jump Shot (17 PTS),,,84 - 102,18,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,504,9,1,4,9:31 PM,10:08,,,Lakers Timeout: Regular (Reg.3 Short 0),,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200382,505,8,0,4,9:34 PM,10:08,,,SUB: Davis FOR Brown Jr.,,,5,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200382,507,6,2,4,9:35 PM,9:58,Harris S.FOUL (P2.T4) (J.Williams),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0022200382,509,3,11,4,9:35 PM,9:58,,,Davis Free Throw 1 of 2 (11 PTS),85 - 102,17,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,510,3,12,4,9:36 PM,9:58,,,Davis Free Throw 2 of 2 (12 PTS),86 - 102,16,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,511,2,79,4,9:36 PM,9:45,MISS Harden 9' Pullup Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,512,4,0,4,9:36 PM,9:42,,,Davis REBOUND (Off:1 Def:6),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,513,2,1,4,9:36 PM,9:28,,,MISS Walker IV 25' 3PT Jump Shot,,,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,514,4,0,4,9:36 PM,9:25,Harrell REBOUND (Off:0 Def:1),,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,515,5,45,4,9:36 PM,9:21,Harden Out of Bounds - Bad Pass Turnover Turnover (P3.T11),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200382,516,8,0,4,9:36 PM,9:21,,,SUB: Beverley FOR Schroder,,,5,203471,Dennis Schröder,1610612747.0,Los Angeles,Lakers,LAL,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200382,518,2,98,4,9:37 PM,9:16,Harden BLOCK (1 BLK),,MISS Davis 4' Cutting Layup Shot,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1
+0022200382,520,4,0,4,9:37 PM,9:16,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200382,522,6,1,4,9:37 PM,9:04,Harris P.FOUL (P3.PN) (J.Williams),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200382,524,3,11,4,9:38 PM,9:04,,,Davis Free Throw 1 of 2 (13 PTS),87 - 102,15,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,525,3,12,4,9:38 PM,9:04,,,Davis Free Throw 2 of 2 (14 PTS),88 - 102,14,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,526,2,78,4,9:38 PM,8:45,MISS Thybulle 13' Floating Jump Shot,,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,528,4,0,4,9:39 PM,8:41,,,Walker IV REBOUND (Off:0 Def:3),,,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,529,6,2,4,9:39 PM,8:40,Milton S.FOUL (P4.PN) (M.Boland),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200382,531,3,11,4,9:39 PM,8:40,,,MISS James Free Throw 1 of 2,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,532,4,1,4,9:39 PM,8:40,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200382,537,3,12,4,9:39 PM,8:40,,,James Free Throw 2 of 2 (20 PTS),89 - 102,13,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,533,8,0,4,9:39 PM,8:40,SUB: Embiid FOR Harrell,,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200382,534,8,0,4,9:39 PM,8:40,SUB: Melton FOR Milton,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200382,538,2,73,4,9:40 PM,8:18,MISS Melton 2' Driving Reverse Layup,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,539,4,0,4,9:40 PM,8:16,,,Davis REBOUND (Off:1 Def:7),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,540,1,6,4,9:40 PM,8:07,,,Davis 3' Driving Layup (16 PTS),91 - 102,11,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,541,6,1,4,9:40 PM,7:59,,,Reaves P.FOUL (P2.T1) (S.Corbin),,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200382,543,1,57,4,9:41 PM,7:52,Harris 8' Driving Hook Shot (14 PTS) (Embiid 4 AST),,,91 - 104,13,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,545,5,2,4,9:41 PM,7:43,Thybulle STEAL (3 STL),,James Lost Ball Turnover (P1.T14),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,547,2,9,4,9:41 PM,7:32,MISS Harris 1' Driving Dunk,,Davis BLOCK (2 BLK),,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1
+0022200382,549,4,0,4,9:41 PM,7:32,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200382,551,2,1,4,9:41 PM,7:29,MISS Harden 26' 3PT Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,552,4,0,4,9:41 PM,7:27,,,Davis REBOUND (Off:1 Def:8),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,553,2,86,4,9:42 PM,7:21,,,MISS James 9' Turnaround Fadeaway Shot,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,554,4,0,4,9:42 PM,7:19,Harris REBOUND (Off:1 Def:7),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,555,5,2,4,9:42 PM,7:10,Harris Lost Ball Turnover (P2.T12),,Davis STEAL (1 STL),,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,557,6,1,4,9:42 PM,7:10,Harris P.FOUL (P4.PN) (S.Corbin),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200382,559,3,11,4,9:42 PM,7:10,,,Davis Free Throw 1 of 2 (17 PTS),92 - 104,12,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,560,8,0,4,9:42 PM,7:10,,,SUB: Westbrook FOR Walker IV,,,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200382,562,3,12,4,9:43 PM,7:10,,,Davis Free Throw 2 of 2 (18 PTS),93 - 104,11,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,563,2,63,4,9:43 PM,6:57,MISS Embiid 16' Fadeaway Jumper,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,564,4,0,4,9:43 PM,6:53,,,Westbrook REBOUND (Off:1 Def:7),,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,565,1,43,4,9:43 PM,6:43,,,Davis 6' Alley Oop Layup (20 PTS) (Westbrook 9 AST),95 - 104,9,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,567,1,79,4,9:43 PM,6:33,Embiid 19' Pullup Jump Shot (33 PTS),,,95 - 106,11,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,568,5,1,4,9:44 PM,6:24,Melton STEAL (6 STL),,James Bad Pass Turnover (P2.T15),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,570,2,80,4,9:44 PM,6:14,MISS Harden 27' 3PT Step Back Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,571,4,0,4,9:44 PM,6:10,,,Beverley REBOUND (Off:0 Def:3),,,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,572,5,4,4,9:44 PM,6:10,,,Beverley Traveling Turnover (P2.T16),,,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0022200382,573,8,0,4,9:44 PM,6:10,SUB: Tucker FOR Harris,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200382,574,8,0,4,9:44 PM,6:10,SUB: Milton FOR Thybulle,,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200382,577,6,26,4,9:45 PM,5:49,Embiid Offensive Charge Foul (P3) (S.Corbin),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200382,579,5,37,4,9:45 PM,5:49,Embiid Offensive Foul Turnover (P5.T13),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200382,580,5,45,4,9:46 PM,5:29,,,James Out of Bounds - Bad Pass Turnover Turnover (P3.T17),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0022200382,581,1,73,4,9:46 PM,5:19,Melton 2' Driving Reverse Layup (24 PTS),,,95 - 108,13,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,582,2,101,4,9:46 PM,5:07,,,MISS Reaves 15' Driving Floating Jump Shot,,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,583,4,0,4,9:46 PM,5:07,Melton REBOUND (Off:0 Def:2),,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,584,1,1,4,9:46 PM,4:53,Melton 26' 3PT Jump Shot (27 PTS) (Harden 12 AST),,,95 - 111,16,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,586,9,1,4,9:46 PM,4:46,,,Lakers Timeout: Regular (Reg.4 Short 0),,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200382,587,8,0,4,9:49 PM,4:46,,,SUB: Walker IV FOR James,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200382,589,5,1,4,9:50 PM,4:45,Melton STEAL (7 STL),,Reaves Bad Pass Turnover (P3.T18),,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,591,2,1,4,9:50 PM,4:40,MISS Melton 26' 3PT Jump Shot,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,592,4,0,4,9:50 PM,4:37,,,Westbrook REBOUND (Off:1 Def:8),,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,593,1,80,4,9:50 PM,4:27,,,Davis 18' Step Back Jump Shot (22 PTS) (Westbrook 10 AST),97 - 111,14,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,595,1,79,4,9:50 PM,4:05,Harden 16' Pullup Jump Shot (19 PTS),,,97 - 113,16,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,596,6,2,4,9:51 PM,3:50,Tucker S.FOUL (P3.PN) (M.Boland),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200382,598,3,11,4,9:51 PM,3:50,,,Davis Free Throw 1 of 2 (23 PTS),98 - 113,15,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,599,3,12,4,9:52 PM,3:50,,,Davis Free Throw 2 of 2 (24 PTS),99 - 113,14,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,600,2,75,4,9:52 PM,3:36,MISS Harden 2' Driving Finger Roll Layup,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,601,4,0,4,9:52 PM,3:34,,,Westbrook REBOUND (Off:1 Def:9),,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,602,2,76,4,9:52 PM,3:30,,,MISS Westbrook 1' Running Finger Roll Layup,,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,604,4,0,4,9:52 PM,3:30,,,Davis REBOUND (Off:2 Def:8),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,605,1,87,4,9:52 PM,3:27,,,Davis Putback Dunk (26 PTS),101 - 113,12,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,606,2,80,4,9:52 PM,3:00,MISS Milton 28' 3PT Step Back Jump Shot,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,607,4,0,4,9:52 PM,2:57,,,Davis REBOUND (Off:2 Def:9),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,608,1,103,4,9:53 PM,2:53,,,Davis 20' Running Pull-Up Jump Shot (28 PTS),103 - 113,10,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,609,1,9,4,9:53 PM,2:30,Embiid 1' Driving Dunk (35 PTS),,,103 - 115,12,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,610,1,75,4,9:53 PM,2:13,,,Westbrook 2' Driving Finger Roll Layup (10 PTS),105 - 115,10,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,611,6,4,4,9:54 PM,2:04,Milton OFF.Foul (P5) (J.Williams),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0022200382,613,5,37,4,9:54 PM,2:04,Milton Offensive Foul Turnover (P2.T14),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0022200382,614,8,0,4,9:54 PM,2:04,SUB: Harris FOR Tucker,,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200382,615,8,0,4,9:54 PM,2:04,,,SUB: James FOR Walker IV,,,5,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200382,618,2,1,4,9:54 PM,1:56,,,MISS James 3PT Jump Shot,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,619,4,0,4,9:54 PM,1:53,Embiid REBOUND (Off:3 Def:6),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,620,5,2,4,9:54 PM,1:53,Embiid Lost Ball Turnover (P6.T15),,Westbrook STEAL (1 STL),,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,623,9,7,4,9:54 PM,1:53,76ERS Timeout: Coach Challenge (Full 4 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200382,625,18,5,4,9:55 PM,1:53,,Instant Replay4th Period (9:55 PM EST),,105 - 115,10,0,622,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200382,626,5,45,4,9:56 PM,1:53,,,Westbrook Out of Bounds - Bad Pass Turnover Turnover (P4.T19),,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0022200382,627,5,2,4,9:56 PM,1:38,Harden Lost Ball Turnover (P4.T16),,Westbrook STEAL (2 STL),,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,629,1,50,4,9:57 PM,1:33,,,Westbrook 2' Running Dunk (12 PTS) (James 5 AST),107 - 115,8,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,631,5,1,4,9:57 PM,1:11,Harden Bad Pass Turnover (P5.T17),,James STEAL (2 STL),,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,633,1,76,4,9:57 PM,1:07,,,James 3' Running Finger Roll Layup (22 PTS),109 - 115,6,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,634,6,2,4,9:57 PM,1:07,Embiid S.FOUL (P4.PN) (J.Williams),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200382,636,3,10,4,9:58 PM,1:07,,,James Free Throw 1 of 1 (23 PTS),110 - 115,5,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,637,6,1,4,9:58 PM,0:59,,,Beverley P.FOUL (P4.T2) (S.Corbin),,,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200382,639,9,1,4,9:58 PM,0:59,76ERS Timeout: Regular (Full 5 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200382,640,1,1,4,10:00 PM,0:44,Melton 26' 3PT Jump Shot (30 PTS) (Embiid 5 AST),,,110 - 118,8,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,642,2,1,4,10:00 PM,0:37,,,MISS Reaves 3PT Jump Shot,,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,643,4,0,4,10:00 PM,0:34,Embiid REBOUND (Off:3 Def:7),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,644,6,1,4,10:00 PM,0:34,,,Westbrook P.FOUL (P3.PN) (S.Corbin),,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200382,646,3,11,4,10:01 PM,0:34,MISS Embiid Free Throw 1 of 2,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,647,4,1,4,10:01 PM,0:34,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200382,648,3,12,4,10:01 PM,0:34,Embiid Free Throw 2 of 2 (36 PTS),,,110 - 119,9,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,649,9,1,4,10:01 PM,0:34,,,Lakers Timeout: Regular (Reg.5 Short 0),,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200382,650,8,0,4,10:03 PM,0:34,SUB: Tucker FOR Milton,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200382,651,8,0,4,10:03 PM,0:34,SUB: Thybulle FOR Harris,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200382,654,1,75,4,10:03 PM,0:28,,,Beverley 3' Driving Finger Roll Layup (7 PTS) (Westbrook 11 AST),112 - 119,7,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,656,9,1,4,10:03 PM,0:28,76ERS Timeout: Regular (Full 6 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200382,657,8,0,4,10:04 PM,0:28,SUB: Harris FOR Tucker,,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200382,658,8,0,4,10:04 PM,0:28,SUB: Milton FOR Thybulle,,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200382,661,5,1,4,10:05 PM,0:27,Melton Bad Pass Turnover (P1.T18),,Westbrook STEAL (3 STL),,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,663,6,1,4,10:05 PM,0:27,Milton P.FOUL (P6.PN) (M.Boland),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200382,665,8,0,4,10:05 PM,0:27,SUB: Tucker FOR Milton,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200382,667,3,11,4,10:06 PM,0:27,,,Davis Free Throw 1 of 2 (29 PTS),113 - 119,6,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,668,3,12,4,10:06 PM,0:27,,,Davis Free Throw 2 of 2 (30 PTS),114 - 119,5,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,669,5,1,4,10:06 PM,0:17,Melton Bad Pass Turnover (P2.T19),,Beverley STEAL (2 STL),,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,671,1,2,4,10:07 PM,0:12,,,Reaves 28' 3PT Running Jump Shot (23 PTS) (Beverley 3 AST),117 - 119,2,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,673,6,28,4,10:07 PM,0:10,,,Westbrook Personal Take Foul (P4.PN) (J.Williams),,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200382,675,3,11,4,10:07 PM,0:10,MISS Melton Free Throw 1 of 2,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,676,4,1,4,10:07 PM,0:10,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200382,677,3,12,4,10:08 PM,0:10,Melton Free Throw 2 of 2 (31 PTS),,,117 - 120,3,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,678,9,1,4,10:08 PM,0:10,,,Lakers Timeout: Regular (Reg.6 Short 0),,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200382,679,8,0,4,10:09 PM,0:10,SUB: Thybulle FOR Harden,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200382,681,6,2,4,10:10 PM,0:09,Thybulle S.FOUL (P3.PN) (J.Williams),,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200382,683,3,13,4,10:10 PM,0:09,,,Reaves Free Throw 1 of 3 (24 PTS),118 - 120,2,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,686,3,14,4,10:10 PM,0:09,,,Reaves Free Throw 2 of 3 (25 PTS),119 - 120,1,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,689,3,15,4,10:10 PM,0:09,,,MISS Reaves Free Throw 3 of 3,,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,684,8,0,4,10:10 PM,0:09,SUB: Harden FOR Thybulle,,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200382,687,8,0,4,10:11 PM,0:09,SUB: Korkmaz FOR Tucker,,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200382,690,4,0,4,10:10 PM,0:07,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200382,691,5,1,4,10:11 PM,0:05,Harris Bad Pass Turnover (P3.T20),,Davis STEAL (2 STL),,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,693,6,2,4,10:11 PM,0:03,Harris S.FOUL (P5.PN) (S.Corbin),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200382,695,3,11,4,10:12 PM,0:03,,,Davis Free Throw 1 of 2 (31 PTS),120 - 120,TIE,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,696,3,12,4,10:12 PM,0:03,,,MISS Davis Free Throw 2 of 2,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,697,4,0,4,10:12 PM,0:02,Harden REBOUND (Off:1 Def:3),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,700,13,0,4,10:12 PM,0:00,,End of 4th Period (10:12 PM EST),,120 - 120,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200382,704,12,0,5,10:15 PM,5:00,,Start of 1st OT (10:15 PM EST),,120 - 120,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200382,706,10,0,5,10:15 PM,5:00,Jump Ball Embiid vs. Davis: Tip to Westbrook,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0
+0022200382,709,2,5,5,10:15 PM,4:46,,,MISS James 3' Layup,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,710,4,0,5,10:15 PM,4:42,Melton REBOUND (Off:0 Def:3),,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,711,1,1,5,10:16 PM,4:25,Embiid 19' Jump Shot (38 PTS),,,120 - 122,2,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,712,2,79,5,10:16 PM,4:12,,,MISS Westbrook 21' Pullup Jump Shot,,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,713,4,0,5,10:16 PM,4:09,Embiid REBOUND (Off:3 Def:8),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,714,6,1,5,10:16 PM,3:55,,,Davis P.FOUL (P5.T1) (S.Corbin),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200382,716,6,1,5,10:17 PM,3:46,,,James P.FOUL (P3.T2) (M.Boland),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200382,718,5,2,5,10:17 PM,3:41,Embiid Lost Ball Turnover (P7.T21),,Westbrook STEAL (4 STL),,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,720,2,76,5,10:17 PM,3:37,,,MISS Westbrook 4' Running Finger Roll Layup,,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,721,4,0,5,10:17 PM,3:33,Tucker REBOUND (Off:2 Def:3),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,722,1,41,5,10:17 PM,3:30,Harden 2' Running Layup (21 PTS),,,120 - 124,4,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,724,6,2,5,10:17 PM,3:30,,,Reaves S.FOUL (P3.T3) (J.Williams),,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200382,726,9,1,5,10:18 PM,3:30,,,Lakers Timeout: Regular (Reg.7 Short 0),,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200382,727,18,6,5,10:18 PM,3:30,,Instant Replay1st OT (10:18 PM EST),,120 - 124,4,0,724,Cory Alexander,,,,,0,0,,,,,,1,0,,,,,,0
+0022200382,728,3,10,5,10:20 PM,3:30,Harden Free Throw 1 of 1 (22 PTS),,,120 - 125,5,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,729,2,79,5,10:20 PM,3:16,,,MISS Westbrook 27' 3PT Pullup Jump Shot,,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,730,4,0,5,10:20 PM,3:14,Embiid REBOUND (Off:3 Def:9),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,731,5,11,5,10:21 PM,2:51,76ERS Turnover: Shot Clock (T#22),,,,,2,1610612755,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200382,732,2,1,5,10:22 PM,2:34,,,MISS Davis 28' 3PT Jump Shot,,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,733,4,0,5,10:22 PM,2:32,Melton REBOUND (Off:0 Def:4),,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,734,6,1,5,10:22 PM,2:32,,,Reaves P.FOUL (P4.PN) (S.Corbin),,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200382,736,3,11,5,10:22 PM,2:32,Melton Free Throw 1 of 2 (32 PTS),,,120 - 126,6,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,737,3,12,5,10:23 PM,2:32,Melton Free Throw 2 of 2 (33 PTS),,,120 - 127,7,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,738,2,1,5,10:23 PM,2:22,,,MISS James 29' 3PT Jump Shot,,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,739,4,0,5,10:23 PM,2:21,,,Lakers Rebound,,,3,1610612747,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200382,741,2,6,5,10:23 PM,2:20,,,MISS Reaves 7' Driving Layup,,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,742,4,0,5,10:23 PM,2:18,,,Westbrook REBOUND (Off:2 Def:9),,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,744,2,72,5,10:23 PM,2:18,Harris BLOCK (1 BLK),,MISS Westbrook 7' Putback Layup,,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,1
+0022200382,746,4,0,5,10:23 PM,2:15,Harris REBOUND (Off:1 Def:8),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,747,2,1,5,10:24 PM,1:57,MISS Melton 24' 3PT Jump Shot,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,748,4,0,5,10:24 PM,1:54,,,Davis REBOUND (Off:2 Def:10),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,749,5,2,5,10:24 PM,1:52,Embiid STEAL (1 STL),,Davis Lost Ball Turnover (P3.T20),,,5,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200382,751,1,79,5,10:24 PM,1:32,Harden 18' Pullup Jump Shot (24 PTS),,,120 - 129,9,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,752,2,1,5,10:24 PM,1:19,,,MISS Westbrook 26' 3PT Jump Shot,,,5,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,753,4,0,5,10:24 PM,1:19,,,James REBOUND (Off:1 Def:3),,,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200382,754,5,11,5,10:25 PM,1:01,,,Lakers Turnover: Shot Clock (T#21),,,3,1610612747,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200382,755,6,2,5,10:25 PM,0:44,,,Reaves S.FOUL (P5.PN) (M.Boland),,,5,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200382,757,3,13,5,10:26 PM,0:44,Harden Free Throw 1 of 3 (25 PTS),,,120 - 130,10,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,758,3,14,5,10:26 PM,0:44,Harden Free Throw 2 of 3 (26 PTS),,,120 - 131,11,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,759,3,15,5,10:26 PM,0:44,Harden Free Throw 3 of 3 (27 PTS),,,120 - 132,12,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,760,6,1,5,10:26 PM,0:40,Tucker P.FOUL (P4.T1) (S.Corbin),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200382,762,1,44,5,10:27 PM,0:35,,,Beverley 1' Reverse Layup (9 PTS) (James 6 AST),122 - 132,10,5,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,5,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200382,769,6,18,5,10:27 PM,0:35,,,Lakers Delay,,,3,1610612747,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200382,765,3,16,5,10:27 PM,0:35,Harden Free Throw Technical (28 PTS),,,122 - 133,11,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200382,766,5,11,5,10:28 PM,0:11,76ERS Turnover: Shot Clock (T#23),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200382,767,13,0,5,10:28 PM,0:00,,End of 1st OT (10:28 PM EST),,122 - 133,11,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

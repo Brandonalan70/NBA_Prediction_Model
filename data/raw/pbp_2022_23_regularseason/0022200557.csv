@@ -1,0 +1,464 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200557,2,12,0,1,8:11 PM,12:00,,Start of 1st Period (8:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200557,4,10,0,1,8:11 PM,12:00,Jump Ball Gobert vs. Jokic: Tip to Gordon,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,1
+0022200557,7,2,1,1,8:11 PM,11:44,,,MISS Murray 26' 3PT Jump Shot,,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,8,4,0,1,8:11 PM,11:41,McDaniels REBOUND (Off:0 Def:1),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,9,5,1,1,8:11 PM,11:28,McDaniels Bad Pass Turnover (P1.T1),,Jokic STEAL (1 STL),,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200557,11,6,2,1,8:12 PM,11:24,Edwards S.FOUL (P1.T1) (J.Van Duyne),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200557,13,3,11,1,8:12 PM,11:24,,,Gordon Free Throw 1 of 2 (1 PTS),1 - 0,-1,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,14,3,12,1,8:12 PM,11:24,,,Gordon Free Throw 2 of 2 (2 PTS),2 - 0,-2,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,15,1,6,1,8:13 PM,11:02,Gobert 4' Driving Layup (2 PTS) (McDaniels 1 AST),,,2 - 2,TIE,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200557,17,1,101,1,8:13 PM,10:51,,,Jokic 4' Driving Floating Jump Shot (2 PTS),4 - 2,-2,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,19,1,75,1,8:13 PM,10:40,Nowell 2' Driving Finger Roll Layup (2 PTS) (Gobert 1 AST),,,4 - 4,TIE,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200557,21,2,79,1,8:13 PM,10:33,,,MISS Gordon 24' 3PT Pullup Jump Shot,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,22,4,0,1,8:13 PM,10:30,Edwards REBOUND (Off:0 Def:1),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,23,1,75,1,8:13 PM,10:20,Anderson 1' Driving Finger Roll Layup (2 PTS) (Edwards 1 AST),,,4 - 6,2,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200557,25,5,11,1,8:14 PM,9:55,,,Nuggets Turnover: Shot Clock (T#1),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200557,26,2,79,1,8:14 PM,9:34,MISS Nowell 13' Pullup Jump Shot,,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,27,4,0,1,8:15 PM,9:31,,,Murray REBOUND (Off:0 Def:1),,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,28,1,1,1,8:15 PM,9:28,,,Porter Jr. 25' 3PT Jump Shot (3 PTS) (Murray 1 AST),7 - 6,-1,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200557,30,6,2,1,8:15 PM,9:11,,,Porter Jr. S.FOUL (P1.T1) (S.Foster),,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200557,32,3,11,1,8:15 PM,9:11,Anderson Free Throw 1 of 2 (3 PTS),,,7 - 7,TIE,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,33,3,12,1,8:16 PM,9:11,Anderson Free Throw 2 of 2 (4 PTS),,,7 - 8,1,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,34,5,1,1,8:16 PM,8:58,Anderson STEAL (1 STL),,Jokic Bad Pass Turnover (P1.T2),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200557,36,1,76,1,8:16 PM,8:53,Nowell 1' Running Finger Roll Layup (4 PTS) (Anderson 1 AST),,,7 - 10,3,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200557,38,6,2,1,8:16 PM,8:40,Anderson S.FOUL (P1.T2) (S.Foster),,,,,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200557,40,3,11,1,8:17 PM,8:40,,,Gordon Free Throw 1 of 2 (3 PTS),8 - 10,2,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,41,3,12,1,8:17 PM,8:40,,,Gordon Free Throw 2 of 2 (4 PTS),9 - 10,1,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,42,1,98,1,8:17 PM,8:19,McDaniels 1' Cutting Layup Shot (2 PTS),,,9 - 12,3,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,43,2,5,1,8:17 PM,8:10,Gobert BLOCK (1 BLK),,MISS Gordon 2' Layup,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1
+0022200557,45,4,0,1,8:18 PM,8:07,,,Gordon REBOUND (Off:1 Def:0),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,46,2,72,1,8:18 PM,8:05,McDaniels BLOCK (1 BLK),,MISS Gordon 1' Putback Layup,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,1
+0022200557,48,4,0,1,8:18 PM,8:02,,,Gordon REBOUND (Off:2 Def:0),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,49,2,80,1,8:18 PM,7:58,,,MISS Gordon 3PT Step Back Jump Shot,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,50,4,0,1,8:18 PM,7:58,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200557,51,6,3,1,8:18 PM,7:58,,,Porter Jr. L.B.FOUL (P2.T2) (J.Van Duyne),,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200557,53,8,0,1,8:18 PM,7:58,,,SUB: Brown FOR Porter Jr.,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200557,55,1,7,1,8:18 PM,7:46,Gobert 2' Dunk (4 PTS) (McDaniels 2 AST),,,9 - 14,5,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200557,57,1,58,1,8:19 PM,7:31,,,Jokic 2' Turnaround Hook Shot (4 PTS) (Caldwell-Pope 1 AST),11 - 14,3,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200557,59,1,6,1,8:19 PM,7:13,Anderson 2' Driving Layup (6 PTS) (McDaniels 3 AST),,,11 - 16,5,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200557,61,5,2,1,8:19 PM,7:05,Anderson STEAL (2 STL),,Jokic Lost Ball Turnover (P2.T3),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200557,63,2,1,1,8:19 PM,6:59,MISS Nowell 24' 3PT Jump Shot,,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,64,4,0,1,8:19 PM,6:54,Edwards REBOUND (Off:1 Def:1),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,65,2,1,1,8:19 PM,6:52,MISS Nowell 3PT Jump Shot,,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,66,4,0,1,8:19 PM,6:52,McDaniels REBOUND (Off:1 Def:1),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,67,1,87,1,8:19 PM,6:52,McDaniels Putback Dunk (4 PTS),,,11 - 18,7,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,68,9,1,1,8:19 PM,6:52,,,Nuggets Timeout: Regular (Reg.1 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200557,69,2,1,1,8:22 PM,6:32,,,MISS Brown 3PT Jump Shot,,,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,70,4,0,1,8:23 PM,6:30,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200557,72,2,1,1,8:23 PM,6:16,MISS Edwards 25' 3PT Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,73,4,0,1,8:23 PM,6:13,,,Brown REBOUND (Off:0 Def:1),,,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,74,2,98,1,8:23 PM,6:01,,,MISS Jokic 2' Cutting Layup Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,75,4,0,1,8:23 PM,5:58,McDaniels REBOUND (Off:1 Def:2),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,76,6,4,1,8:23 PM,5:55,Gobert OFF.Foul (P1) (S.Foster),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200557,78,5,37,1,8:23 PM,5:55,Gobert Offensive Foul Turnover (P1.T2),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022200557,79,8,0,1,8:23 PM,5:55,,,SUB: Braun FOR Murray,,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200557,81,5,39,1,8:24 PM,5:41,,,Gordon Step Out of Bounds Turnover (P1.T4),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022200557,82,2,80,1,8:24 PM,5:18,MISS Edwards 3PT Step Back Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,83,4,0,1,8:24 PM,5:15,,,Caldwell-Pope REBOUND (Off:0 Def:1),,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,84,1,78,1,8:25 PM,5:10,,,Jokic 8' Floating Jump Shot (6 PTS) (Caldwell-Pope 2 AST),13 - 18,5,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200557,86,2,79,1,8:25 PM,4:57,MISS McDaniels 17' Pullup Jump Shot,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,87,4,0,1,8:25 PM,4:54,,,Brown REBOUND (Off:0 Def:2),,,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,88,1,9,1,8:25 PM,4:49,,,Braun 1' Driving Dunk (2 PTS) (Brown 1 AST),15 - 18,3,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200557,90,5,2,1,8:25 PM,4:28,McDaniels Lost Ball Turnover (P2.T3),,Brown STEAL (1 STL),,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200557,92,6,1,1,8:25 PM,4:28,McDaniels P.FOUL (P1.T3) (J.Van Duyne),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200557,94,8,0,1,8:25 PM,4:28,SUB: Rivers FOR Nowell,,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,4,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200557,95,8,0,1,8:25 PM,4:28,SUB: Garza FOR Gobert,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200557,96,8,0,1,8:25 PM,4:28,,,SUB: Hyland FOR Caldwell-Pope,,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200557,100,6,1,1,8:26 PM,4:16,Anderson P.FOUL (P2.T4) (J.Van Duyne),,,,,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200557,102,5,1,1,8:26 PM,4:08,McDaniels STEAL (1 STL),,Hyland Bad Pass Turnover (P1.T5),,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200557,104,2,78,1,8:27 PM,4:01,MISS Anderson 8' Floating Jump Shot,,,,,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,105,4,0,1,8:27 PM,4:00,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200557,107,8,0,1,8:27 PM,4:00,,,SUB: Cancar FOR Gordon,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,5,1628427,Vlatko Čančar,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200557,109,8,0,1,8:27 PM,4:00,SUB: Ryan FOR Anderson,,,,,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,4,1630346,Matt Ryan,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200557,111,6,4,1,8:28 PM,3:51,Garza OFF.Foul (P1) (D.Mosher),,,,,4,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200557,113,5,37,1,8:28 PM,3:51,Garza Offensive Foul Turnover (P1.T4),,,,,4,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022200557,114,5,45,1,8:28 PM,3:36,,,Jokic Out of Bounds - Bad Pass Turnover Turnover (P3.T6),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022200557,115,2,1,1,8:28 PM,3:30,MISS Garza 25' 3PT Jump Shot,,,,,4,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,116,4,0,1,8:29 PM,3:26,,,Hyland REBOUND (Off:0 Def:1),,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,117,2,5,1,8:29 PM,3:15,,,MISS Jokic 1' Layup,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,118,4,0,1,8:29 PM,3:11,Edwards REBOUND (Off:1 Def:2),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,119,1,1,1,8:29 PM,3:06,Rivers 3PT Jump Shot (3 PTS) (Edwards 2 AST),,,15 - 21,6,4,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200557,121,6,1,1,8:29 PM,2:53,McDaniels P.FOUL (P2.PN) (S.Foster),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200557,123,9,1,1,8:29 PM,2:53,TIMBERWOLVES Timeout: Regular (Full 1 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200557,124,8,0,1,8:31 PM,2:53,SUB: Knight FOR McDaniels,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200557,125,8,0,1,8:31 PM,2:53,,,SUB: Murray FOR Braun,,,5,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200557,128,3,11,1,8:32 PM,2:53,,,Jokic Free Throw 1 of 2 (7 PTS),16 - 21,5,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,129,3,12,1,8:32 PM,2:53,,,Jokic Free Throw 2 of 2 (8 PTS),17 - 21,4,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,130,2,1,1,8:33 PM,2:38,MISS Ryan 3PT Jump Shot,,,,,4,1630346,Matt Ryan,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,131,4,0,1,8:33 PM,2:36,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200557,133,8,0,1,8:33 PM,2:36,,,SUB: Nnaji FOR Jokic,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200557,135,2,1,1,8:33 PM,2:20,,,MISS Brown 3PT Jump Shot,,,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,136,4,0,1,8:33 PM,2:16,Edwards REBOUND (Off:1 Def:3),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,137,5,2,1,8:34 PM,2:11,Edwards Lost Ball Turnover (P1.T5),,Nnaji STEAL (1 STL),,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200557,139,6,2,1,8:34 PM,2:08,Rivers S.FOUL (P1.PN) (D.Mosher),,,,,4,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200557,141,3,11,1,8:34 PM,2:08,,,Brown Free Throw 1 of 2 (1 PTS),18 - 21,3,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,142,8,0,1,8:34 PM,2:08,SUB: Nowell FOR Edwards,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200557,144,3,12,1,8:34 PM,2:08,,,Brown Free Throw 2 of 2 (2 PTS),19 - 21,2,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,145,5,1,1,8:35 PM,1:56,Nowell Bad Pass Turnover (P1.T6),,Hyland STEAL (1 STL),,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200557,147,1,41,1,8:35 PM,1:51,,,Hyland 2' Running Layup (2 PTS),21 - 21,TIE,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,148,1,7,1,8:35 PM,1:34,Garza Dunk (2 PTS) (Knight 1 AST),,,21 - 23,2,4,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,4,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200557,150,2,80,1,8:35 PM,1:20,,,MISS Hyland 26' 3PT Step Back Jump Shot,,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,151,4,0,1,8:35 PM,1:17,,,Nnaji REBOUND (Off:1 Def:0),,,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,152,5,2,1,8:35 PM,1:14,Nowell STEAL (1 STL),,Nnaji Lost Ball Turnover (P1.T7),,,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200557,155,2,58,1,8:36 PM,0:54,MISS Garza 8' Turnaround Hook Shot,,,,,4,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,156,4,0,1,8:36 PM,0:52,,,Murray REBOUND (Off:0 Def:2),,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,157,2,1,1,8:36 PM,0:47,,,MISS Cancar 3PT Jump Shot,,,5,1628427,Vlatko Čančar,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,158,4,0,1,8:36 PM,0:43,Rivers REBOUND (Off:0 Def:1),,,,,4,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,159,2,80,1,8:36 PM,0:31,MISS Rivers 25' 3PT Step Back Jump Shot,,,,,4,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,160,4,0,1,8:36 PM,0:30,Knight REBOUND (Off:1 Def:0),,,,,4,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,161,6,2,1,8:36 PM,0:30,,,Cancar S.FOUL (P1.T3) (S.Foster),,,5,1628427,Vlatko Čančar,1610612743.0,Denver,Nuggets,DEN,4,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200557,163,3,11,1,8:37 PM,0:30,MISS Knight Free Throw 1 of 2,,,,,4,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,164,4,1,1,8:37 PM,0:30,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200557,165,3,12,1,8:37 PM,0:30,MISS Knight Free Throw 2 of 2,,,,,4,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0022200557,166,4,0,1,8:37 PM,0:29,,,Brown REBOUND (Off:0 Def:3),,,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,167,1,79,1,8:37 PM,0:15,,,Brown 9' Pullup Jump Shot (4 PTS) (Hyland 1 AST),23 - 23,TIE,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200557,169,2,98,1,8:38 PM,0:01,MISS Garza 1' Cutting Layup Shot,,,,,4,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,170,4,0,1,8:38 PM,0:00,,,Cancar REBOUND (Off:0 Def:1),,,5,1628427,Vlatko Čančar,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,171,13,0,1,8:38 PM,0:00,,End of 1st Period (8:38 PM EST),,23 - 23,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200557,174,12,0,2,8:40 PM,12:00,,Start of 2nd Period (8:40 PM EST),,23 - 23,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200557,175,1,1,2,8:41 PM,11:48,Ryan 3PT Jump Shot (3 PTS) (Nowell 1 AST),,,23 - 26,3,4,1630346,Matt Ryan,1610612750.0,Minnesota,Timberwolves,MIN,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200557,177,2,6,2,8:41 PM,11:25,,,MISS Brown 6' Driving Layup,,,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,178,4,0,2,8:41 PM,11:21,,,Nnaji REBOUND (Off:2 Def:0),,,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,179,1,107,2,8:41 PM,11:21,,,Nnaji Tip Dunk Shot (2 PTS),25 - 26,1,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,180,1,1,2,8:41 PM,11:07,Knight 25' 3PT Jump Shot (3 PTS) (Rivers 1 AST),,,25 - 29,4,4,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,4,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200557,182,2,1,2,8:41 PM,10:51,,,MISS Nnaji 25' 3PT Jump Shot,,,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,183,4,0,2,8:41 PM,10:49,Nowell REBOUND (Off:0 Def:1),,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,184,6,2,2,8:42 PM,10:37,,,Cancar S.FOUL (P2.T1) (D.Mosher),,,5,1628427,Vlatko Čančar,1610612743.0,Denver,Nuggets,DEN,4,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200557,186,3,11,2,8:42 PM,10:37,Knight Free Throw 1 of 2 (4 PTS),,,25 - 30,5,4,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,187,3,12,2,8:43 PM,10:37,Knight Free Throw 2 of 2 (5 PTS),,,25 - 31,6,4,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,188,5,45,2,8:43 PM,10:24,,,Murray Out of Bounds - Bad Pass Turnover Turnover (P1.T8),,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022200557,189,2,79,2,8:43 PM,10:15,MISS Nowell 25' 3PT Pullup Jump Shot,,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,190,4,0,2,8:43 PM,10:10,Knight REBOUND (Off:2 Def:0),,,,,4,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,191,2,72,2,8:43 PM,10:10,MISS Knight 3' Putback Layup,,,,,4,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,192,4,0,2,8:43 PM,10:08,Knight REBOUND (Off:3 Def:0),,,,,4,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,193,2,5,2,8:43 PM,10:06,MISS Knight 2' Layup,,,,,4,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,194,4,0,2,8:43 PM,10:04,,,Hyland REBOUND (Off:0 Def:2),,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,195,1,79,2,8:43 PM,9:58,,,Hyland 24' 3PT Pullup Jump Shot (5 PTS),28 - 31,3,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,196,5,1,2,8:44 PM,9:42,Ryan Bad Pass Turnover (P1.T7),,Hyland STEAL (2 STL),,,4,1630346,Matt Ryan,1610612750.0,Minnesota,Timberwolves,MIN,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200557,198,6,2,2,8:44 PM,9:38,Knight S.FOUL (P1.T1) (D.Mosher),,,,,4,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200557,200,3,11,2,8:44 PM,9:38,,,MISS Nnaji Free Throw 1 of 2,,,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,201,4,1,2,8:44 PM,9:38,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200557,202,3,12,2,8:44 PM,9:38,,,Nnaji Free Throw 2 of 2 (3 PTS),29 - 31,2,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,203,6,2,2,8:45 PM,9:17,,,Brown S.FOUL (P1.T2) (S.Foster),,,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,4,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200557,205,3,11,2,8:45 PM,9:17,Rivers Free Throw 1 of 2 (4 PTS),,,29 - 32,3,4,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,206,3,12,2,8:46 PM,9:17,Rivers Free Throw 2 of 2 (5 PTS),,,29 - 33,4,4,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,207,2,79,2,8:46 PM,8:58,Gobert BLOCK (2 BLK),,MISS Hyland 14' Pullup Jump Shot,,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1
+0022200557,209,4,0,2,8:46 PM,8:55,,,Hyland REBOUND (Off:1 Def:2),,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,210,1,1,2,8:46 PM,8:54,,,Hyland 7' Jump Shot (7 PTS),31 - 33,2,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,211,2,1,2,8:46 PM,8:38,MISS Ryan 25' 3PT Jump Shot,,,,,4,1630346,Matt Ryan,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,212,4,0,2,8:46 PM,8:35,,,Brown REBOUND (Off:0 Def:4),,,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,213,1,5,2,8:46 PM,8:23,,,Cancar Layup (2 PTS) (Brown 2 AST),33 - 33,TIE,5,1628427,Vlatko Čančar,1610612743.0,Denver,Nuggets,DEN,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200557,215,1,73,2,8:47 PM,8:07,Nowell 1' Driving Reverse Layup (6 PTS),,,33 - 35,2,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,216,1,80,2,8:47 PM,7:49,,,Hyland 27' 3PT Step Back Jump Shot (10 PTS),36 - 35,-1,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,217,6,1,2,8:47 PM,7:37,,,Hyland P.FOUL (P1.T3) (D.Mosher),,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,4,1630346,Matt Ryan,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200557,219,8,0,2,8:47 PM,7:37,SUB: Edwards FOR Rivers,,,,,4,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200557,220,8,0,2,8:47 PM,7:37,SUB: McDaniels FOR Ryan,,,,,4,1630346,Matt Ryan,1610612750.0,Minnesota,Timberwolves,MIN,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200557,221,8,0,2,8:47 PM,7:37,SUB: Anderson FOR Gobert,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200557,222,8,0,2,8:47 PM,7:37,,,SUB: Porter Jr. FOR Brown,,,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200557,223,8,0,2,8:47 PM,7:37,,,SUB: Caldwell-Pope FOR Murray,,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200557,224,8,0,2,8:47 PM,7:37,,,SUB: Gordon FOR Cancar,,,5,1628427,Vlatko Čančar,1610612743.0,Denver,Nuggets,DEN,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200557,231,1,1,2,8:48 PM,7:31,McDaniels 3PT Jump Shot (7 PTS) (Knight 2 AST),,,36 - 38,2,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200557,234,2,1,2,8:48 PM,7:14,,,MISS Hyland 25' 3PT Jump Shot,,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,235,4,0,2,8:49 PM,7:10,Edwards REBOUND (Off:1 Def:4),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,236,1,99,2,8:49 PM,7:02,Anderson 1' Cutting Finger Roll Layup Shot (8 PTS) (Edwards 3 AST),,,36 - 40,4,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200557,238,9,1,2,8:49 PM,7:02,,,Nuggets Timeout: Regular (Reg.2 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200557,239,8,0,2,8:51 PM,7:02,,,SUB: Jokic FOR Nnaji,,,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200557,241,6,1,2,8:52 PM,6:49,Nowell P.FOUL (P1.T2) (S.Foster),,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200557,243,2,1,2,8:52 PM,6:42,,,MISS Porter Jr. 25' 3PT Jump Shot,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,244,4,0,2,8:52 PM,6:39,Anderson REBOUND (Off:0 Def:1),,,,,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,245,1,6,2,8:52 PM,6:34,McDaniels 3' Driving Layup (9 PTS) (Anderson 2 AST),,,36 - 42,6,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200557,247,2,57,2,8:53 PM,6:13,,,MISS Jokic 6' Driving Hook Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,248,4,0,2,8:53 PM,6:11,,,Gordon REBOUND (Off:3 Def:0),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,296,2,97,2,8:53 PM,6:11,,,MISS Gordon 2' Tip Layup Shot,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,297,4,0,2,8:53 PM,6:09,,,Gordon REBOUND (Off:4 Def:0),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,249,2,97,2,8:53 PM,6:08,,,MISS Gordon Tip Layup Shot,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,250,4,0,2,8:53 PM,6:07,Edwards REBOUND (Off:1 Def:5),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,251,6,2,2,8:53 PM,6:06,,,Caldwell-Pope S.FOUL (P1.T4) (S.Foster),,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200557,253,3,11,2,8:53 PM,6:06,Edwards Free Throw 1 of 2 (1 PTS),,,36 - 43,7,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,254,3,12,2,8:54 PM,6:06,Edwards Free Throw 2 of 2 (2 PTS),,,36 - 44,8,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,255,1,79,2,8:54 PM,5:55,,,Caldwell-Pope 15' Pullup Jump Shot (2 PTS) (Jokic 1 AST),38 - 44,6,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200557,257,1,75,2,8:54 PM,5:43,Edwards 1' Driving Finger Roll Layup (4 PTS) (Anderson 3 AST),,,38 - 46,8,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200557,259,2,5,2,8:54 PM,5:31,,,MISS Gordon 2' Layup,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,260,4,0,2,8:54 PM,5:25,,,Gordon REBOUND (Off:5 Def:0),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,261,2,97,2,8:54 PM,5:25,,,MISS Gordon Tip Layup Shot,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,262,4,0,2,8:54 PM,5:24,,,Gordon REBOUND (Off:6 Def:0),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,263,2,97,2,8:54 PM,5:24,,,MISS Gordon Tip Layup Shot,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,264,4,0,2,8:54 PM,5:23,Anderson REBOUND (Off:0 Def:2),,,,,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,265,2,80,2,8:54 PM,5:15,MISS Edwards 22' Step Back Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,266,4,0,2,8:54 PM,5:13,,,Hyland REBOUND (Off:1 Def:3),,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,267,5,39,2,8:55 PM,5:06,,,Porter Jr. Step Out of Bounds Turnover (P1.T9),,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022200557,268,8,0,2,8:55 PM,5:06,,,SUB: Murray FOR Hyland,,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200557,270,2,58,2,8:55 PM,4:52,MISS Anderson 6' Turnaround Hook Shot,,,,,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,271,4,0,2,8:55 PM,4:50,,,Jokic REBOUND (Off:0 Def:1),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,272,2,101,2,8:55 PM,4:38,,,MISS Jokic 16' Driving Floating Jump Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,273,4,0,2,8:55 PM,4:34,Knight REBOUND (Off:3 Def:1),,,,,4,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,274,1,50,2,8:55 PM,4:30,Nowell Running Dunk (8 PTS),,,38 - 48,10,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,275,2,1,2,8:56 PM,4:14,,,MISS Jokic 7' Jump Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,276,4,0,2,8:56 PM,4:11,Edwards REBOUND (Off:1 Def:6),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,277,1,50,2,8:56 PM,4:09,McDaniels 1' Running Dunk (11 PTS) (Edwards 4 AST),,,38 - 50,12,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200557,279,1,1,2,8:56 PM,3:49,,,Porter Jr. 25' 3PT Jump Shot (6 PTS) (Murray 2 AST),41 - 50,9,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200557,281,2,6,2,8:57 PM,3:25,MISS Anderson 3' Driving Layup,,,,,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,282,4,0,2,8:57 PM,3:23,,,Porter Jr. REBOUND (Off:0 Def:1),,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,283,6,2,2,8:57 PM,3:21,McDaniels S.FOUL (P3.T3) (S.Foster),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200557,285,3,11,2,8:57 PM,3:21,,,Porter Jr. Free Throw 1 of 2 (7 PTS),42 - 50,8,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,286,8,0,2,8:57 PM,3:21,SUB: Rivers FOR McDaniels,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200557,287,8,0,2,8:57 PM,3:21,SUB: Gobert FOR Knight,,,,,4,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200557,290,3,12,2,8:58 PM,3:21,,,Porter Jr. Free Throw 2 of 2 (8 PTS),43 - 50,7,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,291,2,1,2,8:58 PM,3:01,MISS Rivers 3PT Jump Shot,,,,,4,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,292,4,0,2,8:58 PM,2:59,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200557,293,6,3,2,8:58 PM,2:59,,,Jokic L.B.FOUL (P1.PN) (J.Van Duyne),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200557,295,9,1,2,8:58 PM,2:59,TIMBERWOLVES Timeout: Regular (Full 2 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200557,298,3,11,2,9:01 PM,2:59,MISS Gobert Free Throw 1 of 2,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,299,4,1,2,9:01 PM,2:59,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200557,300,3,12,2,9:02 PM,2:59,Gobert Free Throw 2 of 2 (5 PTS),,,43 - 51,8,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,301,1,47,2,9:02 PM,2:45,,,Jokic 5' Turnaround Jump Shot (10 PTS) (Gordon 1 AST),45 - 51,6,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200557,303,2,1,2,9:02 PM,2:31,MISS Edwards 24' 3PT Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,304,4,0,2,9:02 PM,2:28,,,Gordon REBOUND (Off:6 Def:1),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,305,6,4,2,9:02 PM,2:27,,,Jokic OFF.Foul (P2) (S.Foster),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200557,307,5,37,2,9:02 PM,2:27,,,Jokic Offensive Foul Turnover (P4.T10),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022200557,308,8,0,2,9:02 PM,2:27,SUB: Ryan FOR Nowell,,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,4,1630346,Matt Ryan,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200557,310,2,79,2,9:03 PM,2:16,MISS Edwards 17' Pullup Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,311,4,0,2,9:03 PM,2:13,Gobert REBOUND (Off:1 Def:0),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,312,1,72,2,9:03 PM,2:12,Gobert 1' Putback Layup (7 PTS),,,45 - 53,8,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,313,1,5,2,9:03 PM,1:58,,,Jokic 1' Layup (12 PTS) (Gordon 2 AST),47 - 53,6,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200557,314,6,2,2,9:03 PM,1:58,Gobert S.FOUL (P2.T4) (S.Foster),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200557,317,3,10,2,9:04 PM,1:58,,,Jokic Free Throw 1 of 1 (13 PTS),48 - 53,5,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0022200557,318,5,1,2,9:04 PM,1:38,Anderson Bad Pass Turnover (P1.T8),,Gordon STEAL (1 STL),,,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200557,320,1,5,2,9:04 PM,1:34,,,Jokic 1' Layup (15 PTS) (Gordon 3 AST),50 - 53,3,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200557,322,6,2,2,9:04 PM,1:34,Gobert S.FOUL (P3.PN) (D.Mosher),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200557,324,8,0,2,9:05 PM,1:34,SUB: Garza FOR Gobert,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200557,326,3,10,2,9:05 PM,1:34,,,MISS Jokic Free Throw 1 of 1,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,327,4,0,2,9:05 PM,1:32,Garza REBOUND (Off:0 Def:1),,,,,4,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,328,2,1,2,9:05 PM,1:24,MISS Edwards 26' 3PT Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,329,4,0,2,9:05 PM,1:23,Anderson REBOUND (Off:1 Def:2),,,,,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,330,6,2,2,9:05 PM,1:21,,,Jokic S.FOUL (P3.PN) (D.Mosher),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200557,332,3,11,2,9:06 PM,1:21,Anderson Free Throw 1 of 2 (9 PTS),,,50 - 54,4,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,333,8,0,2,9:06 PM,1:21,,,SUB: Cancar FOR Jokic,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,1628427,Vlatko Čančar,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200557,335,3,12,2,9:06 PM,1:21,Anderson Free Throw 2 of 2 (10 PTS),,,50 - 55,5,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,336,2,79,2,9:06 PM,1:07,,,MISS Murray 14' Pullup Jump Shot,,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,337,4,0,2,9:07 PM,1:04,Garza REBOUND (Off:0 Def:2),,,,,4,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,338,2,6,2,9:07 PM,0:49,MISS Edwards 2' Driving Layup,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,339,4,0,2,9:07 PM,0:47,,,Caldwell-Pope REBOUND (Off:0 Def:2),,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,340,1,1,2,9:07 PM,0:39,,,Caldwell-Pope 25' 3PT Jump Shot (5 PTS) (Cancar 1 AST),53 - 55,2,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,5,1628427,Vlatko Čančar,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200557,342,6,2,2,9:07 PM,0:31,,,Gordon S.FOUL (P1.PN) (S.Foster),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200557,344,3,11,2,9:08 PM,0:31,Edwards Free Throw 1 of 2 (5 PTS),,,53 - 56,3,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,345,3,12,2,9:08 PM,0:31,Edwards Free Throw 2 of 2 (6 PTS),,,53 - 57,4,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0022200557,346,2,108,2,9:08 PM,0:11,,,MISS Gordon 1' Cutting Dunk Shot,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,347,4,0,2,9:08 PM,0:09,Anderson REBOUND (Off:1 Def:3),,,,,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,348,1,6,2,9:08 PM,0:00,Edwards 2' Driving Layup (8 PTS),,,53 - 59,6,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,349,18,0,2,9:09 PM,0:00,,Instant Replay2nd Period (9:09 PM EST),,53 - 59,6,0,348,Mitchell Butler,,,,,0,0,,,,,,1,0,,,,,,0
+0022200557,350,13,0,2,9:09 PM,0:00,,End of 2nd Period (9:09 PM EST),,53 - 59,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200557,359,12,0,3,9:24 PM,12:00,,Start of 3rd Period (9:24 PM EST),,53 - 59,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200557,360,1,79,3,9:24 PM,11:41,McDaniels 15' Pullup Jump Shot (13 PTS) (Anderson 4 AST),,,53 - 61,8,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200557,362,1,71,3,9:24 PM,11:19,,,Murray 4' Finger Roll Layup (2 PTS),55 - 61,6,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,363,6,1,3,9:25 PM,11:01,,,Gordon P.FOUL (P2.T1) (D.Mosher),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200557,365,2,79,3,9:25 PM,10:58,MISS Nowell 26' 3PT Pullup Jump Shot,,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,366,4,0,3,9:25 PM,10:54,,,Gordon REBOUND (Off:6 Def:2),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,367,1,5,3,9:25 PM,10:47,,,Porter Jr. 3' Layup (10 PTS) (Jokic 2 AST),57 - 61,4,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200557,369,1,1,3,9:26 PM,10:25,Anderson 24' 3PT Jump Shot (13 PTS) (Gobert 2 AST),,,57 - 64,7,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200557,371,1,1,3,9:26 PM,10:11,,,Murray 25' 3PT Jump Shot (5 PTS) (Jokic 3 AST),60 - 64,4,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200557,373,1,79,3,9:26 PM,9:53,Edwards 25' 3PT Pullup Jump Shot (11 PTS),,,60 - 67,7,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,374,1,108,3,9:26 PM,9:39,,,Gordon 1' Cutting Dunk Shot (6 PTS) (Jokic 4 AST),62 - 67,5,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200557,376,2,101,3,9:27 PM,9:21,MISS Anderson 4' Driving Floating Jump Shot,,,,,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,377,4,0,3,9:27 PM,9:19,,,Gordon REBOUND (Off:6 Def:3),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,378,1,108,3,9:27 PM,9:10,,,Porter Jr. 1' Cutting Dunk Shot (12 PTS) (Murray 3 AST),64 - 67,3,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200557,380,5,1,3,9:27 PM,8:57,Edwards Bad Pass Turnover (P2.T9),,Jokic STEAL (2 STL),,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200557,382,2,41,3,9:27 PM,8:51,,,MISS Porter Jr. 5' Running Layup,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,383,4,0,3,9:27 PM,8:46,Nowell REBOUND (Off:0 Def:2),,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,384,1,9,3,9:27 PM,8:41,McDaniels 1' Driving Dunk (15 PTS) (Anderson 5 AST),,,64 - 69,5,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200557,386,1,78,3,9:28 PM,8:23,,,Caldwell-Pope 14' Floating Jump Shot (7 PTS) (Jokic 5 AST),66 - 69,3,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200557,388,6,2,3,9:28 PM,8:23,Nowell S.FOUL (P2.T1) (S.Foster),,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200557,390,3,10,3,9:28 PM,8:23,,,Caldwell-Pope Free Throw 1 of 1 (8 PTS),67 - 69,2,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,391,2,47,3,9:28 PM,8:09,MISS Edwards 7' Turnaround Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,392,4,0,3,9:28 PM,8:06,,,Jokic REBOUND (Off:0 Def:2),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,393,1,1,3,9:29 PM,8:00,,,Porter Jr. 3PT Jump Shot (15 PTS) (Gordon 4 AST),70 - 69,-1,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200557,395,1,1,3,9:29 PM,7:47,Anderson 3PT Jump Shot (16 PTS) (Edwards 5 AST),,,70 - 72,2,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200557,397,6,1,3,9:29 PM,7:39,Nowell P.FOUL (P3.T2) (J.Van Duyne),,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200557,399,6,1,3,9:30 PM,7:35,McDaniels P.FOUL (P4.T3) (S.Foster),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200557,401,8,0,3,9:30 PM,7:35,SUB: Rivers FOR McDaniels,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200557,403,1,79,3,9:31 PM,7:26,,,Murray 17' Pullup Jump Shot (7 PTS),72 - 72,TIE,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,404,1,6,3,9:31 PM,7:14,Nowell 1' Driving Layup (10 PTS) (Gobert 3 AST),,,72 - 74,2,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200557,406,1,108,3,9:31 PM,6:57,,,Gordon 1' Cutting Dunk Shot (8 PTS) (Jokic 6 AST),74 - 74,TIE,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200557,408,9,1,3,9:31 PM,6:56,TIMBERWOLVES Timeout: Regular (Full 3 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200557,411,2,1,3,9:35 PM,6:37,MISS Edwards 3PT Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,412,4,0,3,9:35 PM,6:33,,,Porter Jr. REBOUND (Off:0 Def:2),,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,413,5,1,3,9:35 PM,6:28,Anderson STEAL (3 STL),,Caldwell-Pope Bad Pass Turnover (P1.T11),,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200557,415,6,1,3,9:35 PM,6:17,,,Caldwell-Pope P.FOUL (P2.T2) (D.Mosher),,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200557,417,2,1,3,9:36 PM,6:08,MISS Nowell 26' 3PT Jump Shot,,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,418,4,0,3,9:36 PM,6:05,Gobert REBOUND (Off:2 Def:0),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,419,6,1,3,9:36 PM,6:05,,,Caldwell-Pope P.FOUL (P3.T3) (S.Foster),,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200557,421,1,102,3,9:36 PM,5:59,Nowell 13' Driving Floating Bank Jump Shot (12 PTS),,,74 - 76,2,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,422,2,1,3,9:36 PM,5:52,,,MISS Porter Jr. 26' 3PT Jump Shot,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,423,4,0,3,9:36 PM,5:52,Nowell REBOUND (Off:0 Def:3),,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,424,5,1,3,9:37 PM,5:39,Nowell Bad Pass Turnover (P2.T10),,Murray STEAL (1 STL),,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200557,426,2,102,3,9:37 PM,5:30,,,MISS Caldwell-Pope 5' Driving Floating Bank Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,427,4,0,3,9:37 PM,5:26,,,Caldwell-Pope REBOUND (Off:1 Def:2),,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,428,2,1,3,9:37 PM,5:25,,,MISS Murray 24' 3PT Jump Shot,,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,429,4,0,3,9:37 PM,5:25,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200557,431,2,6,3,9:37 PM,5:07,MISS Nowell 1' Driving Layup,,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,432,4,0,3,9:37 PM,5:05,,,Jokic REBOUND (Off:0 Def:3),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,433,1,6,3,9:37 PM,5:02,,,Murray 1' Driving Layup (9 PTS),76 - 76,TIE,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,434,6,11,3,9:38 PM,5:02,Nowell T.FOUL (P3.T3) (J.Van Duyne),,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022200557,435,3,16,3,9:38 PM,5:02,,,Murray Free Throw Technical (10 PTS),77 - 76,-1,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,436,8,0,3,9:38 PM,5:02,SUB: Knight FOR Nowell,,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,4,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200557,437,8,0,3,9:38 PM,5:02,SUB: Ryan FOR Gobert,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,1630346,Matt Ryan,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200557,438,8,0,3,9:38 PM,5:02,,,SUB: Brown FOR Murray,,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200557,442,2,1,3,9:39 PM,4:52,MISS Anderson 3PT Jump Shot,,,,,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,443,4,0,3,9:39 PM,4:49,,,Jokic REBOUND (Off:0 Def:4),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,444,6,1,3,9:39 PM,4:46,Edwards P.FOUL (P2.T4) (J.Van Duyne),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200557,446,1,78,3,9:39 PM,4:41,,,Jokic 10' Floating Jump Shot (17 PTS) (Brown 3 AST),79 - 76,-3,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200557,448,1,108,3,9:39 PM,4:26,Knight 2' Cutting Dunk Shot (7 PTS) (Anderson 6 AST),,,79 - 78,-1,4,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200557,450,2,58,3,9:40 PM,4:02,,,MISS Jokic 8' Turnaround Hook Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,451,4,0,3,9:40 PM,3:58,,,Gordon REBOUND (Off:8 Def:3),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,452,2,97,3,9:40 PM,3:58,,,MISS Gordon Tip Layup Shot,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,453,4,0,3,9:40 PM,3:58,,,Gordon REBOUND (Off:8 Def:3),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,454,1,87,3,9:40 PM,3:54,,,Gordon Putback Dunk (10 PTS),81 - 78,-3,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,455,1,6,3,9:40 PM,3:40,Edwards 2' Driving Layup (13 PTS),,,81 - 80,-1,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,456,1,99,3,9:40 PM,3:25,,,Brown 1' Cutting Finger Roll Layup Shot (6 PTS) (Jokic 7 AST),83 - 80,-3,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200557,458,2,1,3,9:41 PM,3:09,MISS Ryan 25' 3PT Jump Shot,,Porter Jr. BLOCK (1 BLK),,,4,1630346,Matt Ryan,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,1
+0022200557,460,4,0,3,9:41 PM,3:08,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200557,462,8,0,3,9:41 PM,3:08,SUB: Garza FOR Anderson,,,,,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,4,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200557,463,8,0,3,9:41 PM,3:08,,,SUB: Hyland FOR Porter Jr.,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200557,464,8,0,3,9:41 PM,3:08,,,SUB: Cancar FOR Gordon,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,5,1628427,Vlatko Čančar,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200557,468,6,2,3,9:41 PM,3:02,,,Hyland S.FOUL (P2.T4) (S.Foster),,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200557,470,3,11,3,9:42 PM,3:02,Edwards Free Throw 1 of 2 (14 PTS),,,83 - 81,-2,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,471,3,12,3,9:42 PM,3:02,Edwards Free Throw 2 of 2 (15 PTS),,,83 - 82,-1,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,472,2,78,3,9:42 PM,2:54,,,MISS Jokic 9' Floating Jump Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,473,4,0,3,9:42 PM,2:51,,,Jokic REBOUND (Off:1 Def:4),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,474,2,5,3,9:42 PM,2:50,,,MISS Jokic 2' Layup,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,475,4,0,3,9:42 PM,2:48,Garza REBOUND (Off:0 Def:3),,,,,4,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,476,2,73,3,9:43 PM,2:35,MISS Edwards Driving Reverse Layup,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,477,4,0,3,9:43 PM,2:35,,,Jokic REBOUND (Off:1 Def:5),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,478,2,1,3,9:43 PM,2:30,,,MISS Caldwell-Pope 3PT Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,479,4,0,3,9:43 PM,2:26,Garza REBOUND (Off:0 Def:4),,,,,4,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,480,1,79,3,9:43 PM,2:15,Edwards 25' 3PT Pullup Jump Shot (18 PTS),,,83 - 85,2,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,481,2,1,3,9:43 PM,2:00,,,MISS Cancar 25' 3PT Jump Shot,,,5,1628427,Vlatko Čančar,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,482,4,0,3,9:43 PM,1:58,Edwards REBOUND (Off:1 Def:7),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,483,1,5,3,9:43 PM,1:46,Edwards 1' Layup (20 PTS),,,83 - 87,4,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,484,9,1,3,9:43 PM,1:46,,,Nuggets Timeout: Regular (Reg.3 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200557,485,8,0,3,9:46 PM,1:46,,,SUB: Nnaji FOR Caldwell-Pope,,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200557,486,8,0,3,9:46 PM,1:46,,,SUB: Murray FOR Jokic,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200557,489,2,79,3,9:47 PM,1:34,,,MISS Murray 15' Pullup Jump Shot,,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0022200557,490,4,0,3,9:47 PM,1:31,,,Murray REBOUND (Off:1 Def:2),,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0022200557,491,2,5,3,9:47 PM,1:23,Garza BLOCK (1 BLK),,MISS Nnaji 3' Layup,,,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,4,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,1
+0022200557,493,4,0,3,9:47 PM,1:19,Knight REBOUND (Off:3 Def:2),,,,,4,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,494,6,26,3,9:47 PM,1:02,Edwards Offensive Charge Foul (P3) (J.Van Duyne),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200557,496,5,37,3,9:47 PM,1:02,Edwards Offensive Foul Turnover (P3.T11),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022200557,497,1,5,3,9:48 PM,0:46,,,Brown 1' Layup (8 PTS) (Hyland 2 AST),85 - 87,2,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200557,499,1,79,3,9:48 PM,0:32,Edwards 24' 3PT Pullup Jump Shot (23 PTS),,,85 - 90,5,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,500,2,6,3,9:48 PM,0:12,,,MISS Hyland 2' Driving Layup,,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,501,4,0,3,9:48 PM,0:10,Edwards REBOUND (Off:1 Def:8),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,502,2,79,3,9:48 PM,0:01,MISS Edwards 24' 3PT Pullup Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,503,4,0,3,9:48 PM,0:00,Garza REBOUND (Off:1 Def:4),,,,,4,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,505,18,0,3,9:49 PM,0:00,,Instant Replay3rd Period (9:49 PM EST),,85 - 90,5,0,0,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200557,504,13,0,3,9:49 PM,0:00,,End of 3rd Period (9:49 PM EST),,85 - 90,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200557,508,12,0,4,9:51 PM,12:00,,Start of 4th Period (9:51 PM EST),,85 - 90,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200557,509,1,86,4,9:52 PM,11:37,,,Murray 18' Turnaround Fadeaway (12 PTS),87 - 90,3,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,510,1,6,4,9:52 PM,11:19,Garza 1' Driving Layup (4 PTS),,,87 - 92,5,4,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,511,6,2,4,9:52 PM,11:19,,,Nnaji S.FOUL (P1.T1) (J.Van Duyne),,,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,4,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200557,513,3,10,4,9:52 PM,11:19,Garza Free Throw 1 of 1 (5 PTS),,,87 - 93,6,4,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,514,2,80,4,9:53 PM,11:00,,,MISS Murray 17' Step Back Jump Shot,,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,515,4,0,4,9:53 PM,10:57,Garza REBOUND (Off:1 Def:5),,,,,4,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,516,1,6,4,9:53 PM,10:44,Garza 1' Driving Layup (7 PTS) (Rivers 2 AST),,,87 - 95,8,4,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,4,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200557,518,1,47,4,9:53 PM,10:27,,,Hyland 12' Turnaround Jump Shot (12 PTS),89 - 95,6,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,519,1,79,4,9:54 PM,10:06,Nowell 14' Pullup Jump Shot (14 PTS),,,89 - 97,8,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,520,1,1,4,9:54 PM,9:54,,,Hyland 25' 3PT Jump Shot (15 PTS) (Murray 4 AST),92 - 97,5,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200557,522,2,6,4,9:54 PM,9:31,MISS Garza 4' Driving Layup,,,,,4,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,523,4,0,4,9:54 PM,9:29,,,Hyland REBOUND (Off:1 Def:4),,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,524,1,79,4,9:54 PM,9:25,,,Hyland 25' 3PT Pullup Jump Shot (18 PTS),95 - 97,2,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,525,1,99,4,9:55 PM,9:05,Ryan 2' Cutting Finger Roll Layup Shot (5 PTS) (Nowell 2 AST),,,95 - 99,4,4,1630346,Matt Ryan,1610612750.0,Minnesota,Timberwolves,MIN,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200557,527,6,4,4,9:55 PM,8:56,,,Nnaji OFF.Foul (P2) (J.Van Duyne),,,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,4,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200557,529,5,37,4,9:55 PM,8:56,,,Nnaji Offensive Foul Turnover (P2.T12),,,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022200557,530,8,0,4,9:55 PM,8:56,,,SUB: Gordon FOR Nnaji,,,5,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200557,532,6,2,4,9:56 PM,8:41,,,Cancar S.FOUL (P3.T2) (J.Van Duyne),,,5,1628427,Vlatko Čančar,1610612743.0,Denver,Nuggets,DEN,4,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200557,534,3,11,4,9:56 PM,8:41,Garza Free Throw 1 of 2 (8 PTS),,,95 - 100,5,4,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,535,3,12,4,9:56 PM,8:41,Garza Free Throw 2 of 2 (9 PTS),,,95 - 101,6,4,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0022200557,536,2,86,4,9:57 PM,8:18,,,MISS Murray 17' Turnaround Fadeaway Shot,,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,537,4,0,4,9:57 PM,8:15,Nowell REBOUND (Off:0 Def:4),,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,539,2,1,4,9:57 PM,8:00,MISS Nowell 25' 3PT Jump Shot,,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,540,4,0,4,9:57 PM,7:58,Knight REBOUND (Off:4 Def:2),,,,,4,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,541,6,2,4,9:57 PM,7:58,,,Gordon S.FOUL (P3.T3) (D.Mosher),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,4,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200557,543,3,11,4,9:58 PM,7:58,Knight Free Throw 1 of 2 (8 PTS),,,95 - 102,7,4,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,544,8,0,4,9:58 PM,7:58,,,SUB: Jokic FOR Brown,,,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200557,545,8,0,4,9:58 PM,7:58,,,SUB: Porter Jr. FOR Cancar,,,5,1628427,Vlatko Čančar,1610612743.0,Denver,Nuggets,DEN,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200557,548,3,12,4,9:58 PM,7:58,MISS Knight Free Throw 2 of 2,,,,,4,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,549,4,0,4,9:58 PM,7:55,,,Hyland REBOUND (Off:1 Def:5),,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,550,2,80,4,9:58 PM,7:47,,,MISS Hyland 25' 3PT Step Back Jump Shot,,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,551,4,0,4,9:58 PM,7:44,Knight REBOUND (Off:4 Def:3),,,,,4,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,552,1,1,4,9:59 PM,7:30,Nowell 25' 3PT Jump Shot (17 PTS) (Rivers 3 AST),,,95 - 105,10,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,4,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200557,554,9,1,4,9:59 PM,7:28,,,Nuggets Timeout: Regular (Reg.4 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200557,555,8,0,4,10:01 PM,7:28,,,SUB: Caldwell-Pope FOR Murray,,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200557,557,2,6,4,10:02 PM,7:14,,,MISS Caldwell-Pope 5' Driving Layup,,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,558,4,0,4,10:02 PM,7:12,,,Gordon REBOUND (Off:9 Def:3),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,559,2,1,4,10:02 PM,7:10,,,MISS Jokic 25' 3PT Jump Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,560,4,0,4,10:02 PM,7:08,Knight REBOUND (Off:4 Def:4),,,,,4,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,561,2,1,4,10:02 PM,6:54,MISS Garza 3PT Jump Shot,,,,,4,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,562,4,0,4,10:02 PM,6:52,,,Gordon REBOUND (Off:9 Def:4),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,563,1,50,4,10:02 PM,6:48,,,Jokic 2' Running Dunk (19 PTS) (Gordon 5 AST),97 - 105,8,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200557,565,9,1,4,10:02 PM,6:48,TIMBERWOLVES Timeout: Regular (Full 4 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200557,566,8,0,4,10:05 PM,6:48,SUB: Edwards FOR Nowell,,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200557,567,8,0,4,10:05 PM,6:48,SUB: McDaniels FOR Knight,,,,,4,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200557,568,8,0,4,10:05 PM,6:48,SUB: Anderson FOR Ryan,,,,,4,1630346,Matt Ryan,1610612750.0,Minnesota,Timberwolves,MIN,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200557,569,8,0,4,10:05 PM,6:48,SUB: Gobert FOR Garza,,,,,4,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200557,574,2,79,4,10:05 PM,6:36,MISS Edwards 22' Pullup Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,575,4,0,4,10:05 PM,6:32,,,Jokic REBOUND (Off:1 Def:6),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,576,1,1,4,10:06 PM,6:15,,,Jokic 26' 3PT Jump Shot (22 PTS),100 - 105,5,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,577,2,1,4,10:06 PM,5:55,MISS Rivers 25' 3PT Jump Shot,,,,,4,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,578,4,0,4,10:06 PM,5:52,,,Caldwell-Pope REBOUND (Off:1 Def:3),,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,579,1,1,4,10:06 PM,5:44,,,Porter Jr. 25' 3PT Jump Shot (18 PTS) (Jokic 8 AST),103 - 105,2,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200557,581,1,98,4,10:07 PM,5:24,McDaniels 2' Cutting Layup Shot (17 PTS) (Rivers 4 AST),,,103 - 107,4,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200557,583,6,2,4,10:07 PM,5:16,Edwards S.FOUL (P4.T1) (D.Mosher),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200557,585,3,11,4,10:07 PM,5:16,,,MISS Gordon Free Throw 1 of 2,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,586,4,1,4,10:07 PM,5:16,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200557,587,3,12,4,10:07 PM,5:16,,,MISS Gordon Free Throw 2 of 2,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,588,4,0,4,10:07 PM,5:14,Gobert REBOUND (Off:2 Def:1),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,589,1,80,4,10:08 PM,4:53,Edwards 19' Step Back Jump Shot (25 PTS),,,103 - 109,6,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,590,2,6,4,10:08 PM,4:31,,,MISS Gordon 2' Driving Layup,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,592,4,0,4,10:08 PM,4:24,,,Gordon REBOUND (Off:10 Def:4),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,593,1,97,4,10:08 PM,4:24,,,Gordon Tip Layup Shot (12 PTS),105 - 109,4,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,594,1,1,4,10:09 PM,4:10,Anderson 3PT Jump Shot (19 PTS) (Rivers 5 AST),,,105 - 112,7,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,4,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200557,596,9,1,4,10:09 PM,4:10,,,Nuggets Timeout: Regular (Reg.5 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200557,597,8,0,4,10:10 PM,4:10,,,SUB: Murray FOR Hyland,,,5,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200557,599,5,2,4,10:10 PM,3:52,Edwards STEAL (1 STL),,Jokic Lost Ball Turnover (P5.T13),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200557,601,2,80,4,10:11 PM,3:36,MISS Edwards 25' 3PT Step Back Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,602,4,0,4,10:11 PM,3:34,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200557,603,6,3,4,10:11 PM,3:34,Gobert L.B.FOUL (P4.T2) (S.Foster),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200557,605,2,5,4,10:11 PM,3:23,,,MISS Gordon 2' Layup,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,607,4,0,4,10:11 PM,3:21,,,Gordon REBOUND (Off:11 Def:4),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,608,5,2,4,10:11 PM,3:21,Rivers STEAL (1 STL),,Porter Jr. Lost Ball Turnover (P2.T14),,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200557,610,9,1,4,10:12 PM,3:21,TIMBERWOLVES Timeout: Regular (Full 5 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200557,611,1,75,4,10:13 PM,3:04,Edwards 1' Driving Finger Roll Layup (27 PTS) (Anderson 7 AST),,,105 - 114,9,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200557,613,2,1,4,10:13 PM,2:42,,,MISS Caldwell-Pope 15' Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,614,4,0,4,10:13 PM,2:41,Edwards REBOUND (Off:1 Def:9),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,615,2,6,4,10:14 PM,2:27,MISS Anderson 2' Driving Layup,,,,,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,616,4,0,4,10:14 PM,2:26,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200557,618,6,2,4,10:14 PM,2:25,,,Caldwell-Pope S.FOUL (P4.T4) (S.Foster),,,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200557,620,3,11,4,10:15 PM,2:25,MISS McDaniels Free Throw 1 of 2,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,621,4,1,4,10:15 PM,2:25,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200557,622,3,12,4,10:15 PM,2:25,McDaniels Free Throw 2 of 2 (18 PTS),,,105 - 115,10,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0022200557,623,2,1,4,10:15 PM,2:15,,,MISS Gordon 3PT Jump Shot,,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,624,4,0,4,10:15 PM,2:12,,,Gordon REBOUND (Off:12 Def:4),,,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,625,1,58,4,10:15 PM,2:10,,,Jokic 6' Turnaround Hook Shot (24 PTS) (Gordon 6 AST),107 - 115,8,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,5,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200557,627,7,2,4,10:15 PM,2:10,Gobert Violation:Defensive Goaltending (J.Van Duyne),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022200557,628,2,79,4,10:16 PM,1:47,MISS Edwards 25' 3PT Pullup Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,629,4,0,4,10:16 PM,1:45,McDaniels REBOUND (Off:2 Def:2),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,630,1,1,4,10:16 PM,1:44,Rivers 3PT Jump Shot (8 PTS) (McDaniels 4 AST),,,107 - 118,11,4,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200557,632,9,1,4,10:16 PM,1:43,,,Nuggets Timeout: Regular (Reg.6 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200557,633,1,101,4,10:18 PM,1:39,,,Murray 12' Driving Floating Jump Shot (14 PTS) (Jokic 9 AST),109 - 118,9,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0022200557,635,1,1,4,10:18 PM,1:19,McDaniels 3PT Jump Shot (21 PTS) (Anderson 8 AST),,,109 - 121,12,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200557,637,6,1,4,10:18 PM,1:04,Gobert P.FOUL (P5.T3) (S.Foster),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200557,639,6,1,4,10:19 PM,1:03,Edwards P.FOUL (P5.PN) (S.Foster),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0022200557,641,3,11,4,10:19 PM,1:03,,,Caldwell-Pope Free Throw 1 of 2 (9 PTS),110 - 121,11,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,642,8,0,4,10:20 PM,1:03,,,SUB: Brown FOR Porter Jr.,,,5,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0022200557,644,3,12,4,10:20 PM,1:03,,,Caldwell-Pope Free Throw 2 of 2 (10 PTS),111 - 121,10,5,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,645,6,3,4,10:20 PM,1:03,,,Jokic L.B.FOUL (P4.PN) (S.Foster),,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200557,647,3,11,4,10:21 PM,1:03,MISS Gobert Free Throw 1 of 2,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,648,4,1,4,10:21 PM,1:03,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200557,649,3,12,4,10:21 PM,1:03,Gobert Free Throw 2 of 2 (8 PTS),,,111 - 122,11,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,650,5,39,4,10:21 PM,0:58,,,Murray Step Out of Bounds Turnover (P2.T15),,,5,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0022200557,651,1,75,4,10:22 PM,0:34,Edwards 1' Driving Finger Roll Layup (29 PTS),,,111 - 124,13,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,652,2,1,4,10:22 PM,0:28,,,MISS Jokic 25' 3PT Jump Shot,,,5,203999,Nikola Jokić,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0022200557,653,4,0,4,10:22 PM,0:24,Gobert REBOUND (Off:2 Def:2),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200557,654,5,11,4,10:23 PM,0:02,TIMBERWOLVES Turnover: Shot Clock (T#12),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200557,655,13,0,4,10:23 PM,0:00,,End of 4th Period (10:23 PM EST),,111 - 124,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

@@ -1,0 +1,524 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200082,2,12,0,1,7:11 PM,12:00,,Start of 1st Period (7:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200082,4,10,0,1,7:11 PM,12:00,Jump Ball Plumlee vs. Looney: Tip to Smith Jr.,,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,1
+0022200082,7,1,79,1,7:11 PM,11:45,Hayward 18' Pullup Jump Shot (2 PTS) (Plumlee 1 AST),,,0 - 2,2,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200082,9,1,1,1,7:11 PM,11:29,,,Looney 21' Jump Shot (2 PTS) (Thompson 1 AST),2 - 2,TIE,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200082,11,1,1,1,7:12 PM,11:13,Hayward 20' Jump Shot (4 PTS) (Plumlee 2 AST),,,2 - 4,2,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200082,13,2,1,1,7:12 PM,11:05,,,MISS Wiggins 27' 3PT Jump Shot,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,14,4,0,1,7:12 PM,11:02,Plumlee REBOUND (Off:0 Def:1),,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,15,1,1,1,7:12 PM,10:49,Oubre Jr. 27' 3PT Jump Shot (3 PTS) (Hayward 1 AST),,,2 - 7,5,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200082,17,2,1,1,7:12 PM,10:35,,,MISS Curry 25' 3PT Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,18,4,0,1,7:12 PM,10:32,,,Wiggins REBOUND (Off:1 Def:0),,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,19,1,1,1,7:12 PM,10:30,,,Wiggins 25' 3PT Jump Shot (3 PTS) (Thompson 2 AST),5 - 7,2,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200082,21,1,79,1,7:13 PM,10:14,Washington 26' 3PT Pullup Jump Shot (3 PTS) (Smith Jr. 1 AST),,,5 - 10,5,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200082,23,1,5,1,7:13 PM,9:56,,,Looney 2' Layup (4 PTS) (Wiggins 1 AST),7 - 10,3,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200082,25,1,79,1,7:13 PM,9:45,Hayward 18' Pullup Jump Shot (6 PTS) (Washington 1 AST),,,7 - 12,5,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200082,26,2,66,1,7:13 PM,9:26,,,MISS Wiggins 11' Jump Bank Shot,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,27,4,0,1,7:13 PM,9:24,Plumlee REBOUND (Off:0 Def:2),,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,28,1,44,1,7:14 PM,9:19,Washington 2' Reverse Layup (5 PTS) (Plumlee 3 AST),,,7 - 14,7,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200082,30,9,1,1,7:14 PM,9:19,,,Warriors Timeout: Regular (Reg.1 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200082,32,2,3,1,7:17 PM,9:03,,,MISS Looney 8' Hook Shot,,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,34,4,0,1,7:17 PM,9:00,Oubre Jr. REBOUND (Off:0 Def:1),,,,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,35,2,1,1,7:17 PM,8:56,MISS Oubre Jr. 12' Jump Shot,,,,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,36,4,0,1,7:17 PM,8:51,Plumlee REBOUND (Off:1 Def:2),,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,37,2,97,1,7:17 PM,8:51,MISS Plumlee Tip Layup Shot,,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,38,4,0,1,7:17 PM,8:50,,,Thompson REBOUND (Off:0 Def:1),,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,39,2,79,1,7:17 PM,8:32,,,MISS Curry 30' 3PT Pullup Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,40,4,0,1,7:17 PM,8:28,Oubre Jr. REBOUND (Off:0 Def:2),,,,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,41,2,63,1,7:18 PM,8:15,MISS Hayward 9' Fadeaway Jumper,,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,42,4,0,1,7:18 PM,8:13,,,D. Green REBOUND (Off:0 Def:1),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,43,2,43,1,7:18 PM,8:09,,,MISS Wiggins 2' Alley Oop Layup,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,44,4,0,1,7:18 PM,8:09,Washington REBOUND (Off:0 Def:1),,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,45,2,79,1,7:18 PM,8:00,MISS Washington 21' Pullup Jump Shot,,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,46,4,0,1,7:18 PM,7:58,,,Curry REBOUND (Off:0 Def:1),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,47,1,71,1,7:18 PM,7:54,,,Curry 2' Finger Roll Layup (2 PTS),9 - 14,5,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,48,2,1,1,7:18 PM,7:34,MISS Hayward 25' 3PT Jump Shot,,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,49,4,0,1,7:18 PM,7:32,,,D. Green REBOUND (Off:0 Def:2),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,50,1,63,1,7:18 PM,7:21,,,Thompson 15' Fadeaway Jumper (2 PTS) (Looney 1 AST),11 - 14,3,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200082,51,2,1,1,7:19 PM,7:01,MISS Washington 26' 3PT Jump Shot,,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,52,4,0,1,7:19 PM,6:58,Plumlee REBOUND (Off:2 Def:2),,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,53,1,7,1,7:19 PM,6:55,Washington 1' Dunk (7 PTS) (Smith Jr. 2 AST),,,11 - 16,5,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200082,55,1,1,1,7:19 PM,6:43,,,Curry 23' Jump Shot (4 PTS) (D. Green 1 AST),13 - 16,3,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200082,57,2,1,1,7:19 PM,6:24,MISS Hayward 19' Jump Shot,,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,58,4,0,1,7:19 PM,6:24,HORNETS Rebound,,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200082,60,1,98,1,7:20 PM,6:13,Washington 2' Cutting Layup Shot (9 PTS) (Oubre Jr. 1 AST),,,13 - 18,5,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200082,62,2,6,1,7:20 PM,6:00,,,MISS D. Green 4' Driving Layup,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,63,4,0,1,7:20 PM,5:57,Hayward REBOUND (Off:0 Def:1),,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,64,2,79,1,7:20 PM,5:49,MISS Smith Jr. 13' Pullup Jump Shot,,,,,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,65,4,0,1,7:20 PM,5:47,,,D. Green REBOUND (Off:0 Def:3),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,196,2,1,1,7:21 PM,5:41,Hayward BLOCK (1 BLK),,MISS Thompson 26' 3PT Jump Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0
+0022200082,198,4,0,1,7:21 PM,5:41,HORNETS Rebound,,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200082,68,18,5,1,7:21 PM,5:41,,Instant Replay1st Period (7:21 PM EST),,13 - 18,5,0,66,Marques Bragg,,,,,0,0,,,,,,0,0,,,,,,0
+0022200082,69,9,1,1,7:21 PM,5:41,HORNETS Timeout: Regular (Full 1 Short 0),,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200082,70,8,0,1,7:22 PM,5:41,SUB: Bouknight FOR Washington,,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200082,71,8,0,1,7:22 PM,5:41,SUB: McDaniels FOR Oubre Jr.,,,,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200082,72,8,0,1,7:22 PM,5:41,,,SUB: Wiseman FOR Thompson,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200082,73,8,0,1,7:22 PM,5:41,,,SUB: Poole FOR Looney,,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200082,78,1,1,1,7:24 PM,5:31,Hayward 10' Jump Shot (8 PTS) (Plumlee 4 AST),,,13 - 20,7,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200082,80,6,1,1,7:24 PM,5:15,Bouknight P.FOUL (P1.T1) (S.Wall),,,,,4,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200082,82,1,6,1,7:25 PM,5:05,,,Curry 1' Driving Layup (6 PTS),15 - 20,5,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,83,2,1,1,7:25 PM,4:54,MISS Bouknight 31' 3PT Jump Shot,,,,,4,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,84,4,0,1,7:25 PM,4:51,,,Curry REBOUND (Off:0 Def:2),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,85,2,80,1,7:25 PM,4:41,,,MISS Poole 27' 3PT Step Back Jump Shot,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,86,4,0,1,7:25 PM,4:37,Plumlee REBOUND (Off:2 Def:3),,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,87,1,1,1,7:25 PM,4:25,McDaniels 25' 3PT Jump Shot (3 PTS) (Plumlee 5 AST),,,15 - 23,8,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200082,89,2,1,1,7:25 PM,4:10,,,MISS Wiseman 12' Jump Shot,,,5,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,90,4,0,1,7:25 PM,4:06,McDaniels REBOUND (Off:0 Def:1),,,,,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,91,6,1,1,7:26 PM,4:00,,,Wiseman P.FOUL (P1.T1) (R.Mott),,,5,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200082,93,8,0,1,7:26 PM,4:00,SUB: Maledon FOR Smith Jr.,,,,,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,4,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200082,94,8,0,1,7:26 PM,4:00,SUB: Richards FOR Plumlee,,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200082,95,8,0,1,7:26 PM,4:00,,,SUB: Moody FOR Wiggins,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200082,96,8,0,1,7:26 PM,4:00,,,SUB: J. Green FOR D. Green,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200082,101,2,1,1,7:26 PM,3:45,MISS Bouknight 26' 3PT Jump Shot,,,,,4,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,102,4,0,1,7:26 PM,3:42,,,Curry REBOUND (Off:0 Def:3),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,103,1,6,1,7:27 PM,3:25,,,Curry 5' Driving Layup (8 PTS),17 - 23,6,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,104,6,1,1,7:27 PM,3:21,,,Poole P.FOUL (P1.T2) (R.Mott),,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200082,106,8,0,1,7:27 PM,3:21,SUB: Washington FOR Hayward,,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200082,108,2,98,1,7:27 PM,3:12,MISS Richards 5' Cutting Layup Shot,,,,,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,109,4,0,1,7:27 PM,3:12,Richards REBOUND (Off:1 Def:0),,,,,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,110,2,97,1,7:27 PM,3:11,MISS Richards Tip Layup Shot,,,,,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,111,4,0,1,7:27 PM,3:11,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200082,113,2,79,1,7:28 PM,3:02,,,MISS Curry 25' 3PT Pullup Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,114,4,0,1,7:28 PM,2:56,Richards REBOUND (Off:1 Def:1),,,,,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,115,1,1,1,7:28 PM,2:48,Maledon 29' 3PT Jump Shot (3 PTS) (Bouknight 1 AST),,,17 - 26,9,4,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,4,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200082,118,8,0,1,7:28 PM,2:28,,,SUB: Jerome FOR Curry,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,1629660,Ty Jerome,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200082,120,1,5,1,7:29 PM,2:21,,,Jerome 6' Layup (2 PTS),19 - 26,7,5,1629660,Ty Jerome,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,121,2,79,1,7:29 PM,2:08,MISS Maledon 11' Pullup Jump Shot,,,,,4,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,122,4,0,1,7:29 PM,2:07,Richards REBOUND (Off:2 Def:1),,,,,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,123,1,72,1,7:29 PM,2:07,Richards Putback Layup (2 PTS),,,19 - 28,9,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,124,6,2,1,7:29 PM,2:07,,,Wiseman S.FOUL (P2.T3) (S.Wall),,,5,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200082,126,3,10,1,7:29 PM,2:07,Richards Free Throw 1 of 1 (3 PTS),,,19 - 29,10,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,127,1,78,1,7:30 PM,1:49,,,Poole 12' Floating Jump Shot (2 PTS) (Wiseman 1 AST),21 - 29,8,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200082,128,5,40,1,7:30 PM,1:41,McDaniels Out of Bounds Lost Ball Turnover (P1.T1),,,,,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022200082,129,2,79,1,7:30 PM,1:30,,,MISS Moody 16' Pullup Jump Shot,,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,130,4,0,1,7:30 PM,1:26,McDaniels REBOUND (Off:0 Def:2),,,,,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,131,2,1,1,7:30 PM,1:22,MISS Washington 26' 3PT Jump Shot,,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,132,4,0,1,7:30 PM,1:20,,,Poole REBOUND (Off:0 Def:1),,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,133,2,1,1,7:31 PM,1:08,,,MISS Wiseman 14' Jump Shot,,,5,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,134,4,0,1,7:31 PM,1:04,,,J. Green REBOUND (Off:1 Def:0),,,5,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,135,2,72,1,7:31 PM,1:04,,,MISS J. Green 2' Putback Layup,,,5,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,136,4,0,1,7:31 PM,1:04,Washington REBOUND (Off:0 Def:2),,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,137,2,1,1,7:31 PM,0:59,MISS McDaniels 24' 3PT Jump Shot,,,,,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,138,4,0,1,7:31 PM,0:57,Richards REBOUND (Off:3 Def:1),,,,,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,139,6,2,1,7:31 PM,0:57,,,Wiseman S.FOUL (P3.T4) (D.Taylor),,,5,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200082,141,3,11,1,7:31 PM,0:57,Richards Free Throw 1 of 2 (4 PTS),,,21 - 30,9,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,142,8,0,1,7:31 PM,0:57,,,SUB: Kuminga FOR Wiseman,,,5,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200082,144,3,12,1,7:32 PM,0:57,Richards Free Throw 2 of 2 (5 PTS),,,21 - 31,10,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,145,1,80,1,7:32 PM,0:45,,,Poole 17' Step Back Jump Shot (4 PTS),23 - 31,8,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,146,1,6,1,7:32 PM,0:33,Washington 3' Driving Layup (11 PTS) (McDaniels 1 AST),,,23 - 33,10,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200082,148,6,2,1,7:32 PM,0:33,,,Kuminga S.FOUL (P1.PN) (S.Wall),,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200082,150,3,10,1,7:33 PM,0:33,Washington Free Throw 1 of 1 (12 PTS),,,23 - 34,11,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,152,6,4,1,7:33 PM,0:15,,,J. Green OFF.Foul (P1) (R.Mott),,,5,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200082,154,5,37,1,7:33 PM,0:15,,,J. Green Offensive Foul Turnover (P1.T1),,,5,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022200082,155,2,5,1,7:34 PM,0:03,MISS Maledon 3' Layup,,,,,4,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,156,4,0,1,7:34 PM,0:03,Richards REBOUND (Off:4 Def:1),,,,,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,157,2,97,1,7:34 PM,0:00,MISS Richards Tip Layup Shot,,,,,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,158,4,0,1,7:34 PM,0:00,,,Moody REBOUND (Off:0 Def:1),,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,159,2,79,1,7:34 PM,0:00,,,MISS Moody 34' 3PT Pullup Jump Shot,,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,160,4,0,1,7:34 PM,0:00,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200082,161,13,0,1,7:34 PM,0:00,,End of 1st Period (7:34 PM EST),,23 - 34,11,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200082,171,12,0,2,7:37 PM,12:00,,Start of 2nd Period (7:37 PM EST),,23 - 34,11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200082,172,6,1,2,7:37 PM,11:40,Washington P.FOUL (P1.T1) (R.Mott),,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200082,174,2,47,2,7:37 PM,11:29,,,MISS Jerome 10' Turnaround Jump Shot,,,5,1629660,Ty Jerome,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,175,4,0,2,7:37 PM,11:28,,,Looney REBOUND (Off:1 Def:0),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,176,6,2,2,7:37 PM,11:28,Richards S.FOUL (P1.T2) (D.Taylor),,,,,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200082,178,3,11,2,7:38 PM,11:28,,,Looney Free Throw 1 of 2 (5 PTS),24 - 34,10,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,179,3,12,2,7:38 PM,11:28,,,MISS Looney Free Throw 2 of 2,,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0022200082,180,4,0,2,7:38 PM,11:24,Washington REBOUND (Off:0 Def:3),,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0022200082,181,2,67,2,7:38 PM,11:11,MISS Richards 6' Hook Bank Shot,,,,,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,182,4,0,2,7:38 PM,11:08,,,Looney REBOUND (Off:1 Def:1),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,183,2,98,2,7:39 PM,10:56,Oubre Jr. BLOCK (1 BLK),,MISS Looney 2' Cutting Layup Shot,,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,1
+0022200082,185,4,0,2,7:39 PM,10:55,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200082,187,1,78,2,7:39 PM,10:47,,,Jerome 14' Floating Jump Shot (4 PTS) (Looney 2 AST),26 - 34,8,5,1629660,Ty Jerome,1610612744.0,Golden State,Warriors,GSW,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200082,188,1,79,2,7:39 PM,10:31,Oubre Jr. 13' Pullup Jump Shot (5 PTS),,,26 - 36,10,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,189,1,1,2,7:40 PM,10:13,,,Wiggins 25' 3PT Jump Shot (6 PTS) (Looney 3 AST),29 - 36,7,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200082,191,2,79,2,7:40 PM,9:58,MISS Maledon 26' 3PT Pullup Jump Shot,,,,,4,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,192,4,0,2,7:40 PM,9:55,,,Looney REBOUND (Off:1 Def:2),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,193,1,1,2,7:40 PM,9:48,,,Jerome 3PT Jump Shot (7 PTS) (Poole 1 AST),32 - 36,4,5,1629660,Ty Jerome,1610612744.0,Golden State,Warriors,GSW,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200082,195,9,1,2,7:40 PM,9:41,HORNETS Timeout: Regular (Full 2 Short 0),,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200082,200,8,0,2,7:40 PM,9:41,SUB: Thor FOR Washington,,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,1630550,JT Thor,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200082,202,1,79,2,7:43 PM,9:26,Oubre Jr. 10' Pullup Jump Shot (7 PTS),,,32 - 38,6,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,203,2,79,2,7:44 PM,9:07,,,MISS Poole 25' 3PT Pullup Jump Shot,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,204,4,0,2,7:44 PM,9:04,Thor REBOUND (Off:0 Def:1),,,,,4,1630550,JT Thor,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,205,5,2,2,7:44 PM,8:52,Maledon Lost Ball Turnover (P1.T2),,Jerome STEAL (1 STL),,,4,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,5,1629660,Ty Jerome,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200082,207,2,1,2,7:44 PM,8:38,,,MISS Wiggins 25' 3PT Jump Shot,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,208,4,0,2,7:44 PM,8:36,,,Looney REBOUND (Off:2 Def:2),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,209,1,1,2,7:44 PM,8:35,,,Poole 31' 3PT Jump Shot (7 PTS) (Jerome 1 AST),35 - 38,3,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1629660,Ty Jerome,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200082,211,1,80,2,7:44 PM,8:16,Oubre Jr. 26' 3PT Step Back Jump Shot (10 PTS) (Richards 1 AST),,,35 - 41,6,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200082,212,1,79,2,7:45 PM,8:05,,,Poole 18' Pullup Jump Shot (9 PTS),37 - 41,4,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,213,1,73,2,7:45 PM,7:48,McDaniels 4' Driving Reverse Layup (5 PTS) (Richards 2 AST),,,37 - 43,6,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200082,214,2,6,2,7:45 PM,7:33,,,MISS Wiggins 5' Driving Layup,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,215,4,0,2,7:45 PM,7:29,McDaniels REBOUND (Off:0 Def:3),,,,,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,751,5,2,2,7:45 PM,7:29,McDaniels Lost Ball Turnover (P2.T3),,J. Green STEAL (1 STL),,,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,5,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200082,216,2,1,2,7:45 PM,7:25,,,MISS Poole 30' 3PT Jump Shot,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,217,4,0,2,7:45 PM,7:22,Thor REBOUND (Off:0 Def:2),,,,,4,1630550,JT Thor,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,218,2,1,2,7:46 PM,7:07,MISS Oubre Jr. 30' 3PT Jump Shot,,,,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,219,4,0,2,7:46 PM,7:03,,,Looney REBOUND (Off:2 Def:3),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,220,1,1,2,7:46 PM,6:52,,,Poole 26' 3PT Jump Shot (12 PTS) (Wiggins 2 AST),40 - 43,3,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200082,222,2,78,2,7:46 PM,6:34,MISS McDaniels 5' Floating Jump Shot,,,,,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,223,4,0,2,7:46 PM,6:31,Oubre Jr. REBOUND (Off:1 Def:2),,,,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,224,2,87,2,7:46 PM,6:31,MISS Oubre Jr. Putback Dunk,,,,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,225,4,0,2,7:46 PM,6:30,,,Looney REBOUND (Off:2 Def:4),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,226,2,1,2,7:47 PM,6:11,,,MISS J. Green 26' 3PT Jump Shot,,,5,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,227,4,0,2,7:47 PM,6:06,McDaniels REBOUND (Off:0 Def:4),,,,,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,228,6,1,2,7:47 PM,6:05,,,Jerome P.FOUL (P1.T1) (S.Wall),,,5,1629660,Ty Jerome,1610612744.0,Golden State,Warriors,GSW,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200082,230,8,0,2,7:47 PM,6:05,SUB: Smith Jr. FOR Richards,,,,,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200082,231,8,0,2,7:47 PM,6:05,SUB: Hayward FOR McDaniels,,,,,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200082,232,8,0,2,7:47 PM,6:05,SUB: Plumlee FOR Maledon,,,,,4,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200082,233,8,0,2,7:47 PM,6:05,,,SUB: Thompson FOR J. Green,,,5,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200082,234,8,0,2,7:47 PM,6:05,,,SUB: Curry FOR Looney,,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200082,235,8,0,2,7:47 PM,6:05,,,SUB: D. Green FOR Jerome,,,5,1629660,Ty Jerome,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200082,242,1,108,2,7:48 PM,5:47,Plumlee 2' Cutting Dunk Shot (2 PTS) (Oubre Jr. 2 AST),,,40 - 45,5,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200082,244,2,1,2,7:48 PM,5:27,,,MISS Curry 28' 3PT Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,245,4,0,2,7:48 PM,5:25,Smith Jr. REBOUND (Off:0 Def:1),,,,,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,246,6,1,2,7:48 PM,5:25,,,Wiggins P.FOUL (P1.T2) (S.Wall),,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200082,248,2,79,2,7:48 PM,5:14,MISS Hayward 22' Pullup Jump Shot,,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,249,4,0,2,7:49 PM,5:09,Smith Jr. REBOUND (Off:1 Def:1),,,,,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,250,6,2,2,7:49 PM,5:05,,,Poole S.FOUL (P2.T3) (D.Taylor),,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,1630550,JT Thor,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200082,252,3,13,2,7:49 PM,5:05,Thor Free Throw 1 of 3 (1 PTS),,,40 - 46,6,4,1630550,JT Thor,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,253,3,14,2,7:49 PM,5:05,Thor Free Throw 2 of 3 (2 PTS),,,40 - 47,7,4,1630550,JT Thor,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,254,9,1,2,7:50 PM,5:05,,,Warriors Timeout: Regular (Reg.2 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200082,256,8,0,2,7:50 PM,5:05,,,SUB: Kuminga FOR Poole,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200082,257,8,0,2,7:50 PM,5:05,,,SUB: Jerome FOR Wiggins,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,1629660,Ty Jerome,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200082,260,3,15,2,7:53 PM,5:05,Thor Free Throw 3 of 3 (3 PTS),,,40 - 48,8,4,1630550,JT Thor,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,261,2,52,2,7:53 PM,4:40,,,MISS Kuminga 1' Alley Oop Dunk,,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,262,4,0,2,7:53 PM,4:34,,,Kuminga REBOUND (Off:1 Def:0),,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,263,2,1,2,7:53 PM,4:33,,,MISS Thompson 3PT Jump Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,264,4,0,2,7:53 PM,4:33,Thor REBOUND (Off:0 Def:3),,,,,4,1630550,JT Thor,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,265,2,101,2,7:53 PM,4:26,MISS Oubre Jr. 9' Driving Floating Jump Shot,,,,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,266,4,0,2,7:53 PM,4:25,Plumlee REBOUND (Off:3 Def:3),,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,267,1,97,2,7:53 PM,4:24,Plumlee Tip Layup Shot (4 PTS),,,40 - 50,10,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,268,2,1,2,7:53 PM,4:13,,,MISS D. Green 26' 3PT Jump Shot,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,269,4,0,2,7:53 PM,4:10,Plumlee REBOUND (Off:3 Def:4),,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,270,6,26,2,7:54 PM,4:00,Plumlee Offensive Charge Foul (P1) (S.Wall),,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200082,272,5,37,2,7:54 PM,4:00,Plumlee Offensive Foul Turnover (P1.T4),,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022200082,273,8,0,2,7:54 PM,4:00,SUB: Washington FOR Oubre Jr.,,,,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200082,274,8,0,2,7:54 PM,4:00,SUB: Bouknight FOR Thor,,,,,4,1630550,JT Thor,1610612766.0,Charlotte,Hornets,CHA,4,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200082,277,2,101,2,7:54 PM,3:37,,,MISS Jerome 4' Driving Floating Jump Shot,,,5,1629660,Ty Jerome,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,278,4,0,2,7:54 PM,3:35,Bouknight REBOUND (Off:0 Def:1),,,,,4,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,279,5,1,2,7:55 PM,3:19,Hayward Bad Pass Turnover (P1.T5),,Kuminga STEAL (1 STL),,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200082,281,6,2,2,7:55 PM,3:13,Smith Jr. S.FOUL (P1.T3) (D.Taylor),,,,,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200082,283,3,13,2,7:55 PM,3:13,,,Curry Free Throw 1 of 3 (9 PTS),41 - 50,9,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0022200082,284,3,14,2,7:56 PM,3:13,,,Curry Free Throw 2 of 3 (10 PTS),42 - 50,8,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0022200082,285,8,0,2,7:56 PM,3:13,,,SUB: Poole FOR Kuminga,,,5,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200082,286,8,0,2,7:56 PM,3:13,,,SUB: Wiggins FOR Jerome,,,5,1629660,Ty Jerome,1610612744.0,Golden State,Warriors,GSW,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200082,289,3,15,2,7:56 PM,3:13,,,Curry Free Throw 3 of 3 (11 PTS),43 - 50,7,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0022200082,290,1,6,2,7:56 PM,2:58,Hayward 2' Driving Layup (10 PTS),,,43 - 52,9,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,291,2,80,2,7:57 PM,2:41,,,MISS Poole 26' 3PT Step Back Jump Shot,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,292,4,0,2,7:57 PM,2:38,Smith Jr. REBOUND (Off:1 Def:2),,,,,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,293,1,98,2,7:57 PM,2:31,Hayward 1' Cutting Layup Shot (12 PTS) (Smith Jr. 3 AST),,,43 - 54,11,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200082,295,6,2,2,7:57 PM,2:31,,,D. Green S.FOUL (P1.T4) (D.Taylor),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200082,297,3,10,2,7:57 PM,2:31,Hayward Free Throw 1 of 1 (13 PTS),,,43 - 55,12,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,298,5,2,2,7:57 PM,2:17,Plumlee STEAL (1 STL),,D. Green Lost Ball Turnover (P1.T2),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200082,386,5,2,2,7:58 PM,2:15,Plumlee Lost Ball Turnover (P2.T6),,Poole STEAL (1 STL),,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200082,391,5,40,2,7:58 PM,2:15,,,Poole Out of Bounds Lost Ball Turnover (P1.T3),,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022200082,302,6,1,2,7:58 PM,2:08,,,Poole P.FOUL (P3.PN) (R.Mott),,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200082,304,3,11,2,7:59 PM,2:08,Hayward Free Throw 1 of 2 (14 PTS),,,43 - 56,13,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,305,8,0,2,7:59 PM,2:08,,,SUB: Looney FOR Poole,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200082,307,3,12,2,7:59 PM,2:08,Hayward Free Throw 2 of 2 (15 PTS),,,43 - 57,14,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,308,2,86,2,7:59 PM,1:50,,,MISS Thompson 10' Turnaround Fadeaway Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,309,4,0,2,7:59 PM,1:48,Plumlee REBOUND (Off:3 Def:5),,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,310,2,1,2,8:00 PM,1:43,MISS Bouknight 3PT Jump Shot,,,,,4,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,311,4,0,2,8:00 PM,1:40,Washington REBOUND (Off:1 Def:3),,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,312,2,1,2,8:00 PM,1:36,MISS Hayward 26' 3PT Jump Shot,,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,313,4,0,2,8:00 PM,1:33,,,D. Green REBOUND (Off:0 Def:4),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,314,1,63,2,8:00 PM,1:30,,,Thompson 14' Fadeaway Jumper (4 PTS) (D. Green 2 AST),45 - 57,12,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200082,316,6,11,2,8:00 PM,1:30,Oubre Jr. T.FOUL (P0.T3) (D.Taylor),,,,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022200082,317,3,16,2,8:00 PM,1:30,,,Curry Free Throw Technical (12 PTS),46 - 57,11,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,318,2,44,2,8:01 PM,1:14,MISS Smith Jr. 2' Reverse Layup,,Looney BLOCK (1 BLK),,,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,1
+0022200082,320,4,0,2,8:01 PM,1:10,,,Thompson REBOUND (Off:0 Def:2),,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,321,1,108,2,8:01 PM,1:06,,,Looney 1' Cutting Dunk Shot (7 PTS) (Thompson 3 AST),48 - 57,9,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200082,323,2,79,2,8:01 PM,0:52,MISS Bouknight 29' 3PT Pullup Jump Shot,,,,,4,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,324,4,0,2,8:01 PM,0:49,,,D. Green REBOUND (Off:0 Def:5),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,325,6,4,2,8:01 PM,0:47,,,Curry OFF.Foul (P1) (S.Wall),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200082,327,5,37,2,8:01 PM,0:47,,,Curry Offensive Foul Turnover (P1.T4),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022200082,328,2,67,2,8:02 PM,0:31,MISS Plumlee 4' Hook Bank Shot,,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,329,4,0,2,8:02 PM,0:29,Plumlee REBOUND (Off:4 Def:5),,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,330,1,98,2,8:02 PM,0:28,Washington 4' Cutting Layup Shot (14 PTS) (Plumlee 6 AST),,,48 - 59,11,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200082,332,6,2,2,8:02 PM,0:28,,,Curry S.FOUL (P2.PN) (S.Wall),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200082,334,3,10,2,8:02 PM,0:28,Washington Free Throw 1 of 1 (15 PTS),,,48 - 60,12,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,337,6,2,2,8:03 PM,0:08,Plumlee S.FOUL (P2.T4) (S.Wall),,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200082,339,3,11,2,8:03 PM,0:08,,,Looney Free Throw 1 of 2 (8 PTS),49 - 60,11,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,340,8,0,2,8:03 PM,0:08,,,SUB: Moody FOR Curry,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200082,342,3,12,2,8:04 PM,0:08,,,Looney Free Throw 2 of 2 (9 PTS),50 - 60,10,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0022200082,343,6,2,2,8:04 PM,0:00,,,Looney S.FOUL (P1.PN) (D.Taylor),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200082,345,3,11,2,8:04 PM,0:00,Smith Jr. Free Throw 1 of 2 (1 PTS),,,50 - 61,11,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,346,3,12,2,8:04 PM,0:00,Smith Jr. Free Throw 2 of 2 (2 PTS),,,50 - 62,12,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,347,13,0,2,8:04 PM,0:00,,End of 2nd Period (8:04 PM EST),,50 - 62,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200082,352,12,0,3,8:20 PM,12:00,,Start of 3rd Period (8:20 PM EST),,50 - 62,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200082,353,2,101,3,8:20 PM,11:45,,,MISS Thompson 10' Driving Floating Jump Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,354,4,0,3,8:20 PM,11:42,Smith Jr. REBOUND (Off:1 Def:3),,,,,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,355,2,80,3,8:20 PM,11:32,MISS Washington 25' 3PT Step Back Jump Shot,,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,356,4,0,3,8:20 PM,11:29,,,Thompson REBOUND (Off:0 Def:3),,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,357,2,1,3,8:21 PM,11:18,,,MISS Thompson 27' 3PT Jump Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,358,4,0,3,8:21 PM,11:12,Oubre Jr. REBOUND (Off:1 Def:3),,,,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,359,6,2,3,8:21 PM,10:56,,,Wiggins S.FOUL (P2.T1) (D.Taylor),,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200082,361,3,11,3,8:21 PM,10:56,MISS Hayward Free Throw 1 of 2,,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,362,4,1,3,8:21 PM,10:56,HORNETS Rebound,,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200082,363,3,12,3,8:22 PM,10:56,Hayward Free Throw 2 of 2 (16 PTS),,,50 - 63,13,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,364,6,1,3,8:22 PM,10:45,Plumlee P.FOUL (P3.T1) (S.Wall),,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200082,366,2,1,3,8:22 PM,10:40,,,MISS Thompson 26' 3PT Jump Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,367,4,0,3,8:22 PM,10:37,,,Looney REBOUND (Off:3 Def:4),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,368,2,1,3,8:22 PM,10:33,,,MISS Curry 28' 3PT Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,369,4,0,3,8:22 PM,10:31,HORNETS Rebound,,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200082,371,2,1,3,8:23 PM,10:20,MISS Oubre Jr. 25' 3PT Jump Shot,,,,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,372,4,0,3,8:23 PM,10:16,,,Curry REBOUND (Off:0 Def:4),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,373,5,6,3,8:23 PM,10:16,,,Curry Double Dribble Turnover (P2.T5),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022200082,374,2,101,3,8:23 PM,9:58,MISS Smith Jr. 8' Driving Floating Jump Shot,,,,,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,375,4,0,3,8:23 PM,9:55,,,Wiggins REBOUND (Off:1 Def:1),,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,376,2,79,3,8:24 PM,9:37,,,MISS Wiggins 16' Pullup Jump Shot,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,377,4,0,3,8:24 PM,9:35,Washington REBOUND (Off:1 Def:4),,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,378,2,1,3,8:24 PM,9:29,MISS Oubre Jr. 8' Jump Shot,,,,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,379,4,0,3,8:24 PM,9:28,,,Curry REBOUND (Off:0 Def:5),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,380,6,1,3,8:24 PM,9:28,Plumlee P.FOUL (P4.T2) (D.Taylor),,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200082,382,2,58,3,8:24 PM,9:13,,,MISS Wiggins 7' Turnaround Hook Shot,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,383,4,0,3,8:24 PM,9:09,Washington REBOUND (Off:1 Def:5),,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,384,1,41,3,8:24 PM,9:03,Washington 7' Running Layup (17 PTS),,,50 - 65,15,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,385,9,1,3,8:25 PM,8:56,,,Warriors Timeout: Regular (Reg.3 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200082,389,8,0,3,8:25 PM,8:56,,,SUB: Poole FOR Looney,,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200082,392,1,6,3,8:28 PM,8:50,,,D. Green 1' Driving Layup (2 PTS),52 - 65,13,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,393,1,79,3,8:28 PM,8:37,Hayward 17' Pullup Jump Shot (18 PTS) (Plumlee 7 AST),,,52 - 67,15,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200082,395,1,98,3,8:28 PM,8:24,,,Wiggins 1' Cutting Layup Shot (8 PTS) (Poole 2 AST),54 - 67,13,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200082,397,2,79,3,8:28 PM,8:11,MISS Oubre Jr. 19' Pullup Jump Shot,,,,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,398,4,0,3,8:29 PM,8:07,Smith Jr. REBOUND (Off:2 Def:3),,,,,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,399,2,5,3,8:29 PM,8:02,MISS Smith Jr. 5' Layup,,D. Green BLOCK (1 BLK),,,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1
+0022200082,400,4,0,3,8:29 PM,8:00,,,Curry REBOUND (Off:0 Def:6),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,401,5,4,3,8:29 PM,7:53,,,Poole Traveling Turnover (P2.T6),,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022200082,402,6,1,3,8:29 PM,7:41,,,D. Green P.FOUL (P2.T2) (R.Mott),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200082,404,5,1,3,8:30 PM,7:28,Smith Jr. Bad Pass Turnover (P1.T7),,Curry STEAL (1 STL),,,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200082,407,1,1,3,8:30 PM,7:24,,,Thompson 27' 3PT Jump Shot (7 PTS) (Curry 1 AST),57 - 67,10,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200082,409,2,79,3,8:30 PM,7:06,MISS Washington 25' 3PT Pullup Jump Shot,,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,410,4,0,3,8:30 PM,7:03,,,Curry REBOUND (Off:0 Def:7),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,411,2,1,3,8:31 PM,6:57,,,MISS Wiggins 24' 3PT Jump Shot,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,412,4,0,3,8:31 PM,6:54,,,D. Green REBOUND (Off:1 Def:5),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,413,1,79,3,8:31 PM,6:53,,,Curry 28' 3PT Pullup Jump Shot (15 PTS) (D. Green 3 AST),60 - 67,7,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200082,415,9,1,3,8:31 PM,6:53,HORNETS Timeout: Regular (Full 3 Short 0),,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200082,416,2,1,3,8:34 PM,6:33,MISS Washington 3PT Jump Shot,,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,417,4,0,3,8:34 PM,6:30,,,Thompson REBOUND (Off:0 Def:4),,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,418,1,73,3,8:34 PM,6:19,,,Poole 1' Driving Reverse Layup (14 PTS) (Curry 2 AST),62 - 67,5,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200082,420,1,6,3,8:34 PM,5:58,Oubre Jr. 1' Driving Layup (12 PTS),,,62 - 69,7,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,421,1,79,3,8:35 PM,5:47,,,Thompson 18' Pullup Jump Shot (9 PTS) (D. Green 4 AST),64 - 69,5,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200082,422,1,1,3,8:35 PM,5:25,Smith Jr. 25' 3PT Jump Shot (5 PTS) (Hayward 2 AST),,,64 - 72,8,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200082,424,2,78,3,8:35 PM,5:10,,,MISS Curry 13' Floating Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,425,4,0,3,8:35 PM,5:06,Smith Jr. REBOUND (Off:2 Def:4),,,,,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,426,2,5,3,8:35 PM,5:03,MISS Smith Jr. 4' Layup,,D. Green BLOCK (2 BLK),,,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1
+0022200082,428,4,0,3,8:35 PM,5:03,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200082,431,8,0,3,8:36 PM,5:03,SUB: Bouknight FOR Oubre Jr.,,,,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,4,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200082,432,8,0,3,8:36 PM,5:03,SUB: McDaniels FOR Washington,,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200082,433,8,0,3,8:36 PM,5:03,,,SUB: Moody FOR Thompson,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200082,437,1,1,3,8:36 PM,4:48,,,Curry 26' 3PT Jump Shot (18 PTS) (Wiggins 3 AST),67 - 72,5,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200082,439,1,79,3,8:37 PM,4:31,Hayward 27' 3PT Pullup Jump Shot (21 PTS),,,67 - 75,8,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,440,1,98,3,8:37 PM,4:18,,,D. Green 2' Cutting Layup Shot (4 PTS) (Poole 3 AST),69 - 75,6,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200082,442,2,1,3,8:37 PM,4:09,MISS McDaniels 26' 3PT Jump Shot,,,,,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,443,4,0,3,8:37 PM,4:05,,,Moody REBOUND (Off:0 Def:2),,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,444,1,98,3,8:37 PM,4:02,,,Curry 2' Cutting Layup Shot (20 PTS) (D. Green 5 AST),71 - 75,4,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200082,446,6,2,3,8:37 PM,4:02,Smith Jr. S.FOUL (P2.T3) (S.Wall),,,,,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200082,448,8,0,3,8:37 PM,4:02,SUB: Richards FOR Plumlee,,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200082,450,3,10,3,8:38 PM,4:02,,,Curry Free Throw 1 of 1 (21 PTS),72 - 75,3,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,451,6,1,3,8:38 PM,3:48,,,Moody P.FOUL (P1.T3) (R.Mott),,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200082,453,1,1,3,8:39 PM,3:36,Smith Jr. 26' 3PT Jump Shot (8 PTS) (Hayward 3 AST),,,72 - 78,6,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200082,455,1,73,3,8:39 PM,3:21,,,Curry 2' Driving Reverse Layup (23 PTS),74 - 78,4,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,456,6,1,3,8:39 PM,3:15,,,Curry P.FOUL (P3.T4) (S.Wall),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200082,458,8,0,3,8:39 PM,3:15,SUB: Washington FOR Hayward,,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200082,459,8,0,3,8:39 PM,3:15,,,SUB: Looney FOR D. Green,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200082,545,5,2,3,8:40 PM,3:06,Richards Lost Ball Turnover (P1.T8),,Wiggins STEAL (1 STL),,,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200082,465,6,11,3,8:40 PM,3:06,Richards T.FOUL (P1.T3) (R.Mott),,,,,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022200082,466,3,16,3,8:40 PM,3:06,,,Curry Free Throw Technical (24 PTS),75 - 78,3,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0022200082,467,2,78,3,8:41 PM,2:57,,,MISS Poole 18' Floating Jump Shot,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,468,4,0,3,8:41 PM,2:52,Richards REBOUND (Off:4 Def:2),,,,,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,469,5,2,3,8:41 PM,2:49,Smith Jr. Lost Ball Turnover (P2.T9),,Poole STEAL (2 STL),,,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200082,471,1,41,3,8:41 PM,2:44,,,Poole 1' Running Layup (16 PTS),77 - 78,1,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,472,2,6,3,8:41 PM,2:26,MISS Bouknight 8' Driving Layup,,Poole BLOCK (1 BLK),,,4,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,1
+0022200082,474,4,0,3,8:41 PM,2:26,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200082,476,8,0,3,8:41 PM,2:26,,,SUB: J. Green FOR Wiggins,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200082,478,2,1,3,8:42 PM,2:14,,,MISS Curry 26' 3PT Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,479,4,0,3,8:42 PM,2:10,,,Looney REBOUND (Off:4 Def:4),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,480,1,1,3,8:42 PM,2:09,,,Poole 25' 3PT Jump Shot (19 PTS) (Looney 4 AST),80 - 78,-2,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200082,482,1,52,3,8:42 PM,1:50,Richards 2' Alley Oop Dunk (7 PTS) (Smith Jr. 4 AST),,,80 - 80,TIE,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200082,484,2,1,3,8:42 PM,1:38,,,MISS Moody 3PT Jump Shot,,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,485,4,0,3,8:42 PM,1:37,HORNETS Rebound,,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200082,487,8,0,3,8:42 PM,1:37,SUB: Maledon FOR Smith Jr.,,,,,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,4,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200082,488,8,0,3,8:42 PM,1:37,,,SUB: Jerome FOR Curry,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,1629660,Ty Jerome,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200082,491,2,80,3,8:43 PM,1:20,MISS Washington 19' Step Back Jump Shot,,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,492,4,0,3,8:43 PM,1:16,,,Moody REBOUND (Off:0 Def:3),,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,493,2,79,3,8:43 PM,1:06,,,MISS Poole 19' Pullup Jump Shot,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,494,4,0,3,8:43 PM,1:04,Richards REBOUND (Off:4 Def:3),,,,,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,495,2,6,3,8:43 PM,0:50,MISS McDaniels 5' Driving Layup,,,,,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,496,4,0,3,8:44 PM,0:41,,,J. Green REBOUND (Off:1 Def:1),,,5,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,497,1,80,3,8:44 PM,0:27,,,Moody 25' 3PT Step Back Jump Shot (3 PTS) (Jerome 2 AST),83 - 80,-3,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,5,1629660,Ty Jerome,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200082,499,2,1,3,8:44 PM,0:06,MISS McDaniels 26' 3PT Jump Shot,,,,,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,500,4,0,3,8:44 PM,0:03,,,J. Green REBOUND (Off:1 Def:2),,,5,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,501,13,0,3,8:44 PM,0:00,,End of 3rd Period (8:44 PM EST),,83 - 80,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200082,505,12,0,4,8:47 PM,12:00,,Start of 4th Period (8:47 PM EST),,83 - 80,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200082,506,1,5,4,8:47 PM,11:47,Washington 7' Layup (19 PTS) (Maledon 1 AST),,,83 - 82,-1,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200082,508,2,1,4,8:48 PM,11:30,,,MISS Poole 26' 3PT Jump Shot,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,509,4,0,4,8:48 PM,11:25,McDaniels REBOUND (Off:0 Def:5),,,,,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,510,1,1,4,8:48 PM,11:15,McDaniels 15' Jump Shot (7 PTS) (Maledon 2 AST),,,83 - 84,1,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,4,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200082,512,2,98,4,8:48 PM,10:57,,,MISS Looney 4' Cutting Layup Shot,,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,513,4,0,4,8:48 PM,10:54,McDaniels REBOUND (Off:0 Def:6),,,,,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,514,2,103,4,8:48 PM,10:52,MISS Oubre Jr. 26' 3PT Running Pull-Up Jump Shot,,,,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,515,4,0,4,8:48 PM,10:51,HORNETS Rebound,,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200082,516,6,3,4,8:48 PM,10:51,,,Moody L.B.FOUL (P2.T1) (D.Taylor),,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200082,518,6,1,4,8:49 PM,10:45,,,Moody P.FOUL (P3.T2) (D.Taylor),,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200082,520,2,79,4,8:49 PM,10:33,MISS Oubre Jr. 9' Pullup Jump Shot,,,,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,521,4,0,4,8:49 PM,10:32,HORNETS Rebound,,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200082,523,1,79,4,8:50 PM,10:21,Maledon 13' Pullup Jump Shot (5 PTS),,,83 - 86,3,4,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,524,1,75,4,8:50 PM,9:59,,,Moody 5' Driving Finger Roll Layup (5 PTS),85 - 86,1,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,525,7,2,4,8:50 PM,9:59,Richards Violation:Defensive Goaltending (S.Wall),,,,,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022200082,526,2,6,4,8:51 PM,9:45,MISS Oubre Jr. 3' Driving Layup,,,,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,527,4,0,4,8:51 PM,9:43,,,J. Green REBOUND (Off:1 Def:3),,,5,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,528,5,2,4,8:51 PM,9:34,Washington STEAL (1 STL),,Poole Lost Ball Turnover (P3.T7),,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200082,530,1,50,4,8:51 PM,9:30,Oubre Jr. Running Dunk (14 PTS),,,85 - 88,3,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,531,5,45,4,8:51 PM,9:10,,,Jerome Out of Bounds - Bad Pass Turnover Turnover (P1.T8),,,5,1629660,Ty Jerome,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022200082,532,8,0,4,8:51 PM,9:10,SUB: Thor FOR Washington,,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,1630550,JT Thor,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200082,534,2,80,4,8:52 PM,8:56,MISS Maledon 26' 3PT Step Back Jump Shot,,,,,4,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,535,4,0,4,8:52 PM,8:48,Richards REBOUND (Off:5 Def:3),,,,,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,536,2,97,4,8:52 PM,8:48,MISS Richards Tip Layup Shot,,,,,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,537,4,0,4,8:52 PM,8:47,,,J. Green REBOUND (Off:1 Def:4),,,5,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,538,2,80,4,8:52 PM,8:41,,,MISS Poole 26' 3PT Step Back Jump Shot,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,539,4,0,4,8:52 PM,8:38,McDaniels REBOUND (Off:0 Def:7),,,,,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,540,2,101,4,8:52 PM,8:22,MISS Maledon 9' Driving Floating Jump Shot,,Jerome BLOCK (1 BLK),,,4,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,5,1629660,Ty Jerome,1610612744.0,Golden State,Warriors,GSW,1
+0022200082,541,4,0,4,8:53 PM,8:19,McDaniels REBOUND (Off:1 Def:7),,,,,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,542,2,1,4,8:53 PM,8:16,MISS Oubre Jr. 25' 3PT Jump Shot,,,,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,543,4,0,4,8:53 PM,8:14,,,Looney REBOUND (Off:4 Def:5),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,544,9,1,4,8:53 PM,8:10,,,Warriors Timeout: Regular (Reg.4 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200082,547,8,0,4,8:53 PM,8:10,,,SUB: Curry FOR Poole,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200082,548,8,0,4,8:53 PM,8:10,,,SUB: Wiggins FOR Jerome,,,5,1629660,Ty Jerome,1610612744.0,Golden State,Warriors,GSW,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200082,551,1,1,4,8:56 PM,8:02,,,Moody 26' 3PT Jump Shot (8 PTS) (J. Green 1 AST),88 - 88,TIE,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,5,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200082,553,2,1,4,8:56 PM,7:37,MISS Maledon 28' 3PT Jump Shot,,,,,4,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,554,4,0,4,8:56 PM,7:37,HORNETS Rebound,,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200082,555,6,3,4,8:56 PM,7:37,,,J. Green L.B.FOUL (P2.T3) (R.Mott),,,5,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200082,557,8,0,4,8:57 PM,7:37,SUB: Smith Jr. FOR Maledon,,,,,4,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200082,559,6,2,4,8:57 PM,7:28,,,Looney S.FOUL (P2.T4) (D.Taylor),,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200082,561,3,11,4,8:57 PM,7:28,Oubre Jr. Free Throw 1 of 2 (15 PTS),,,88 - 89,1,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,566,3,12,4,8:57 PM,7:28,MISS Oubre Jr. Free Throw 2 of 2,,,,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,562,8,0,4,8:57 PM,7:28,,,SUB: Thompson FOR J. Green,,,5,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200082,563,8,0,4,8:57 PM,7:28,,,SUB: D. Green FOR Moody,,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200082,567,4,0,4,8:58 PM,7:23,,,Wiggins REBOUND (Off:1 Def:2),,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,569,2,1,4,8:58 PM,7:06,,,MISS Thompson 20' Jump Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,570,4,0,4,8:59 PM,7:04,Smith Jr. REBOUND (Off:2 Def:5),,,,,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,571,1,44,4,8:59 PM,6:56,Richards 2' Reverse Layup (9 PTS) (Oubre Jr. 3 AST),,,88 - 91,3,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200082,573,2,3,4,8:59 PM,6:39,,,MISS D. Green 5' Hook Shot,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,574,4,0,4,8:59 PM,6:37,,,D. Green REBOUND (Off:2 Def:5),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,575,2,1,4,8:59 PM,6:36,,,MISS Wiggins 25' 3PT Jump Shot,,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,576,4,0,4,8:59 PM,6:33,Smith Jr. REBOUND (Off:2 Def:6),,,,,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,577,1,1,4,8:59 PM,6:19,Oubre Jr. 3PT Jump Shot (18 PTS) (McDaniels 2 AST),,,88 - 94,6,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200082,579,6,2,4,9:00 PM,6:06,Richards S.FOUL (P2.T1) (D.Taylor),,,,,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200082,581,3,11,4,9:00 PM,6:06,,,MISS Looney Free Throw 1 of 2,,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,582,4,1,4,9:00 PM,6:06,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200082,583,8,0,4,9:00 PM,6:06,SUB: Plumlee FOR Richards,,,,,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200082,584,8,0,4,9:00 PM,6:06,SUB: Washington FOR McDaniels,,,,,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200082,585,8,0,4,9:00 PM,6:06,SUB: Hayward FOR Thor,,,,,4,1630550,JT Thor,1610612766.0,Charlotte,Hornets,CHA,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200082,589,3,12,4,9:00 PM,6:06,,,Looney Free Throw 2 of 2 (10 PTS),89 - 94,5,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,590,2,86,4,9:01 PM,5:51,MISS Hayward 13' Turnaround Fadeaway Shot,,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,591,4,0,4,9:01 PM,5:51,HORNETS Rebound,,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200082,592,6,3,4,9:01 PM,5:51,,,Thompson L.B.FOUL (P1.PN) (D.Taylor),,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200082,594,3,11,4,9:01 PM,5:51,MISS Plumlee Free Throw 1 of 2,,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,595,4,1,4,9:01 PM,5:51,HORNETS Rebound,,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200082,596,3,12,4,9:01 PM,5:51,Plumlee Free Throw 2 of 2 (5 PTS),,,89 - 95,6,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,597,1,63,4,9:02 PM,5:32,,,Thompson 7' Fadeaway Jumper (11 PTS),91 - 95,4,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,598,6,28,4,9:02 PM,5:25,,,Curry Personal Take Foul (P4.PN) (D.Taylor),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200082,600,3,11,4,9:02 PM,5:25,MISS Plumlee Free Throw 1 of 2,,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,601,4,1,4,9:02 PM,5:25,HORNETS Rebound,,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200082,602,8,0,4,9:02 PM,5:25,,,SUB: Poole FOR Looney,,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200082,604,3,12,4,9:03 PM,5:25,Plumlee Free Throw 2 of 2 (6 PTS),,,91 - 96,5,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,605,1,5,4,9:03 PM,5:13,,,D. Green 1' Layup (6 PTS) (Curry 3 AST),93 - 96,3,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200082,607,6,28,4,9:03 PM,5:07,,,D. Green Personal Take Foul (P3.PN) (D.Taylor),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200082,609,3,11,4,9:04 PM,5:07,MISS Plumlee Free Throw 1 of 2,,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,610,4,1,4,9:04 PM,5:07,HORNETS Rebound,,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200082,611,3,12,4,9:04 PM,5:07,MISS Plumlee Free Throw 2 of 2,,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,612,4,0,4,9:04 PM,5:04,,,Poole REBOUND (Off:0 Def:2),,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,613,6,1,4,9:04 PM,4:56,Washington P.FOUL (P2.T2) (S.Wall),,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200082,615,8,0,4,9:04 PM,4:56,SUB: McDaniels FOR Plumlee,,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200082,617,6,4,4,9:04 PM,4:51,,,D. Green OFF.Foul (P4) (S.Wall),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200082,619,5,37,4,9:04 PM,4:51,,,D. Green Offensive Foul Turnover (P2.T9),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022200082,620,1,1,4,9:05 PM,4:40,Washington 21' Jump Shot (21 PTS) (Smith Jr. 5 AST),,,93 - 98,5,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200082,622,1,6,4,9:05 PM,4:27,,,Poole 2' Driving Layup (21 PTS),95 - 98,3,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,623,1,57,4,9:05 PM,4:11,Washington 7' Driving Hook Shot (23 PTS) (Smith Jr. 6 AST),,,95 - 100,5,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200082,625,2,1,4,9:06 PM,4:01,,,MISS Curry 28' 3PT Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,626,4,0,4,9:06 PM,3:59,,,Wiggins REBOUND (Off:2 Def:2),,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,627,6,1,4,9:06 PM,3:53,Washington P.FOUL (P3.T3) (R.Mott),,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200082,629,1,1,4,9:06 PM,3:47,,,Curry 28' 3PT Jump Shot (27 PTS) (Wiggins 4 AST),98 - 100,2,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200082,631,2,79,4,9:06 PM,3:25,MISS Hayward 16' Pullup Jump Shot,,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,632,4,0,4,9:07 PM,3:22,,,Curry REBOUND (Off:0 Def:8),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,633,2,78,4,9:07 PM,3:15,,,MISS Curry 14' Floating Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,634,4,0,4,9:07 PM,3:15,HORNETS Rebound,,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200082,635,6,3,4,9:07 PM,3:15,,,Curry L.B.FOUL (P5.PN) (D.Taylor),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200082,637,3,11,4,9:07 PM,3:15,Smith Jr. Free Throw 1 of 2 (9 PTS),,,98 - 101,3,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,640,3,12,4,9:07 PM,3:15,MISS Smith Jr. Free Throw 2 of 2,,,,,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,638,9,1,4,9:07 PM,3:15,,,Warriors Timeout: Regular (Reg.5 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200082,641,4,0,4,9:07 PM,3:12,,,Wiggins REBOUND (Off:2 Def:3),,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,642,1,63,4,9:11 PM,2:48,,,Poole 25' 3PT Fadeaway Jumper (24 PTS) (Curry 4 AST),101 - 101,TIE,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200082,644,2,6,4,9:11 PM,2:33,MISS Washington 3' Driving Layup,,D. Green BLOCK (3 BLK),,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1
+0022200082,646,4,0,4,9:11 PM,2:30,,,Curry REBOUND (Off:0 Def:9),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,647,1,41,4,9:11 PM,2:27,,,Curry 2' Running Layup (29 PTS),103 - 101,-2,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,648,2,1,4,9:12 PM,2:04,MISS Washington 17' Jump Shot,,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,649,4,0,4,9:12 PM,2:01,,,Curry REBOUND (Off:0 Def:10),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,650,1,98,4,9:12 PM,1:54,,,D. Green 1' Cutting Layup Shot (8 PTS) (Curry 5 AST),105 - 101,-4,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200082,652,6,1,4,9:12 PM,1:47,,,D. Green P.FOUL (P5.PN) (D.Taylor),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200082,654,3,11,4,9:13 PM,1:47,Hayward Free Throw 1 of 2 (22 PTS),,,105 - 102,-3,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,655,3,12,4,9:13 PM,1:47,Hayward Free Throw 2 of 2 (23 PTS),,,105 - 103,-2,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,656,2,79,4,9:13 PM,1:32,,,MISS Poole 26' 3PT Pullup Jump Shot,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,657,4,0,4,9:13 PM,1:29,Oubre Jr. REBOUND (Off:1 Def:4),,,,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,658,5,2,4,9:13 PM,1:14,Washington Lost Ball Turnover (P1.T10),,D. Green STEAL (1 STL),,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200082,660,1,108,4,9:14 PM,1:02,,,Wiggins 2' Cutting Dunk Shot (10 PTS) (D. Green 6 AST),107 - 103,-4,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200082,662,9,1,4,9:14 PM,1:02,HORNETS Timeout: Regular (Full 4 Short 0),,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200082,663,8,0,4,9:14 PM,1:02,,,SUB: Looney FOR Curry,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200082,665,1,85,4,9:16 PM,0:54,Washington 4' Turnaround Bank Shot (25 PTS) (Hayward 4 AST),,,107 - 105,-2,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200082,667,9,1,4,9:16 PM,0:54,,,Warriors Timeout: Regular (Reg.6 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200082,668,8,0,4,9:16 PM,0:54,,,SUB: Curry FOR Looney,,,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200082,670,2,80,4,9:17 PM,0:33,,,MISS Curry 26' 3PT Step Back Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,671,4,0,4,9:18 PM,0:31,Hayward REBOUND (Off:0 Def:2),,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,672,1,6,4,9:18 PM,0:23,Smith Jr. 2' Driving Layup (11 PTS) (Oubre Jr. 4 AST),,,107 - 107,TIE,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200082,673,2,80,4,9:18 PM,0:00,,,MISS Curry 27' 3PT Step Back Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,674,4,0,4,9:18 PM,0:00,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200082,675,13,0,4,9:18 PM,0:00,,End of 4th Period (9:18 PM EST),,107 - 107,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200082,676,12,0,5,9:21 PM,5:00,,Start of 1st OT (9:21 PM EST),,107 - 107,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200082,678,10,0,5,9:21 PM,5:00,Jump Ball Washington vs. D. Green: Tip to Hayward,,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,1
+0022200082,682,2,1,5,9:22 PM,4:41,MISS Washington 22' Jump Shot,,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,683,4,0,5,9:22 PM,4:37,,,Curry REBOUND (Off:0 Def:11),,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,684,5,4,5,9:22 PM,4:30,,,D. Green Traveling Turnover (P3.T10),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022200082,685,2,58,5,9:22 PM,4:05,MISS Hayward 10' Turnaround Hook Shot,,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,686,4,0,5,9:23 PM,4:02,,,D. Green REBOUND (Off:2 Def:6),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,687,6,2,5,9:23 PM,3:54,McDaniels S.FOUL (P1.T1) (D.Taylor),,,,,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200082,689,3,11,5,9:23 PM,3:54,,,MISS D. Green Free Throw 1 of 2,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,690,4,1,5,9:23 PM,3:54,,,Warriors Rebound,,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200082,691,3,12,5,9:23 PM,3:54,,,MISS D. Green Free Throw 2 of 2,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,692,4,0,5,9:23 PM,3:51,McDaniels REBOUND (Off:1 Def:8),,,,,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,694,2,80,5,9:24 PM,3:30,MISS Smith Jr. 17' Step Back Jump Shot,,,,,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,695,4,0,5,9:24 PM,3:26,,,Wiggins REBOUND (Off:2 Def:4),,,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,696,1,98,5,9:24 PM,3:15,,,D. Green 2' Cutting Layup Shot (10 PTS) (Curry 6 AST),109 - 107,-2,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200082,698,1,98,5,9:24 PM,3:03,Washington 2' Cutting Layup Shot (27 PTS) (Oubre Jr. 5 AST),,,109 - 109,TIE,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200082,700,1,98,5,9:24 PM,2:52,,,D. Green 1' Cutting Layup Shot (12 PTS) (Poole 4 AST),111 - 109,-2,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200082,723,2,6,5,9:25 PM,2:28,MISS McDaniels 4' Driving Layup,,,,,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,724,4,0,5,9:25 PM,2:28,McDaniels REBOUND (Off:2 Def:8),,,,,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,703,6,2,5,9:25 PM,2:28,,,Poole S.FOUL (P4.T1) (D.Taylor),,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200082,705,3,11,5,9:26 PM,2:28,McDaniels Free Throw 1 of 2 (8 PTS),,,111 - 110,-1,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,706,3,12,5,9:26 PM,2:28,McDaniels Free Throw 2 of 2 (9 PTS),,,111 - 111,TIE,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,707,2,6,5,9:26 PM,2:12,,,MISS Poole 3' Driving Layup,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,708,4,0,5,9:26 PM,2:09,Washington REBOUND (Off:1 Def:6),,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,709,1,1,5,9:26 PM,2:01,McDaniels 25' 3PT Jump Shot (12 PTS) (Smith Jr. 7 AST),,,111 - 114,3,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200082,711,9,1,5,9:26 PM,2:01,,,Warriors Timeout: Regular (Reg.7 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200082,712,2,1,5,9:28 PM,1:47,,,MISS Thompson 26' 3PT Jump Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,713,4,0,5,9:28 PM,1:43,Smith Jr. REBOUND (Off:2 Def:7),,,,,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,714,7,5,5,9:28 PM,1:36,,,D. Green Violation:Kicked Ball (S.Wall),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,0
+0022200082,715,10,0,5,9:30 PM,1:23,Jump Ball Washington vs. Poole: Tip to Smith Jr.,,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,1
+0022200082,718,1,6,5,9:30 PM,1:19,Smith Jr. 3' Driving Layup (13 PTS),,,111 - 116,5,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,719,6,2,5,9:30 PM,1:11,Washington S.FOUL (P4.T2) (D.Taylor),,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200082,721,3,11,5,9:31 PM,1:11,,,Curry Free Throw 1 of 2 (30 PTS),112 - 116,4,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,722,3,12,5,9:31 PM,1:11,,,Curry Free Throw 2 of 2 (31 PTS),113 - 116,3,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,727,9,7,5,9:32 PM,1:02,,,Warriors Timeout: Coach Challenge (Reg.7 Short 0),,,3,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200082,728,18,5,5,9:32 PM,1:02,,Instant Replay1st OT (9:32 PM EST),,113 - 116,3,0,725,Dell Demps,,,,,0,0,,,,,,1,0,,,,,,1
+0022200082,729,10,0,5,9:34 PM,0:59,Jump Ball Washington vs. Wiggins: Tip to Smith Jr.,,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,1
+0022200082,732,1,5,5,9:35 PM,0:45,Washington 1' Layup (29 PTS) (Smith Jr. 8 AST),,,113 - 118,5,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200082,734,2,1,5,9:35 PM,0:32,,,MISS Thompson 25' 3PT Jump Shot,,,5,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,735,4,0,5,9:35 PM,0:28,McDaniels REBOUND (Off:2 Def:9),,,,,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,736,6,1,5,9:35 PM,0:22,,,D. Green P.FOUL (P6.T2) (D.Taylor),,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200082,738,8,0,5,9:35 PM,0:22,,,SUB: Looney FOR Poole,,,5,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200082,739,8,0,5,9:35 PM,0:22,,,SUB: Moody FOR D. Green,,,5,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200082,742,6,1,5,9:36 PM,0:21,,,Moody P.FOUL (P4.PN) (D.Taylor),,,5,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200082,744,3,11,5,9:36 PM,0:21,Washington Free Throw 1 of 2 (30 PTS),,,113 - 119,6,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,745,3,12,5,9:37 PM,0:21,Washington Free Throw 2 of 2 (31 PTS),,,113 - 120,7,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200082,746,2,1,5,9:37 PM,0:16,,,MISS Curry 34' 3PT Jump Shot,,,5,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200082,747,4,0,5,9:37 PM,0:14,HORNETS Rebound,,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200082,749,13,0,5,9:37 PM,0:00,,End of 1st OT (9:37 PM EST),,113 - 120,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

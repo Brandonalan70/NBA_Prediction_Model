@@ -1,0 +1,566 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200025,2,12,0,1,8:12 PM,12:00,,Start of 1st Period (8:12 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200025,4,10,0,1,8:12 PM,12:00,Jump Ball Towns vs. Olynyk: Tip to Gobert,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1
+0022200025,7,1,1,1,8:13 PM,11:45,Russell 14' Jump Shot (2 PTS),,,0 - 2,2,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,8,6,4,1,8:13 PM,11:30,,,Vanderbilt OFF.Foul (P1) (J.DeRosa),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200025,10,5,37,1,8:13 PM,11:30,,,Vanderbilt Offensive Foul Turnover (P1.T1),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0022200025,11,1,1,1,8:13 PM,11:25,Towns 25' 3PT Jump Shot (3 PTS) (Russell 1 AST),,,0 - 5,5,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200025,13,5,45,1,8:13 PM,11:12,,,Olynyk Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0022200025,14,2,78,1,8:14 PM,10:59,MISS Towns 12' Floating Jump Shot,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,15,4,0,1,8:14 PM,10:56,,,Vanderbilt REBOUND (Off:0 Def:1),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,16,2,1,1,8:14 PM,10:51,,,MISS Clarkson 26' 3PT Jump Shot,,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,17,4,0,1,8:14 PM,10:48,,,Conley REBOUND (Off:1 Def:0),,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,18,1,1,1,8:14 PM,10:45,,,Clarkson 25' 3PT Jump Shot (3 PTS) (Markkanen 1 AST),3 - 5,2,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,20,6,2,1,8:14 PM,10:35,,,Clarkson S.FOUL (P1.T1) (P.O'Connell),,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200025,22,3,11,1,8:15 PM,10:35,Russell Free Throw 1 of 2 (3 PTS),,,3 - 6,3,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,23,3,12,1,8:15 PM,10:35,Russell Free Throw 2 of 2 (4 PTS),,,3 - 7,4,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,24,2,6,1,8:15 PM,10:19,,,MISS Olynyk 3' Driving Layup,,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,25,4,0,1,8:15 PM,10:17,Gobert REBOUND (Off:0 Def:1),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,26,5,2,1,8:15 PM,10:14,Edwards Lost Ball Turnover (P1.T1),,Vanderbilt STEAL (1 STL),,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,28,2,1,1,8:15 PM,10:08,,,MISS Markkanen 24' 3PT Jump Shot,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,29,4,0,1,8:15 PM,10:05,Gobert REBOUND (Off:0 Def:2),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,31,1,80,1,8:16 PM,9:42,Edwards 24' 3PT Step Back Jump Shot (3 PTS) (Russell 2 AST),,,3 - 10,7,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200025,33,2,6,1,8:16 PM,9:25,Gobert BLOCK (1 BLK),,MISS Olynyk 1' Driving Layup,,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1
+0022200025,35,4,0,1,8:16 PM,9:22,McDaniels REBOUND (Off:0 Def:1),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,36,1,41,1,8:16 PM,9:22,McDaniels 1' Running Layup (2 PTS),,,3 - 12,9,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,37,6,2,1,8:16 PM,9:22,,,Conley S.FOUL (P1.T2) (J.DeRosa),,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200025,39,3,10,1,8:17 PM,9:22,McDaniels Free Throw 1 of 1 (3 PTS),,,3 - 13,10,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,40,2,79,1,8:17 PM,9:09,,,MISS Conley 26' 3PT Pullup Jump Shot,,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,41,4,0,1,8:17 PM,9:06,Towns REBOUND (Off:0 Def:1),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,42,2,6,1,8:17 PM,8:53,MISS Edwards 2' Driving Layup,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,43,4,0,1,8:17 PM,8:52,Gobert REBOUND (Off:1 Def:2),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,44,2,5,1,8:17 PM,8:51,MISS Gobert 1' Layup,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,45,4,0,1,8:17 PM,8:50,Towns REBOUND (Off:1 Def:1),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,46,6,2,1,8:17 PM,8:50,,,Vanderbilt S.FOUL (P2.T3) (P.O'Connell),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200025,48,3,11,1,8:18 PM,8:50,Towns Free Throw 1 of 2 (4 PTS),,,3 - 14,11,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,51,3,12,1,8:18 PM,8:50,Towns Free Throw 2 of 2 (5 PTS),,,3 - 15,12,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,49,8,0,1,8:18 PM,8:50,,,SUB: Kessler FOR Vanderbilt,,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200025,94,2,79,1,8:18 PM,8:41,,,MISS Clarkson 26' 3PT Pullup Jump Shot,,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,95,4,0,1,8:18 PM,8:40,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200025,55,2,78,1,8:19 PM,8:27,MISS Towns 8' Floating Jump Shot,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,56,4,0,1,8:19 PM,8:26,,,Clarkson REBOUND (Off:0 Def:1),,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,57,1,1,1,8:19 PM,8:15,,,Markkanen 8' Jump Shot (2 PTS),5 - 15,10,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,58,6,2,1,8:19 PM,8:15,McDaniels S.FOUL (P1.T1) (J.DeRosa),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022200025,173,7,6,1,8:20 PM,8:15,Double Lane,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0022200025,174,7,6,1,8:20 PM,8:15,,,Double Lane,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0022200025,61,10,0,1,8:20 PM,8:09,Jump Ball Gobert vs. Kessler: Tip to Russell,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,1
+0022200025,64,1,1,1,8:20 PM,8:01,Russell 16' Jump Shot (6 PTS),,,5 - 17,12,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,65,1,1,1,8:21 PM,7:45,,,Olynyk 26' 3PT Jump Shot (3 PTS) (Kessler 1 AST),8 - 17,9,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,66,6,4,1,8:21 PM,7:40,Towns OFF.Foul (P1) (P.O'Connell),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022200025,68,5,37,1,8:21 PM,7:40,Towns Offensive Foul Turnover (P1.T2),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022200025,70,1,7,1,8:21 PM,7:26,,,Markkanen 1' Dunk (4 PTS) (Conley 1 AST),10 - 17,7,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,71,1,6,1,8:21 PM,7:11,Edwards 1' Driving Layup (5 PTS),,,10 - 19,9,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,72,1,1,1,8:22 PM,6:59,,,Markkanen 3PT Jump Shot (7 PTS) (Conley 2 AST),13 - 19,6,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,74,1,80,1,8:22 PM,6:47,Russell 13' Step Back Jump Shot (8 PTS),,,13 - 21,8,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,75,2,1,1,8:22 PM,6:33,,,MISS Olynyk 16' Jump Shot,,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,76,4,0,1,8:22 PM,6:31,Edwards REBOUND (Off:0 Def:1),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,77,5,2,1,8:22 PM,6:27,Edwards Lost Ball Turnover (P2.T3),,Conley STEAL (1 STL),,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,79,6,1,1,8:22 PM,6:21,McDaniels P.FOUL (P2.T2) (P.O'Connell),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022200025,81,9,1,1,8:22 PM,6:21,TIMBERWOLVES Timeout: Regular (Full 1 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200025,82,8,0,1,8:24 PM,6:21,SUB: Anderson FOR McDaniels,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200025,83,8,0,1,8:24 PM,6:21,,,SUB: Sexton FOR Conley,,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200025,86,2,1,1,8:26 PM,6:12,,,MISS Markkanen 25' 3PT Jump Shot,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0022200025,87,4,0,1,8:26 PM,6:08,Edwards REBOUND (Off:0 Def:2),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0022200025,88,1,80,1,8:26 PM,5:57,Towns 25' 3PT Step Back Jump Shot (8 PTS) (Edwards 1 AST),,,13 - 24,11,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200025,90,2,6,1,8:26 PM,5:44,Gobert BLOCK (2 BLK),,MISS Markkanen 2' Driving Layup,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1
+0022200025,92,4,0,1,8:26 PM,5:43,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200025,96,8,0,1,8:26 PM,5:43,SUB: McLaughlin FOR Gobert,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200025,97,8,0,1,8:26 PM,5:43,SUB: Prince FOR Anderson,,,,,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200025,100,2,1,1,8:27 PM,5:41,,,MISS Clarkson 3PT Jump Shot,,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,101,4,0,1,8:27 PM,5:36,Russell REBOUND (Off:0 Def:1),,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,102,2,79,1,8:27 PM,5:33,MISS Russell 25' 3PT Pullup Jump Shot,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,103,4,0,1,8:27 PM,5:32,,,Markkanen REBOUND (Off:0 Def:1),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,104,1,108,1,8:27 PM,5:22,,,Olynyk 2' Cutting Dunk Shot (5 PTS) (Sexton 1 AST),15 - 24,9,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,106,2,1,1,8:28 PM,5:06,MISS Towns 8' Jump Shot,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,107,4,0,1,8:28 PM,5:04,,,Markkanen REBOUND (Off:0 Def:2),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,108,1,98,1,8:28 PM,4:59,,,Sexton 1' Cutting Layup Shot (2 PTS) (Markkanen 2 AST),17 - 24,7,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,110,2,5,1,8:28 PM,4:46,MISS Towns 2' Layup,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,111,4,0,1,8:28 PM,4:45,,,Kessler REBOUND (Off:0 Def:1),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,112,2,1,1,8:28 PM,4:36,,,MISS Clarkson 8' Jump Shot,,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,113,4,0,1,8:28 PM,4:34,McLaughlin REBOUND (Off:0 Def:1),,,,,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,114,1,1,1,8:28 PM,4:29,Edwards 24' 3PT Jump Shot (8 PTS) (McLaughlin 1 AST),,,17 - 27,10,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200025,116,2,47,1,8:29 PM,4:02,,,MISS Markkanen 18' Turnaround Jump Shot,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,117,4,0,1,8:29 PM,3:58,McLaughlin REBOUND (Off:0 Def:2),,,,,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,118,6,2,1,8:29 PM,3:56,,,Sexton S.FOUL (P1.T4) (J.DeRosa),,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200025,120,3,11,1,8:29 PM,3:56,Russell Free Throw 1 of 2 (9 PTS),,,17 - 28,11,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,121,8,0,1,8:29 PM,3:56,,,SUB: Gay FOR Clarkson,,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200025,122,8,0,1,8:29 PM,3:56,,,SUB: Beasley FOR Markkanen,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200025,125,3,12,1,8:30 PM,3:56,Russell Free Throw 2 of 2 (10 PTS),,,17 - 29,12,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,126,2,101,1,8:30 PM,3:46,,,MISS Beasley 8' Driving Floating Jump Shot,,,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,127,4,0,1,8:30 PM,3:42,Towns REBOUND (Off:1 Def:2),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,128,2,1,1,8:30 PM,3:33,MISS Prince 3PT Jump Shot,,,,,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,129,4,0,1,8:30 PM,3:30,,,Kessler REBOUND (Off:0 Def:2),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,130,6,1,1,8:30 PM,3:27,Prince P.FOUL (P1.T3) (J.DeRosa),,,,,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022200025,132,8,0,1,8:31 PM,3:27,SUB: Nowell FOR Russell,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200025,134,1,1,1,8:31 PM,3:22,,,Gay 13' Jump Shot (2 PTS) (Sexton 2 AST),19 - 29,10,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,136,6,4,1,8:31 PM,3:03,Towns OFF.Foul (P2) (P.O'Connell),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022200025,138,5,37,1,8:31 PM,3:03,Towns Offensive Foul Turnover (P2.T4),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022200025,139,8,0,1,8:31 PM,3:03,SUB: Gobert FOR Towns,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200025,141,8,0,1,8:31 PM,3:03,,,SUB: Horton-Tucker FOR Olynyk,,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200025,143,6,2,1,8:32 PM,2:51,Nowell S.FOUL (P1.T4) (P.O'Connell),,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022200025,145,9,1,1,8:32 PM,2:51,,,Jazz Timeout: Regular (Reg.1 Short 0),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200025,146,3,11,1,8:35 PM,2:51,,,Sexton Free Throw 1 of 2 (3 PTS),20 - 29,9,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,147,3,12,1,8:35 PM,2:51,,,MISS Sexton Free Throw 2 of 2,,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,148,4,0,1,8:35 PM,2:50,Prince REBOUND (Off:0 Def:1),,,,,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,149,1,1,1,8:35 PM,2:35,McLaughlin 24' 3PT Jump Shot (3 PTS) (Nowell 1 AST),,,20 - 32,12,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200025,151,1,44,1,8:36 PM,2:20,,,Horton-Tucker 2' Reverse Layup (2 PTS),22 - 32,10,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,152,1,76,1,8:36 PM,2:08,Edwards 1' Running Finger Roll Layup (10 PTS),,,22 - 34,12,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,153,6,2,1,8:36 PM,1:47,Prince S.FOUL (P2.PN) (J.DeRosa),,,,,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022200025,156,3,11,1,8:37 PM,1:47,,,MISS Gay Free Throw 1 of 2,,,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,157,4,1,1,8:37 PM,1:47,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200025,162,3,12,1,8:37 PM,1:47,,,MISS Gay Free Throw 2 of 2,,,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,158,8,0,1,8:37 PM,1:47,,,SUB: Conley FOR Sexton,,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200025,159,8,0,1,8:37 PM,1:47,,,SUB: Markkanen FOR Kessler,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200025,163,4,0,1,8:37 PM,1:44,Gobert REBOUND (Off:1 Def:3),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,164,2,79,1,8:37 PM,1:38,MISS Edwards 25' 3PT Pullup Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,165,4,0,1,8:37 PM,1:35,,,Markkanen REBOUND (Off:0 Def:3),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,166,1,73,1,8:37 PM,1:29,,,Horton-Tucker 2' Driving Reverse Layup (4 PTS),24 - 34,10,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,167,1,52,1,8:37 PM,1:19,Gobert Alley Oop Dunk (2 PTS) (Nowell 2 AST),,,24 - 36,12,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200025,169,2,1,1,8:38 PM,0:59,,,MISS Beasley 25' 3PT Jump Shot,,,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,170,4,0,1,8:38 PM,0:57,Prince REBOUND (Off:0 Def:2),,,,,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,171,6,1,1,8:38 PM,0:55,,,Horton-Tucker P.FOUL (P1.PN) (P.O'Connell),,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200025,175,3,11,1,8:38 PM,0:55,MISS Edwards Free Throw 1 of 2,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,176,4,1,1,8:38 PM,0:55,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200025,177,3,12,1,8:38 PM,0:55,Edwards Free Throw 2 of 2 (11 PTS),,,24 - 37,13,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,178,2,78,1,8:39 PM,0:42,,,MISS Conley 11' Floating Jump Shot,,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,179,4,0,1,8:39 PM,0:40,Gobert REBOUND (Off:1 Def:4),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,180,2,71,1,8:39 PM,0:36,MISS Prince 1' Finger Roll Layup,,,,,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,181,4,0,1,8:39 PM,0:36,Prince REBOUND (Off:1 Def:2),,,,,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,182,1,97,1,8:39 PM,0:36,Prince Tip Layup Shot (2 PTS),,,24 - 39,15,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,183,2,1,1,8:39 PM,0:32,,,MISS Horton-Tucker 28' 3PT Jump Shot,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,184,4,0,1,8:39 PM,0:28,Gobert REBOUND (Off:1 Def:5),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,185,2,6,1,8:39 PM,0:20,MISS Nowell 2' Driving Layup,,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,186,4,0,1,8:39 PM,0:20,Nowell REBOUND (Off:1 Def:0),,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,187,1,97,1,8:39 PM,0:19,Nowell Tip Layup Shot (2 PTS),,,24 - 41,17,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,188,1,86,1,8:40 PM,0:04,,,Markkanen 10' Turnaround Fadeaway (9 PTS),26 - 41,15,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,189,2,1,1,8:40 PM,0:00,MISS Edwards 42' 3PT Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,190,4,0,1,8:40 PM,0:00,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200025,191,13,0,1,8:40 PM,0:00,,End of 1st Period (8:40 PM EST),,26 - 41,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200025,197,12,0,2,8:42 PM,12:00,,Start of 2nd Period (8:42 PM EST),,26 - 41,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200025,198,1,101,2,8:43 PM,11:49,,,Vanderbilt 13' Driving Floating Jump Shot (2 PTS) (Conley 3 AST),28 - 41,13,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,200,2,6,2,8:43 PM,11:26,MISS McDaniels 3' Driving Layup,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,201,4,0,2,8:43 PM,11:24,,,Vanderbilt REBOUND (Off:0 Def:2),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,202,1,86,2,8:43 PM,11:16,,,Horton-Tucker 17' Turnaround Fadeaway (6 PTS),30 - 41,11,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,203,2,1,2,8:43 PM,11:01,MISS Nowell 25' 3PT Jump Shot,,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,204,4,0,2,8:43 PM,10:57,,,Vanderbilt REBOUND (Off:0 Def:3),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,205,2,1,2,8:44 PM,10:44,,,MISS Gay 25' 3PT Jump Shot,,,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,206,4,0,2,8:44 PM,10:41,Gobert REBOUND (Off:1 Def:6),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,207,1,6,2,8:44 PM,10:27,Nowell 2' Driving Layup (4 PTS),,,30 - 43,13,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,208,2,86,2,8:44 PM,10:09,,,MISS Conley 12' Turnaround Fadeaway Shot,,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,209,4,0,2,8:44 PM,10:07,Gobert REBOUND (Off:1 Def:7),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,210,5,45,2,8:44 PM,10:06,Gobert Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022200025,211,8,0,2,8:44 PM,10:06,SUB: Russell FOR McLaughlin,,,,,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200025,213,2,1,2,8:45 PM,9:58,,,MISS Beasley 26' 3PT Jump Shot,,,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,214,4,0,2,8:45 PM,9:53,,,Horton-Tucker REBOUND (Off:1 Def:0),,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,215,1,101,2,8:45 PM,9:49,,,Beasley 9' Driving Floating Jump Shot (2 PTS) (Horton-Tucker 1 AST),32 - 43,11,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,217,1,75,2,8:45 PM,9:33,Prince 2' Driving Finger Roll Layup (4 PTS) (Russell 3 AST),,,32 - 45,13,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200025,219,1,1,2,8:45 PM,9:14,,,Conley 3PT Jump Shot (3 PTS) (Horton-Tucker 2 AST),35 - 45,10,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,221,5,1,2,8:46 PM,8:59,Russell Bad Pass Turnover (P1.T6),,Horton-Tucker STEAL (1 STL),,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,223,5,40,2,8:46 PM,8:55,,,Vanderbilt Out of Bounds Lost Ball Turnover (P2.T3),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0022200025,224,8,0,2,8:46 PM,8:55,,,SUB: Olynyk FOR Gay,,,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200025,226,6,4,2,8:47 PM,8:34,Gobert OFF.Foul (P1) (J.DeRosa),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022200025,228,5,37,2,8:47 PM,8:34,Gobert Offensive Foul Turnover (P2.T7),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022200025,229,8,0,2,8:47 PM,8:34,SUB: Towns FOR Gobert,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200025,231,5,1,2,8:47 PM,8:17,Nowell STEAL (1 STL),,Conley Bad Pass Turnover (P1.T4),,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200025,233,1,50,2,8:47 PM,8:14,Nowell 1' Running Dunk (6 PTS),,,35 - 47,12,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,234,2,79,2,8:48 PM,7:54,,,MISS Beasley 17' Pullup Jump Shot,,,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,235,4,0,2,8:48 PM,7:50,McDaniels REBOUND (Off:0 Def:2),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,236,2,1,2,8:48 PM,7:48,MISS Russell 25' 3PT Jump Shot,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,237,4,0,2,8:48 PM,7:45,,,Olynyk REBOUND (Off:0 Def:1),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,238,6,4,2,8:48 PM,7:39,,,Vanderbilt OFF.Foul (P3) (P.O'Connell),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200025,240,5,37,2,8:48 PM,7:39,,,Vanderbilt Offensive Foul Turnover (P3.T5),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0022200025,241,8,0,2,8:48 PM,7:39,SUB: Rivers FOR Prince,,,,,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,4,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200025,242,8,0,2,8:48 PM,7:39,,,SUB: Kessler FOR Vanderbilt,,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200025,245,1,44,2,8:48 PM,7:27,Nowell 1' Reverse Layup (8 PTS) (Towns 1 AST),,,35 - 49,14,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200025,247,1,1,2,8:49 PM,7:13,,,Olynyk 3PT Jump Shot (8 PTS) (Kessler 2 AST),38 - 49,11,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,249,9,1,2,8:49 PM,7:12,TIMBERWOLVES Timeout: Regular (Full 2 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200025,250,8,0,2,8:51 PM,7:12,,,SUB: Sexton FOR Horton-Tucker,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200025,251,8,0,2,8:51 PM,7:12,,,SUB: Markkanen FOR Conley,,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200025,254,5,45,2,8:52 PM,7:01,Towns Out of Bounds - Bad Pass Turnover Turnover (P3.T8),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022200025,255,2,79,2,8:52 PM,6:47,,,MISS Beasley 14' Pullup Jump Shot,,,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,256,4,0,2,8:52 PM,6:45,Nowell REBOUND (Off:1 Def:1),,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,257,1,52,2,8:52 PM,6:41,McDaniels 1' Alley Oop Dunk (5 PTS) (Russell 4 AST),,,38 - 51,13,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200025,259,1,79,2,8:53 PM,6:27,,,Markkanen 25' 3PT Pullup Jump Shot (12 PTS),41 - 51,10,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,260,2,98,2,8:53 PM,6:11,MISS Nowell 1' Cutting Layup Shot,,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,261,4,0,2,8:53 PM,6:08,Towns REBOUND (Off:2 Def:2),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,262,1,72,2,8:53 PM,6:07,Towns 1' Putback Layup (10 PTS),,,41 - 53,12,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,263,2,75,2,8:53 PM,5:47,,,MISS Sexton 4' Driving Finger Roll Layup,,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,264,4,0,2,8:53 PM,5:46,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200025,265,6,3,2,8:53 PM,5:46,,,Kessler L.B.FOUL (P1.T1) (D.Guthrie),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200025,268,8,0,2,8:54 PM,5:46,SUB: Edwards FOR Nowell,,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200025,269,8,0,2,8:54 PM,5:46,,,SUB: Clarkson FOR Beasley,,,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200025,272,6,2,2,8:54 PM,5:40,,,Markkanen S.FOUL (P1.T2) (J.DeRosa),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200025,274,3,11,2,8:54 PM,5:40,Towns Free Throw 1 of 2 (11 PTS),,,41 - 54,13,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,275,3,12,2,8:55 PM,5:40,Towns Free Throw 2 of 2 (12 PTS),,,41 - 55,14,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,276,5,1,2,8:55 PM,5:24,Russell STEAL (1 STL),,Clarkson Bad Pass Turnover (P1.T6),,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200025,278,1,50,2,8:55 PM,5:19,McDaniels 1' Running Dunk (7 PTS) (Russell 5 AST),,,41 - 57,16,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200025,280,9,1,2,8:55 PM,5:19,,,Jazz Timeout: Regular (Reg.2 Short 0),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200025,281,1,80,2,8:58 PM,4:57,,,Clarkson 26' 3PT Step Back Jump Shot (6 PTS),44 - 57,13,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,282,5,2,2,8:59 PM,4:43,Towns Lost Ball Turnover (P4.T9),,Olynyk STEAL (1 STL),,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,284,1,41,2,8:59 PM,4:40,,,Sexton 1' Running Layup (5 PTS) (Markkanen 3 AST),46 - 57,11,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,286,1,80,2,8:59 PM,4:27,Russell 24' 3PT Step Back Jump Shot (13 PTS),,,46 - 60,14,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,287,2,1,2,8:59 PM,4:18,,,MISS Markkanen 27' 3PT Jump Shot,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,288,4,0,2,8:59 PM,4:15,Rivers REBOUND (Off:0 Def:1),,,,,4,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,289,2,79,2,8:59 PM,4:09,MISS Russell 25' 3PT Pullup Jump Shot,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,290,4,0,2,8:59 PM,4:06,,,Markkanen REBOUND (Off:0 Def:4),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,291,1,5,2,8:59 PM,4:01,,,Olynyk 2' Layup (10 PTS) (Markkanen 4 AST),48 - 60,12,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,293,2,6,2,9:00 PM,3:44,MISS Edwards 2' Driving Layup,,Kessler BLOCK (1 BLK),,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,1
+0022200025,295,4,0,2,9:00 PM,3:41,,,Markkanen REBOUND (Off:0 Def:5),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,296,2,41,2,9:00 PM,3:40,,,MISS Sexton 1' Running Layup,,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,297,4,0,2,9:00 PM,3:38,,,Kessler REBOUND (Off:1 Def:2),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,298,2,80,2,9:00 PM,3:28,,,MISS Clarkson 26' 3PT Step Back Jump Shot,,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,299,4,0,2,9:00 PM,3:26,,,Kessler REBOUND (Off:2 Def:2),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,300,1,72,2,9:00 PM,3:26,,,Kessler 2' Putback Layup (2 PTS),50 - 60,10,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,301,6,2,2,9:00 PM,3:26,Towns S.FOUL (P3.T1) (J.DeRosa),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022200025,303,8,0,2,9:00 PM,3:26,SUB: Gobert FOR Towns,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200025,305,3,10,2,9:00 PM,3:26,,,Kessler Free Throw 1 of 1 (3 PTS),51 - 60,9,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,306,2,1,2,9:01 PM,3:09,MISS McDaniels 25' 3PT Jump Shot,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,307,4,0,2,9:01 PM,3:05,Gobert REBOUND (Off:2 Def:7),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,308,2,98,2,9:01 PM,3:03,MISS Rivers 2' Cutting Layup Shot,,Kessler BLOCK (2 BLK),,,4,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,1
+0022200025,310,4,0,2,9:01 PM,3:03,McDaniels REBOUND (Off:1 Def:2),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,311,2,98,2,9:01 PM,2:59,MISS Gobert 2' Cutting Layup Shot,,Kessler BLOCK (3 BLK),,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,1
+0022200025,312,4,0,2,9:01 PM,2:59,Edwards REBOUND (Off:1 Def:2),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,313,1,6,2,9:01 PM,2:54,Edwards Driving Layup (13 PTS),,,51 - 62,11,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,314,2,5,2,9:01 PM,2:33,McDaniels BLOCK (1 BLK),,MISS Sexton 3' Layup,,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,1
+0022200025,316,4,0,2,9:01 PM,2:31,,,Kessler REBOUND (Off:3 Def:2),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,317,2,72,2,9:01 PM,2:30,,,MISS Kessler 2' Putback Layup,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,318,4,0,2,9:01 PM,2:28,,,Sexton REBOUND (Off:1 Def:0),,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,320,6,2,2,9:02 PM,2:28,McDaniels S.FOUL (P3.T2) (D.Guthrie),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022200025,322,18,0,2,9:03 PM,2:28,,Instant Replay2nd Period (9:03 PM EST),,51 - 62,11,0,320,Jamie Watson,,,,,0,0,,,,,,1,0,,,,,,0
+0022200025,323,3,11,2,9:03 PM,2:28,,,Sexton Free Throw 1 of 2 (6 PTS),52 - 62,10,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,324,8,0,2,9:03 PM,2:28,SUB: Prince FOR McDaniels,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200025,325,8,0,2,9:03 PM,2:28,,,SUB: Conley FOR Kessler,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200025,328,3,12,2,9:04 PM,2:28,,,Sexton Free Throw 2 of 2 (7 PTS),53 - 62,9,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,329,5,1,2,9:04 PM,2:21,Russell Bad Pass Turnover (P2.T10),,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022200025,330,2,5,2,9:04 PM,2:12,,,MISS Conley 2' Layup,,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,331,4,0,2,9:04 PM,2:10,Russell REBOUND (Off:0 Def:2),,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,332,2,1,2,9:04 PM,2:03,MISS Edwards 25' 3PT Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,333,4,0,2,9:04 PM,2:00,Russell REBOUND (Off:1 Def:2),,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,334,1,6,2,9:05 PM,1:47,Russell 2' Driving Layup (15 PTS),,,53 - 64,11,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,335,2,79,2,9:05 PM,1:41,,,MISS Olynyk 26' 3PT Pullup Jump Shot,,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,336,4,0,2,9:05 PM,1:38,Gobert REBOUND (Off:2 Def:8),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,337,2,6,2,9:05 PM,1:28,MISS Edwards 2' Driving Layup,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,338,4,0,2,9:05 PM,1:26,,,Olynyk REBOUND (Off:0 Def:2),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,339,1,108,2,9:05 PM,1:20,,,Olynyk 2' Cutting Dunk Shot (12 PTS) (Sexton 3 AST),55 - 64,9,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,341,2,79,2,9:05 PM,0:52,MISS Russell 15' Pullup Jump Shot,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,342,4,0,2,9:06 PM,0:49,,,Clarkson REBOUND (Off:0 Def:2),,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,343,5,45,2,9:06 PM,0:39,,,Clarkson Out of Bounds - Bad Pass Turnover Turnover (P2.T7),,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0022200025,344,6,4,2,9:06 PM,0:24,Gobert OFF.Foul (P2) (P.O'Connell),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022200025,346,5,37,2,9:06 PM,0:24,Gobert Offensive Foul Turnover (P3.T11),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022200025,347,2,1,2,9:07 PM,0:00,,,MISS Conley 25' 3PT Jump Shot,,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,348,4,0,2,9:07 PM,0:00,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200025,349,13,0,2,9:07 PM,0:00,,End of 2nd Period (9:07 PM EST),,55 - 64,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200025,356,12,0,3,9:22 PM,12:00,,Start of 3rd Period (9:22 PM EST),,55 - 64,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200025,358,1,80,3,9:23 PM,11:42,,,Olynyk 25' 3PT Step Back Jump Shot (15 PTS) (Conley 4 AST),58 - 64,6,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,360,5,1,3,9:23 PM,11:22,Edwards Bad Pass Turnover (P3.T12),,Vanderbilt STEAL (2 STL),,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,362,1,1,3,9:23 PM,11:16,,,Clarkson 26' 3PT Jump Shot (9 PTS) (Conley 5 AST),61 - 64,3,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,364,1,6,3,9:23 PM,10:56,Edwards 2' Driving Layup (15 PTS),,,61 - 66,5,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,366,2,1,3,9:24 PM,10:33,,,MISS Conley 3PT Jump Shot,,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,367,4,0,3,9:24 PM,10:30,Gobert REBOUND (Off:2 Def:9),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,368,5,1,3,9:24 PM,10:29,Gobert Bad Pass Turnover (P4.T13),,Olynyk STEAL (2 STL),,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,370,1,1,3,9:24 PM,10:24,,,Conley 24' 3PT Jump Shot (6 PTS) (Clarkson 1 AST),64 - 66,2,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,372,2,105,3,9:25 PM,10:07,MISS Russell 9' Turnaround Fadeaway Bank Jump Shot,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,373,4,0,3,9:25 PM,10:03,Gobert REBOUND (Off:3 Def:9),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,374,2,97,3,9:25 PM,10:02,MISS Gobert Tip Layup Shot,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,375,4,0,3,9:25 PM,9:59,Gobert REBOUND (Off:4 Def:9),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,376,2,97,3,9:25 PM,9:58,MISS Gobert Tip Layup Shot,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,377,4,0,3,9:25 PM,9:57,,,Vanderbilt REBOUND (Off:0 Def:4),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,378,2,1,3,9:25 PM,9:50,,,MISS Conley 25' 3PT Jump Shot,,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,379,4,0,3,9:25 PM,9:48,,,Vanderbilt REBOUND (Off:1 Def:4),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,380,2,1,3,9:25 PM,9:47,,,MISS Markkanen 26' 3PT Jump Shot,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,381,4,0,3,9:25 PM,9:46,,,Clarkson REBOUND (Off:1 Def:2),,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,382,2,1,3,9:25 PM,9:43,,,MISS Conley 26' 3PT Jump Shot,,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,383,4,0,3,9:25 PM,9:42,,,Markkanen REBOUND (Off:1 Def:5),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,384,6,2,3,9:25 PM,9:40,Gobert S.FOUL (P3.T1) (D.Guthrie),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022200025,386,3,11,3,9:26 PM,9:40,,,Markkanen Free Throw 1 of 2 (13 PTS),65 - 66,1,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,387,3,12,3,9:26 PM,9:40,,,Markkanen Free Throw 2 of 2 (14 PTS),66 - 66,TIE,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,389,2,101,3,9:26 PM,9:24,MISS Towns 3' Driving Floating Jump Shot,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,390,4,0,3,9:26 PM,9:22,,,Conley REBOUND (Off:1 Def:1),,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,391,6,2,3,9:26 PM,9:19,Towns S.FOUL (P4.T2) (J.DeRosa),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022200025,393,3,11,3,9:27 PM,9:19,,,MISS Vanderbilt Free Throw 1 of 2,,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,394,4,1,3,9:27 PM,9:19,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200025,397,3,12,3,9:27 PM,9:19,,,MISS Vanderbilt Free Throw 2 of 2,,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,395,8,0,3,9:27 PM,9:19,SUB: Reid FOR Towns,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200025,398,4,0,3,9:27 PM,9:15,Gobert REBOUND (Off:4 Def:10),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,399,6,2,3,9:28 PM,8:59,,,Olynyk S.FOUL (P1.T1) (J.DeRosa),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200025,401,3,11,3,9:28 PM,8:59,Edwards Free Throw 1 of 2 (16 PTS),,,66 - 67,1,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,402,3,12,3,9:28 PM,8:59,Edwards Free Throw 2 of 2 (17 PTS),,,66 - 68,2,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,403,1,1,3,9:29 PM,8:50,,,Clarkson 25' 3PT Jump Shot (12 PTS) (Conley 6 AST),69 - 68,-1,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,405,2,101,3,9:29 PM,8:32,MISS McDaniels 5' Driving Floating Jump Shot,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,406,4,0,3,9:29 PM,8:29,,,Markkanen REBOUND (Off:1 Def:6),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,407,5,45,3,9:29 PM,8:20,,,Olynyk Out of Bounds - Bad Pass Turnover Turnover (P2.T8),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0022200025,408,6,1,3,9:30 PM,8:07,,,Olynyk P.FOUL (P2.T2) (P.O'Connell),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200025,410,5,39,3,9:30 PM,8:06,Reid Step Out of Bounds Turnover (P1.T14),,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022200025,411,5,2,3,9:30 PM,7:48,Russell STEAL (2 STL),,Markkanen Lost Ball Turnover (P1.T9),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200025,413,5,1,3,9:30 PM,7:44,Russell Bad Pass Turnover (P3.T15),,Vanderbilt STEAL (3 STL),,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,415,2,1,3,9:31 PM,7:38,,,MISS Clarkson 24' 3PT Jump Shot,,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,416,4,0,3,9:31 PM,7:35,,,Markkanen REBOUND (Off:2 Def:6),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,417,2,1,3,9:31 PM,7:31,,,MISS Markkanen 27' 3PT Jump Shot,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,418,4,0,3,9:31 PM,7:26,,,Clarkson REBOUND (Off:2 Def:2),,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,419,1,108,3,9:31 PM,7:25,,,Markkanen 1' Cutting Dunk Shot (16 PTS) (Clarkson 2 AST),71 - 68,-3,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,421,9,1,3,9:31 PM,7:25,TIMBERWOLVES Timeout: Regular (Full 3 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200025,422,8,0,3,9:33 PM,7:25,SUB: McLaughlin FOR Russell,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200025,424,1,98,3,9:34 PM,7:12,Edwards 1' Cutting Layup Shot (19 PTS) (McLaughlin 2 AST),,,71 - 70,-1,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200025,426,2,98,3,9:34 PM,6:51,,,MISS Conley 2' Cutting Layup Shot,,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,427,4,0,3,9:34 PM,6:48,,,Markkanen REBOUND (Off:3 Def:6),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,428,1,6,3,9:34 PM,6:44,,,Markkanen 1' Driving Layup (18 PTS) (Olynyk 1 AST),73 - 70,-3,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,430,5,1,3,9:35 PM,6:32,McLaughlin Bad Pass Turnover (P1.T16),,Olynyk STEAL (3 STL),,,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,432,2,1,3,9:35 PM,6:20,,,MISS Conley 25' 3PT Jump Shot,,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,433,4,0,3,9:35 PM,6:17,Edwards REBOUND (Off:1 Def:3),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,434,2,1,3,9:35 PM,6:07,MISS McLaughlin 25' 3PT Jump Shot,,,,,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,435,4,0,3,9:35 PM,6:05,Reid REBOUND (Off:1 Def:0),,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,436,2,5,3,9:35 PM,5:55,MISS Edwards 3' Layup,,Clarkson BLOCK (1 BLK),,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,1
+0022200025,438,4,0,3,9:35 PM,5:53,,,Vanderbilt REBOUND (Off:1 Def:5),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,439,1,74,3,9:35 PM,5:47,,,Conley 2' Running Reverse Layup (8 PTS) (Vanderbilt 1 AST),75 - 70,-5,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,441,5,1,3,9:36 PM,5:30,Edwards Bad Pass Turnover (P4.T17),,Olynyk STEAL (4 STL),,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,443,1,52,3,9:36 PM,5:26,,,Markkanen 1' Alley Oop Dunk (20 PTS) (Clarkson 3 AST),77 - 70,-7,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,445,9,1,3,9:36 PM,5:26,TIMBERWOLVES Timeout: Regular (Full 4 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200025,446,8,0,3,9:38 PM,5:26,SUB: Nowell FOR Edwards,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200025,447,8,0,3,9:38 PM,5:26,SUB: Prince FOR Gobert,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200025,448,8,0,3,9:38 PM,5:26,,,SUB: Sexton FOR Vanderbilt,,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200025,449,8,0,3,9:38 PM,5:26,,,SUB: Kessler FOR Conley,,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200025,454,8,0,3,9:38 PM,5:26,SUB: Edwards FOR McDaniels,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200025,456,1,79,3,9:39 PM,5:16,Edwards 26' 3PT Pullup Jump Shot (22 PTS) (Reid 1 AST),,,77 - 73,-4,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200025,458,1,78,3,9:39 PM,5:00,,,Clarkson 10' Floating Jump Shot (14 PTS) (Markkanen 5 AST),79 - 73,-6,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,460,2,75,3,9:39 PM,4:45,MISS Reid 3' Driving Finger Roll Layup,,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,461,4,0,3,9:39 PM,4:45,,,Markkanen REBOUND (Off:3 Def:7),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,462,5,40,3,9:40 PM,4:27,,,Kessler Out of Bounds Lost Ball Turnover (P1.T10),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0022200025,463,1,6,3,9:40 PM,4:22,Edwards 2' Driving Layup (24 PTS),,,79 - 75,-4,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,464,6,2,3,9:40 PM,4:22,,,Olynyk S.FOUL (P3.T3) (J.DeRosa),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200025,466,8,0,3,9:40 PM,4:22,,,SUB: Gay FOR Markkanen,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200025,467,8,0,3,9:40 PM,4:22,,,SUB: Beasley FOR Olynyk,,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200025,470,3,10,3,9:40 PM,4:22,MISS Edwards Free Throw 1 of 1,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,471,4,0,3,9:41 PM,4:17,,,Gay REBOUND (Off:0 Def:1),,,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,472,2,6,3,9:41 PM,4:08,Reid BLOCK (1 BLK),,MISS Sexton 1' Driving Layup,,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,1
+0022200025,474,4,0,3,9:41 PM,4:05,McLaughlin REBOUND (Off:0 Def:3),,,,,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,475,1,1,3,9:41 PM,4:01,Nowell 25' 3PT Jump Shot (11 PTS) (McLaughlin 3 AST),,,79 - 78,-1,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200025,477,9,1,3,9:41 PM,4:01,,,Jazz Timeout: Regular (Reg.3 Short 0),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200025,478,8,0,3,9:42 PM,4:01,,,SUB: Horton-Tucker FOR Clarkson,,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200025,480,1,51,3,9:43 PM,3:46,,,Kessler 1' Reverse Dunk (5 PTS) (Beasley 1 AST),81 - 78,-3,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,482,2,98,3,9:43 PM,3:30,MISS Reid 2' Cutting Layup Shot,,Kessler BLOCK (4 BLK),,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,1
+0022200025,492,4,0,3,9:43 PM,3:30,,,Beasley REBOUND (Off:0 Def:1),,,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,485,2,1,3,9:43 PM,3:25,,,MISS Horton-Tucker 3PT Jump Shot,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,486,4,0,3,9:43 PM,3:22,Prince REBOUND (Off:1 Def:3),,,,,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,487,1,1,3,9:43 PM,3:15,Nowell 25' 3PT Jump Shot (14 PTS) (Prince 1 AST),,,81 - 81,TIE,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200025,488,6,1,3,9:44 PM,3:03,McLaughlin P.FOUL (P1.T3) (P.O'Connell),,,,,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022200025,490,1,1,3,9:44 PM,2:54,,,Beasley 16' Jump Shot (4 PTS) (Sexton 4 AST),83 - 81,-2,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,491,2,1,3,9:44 PM,2:40,MISS Reid 3PT Jump Shot,,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,494,4,0,3,9:44 PM,2:40,,,Horton-Tucker REBOUND (Off:1 Def:1),,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,495,2,41,3,9:44 PM,2:32,Reid BLOCK (2 BLK),,MISS Horton-Tucker 2' Running Layup,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,1
+0022200025,497,4,0,3,9:44 PM,2:29,McLaughlin REBOUND (Off:0 Def:4),,,,,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,498,2,1,3,9:44 PM,2:27,MISS Edwards 26' 3PT Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,499,4,0,3,9:44 PM,2:26,,,Gay REBOUND (Off:0 Def:2),,,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,500,2,1,3,9:44 PM,2:14,,,MISS Horton-Tucker 12' Jump Shot,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,501,4,0,3,9:44 PM,2:13,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200025,502,6,3,3,9:45 PM,2:13,Reid L.B.FOUL (P1.T4) (D.Guthrie),,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022200025,505,6,2,3,9:46 PM,2:03,Reid S.FOUL (P2.PN) (J.DeRosa),,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022200025,507,3,11,3,9:46 PM,2:03,,,Sexton Free Throw 1 of 2 (8 PTS),84 - 81,-3,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,508,3,12,3,9:46 PM,2:03,,,Sexton Free Throw 2 of 2 (9 PTS),85 - 81,-4,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,509,2,1,3,9:46 PM,1:55,MISS Edwards 25' 3PT Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,510,4,0,3,9:46 PM,1:52,,,Gay REBOUND (Off:0 Def:3),,,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,511,2,79,3,9:47 PM,1:37,,,MISS Gay 9' Pullup Jump Shot,,,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,512,4,0,3,9:47 PM,1:34,,,Sexton REBOUND (Off:2 Def:0),,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,513,2,1,3,9:47 PM,1:32,,,MISS Beasley 25' 3PT Jump Shot,,,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,514,4,0,3,9:47 PM,1:27,Prince REBOUND (Off:1 Def:4),,,,,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,515,1,98,3,9:47 PM,1:24,Nowell 1' Cutting Layup Shot (16 PTS) (McLaughlin 4 AST),,,85 - 83,-2,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200025,517,6,2,3,9:47 PM,1:06,Prince S.FOUL (P3.PN) (P.O'Connell),,,,,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022200025,519,3,11,3,9:48 PM,1:06,,,Kessler Free Throw 1 of 2 (6 PTS),86 - 83,-3,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,520,3,12,3,9:48 PM,1:06,,,MISS Kessler Free Throw 2 of 2,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,521,4,0,3,9:48 PM,1:04,Reid REBOUND (Off:1 Def:1),,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,522,2,1,3,9:48 PM,0:56,MISS Nowell 26' 3PT Jump Shot,,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,523,4,0,3,9:48 PM,0:54,,,Beasley REBOUND (Off:0 Def:2),,,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,524,5,2,3,9:48 PM,0:37,Reid STEAL (1 STL),,Gay Lost Ball Turnover (P1.T11),,,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200025,526,1,41,3,9:48 PM,0:34,Nowell 3' Running Layup (18 PTS) (Edwards 2 AST),,,86 - 85,-1,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200025,528,6,2,3,9:49 PM,0:34,,,Horton-Tucker S.FOUL (P2.T4) (P.O'Connell),,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200025,530,3,10,3,9:49 PM,0:34,MISS Nowell Free Throw 1 of 1,,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,531,4,0,3,9:49 PM,0:28,Prince REBOUND (Off:2 Def:4),,,,,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,532,2,1,3,9:49 PM,0:25,MISS Nowell 25' 3PT Jump Shot,,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,533,4,0,3,9:49 PM,0:23,,,Sexton REBOUND (Off:2 Def:1),,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,534,6,1,3,9:49 PM,0:23,Nowell P.FOUL (P2.PN) (J.DeRosa),,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022200025,536,3,11,3,9:50 PM,0:23,,,Sexton Free Throw 1 of 2 (10 PTS),87 - 85,-2,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,537,3,12,3,9:50 PM,0:23,,,Sexton Free Throw 2 of 2 (11 PTS),88 - 85,-3,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,539,1,73,3,9:51 PM,0:00,McLaughlin 1' Driving Reverse Layup (5 PTS) (Nowell 3 AST),,,88 - 87,-1,4,1629162,Jordan McLaughlin,1610612750.0,Minnesota,Timberwolves,MIN,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200025,541,18,0,3,9:51 PM,0:00,,Instant Replay3rd Period (9:51 PM EST),,88 - 87,-1,0,539,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200025,542,13,0,3,9:52 PM,0:00,,End of 3rd Period (9:52 PM EST),,88 - 87,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200025,555,12,0,4,9:54 PM,12:00,,Start of 4th Period (9:54 PM EST),,88 - 87,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200025,556,2,6,4,9:54 PM,11:46,MISS Nowell 3' Driving Layup,,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,557,4,0,4,9:54 PM,11:41,Gobert REBOUND (Off:5 Def:10),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,558,1,107,4,9:54 PM,11:41,Gobert Tip Dunk Shot (4 PTS),,,88 - 89,1,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,559,2,1,4,9:55 PM,11:24,,,MISS Gay 25' 3PT Jump Shot,,,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,560,4,0,4,9:55 PM,11:20,McDaniels REBOUND (Off:1 Def:3),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,561,1,79,4,9:55 PM,11:10,Russell 26' 3PT Pullup Jump Shot (18 PTS),,,88 - 92,4,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,563,6,1,4,9:55 PM,10:55,Nowell P.FOUL (P3.T1) (D.Guthrie),,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022200025,565,1,1,4,9:55 PM,10:48,,,Beasley 25' 3PT Jump Shot (7 PTS) (Gay 1 AST),91 - 92,1,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,567,2,1,4,9:56 PM,10:37,MISS Towns 26' 3PT Jump Shot,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,568,4,0,4,9:56 PM,10:35,,,Vanderbilt REBOUND (Off:1 Def:6),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,569,2,1,4,9:56 PM,10:25,,,MISS Vanderbilt 10' Jump Shot,,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,570,4,0,4,9:56 PM,10:23,Gobert REBOUND (Off:5 Def:11),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,571,2,1,4,9:56 PM,10:18,MISS Russell 25' 3PT Jump Shot,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,572,4,0,4,9:56 PM,10:16,,,Vanderbilt REBOUND (Off:1 Def:7),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,573,1,5,4,9:56 PM,10:12,,,Horton-Tucker 2' Layup (8 PTS) (Vanderbilt 2 AST),93 - 92,-1,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,576,2,3,4,9:56 PM,9:51,MISS Towns 6' Hook Shot,,Gay BLOCK (1 BLK),,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,1
+0022200025,578,4,0,4,9:56 PM,9:51,Towns REBOUND (Off:3 Def:2),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,579,1,3,4,9:56 PM,9:47,Towns 4' Hook Shot (14 PTS),,,93 - 94,1,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,580,2,80,4,9:57 PM,9:35,,,MISS Beasley 25' 3PT Step Back Jump Shot,,,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,581,4,0,4,9:57 PM,9:33,Gobert REBOUND (Off:5 Def:12),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,582,6,1,4,9:57 PM,9:27,,,Gay P.FOUL (P1.T1) (J.DeRosa),,,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200025,584,8,0,4,9:57 PM,9:27,,,SUB: Markkanen FOR Horton-Tucker,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200025,585,8,0,4,9:57 PM,9:27,,,SUB: Olynyk FOR Gay,,,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200025,588,8,0,4,9:57 PM,9:27,SUB: Forbes FOR Nowell,,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,4,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200025,590,2,6,4,9:58 PM,9:19,MISS Russell 5' Driving Layup,,Olynyk BLOCK (1 BLK),,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,1
+0022200025,592,4,0,4,9:58 PM,9:19,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200025,594,1,6,4,9:58 PM,9:12,Towns 5' Driving Layup (16 PTS),,,93 - 96,3,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,595,5,1,4,9:58 PM,8:50,Gobert STEAL (1 STL),,Olynyk Bad Pass Turnover (P3.T12),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200025,597,2,1,4,9:58 PM,8:43,MISS Towns 26' 3PT Jump Shot,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,598,4,0,4,9:58 PM,8:42,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200025,599,6,3,4,9:59 PM,8:42,,,Vanderbilt L.B.FOUL (P4.T2) (D.Guthrie),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200025,602,5,1,4,9:59 PM,8:39,Forbes Bad Pass Turnover (P1.T18),,Conley STEAL (2 STL),,,4,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,604,1,1,4,9:59 PM,8:34,,,Beasley 25' 3PT Jump Shot (10 PTS) (Vanderbilt 3 AST),96 - 96,TIE,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,606,2,41,4,9:59 PM,8:13,MISS Towns 2' Running Layup,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,607,4,0,4,9:59 PM,8:11,Gobert REBOUND (Off:6 Def:12),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,608,1,97,4,9:59 PM,8:11,Gobert Tip Layup Shot (6 PTS),,,96 - 98,2,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,609,6,2,4,9:59 PM,8:04,Forbes S.FOUL (P1.T2) (P.O'Connell),,,,,4,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022200025,611,3,11,4,10:00 PM,8:04,,,Conley Free Throw 1 of 2 (9 PTS),97 - 98,1,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,614,3,12,4,10:00 PM,8:04,,,MISS Conley Free Throw 2 of 2,,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,612,8,0,4,10:00 PM,8:04,,,SUB: Clarkson FOR Vanderbilt,,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200025,615,4,0,4,10:00 PM,8:03,Gobert REBOUND (Off:6 Def:13),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,616,6,1,4,10:01 PM,7:48,,,Conley P.FOUL (P2.T3) (P.O'Connell),,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200025,618,2,3,4,10:01 PM,7:37,MISS Towns 8' Hook Shot,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,619,4,0,4,10:01 PM,7:34,,,Conley REBOUND (Off:1 Def:2),,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,620,1,79,4,10:01 PM,7:29,,,Beasley 26' 3PT Pullup Jump Shot (13 PTS) (Clarkson 4 AST),100 - 98,-2,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,622,1,80,4,10:01 PM,7:16,Russell 26' 3PT Step Back Jump Shot (21 PTS),,,100 - 101,1,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,623,1,6,4,10:02 PM,6:51,,,Clarkson 4' Driving Layup (16 PTS) (Olynyk 2 AST),102 - 101,-1,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,625,1,75,4,10:02 PM,6:30,McDaniels 4' Driving Finger Roll Layup (9 PTS) (Russell 6 AST),,,102 - 103,1,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200025,627,6,2,4,10:02 PM,6:30,,,Conley S.FOUL (P3.T4) (D.Guthrie),,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200025,629,9,1,4,10:03 PM,6:30,TIMBERWOLVES Timeout: Regular (Full 5 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200025,630,8,0,4,10:05 PM,6:30,SUB: Edwards FOR Forbes,,,,,4,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200025,631,8,0,4,10:05 PM,6:30,SUB: Nowell FOR Gobert,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200025,632,8,0,4,10:05 PM,6:30,,,SUB: Sexton FOR Conley,,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200025,636,3,10,4,10:06 PM,6:30,McDaniels Free Throw 1 of 1 (10 PTS),,,102 - 104,2,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,637,2,1,4,10:06 PM,6:19,,,MISS Markkanen 3PT Jump Shot,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,638,4,0,4,10:06 PM,6:14,Russell REBOUND (Off:1 Def:3),,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,639,6,1,4,10:06 PM,6:07,,,Olynyk P.FOUL (P4.PN) (D.Guthrie),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200025,642,8,0,4,10:07 PM,6:07,,,SUB: Vanderbilt FOR Beasley,,,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200025,641,3,11,4,10:07 PM,6:07,Towns Free Throw 1 of 2 (17 PTS),,,102 - 105,3,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,644,3,12,4,10:07 PM,6:07,Towns Free Throw 2 of 2 (18 PTS),,,102 - 106,4,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,645,10,0,4,10:08 PM,5:58,Jump Ball Nowell vs. Markkanen: Tip to Clarkson,,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,1
+0022200025,648,1,6,4,10:08 PM,5:47,,,Clarkson 3' Driving Layup (18 PTS),104 - 106,2,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,649,2,80,4,10:08 PM,5:31,MISS Edwards 25' 3PT Step Back Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,650,4,0,4,10:08 PM,5:28,,,Clarkson REBOUND (Off:2 Def:3),,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,651,6,2,4,10:08 PM,5:19,Nowell S.FOUL (P4.T3) (P.O'Connell),,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022200025,653,3,11,4,10:09 PM,5:19,,,Clarkson Free Throw 1 of 2 (19 PTS),105 - 106,1,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,654,3,12,4,10:09 PM,5:19,,,Clarkson Free Throw 2 of 2 (20 PTS),106 - 106,TIE,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,655,1,1,4,10:09 PM,5:06,Towns 21' Jump Shot (20 PTS),,,106 - 108,2,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,656,1,108,4,10:10 PM,4:51,,,Markkanen 2' Cutting Dunk Shot (22 PTS) (Clarkson 5 AST),108 - 108,TIE,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,658,6,1,4,10:10 PM,4:32,,,Vanderbilt P.FOUL (P5.PN) (D.Guthrie),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200025,660,3,11,4,10:11 PM,4:32,MISS Towns Free Throw 1 of 2,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,661,4,1,4,10:11 PM,4:32,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200025,662,8,0,4,10:11 PM,4:32,SUB: Gobert FOR Nowell,,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200025,663,8,0,4,10:11 PM,4:32,,,SUB: Beasley FOR Vanderbilt,,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200025,666,3,12,4,10:11 PM,4:32,Towns Free Throw 2 of 2 (21 PTS),,,108 - 109,1,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,667,9,1,4,10:11 PM,4:27,,,Jazz Timeout: Regular (Reg.4 Short 0),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200025,668,8,0,4,10:13 PM,4:27,,,SUB: Conley FOR Sexton,,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200025,670,2,1,4,10:14 PM,4:21,,,MISS Beasley 24' 3PT Jump Shot,,,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,671,4,0,4,10:14 PM,4:19,Towns REBOUND (Off:3 Def:3),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,672,1,6,4,10:15 PM,4:04,Edwards 3' Driving Layup (26 PTS),,,108 - 111,3,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,673,1,79,4,10:15 PM,3:47,,,Clarkson 25' 3PT Pullup Jump Shot (23 PTS) (Olynyk 3 AST),111 - 111,TIE,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,675,2,6,4,10:15 PM,3:32,MISS Edwards 3' Driving Layup,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,676,4,0,4,10:15 PM,3:29,,,Markkanen REBOUND (Off:3 Def:8),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,677,1,1,4,10:15 PM,3:25,,,Olynyk 27' 3PT Jump Shot (18 PTS) (Conley 7 AST),114 - 111,-3,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,679,5,45,4,10:16 PM,3:08,Towns Out of Bounds - Bad Pass Turnover Turnover (P5.T19),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022200025,756,2,6,4,10:16 PM,2:47,Russell BLOCK (1 BLK),,MISS Olynyk 3' Driving Layup,,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,1
+0022200025,758,4,0,4,10:16 PM,2:46,,,Olynyk REBOUND (Off:1 Def:2),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,680,2,72,4,10:16 PM,2:45,,,MISS Olynyk 4' Putback Layup,,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,681,4,0,4,10:16 PM,2:43,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200025,683,1,1,4,10:17 PM,2:41,,,Clarkson 27' 3PT Jump Shot (26 PTS) (Conley 8 AST),117 - 111,-6,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,685,2,1,4,10:17 PM,2:22,MISS Russell 26' 3PT Jump Shot,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,686,4,0,4,10:17 PM,2:20,Gobert REBOUND (Off:7 Def:13),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,687,2,72,4,10:17 PM,2:18,MISS Gobert 3' Putback Layup,,Markkanen BLOCK (1 BLK),,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,1
+0022200025,689,4,0,4,10:17 PM,2:18,Gobert REBOUND (Off:8 Def:13),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,690,1,6,4,10:17 PM,2:13,Edwards 3' Driving Layup (28 PTS),,,117 - 113,-4,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,691,1,1,4,10:17 PM,1:54,,,Olynyk 3PT Jump Shot (21 PTS) (Conley 9 AST),120 - 113,-7,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,693,9,1,4,10:17 PM,1:54,TIMBERWOLVES Timeout: Regular (Full 6 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200025,695,2,1,4,10:19 PM,1:42,MISS Towns 25' 3PT Jump Shot,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,696,4,0,4,10:19 PM,1:41,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200025,698,2,80,4,10:20 PM,1:24,,,MISS Conley 16' Step Back Jump Shot,,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,699,4,0,4,10:20 PM,1:22,Edwards REBOUND (Off:1 Def:4),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,700,1,6,4,10:20 PM,1:16,Edwards 3' Driving Layup (30 PTS),,,120 - 115,-5,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,701,5,40,4,10:20 PM,1:00,,,Olynyk Out of Bounds Lost Ball Turnover (P4.T13),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0022200025,702,2,6,4,10:21 PM,0:45,MISS Towns 7' Driving Layup,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,703,4,0,4,10:21 PM,0:45,Gobert REBOUND (Off:9 Def:13),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,704,2,97,4,10:21 PM,0:45,MISS Gobert Tip Layup Shot,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,705,4,0,4,10:21 PM,0:44,Gobert REBOUND (Off:10 Def:13),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,706,1,97,4,10:21 PM,0:44,Gobert Tip Layup Shot (8 PTS),,,120 - 117,-3,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,707,6,2,4,10:21 PM,0:44,,,Olynyk S.FOUL (P5.PN) (D.Guthrie),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200025,709,8,0,4,10:21 PM,0:44,SUB: Rivers FOR Russell,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,4,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200025,711,3,10,4,10:22 PM,0:44,Gobert Free Throw 1 of 1 (9 PTS),,,120 - 118,-2,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,712,2,79,4,10:22 PM,0:23,,,MISS Markkanen 10' Pullup Jump Shot,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,713,4,0,4,10:22 PM,0:22,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200025,718,18,6,4,10:22 PM,0:22,,Instant Replay4th Period (10:22 PM EST),,120 - 118,-2,0,714,Michael Finley,,,,,0,0,,,,,,1,0,,,,,,1
+0022200025,714,6,10,4,10:22 PM,0:22,," Foul : Double Personal - Olynyk (6 PF), Towns (5 PF) (D.Guthrie)",,,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200025,716,9,1,4,10:23 PM,0:22,,,Jazz Timeout: Regular (Reg.5 Short 0),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200025,721,8,0,4,10:27 PM,0:22,SUB: Russell FOR Rivers,,,,,4,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200025,722,8,0,4,10:27 PM,0:22,,,SUB: Kessler FOR Olynyk,,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200025,725,10,0,4,10:28 PM,0:20,Jump Ball Gobert vs. Markkanen: Tip to Towns,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1
+0022200025,728,9,1,4,10:29 PM,0:20,TIMBERWOLVES Timeout: Regular (Full 7 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200025,729,8,0,4,10:29 PM,0:20,,,SUB: Vanderbilt FOR Kessler,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200025,731,1,79,4,10:30 PM,0:05,Russell 14' Pullup Jump Shot (23 PTS) (Towns 2 AST),,,120 - 120,TIE,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200025,733,9,1,4,10:30 PM,0:04,,,Jazz Timeout: Regular (Reg.6 Short 0),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200025,734,8,0,4,10:31 PM,0:04,SUB: Rivers FOR Russell,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,4,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200025,735,8,0,4,10:31 PM,0:04,SUB: Prince FOR Towns,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200025,736,8,0,4,10:31 PM,0:04,,,SUB: Sexton FOR Vanderbilt,,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200025,740,2,80,4,10:32 PM,0:00,,,MISS Markkanen 27' 3PT Step Back Jump Shot,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,741,4,0,4,10:32 PM,0:00,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200025,742,13,0,4,10:32 PM,0:00,,End of 4th Period (10:32 PM EST),,120 - 120,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200025,749,12,0,5,10:35 PM,5:00,,Start of 1st OT (10:35 PM EST),,120 - 120,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200025,751,10,0,5,10:35 PM,5:00,Jump Ball Gobert vs. Markkanen: Tip to Towns,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0
+0022200025,754,1,1,5,10:35 PM,4:35,Towns 17' Jump Shot (23 PTS) (Russell 7 AST),,,120 - 122,2,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200025,759,1,79,5,10:35 PM,4:14,,,Clarkson 25' 3PT Pullup Jump Shot (29 PTS) (Conley 10 AST),123 - 122,-1,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,761,6,1,5,10:36 PM,4:00,,,Conley P.FOUL (P4.T1) (P.O'Connell),,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200025,769,9,7,5,10:37 PM,3:48,TIMBERWOLVES Timeout: Coach Challenge (Full 7 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200025,770,18,5,5,10:38 PM,3:48,,Instant Replay1st OT (10:38 PM EST),,123 - 122,-1,0,763,Tony Massenburg,,,,,0,0,,,,,,1,0,,,,,,0
+0022200025,771,1,47,5,10:39 PM,3:48,Towns 6' Turnaround Jump Shot (25 PTS),,,123 - 124,1,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,827,2,1,5,10:39 PM,3:36,Edwards BLOCK (1 BLK),,MISS Beasley 25' 3PT Jump Shot,,,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0
+0022200025,829,4,0,5,10:39 PM,3:35,,,Vanderbilt REBOUND (Off:2 Def:7),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0022200025,772,1,1,5,10:40 PM,3:31,,,Beasley 16' Jump Shot (15 PTS) (Vanderbilt 4 AST),125 - 124,-1,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,774,5,2,5,10:40 PM,3:13,Edwards Lost Ball Turnover (P5.T20),,Vanderbilt STEAL (4 STL),,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,776,2,6,5,10:40 PM,2:56,,,MISS Clarkson 4' Driving Layup,,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,777,4,0,5,10:40 PM,2:51,,,Markkanen REBOUND (Off:4 Def:8),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,778,2,97,5,10:40 PM,2:51,,,MISS Markkanen Tip Layup Shot,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,779,4,0,5,10:40 PM,2:49,,,Markkanen REBOUND (Off:5 Def:8),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,780,2,1,5,10:40 PM,2:48,,,MISS Markkanen 6' Jump Shot,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,781,4,0,5,10:40 PM,2:48,,,Vanderbilt REBOUND (Off:3 Def:7),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,791,2,97,5,10:40 PM,2:48,,,MISS Vanderbilt 1' Tip Layup Shot,,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,782,2,97,5,10:41 PM,2:45,,,MISS Vanderbilt 4' Tip Layup Shot,,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,792,4,0,5,10:41 PM,2:45,,,Vanderbilt REBOUND (Off:4 Def:7),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,783,4,0,5,10:41 PM,2:44,Towns REBOUND (Off:3 Def:4),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,785,2,1,5,10:41 PM,2:38,MISS Towns 5' Jump Shot,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,786,4,0,5,10:41 PM,2:36,Towns REBOUND (Off:4 Def:4),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,787,1,72,5,10:41 PM,2:35,Towns 2' Putback Layup (27 PTS),,,125 - 126,1,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,788,2,79,5,10:41 PM,2:08,,,MISS Beasley 18' Pullup Jump Shot,,,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,789,4,0,5,10:42 PM,2:05,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200025,793,2,47,5,10:42 PM,1:55,MISS Towns 19' Turnaround Jump Shot,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,794,4,0,5,10:42 PM,1:51,,,Vanderbilt REBOUND (Off:4 Def:8),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,795,2,1,5,10:42 PM,1:34,,,MISS Markkanen 27' 3PT Jump Shot,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,796,4,0,5,10:42 PM,1:31,Russell REBOUND (Off:1 Def:4),,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,797,2,78,5,10:43 PM,1:14,MISS Towns 12' Floating Jump Shot,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,798,4,0,5,10:43 PM,1:10,,,Vanderbilt REBOUND (Off:4 Def:9),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,800,1,1,5,10:43 PM,1:01,,,Conley 25' 3PT Jump Shot (12 PTS) (Clarkson 6 AST),128 - 126,-2,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,802,9,1,5,10:43 PM,1:01,TIMBERWOLVES Timeout: Regular (Full 8 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200025,803,2,80,5,10:45 PM,0:41,MISS Russell 15' Step Back Jump Shot,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,804,4,0,5,10:45 PM,0:39,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200025,805,6,2,5,10:46 PM,0:34,,,Conley S.FOUL (P5.T2) (D.Guthrie),,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200025,807,3,11,5,10:47 PM,0:34,MISS Gobert Free Throw 1 of 2,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,808,4,1,5,10:47 PM,0:34,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200025,809,8,0,5,10:47 PM,0:34,SUB: Rivers FOR Russell,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,4,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200025,810,8,0,5,10:47 PM,0:34,SUB: Prince FOR Towns,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200025,813,3,12,5,10:47 PM,0:34,MISS Gobert Free Throw 2 of 2,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,814,4,0,5,10:47 PM,0:32,,,Vanderbilt REBOUND (Off:4 Def:10),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,815,1,63,5,10:47 PM,0:13,,,Markkanen 10' Fadeaway Jumper (24 PTS),130 - 126,-4,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,816,9,1,5,10:48 PM,0:12,TIMBERWOLVES Timeout: Regular (Full 9 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200025,817,8,0,5,10:48 PM,0:12,SUB: Towns FOR Rivers,,,,,4,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200025,818,8,0,5,10:48 PM,0:12,SUB: Russell FOR Prince,,,,,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200025,821,2,1,5,10:49 PM,0:10,MISS Towns 32' 3PT Jump Shot,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200025,822,4,0,5,10:49 PM,0:07,,,Beasley REBOUND (Off:0 Def:3),,,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200025,823,1,7,5,10:49 PM,0:01,,,Vanderbilt 2' Dunk (4 PTS) (Conley 11 AST),132 - 126,-6,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200025,825,13,0,5,10:50 PM,0:00,,End of 1st OT (10:50 PM EST),,132 - 126,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

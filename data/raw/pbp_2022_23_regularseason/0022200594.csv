@@ -1,0 +1,460 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200594,2,12,0,1,8:41 PM,12:00,,Start of 1st Period (8:41 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200594,4,10,0,1,8:41 PM,12:00,Jump Ball Looney vs. Carter Jr.: Tip to Fultz,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,1
+0022200594,7,2,79,1,8:41 PM,11:44,,,MISS Fultz 20' Pullup Jump Shot,,,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,8,4,0,1,8:41 PM,11:41,DiVincenzo REBOUND (Off:0 Def:1),,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,9,2,1,1,8:41 PM,11:26,MISS Green 27' 3PT Jump Shot,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,10,4,0,1,8:41 PM,11:24,,,Carter Jr. REBOUND (Off:0 Def:1),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,11,1,108,1,8:42 PM,11:13,,,Carter Jr. 3' Cutting Dunk Shot (2 PTS) (Fultz 1 AST),2 - 0,-2,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200594,13,5,45,1,8:42 PM,11:09,Poole Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022200594,14,2,79,1,8:42 PM,10:54,,,MISS Fultz 12' Pullup Jump Shot,,,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,15,4,0,1,8:42 PM,10:51,Looney REBOUND (Off:0 Def:1),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,16,6,2,1,8:42 PM,10:40,,,Banchero S.FOUL (P1.T1) (J.Van Duyne),,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200594,18,3,11,1,8:43 PM,10:40,Poole Free Throw 1 of 2 (1 PTS),,,2 - 1,-1,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,19,3,12,1,8:43 PM,10:40,MISS Poole Free Throw 2 of 2,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,20,4,0,1,8:43 PM,10:38,,,Carter Jr. REBOUND (Off:0 Def:2),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,21,1,79,1,8:43 PM,10:33,,,Banchero 19' Pullup Jump Shot (2 PTS),4 - 1,-3,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,22,1,1,1,8:43 PM,10:14,Green 3PT Jump Shot (3 PTS) (Wiggins 1 AST),,,4 - 4,TIE,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200594,24,1,1,1,8:44 PM,10:01,,,Harris 28' 3PT Jump Shot (3 PTS) (Banchero 1 AST),7 - 4,-3,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200594,26,1,1,1,8:44 PM,9:51,Wiggins 27' 3PT Jump Shot (3 PTS) (Green 1 AST),,,7 - 7,TIE,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200594,28,1,71,1,8:44 PM,9:34,,,Carter Jr. 3' Finger Roll Layup (4 PTS),9 - 7,-2,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,29,2,1,1,8:44 PM,9:19,MISS Wiggins 29' 3PT Jump Shot,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,30,4,0,1,8:44 PM,9:17,,,Harris REBOUND (Off:0 Def:1),,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,31,5,1,1,8:45 PM,9:06,Looney STEAL (1 STL),,Banchero Bad Pass Turnover (P1.T1),,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200594,33,2,1,1,8:45 PM,8:57,MISS Poole 26' 3PT Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,34,4,0,1,8:45 PM,8:55,Looney REBOUND (Off:1 Def:1),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,35,1,1,1,8:45 PM,8:51,DiVincenzo 27' 3PT Jump Shot (3 PTS) (Poole 1 AST),,,9 - 10,1,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200594,37,2,1,1,8:45 PM,8:29,,,MISS Fultz 26' 3PT Jump Shot,,,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,38,4,0,1,8:45 PM,8:26,Green REBOUND (Off:0 Def:1),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,39,5,1,1,8:46 PM,8:13,Green Bad Pass Turnover (P1.T2),,Fultz STEAL (1 STL),,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200594,41,2,41,1,8:46 PM,8:07,,,MISS Fultz 6' Running Layup,,,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,42,4,0,1,8:46 PM,8:05,Poole REBOUND (Off:0 Def:1),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,43,2,1,1,8:46 PM,7:50,MISS DiVincenzo 28' 3PT Jump Shot,,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,44,4,0,1,8:46 PM,7:48,,,Carter Jr. REBOUND (Off:0 Def:3),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,45,1,9,1,8:46 PM,7:38,,,Banchero 4' Driving Dunk (4 PTS),11 - 10,-1,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,46,9,1,1,8:46 PM,7:28,WARRIORS Timeout: Regular (Full 1 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200594,47,8,0,1,8:48 PM,7:28,SUB: Lamb FOR Wiggins,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200594,48,8,0,1,8:48 PM,7:28,SUB: Iguodala FOR Looney,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200594,51,2,1,1,8:49 PM,7:16,MISS Green 3PT Jump Shot,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,52,4,0,1,8:50 PM,7:14,,,Banchero REBOUND (Off:0 Def:1),,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,53,2,79,1,8:50 PM,7:06,,,MISS Banchero 20' Pullup Jump Shot,,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,54,4,0,1,8:50 PM,7:04,Lamb REBOUND (Off:0 Def:1),,,,,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,55,5,45,1,8:50 PM,6:51,Green Out of Bounds - Bad Pass Turnover Turnover (P2.T3),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022200594,56,1,79,1,8:51 PM,6:31,,,Fultz 15' Pullup Jump Shot (2 PTS),13 - 10,-3,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,57,2,79,1,8:51 PM,6:21,MISS Poole 26' 3PT Pullup Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,58,4,0,1,8:51 PM,6:17,,,Banchero REBOUND (Off:0 Def:2),,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,59,2,1,1,8:51 PM,6:06,,,MISS F. Wagner 3PT Jump Shot,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,60,4,0,1,8:51 PM,6:04,,,Carter Jr. REBOUND (Off:1 Def:3),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,61,1,72,1,8:51 PM,6:02,,,Carter Jr. 4' Putback Layup (6 PTS),15 - 10,-5,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,62,1,1,1,8:51 PM,5:54,Lamb 26' 3PT Jump Shot (3 PTS) (Poole 2 AST),,,15 - 13,-2,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200594,64,2,1,1,8:51 PM,5:39,,,MISS Banchero 26' 3PT Jump Shot,,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,65,4,0,1,8:51 PM,5:36,Iguodala REBOUND (Off:0 Def:1),,,,,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,66,1,44,1,8:52 PM,5:29,Poole 4' Reverse Layup (3 PTS) (Green 2 AST),,,15 - 15,TIE,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200594,68,9,1,1,8:52 PM,5:29,,,Magic Timeout: Regular (Reg.1 Short 0),,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200594,69,8,0,1,8:54 PM,5:29,,,SUB: Anthony FOR F. Wagner,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200594,71,2,1,1,8:55 PM,5:12,,,MISS Banchero 25' 3PT Jump Shot,,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,72,4,0,1,8:55 PM,5:09,Green REBOUND (Off:0 Def:2),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,73,1,1,1,8:55 PM,5:00,Lamb 27' 3PT Jump Shot (6 PTS) (Iguodala 1 AST),,,15 - 18,3,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200594,75,5,2,1,8:55 PM,4:43,Lamb STEAL (1 STL),,Fultz Lost Ball Turnover (P1.T2),,,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200594,77,5,1,1,8:55 PM,4:37,Iguodala Bad Pass Turnover (P1.T4),,Fultz STEAL (2 STL),,,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200594,79,1,50,1,8:56 PM,4:32,,,Banchero 4' Running Dunk (6 PTS) (Fultz 2 AST),17 - 18,1,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200594,81,1,1,1,8:56 PM,4:14,Lamb 24' 3PT Jump Shot (9 PTS) (Green 3 AST),,,17 - 21,4,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200594,83,2,1,1,8:56 PM,4:02,,,MISS Carter Jr. 25' 3PT Jump Shot,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,84,4,0,1,8:56 PM,4:00,DiVincenzo REBOUND (Off:0 Def:2),,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,85,2,101,1,8:56 PM,3:55,MISS Poole 12' Driving Floating Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,86,4,0,1,8:56 PM,3:53,,,Fultz REBOUND (Off:0 Def:1),,,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,87,2,1,1,8:56 PM,3:47,,,MISS Harris 25' 3PT Jump Shot,,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,88,4,0,1,8:56 PM,3:44,DiVincenzo REBOUND (Off:0 Def:3),,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,89,1,1,1,8:57 PM,3:28,Lamb 24' 3PT Jump Shot (12 PTS) (Green 4 AST),,,17 - 24,7,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200594,91,2,47,1,8:57 PM,3:05,,,MISS Banchero 19' Turnaround Jump Shot,,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,92,4,0,1,8:57 PM,3:03,Lamb REBOUND (Off:0 Def:2),,,,,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,93,2,1,1,8:57 PM,2:48,MISS DiVincenzo 25' 3PT Jump Shot,,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,94,4,0,1,8:57 PM,2:46,,,Carter Jr. REBOUND (Off:1 Def:4),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,95,1,79,1,8:58 PM,2:35,,,Fultz 15' Pullup Jump Shot (4 PTS) (Carter Jr. 1 AST),19 - 24,5,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200594,97,2,1,1,8:58 PM,2:27,MISS Lamb 28' 3PT Jump Shot,,,,,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,98,4,0,1,8:58 PM,2:25,,,Anthony REBOUND (Off:0 Def:1),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,99,1,6,1,8:58 PM,2:06,,,Banchero 6' Driving Layup (8 PTS) (Fultz 3 AST),21 - 24,3,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200594,101,2,57,1,8:58 PM,1:53,MISS Poole 7' Driving Hook Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,102,4,0,1,8:58 PM,1:51,Lamb REBOUND (Off:1 Def:2),,,,,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,103,2,1,1,8:58 PM,1:38,MISS Green 26' 3PT Jump Shot,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,104,4,0,1,8:59 PM,1:35,,,Fultz REBOUND (Off:0 Def:2),,,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,105,2,6,1,8:59 PM,1:29,,,MISS Fultz 5' Driving Layup,,,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,106,4,0,1,8:59 PM,1:27,Poole REBOUND (Off:0 Def:2),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,107,1,41,1,8:59 PM,1:22,Lamb 4' Running Layup (14 PTS) (Poole 3 AST),,,21 - 26,5,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200594,109,1,1,1,8:59 PM,1:00,,,Banchero 27' 3PT Jump Shot (11 PTS) (Anthony 1 AST),24 - 26,2,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200594,112,8,0,1,8:59 PM,0:50,SUB: Jerome FOR DiVincenzo,,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,4,1629660,Ty Jerome,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200594,113,8,0,1,8:59 PM,0:50,SUB: Moody FOR Poole,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200594,114,8,0,1,8:59 PM,0:50,SUB: Looney FOR Iguodala,,,,,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200594,115,8,0,1,8:59 PM,0:50,SUB: Baldwin Jr. FOR Green,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200594,116,8,0,1,8:59 PM,0:50,,,SUB: Suggs FOR Banchero,,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200594,117,8,0,1,8:59 PM,0:50,,,SUB: M. Wagner FOR Harris,,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200594,118,8,0,1,8:59 PM,0:50,,,SUB: Ross FOR Fultz,,,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200594,119,8,0,1,8:59 PM,0:50,,,SUB: F. Wagner FOR Carter Jr.,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200594,128,1,1,1,9:00 PM,0:44,Baldwin Jr. 26' 3PT Jump Shot (3 PTS) (Lamb 1 AST),,,24 - 29,5,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200594,130,2,1,1,9:00 PM,0:37,,,MISS Ross 19' Jump Shot,,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,131,4,0,1,9:00 PM,0:34,,,M. Wagner REBOUND (Off:1 Def:0),,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,132,6,2,1,9:00 PM,0:34,Baldwin Jr. S.FOUL (P1.T1) (J.Van Duyne),,,,,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200594,134,3,11,1,9:01 PM,0:34,,,M. Wagner Free Throw 1 of 2 (1 PTS),25 - 29,4,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,135,3,12,1,9:01 PM,0:34,,,MISS M. Wagner Free Throw 2 of 2,,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,136,4,0,1,9:01 PM,0:33,Looney REBOUND (Off:1 Def:2),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,147,2,1,1,9:01 PM,0:20,MISS Lamb 24' 3PT Jump Shot,,,,,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,148,4,0,1,9:01 PM,0:20,,,Magic Rebound,,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200594,139,9,7,1,9:02 PM,0:20,,,Magic Timeout: Coach Challenge (Reg.1 Short 0),,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200594,140,18,5,1,9:02 PM,0:20,,Instant Replay1st Period (9:02 PM EST),,25 - 29,4,0,137,Vernon Maxwell,,,,,0,0,,,,,,1,0,,,,,,0
+0022200594,141,10,1,1,9:04 PM,0:20,Jump Ball (CC) Looney vs. M. Wagner: Tip to Anthony,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,1
+0022200594,144,1,1,1,9:04 PM,0:05,,,Ross 26' 3PT Jump Shot (3 PTS) (F. Wagner 1 AST),28 - 29,1,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200594,146,13,0,1,9:05 PM,0:00,,End of 1st Period (9:05 PM EST),,28 - 29,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200594,149,12,0,2,9:07 PM,12:00,,Start of 2nd Period (9:07 PM EST),,28 - 29,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200594,150,2,79,2,9:08 PM,11:42,MISS Jerome 12' Pullup Jump Shot,,,,,4,1629660,Ty Jerome,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,151,4,0,2,9:08 PM,11:40,,,Suggs REBOUND (Off:0 Def:1),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,152,1,6,2,9:08 PM,11:34,,,Suggs 7' Driving Layup (2 PTS),30 - 29,-1,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,153,2,101,2,9:08 PM,11:19,MISS Baldwin Jr. 13' Driving Floating Jump Shot,,,,,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,154,4,0,2,9:08 PM,11:19,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200594,157,6,2,2,9:08 PM,11:11,,,Suggs S.FOUL (P1.T1) (J.Van Duyne),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200594,159,3,11,2,9:09 PM,11:11,Looney Free Throw 1 of 2 (1 PTS),,,30 - 30,TIE,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,160,8,0,2,9:09 PM,11:11,SUB: Wiggins FOR Lamb,,,,,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200594,162,3,12,2,9:09 PM,11:11,Looney Free Throw 2 of 2 (2 PTS),,,30 - 31,1,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,163,6,1,2,9:10 PM,10:57,Looney P.FOUL (P1.T1) (J.Van Duyne),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200594,165,1,75,2,9:10 PM,10:51,,,F. Wagner 4' Driving Finger Roll Layup (2 PTS),32 - 31,-1,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,166,5,1,2,9:10 PM,10:44,Wiggins Bad Pass Turnover (P1.T5),,M. Wagner STEAL (1 STL),,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200594,168,1,1,2,9:10 PM,10:38,,,F. Wagner 28' 3PT Jump Shot (5 PTS) (Anthony 2 AST),35 - 31,-4,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200594,170,5,2,2,9:11 PM,10:15,Wiggins Lost Ball Turnover (P2.T6),,Anthony STEAL (1 STL),,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200594,172,1,41,2,9:11 PM,10:12,,,Suggs 5' Running Layup (4 PTS) (Anthony 3 AST),37 - 31,-6,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200594,173,6,2,2,9:11 PM,10:12,Jerome S.FOUL (P1.T2) (C.Flores),,,,,4,1629660,Ty Jerome,1610612744.0,Golden State,Warriors,GSW,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200594,176,9,1,2,9:11 PM,10:12,WARRIORS Timeout: Regular (Full 2 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200594,177,3,10,2,9:14 PM,10:12,,,MISS Suggs Free Throw 1 of 1,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,178,4,0,2,9:14 PM,10:10,Wiggins REBOUND (Off:0 Def:1),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,179,1,79,2,9:14 PM,9:56,Wiggins 18' Pullup Jump Shot (5 PTS) (Looney 1 AST),,,37 - 33,-4,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200594,181,2,6,2,9:15 PM,9:37,,,MISS F. Wagner 6' Driving Layup,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,182,4,0,2,9:15 PM,9:37,,,Suggs REBOUND (Off:1 Def:1),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,183,6,2,2,9:15 PM,9:37,Baldwin Jr. S.FOUL (P2.T3) (S.Wright),,,,,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200594,185,3,11,2,9:15 PM,9:37,,,Suggs Free Throw 1 of 2 (5 PTS),38 - 33,-5,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,186,3,12,2,9:15 PM,9:37,,,Suggs Free Throw 2 of 2 (6 PTS),39 - 33,-6,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,187,1,101,2,9:16 PM,9:21,Jerome 11' Driving Floating Jump Shot (2 PTS) (Looney 2 AST),,,39 - 35,-4,4,1629660,Ty Jerome,1610612744.0,Golden State,Warriors,GSW,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200594,189,1,6,2,9:16 PM,9:12,,,F. Wagner 7' Driving Layup (7 PTS) (M. Wagner 1 AST),41 - 35,-6,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200594,190,6,2,2,9:16 PM,9:12,Looney S.FOUL (P2.T4) (C.Flores),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200594,193,3,10,2,9:16 PM,9:12,,,F. Wagner Free Throw 1 of 1 (8 PTS),42 - 35,-7,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,194,2,1,2,9:17 PM,8:58,MISS Baldwin Jr. 26' 3PT Jump Shot,,,,,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,195,4,0,2,9:17 PM,8:55,Looney REBOUND (Off:2 Def:2),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,196,2,1,2,9:17 PM,8:54,MISS Wiggins 27' 3PT Jump Shot,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,197,4,0,2,9:17 PM,8:52,,,Magic Rebound,,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200594,199,2,79,2,9:17 PM,8:46,,,MISS Anthony 20' Pullup Jump Shot,,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,200,4,0,2,9:17 PM,8:43,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200594,202,6,1,2,9:17 PM,8:35,,,F. Wagner P.FOUL (P1.T2) (S.Wright),,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200594,204,2,1,2,9:18 PM,8:22,MISS Moody 24' 3PT Jump Shot,,,,,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,205,4,0,2,9:18 PM,8:20,,,M. Wagner REBOUND (Off:1 Def:1),,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,206,2,1,2,9:18 PM,8:13,,,MISS M. Wagner 26' 3PT Jump Shot,,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,207,4,0,2,9:18 PM,8:11,Baldwin Jr. REBOUND (Off:0 Def:1),,,,,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,208,2,101,2,9:18 PM,8:02,MISS Jerome 12' Driving Floating Jump Shot,,Suggs BLOCK (1 BLK),,,4,1629660,Ty Jerome,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,1
+0022200594,210,4,0,2,9:18 PM,7:59,,,F. Wagner REBOUND (Off:0 Def:1),,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,211,2,98,2,9:18 PM,7:56,,,MISS M. Wagner 6' Cutting Layup Shot,,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,212,4,0,2,9:18 PM,7:53,Baldwin Jr. REBOUND (Off:0 Def:2),,,,,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,213,6,1,2,9:19 PM,7:51,,,Suggs P.FOUL (P2.T3) (C.Flores),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200594,215,8,0,2,9:19 PM,7:51,SUB: Poole FOR Looney,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200594,216,8,0,2,9:19 PM,7:51,SUB: Green FOR Baldwin Jr.,,,,,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200594,220,1,1,2,9:19 PM,7:44,Poole 29' 3PT Jump Shot (6 PTS) (Moody 1 AST),,,42 - 38,-4,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200594,222,6,2,2,9:19 PM,7:32,Green S.FOUL (P1.PN) (C.Flores),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200594,224,3,11,2,9:20 PM,7:32,,,MISS F. Wagner Free Throw 1 of 2,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,225,4,1,2,9:20 PM,7:32,,,Magic Rebound,,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200594,226,8,0,2,9:20 PM,7:32,SUB: DiVincenzo FOR Moody,,,,,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200594,228,3,12,2,9:20 PM,7:32,,,F. Wagner Free Throw 2 of 2 (9 PTS),43 - 38,-5,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,229,2,1,2,9:21 PM,7:20,MISS Wiggins 28' 3PT Jump Shot,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,230,4,0,2,9:21 PM,7:18,,,Anthony REBOUND (Off:0 Def:2),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,231,2,1,2,9:21 PM,7:04,,,MISS Suggs 26' 3PT Jump Shot,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,232,4,0,2,9:21 PM,7:02,,,Anthony REBOUND (Off:1 Def:2),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,233,1,6,2,9:21 PM,7:01,,,Anthony 4' Driving Layup (2 PTS),45 - 38,-7,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,234,6,2,2,9:21 PM,7:01,Green S.FOUL (P2.PN) (S.Wright),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200594,236,3,10,2,9:21 PM,7:01,,,MISS Anthony Free Throw 1 of 1,,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,237,4,0,2,9:21 PM,6:58,Poole REBOUND (Off:0 Def:3),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,238,1,1,2,9:21 PM,6:49,DiVincenzo 3PT Jump Shot (6 PTS) (Poole 4 AST),,,45 - 41,-4,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200594,240,6,26,2,9:22 PM,6:32,,,F. Wagner Offensive Charge Foul (P2) (J.Van Duyne),,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200594,242,5,37,2,9:22 PM,6:32,,,F. Wagner Offensive Foul Turnover (P1.T3),,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022200594,243,8,0,2,9:22 PM,6:32,SUB: Lamb FOR Wiggins,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200594,244,8,0,2,9:22 PM,6:32,,,SUB: Fultz FOR Suggs,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200594,247,5,1,2,9:23 PM,6:17,Poole Bad Pass Turnover (P2.T7),,Ross STEAL (1 STL),,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200594,249,1,76,2,9:23 PM,6:14,,,Ross 3' Running Finger Roll Layup (5 PTS),47 - 41,-6,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,250,2,1,2,9:23 PM,5:50,MISS Lamb 24' 3PT Jump Shot,,,,,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,251,4,0,2,9:23 PM,5:47,,,Fultz REBOUND (Off:0 Def:3),,,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,252,2,1,2,9:23 PM,5:42,,,MISS F. Wagner 3PT Jump Shot,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,253,4,0,2,9:23 PM,5:40,DiVincenzo REBOUND (Off:0 Def:4),,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,255,8,0,2,9:23 PM,5:37,,,SUB: Banchero FOR Anthony,,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200594,257,1,1,2,9:24 PM,5:26,Lamb 25' 3PT Jump Shot (17 PTS) (DiVincenzo 1 AST),,,47 - 44,-3,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200594,259,5,1,2,9:24 PM,5:09,DiVincenzo STEAL (1 STL),,F. Wagner Bad Pass Turnover (P2.T4),,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200594,261,1,75,2,9:24 PM,5:02,Jerome 6' Driving Finger Roll Layup (4 PTS) (DiVincenzo 2 AST),,,47 - 46,-1,4,1629660,Ty Jerome,1610612744.0,Golden State,Warriors,GSW,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200594,263,9,1,2,9:24 PM,5:02,,,Magic Timeout: Regular (Reg.2 Short 0),,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200594,264,8,0,2,9:27 PM,5:02,SUB: Looney FOR Jerome,,,,,4,1629660,Ty Jerome,1610612744.0,Golden State,Warriors,GSW,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200594,265,8,0,2,9:27 PM,5:02,,,SUB: Harris FOR M. Wagner,,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200594,266,8,0,2,9:27 PM,5:02,,,SUB: Carter Jr. FOR F. Wagner,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200594,270,2,86,2,9:27 PM,4:48,,,MISS Carter Jr. 10' Turnaround Fadeaway Shot,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,271,4,0,2,9:27 PM,4:45,Looney REBOUND (Off:2 Def:3),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,272,2,79,2,9:28 PM,4:21,MISS Poole 32' 3PT Pullup Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,273,4,0,2,9:28 PM,4:18,,,Ross REBOUND (Off:0 Def:1),,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,274,1,6,2,9:28 PM,4:10,,,Banchero 6' Driving Layup (13 PTS) (Ross 1 AST),49 - 46,-3,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200594,275,2,1,2,9:28 PM,3:59,MISS DiVincenzo 29' 3PT Jump Shot,,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,276,4,0,2,9:28 PM,3:56,,,Carter Jr. REBOUND (Off:1 Def:5),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,277,1,79,2,9:28 PM,3:51,,,Banchero 25' 3PT Pullup Jump Shot (16 PTS),52 - 46,-6,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,279,1,102,2,9:29 PM,3:31,Lamb 6' Driving Floating Bank Jump Shot (19 PTS),,,52 - 48,-4,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,281,1,80,2,9:29 PM,3:14,,,Banchero 28' 3PT Step Back Jump Shot (19 PTS),55 - 48,-7,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,282,1,1,2,9:29 PM,2:54,DiVincenzo 3PT Jump Shot (9 PTS) (Poole 5 AST),,,55 - 51,-4,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200594,284,1,63,2,9:30 PM,2:34,,,Fultz 8' Fadeaway Jumper (6 PTS) (Harris 1 AST),57 - 51,-6,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200594,285,1,6,2,9:30 PM,2:19,Lamb 5' Driving Layup (21 PTS) (Green 5 AST),,,57 - 53,-4,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200594,287,6,2,2,9:30 PM,2:19,,,Harris S.FOUL (P1.T4) (S.Wright),,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200594,290,8,0,2,9:30 PM,2:19,,,SUB: F. Wagner FOR Ross,,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200594,293,3,10,2,9:31 PM,2:19,Lamb Free Throw 1 of 1 (22 PTS),,,57 - 54,-3,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,294,2,6,2,9:31 PM,2:09,,,MISS Harris 3' Driving Layup,,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,296,4,0,2,9:32 PM,2:07,DiVincenzo REBOUND (Off:0 Def:5),,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,297,1,76,2,9:32 PM,2:02,Poole 5' Running Finger Roll Layup (8 PTS) (DiVincenzo 3 AST),,,57 - 56,-1,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200594,299,1,41,2,9:32 PM,1:54,,,Fultz 5' Running Layup (8 PTS) (Banchero 2 AST),59 - 56,-3,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200594,301,2,80,2,9:32 PM,1:35,MISS Lamb 3PT Step Back Jump Shot,,,,,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,302,4,0,2,9:32 PM,1:32,DiVincenzo REBOUND (Off:1 Def:5),,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,303,2,1,2,9:32 PM,1:28,MISS Poole 31' 3PT Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,304,4,0,2,9:32 PM,1:25,Looney REBOUND (Off:3 Def:3),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,305,1,58,2,9:32 PM,1:22,Looney 4' Turnaround Hook Shot (4 PTS),,,59 - 58,-1,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,306,5,1,2,9:32 PM,1:11,DiVincenzo STEAL (2 STL),,Banchero Bad Pass Turnover (P2.T5),,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200594,308,2,98,2,9:33 PM,1:07,MISS Poole 4' Cutting Layup Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,309,4,0,2,9:33 PM,1:05,,,Carter Jr. REBOUND (Off:1 Def:6),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,310,1,1,2,9:33 PM,0:58,,,F. Wagner 24' 3PT Jump Shot (12 PTS) (Fultz 4 AST),62 - 58,-4,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200594,313,2,63,2,9:33 PM,0:33,MISS Lamb 11' Fadeaway Jumper,,,,,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,314,4,0,2,9:33 PM,0:31,Looney REBOUND (Off:4 Def:3),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,315,2,79,2,9:34 PM,0:23,MISS DiVincenzo 28' 3PT Pullup Jump Shot,,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,316,4,0,2,9:34 PM,0:21,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200594,317,6,3,2,9:34 PM,0:21,,,Harris L.B.FOUL (P2.PN) (J.Van Duyne),,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200594,319,3,11,2,9:34 PM,0:21,Looney Free Throw 1 of 2 (5 PTS),,,62 - 59,-3,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,320,8,0,2,9:34 PM,0:21,SUB: Iguodala FOR Poole,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200594,321,8,0,2,9:34 PM,0:21,SUB: Wiggins FOR Green,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200594,324,3,12,2,9:35 PM,0:21,MISS Looney Free Throw 2 of 2,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,325,4,0,2,9:35 PM,0:19,,,Carter Jr. REBOUND (Off:1 Def:7),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,326,2,73,2,9:35 PM,0:04,,,MISS Fultz 3' Driving Reverse Layup,,,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,327,4,0,2,9:35 PM,0:02,Lamb REBOUND (Off:1 Def:3),,,,,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,328,2,1,2,9:35 PM,0:00,MISS Lamb 48' 3PT Jump Shot,,,,,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,329,4,0,2,9:35 PM,0:00,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200594,330,13,0,2,9:35 PM,0:00,,End of 2nd Period (9:35 PM EST),,62 - 59,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200594,335,12,0,3,9:50 PM,12:00,,Start of 3rd Period (9:50 PM EST),,62 - 59,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200594,336,1,1,3,9:51 PM,11:53,Wiggins 26' 3PT Jump Shot (8 PTS) (Poole 6 AST),,,62 - 62,TIE,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200594,338,6,2,3,9:51 PM,11:35,Green S.FOUL (P3.T1) (S.Wright),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200594,340,3,11,3,9:51 PM,11:35,,,MISS Banchero Free Throw 1 of 2,,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,341,4,1,3,9:51 PM,11:35,,,Magic Rebound,,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200594,342,3,12,3,9:52 PM,11:35,,,Banchero Free Throw 2 of 2 (20 PTS),63 - 62,-1,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,343,5,1,3,9:52 PM,11:23,Poole Bad Pass Turnover (P3.T8),,Fultz STEAL (3 STL),,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200594,345,1,1,3,9:52 PM,11:19,,,F. Wagner 27' 3PT Jump Shot (15 PTS) (Fultz 5 AST),66 - 62,-4,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200594,347,2,80,3,9:52 PM,10:59,MISS Wiggins 20' Step Back Jump Shot,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,348,4,0,3,9:52 PM,10:56,,,Fultz REBOUND (Off:0 Def:4),,,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,349,2,6,3,9:53 PM,10:50,,,MISS Banchero 4' Driving Layup,,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,350,4,0,3,9:53 PM,10:47,Wiggins REBOUND (Off:0 Def:2),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,351,6,2,3,9:53 PM,10:39,,,Carter Jr. S.FOUL (P1.T1) (S.Wright),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200594,353,3,11,3,9:53 PM,10:39,MISS Green Free Throw 1 of 2,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,354,4,1,3,9:53 PM,10:39,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200594,355,3,12,3,9:53 PM,10:39,MISS Green Free Throw 2 of 2,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,356,4,0,3,9:53 PM,10:36,,,Harris REBOUND (Off:0 Def:2),,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,357,1,85,3,9:53 PM,10:29,,,Fultz 10' Turnaround Bank Shot (10 PTS),68 - 62,-6,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,358,2,101,3,9:54 PM,10:07,MISS Wiggins 11' Driving Floating Jump Shot,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,359,4,0,3,9:54 PM,10:05,,,Carter Jr. REBOUND (Off:1 Def:8),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,360,1,1,3,9:54 PM,9:54,,,Banchero 27' 3PT Jump Shot (23 PTS) (Fultz 6 AST),71 - 62,-9,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200594,362,9,1,3,9:54 PM,9:44,WARRIORS Timeout: Regular (Full 3 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200594,363,1,1,3,9:57 PM,9:37,Poole 26' 3PT Jump Shot (11 PTS) (Wiggins 2 AST),,,71 - 65,-6,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200594,365,2,101,3,9:58 PM,9:17,,,MISS Harris 8' Driving Floating Jump Shot,,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,366,4,0,3,9:58 PM,9:14,Green REBOUND (Off:0 Def:3),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,367,2,1,3,9:58 PM,9:09,MISS Wiggins 26' 3PT Jump Shot,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,368,4,0,3,9:58 PM,9:07,,,Harris REBOUND (Off:0 Def:3),,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,369,1,1,3,9:58 PM,8:59,,,Carter Jr. 29' 3PT Jump Shot (9 PTS) (Fultz 7 AST),74 - 65,-9,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200594,371,6,26,3,9:58 PM,8:47,Green Offensive Charge Foul (P4) (C.Flores),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200594,373,5,37,3,9:58 PM,8:47,Green Offensive Foul Turnover (P3.T9),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022200594,374,1,98,3,9:59 PM,8:27,,,Carter Jr. 4' Cutting Layup Shot (11 PTS) (Harris 2 AST),76 - 65,-11,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200594,376,6,2,3,9:59 PM,8:23,,,Harris S.FOUL (P3.T2) (J.Van Duyne),,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200594,378,3,11,3,10:00 PM,8:23,Wiggins Free Throw 1 of 2 (9 PTS),,,76 - 66,-10,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,379,8,0,3,10:00 PM,8:23,SUB: Iguodala FOR DiVincenzo,,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200594,380,8,0,3,10:00 PM,8:23,SUB: Lamb FOR Green,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200594,383,3,12,3,10:00 PM,8:23,Wiggins Free Throw 2 of 2 (10 PTS),,,76 - 67,-9,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,384,2,1,3,10:00 PM,8:16,,,MISS F. Wagner 24' 3PT Jump Shot,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,385,4,0,3,10:00 PM,8:13,,,Fultz REBOUND (Off:1 Def:4),,,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,386,1,79,3,10:00 PM,8:09,,,Fultz 11' Pullup Jump Shot (12 PTS) (Banchero 3 AST),78 - 67,-11,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200594,387,5,1,3,10:01 PM,7:53,Iguodala Bad Pass Turnover (P2.T10),,F. Wagner STEAL (1 STL),,,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200594,389,2,1,3,10:01 PM,7:41,,,MISS Fultz 26' 3PT Jump Shot,,,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,390,4,0,3,10:01 PM,7:38,Looney REBOUND (Off:4 Def:4),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,391,5,1,3,10:01 PM,7:28,Wiggins Bad Pass Turnover (P3.T11),,Harris STEAL (1 STL),,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200594,393,5,2,3,10:01 PM,7:23,Wiggins STEAL (1 STL),,Fultz Lost Ball Turnover (P2.T6),,,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200594,395,5,1,3,10:01 PM,7:10,Poole Bad Pass Turnover (P4.T12),,Fultz STEAL (4 STL),,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200594,397,1,74,3,10:01 PM,7:09,,,Fultz 5' Running Reverse Layup (14 PTS),80 - 67,-13,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,398,6,2,3,10:02 PM,7:09,Wiggins S.FOUL (P1.T2) (J.Van Duyne),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200594,400,8,0,3,10:02 PM,7:09,SUB: DiVincenzo FOR Wiggins,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200594,402,3,10,3,10:02 PM,7:09,,,MISS Fultz Free Throw 1 of 1,,,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,403,4,0,3,10:02 PM,7:07,Iguodala REBOUND (Off:0 Def:2),,,,,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,404,2,80,3,10:02 PM,6:48,MISS DiVincenzo 11' Step Back Jump Shot,,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,405,4,0,3,10:02 PM,6:44,Looney REBOUND (Off:5 Def:4),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,406,1,5,3,10:03 PM,6:38,Looney 6' Layup (7 PTS) (Lamb 2 AST),,,80 - 69,-11,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200594,408,2,1,3,10:03 PM,6:23,,,MISS Banchero 26' 3PT Jump Shot,,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,409,4,0,3,10:03 PM,6:20,Looney REBOUND (Off:5 Def:5),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,411,5,2,3,10:03 PM,6:18,Looney Lost Ball Turnover (P1.T13),,Fultz STEAL (5 STL),,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200594,413,6,2,3,10:03 PM,6:15,Iguodala S.FOUL (P1.T3) (S.Wright),,,,,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200594,415,3,11,3,10:03 PM,6:15,,,Banchero Free Throw 1 of 2 (24 PTS),81 - 69,-12,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,416,8,0,3,10:03 PM,6:15,,,SUB: Anthony FOR F. Wagner,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200594,418,3,12,3,10:04 PM,6:15,,,Banchero Free Throw 2 of 2 (25 PTS),82 - 69,-13,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,419,6,2,3,10:04 PM,6:06,,,Carter Jr. S.FOUL (P2.T3) (S.Wright),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200594,421,3,11,3,10:04 PM,6:06,Poole Free Throw 1 of 2 (12 PTS),,,82 - 70,-12,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,422,8,0,3,10:04 PM,6:06,SUB: Jerome FOR DiVincenzo,,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,4,1629660,Ty Jerome,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200594,424,3,12,3,10:05 PM,6:06,Poole Free Throw 2 of 2 (13 PTS),,,82 - 71,-11,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,425,1,73,3,10:05 PM,5:53,,,Fultz 3' Driving Reverse Layup (16 PTS),84 - 71,-13,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,427,2,1,3,10:05 PM,5:39,MISS Poole 27' 3PT Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,428,4,0,3,10:05 PM,5:37,,,Magic Rebound,,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200594,430,2,80,3,10:06 PM,5:26,,,MISS Harris 20' Step Back Jump Shot,,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,431,4,0,3,10:06 PM,5:22,Looney REBOUND (Off:5 Def:6),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,432,2,1,3,10:06 PM,5:04,MISS Lamb 27' 3PT Jump Shot,,,,,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,433,4,0,3,10:06 PM,5:00,Lamb REBOUND (Off:2 Def:3),,,,,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,434,1,6,3,10:06 PM,4:55,Lamb 5' Driving Layup (24 PTS),,,84 - 73,-11,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,435,2,1,3,10:06 PM,4:42,,,MISS Banchero 27' 3PT Jump Shot,,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,436,4,0,3,10:07 PM,4:38,Looney REBOUND (Off:5 Def:7),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,437,6,2,3,10:07 PM,4:23,,,Anthony S.FOUL (P1.T4) (J.Van Duyne),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200594,439,3,11,3,10:07 PM,4:23,Poole Free Throw 1 of 2 (14 PTS),,,84 - 74,-10,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,440,8,0,3,10:07 PM,4:23,SUB: Green FOR Looney,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200594,441,8,0,3,10:07 PM,4:23,,,SUB: Ross FOR Harris,,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200594,444,3,12,3,10:08 PM,4:23,Poole Free Throw 2 of 2 (15 PTS),,,84 - 75,-9,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,445,1,1,3,10:08 PM,4:11,,,Anthony 26' 3PT Jump Shot (5 PTS) (Ross 2 AST),87 - 75,-12,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200594,447,5,4,3,10:08 PM,3:54,Jerome Traveling Turnover (P1.T14),,,,,4,1629660,Ty Jerome,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022200594,448,1,102,3,10:09 PM,3:45,,,Carter Jr. 8' Driving Floating Bank Jump Shot (13 PTS),89 - 75,-14,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,449,1,75,3,10:09 PM,3:33,Green 7' Driving Finger Roll Layup (5 PTS),,,89 - 77,-12,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,450,2,79,3,10:09 PM,3:26,,,MISS Banchero 16' Pullup Jump Shot,,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,451,4,0,3,10:09 PM,3:24,,,Magic Rebound,,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200594,452,6,3,3,10:09 PM,3:24,Lamb L.B.FOUL (P1.T4) (C.Flores),,,,,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200594,454,8,0,3,10:09 PM,3:24,SUB: Baldwin Jr. FOR Iguodala,,,,,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200594,456,1,1,3,10:10 PM,3:18,,,Anthony 27' 3PT Jump Shot (8 PTS) (Carter Jr. 2 AST),92 - 77,-15,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200594,458,5,1,3,10:10 PM,2:57,Baldwin Jr. Bad Pass Turnover (P1.T15),,Fultz STEAL (6 STL),,,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200594,460,5,1,3,10:10 PM,2:50,Jerome STEAL (1 STL),,Carter Jr. Bad Pass Turnover (P1.T7),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,4,1629660,Ty Jerome,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200594,462,2,1,3,10:10 PM,2:46,MISS Lamb 3PT Jump Shot,,,,,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,463,4,0,3,10:10 PM,2:43,,,Carter Jr. REBOUND (Off:1 Def:9),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,464,5,21,3,10:10 PM,2:36,,,Anthony Palming Turnover (P1.T8),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022200594,465,9,1,3,10:11 PM,2:36,,,Magic Timeout: Regular (Reg.3 Short 0),,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200594,467,8,0,3,10:13 PM,2:36,,,SUB: M. Wagner FOR Banchero,,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200594,468,8,0,3,10:13 PM,2:36,,,SUB: F. Wagner FOR Fultz,,,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200594,469,8,0,3,10:13 PM,2:36,,,SUB: Suggs FOR Carter Jr.,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200594,473,2,1,3,10:14 PM,2:21,MISS Jerome 25' 3PT Jump Shot,,,,,4,1629660,Ty Jerome,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,474,4,0,3,10:14 PM,2:18,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200594,476,2,1,3,10:14 PM,2:09,MISS Poole 27' 3PT Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,477,4,0,3,10:14 PM,2:07,,,Suggs REBOUND (Off:1 Def:2),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,478,2,98,3,10:15 PM,1:58,,,MISS M. Wagner 6' Cutting Layup Shot,,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,479,4,0,3,10:15 PM,1:56,Lamb REBOUND (Off:2 Def:4),,,,,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,482,6,1,3,10:16 PM,1:37,,,M. Wagner P.FOUL (P1.PN) (J.Van Duyne),,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200594,484,3,11,3,10:16 PM,1:37,Poole Free Throw 1 of 2 (16 PTS),,,92 - 78,-14,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,485,3,12,3,10:17 PM,1:37,Poole Free Throw 2 of 2 (17 PTS),,,92 - 79,-13,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,486,2,101,3,10:17 PM,1:22,,,MISS F. Wagner 8' Driving Floating Jump Shot,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,487,4,0,3,10:17 PM,1:20,Green REBOUND (Off:0 Def:4),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,488,2,1,3,10:17 PM,1:06,MISS Poole 29' 3PT Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,489,4,0,3,10:17 PM,1:04,,,F. Wagner REBOUND (Off:0 Def:2),,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,490,5,1,3,10:18 PM,0:47,Lamb STEAL (2 STL),,M. Wagner Bad Pass Turnover (P1.T9),,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200594,492,1,1,3,10:18 PM,0:34,Baldwin Jr. 29' 3PT Jump Shot (6 PTS) (Jerome 1 AST),,,92 - 82,-10,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,4,1629660,Ty Jerome,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200594,494,2,80,3,10:18 PM,0:14,,,MISS Anthony 28' 3PT Step Back Jump Shot,,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,495,4,0,3,10:18 PM,0:10,Green REBOUND (Off:0 Def:5),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,496,2,1,3,10:18 PM,0:00,MISS Baldwin Jr. 26' 3PT Jump Shot,,,,,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,497,4,0,3,10:18 PM,0:00,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200594,498,13,0,3,10:19 PM,0:00,,End of 3rd Period (10:19 PM EST),,92 - 82,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200594,504,12,0,4,10:21 PM,12:00,,Start of 4th Period (10:21 PM EST),,92 - 82,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200594,505,1,75,4,10:21 PM,11:49,,,F. Wagner 5' Driving Finger Roll Layup (17 PTS) (Anthony 4 AST),94 - 82,-12,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200594,506,1,1,4,10:22 PM,11:38,Baldwin Jr. 27' 3PT Jump Shot (9 PTS) (Lamb 3 AST),,,94 - 85,-9,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200594,508,6,2,4,10:22 PM,11:19,Baldwin Jr. S.FOUL (P3.T1) (J.Van Duyne),,,,,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200594,510,3,11,4,10:22 PM,11:19,,,Anthony Free Throw 1 of 2 (9 PTS),95 - 85,-10,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,511,3,12,4,10:23 PM,11:19,,,Anthony Free Throw 2 of 2 (10 PTS),96 - 85,-11,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,512,2,47,4,10:23 PM,11:04,MISS Wiggins 8' Turnaround Jump Shot,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,513,4,0,4,10:23 PM,11:02,,,M. Wagner REBOUND (Off:1 Def:2),,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,514,6,2,4,10:23 PM,10:51,Lamb S.FOUL (P2.T2) (S.Wright),,,,,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200594,516,9,1,4,10:24 PM,10:51,WARRIORS Timeout: Regular (Full 4 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200594,517,18,4,4,10:24 PM,10:51,,Instant Replay4th Period (10:24 PM EST),,96 - 85,-11,0,514,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200594,519,3,11,4,10:27 PM,10:51,,,MISS M. Wagner Free Throw 1 of 2,,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,520,4,1,4,10:27 PM,10:51,,,Magic Rebound,,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200594,521,3,12,4,10:27 PM,10:51,,,MISS M. Wagner Free Throw 2 of 2,,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,522,4,0,4,10:27 PM,10:50,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200594,595,7,3,4,10:27 PM,10:50,,,M. Wagner Violation:Lane (S.Wright),,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,0
+0022200594,523,2,1,4,10:27 PM,10:41,MISS Baldwin Jr. 28' 3PT Jump Shot,,,,,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,524,4,0,4,10:27 PM,10:39,,,M. Wagner REBOUND (Off:1 Def:3),,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,525,1,57,4,10:28 PM,10:27,,,F. Wagner 8' Driving Hook Shot (19 PTS) (Ross 3 AST),98 - 85,-13,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200594,527,2,1,4,10:28 PM,10:02,MISS Lamb 3PT Jump Shot,,,,,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,528,4,0,4,10:28 PM,9:59,,,Ross REBOUND (Off:0 Def:2),,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,529,6,2,4,10:28 PM,9:41,Wiggins S.FOUL (P2.T3) (C.Flores),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200594,531,3,11,4,10:29 PM,9:41,,,F. Wagner Free Throw 1 of 2 (20 PTS),99 - 85,-14,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,532,8,0,4,10:29 PM,9:41,SUB: Poole FOR Baldwin Jr.,,,,,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200594,533,8,0,4,10:29 PM,9:41,SUB: Green FOR Jerome,,,,,4,1629660,Ty Jerome,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200594,536,3,12,4,10:29 PM,9:41,,,MISS F. Wagner Free Throw 2 of 2,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,537,4,0,4,10:29 PM,9:39,Wiggins REBOUND (Off:0 Def:3),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,538,1,47,4,10:30 PM,9:26,Wiggins 17' Turnaround Jump Shot (12 PTS) (Green 6 AST),,,99 - 87,-12,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200594,540,1,1,4,10:30 PM,9:08,,,M. Wagner 26' 3PT Jump Shot (4 PTS) (F. Wagner 2 AST),102 - 87,-15,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200594,542,2,1,4,10:30 PM,8:52,MISS Green 3PT Jump Shot,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,543,4,0,4,10:30 PM,8:49,,,Anthony REBOUND (Off:1 Def:3),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,544,6,2,4,10:30 PM,8:38,Wiggins S.FOUL (P3.T4) (J.Van Duyne),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200594,546,3,11,4,10:31 PM,8:38,,,MISS Suggs Free Throw 1 of 2,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,547,4,1,4,10:31 PM,8:38,,,Magic Rebound,,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200594,548,3,12,4,10:31 PM,8:38,,,Suggs Free Throw 2 of 2 (7 PTS),103 - 87,-16,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,549,2,79,4,10:31 PM,8:23,MISS Poole 26' 3PT Pullup Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,550,4,0,4,10:31 PM,8:21,,,Magic Rebound,,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200594,552,2,1,4,10:32 PM,8:07,,,MISS Anthony 27' 3PT Jump Shot,,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,553,4,0,4,10:32 PM,8:05,,,M. Wagner REBOUND (Off:2 Def:3),,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,554,6,2,4,10:32 PM,8:01,Poole S.FOUL (P1.PN) (S.Wright),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200594,556,3,11,4,10:32 PM,8:01,,,Suggs Free Throw 1 of 2 (8 PTS),104 - 87,-17,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,557,3,12,4,10:33 PM,8:01,,,Suggs Free Throw 2 of 2 (9 PTS),105 - 87,-18,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,558,2,1,4,10:33 PM,7:49,MISS Wiggins 26' 3PT Jump Shot,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,559,4,0,4,10:33 PM,7:44,Lamb REBOUND (Off:3 Def:4),,,,,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,560,2,5,4,10:33 PM,7:44,MISS Lamb 6' Layup,,Suggs BLOCK (2 BLK),,,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,1
+0022200594,562,4,0,4,10:33 PM,7:41,,,Ross REBOUND (Off:0 Def:3),,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,563,2,79,4,10:33 PM,7:35,,,MISS Suggs 28' 3PT Pullup Jump Shot,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,564,4,0,4,10:33 PM,7:33,Lamb REBOUND (Off:3 Def:5),,,,,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,566,6,2,4,10:34 PM,7:18,,,F. Wagner S.FOUL (P3.T1) (C.Flores),,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200594,568,3,11,4,10:34 PM,7:18,Poole Free Throw 1 of 2 (18 PTS),,,105 - 88,-17,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,569,8,0,4,10:34 PM,7:18,SUB: Looney FOR Wiggins,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200594,571,3,12,4,10:35 PM,7:18,Poole Free Throw 2 of 2 (19 PTS),,,105 - 89,-16,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,572,1,101,4,10:35 PM,7:05,,,Anthony 8' Driving Floating Jump Shot (12 PTS),107 - 89,-18,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,573,1,1,4,10:35 PM,6:55,DiVincenzo 26' 3PT Jump Shot (12 PTS) (Lamb 4 AST),,,107 - 92,-15,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200594,575,1,75,4,10:35 PM,6:38,,,F. Wagner 4' Driving Finger Roll Layup (22 PTS) (Anthony 5 AST),109 - 92,-17,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200594,577,1,1,4,10:35 PM,6:25,DiVincenzo 31' 3PT Jump Shot (15 PTS),,,109 - 95,-14,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,578,1,75,4,10:36 PM,5:58,,,Anthony 5' Driving Finger Roll Layup (14 PTS),111 - 95,-16,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,579,6,2,4,10:36 PM,5:47,,,M. Wagner S.FOUL (P2.T2) (J.Van Duyne),,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200594,581,3,11,4,10:37 PM,5:47,Lamb Free Throw 1 of 2 (25 PTS),,,111 - 96,-15,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,582,3,12,4,10:37 PM,5:47,Lamb Free Throw 2 of 2 (26 PTS),,,111 - 97,-14,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,583,2,79,4,10:37 PM,5:30,,,MISS F. Wagner 29' 3PT Pullup Jump Shot,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,584,4,0,4,10:37 PM,5:27,Poole REBOUND (Off:0 Def:4),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,585,2,1,4,10:37 PM,5:14,MISS Lamb 3PT Jump Shot,,,,,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,586,4,0,4,10:37 PM,5:12,,,Anthony REBOUND (Off:1 Def:4),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,587,9,1,4,10:38 PM,5:07,,,Magic Timeout: Regular (Reg.4 Short 0),,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200594,588,8,0,4,10:40 PM,5:07,,,SUB: Carter Jr. FOR Suggs,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200594,589,8,0,4,10:40 PM,5:07,,,SUB: Banchero FOR M. Wagner,,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200594,592,2,57,4,10:41 PM,5:01,,,MISS F. Wagner 3' Driving Hook Shot,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,593,4,0,4,10:41 PM,4:59,,,Banchero REBOUND (Off:1 Def:2),,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,594,1,80,4,10:41 PM,4:48,,,Anthony 20' Step Back Jump Shot (16 PTS),113 - 97,-16,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,596,2,1,4,10:41 PM,4:24,MISS Poole 3PT Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,597,4,0,4,10:41 PM,4:22,,,Ross REBOUND (Off:0 Def:4),,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,598,2,79,4,10:42 PM,4:03,,,MISS Banchero 28' 3PT Pullup Jump Shot,,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,599,4,0,4,10:42 PM,4:01,DiVincenzo REBOUND (Off:1 Def:6),,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,600,5,1,4,10:42 PM,3:56,DiVincenzo Bad Pass Turnover (P1.T16),,Banchero STEAL (1 STL),,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200594,602,2,5,4,10:42 PM,3:51,Poole BLOCK (1 BLK),,MISS Carter Jr. 4' Layup,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,1
+0022200594,604,4,0,4,10:42 PM,3:50,,,Magic Rebound,,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200594,606,8,0,4,10:42 PM,3:50,SUB: Moody FOR Looney,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200594,607,8,0,4,10:42 PM,3:50,SUB: Baldwin Jr. FOR Green,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200594,608,8,0,4,10:42 PM,3:50,,,SUB: Fultz FOR Ross,,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200594,612,1,6,4,10:42 PM,3:45,,,F. Wagner 5' Driving Layup (24 PTS) (Carter Jr. 3 AST),115 - 97,-18,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200594,614,1,6,4,10:43 PM,3:26,Poole 6' Driving Layup (21 PTS),,,115 - 99,-16,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,615,2,47,4,10:43 PM,3:07,,,MISS Fultz 9' Turnaround Jump Shot,,,5,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,616,4,0,4,10:43 PM,3:04,DiVincenzo REBOUND (Off:1 Def:7),,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,617,2,98,4,10:43 PM,2:53,MISS Baldwin Jr. 5' Cutting Layup Shot,,,,,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,619,4,0,4,10:43 PM,2:51,,,Banchero REBOUND (Off:1 Def:3),,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,620,2,101,4,10:44 PM,2:40,,,MISS Banchero 9' Driving Floating Jump Shot,,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,621,4,0,4,10:44 PM,2:37,Moody REBOUND (Off:0 Def:1),,,,,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,622,2,1,4,10:44 PM,2:34,MISS DiVincenzo 27' 3PT Jump Shot,,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,623,4,0,4,10:44 PM,2:31,,,Anthony REBOUND (Off:1 Def:5),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,624,5,45,4,10:44 PM,2:12,,,Carter Jr. Out of Bounds - Bad Pass Turnover Turnover (P2.T10),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022200594,625,9,1,4,10:44 PM,2:11,WARRIORS Timeout: Regular (Full 5 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200594,626,8,0,4,10:44 PM,2:11,SUB: Rollins FOR Poole,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,1631157,Ryan Rollins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200594,627,8,0,4,10:44 PM,2:11,SUB: Jerome FOR Lamb,,,,,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,4,1629660,Ty Jerome,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200594,628,8,0,4,10:44 PM,2:11,,,SUB: Houstan FOR F. Wagner,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200594,632,2,44,4,10:46 PM,1:53,MISS Baldwin Jr. 4' Reverse Layup,,,,,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,633,4,0,4,10:46 PM,1:50,,,Banchero REBOUND (Off:1 Def:4),,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,634,2,1,4,10:46 PM,1:37,,,MISS Houstan 24' 3PT Jump Shot,,,5,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,635,4,0,4,10:46 PM,1:34,Jerome REBOUND (Off:0 Def:1),,,,,4,1629660,Ty Jerome,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,636,2,1,4,10:47 PM,1:16,MISS DiVincenzo 28' 3PT Jump Shot,,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,637,4,0,4,10:47 PM,1:14,,,Anthony REBOUND (Off:1 Def:6),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,638,2,85,4,10:47 PM,0:54,,,MISS Banchero 7' Turnaround Bank Shot,,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200594,639,4,0,4,10:47 PM,0:52,Rollins REBOUND (Off:0 Def:1),,,,,4,1631157,Ryan Rollins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,640,2,1,4,10:47 PM,0:44,MISS Moody 26' 3PT Jump Shot,,,,,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,641,4,0,4,10:47 PM,0:40,,,Magic Rebound,,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200594,643,5,11,4,10:48 PM,0:16,,,Magic Turnover: Shot Clock (T#11),,,3,1610612753,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200594,644,2,1,4,10:48 PM,0:08,MISS Jerome 30' 3PT Jump Shot,,,,,4,1629660,Ty Jerome,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,645,4,0,4,10:48 PM,0:06,Moody REBOUND (Off:1 Def:1),,,,,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,649,2,97,4,10:48 PM,0:05,MISS Moody 6' Tip Layup Shot,,,,,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0022200594,650,4,0,4,10:48 PM,0:04,Rollins REBOUND (Off:1 Def:1),,,,,4,1631157,Ryan Rollins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0022200594,646,1,97,4,10:48 PM,0:03,Rollins Tip Layup Shot (2 PTS),,,115 - 101,-14,4,1631157,Ryan Rollins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200594,647,13,0,4,10:48 PM,0:00,,End of 4th Period (10:48 PM EST),,115 - 101,-14,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

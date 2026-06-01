@@ -1,0 +1,435 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200103,2,12,0,1,7:38 PM,12:00,,Start of 1st Period (7:38 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200103,4,10,0,1,7:38 PM,12:00,Jump Ball Claxton vs. Vucevic: Tip to DeRozan,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1
+0022200103,7,2,1,1,7:38 PM,11:45,,,MISS Vucevic 5' Jump Shot,,,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,8,4,0,1,7:38 PM,11:44,O'Neale REBOUND (Off:0 Def:1),,,,,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,9,5,39,1,7:38 PM,11:28,Harris Step Out of Bounds Turnover (P1.T1),,,,,4,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022200103,10,1,1,1,7:39 PM,11:18,,,LaVine 21' Jump Shot (2 PTS) (Dosunmu 1 AST),2 - 0,-2,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200103,12,2,1,1,7:39 PM,10:54,MISS O'Neale 26' 3PT Jump Shot,,,,,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,13,4,0,1,7:39 PM,10:51,,,Vucevic REBOUND (Off:0 Def:1),,,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,14,2,79,1,7:39 PM,10:44,,,MISS LaVine 26' 3PT Pullup Jump Shot,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,15,4,0,1,7:39 PM,10:41,Durant REBOUND (Off:0 Def:1),,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,16,2,86,1,7:39 PM,10:34,MISS Irving 6' Turnaround Fadeaway Shot,,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,17,4,0,1,7:39 PM,10:30,,,Vucevic REBOUND (Off:0 Def:2),,,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,18,2,86,1,7:40 PM,10:22,,,MISS DeRozan 14' Turnaround Fadeaway Shot,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,19,4,0,1,7:40 PM,10:19,Durant REBOUND (Off:0 Def:2),,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,20,1,108,1,7:40 PM,10:11,Claxton Cutting Dunk Shot (2 PTS) (Durant 1 AST),,,2 - 2,TIE,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200103,22,1,6,1,7:40 PM,10:00,,,Dosunmu 1' Driving Layup (2 PTS),4 - 2,-2,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,23,6,2,1,7:40 PM,9:45,,,Williams S.FOUL (P1.T1) (J.Williams),,,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,4,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200103,25,3,11,1,7:41 PM,9:45,MISS Harris Free Throw 1 of 2,,,,,4,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,26,4,1,1,7:41 PM,9:45,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200103,27,3,12,1,7:41 PM,9:45,MISS Harris Free Throw 2 of 2,,,,,4,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,28,4,0,1,7:41 PM,9:41,,,Vucevic REBOUND (Off:0 Def:3),,,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,29,5,1,1,7:41 PM,9:21,O'Neale STEAL (1 STL),,Vucevic Bad Pass Turnover (P1.T1),,,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200103,31,1,41,1,7:41 PM,9:17,O'Neale 1' Running Layup (2 PTS),,,4 - 4,TIE,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,32,1,98,1,7:42 PM,9:03,,,Dosunmu 1' Cutting Layup Shot (4 PTS) (LaVine 1 AST),6 - 4,-2,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200103,34,1,1,1,7:42 PM,8:42,O'Neale 24' 3PT Jump Shot (5 PTS) (Harris 1 AST),,,6 - 7,1,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,4,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200103,36,1,79,1,7:42 PM,8:26,,,Williams 22' Pullup Jump Shot (2 PTS) (LaVine 2 AST),8 - 7,-1,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200103,37,5,1,1,7:42 PM,8:11,Durant Bad Pass Turnover (P1.T2),,Dosunmu STEAL (1 STL),,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200103,41,1,1,1,7:43 PM,7:59,,,Williams 16' Jump Shot (4 PTS) (LaVine 3 AST),10 - 7,-3,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200103,43,2,1,1,7:43 PM,7:37,MISS Harris 3PT Jump Shot,,,,,4,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,44,4,0,1,7:43 PM,7:34,,,DeRozan REBOUND (Off:0 Def:1),,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,45,6,2,1,7:44 PM,7:25,Durant S.FOUL (P1.T1) (K.Cutler),,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200103,47,3,11,1,7:44 PM,7:25,,,MISS Vucevic Free Throw 1 of 2,,,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,48,4,1,1,7:44 PM,7:25,,,Bulls Rebound,,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200103,49,8,0,1,7:44 PM,7:25,SUB: Watanabe FOR Harris,,,,,4,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,4,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200103,51,3,12,1,7:44 PM,7:25,,,Vucevic Free Throw 2 of 2 (1 PTS),11 - 7,-4,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,52,5,1,1,7:45 PM,7:13,O'Neale Bad Pass Turnover (P1.T3),,Williams STEAL (1 STL),,,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200103,54,5,4,1,7:45 PM,7:02,,,Dosunmu Traveling Turnover (P1.T2),,,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0022200103,55,9,1,1,7:45 PM,7:02,NETS Timeout: Regular (Full 1 Short 0),,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200103,56,2,79,1,7:48 PM,6:49,MISS Durant 26' 3PT Pullup Jump Shot,,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0022200103,57,4,0,1,7:49 PM,6:46,,,Dosunmu REBOUND (Off:0 Def:1),,,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0022200103,58,1,2,1,7:49 PM,6:41,,,Dosunmu 7' Running Jump Shot (6 PTS) (LaVine 4 AST),13 - 7,-6,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200103,60,5,1,1,7:49 PM,6:24,Durant Bad Pass Turnover (P2.T4),,DeRozan STEAL (1 STL),,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200103,62,2,1,1,7:49 PM,6:04,,,MISS Vucevic 27' 3PT Jump Shot,,,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,64,1,72,1,7:49 PM,5:58,,,LaVine Putback Layup (4 PTS),15 - 7,-8,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,63,4,0,1,7:49 PM,5:58,,,LaVine REBOUND (Off:1 Def:0),,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,65,2,1,1,7:50 PM,5:43,MISS O'Neale 28' 3PT Jump Shot,,,,,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,66,4,0,1,7:50 PM,5:39,,,Vucevic REBOUND (Off:0 Def:4),,,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,67,2,1,1,7:50 PM,5:31,,,MISS DeRozan 24' 3PT Jump Shot,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,68,4,0,1,7:50 PM,5:28,Watanabe REBOUND (Off:0 Def:1),,,,,4,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,69,1,1,1,7:50 PM,5:18,O'Neale 24' 3PT Jump Shot (8 PTS) (Irving 1 AST),,,15 - 10,-5,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200103,71,2,1,1,7:50 PM,5:02,,,MISS LaVine 25' 3PT Jump Shot,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,72,4,0,1,7:50 PM,4:59,Claxton REBOUND (Off:0 Def:1),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,73,6,2,1,7:50 PM,4:52,,,Dosunmu S.FOUL (P1.T2) (J.Van Duyne),,,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200103,75,3,11,1,7:51 PM,4:52,Durant Free Throw 1 of 2 (1 PTS),,,15 - 11,-4,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,76,8,0,1,7:51 PM,4:52,SUB: Sumner FOR O'Neale,,,,,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,4,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200103,77,8,0,1,7:51 PM,4:52,SUB: Duke Jr. FOR Irving,,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,4,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200103,78,8,0,1,7:51 PM,4:52,,,SUB: Green FOR LaVine,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,5,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200103,82,3,12,1,7:51 PM,4:52,Durant Free Throw 2 of 2 (2 PTS),,,15 - 12,-3,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,83,1,79,1,7:52 PM,4:38,,,DeRozan 18' Pullup Jump Shot (2 PTS),17 - 12,-5,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,84,6,2,1,7:52 PM,4:25,,,DeRozan S.FOUL (P1.T3) (K.Cutler),,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200103,86,3,11,1,7:52 PM,4:25,Durant Free Throw 1 of 2 (3 PTS),,,17 - 13,-4,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,87,8,0,1,7:52 PM,4:25,,,SUB: Caruso FOR Williams,,,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200103,89,3,12,1,7:53 PM,4:25,Durant Free Throw 2 of 2 (4 PTS),,,17 - 14,-3,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,90,5,4,1,7:53 PM,4:10,,,Dosunmu Traveling Turnover (P2.T3),,,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,91,2,1,1,7:53 PM,3:54,MISS Sumner 26' 3PT Jump Shot,,,,,4,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,92,4,0,1,7:53 PM,3:49,,,DeRozan REBOUND (Off:0 Def:2),,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,93,2,47,1,7:54 PM,3:42,,,MISS DeRozan 17' Turnaround Jump Shot,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,94,4,0,1,7:54 PM,3:40,Watanabe REBOUND (Off:0 Def:2),,,,,4,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,95,1,103,1,7:54 PM,3:34,Durant 27' 3PT Running Pull-Up Jump Shot (7 PTS),,,17 - 17,TIE,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,96,9,1,1,7:54 PM,3:33,,,Bulls Timeout: Regular (Reg.1 Short 0),,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200103,97,8,0,1,7:56 PM,3:33,,,SUB: Dragic FOR Dosunmu,,,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,5,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200103,99,2,1,1,7:57 PM,3:15,,,MISS DeRozan 18' Jump Shot,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,100,4,0,1,7:57 PM,3:13,,,Vucevic REBOUND (Off:1 Def:4),,,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,101,1,1,1,7:58 PM,3:05,,,Dragic 28' 3PT Jump Shot (3 PTS) (Caruso 1 AST),20 - 17,-3,5,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200103,103,1,1,1,7:58 PM,2:40,Watanabe 3PT Jump Shot (3 PTS) (Duke Jr. 1 AST),,,20 - 20,TIE,4,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,4,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200103,105,2,58,1,7:58 PM,2:26,,,MISS Vucevic 5' Turnaround Hook Shot,,,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,106,4,0,1,7:58 PM,2:26,Durant REBOUND (Off:0 Def:3),,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,107,6,1,1,7:58 PM,2:26,,,Vucevic P.FOUL (P1.T4) (J.Van Duyne),,,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200103,109,8,0,1,7:58 PM,2:26,SUB: Harris FOR Claxton,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200103,110,8,0,1,7:58 PM,2:26,,,SUB: Jones Jr. FOR Vucevic,,,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200103,111,8,0,1,7:58 PM,2:26,,,SUB: LaVine FOR DeRozan,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200103,115,2,101,1,7:59 PM,2:04,MISS Durant 6' Driving Floating Jump Shot,,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,116,4,0,1,7:59 PM,2:01,,,Jones Jr. REBOUND (Off:0 Def:1),,,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,117,1,1,1,7:59 PM,1:56,,,Dragic 24' 3PT Jump Shot (6 PTS) (LaVine 5 AST),23 - 20,-3,5,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200103,119,1,47,1,8:00 PM,1:35,Durant 11' Turnaround Jump Shot (9 PTS),,,23 - 22,-1,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,120,2,63,1,8:00 PM,1:20,,,MISS LaVine 13' Fadeaway Jumper,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,121,4,0,1,8:00 PM,1:13,,,Jones Jr. REBOUND (Off:1 Def:1),,,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,122,2,97,1,8:00 PM,1:13,,,MISS Jones Jr. Tip Layup Shot,,,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,123,4,0,1,8:00 PM,1:12,,,Jones Jr. REBOUND (Off:2 Def:1),,,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,124,1,97,1,8:00 PM,1:12,,,Jones Jr. Tip Layup Shot (2 PTS),25 - 22,-3,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,125,1,79,1,8:00 PM,1:05,Durant 26' 3PT Pullup Jump Shot (12 PTS),,,25 - 25,TIE,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,126,6,1,1,8:00 PM,0:54,Sumner P.FOUL (P1.T2) (K.Cutler),,,,,4,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200103,128,8,0,1,8:00 PM,0:54,SUB: Irving FOR Watanabe,,,,,4,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200103,129,8,0,1,8:00 PM,0:54,SUB: O'Neale FOR Harris,,,,,4,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200103,132,2,1,1,8:01 PM,0:38,,,MISS Jones Jr. 24' 3PT Jump Shot,,,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,133,4,0,1,8:01 PM,0:34,Durant REBOUND (Off:0 Def:4),,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,134,1,79,1,8:01 PM,0:24,Durant 12' Pullup Jump Shot (14 PTS),,,25 - 27,2,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,135,2,79,1,8:02 PM,0:13,,,MISS Caruso 10' Pullup Jump Shot,,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,136,4,0,1,8:02 PM,0:10,Durant REBOUND (Off:0 Def:5),,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,137,5,39,1,8:02 PM,0:02,Irving Step Out of Bounds Turnover (P1.T5),,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022200103,138,2,103,1,8:02 PM,0:00,,,MISS LaVine 37' 3PT Running Pull-Up Jump Shot,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,139,4,0,1,8:02 PM,0:00,,,Bulls Rebound,,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200103,140,13,0,1,8:02 PM,0:00,,End of 1st Period (8:02 PM EST),,25 - 27,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200103,147,12,0,2,8:06 PM,12:00,,Start of 2nd Period (8:06 PM EST),,25 - 27,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200103,148,1,1,2,8:06 PM,11:43,Mills 25' 3PT Jump Shot (3 PTS) (O'Neale 1 AST),,,25 - 30,5,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200103,150,6,1,2,8:06 PM,11:33,Irving P.FOUL (P1.T1) (K.Cutler),,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200103,152,6,2,2,8:07 PM,11:24,Irving S.FOUL (P2.T2) (J.Williams),,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200103,154,3,11,2,8:07 PM,11:24,,,Jones Jr. Free Throw 1 of 2 (3 PTS),26 - 30,4,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,155,3,12,2,8:07 PM,11:24,,,Jones Jr. Free Throw 2 of 2 (4 PTS),27 - 30,3,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,156,5,45,2,8:07 PM,11:23,Duke Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,,,,4,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022200103,158,7,5,2,8:08 PM,11:18,Watanabe Violation:Kicked Ball (J.Williams),,,,,4,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0022200103,159,6,2,2,8:08 PM,11:12,Mills S.FOUL (P1.T3) (J.Van Duyne),,,,,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,5,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200103,161,3,11,2,8:08 PM,11:12,,,MISS Dragic Free Throw 1 of 2,,,5,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,162,4,1,2,8:08 PM,11:12,,,Bulls Rebound,,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200103,163,3,12,2,8:09 PM,11:12,,,Dragic Free Throw 2 of 2 (7 PTS),28 - 30,2,5,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,164,2,80,2,8:09 PM,10:54,MISS Irving 26' 3PT Step Back Jump Shot,,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,165,4,0,2,8:09 PM,10:51,,,Williams REBOUND (Off:0 Def:1),,,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,166,2,1,2,8:09 PM,10:41,,,MISS Dragic 27' 3PT Jump Shot,,,5,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,167,4,0,2,8:09 PM,10:38,Irving REBOUND (Off:0 Def:1),,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,168,2,6,2,8:09 PM,10:34,MISS Duke Jr. 4' Driving Layup,,Williams BLOCK (1 BLK),,,4,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,1
+0022200103,170,4,0,2,8:09 PM,10:34,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200103,172,2,79,2,8:10 PM,10:29,MISS Mills 14' Pullup Jump Shot,,,,,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,173,4,0,2,8:10 PM,10:26,,,Caruso REBOUND (Off:0 Def:1),,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,174,7,5,2,8:10 PM,10:24,Duke Jr. Violation:Kicked Ball (J.Williams),,,,,4,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0022200103,175,1,6,2,8:10 PM,10:17,,,Williams 2' Driving Layup (6 PTS) (Dragic 1 AST),30 - 30,TIE,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,5,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200103,177,1,6,2,8:11 PM,9:52,Mills 2' Driving Layup (5 PTS) (Irving 2 AST),,,30 - 32,2,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200103,178,6,2,2,8:11 PM,9:52,,,LaVine S.FOUL (P1.T1) (J.Williams),,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200103,181,3,10,2,8:11 PM,9:52,Mills Free Throw 1 of 1 (6 PTS),,,30 - 33,3,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,182,1,6,2,8:11 PM,9:41,,,LaVine 2' Driving Layup (6 PTS),32 - 33,1,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,184,8,0,2,8:12 PM,9:26,SUB: Claxton FOR Duke Jr.,,,,,4,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200103,186,1,1,2,8:12 PM,9:23,Mills 27' 3PT Jump Shot (9 PTS) (Irving 3 AST),,,32 - 36,4,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200103,188,2,1,2,8:12 PM,9:10,,,MISS Williams 27' 3PT Jump Shot,,,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,189,4,0,2,8:12 PM,9:07,O'Neale REBOUND (Off:0 Def:2),,,,,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,190,2,1,2,8:12 PM,9:01,MISS Mills 27' 3PT Jump Shot,,,,,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,191,4,0,2,8:12 PM,8:58,,,Dragic REBOUND (Off:0 Def:1),,,5,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,192,2,41,2,8:12 PM,8:54,,,MISS Dragic 1' Running Layup,,,5,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,193,4,0,2,8:13 PM,8:52,Irving REBOUND (Off:0 Def:2),,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,195,2,98,2,8:13 PM,8:43,MISS Irving 4' Cutting Layup Shot,,Williams BLOCK (2 BLK),,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,1
+0022200103,197,4,0,2,8:13 PM,8:41,,,Williams REBOUND (Off:0 Def:2),,,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,198,2,41,2,8:13 PM,8:36,Watanabe BLOCK (1 BLK),,MISS Caruso 2' Running Layup,,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,4,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,1
+0022200103,200,4,0,2,8:13 PM,8:33,,,Jones Jr. REBOUND (Off:3 Def:1),,,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,201,2,1,2,8:13 PM,8:31,,,MISS Caruso 3PT Jump Shot,,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,202,4,0,2,8:13 PM,8:28,Claxton REBOUND (Off:0 Def:2),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,203,2,6,2,8:13 PM,8:17,MISS O'Neale 1' Driving Layup,,,,,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,204,4,0,2,8:13 PM,8:17,O'Neale REBOUND (Off:1 Def:2),,,,,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,205,2,97,2,8:13 PM,8:17,MISS O'Neale Tip Layup Shot,,,,,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,206,4,0,2,8:13 PM,8:17,O'Neale REBOUND (Off:2 Def:2),,,,,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,207,1,97,2,8:13 PM,8:17,O'Neale Tip Layup Shot (10 PTS),,,32 - 38,6,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,208,9,1,2,8:14 PM,8:17,,,Bulls Timeout: Regular (Reg.2 Short 0),,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200103,637,8,0,2,8:15 PM,8:17,,,SUB: Green FOR Williams,,,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,5,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200103,211,2,6,2,8:17 PM,7:59,,,MISS Green 3' Driving Layup,,,5,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,212,4,0,2,8:17 PM,7:57,Claxton REBOUND (Off:0 Def:3),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,213,1,6,2,8:18 PM,7:39,O'Neale 2' Driving Layup (12 PTS),,,32 - 40,8,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,214,1,79,2,8:18 PM,7:28,,,LaVine 28' 3PT Pullup Jump Shot (9 PTS),35 - 40,5,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,215,2,1,2,8:18 PM,7:10,MISS Watanabe 3PT Jump Shot,,,,,4,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,216,4,0,2,8:18 PM,7:08,,,LaVine REBOUND (Off:1 Def:1),,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,217,1,1,2,8:18 PM,7:00,,,Dragic 27' 3PT Jump Shot (10 PTS) (Jones Jr. 1 AST),38 - 40,2,5,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200103,219,9,1,2,8:18 PM,6:58,NETS Timeout: Regular (Full 2 Short 0),,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200103,638,8,0,2,8:20 PM,6:58,SUB: Durant FOR O'Neale,,,,,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200103,639,8,0,2,8:20 PM,6:58,SUB: Sumner FOR Mills,,,,,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,4,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200103,640,8,0,2,8:20 PM,6:58,SUB: Harris FOR Irving,,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,4,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200103,641,8,0,2,8:20 PM,6:58,SUB: Duke Jr. FOR Watanabe,,,,,4,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,4,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200103,642,8,0,2,8:20 PM,6:58,,,SUB: DeRozan FOR Jones Jr.,,,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200103,643,8,0,2,8:20 PM,6:58,,,SUB: Dosunmu FOR Caruso,,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200103,644,8,0,2,8:20 PM,6:58,,,SUB: Vucevic FOR LaVine,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200103,235,6,2,2,8:22 PM,6:40,,,Green S.FOUL (P1.T2) (J.Williams),,,5,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200103,237,3,11,2,8:23 PM,6:40,Durant Free Throw 1 of 2 (15 PTS),,,38 - 41,3,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,238,3,12,2,8:23 PM,6:40,Durant Free Throw 2 of 2 (16 PTS),,,38 - 42,4,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,239,2,101,2,8:23 PM,6:22,,,MISS Green 9' Driving Floating Jump Shot,,,5,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,240,4,0,2,8:23 PM,6:20,,,Green REBOUND (Off:1 Def:0),,,5,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,241,1,1,2,8:23 PM,6:14,,,Dragic 3PT Jump Shot (13 PTS) (DeRozan 1 AST),41 - 42,1,5,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200103,243,1,1,2,8:24 PM,5:52,Harris 24' 3PT Jump Shot (3 PTS) (Sumner 1 AST),,,41 - 45,4,4,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,4,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200103,245,1,1,2,8:24 PM,5:26,,,DeRozan 11' Jump Shot (4 PTS),43 - 45,2,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,246,2,1,2,8:24 PM,5:08,MISS Duke Jr. 3PT Jump Shot,,,,,4,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,247,4,0,2,8:24 PM,5:07,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200103,249,8,0,2,8:24 PM,5:07,,,SUB: Williams FOR Dragic,,,5,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200103,251,2,1,2,8:25 PM,5:00,MISS Harris 3PT Jump Shot,,,,,4,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,252,4,0,2,8:25 PM,4:56,,,Dosunmu REBOUND (Off:0 Def:2),,,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,253,2,1,2,8:25 PM,4:38,,,MISS Dosunmu 27' 3PT Jump Shot,,,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,254,4,0,2,8:25 PM,4:33,,,Vucevic REBOUND (Off:2 Def:4),,,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,255,1,47,2,8:25 PM,4:29,,,Williams 14' Turnaround Jump Shot (8 PTS),45 - 45,TIE,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,256,6,1,2,8:26 PM,4:14,,,Green P.FOUL (P2.T3) (J.Williams),,,5,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,4,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200103,258,2,102,2,8:26 PM,4:06,MISS Sumner 5' Driving Floating Bank Jump Shot,,,,,4,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,259,4,0,2,8:26 PM,4:04,,,Vucevic REBOUND (Off:2 Def:5),,,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,260,5,1,2,8:27 PM,3:54,Duke Jr. STEAL (1 STL),,Williams Bad Pass Turnover (P1.T4),,,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,4,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200103,262,1,1,2,8:27 PM,3:47,Harris 25' 3PT Jump Shot (6 PTS) (Durant 2 AST),,,45 - 48,3,4,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200103,264,9,1,2,8:27 PM,3:46,,,Bulls Timeout: Regular (Reg.3 Short 0),,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200103,265,8,0,2,8:27 PM,3:46,,,SUB: Caruso FOR Dosunmu,,,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200103,266,8,0,2,8:27 PM,3:46,,,SUB: LaVine FOR Green,,,5,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200103,269,2,1,2,8:29 PM,3:26,,,MISS Williams 26' 3PT Jump Shot,,,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,270,4,0,2,8:29 PM,3:23,,,Williams REBOUND (Off:1 Def:2),,,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,271,5,39,2,8:29 PM,3:17,,,Williams Step Out of Bounds Turnover (P2.T5),,,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0022200103,272,6,1,2,8:29 PM,3:06,,,LaVine P.FOUL (P2.T4) (J.Van Duyne),,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,4,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200103,274,1,9,2,8:30 PM,2:56,Duke Jr. Driving Dunk (2 PTS) (Harris 2 AST),,,45 - 50,5,4,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,4,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200103,276,6,1,2,8:30 PM,2:45,Duke Jr. P.FOUL (P1.T4) (J.Williams),,,,,4,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200103,278,1,79,2,8:30 PM,2:40,,,DeRozan 19' Pullup Jump Shot (6 PTS),47 - 50,3,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,279,7,5,2,8:30 PM,2:31,,,Vucevic Violation:Kicked Ball (J.Van Duyne),,,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0022200103,280,1,7,2,8:31 PM,2:17,Claxton 2' Dunk (4 PTS) (Sumner 2 AST),,,47 - 52,5,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200103,282,6,1,2,8:31 PM,2:04,Sumner P.FOUL (P2.PN) (K.Cutler),,,,,4,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200103,284,3,11,2,8:32 PM,2:04,,,DeRozan Free Throw 1 of 2 (7 PTS),48 - 52,4,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,285,8,0,2,8:32 PM,2:04,SUB: O'Neale FOR Harris,,,,,4,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200103,286,8,0,2,8:32 PM,2:04,,,SUB: Dragic FOR Caruso,,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,5,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200103,289,3,12,2,8:32 PM,2:04,,,DeRozan Free Throw 2 of 2 (8 PTS),49 - 52,3,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,290,5,4,2,8:32 PM,1:48,Claxton Traveling Turnover (P1.T7),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022200103,291,5,2,2,8:33 PM,1:37,Duke Jr. STEAL (2 STL),,Williams Lost Ball Turnover (P3.T6),,,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,4,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200103,293,6,26,2,8:33 PM,1:34,Claxton Offensive Charge Foul (P1) (K.Cutler),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200103,295,5,37,2,8:33 PM,1:34,Claxton Offensive Foul Turnover (P2.T8),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022200103,296,2,79,2,8:34 PM,1:25,,,MISS DeRozan 16' Pullup Jump Shot,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,297,4,0,2,8:34 PM,1:22,Claxton REBOUND (Off:0 Def:4),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,298,5,2,2,8:34 PM,1:13,Durant Lost Ball Turnover (P3.T9),,Vucevic STEAL (1 STL),,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200103,300,5,45,2,8:34 PM,1:11,,,Dragic Out of Bounds - Bad Pass Turnover Turnover (P1.T7),,,5,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0022200103,301,6,1,2,8:34 PM,0:58,,,Williams P.FOUL (P2.PN) (J.Van Duyne),,,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200103,303,3,11,2,8:35 PM,0:58,Durant Free Throw 1 of 2 (17 PTS),,,49 - 53,4,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,304,3,12,2,8:35 PM,0:58,Durant Free Throw 2 of 2 (18 PTS),,,49 - 54,5,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,305,1,79,2,8:35 PM,0:47,,,DeRozan 15' Pullup Jump Shot (10 PTS),51 - 54,3,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,306,6,2,2,8:35 PM,0:47,Durant S.FOUL (P2.PN) (J.Williams),,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200103,308,8,0,2,8:36 PM,0:47,,,SUB: Caruso FOR Dragic,,,5,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200103,310,3,10,2,8:36 PM,0:47,,,DeRozan Free Throw 1 of 1 (11 PTS),52 - 54,2,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,311,1,6,2,8:36 PM,0:28,Sumner 4' Driving Layup (2 PTS) (Claxton 1 AST),,,52 - 56,4,4,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200103,313,2,1,2,8:37 PM,0:04,,,MISS Williams 3PT Jump Shot,,,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,314,4,0,2,8:37 PM,0:02,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200103,315,6,3,2,8:37 PM,0:02,,,Vucevic L.B.FOUL (P2.PN) (J.Williams),,,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200103,317,3,11,2,8:37 PM,0:02,Durant Free Throw 1 of 2 (19 PTS),,,52 - 57,5,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,318,3,12,2,8:38 PM,0:02,Durant Free Throw 2 of 2 (20 PTS),,,52 - 58,6,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,319,13,0,2,8:38 PM,0:00,,End of 2nd Period (8:38 PM EST),,52 - 58,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200103,326,12,0,3,8:54 PM,12:00,,Start of 3rd Period (8:54 PM EST),,52 - 58,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200103,328,1,47,3,8:55 PM,11:39,Durant 14' Turnaround Jump Shot (22 PTS) (Irving 4 AST),,,52 - 60,8,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200103,330,2,5,3,8:55 PM,11:25,Claxton BLOCK (1 BLK),,MISS Williams 7' Layup,,,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1
+0022200103,332,4,0,3,8:55 PM,11:23,O'Neale REBOUND (Off:2 Def:3),,,,,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,333,6,2,3,8:55 PM,11:10,,,DeRozan S.FOUL (P2.T1) (J.Van Duyne),,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200103,335,3,11,3,8:56 PM,11:10,MISS Claxton Free Throw 1 of 2,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,336,4,1,3,8:56 PM,11:10,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200103,337,3,12,3,8:56 PM,11:10,Claxton Free Throw 2 of 2 (5 PTS),,,52 - 61,9,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,338,2,79,3,8:56 PM,10:52,,,MISS DeRozan 13' Pullup Jump Shot,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,339,4,0,3,8:56 PM,10:50,Harris REBOUND (Off:0 Def:1),,,,,4,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,340,2,103,3,8:56 PM,10:44,MISS Irving 27' 3PT Running Pull-Up Jump Shot,,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,341,4,0,3,8:56 PM,10:41,,,Vucevic REBOUND (Off:2 Def:6),,,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,342,2,1,3,8:57 PM,10:27,,,MISS Dosunmu 3PT Jump Shot,,,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,343,4,0,3,8:57 PM,10:24,Claxton REBOUND (Off:0 Def:5),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,344,2,103,3,8:57 PM,10:19,MISS Durant 28' 3PT Running Pull-Up Jump Shot,,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,345,4,0,3,8:57 PM,10:17,,,DeRozan REBOUND (Off:0 Def:3),,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,346,6,2,3,8:57 PM,10:11,O'Neale S.FOUL (P1.T1) (J.Van Duyne),,,,,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200103,348,3,11,3,8:57 PM,10:11,,,Dosunmu Free Throw 1 of 2 (7 PTS),53 - 61,8,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,349,3,12,3,8:58 PM,10:11,,,Dosunmu Free Throw 2 of 2 (8 PTS),54 - 61,7,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,350,7,5,3,8:58 PM,9:56,,,Vucevic Violation:Kicked Ball (K.Cutler),,,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0022200103,351,1,1,3,8:58 PM,9:43,O'Neale 27' 3PT Jump Shot (15 PTS) (Durant 3 AST),,,54 - 64,10,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200103,353,2,79,3,8:59 PM,9:28,,,MISS Vucevic 15' Pullup Jump Shot,,,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,354,4,0,3,8:59 PM,9:25,Claxton REBOUND (Off:0 Def:6),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,355,2,103,3,8:59 PM,9:17,MISS Durant 13' Running Pull-Up Jump Shot,,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,356,4,0,3,8:59 PM,9:14,,,Vucevic REBOUND (Off:2 Def:7),,,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,357,1,41,3,8:59 PM,9:11,,,Dosunmu 2' Running Layup (10 PTS),56 - 64,8,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,358,2,2,3,8:59 PM,9:06,MISS Irving 25' 3PT Running Jump Shot,,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,359,4,0,3,8:59 PM,9:02,,,Dosunmu REBOUND (Off:0 Def:3),,,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,360,2,6,3,8:59 PM,8:55,Durant BLOCK (1 BLK),,MISS LaVine 4' Driving Layup,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1
+0022200103,362,4,0,3,8:59 PM,8:53,Harris REBOUND (Off:0 Def:2),,,,,4,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,363,2,1,3,8:59 PM,8:49,MISS Durant 14' Jump Shot,,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,364,4,0,3,8:59 PM,8:46,,,DeRozan REBOUND (Off:0 Def:4),,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,365,2,101,3,9:00 PM,8:35,,,MISS LaVine 4' Driving Floating Jump Shot,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,366,4,0,3,9:00 PM,8:33,Claxton REBOUND (Off:0 Def:7),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,367,1,98,3,9:00 PM,8:26,Claxton 1' Cutting Layup Shot (7 PTS) (Durant 4 AST),,,56 - 66,10,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200103,369,5,1,3,9:00 PM,8:10,Durant STEAL (1 STL),,DeRozan Bad Pass Turnover (P1.T8),,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200103,371,6,2,3,9:00 PM,8:08,,,Dosunmu S.FOUL (P2.T2) (K.Cutler),,,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200103,373,3,11,3,9:01 PM,8:08,Durant Free Throw 1 of 2 (23 PTS),,,56 - 67,11,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,374,9,1,3,9:01 PM,8:08,,,Bulls Timeout: Regular (Reg.4 Short 0),,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200103,375,3,12,3,9:04 PM,8:08,Durant Free Throw 2 of 2 (24 PTS),,,56 - 68,12,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,376,1,1,3,9:05 PM,7:57,,,Vucevic 15' Jump Shot (3 PTS) (Dosunmu 2 AST),58 - 68,10,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200103,378,2,1,3,9:05 PM,7:39,MISS Harris 28' 3PT Jump Shot,,,,,4,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,379,4,0,3,9:05 PM,7:36,,,Vucevic REBOUND (Off:2 Def:8),,,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,380,1,1,3,9:05 PM,7:13,,,DeRozan 3PT Jump Shot (14 PTS) (Williams 1 AST),61 - 68,7,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200103,382,2,1,3,9:06 PM,6:49,MISS Irving 3PT Jump Shot,,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,383,4,0,3,9:06 PM,6:47,,,Williams REBOUND (Off:1 Def:3),,,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,384,2,79,3,9:06 PM,6:37,,,MISS DeRozan 20' Pullup Jump Shot,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,385,4,0,3,9:06 PM,6:36,,,Bulls Rebound,,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200103,386,6,3,3,9:06 PM,6:36,Harris L.B.FOUL (P1.T2) (J.Williams),,,,,4,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200103,388,8,0,3,9:06 PM,6:36,SUB: Watanabe FOR Harris,,,,,4,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,4,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200103,390,2,80,3,9:07 PM,6:29,,,MISS DeRozan 20' Step Back Jump Shot,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,391,4,0,3,9:07 PM,6:27,Durant REBOUND (Off:0 Def:6),,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,392,1,73,3,9:07 PM,6:14,O'Neale 1' Driving Reverse Layup (17 PTS) (Irving 5 AST),,,61 - 70,9,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200103,394,1,76,3,9:07 PM,6:04,,,Williams 5' Running Finger Roll Layup (10 PTS),63 - 70,7,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,395,1,9,3,9:07 PM,5:39,Watanabe 2' Driving Dunk (5 PTS) (Durant 5 AST),,,63 - 72,9,4,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200103,397,2,1,3,9:08 PM,5:20,,,MISS LaVine 24' 3PT Jump Shot,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,398,4,0,3,9:08 PM,5:16,Claxton REBOUND (Off:0 Def:8),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,399,6,4,3,9:08 PM,5:09,Claxton OFF.Foul (P2) (J.Van Duyne),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200103,401,5,37,3,9:08 PM,5:09,Claxton Offensive Foul Turnover (P3.T10),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022200103,402,8,0,3,9:08 PM,5:09,SUB: Sumner FOR Irving,,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,4,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200103,403,8,0,3,9:08 PM,5:09,SUB: Duke Jr. FOR Claxton,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200103,404,8,0,3,9:08 PM,5:09,,,SUB: Dragic FOR LaVine,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,5,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200103,405,8,0,3,9:08 PM,5:09,,,SUB: Jones Jr. FOR Vucevic,,,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200103,410,7,1,3,9:08 PM,5:09,NETS Violation: Delay of game Violation,,,,,2,1610612751,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200103,411,2,79,3,9:09 PM,4:58,,,MISS DeRozan 17' Pullup Jump Shot,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,412,4,0,3,9:09 PM,4:55,,,Williams REBOUND (Off:2 Def:3),,,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,413,2,97,3,9:09 PM,4:55,,,MISS Williams Tip Layup Shot,,,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,414,4,0,3,9:09 PM,4:55,,,Williams REBOUND (Off:3 Def:3),,,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0022200103,415,6,2,3,9:09 PM,4:55,Durant S.FOUL (P3.T3) (J.Williams),,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200103,417,3,11,3,9:10 PM,4:55,,,Williams Free Throw 1 of 2 (11 PTS),64 - 72,8,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,418,3,12,3,9:10 PM,4:55,,,Williams Free Throw 2 of 2 (12 PTS),65 - 72,7,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,419,2,98,3,9:10 PM,4:38,MISS Duke Jr. 4' Cutting Layup Shot,,Jones Jr. BLOCK (1 BLK),,,4,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,1
+0022200103,421,4,0,3,9:10 PM,4:37,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200103,423,8,0,3,9:10 PM,4:37,SUB: Mills FOR O'Neale,,,,,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200103,425,1,79,3,9:10 PM,4:32,Durant 10' Pullup Jump Shot (26 PTS) (Sumner 3 AST),,,65 - 74,9,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,4,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200103,427,2,1,3,9:11 PM,4:18,,,MISS Dosunmu 26' 3PT Jump Shot,,,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,428,4,0,3,9:11 PM,4:14,Mills REBOUND (Off:0 Def:1),,,,,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,429,2,73,3,9:11 PM,4:04,MISS Sumner 1' Driving Reverse Layup,,,,,4,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,430,4,0,3,9:11 PM,3:59,Watanabe REBOUND (Off:1 Def:2),,,,,4,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,431,1,107,3,9:11 PM,3:59,Watanabe Tip Dunk Shot (7 PTS),,,65 - 76,11,4,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,432,2,1,3,9:11 PM,3:47,,,MISS Dragic 24' 3PT Jump Shot,,,5,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,433,4,0,3,9:11 PM,3:43,Sumner REBOUND (Off:0 Def:1),,,,,4,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,434,5,45,3,9:12 PM,3:26,Sumner Out of Bounds - Bad Pass Turnover Turnover (P1.T11),,,,,4,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022200103,435,8,0,3,9:12 PM,3:26,,,SUB: Caruso FOR Williams,,,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200103,437,1,47,3,9:12 PM,3:14,,,DeRozan 17' Turnaround Jump Shot (16 PTS) (Dragic 2 AST),67 - 76,9,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,5,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200103,443,5,45,3,9:12 PM,2:57,Durant Out of Bounds - Bad Pass Turnover Turnover (P4.T12),,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0022200103,442,9,1,3,9:13 PM,2:57,NETS Timeout: Regular (Full 3 Short 0),,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200103,444,6,1,3,9:16 PM,2:54,Duke Jr. P.FOUL (P2.T4) (K.Cutler),,,,,4,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0022200103,446,6,1,3,9:17 PM,2:45,Mills P.FOUL (P2.PN) (J.Williams),,,,,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200103,448,3,11,3,9:17 PM,2:45,,,Caruso Free Throw 1 of 2 (1 PTS),68 - 76,8,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,449,3,12,3,9:17 PM,2:45,,,MISS Caruso Free Throw 2 of 2,,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,450,4,0,3,9:17 PM,2:43,Durant REBOUND (Off:0 Def:7),,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,451,1,63,3,9:18 PM,2:24,Durant 13' Fadeaway Jumper (28 PTS) (Sumner 4 AST),,,68 - 78,10,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,4,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200103,452,1,47,3,9:18 PM,2:07,,,DeRozan 7' Turnaround Jump Shot (18 PTS),70 - 78,8,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,453,5,1,3,9:18 PM,1:46,Duke Jr. Bad Pass Turnover (P2.T13),,DeRozan STEAL (2 STL),,,4,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200103,455,1,2,3,9:18 PM,1:42,,,Dosunmu 24' 3PT Running Jump Shot (13 PTS) (Caruso 2 AST),73 - 78,5,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200103,457,9,1,3,9:19 PM,1:40,NETS Timeout: Regular (Full 4 Short 0),,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200103,459,8,0,3,9:20 PM,1:40,SUB: Irving FOR Duke Jr.,,,,,4,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200103,461,1,6,3,9:20 PM,1:20,Durant 2' Driving Layup (30 PTS) (Sumner 5 AST),,,73 - 80,7,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,4,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200103,463,2,47,3,9:21 PM,1:05,,,MISS DeRozan 11' Turnaround Jump Shot,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,465,4,0,3,9:21 PM,1:02,Durant REBOUND (Off:0 Def:8),,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,466,2,41,3,9:21 PM,0:57,MISS Watanabe 3' Running Layup,,,,,4,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,467,4,0,3,9:21 PM,0:56,,,Caruso REBOUND (Off:0 Def:2),,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,468,2,6,3,9:21 PM,0:51,Watanabe BLOCK (2 BLK),,MISS DeRozan 4' Driving Layup,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,4,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,1
+0022200103,470,4,0,3,9:21 PM,0:51,,,Bulls Rebound,,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200103,472,6,1,3,9:22 PM,0:43,Mills P.FOUL (P3.PN) (K.Cutler),,,,,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,5,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200103,474,3,11,3,9:22 PM,0:43,,,Dragic Free Throw 1 of 2 (14 PTS),74 - 80,6,5,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,475,3,12,3,9:22 PM,0:43,,,Dragic Free Throw 2 of 2 (15 PTS),75 - 80,5,5,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,476,2,1,3,9:23 PM,0:27,MISS Mills 24' 3PT Jump Shot,,,,,4,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,477,4,0,3,9:23 PM,0:25,Watanabe REBOUND (Off:2 Def:2),,,,,4,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,478,2,6,3,9:23 PM,0:13,MISS Irving 6' Driving Layup,,Dragic BLOCK (1 BLK),,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,5,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,1
+0022200103,480,4,0,3,9:23 PM,0:11,,,Dragic REBOUND (Off:0 Def:2),,,5,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,481,1,63,3,9:23 PM,0:00,,,DeRozan 11' Fadeaway Jumper (20 PTS),77 - 80,3,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,482,13,0,3,9:23 PM,0:00,,End of 3rd Period (9:23 PM EST),,77 - 80,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200103,483,18,0,3,9:23 PM,0:00,,Instant Replay3rd Period (9:23 PM EST),,77 - 80,3,0,481,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200103,492,12,0,4,9:27 PM,12:00,,Start of 4th Period (9:27 PM EST),,77 - 80,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200103,494,2,98,4,9:27 PM,11:51,Sumner BLOCK (1 BLK),,MISS Jones Jr. 4' Cutting Layup Shot,,,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,4,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,1
+0022200103,496,4,0,4,9:27 PM,11:51,,,Bulls Rebound,,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200103,498,1,80,4,9:27 PM,11:42,,,LaVine 17' Step Back Jump Shot (11 PTS),79 - 80,1,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,499,5,45,4,9:28 PM,11:27,Irving Out of Bounds - Bad Pass Turnover Turnover (P2.T14),,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022200103,500,6,2,4,9:28 PM,11:14,Irving S.FOUL (P3.T1) (J.Van Duyne),,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200103,502,3,11,4,9:28 PM,11:14,,,LaVine Free Throw 1 of 2 (12 PTS),80 - 80,TIE,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,503,3,12,4,9:29 PM,11:14,,,LaVine Free Throw 2 of 2 (13 PTS),81 - 80,-1,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,504,2,101,4,9:29 PM,10:49,MISS Sumner 5' Driving Floating Jump Shot,,,,,4,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,505,4,0,4,9:29 PM,10:46,,,LaVine REBOUND (Off:1 Def:2),,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,506,2,79,4,9:29 PM,10:41,,,MISS LaVine 19' Pullup Jump Shot,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,507,4,0,4,9:29 PM,10:38,Claxton REBOUND (Off:0 Def:9),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,508,1,6,4,9:30 PM,10:20,Irving 2' Driving Layup (2 PTS) (O'Neale 2 AST),,,81 - 82,1,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200103,510,2,75,4,9:30 PM,10:04,,,MISS Dragic 4' Driving Finger Roll Layup,,,5,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,511,4,0,4,9:30 PM,10:02,Irving REBOUND (Off:0 Def:3),,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,512,1,41,4,9:30 PM,9:56,Claxton 2' Running Layup (9 PTS) (Irving 6 AST),,,81 - 84,3,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200103,514,1,79,4,9:30 PM,9:42,,,LaVine 27' 3PT Pullup Jump Shot (16 PTS),84 - 84,TIE,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0022200103,515,6,2,4,9:31 PM,9:22,,,Caruso S.FOUL (P1.T1) (J.Van Duyne),,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200103,517,3,11,4,9:31 PM,9:22,Claxton Free Throw 1 of 2 (10 PTS),,,84 - 85,1,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,518,8,0,4,9:31 PM,9:22,,,SUB: Vucevic FOR Jones Jr.,,,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200103,519,8,0,4,9:31 PM,9:22,,,SUB: Dosunmu FOR Dragic,,,5,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200103,520,8,0,4,9:31 PM,9:22,,,SUB: Green FOR Williams,,,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,5,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200103,524,3,12,4,9:31 PM,9:22,MISS Claxton Free Throw 2 of 2,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,525,4,0,4,9:31 PM,9:20,,,Caruso REBOUND (Off:0 Def:3),,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,526,6,1,4,9:32 PM,9:06,O'Neale P.FOUL (P2.T2) (J.Williams),,,,,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200103,528,5,45,4,9:33 PM,8:59,,,LaVine Out of Bounds - Bad Pass Turnover Turnover (P1.T9),,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0022200103,529,1,1,4,9:33 PM,8:44,O'Neale 27' 3PT Jump Shot (20 PTS) (Claxton 2 AST),,,84 - 88,4,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200103,531,1,6,4,9:33 PM,8:30,,,Dosunmu 4' Driving Layup (15 PTS) (Caruso 3 AST),86 - 88,2,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200103,532,2,79,4,9:34 PM,8:10,MISS Irving 29' 3PT Pullup Jump Shot,,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,533,4,0,4,9:34 PM,8:08,,,Vucevic REBOUND (Off:2 Def:9),,,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,535,1,1,4,9:34 PM,7:52,,,Caruso 3PT Jump Shot (4 PTS) (Dosunmu 3 AST),89 - 88,-1,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200103,537,9,1,4,9:34 PM,7:50,NETS Timeout: Regular (Full 5 Short 0),,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200103,538,8,0,4,9:36 PM,7:50,SUB: Durant FOR Sumner,,,,,4,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200103,540,6,4,4,9:37 PM,7:48,Irving OFF.Foul (P4) (J.Williams),,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200103,542,5,37,4,9:37 PM,7:48,Irving Offensive Foul Turnover (P3.T15),,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022200103,543,1,6,4,9:38 PM,7:26,,,Dosunmu 3' Driving Layup (17 PTS) (Caruso 4 AST),91 - 88,-3,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200103,545,1,63,4,9:39 PM,7:01,Irving 6' Fadeaway Jumper (4 PTS) (Durant 6 AST),,,91 - 90,-1,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200103,547,1,78,4,9:39 PM,6:42,,,LaVine 10' Floating Jump Shot (18 PTS),93 - 90,-3,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,548,2,101,4,9:39 PM,6:24,MISS Durant 7' Driving Floating Jump Shot,,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,549,4,0,4,9:39 PM,6:19,,,Green REBOUND (Off:1 Def:1),,,5,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,550,1,2,4,9:39 PM,6:15,,,LaVine 26' 3PT Running Jump Shot (21 PTS) (Dosunmu 4 AST),96 - 90,-6,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200103,551,2,79,4,9:40 PM,5:51,MISS Durant 6' Pullup Jump Shot,,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,552,4,0,4,9:40 PM,5:49,,,Vucevic REBOUND (Off:2 Def:10),,,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,553,1,1,4,9:40 PM,5:37,,,LaVine 27' 3PT Jump Shot (24 PTS) (Vucevic 1 AST),99 - 90,-9,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200103,556,9,1,4,9:41 PM,5:37,NETS Timeout: Regular (Full 6 Short 0),,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200103,557,8,0,4,9:41 PM,5:37,SUB: Harris FOR Watanabe,,,,,4,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,4,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200103,558,8,0,4,9:41 PM,5:37,,,SUB: Williams FOR Caruso,,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200103,561,2,1,4,9:44 PM,5:19,MISS Harris 28' 3PT Jump Shot,,,,,4,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,562,4,0,4,9:44 PM,5:16,,,Williams REBOUND (Off:3 Def:4),,,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,563,1,58,4,9:44 PM,4:57,,,Vucevic 5' Turnaround Hook Shot (5 PTS),101 - 90,-11,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,564,1,6,4,9:44 PM,4:43,Harris 2' Driving Layup (8 PTS) (Irving 7 AST),,,101 - 92,-9,4,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200103,566,2,79,4,9:45 PM,4:30,,,MISS LaVine 28' 3PT Pullup Jump Shot,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,567,4,0,4,9:45 PM,4:27,Irving REBOUND (Off:0 Def:4),,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,568,2,101,4,9:45 PM,4:15,MISS Irving 4' Driving Floating Jump Shot,,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,569,4,0,4,9:45 PM,4:13,,,Vucevic REBOUND (Off:2 Def:11),,,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,570,9,1,4,9:45 PM,4:13,,,Bulls Timeout: Regular (Reg.5 Short 0),,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200103,611,8,0,4,9:45 PM,4:13,,,SUB: DeRozan FOR Green,,,5,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200103,573,2,6,4,9:47 PM,4:00,,,MISS LaVine 5' Driving Layup,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,575,4,0,4,9:47 PM,3:57,Irving REBOUND (Off:0 Def:5),,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,576,1,79,4,9:47 PM,3:45,Durant 14' Pullup Jump Shot (32 PTS),,,101 - 94,-7,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,577,2,79,4,9:47 PM,3:29,,,MISS DeRozan 15' Pullup Jump Shot,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,578,4,0,4,9:47 PM,3:27,Claxton REBOUND (Off:0 Def:10),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,635,5,2,4,9:47 PM,3:19,Durant Lost Ball Turnover (P5.T16),,DeRozan STEAL (3 STL),,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200103,581,6,2,4,9:47 PM,3:16,O'Neale S.FOUL (P3.T3) (J.Van Duyne),,,,,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200103,583,3,11,4,9:48 PM,3:16,,,LaVine Free Throw 1 of 2 (25 PTS),102 - 94,-8,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,584,8,0,4,9:48 PM,3:16,SUB: Watanabe FOR Claxton,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200103,585,8,0,4,9:48 PM,3:16,,,SUB: Caruso FOR Williams,,,5,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200103,588,3,12,4,9:48 PM,3:16,,,LaVine Free Throw 2 of 2 (26 PTS),103 - 94,-9,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,589,5,1,4,9:49 PM,3:04,Durant Bad Pass Turnover (P6.T17),,Dosunmu STEAL (2 STL),,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200103,594,1,1,4,9:49 PM,2:51,,,LaVine 28' 3PT Jump Shot (29 PTS) (Vucevic 2 AST),106 - 94,-12,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200103,596,2,79,4,9:49 PM,2:38,MISS Irving 26' 3PT Pullup Jump Shot,,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,597,4,0,4,9:49 PM,2:36,,,Caruso REBOUND (Off:0 Def:4),,,5,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,600,2,5,4,9:49 PM,2:19,Durant BLOCK (2 BLK),,MISS Vucevic 5' Layup,,,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1
+0022200103,602,4,0,4,9:49 PM,2:19,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200103,604,1,1,4,9:50 PM,2:06,Watanabe 24' 3PT Jump Shot (10 PTS) (O'Neale 3 AST),,,106 - 97,-9,4,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200103,606,2,6,4,9:50 PM,1:44,Irving BLOCK (1 BLK),,MISS Dosunmu 5' Driving Layup,,,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,1
+0022200103,608,4,0,4,9:50 PM,1:42,Irving REBOUND (Off:0 Def:6),,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,609,2,1,4,9:50 PM,1:36,MISS Harris 27' 3PT Jump Shot,,,,,4,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,610,4,0,4,9:51 PM,1:31,,,Vucevic REBOUND (Off:2 Def:12),,,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,612,2,1,4,9:51 PM,1:10,,,MISS LaVine 24' 3PT Jump Shot,,,5,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,613,4,0,4,9:51 PM,1:07,Durant REBOUND (Off:0 Def:9),,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200103,614,5,1,4,9:51 PM,1:03,Durant Bad Pass Turnover (P7.T18),,Dosunmu STEAL (3 STL),,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200103,616,2,6,4,9:51 PM,0:49,,,MISS DeRozan 1' Driving Layup,,,5,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,617,4,0,4,9:51 PM,0:49,,,Vucevic REBOUND (Off:3 Def:12),,,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,618,1,97,4,9:51 PM,0:49,,,Vucevic Tip Layup Shot (7 PTS),108 - 97,-11,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200103,619,9,1,4,9:51 PM,0:49,NETS Timeout: Regular (Full 7 Short 0),,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200103,620,8,0,4,9:52 PM,0:49,SUB: Thomas FOR O'Neale,,,,,4,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,4,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200103,621,8,0,4,9:52 PM,0:49,SUB: Duke Jr. FOR Durant,,,,,4,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,4,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200103,622,8,0,4,9:52 PM,0:49,SUB: Edwards FOR Irving,,,,,4,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,4,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200103,623,8,0,4,9:52 PM,0:49,SUB: Sumner FOR Harris,,,,,4,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,4,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200103,624,8,0,4,9:52 PM,0:49,,,SUB: Jones Jr. FOR Vucevic,,,5,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,5,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200103,630,1,98,4,9:53 PM,0:37,Sumner 2' Cutting Layup Shot (4 PTS) (Duke Jr. 2 AST),,,108 - 99,-9,4,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,4,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200103,632,5,11,4,9:54 PM,0:13,,,Bulls Turnover: Shot Clock (T#10),,,3,1610612741,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200103,633,13,0,4,9:54 PM,0:00,,End of 4th Period (9:54 PM EST),,108 - 99,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

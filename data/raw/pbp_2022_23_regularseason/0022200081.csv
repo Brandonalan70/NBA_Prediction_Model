@@ -1,0 +1,496 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200081,2,12,0,1,6:11 PM,12:00,,Start of 1st Period (6:11 PM EST),,,,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200081,4,10,0,1,6:11 PM,12:00,Jump Ball Sabonis vs. Adebayo: Tip to Lowry,,,,,4.0,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,1
+0022200081,7,2,63,1,6:12 PM,11:33,,,MISS Herro 21' Fadeaway Jumper,,,5.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,8,4,0,1,6:12 PM,11:33,,,Heat Rebound,,,3.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200081,9,5,11,1,6:12 PM,11:33,,,Heat Turnover: Shot Clock (T#1),,,3.0,1610612748,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200081,10,1,79,1,6:12 PM,11:14,Huerter 24' 3PT Pullup Jump Shot (3 PTS) (Sabonis 1 AST),,,0 - 3,3,4.0,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200081,12,2,1,1,6:12 PM,10:54,,,MISS Martin 21' Jump Shot,,,5.0,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,13,4,0,1,6:12 PM,10:51,Huerter REBOUND (Off:0 Def:1),,,,,4.0,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,14,2,2,1,6:13 PM,10:48,MISS Fox 26' 3PT Running Jump Shot,,,,,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,15,4,0,1,6:13 PM,10:44,Sabonis REBOUND (Off:1 Def:0),,,,,4.0,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,16,1,87,1,6:13 PM,10:43,Sabonis 2' Putback Dunk (2 PTS),,,0 - 5,5,4.0,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,17,2,80,1,6:13 PM,10:17,,,MISS Butler 19' Step Back Jump Shot,,,5.0,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,18,4,0,1,6:13 PM,10:13,Fox REBOUND (Off:0 Def:1),,,,,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,19,2,6,1,6:13 PM,10:08,MISS Barnes 5' Driving Layup,,Lowry BLOCK (1 BLK),,,4.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,1
+0022200081,21,4,0,1,6:13 PM,10:04,Barnes REBOUND (Off:1 Def:0),,,,,4.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,23,6,4,1,6:13 PM,10:03,Fox OFF.Foul (P1) (S.Wright),,,,,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200081,25,5,37,1,6:13 PM,10:03,Fox Offensive Foul Turnover (P1.T1),,,,,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022200081,26,1,1,1,6:14 PM,9:45,,,Adebayo 8' Jump Shot (2 PTS) (Butler 1 AST),2 - 5,3,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200081,29,2,1,1,6:15 PM,9:21,MISS Murray 25' 3PT Jump Shot,,,,,4.0,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,30,4,0,1,6:15 PM,9:17,,,Adebayo REBOUND (Off:0 Def:1),,,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,31,1,41,1,6:15 PM,9:11,,,Adebayo 7' Running Layup (4 PTS),4 - 5,1,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,32,1,6,1,6:15 PM,9:01,Fox 3' Driving Layup (2 PTS),,,4 - 7,3,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,33,2,78,1,6:15 PM,8:40,,,MISS Martin 5' Floating Jump Shot,,,5.0,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,34,4,0,1,6:15 PM,8:39,,,Martin REBOUND (Off:1 Def:0),,,5.0,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,35,1,72,1,6:15 PM,8:38,,,Martin 3' Putback Layup (2 PTS),6 - 7,1,5.0,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,36,6,1,1,6:16 PM,8:26,,,Adebayo P.FOUL (P1.T1) (N.Buchert),,,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200081,38,6,4,1,6:16 PM,8:20,Sabonis OFF.Foul (P1) (T.Mirkovich),,,,,4.0,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200081,40,5,37,1,6:16 PM,8:20,Sabonis Offensive Foul Turnover (P1.T2),,,,,4.0,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022200081,41,2,80,1,6:17 PM,7:58,,,MISS Martin 20' Step Back Jump Shot,,,5.0,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,42,4,0,1,6:17 PM,7:54,Fox REBOUND (Off:0 Def:2),,,,,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,43,2,41,1,6:17 PM,7:50,MISS Fox 4' Running Layup,,,,,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,44,4,0,1,6:17 PM,7:46,,,Martin REBOUND (Off:1 Def:1),,,5.0,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,45,6,4,1,6:17 PM,7:44,,,Lowry OFF.Foul (P1) (S.Wright),,,5.0,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0022200081,47,5,37,1,6:17 PM,7:44,,,Lowry Offensive Foul Turnover (P1.T2),,,5.0,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+0022200081,48,1,108,1,6:17 PM,7:30,Sabonis 1' Cutting Dunk Shot (4 PTS) (Huerter 1 AST),,,6 - 9,3,4.0,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200081,50,2,102,1,6:17 PM,7:18,,,MISS Herro 5' Driving Floating Bank Jump Shot,,,5.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,51,4,0,1,6:18 PM,7:15,Sabonis REBOUND (Off:1 Def:1),,,,,4.0,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,52,2,1,1,6:18 PM,7:08,MISS Barnes 26' 3PT Jump Shot,,,,,4.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,53,4,0,1,6:18 PM,7:04,,,Butler REBOUND (Off:0 Def:1),,,5.0,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,54,1,79,1,6:18 PM,6:58,,,Adebayo 16' Pullup Jump Shot (6 PTS),8 - 9,1,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,55,1,80,1,6:19 PM,6:42,Huerter 25' 3PT Step Back Jump Shot (6 PTS) (Sabonis 2 AST),,,8 - 12,4,4.0,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200081,57,6,26,1,6:19 PM,6:24,,,Adebayo Offensive Charge Foul (P2) (S.Wright),,,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200081,68,5,37,1,6:19 PM,6:24,,,Adebayo Offensive Foul Turnover (P1.T3),,,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0022200081,59,9,1,1,6:19 PM,6:24,KINGS Timeout: Regular (Full 1 Short 0),,,,,2.0,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200081,60,18,5,1,6:20 PM,6:24,,Coach Challenge Overturn Ruling         ,,,,,57,Doug Christie,,,,,0,0,,,,,,1,0,,,,,,1
+0022200081,62,8,0,1,6:23 PM,6:24,,,SUB: Haslem FOR Adebayo,,,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200081,64,1,98,1,6:23 PM,6:11,Murray 2' Cutting Layup Shot (2 PTS) (Barnes 1 AST),,,8 - 14,6,4.0,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200081,66,6,2,1,6:24 PM,6:11,,,Martin S.FOUL (P1.T2) (N.Buchert),,,5.0,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200081,69,3,10,1,6:24 PM,6:11,MISS Murray Free Throw 1 of 1,,,,,4.0,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0022200081,70,4,0,1,6:24 PM,6:10,,,Heat Rebound,,,3.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200081,71,6,3,1,6:24 PM,6:10,Barnes L.B.FOUL (P1.T1) (S.Wright),,,,,4.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200081,73,8,0,1,6:24 PM,6:10,SUB: Lyles FOR Fox,,,,,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200081,74,8,0,1,6:24 PM,6:10,SUB: Mitchell FOR Barnes,,,,,4.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200081,77,6,2,1,6:25 PM,5:55,Sabonis S.FOUL (P2.T2) (N.Buchert),,,,,4.0,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200081,79,3,11,1,6:25 PM,5:55,,,MISS Herro Free Throw 1 of 2,,,5.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,80,4,1,1,6:25 PM,5:55,,,Heat Rebound,,,3.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200081,81,8,0,1,6:25 PM,5:55,,,SUB: Strus FOR Martin,,,5.0,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200081,83,3,12,1,6:26 PM,5:55,,,Herro Free Throw 2 of 2 (1 PTS),9 - 14,5,5.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,84,1,80,1,6:26 PM,5:38,Murray 25' 3PT Step Back Jump Shot (5 PTS),,,9 - 17,8,4.0,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,85,6,2,1,6:26 PM,5:18,Huerter S.FOUL (P1.T3) (S.Wright),,,,,4.0,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200081,87,3,11,1,6:27 PM,5:18,,,MISS Butler Free Throw 1 of 2,,,5.0,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,88,4,1,1,6:27 PM,5:18,,,Heat Rebound,,,3.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200081,89,3,12,1,6:27 PM,5:18,,,Butler Free Throw 2 of 2 (1 PTS),10 - 17,7,5.0,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,90,1,5,1,6:27 PM,5:01,Murray 2' Layup (7 PTS),,,10 - 19,9,4.0,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,91,6,2,1,6:27 PM,4:54,Murray S.FOUL (P1.T4) (N.Buchert),,,,,4.0,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,5,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200081,93,3,11,1,6:28 PM,4:54,,,Haslem Free Throw 1 of 2 (1 PTS),11 - 19,8,5.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,96,3,12,1,6:28 PM,4:54,,,MISS Haslem Free Throw 2 of 2,,,5.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,94,8,0,1,6:28 PM,4:54,,,SUB: Vincent FOR Herro,,,5.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200081,97,4,0,1,6:28 PM,4:51,Lyles REBOUND (Off:0 Def:1),,,,,4.0,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,98,1,6,1,6:28 PM,4:41,Mitchell 2' Driving Layup (2 PTS),,,11 - 21,10,4.0,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,99,6,2,1,6:28 PM,4:41,,,Vincent S.FOUL (P1.T3) (N.Buchert),,,5.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200081,101,3,10,1,6:29 PM,4:41,MISS Mitchell Free Throw 1 of 1,,,,,4.0,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,102,4,0,1,6:29 PM,4:38,,,Butler REBOUND (Off:0 Def:2),,,5.0,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,103,2,6,1,6:29 PM,4:31,Murray BLOCK (1 BLK),,MISS Butler 3' Driving Layup,,,5.0,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,1
+0022200081,105,4,0,1,6:29 PM,4:31,,,Heat Rebound,,,3.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200081,107,1,1,1,6:29 PM,4:28,,,Vincent 3PT Jump Shot (3 PTS) (Lowry 1 AST),14 - 21,7,5.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200081,109,2,1,1,6:30 PM,4:09,MISS Huerter 3PT Jump Shot,,,,,4.0,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,110,4,0,1,6:30 PM,4:06,Sabonis REBOUND (Off:2 Def:1),,,,,4.0,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,111,2,1,1,6:30 PM,4:05,MISS Mitchell 25' 3PT Jump Shot,,,,,4.0,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,112,4,0,1,6:30 PM,4:03,,,Heat Rebound,,,3.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200081,114,1,47,1,6:30 PM,3:50,,,Haslem 13' Turnaround Jump Shot (3 PTS) (Butler 2 AST),16 - 21,5,5.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200081,116,2,1,1,6:30 PM,3:34,MISS Murray 24' 3PT Jump Shot,,,,,4.0,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,117,4,0,1,6:30 PM,3:32,,,Haslem REBOUND (Off:0 Def:1),,,5.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,118,2,1,1,6:30 PM,3:28,,,MISS Lowry 29' 3PT Jump Shot,,,5.0,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,119,4,0,1,6:30 PM,3:25,Sabonis REBOUND (Off:2 Def:2),,,,,4.0,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,120,1,7,1,6:31 PM,3:11,Sabonis 1' Dunk (6 PTS) (Huerter 2 AST),,,16 - 23,7,4.0,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200081,122,9,1,1,6:31 PM,3:04,,,Heat Timeout: Regular (Reg.1 Short 0),,,3.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200081,123,8,0,1,6:33 PM,3:04,SUB: Monk FOR Huerter,,,,,4.0,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200081,124,8,0,1,6:33 PM,3:04,SUB: Fox FOR Sabonis,,,,,4.0,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200081,125,8,0,1,6:33 PM,3:04,SUB: Holmes FOR Mitchell,,,,,4.0,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200081,126,8,0,1,6:33 PM,3:04,,,SUB: Robinson FOR Lowry,,,5.0,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200081,131,6,1,1,6:34 PM,2:57,Monk P.FOUL (P1.PN) (S.Wright),,,,,4.0,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200081,133,3,11,1,6:34 PM,2:57,,,Robinson Free Throw 1 of 2 (1 PTS),17 - 23,6,5.0,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,134,3,12,1,6:35 PM,2:57,,,Robinson Free Throw 2 of 2 (2 PTS),18 - 23,5,5.0,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,135,5,1,1,6:35 PM,2:44,Murray Bad Pass Turnover (P1.T3),,Strus STEAL (1 STL),,,4.0,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200081,137,2,41,1,6:35 PM,2:38,,,MISS Butler 2' Running Layup,,,5.0,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,138,4,0,1,6:35 PM,2:35,,,Robinson REBOUND (Off:1 Def:0),,,5.0,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,139,2,97,1,6:35 PM,2:35,,,MISS Robinson Tip Layup Shot,,,5.0,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,140,4,0,1,6:35 PM,2:34,Lyles REBOUND (Off:0 Def:2),,,,,4.0,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,141,6,26,1,6:35 PM,2:33,Monk Offensive Charge Foul (P2) (S.Wright),,,,,4.0,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,5,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200081,143,5,37,1,6:35 PM,2:33,Monk Offensive Foul Turnover (P1.T4),,,,,4.0,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022200081,144,8,0,1,6:35 PM,2:33,SUB: Barnes FOR Murray,,,,,4.0,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200081,146,2,1,1,6:36 PM,2:20,,,MISS Strus 26' 3PT Jump Shot,,,5.0,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,147,4,0,1,6:36 PM,2:15,Barnes REBOUND (Off:1 Def:1),,,,,4.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,148,6,2,1,6:36 PM,2:12,,,Robinson S.FOUL (P1.T4) (T.Mirkovich),,,5.0,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200081,150,3,11,1,6:36 PM,2:12,Fox Free Throw 1 of 2 (3 PTS),,,18 - 24,6,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,151,3,12,1,6:36 PM,2:12,Fox Free Throw 2 of 2 (4 PTS),,,18 - 25,7,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,152,2,80,1,6:37 PM,1:52,,,MISS Vincent 21' Step Back Jump Shot,,,5.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,153,4,0,1,6:37 PM,1:48,Barnes REBOUND (Off:1 Def:2),,,,,4.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,154,5,13,1,6:37 PM,1:42,Barnes Backcourt Turnover (P1.T5),,,,,4.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022200081,155,7,1,1,6:37 PM,1:42,KINGS Violation: Delay of game Violation,,,,,2.0,1610612758,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200081,156,2,1,1,6:37 PM,1:31,,,MISS Haslem 16' Jump Shot,,,5.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,157,4,0,1,6:38 PM,1:28,,,Butler REBOUND (Off:1 Def:2),,,5.0,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,158,1,1,1,6:38 PM,1:24,,,Strus 26' 3PT Jump Shot (3 PTS) (Butler 3 AST),21 - 25,4,5.0,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200081,160,2,6,1,6:38 PM,1:05,MISS Lyles 4' Driving Layup,,,,,4.0,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,161,4,0,1,6:38 PM,1:03,Lyles REBOUND (Off:1 Def:2),,,,,4.0,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,162,1,5,1,6:38 PM,1:01,Lyles 3' Layup (2 PTS),,,21 - 27,6,4.0,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,163,6,2,1,6:38 PM,0:50,Fox S.FOUL (P2.PN) (N.Buchert),,,,,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200081,165,3,11,1,6:39 PM,0:50,,,Butler Free Throw 1 of 2 (2 PTS),22 - 27,5,5.0,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,166,8,0,1,6:39 PM,0:50,,,SUB: Jovic FOR Haslem,,,5.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200081,168,3,12,1,6:39 PM,0:50,,,Butler Free Throw 2 of 2 (3 PTS),23 - 27,4,5.0,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,169,1,5,1,6:39 PM,0:33,Lyles 1' Layup (4 PTS),,,23 - 29,6,4.0,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,170,2,86,1,6:40 PM,0:21,,,MISS Butler 10' Turnaround Fadeaway Shot,,,5.0,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,171,4,0,1,6:40 PM,0:17,Holmes REBOUND (Off:0 Def:1),,,,,4.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,172,1,6,1,6:40 PM,0:02,Fox 1' Driving Layup (6 PTS),,,23 - 31,8,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,173,6,2,1,6:40 PM,0:02,,,Robinson S.FOUL (P2.PN) (N.Buchert),,,5.0,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200081,175,8,0,1,6:40 PM,0:02,SUB: Mitchell FOR Monk,,,,,4.0,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200081,176,8,0,1,6:40 PM,0:02,SUB: Okpala FOR Lyles,,,,,4.0,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,4,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200081,177,8,0,1,6:40 PM,0:02,,,SUB: Martin FOR Butler,,,5.0,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200081,181,3,10,1,6:41 PM,0:02,Fox Free Throw 1 of 1 (7 PTS),,,23 - 32,9,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,182,13,0,1,6:41 PM,0:00,,End of 1st Period (6:41 PM EST),,23 - 32,9,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200081,189,12,0,2,6:43 PM,12:00,,Start of 2nd Period (6:43 PM EST),,23 - 32,9,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200081,190,2,1,2,6:44 PM,11:43,MISS Monk 28' 3PT Jump Shot,,,,,4.0,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,191,4,0,2,6:44 PM,11:40,,,Martin REBOUND (Off:1 Def:2),,,5.0,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,192,2,6,2,6:44 PM,11:34,,,MISS Martin 6' Driving Layup,,,5.0,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,193,4,0,2,6:44 PM,11:30,Monk REBOUND (Off:0 Def:1),,,,,4.0,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,194,2,1,2,6:44 PM,11:25,MISS Lyles 25' 3PT Jump Shot,,,,,4.0,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,195,4,0,2,6:44 PM,11:20,,,Robinson REBOUND (Off:1 Def:1),,,5.0,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,196,2,1,2,6:44 PM,11:07,,,MISS Robinson 23' Jump Shot,,,5.0,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,197,4,0,2,6:44 PM,11:04,Holmes REBOUND (Off:0 Def:2),,,,,4.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,198,1,41,2,6:44 PM,11:02,Monk 2' Running Layup (2 PTS) (Fox 1 AST),,,23 - 34,11,4.0,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200081,200,6,2,2,6:44 PM,11:02,,,Vincent S.FOUL (P2.T1) (T.Mirkovich),,,5.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200081,202,3,10,2,6:45 PM,11:02,Monk Free Throw 1 of 1 (3 PTS),,,23 - 35,12,4.0,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,203,2,79,2,6:45 PM,10:38,,,MISS Adebayo 9' Pullup Jump Shot,,,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,204,4,0,2,6:45 PM,10:32,,,Strus REBOUND (Off:1 Def:0),,,5.0,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,205,2,97,2,6:45 PM,10:32,,,MISS Strus Tip Layup Shot,,,5.0,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,206,4,0,2,6:45 PM,10:31,Monk REBOUND (Off:0 Def:2),,,,,4.0,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,207,1,1,2,6:46 PM,10:26,Lyles 3PT Jump Shot (7 PTS) (Fox 2 AST),,,23 - 38,15,4.0,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200081,209,9,1,2,6:46 PM,10:26,,,Heat Timeout: Regular (Reg.2 Short 0),,,3.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200081,210,8,0,2,6:47 PM,10:26,,,SUB: Herro FOR Robinson,,,5.0,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200081,212,1,101,2,6:49 PM,10:05,,,Herro 6' Driving Floating Jump Shot (3 PTS),25 - 38,13,5.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,213,5,1,2,6:49 PM,9:44,Lyles Bad Pass Turnover (P1.T6),,Martin STEAL (1 STL),,,4.0,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200081,216,8,0,2,6:49 PM,9:40,SUB: Davis FOR Lyles,,,,,4.0,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,4,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200081,218,1,1,2,6:50 PM,9:38,,,Strus 24' 3PT Jump Shot (6 PTS) (Vincent 1 AST),28 - 38,10,5.0,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200081,220,2,79,2,6:50 PM,9:26,MISS Monk 25' 3PT Pullup Jump Shot,,,,,4.0,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,221,4,0,2,6:50 PM,9:24,,,Heat Rebound,,,3.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200081,223,5,40,2,6:50 PM,9:14,,,Herro Out of Bounds Lost Ball Turnover (P1.T4),,,5.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0022200081,224,8,0,2,6:50 PM,9:14,SUB: Sabonis FOR Fox,,,,,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200081,225,8,0,2,6:50 PM,9:14,SUB: Mitchell FOR Holmes,,,,,4.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200081,297,8,0,2,6:50 PM,9:14,SUB: Murray FOR Barnes,,,,,4.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200081,228,2,1,2,6:51 PM,9:05,MISS Davis 25' 3PT Jump Shot,,,,,4.0,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,229,4,0,2,6:51 PM,9:02,,,Strus REBOUND (Off:1 Def:1),,,5.0,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,230,2,63,2,6:51 PM,8:54,,,MISS Herro 13' Fadeaway Jumper,,,5.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,231,4,0,2,6:51 PM,8:51,Mitchell REBOUND (Off:0 Def:1),,,,,4.0,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,232,1,5,2,6:51 PM,8:43,Sabonis 2' Layup (8 PTS) (Monk 1 AST),,,28 - 40,12,4.0,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200081,354,6,1,2,6:52 PM,8:34,Murray P.FOUL (P2.T1) (N.Buchert),,,,,4.0,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200081,238,1,79,2,6:52 PM,8:22,,,Herro 26' 3PT Pullup Jump Shot (6 PTS),31 - 40,9,5.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,239,2,1,2,6:52 PM,8:07,MISS Sabonis 19' Jump Shot,,,,,4.0,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,240,4,0,2,6:52 PM,8:02,,,Adebayo REBOUND (Off:0 Def:2),,,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,241,6,2,2,6:52 PM,7:59,Sabonis S.FOUL (P3.T2) (N.Buchert),,,,,4.0,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200081,244,3,11,2,6:53 PM,7:59,,,Adebayo Free Throw 1 of 2 (7 PTS),32 - 40,8,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,245,8,0,2,6:53 PM,7:59,SUB: Huerter FOR Monk,,,,,4.0,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200081,247,3,12,2,6:53 PM,7:59,,,Adebayo Free Throw 2 of 2 (8 PTS),33 - 40,7,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,248,1,108,2,6:53 PM,7:51,Sabonis 1' Cutting Dunk Shot (10 PTS) (Murray 1 AST),,,33 - 42,9,4.0,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200081,250,1,6,2,6:53 PM,7:39,,,Adebayo 1' Driving Layup (10 PTS),35 - 42,7,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,251,1,80,2,6:54 PM,7:28,Huerter 25' 3PT Step Back Jump Shot (9 PTS),,,35 - 45,10,4.0,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,252,1,79,2,6:54 PM,7:15,,,Adebayo 21' Pullup Jump Shot (12 PTS),37 - 45,8,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,253,5,1,2,6:54 PM,7:00,Murray Bad Pass Turnover (P2.T7),,,,,4.0,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,254,8,0,2,6:54 PM,7:00,,,SUB: Lowry FOR Vincent,,,5.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200081,256,10,0,2,6:55 PM,6:58,Jump Ball Sabonis vs. Strus: Tip to Adebayo,,,,,4.0,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0
+0022200081,262,2,78,2,6:56 PM,6:33,,,MISS Strus 4' Floating Jump Shot,,,5.0,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,263,4,0,2,6:56 PM,6:29,,,Adebayo REBOUND (Off:1 Def:2),,,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,264,2,97,2,6:56 PM,6:29,,,MISS Adebayo Tip Layup Shot,,,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,265,4,0,2,6:56 PM,6:27,Murray REBOUND (Off:0 Def:1),,,,,4.0,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,266,1,2,2,6:56 PM,6:25,Murray 25' 3PT Running Jump Shot (10 PTS) (Mitchell 1 AST),,,37 - 48,11,4.0,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200081,268,1,79,2,6:57 PM,6:09,,,Herro 26' 3PT Pullup Jump Shot (9 PTS) (Adebayo 1 AST),40 - 48,8,5.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200081,270,1,1,2,6:57 PM,5:52,Sabonis 15' Jump Shot (12 PTS) (Huerter 3 AST),,,40 - 50,10,4.0,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200081,272,2,1,2,6:57 PM,5:28,,,MISS Strus 25' 3PT Jump Shot,,,5.0,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,273,4,0,2,6:57 PM,5:25,,,Heat Rebound,,,3.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200081,275,8,0,2,6:58 PM,5:25,SUB: Fox FOR Mitchell,,,,,4.0,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200081,276,8,0,2,6:58 PM,5:25,,,SUB: Butler FOR Martin,,,5.0,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200081,279,1,1,2,6:58 PM,5:20,,,Herro 3PT Jump Shot (12 PTS),43 - 50,7,5.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,280,1,6,2,6:58 PM,4:57,Fox 2' Driving Layup (9 PTS) (Murray 2 AST),,,43 - 52,9,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200081,282,2,102,2,6:59 PM,4:40,,,MISS Herro 9' Driving Floating Bank Jump Shot,,,5.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,283,4,0,2,6:59 PM,4:38,Sabonis REBOUND (Off:2 Def:3),,,,,4.0,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,284,2,78,2,6:59 PM,4:29,MISS Fox 12' Floating Jump Shot,,,,,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,285,4,0,2,6:59 PM,4:25,,,Adebayo REBOUND (Off:1 Def:3),,,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,286,5,45,2,6:59 PM,4:21,,,Butler Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,5.0,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0022200081,287,8,0,2,6:59 PM,4:21,SUB: Barnes FOR Davis,,,,,4.0,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200081,289,1,98,2,7:00 PM,4:06,Murray 2' Cutting Layup Shot (12 PTS) (Huerter 4 AST),,,43 - 54,11,4.0,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200081,291,2,79,2,7:00 PM,3:51,,,MISS Adebayo 21' Pullup Jump Shot,,,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,292,4,0,2,7:00 PM,3:47,Fox REBOUND (Off:0 Def:3),,,,,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,293,2,1,2,7:00 PM,3:41,MISS Murray 3PT Jump Shot,,,,,4.0,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,294,4,0,2,7:00 PM,3:38,,,Butler REBOUND (Off:1 Def:3),,,5.0,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,295,1,5,2,7:00 PM,3:25,,,Butler 4' Layup (5 PTS) (Adebayo 2 AST),45 - 54,9,5.0,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200081,299,1,5,2,7:01 PM,3:05,Sabonis 1' Layup (14 PTS) (Barnes 2 AST),,,45 - 56,11,4.0,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200081,301,6,4,2,7:01 PM,2:55,,,Lowry OFF.Foul (P2) (N.Buchert),,,5.0,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200081,303,5,37,2,7:01 PM,2:55,,,Lowry Offensive Foul Turnover (P2.T6),,,5.0,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0022200081,304,9,1,2,7:01 PM,2:55,KINGS Timeout: Regular (Full 2 Short 0),,,,,2.0,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200081,305,8,0,2,7:03 PM,2:55,,,SUB: Vincent FOR Herro,,,5.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200081,307,1,1,2,7:04 PM,2:43,Huerter 25' 3PT Jump Shot (12 PTS) (Fox 3 AST),,,45 - 59,14,4.0,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200081,310,2,1,2,7:05 PM,2:19,,,MISS Strus 26' 3PT Jump Shot,,,5.0,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,311,4,0,2,7:05 PM,2:15,Fox REBOUND (Off:0 Def:4),,,,,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,312,1,5,2,7:05 PM,2:06,Sabonis 2' Layup (16 PTS) (Barnes 3 AST),,,45 - 61,16,4.0,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200081,314,2,6,2,7:05 PM,1:51,Sabonis BLOCK (1 BLK),,MISS Adebayo 7' Driving Layup,,,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1
+0022200081,316,4,0,2,7:05 PM,1:48,Fox REBOUND (Off:0 Def:5),,,,,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,317,1,2,2,7:05 PM,1:45,Barnes 3PT Running Jump Shot (3 PTS) (Murray 3 AST),,,45 - 64,19,4.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200081,319,7,5,2,7:06 PM,1:30,Fox Violation:Kicked Ball (T.Mirkovich),,,,,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,0
+0022200081,320,8,0,2,7:06 PM,1:30,SUB: Holmes FOR Sabonis,,,,,4.0,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200081,322,1,5,2,7:06 PM,1:14,,,Butler 2' Layup (7 PTS),47 - 64,17,5.0,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,323,1,47,2,7:06 PM,0:53,Fox 6' Turnaround Jump Shot (11 PTS),,,47 - 66,19,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,324,2,1,2,7:07 PM,0:39,,,MISS Strus 25' 3PT Jump Shot,,,5.0,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,325,4,0,2,7:07 PM,0:36,Huerter REBOUND (Off:0 Def:2),,,,,4.0,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,326,1,103,2,7:07 PM,0:32,Huerter 26' 3PT Running Pull-Up Jump Shot (15 PTS),,,47 - 69,22,4.0,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,327,6,1,2,7:07 PM,0:27,Barnes P.FOUL (P2.T3) (T.Mirkovich),,,,,4.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200081,329,8,0,2,7:08 PM,0:27,SUB: Lyles FOR Murray,,,,,4.0,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200081,331,6,2,2,7:08 PM,0:16,Lyles S.FOUL (P1.PN) (T.Mirkovich),,,,,4.0,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200081,333,3,11,2,7:08 PM,0:16,,,Lowry Free Throw 1 of 2 (1 PTS),48 - 69,21,5.0,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,344,3,12,2,7:08 PM,0:16,,,Lowry Free Throw 2 of 2 (2 PTS),49 - 69,20,5.0,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,334,8,0,2,7:08 PM,0:16,SUB: Sabonis FOR Holmes,,,,,4.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200081,335,8,0,2,7:08 PM,0:16,SUB: Murray FOR Lyles,,,,,4.0,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200081,336,8,0,2,7:08 PM,0:16,,,SUB: Haslem FOR Adebayo,,,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200081,337,8,0,2,7:08 PM,0:16,,,SUB: Martin FOR Strus,,,5.0,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200081,342,6,2,2,7:09 PM,0:01,,,Martin S.FOUL (P2.T2) (T.Mirkovich),,,5.0,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200081,345,3,11,2,7:10 PM,0:01,Sabonis Free Throw 1 of 2 (17 PTS),,,49 - 70,21,4.0,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,346,8,0,2,7:10 PM,0:01,SUB: Mitchell FOR Fox,,,,,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200081,347,8,0,2,7:10 PM,0:01,SUB: Okpala FOR Huerter,,,,,4.0,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200081,348,8,0,2,7:10 PM,0:01,SUB: Lyles FOR Murray,,,,,4.0,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200081,352,3,12,2,7:10 PM,0:01,Sabonis Free Throw 2 of 2 (18 PTS),,,49 - 71,22,4.0,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,353,13,0,2,7:10 PM,0:00,,End of 2nd Period (7:10 PM EST),,49 - 71,22,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200081,366,12,0,3,7:26 PM,12:00,,Start of 3rd Period (7:26 PM EST),,49 - 71,22,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200081,367,5,40,3,7:26 PM,11:43,Murray Out of Bounds Lost Ball Turnover (P3.T8),,,,,4.0,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022200081,369,6,1,3,7:27 PM,11:27,Murray P.FOUL (P3.T1) (N.Buchert),,,,,4.0,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0022200081,371,2,1,3,7:28 PM,11:12,,,MISS Butler 3PT Jump Shot,,,5.0,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,372,4,0,3,7:28 PM,11:08,Fox REBOUND (Off:0 Def:6),,,,,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,373,2,1,3,7:28 PM,11:03,MISS Murray 26' 3PT Jump Shot,,,,,4.0,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,374,4,0,3,7:28 PM,11:03,,,Heat Rebound,,,3.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200081,376,2,98,3,7:28 PM,10:52,,,MISS Butler 3' Cutting Layup Shot,,,5.0,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,377,4,0,3,7:28 PM,10:50,Sabonis REBOUND (Off:2 Def:4),,,,,4.0,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,378,5,1,3,7:28 PM,10:43,Murray Bad Pass Turnover (P4.T9),,Butler STEAL (1 STL),,,4.0,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200081,380,1,1,3,7:28 PM,10:34,,,Martin 25' 3PT Jump Shot (5 PTS) (Butler 4 AST),52 - 71,19,5.0,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200081,382,6,4,3,7:29 PM,10:18,Sabonis OFF.Foul (P4) (N.Buchert),,,,,4.0,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200081,384,5,37,3,7:29 PM,10:18,Sabonis Offensive Foul Turnover (P2.T10),,,,,4.0,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022200081,385,1,6,3,7:29 PM,9:59,,,Herro 2' Driving Layup (14 PTS),54 - 71,17,5.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,386,6,2,3,7:29 PM,9:59,Sabonis S.FOUL (P5.T2) (S.Wright),,,,,4.0,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200081,388,8,0,3,7:30 PM,9:59,SUB: Holmes FOR Sabonis,,,,,4.0,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200081,390,3,10,3,7:30 PM,9:59,,,Herro Free Throw 1 of 1 (15 PTS),55 - 71,16,5.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,391,2,1,3,7:30 PM,9:46,MISS Barnes 24' 3PT Jump Shot,,,,,4.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,392,4,0,3,7:30 PM,9:43,,,Lowry REBOUND (Off:0 Def:1),,,5.0,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,393,2,41,3,7:30 PM,9:38,Murray BLOCK (2 BLK),,MISS Lowry 2' Running Layup,,,5.0,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,1
+0022200081,395,4,0,3,7:30 PM,9:38,,,Heat Rebound,,,3.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200081,397,6,2,3,7:31 PM,9:26,Holmes S.FOUL (P1.T3) (T.Mirkovich),,,,,4.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200081,399,3,11,3,7:31 PM,9:26,,,Martin Free Throw 1 of 2 (6 PTS),56 - 71,15,5.0,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,400,9,1,3,7:31 PM,9:26,KINGS Timeout: Regular (Full 3 Short 0),,,,,2.0,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200081,401,3,12,3,7:34 PM,9:26,,,Martin Free Throw 2 of 2 (7 PTS),57 - 71,14,5.0,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,402,1,78,3,7:35 PM,9:07,Murray 12' Floating Jump Shot (14 PTS) (Huerter 5 AST),,,57 - 73,16,4.0,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200081,403,2,1,3,7:35 PM,8:40,,,MISS Adebayo 13' Jump Shot,,,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,404,4,0,3,7:35 PM,8:35,Fox REBOUND (Off:0 Def:7),,,,,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,405,5,2,3,7:35 PM,8:33,Fox Lost Ball Turnover (P2.T11),,Lowry STEAL (1 STL),,,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200081,407,1,5,3,7:35 PM,8:31,,,Lowry 2' Layup (4 PTS),59 - 73,14,5.0,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,408,1,80,3,7:36 PM,8:23,Huerter 26' 3PT Step Back Jump Shot (18 PTS),,,59 - 76,17,4.0,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,409,6,2,3,7:36 PM,8:09,Barnes S.FOUL (P3.T4) (N.Buchert),,,,,4.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200081,411,3,11,3,7:36 PM,8:09,,,MISS Butler Free Throw 1 of 2,,,5.0,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,412,4,1,3,7:36 PM,8:09,,,Heat Rebound,,,3.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200081,413,3,12,3,7:36 PM,8:09,,,Butler Free Throw 2 of 2 (8 PTS),60 - 76,16,5.0,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,414,6,4,3,7:37 PM,7:59,Holmes OFF.Foul (P2) (N.Buchert),,,,,4.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200081,416,5,37,3,7:37 PM,7:59,Holmes Offensive Foul Turnover (P1.T12),,,,,4.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022200081,417,7,5,3,7:37 PM,7:43,Barnes Violation:Kicked Ball (T.Mirkovich),,,,,4.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,0
+0022200081,418,2,63,3,7:38 PM,7:39,,,MISS Herro 26' 3PT Fadeaway Jumper,,,5.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,419,4,0,3,7:38 PM,7:35,Holmes REBOUND (Off:0 Def:3),,,,,4.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,420,5,1,3,7:38 PM,7:20,Murray Bad Pass Turnover (P5.T13),,,,,4.0,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,421,1,6,3,7:38 PM,7:11,,,Herro 3' Driving Layup (17 PTS),62 - 76,14,5.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,422,2,78,3,7:38 PM,6:56,MISS Fox 10' Floating Jump Shot,,,,,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,423,4,0,3,7:38 PM,6:52,,,Martin REBOUND (Off:1 Def:3),,,5.0,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,424,1,5,3,7:39 PM,6:48,,,Butler 2' Layup (10 PTS) (Martin 1 AST),64 - 76,12,5.0,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200081,426,9,1,3,7:39 PM,6:48,KINGS Timeout: Regular (Full 4 Short 0),,,,,2.0,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200081,428,1,98,3,7:42 PM,6:32,Holmes 7' Cutting Layup Shot (2 PTS) (Barnes 4 AST),,,64 - 78,14,4.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200081,430,2,79,3,7:42 PM,6:12,,,MISS Martin 17' Pullup Jump Shot,,,5.0,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,431,4,0,3,7:42 PM,6:04,,,Adebayo REBOUND (Off:2 Def:3),,,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,432,1,107,3,7:42 PM,6:04,,,Adebayo Tip Dunk Shot (14 PTS),66 - 78,12,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,433,2,78,3,7:42 PM,5:56,MISS Fox 8' Floating Jump Shot,,,,,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,434,4,0,3,7:43 PM,5:51,,,Butler REBOUND (Off:1 Def:4),,,5.0,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,435,5,40,3,7:43 PM,5:50,,,Butler Out of Bounds Lost Ball Turnover (P2.T7),,,5.0,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0022200081,436,8,0,3,7:43 PM,5:50,SUB: Mitchell FOR Fox,,,,,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200081,437,8,0,3,7:43 PM,5:50,SUB: Len FOR Barnes,,,,,4.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200081,438,8,0,3,7:43 PM,5:50,SUB: Lyles FOR Holmes,,,,,4.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200081,442,2,6,3,7:43 PM,5:32,MISS Huerter 6' Driving Layup,,Adebayo BLOCK (1 BLK),,,4.0,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1
+0022200081,443,4,0,3,7:43 PM,5:30,,,Herro REBOUND (Off:0 Def:1),,,5.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,444,1,63,3,7:43 PM,5:09,,,Herro 10' Fadeaway Jumper (19 PTS),68 - 78,10,5.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,445,6,4,3,7:44 PM,4:48,Mitchell OFF.Foul (P1) (S.Wright),,,,,4.0,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200081,447,5,37,3,7:44 PM,4:48,Mitchell Offensive Foul Turnover (P1.T14),,,,,4.0,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022200081,448,8,0,3,7:44 PM,4:48,,,SUB: Strus FOR Martin,,,5.0,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200081,450,8,0,3,7:44 PM,4:48,,,SUB: Haslem FOR Adebayo,,,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200081,452,2,1,3,7:45 PM,4:29,,,MISS Lowry 16' Jump Shot,,,5.0,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,453,4,0,3,7:45 PM,4:26,Len REBOUND (Off:0 Def:1),,,,,4.0,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,454,2,63,3,7:45 PM,4:13,MISS Huerter 19' Fadeaway Jumper,,,,,4.0,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,455,4,0,3,7:45 PM,4:10,,,Lowry REBOUND (Off:0 Def:2),,,5.0,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,456,6,1,3,7:45 PM,4:07,Len P.FOUL (P1.PN) (S.Wright),,,,,4.0,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200081,458,3,11,3,7:45 PM,4:07,,,Lowry Free Throw 1 of 2 (5 PTS),69 - 78,9,5.0,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,459,8,0,3,7:46 PM,4:07,SUB: Monk FOR Huerter,,,,,4.0,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200081,461,3,12,3,7:46 PM,4:07,,,Lowry Free Throw 2 of 2 (6 PTS),70 - 78,8,5.0,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,462,1,75,3,7:46 PM,3:48,Murray 5' Driving Finger Roll Layup (16 PTS) (Monk 2 AST),,,70 - 80,10,4.0,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200081,463,6,2,3,7:46 PM,3:48,,,Haslem S.FOUL (P1.T1) (S.Wright),,,5.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200081,466,3,10,3,7:47 PM,3:48,Murray Free Throw 1 of 1 (17 PTS),,,70 - 81,11,4.0,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,467,6,1,3,7:47 PM,3:45,Murray P.FOUL (P4.PN) (N.Buchert),,,,,4.0,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200081,469,3,11,3,7:47 PM,3:45,,,Lowry Free Throw 1 of 2 (7 PTS),71 - 81,10,5.0,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,470,8,0,3,7:47 PM,3:45,SUB: Huerter FOR Murray,,,,,4.0,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200081,471,8,0,3,7:47 PM,3:45,,,SUB: Vincent FOR Herro,,,5.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200081,474,3,12,3,7:48 PM,3:45,,,Lowry Free Throw 2 of 2 (8 PTS),72 - 81,9,5.0,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,475,6,2,3,7:48 PM,3:27,,,Lowry S.FOUL (P3.T2) (N.Buchert),,,5.0,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,4,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200081,477,3,11,3,7:49 PM,3:27,MISS Len Free Throw 1 of 2,,,,,4.0,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,478,4,1,3,7:49 PM,3:27,KINGS Rebound,,,,,2.0,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200081,479,3,12,3,7:49 PM,3:27,Len Free Throw 2 of 2 (1 PTS),,,72 - 82,10,4.0,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,480,2,1,3,7:49 PM,3:16,,,MISS Vincent 17' Jump Shot,,,5.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,481,4,0,3,7:49 PM,3:12,Mitchell REBOUND (Off:0 Def:2),,,,,4.0,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,482,5,1,3,7:49 PM,3:09,Mitchell Bad Pass Turnover (P2.T15),,Butler STEAL (2 STL),,,4.0,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200081,484,1,41,3,7:49 PM,3:05,,,Lowry 1' Running Layup (10 PTS) (Butler 5 AST),74 - 82,8,5.0,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200081,486,5,1,3,7:49 PM,3:01,Mitchell Bad Pass Turnover (P3.T16),,Lowry STEAL (2 STL),,,4.0,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200081,488,2,5,3,7:49 PM,2:56,Lyles BLOCK (1 BLK),,MISS Butler 7' Layup,,,5.0,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,1
+0022200081,490,4,0,3,7:50 PM,2:53,Mitchell REBOUND (Off:0 Def:3),,,,,4.0,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,491,1,79,3,7:50 PM,2:44,Monk 26' 3PT Pullup Jump Shot (6 PTS) (Huerter 6 AST),,,74 - 85,11,4.0,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200081,492,9,1,3,7:50 PM,2:41,,,Heat Timeout: Regular (Reg.3 Short 0),,,3.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200081,493,8,0,3,7:51 PM,2:41,SUB: Holmes FOR Mitchell,,,,,4.0,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200081,494,8,0,3,7:51 PM,2:41,SUB: Fox FOR Len,,,,,4.0,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200081,495,8,0,3,7:51 PM,2:41,,,SUB: Adebayo FOR Haslem,,,5.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200081,499,1,98,3,7:52 PM,2:22,,,Adebayo 1' Cutting Layup Shot (16 PTS) (Lowry 2 AST),76 - 85,9,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200081,501,6,2,3,7:52 PM,1:58,,,Strus S.FOUL (P1.T3) (N.Buchert),,,5.0,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200081,504,3,11,3,7:53 PM,1:58,MISS Huerter Free Throw 1 of 2,,,,,4.0,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,505,4,1,3,7:53 PM,1:58,KINGS Rebound,,,,,2.0,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200081,506,3,12,3,7:53 PM,1:58,MISS Huerter Free Throw 2 of 2,,,,,4.0,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,507,4,0,3,7:53 PM,1:56,,,Butler REBOUND (Off:1 Def:5),,,5.0,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,508,1,63,3,7:53 PM,1:37,,,Lowry 25' 3PT Fadeaway Jumper (13 PTS) (Butler 6 AST),79 - 85,6,5.0,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200081,510,2,3,3,7:54 PM,1:21,MISS Holmes 10' Hook Shot,,,,,4.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,511,4,0,3,7:54 PM,1:18,,,Vincent REBOUND (Off:0 Def:1),,,5.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,512,2,1,3,7:54 PM,1:07,Fox BLOCK (1 BLK),,MISS Vincent 26' 3PT Jump Shot,,,5.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1
+0022200081,514,4,0,3,7:54 PM,1:06,KINGS Rebound,,,,,2.0,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200081,515,6,3,3,7:54 PM,1:06,,,Vincent L.B.FOUL (P3.PN) (T.Mirkovich),,,5.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200081,517,8,0,3,7:54 PM,1:06,,,SUB: Martin FOR Butler,,,5.0,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200081,519,3,11,3,7:55 PM,1:06,Fox Free Throw 1 of 2 (12 PTS),,,79 - 86,7,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,520,3,12,3,7:55 PM,1:06,Fox Free Throw 2 of 2 (13 PTS),,,79 - 87,8,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,521,2,1,3,7:55 PM,0:50,,,MISS Martin 25' 3PT Jump Shot,,,5.0,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0022200081,522,4,0,3,7:55 PM,0:47,Holmes REBOUND (Off:0 Def:4),,,,,4.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0022200081,523,1,2,3,7:55 PM,0:44,Lyles 25' 3PT Running Jump Shot (10 PTS) (Fox 4 AST),,,79 - 90,11,4.0,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200081,525,1,1,3,7:56 PM,0:30,,,Strus 25' 3PT Jump Shot (9 PTS) (Adebayo 3 AST),82 - 90,8,5.0,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200081,528,2,78,3,7:56 PM,0:08,MISS Fox 8' Floating Jump Shot,,,,,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,529,4,0,3,7:56 PM,0:05,Fox REBOUND (Off:1 Def:7),,,,,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,530,2,1,3,7:56 PM,0:03,MISS Monk 3PT Jump Shot,,,,,4.0,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,531,4,0,3,7:56 PM,0:03,,,Lowry REBOUND (Off:0 Def:3),,,5.0,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,532,2,2,3,7:56 PM,0:00,,,MISS Lowry 50' 3PT Running Jump Shot,,,5.0,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,533,4,0,3,7:56 PM,0:00,,,Heat Rebound,,,3.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200081,534,13,0,3,7:57 PM,0:00,,End of 3rd Period (7:57 PM EST),,82 - 90,8,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200081,539,12,0,4,7:59 PM,12:00,,Start of 4th Period (7:59 PM EST),,82 - 90,8,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200081,540,2,79,4,7:59 PM,11:46,,,MISS Strus 28' 3PT Pullup Jump Shot,,,5.0,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,541,4,0,4,7:59 PM,11:42,Lyles REBOUND (Off:1 Def:3),,,,,4.0,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,542,1,101,4,8:00 PM,11:30,Fox 7' Driving Floating Jump Shot (15 PTS),,,82 - 92,10,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,543,1,79,4,8:00 PM,11:12,,,Herro 17' Pullup Jump Shot (21 PTS),84 - 92,8,5.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,544,5,1,4,8:00 PM,10:57,Barnes Bad Pass Turnover (P2.T17),,Martin STEAL (2 STL),,,4.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200081,546,1,50,4,8:00 PM,10:54,,,Martin 1' Running Dunk (9 PTS),86 - 92,6,5.0,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,547,9,1,4,8:00 PM,10:53,KINGS Timeout: Regular (Full 5 Short 0),,,,,2.0,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200081,548,6,2,4,8:04 PM,10:37,,,Vincent S.FOUL (P4.T1) (S.Wright),,,5.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200081,550,3,11,4,8:04 PM,10:37,Barnes Free Throw 1 of 2 (4 PTS),,,86 - 93,7,4.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,551,3,12,4,8:04 PM,10:37,Barnes Free Throw 2 of 2 (5 PTS),,,86 - 94,8,4.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0022200081,552,2,1,4,8:04 PM,10:26,,,MISS Adebayo 10' Jump Shot,,,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,553,4,0,4,8:04 PM,10:23,Fox REBOUND (Off:1 Def:8),,,,,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,554,5,45,4,8:05 PM,10:15,Monk Out of Bounds - Bad Pass Turnover Turnover (P2.T18),,,,,4.0,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022200081,555,5,1,4,8:05 PM,10:04,Lyles STEAL (1 STL),,Herro Bad Pass Turnover (P2.T8),,,5.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200081,557,6,1,4,8:05 PM,10:00,,,Strus P.FOUL (P2.T2) (N.Buchert),,,5.0,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200081,559,2,78,4,8:05 PM,9:51,MISS Holmes 11' Floating Jump Shot,,,,,4.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,560,4,0,4,8:05 PM,9:48,,,Adebayo REBOUND (Off:2 Def:4),,,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,561,6,1,4,8:06 PM,9:39,Barnes P.FOUL (P4.T1) (S.Wright),,,,,4.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200081,563,8,0,4,8:06 PM,9:39,SUB: Sabonis FOR Monk,,,,,4.0,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200081,564,8,0,4,8:06 PM,9:39,SUB: Huerter FOR Fox,,,,,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200081,565,8,0,4,8:06 PM,9:39,SUB: Mitchell FOR Holmes,,,,,4.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,4,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200081,569,2,80,4,8:06 PM,9:26,,,MISS Strus 26' 3PT Step Back Jump Shot,,,5.0,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,570,4,0,4,8:07 PM,9:24,KINGS Rebound,,,,,2.0,1610612758,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200081,571,6,3,4,8:07 PM,9:24,,,Martin L.B.FOUL (P3.T3) (N.Buchert),,,5.0,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200081,573,2,1,4,8:07 PM,9:10,MISS Barnes 25' 3PT Jump Shot,,,,,4.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,574,4,0,4,8:07 PM,9:10,KINGS Rebound,,,,,2.0,1610612758,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200081,575,6,3,4,8:07 PM,9:10,,,Strus L.B.FOUL (P3.T4) (S.Wright),,,5.0,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200081,577,2,1,4,8:08 PM,9:05,MISS Lyles 26' 3PT Jump Shot,,,,,4.0,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,578,4,0,4,8:08 PM,9:04,KINGS Rebound,,,,,2.0,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200081,579,6,14,4,8:08 PM,9:04,,,Strus FLAGRANT.FOUL.TYPE1 (P4.PN) (S.Wright),,,5.0,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200081,581,18,1,4,8:08 PM,9:04,,Instant Replay4th Period (8:08 PM EST),,86 - 94,8,0.0,579,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200081,582,8,0,4,8:09 PM,9:04,SUB: Murray FOR Lyles,,,,,4.0,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200081,584,3,18,4,8:10 PM,9:04,Barnes Free Throw Flagrant 1 of 2 (6 PTS),,,86 - 95,9,4.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,585,3,19,4,8:10 PM,9:04,Barnes Free Throw Flagrant 2 of 2 (7 PTS),,,86 - 96,10,4.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,586,1,79,4,8:10 PM,8:50,Barnes 7' Pullup Jump Shot (9 PTS),,,86 - 98,12,4.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,587,9,1,4,8:11 PM,8:50,,,Heat Timeout: Regular (Reg.4 Short 0),,,3.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200081,588,8,0,4,8:12 PM,8:50,,,SUB: Butler FOR Vincent,,,5.0,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200081,589,8,0,4,8:12 PM,8:50,,,SUB: Lowry FOR Martin,,,5.0,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200081,592,1,75,4,8:13 PM,8:41,,,Herro 4' Driving Finger Roll Layup (23 PTS) (Adebayo 4 AST),88 - 98,10,5.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200081,594,1,1,4,8:14 PM,8:18,Huerter 25' 3PT Jump Shot (21 PTS) (Sabonis 3 AST),,,88 - 101,13,4.0,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200081,596,1,79,4,8:14 PM,8:07,,,Herro 25' 3PT Pullup Jump Shot (26 PTS),91 - 101,10,5.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,597,6,4,4,8:14 PM,7:59,Mitchell OFF.Foul (P2) (S.Wright),,,,,4.0,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200081,599,5,37,4,8:14 PM,7:59,Mitchell Offensive Foul Turnover (P4.T19),,,,,4.0,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0022200081,600,8,0,4,8:14 PM,7:59,SUB: Fox FOR Mitchell,,,,,4.0,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200081,624,1,101,4,8:15 PM,7:49,,,Herro 14' Driving Floating Jump Shot (28 PTS),93 - 101,8,5.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,602,6,2,4,8:15 PM,7:49,Huerter S.FOUL (P2.T2) (S.Wright),,,,,4.0,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200081,604,3,10,4,8:15 PM,7:49,,,Herro Free Throw 1 of 1 (29 PTS),94 - 101,7,5.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,731,5,4,4,8:16 PM,7:42,Fox Traveling Turnover (P3.T20),,,,,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,0
+0022200081,608,2,6,4,8:16 PM,7:34,,,MISS Adebayo 15' Driving Layup,,,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,609,4,0,4,8:16 PM,7:32,Fox REBOUND (Off:1 Def:9),,,,,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,610,2,41,4,8:16 PM,7:28,MISS Murray 3' Running Layup,,,,,4.0,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,611,4,0,4,8:16 PM,7:28,,,Heat Rebound,,,3.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200081,613,1,79,4,8:16 PM,7:19,,,Herro 24' 3PT Pullup Jump Shot (32 PTS),97 - 101,4,5.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,614,2,79,4,8:16 PM,7:01,MISS Fox 23' Pullup Jump Shot,,,,,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,615,4,0,4,8:16 PM,6:57,,,Herro REBOUND (Off:0 Def:2),,,5.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,616,2,6,4,8:16 PM,6:53,,,MISS Strus 4' Driving Layup,,,5.0,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,617,4,0,4,8:16 PM,6:51,Sabonis REBOUND (Off:2 Def:5),,,,,4.0,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,618,5,11,4,8:17 PM,6:29,KINGS Turnover: Shot Clock (T#21),,,,,2.0,1610612758,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200081,619,1,7,4,8:17 PM,6:15,,,Butler 1' Dunk (12 PTS) (Lowry 3 AST),99 - 101,2,5.0,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200081,621,6,2,4,8:17 PM,6:15,Barnes S.FOUL (P5.T3) (N.Buchert),,,,,4.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200081,623,3,10,4,8:18 PM,6:15,,,Butler Free Throw 1 of 1 (13 PTS),100 - 101,1,5.0,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,625,1,1,4,8:18 PM,6:06,Murray 24' 3PT Jump Shot (20 PTS) (Barnes 5 AST),,,100 - 104,4,4.0,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200081,628,6,2,4,8:19 PM,5:52,Sabonis S.FOUL (P6.T4) (N.Buchert),,,,,4.0,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200081,630,3,11,4,8:19 PM,5:52,,,Adebayo Free Throw 1 of 2 (17 PTS),101 - 104,3,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,631,3,12,4,8:19 PM,5:52,,,Adebayo Free Throw 2 of 2 (18 PTS),102 - 104,2,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,638,8,0,4,8:20 PM,5:52,SUB: Holmes FOR Sabonis,,,,,4.0,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200081,632,6,2,4,8:20 PM,5:38,,,Adebayo S.FOUL (P3.PN) (S.Wright),,,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200081,634,3,11,4,8:20 PM,5:38,Murray Free Throw 1 of 2 (21 PTS),,,102 - 105,3,4.0,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,635,8,0,4,8:20 PM,5:38,,,SUB: Martin FOR Adebayo,,,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200081,637,3,12,4,8:21 PM,5:38,Murray Free Throw 2 of 2 (22 PTS),,,102 - 106,4,4.0,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,640,2,1,4,8:21 PM,5:23,Fox BLOCK (2 BLK),,MISS Herro 20' Jump Shot,,,5.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1
+0022200081,642,4,0,4,8:21 PM,5:20,,,Herro REBOUND (Off:1 Def:2),,,5.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,643,6,4,4,8:21 PM,5:20,,,Herro OFF.Foul (P1) (S.Wright),,,5.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200081,645,5,37,4,8:21 PM,5:20,,,Herro Offensive Foul Turnover (P3.T9),,,5.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0022200081,646,1,79,4,8:22 PM,4:59,Barnes 15' Pullup Jump Shot (11 PTS) (Huerter 7 AST),,,102 - 108,6,4.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200081,647,2,80,4,8:22 PM,4:35,,,MISS Herro 20' Step Back Jump Shot,,,5.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,648,4,0,4,8:22 PM,4:33,Barnes REBOUND (Off:1 Def:3),,,,,4.0,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,649,1,5,4,8:22 PM,4:12,Holmes 2' Layup (4 PTS) (Barnes 6 AST),,,102 - 110,8,4.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,4,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200081,651,9,1,4,8:23 PM,4:12,,,Heat Timeout: Regular (Reg.5 Short 0),,,3.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200081,703,8,0,4,8:23 PM,4:12,,,SUB: Adebayo FOR Martin,,,5.0,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200081,656,2,79,4,8:24 PM,3:53,,,MISS Herro 28' 3PT Pullup Jump Shot,,,5.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,657,4,0,4,8:24 PM,3:50,,,Strus REBOUND (Off:2 Def:1),,,5.0,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,658,1,9,4,8:25 PM,3:47,,,Herro 1' Driving Dunk (34 PTS) (Strus 1 AST),104 - 110,6,5.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200081,660,1,78,4,8:25 PM,3:27,Fox 6' Floating Jump Shot (17 PTS),,,104 - 112,8,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,661,1,99,4,8:25 PM,3:17,,,Adebayo 1' Cutting Finger Roll Layup Shot (20 PTS) (Lowry 4 AST),106 - 112,6,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200081,663,1,47,4,8:26 PM,2:53,Huerter 6' Turnaround Jump Shot (23 PTS) (Fox 5 AST),,,106 - 114,8,4.0,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0022200081,665,2,79,4,8:26 PM,2:43,,,MISS Lowry 27' 3PT Pullup Jump Shot,,,5.0,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,666,4,0,4,8:26 PM,2:39,Fox REBOUND (Off:1 Def:10),,,,,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,667,2,78,4,8:27 PM,2:30,MISS Fox 6' Floating Jump Shot,,,,,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,668,4,0,4,8:27 PM,2:29,Fox REBOUND (Off:2 Def:10),,,,,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,669,9,1,4,8:27 PM,2:29,KINGS Timeout: Regular (Full 6 Short 0),,,,,2.0,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200081,670,6,1,4,8:28 PM,2:28,,,Adebayo P.FOUL (P4.PN) (S.Wright),,,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200081,672,3,11,4,8:29 PM,2:28,Huerter Free Throw 1 of 2 (24 PTS),,,106 - 115,9,4.0,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,673,3,12,4,8:29 PM,2:28,Huerter Free Throw 2 of 2 (25 PTS),,,106 - 116,10,4.0,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,674,1,6,4,8:29 PM,2:17,,,Adebayo 2' Driving Layup (22 PTS),108 - 116,8,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,675,2,80,4,8:30 PM,1:56,MISS Fox 26' 3PT Step Back Jump Shot,,,,,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,676,4,0,4,8:30 PM,1:53,,,Lowry REBOUND (Off:0 Def:4),,,5.0,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,677,6,1,4,8:30 PM,1:48,Fox P.FOUL (P3.PN) (N.Buchert),,,,,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200081,679,3,11,4,8:31 PM,1:48,,,Lowry Free Throw 1 of 2 (14 PTS),109 - 116,7,5.0,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,680,3,12,4,8:31 PM,1:48,,,Lowry Free Throw 2 of 2 (15 PTS),110 - 116,6,5.0,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,681,6,2,4,8:31 PM,1:26,,,Lowry S.FOUL (P4.PN) (S.Wright),,,5.0,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,4,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200081,685,3,11,4,8:32 PM,1:26,Holmes Free Throw 1 of 2 (5 PTS),,,110 - 117,7,4.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,686,3,12,4,8:32 PM,1:26,MISS Holmes Free Throw 2 of 2,,,,,4.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,695,4,0,4,8:32 PM,1:26,,,Strus REBOUND (Off:2 Def:2),,,5.0,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,687,2,1,4,8:32 PM,1:13,,,MISS Strus 31' 3PT Jump Shot,,,5.0,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,688,4,0,4,8:32 PM,1:11,Fox REBOUND (Off:2 Def:11),,,,,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,689,2,5,4,8:33 PM,1:03,MISS Fox 5' Layup,,Adebayo BLOCK (2 BLK),,,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1
+0022200081,691,4,0,4,8:33 PM,1:03,,,Heat Rebound,,,3.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200081,694,18,5,4,8:33 PM,1:03,,Instant Replay4th Period (8:33 PM EST),,110 - 117,7,0.0,692,Andrew DeClercq,,,,,0,0,,,,,,1,0,,,,,,1
+0022200081,696,6,1,4,8:36 PM,0:57,Fox P.FOUL (P4.PN) (S.Wright),,,,,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200081,699,3,11,4,8:36 PM,0:57,,,Adebayo Free Throw 1 of 2 (23 PTS),111 - 117,6,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,700,3,12,4,8:36 PM,0:57,,,MISS Adebayo Free Throw 2 of 2,,,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,701,4,0,4,8:36 PM,0:56,,,Lowry REBOUND (Off:1 Def:4),,,5.0,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,702,9,1,4,8:37 PM,0:56,,,Heat Timeout: Regular (Reg.6 Short 0),,,3.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200081,705,8,0,4,8:38 PM,0:56,SUB: Lyles FOR Holmes,,,,,4.0,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0022200081,707,1,5,4,8:38 PM,0:54,,,Strus 2' Layup (11 PTS) (Lowry 5 AST),113 - 117,4,5.0,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200081,709,2,86,4,8:39 PM,0:34,MISS Fox 10' Turnaround Fadeaway Shot,,,,,4.0,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,710,4,0,4,8:39 PM,0:32,,,Strus REBOUND (Off:2 Def:3),,,5.0,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,711,2,1,4,8:39 PM,0:26,,,MISS Strus 26' 3PT Jump Shot,,,5.0,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,712,4,0,4,8:39 PM,0:21,Huerter REBOUND (Off:0 Def:3),,,,,4.0,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,713,6,28,4,8:39 PM,0:14,,,Adebayo Personal Take Foul (P5.PN) (S.Wright),,,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200081,715,3,11,4,8:39 PM,0:14,Huerter Free Throw 1 of 2 (26 PTS),,,113 - 118,5,4.0,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,716,3,12,4,8:40 PM,0:14,Huerter Free Throw 2 of 2 (27 PTS),,,113 - 119,6,4.0,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,717,9,1,4,8:40 PM,0:14,,,Heat Timeout: Regular (Reg.7 Short 0),,,3.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200081,718,2,63,4,8:41 PM,0:08,,,MISS Herro 24' 3PT Fadeaway Jumper,,,5.0,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,719,4,0,4,8:42 PM,0:04,Lyles REBOUND (Off:1 Def:4),,,,,4.0,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,720,6,1,4,8:42 PM,0:04,,,Adebayo P.FOUL (P6.PN) (N.Buchert),,,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0022200081,722,8,0,4,8:42 PM,0:04,,,SUB: Martin FOR Adebayo,,,5.0,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200081,724,3,11,4,8:42 PM,0:04,MISS Lyles Free Throw 1 of 2,,,,,4.0,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,725,4,1,4,8:42 PM,0:04,KINGS Rebound,,,,,2.0,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200081,726,3,12,4,8:42 PM,0:04,MISS Lyles Free Throw 2 of 2,,,,,4.0,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0022200081,727,4,0,4,8:43 PM,0:02,,,Butler REBOUND (Off:1 Def:6),,,5.0,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200081,728,13,0,4,8:43 PM,0:00,,End of 4th Period (8:43 PM EST),,113 - 119,6,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1

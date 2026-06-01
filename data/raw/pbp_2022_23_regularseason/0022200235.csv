@@ -1,0 +1,532 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200235,2,12,0,1,6:11 PM,12:00,,Start of 1st Period (6:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200235,4,10,0,1,6:11 PM,12:00,Jump Ball Capela vs. Barnes: Tip to Collins,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,1
+0022200235,7,10,0,1,6:12 PM,11:41,Jump Ball Murray vs. VanVleet: Tip to Young,,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0
+0022200235,10,2,1,1,6:12 PM,11:34,MISS Hunter 26' 3PT Jump Shot,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,11,4,0,1,6:12 PM,11:33,,,Raptors Rebound,,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200235,13,2,1,1,6:13 PM,11:20,Young BLOCK (1 BLK),,MISS Hernangomez 26' 3PT Jump Shot,,,5,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1
+0022200235,15,4,0,1,6:13 PM,11:15,Collins REBOUND (Off:0 Def:1),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,16,1,41,1,6:13 PM,11:14,Young 1' Running Layup (2 PTS) (Collins 1 AST),,,0 - 2,2,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200235,18,2,5,1,6:13 PM,10:55,Capela BLOCK (1 BLK),,MISS Young 1' Layup,,,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1
+0022200235,20,4,0,1,6:13 PM,10:52,,,Hernangomez REBOUND (Off:1 Def:0),,,5,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,21,1,78,1,6:13 PM,10:51,,,Hernangomez 4' Floating Jump Shot (2 PTS),2 - 2,TIE,5,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,22,5,1,1,6:13 PM,10:38,Collins Bad Pass Turnover (P1.T1),,Young STEAL (1 STL),,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200235,24,1,50,1,6:13 PM,10:34,,,Hernangomez Running Dunk (4 PTS) (Young 1 AST),4 - 2,-2,5,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200235,26,5,1,1,6:14 PM,10:17,Young Bad Pass Turnover (P1.T2),,Hernangomez STEAL (1 STL),,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200235,28,2,79,1,6:14 PM,9:55,,,MISS Anunoby 18' Pullup Jump Shot,,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,29,4,0,1,6:14 PM,9:51,Hunter REBOUND (Off:0 Def:1),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,30,1,1,1,6:14 PM,9:39,Murray 25' 3PT Jump Shot (3 PTS) (Collins 2 AST),,,4 - 5,1,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200235,32,1,5,1,6:14 PM,9:24,,,Hernangomez 2' Layup (6 PTS),6 - 5,-1,5,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,33,1,73,1,6:15 PM,9:15,Young 2' Driving Reverse Layup (4 PTS),,,6 - 7,1,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,34,2,79,1,6:15 PM,9:07,,,MISS Barnes 19' Pullup Jump Shot,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,35,4,0,1,6:15 PM,9:04,Murray REBOUND (Off:0 Def:1),,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,36,2,2,1,6:15 PM,8:59,MISS Hunter 3PT Running Jump Shot,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,37,4,0,1,6:15 PM,8:54,Capela REBOUND (Off:1 Def:0),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,38,2,97,1,6:15 PM,8:54,MISS Capela Tip Layup Shot,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,39,4,0,1,6:15 PM,8:53,Capela REBOUND (Off:2 Def:0),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,40,2,97,1,6:15 PM,8:53,MISS Capela Tip Layup Shot,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,41,4,0,1,6:15 PM,8:52,Capela REBOUND (Off:3 Def:0),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,42,1,97,1,6:15 PM,8:52,Capela Tip Layup Shot (2 PTS),,,6 - 9,3,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,43,2,1,1,6:15 PM,8:36,,,MISS Anunoby 25' 3PT Jump Shot,,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,44,4,0,1,6:15 PM,8:33,Murray REBOUND (Off:0 Def:2),,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,45,1,52,1,6:15 PM,8:28,Capela 1' Alley Oop Dunk (4 PTS) (Young 1 AST),,,6 - 11,5,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200235,48,2,6,1,6:16 PM,8:03,,,MISS Anunoby 2' Driving Layup,,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,49,4,0,1,6:16 PM,8:01,Collins REBOUND (Off:0 Def:2),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,50,5,1,1,6:16 PM,7:54,Murray Bad Pass Turnover (P1.T3),,Hernangomez STEAL (2 STL),,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,5,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200235,52,1,50,1,6:16 PM,7:47,,,Anunoby 1' Running Dunk (2 PTS) (VanVleet 1 AST),8 - 11,3,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200235,54,2,102,1,6:16 PM,7:34,MISS Young 5' Driving Floating Bank Jump Shot,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,55,4,0,1,6:16 PM,7:34,,,Young REBOUND (Off:0 Def:1),,,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,56,1,6,1,6:17 PM,7:24,,,VanVleet 2' Driving Layup (2 PTS),10 - 11,1,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,58,6,2,1,6:17 PM,7:06,,,Hernangomez S.FOUL (P1.T1) (L.Holtkamp),,,5,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200235,60,3,11,1,6:18 PM,7:06,Hunter Free Throw 1 of 2 (1 PTS),,,10 - 12,2,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,61,8,0,1,6:18 PM,7:06,SUB: Okongwu FOR Capela,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200235,63,3,12,1,6:18 PM,7:06,Hunter Free Throw 2 of 2 (2 PTS),,,10 - 13,3,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,64,2,80,1,6:18 PM,6:43,,,MISS Barnes 26' 3PT Step Back Jump Shot,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,65,4,0,1,6:18 PM,6:38,Murray REBOUND (Off:0 Def:3),,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,66,2,1,1,6:18 PM,6:32,MISS Collins 25' 3PT Jump Shot,,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,67,4,0,1,6:18 PM,6:29,,,Hernangomez REBOUND (Off:1 Def:1),,,5,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,69,9,1,1,6:19 PM,6:24,HAWKS Timeout: Regular (Full 1 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200235,73,8,0,1,6:21 PM,6:24,SUB: A. Holiday FOR Young,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200235,75,5,1,1,6:22 PM,6:20,Murray STEAL (1 STL),,Anunoby Bad Pass Turnover (P1.T1),,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200235,77,6,2,1,6:22 PM,6:18,,,Anunoby S.FOUL (P1.T2) (S.Corbin),,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200235,79,6,11,1,6:22 PM,6:18,,,VanVleet T.FOUL (P0.T2) (B.Taylor),,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0022200235,80,3,16,1,6:22 PM,6:18,Collins Free Throw Technical (1 PTS),,,10 - 14,4,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0022200235,81,3,11,1,6:23 PM,6:18,Hunter Free Throw 1 of 2 (3 PTS),,,10 - 15,5,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,82,3,12,1,6:23 PM,6:18,Hunter Free Throw 2 of 2 (4 PTS),,,10 - 16,6,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,83,1,1,1,6:23 PM,6:01,,,Barnes 3PT Jump Shot (3 PTS) (VanVleet 2 AST),13 - 16,3,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200235,85,2,1,1,6:24 PM,5:42,MISS Murray 26' 3PT Jump Shot,,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,86,4,0,1,6:24 PM,5:39,,,VanVleet REBOUND (Off:0 Def:1),,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,87,2,80,1,6:24 PM,5:30,,,MISS VanVleet 25' 3PT Step Back Jump Shot,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,88,4,0,1,6:24 PM,5:28,Hunter REBOUND (Off:0 Def:2),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,89,2,79,1,6:24 PM,5:21,MISS Murray 18' Pullup Jump Shot,,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,90,4,0,1,6:24 PM,5:20,,,Raptors Rebound,,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200235,92,8,0,1,6:24 PM,5:20,,,SUB: Koloko FOR Barnes,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200235,93,8,0,1,6:24 PM,5:20,,,SUB: Flynn FOR Young,,,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200235,96,5,1,1,6:25 PM,5:10,Murray STEAL (2 STL),,VanVleet Bad Pass Turnover (P1.T2),,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200235,98,1,50,1,6:25 PM,5:06,Murray 2' Running Dunk (5 PTS),,,13 - 18,5,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,99,6,2,1,6:25 PM,4:44,Collins S.FOUL (P1.T1) (S.Corbin),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200235,101,3,11,1,6:25 PM,4:44,,,VanVleet Free Throw 1 of 2 (3 PTS),14 - 18,4,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,102,8,0,1,6:26 PM,4:44,SUB: Young FOR Murray,,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200235,103,8,0,1,6:26 PM,4:44,,,SUB: Barnes FOR Anunoby,,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200235,106,3,12,1,6:26 PM,4:44,,,VanVleet Free Throw 2 of 2 (4 PTS),15 - 18,3,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,107,5,1,1,6:26 PM,4:22,Collins Bad Pass Turnover (P2.T4),,Flynn STEAL (1 STL),,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200235,109,2,41,1,6:26 PM,4:17,,,MISS Flynn 2' Running Layup,,,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,110,4,0,1,6:26 PM,4:13,,,VanVleet REBOUND (Off:1 Def:1),,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,111,2,1,1,6:27 PM,4:08,,,MISS Hernangomez 26' 3PT Jump Shot,,,5,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,112,4,0,1,6:27 PM,4:04,Collins REBOUND (Off:0 Def:3),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,113,2,79,1,6:27 PM,3:55,MISS Young 28' 3PT Pullup Jump Shot,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,114,4,0,1,6:27 PM,3:51,,,Barnes REBOUND (Off:0 Def:1),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,115,1,1,1,6:27 PM,3:45,,,Flynn 24' 3PT Jump Shot (3 PTS) (Barnes 1 AST),18 - 18,TIE,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200235,117,1,101,1,6:27 PM,3:30,Young 10' Driving Floating Jump Shot (6 PTS),,,18 - 20,2,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,119,8,0,1,6:27 PM,3:16,SUB: Griffin FOR Hunter,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200235,120,8,0,1,6:27 PM,3:16,SUB: Capela FOR Okongwu,,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200235,121,8,0,1,6:27 PM,3:16,SUB: Johnson FOR Collins,,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200235,122,8,0,1,6:27 PM,3:16,,,SUB: Anunoby FOR Hernangomez,,,5,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200235,127,2,79,1,6:28 PM,3:06,,,MISS VanVleet 26' 3PT Pullup Jump Shot,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,128,4,0,1,6:28 PM,3:02,A. Holiday REBOUND (Off:0 Def:1),,,,,4,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,129,5,1,1,6:28 PM,2:58,A. Holiday Bad Pass Turnover (P1.T5),,Anunoby STEAL (1 STL),,,4,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200235,131,1,41,1,6:28 PM,2:54,,,VanVleet 1' Running Layup (6 PTS) (Anunoby 1 AST),20 - 20,TIE,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200235,133,1,1,1,6:29 PM,2:39,Griffin 26' 3PT Jump Shot (3 PTS) (Capela 1 AST),,,20 - 23,3,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200235,135,5,2,1,6:29 PM,2:25,Griffin STEAL (1 STL),,Anunoby Lost Ball Turnover (P2.T3),,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200235,137,5,2,1,6:29 PM,2:22,Johnson Lost Ball Turnover (P1.T6),,Barnes STEAL (1 STL),,,4,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200235,139,2,1,1,6:29 PM,2:17,,,MISS VanVleet 26' 3PT Jump Shot,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,140,4,0,1,6:29 PM,2:15,Capela REBOUND (Off:3 Def:1),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,141,6,2,1,6:29 PM,2:10,,,Koloko S.FOUL (P1.T3) (B.Taylor),,,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200235,143,9,1,1,6:29 PM,2:10,,,Raptors Timeout: Regular (Reg.1 Short 0),,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200235,144,8,0,1,6:31 PM,2:10,,,SUB: Dowtin Jr. FOR VanVleet,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,1630288,Jeff Dowtin Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200235,146,3,11,1,6:32 PM,2:10,Young Free Throw 1 of 2 (7 PTS),,,20 - 24,4,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,147,3,12,1,6:33 PM,2:10,Young Free Throw 2 of 2 (8 PTS),,,20 - 25,5,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,148,5,39,1,6:33 PM,1:55,,,Anunoby Step Out of Bounds Turnover (P3.T4),,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0022200235,149,1,108,1,6:33 PM,1:40,Capela 1' Cutting Dunk Shot (6 PTS) (Young 2 AST),,,20 - 27,7,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200235,151,1,1,1,6:34 PM,1:28,,,Flynn 24' 3PT Jump Shot (6 PTS) (Barnes 2 AST),23 - 27,4,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200235,153,2,101,1,6:34 PM,1:06,MISS Young 5' Driving Floating Jump Shot,,Koloko BLOCK (1 BLK),,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,1
+0022200235,155,4,0,1,6:34 PM,1:04,,,Koloko REBOUND (Off:0 Def:1),,,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,157,1,6,1,6:34 PM,0:50,,,Anunoby 4' Driving Layup (4 PTS) (Koloko 1 AST),25 - 27,2,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200235,158,6,2,1,6:35 PM,0:50,Capela S.FOUL (P1.T2) (L.Holtkamp),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200235,160,3,10,1,6:35 PM,0:50,,,Anunoby Free Throw 1 of 1 (5 PTS),26 - 27,1,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,161,1,7,1,6:35 PM,0:32,Capela 1' Dunk (8 PTS) (Griffin 1 AST),,,26 - 29,3,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200235,163,2,79,1,6:35 PM,0:28,,,MISS Flynn 25' 3PT Pullup Jump Shot,,,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,164,4,0,1,6:36 PM,0:25,,,Koloko REBOUND (Off:1 Def:1),,,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,165,2,5,1,6:36 PM,0:24,Capela BLOCK (2 BLK),,MISS Koloko 1' Layup,,,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1
+0022200235,167,4,0,1,6:36 PM,0:24,,,Barnes REBOUND (Off:1 Def:1),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,168,1,78,1,6:36 PM,0:20,,,Anunoby 9' Floating Jump Shot (7 PTS) (Barnes 3 AST),28 - 29,1,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200235,170,6,1,1,6:36 PM,0:15,,,Barnes P.FOUL (P1.T4) (S.Corbin),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200235,172,8,0,1,6:36 PM,0:15,SUB: Hunter FOR Johnson,,,,,4,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200235,174,2,6,1,6:36 PM,0:08,MISS Hunter 2' Driving Layup,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,175,4,0,1,6:37 PM,0:06,,,Koloko REBOUND (Off:1 Def:2),,,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,176,1,103,1,6:37 PM,0:01,,,Barnes 26' 3PT Running Pull-Up Jump Shot (6 PTS),31 - 29,-2,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,178,18,0,1,6:37 PM,0:00,,Instant Replay1st Period (6:37 PM EST),,31 - 29,-2,0,0,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200235,177,13,0,1,6:37 PM,0:00,,End of 1st Period (6:37 PM EST),,31 - 29,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200235,188,12,0,2,6:40 PM,12:00,,Start of 2nd Period (6:40 PM EST),,31 - 29,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200235,189,1,75,2,6:40 PM,11:48,,,Young 2' Driving Finger Roll Layup (2 PTS),33 - 29,-4,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,190,1,101,2,6:40 PM,11:31,Griffin 12' Driving Floating Jump Shot (5 PTS) (Murray 1 AST),,,33 - 31,-2,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200235,192,1,101,2,6:40 PM,11:19,,,Flynn 8' Driving Floating Jump Shot (8 PTS),35 - 31,-4,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,193,2,98,2,6:40 PM,11:07,MISS Okongwu 2' Cutting Layup Shot,,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,194,4,0,2,6:40 PM,11:04,,,Flynn REBOUND (Off:0 Def:1),,,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,195,2,6,2,6:41 PM,10:52,,,MISS Barnes 3' Driving Layup,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,196,4,0,2,6:41 PM,10:49,Okongwu REBOUND (Off:0 Def:1),,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,197,5,1,2,6:41 PM,10:47,Murray Bad Pass Turnover (P2.T7),,Young STEAL (2 STL),,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200235,199,1,41,2,6:41 PM,10:40,,,Young Running Layup (4 PTS) (Barnes 4 AST),37 - 31,-6,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200235,201,6,2,2,6:41 PM,10:29,,,Koloko S.FOUL (P2.T1) (L.Holtkamp),,,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200235,203,3,11,2,6:42 PM,10:29,Murray Free Throw 1 of 2 (6 PTS),,,37 - 32,-5,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0022200235,204,8,0,2,6:42 PM,10:29,SUB: Hunter FOR A. Holiday,,,,,4,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200235,205,8,0,2,6:42 PM,10:29,,,SUB: VanVleet FOR Barnes,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200235,206,8,0,2,6:42 PM,10:29,,,SUB: Hernangomez FOR Dowtin Jr.,,,5,1630288,Jeff Dowtin Jr.,1610612761.0,Toronto,Raptors,TOR,5,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200235,207,8,0,2,6:42 PM,10:29,,,SUB: Birch FOR Koloko,,,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200235,212,3,12,2,6:42 PM,10:29,Murray Free Throw 2 of 2 (7 PTS),,,37 - 33,-4,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,213,6,2,2,6:42 PM,10:11,Johnson S.FOUL (P1.T1) (S.Corbin),,,,,4,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200235,215,3,11,2,6:43 PM,10:11,,,VanVleet Free Throw 1 of 2 (7 PTS),38 - 33,-5,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,216,3,12,2,6:43 PM,10:11,,,VanVleet Free Throw 2 of 2 (8 PTS),39 - 33,-6,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,217,2,79,2,6:43 PM,10:00,MISS Hunter 22' Pullup Jump Shot,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,218,4,0,2,6:43 PM,9:56,,,Hernangomez REBOUND (Off:1 Def:2),,,5,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,219,1,75,2,6:43 PM,9:40,,,VanVleet 4' Driving Finger Roll Layup (10 PTS),41 - 33,-8,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,220,6,2,2,6:43 PM,9:40,Okongwu S.FOUL (P1.T2) (L.Holtkamp),,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200235,222,8,0,2,6:44 PM,9:40,SUB: Collins FOR Johnson,,,,,4,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200235,224,3,10,2,6:44 PM,9:40,,,VanVleet Free Throw 1 of 1 (11 PTS),42 - 33,-9,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,225,2,79,2,6:44 PM,9:20,MISS Murray 18' Pullup Jump Shot,,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,226,4,0,2,6:44 PM,9:16,,,Hernangomez REBOUND (Off:1 Def:3),,,5,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,227,2,1,2,6:45 PM,9:00,,,MISS Flynn 28' 3PT Jump Shot,,,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,228,4,0,2,6:45 PM,8:56,Collins REBOUND (Off:0 Def:4),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,229,5,1,2,6:45 PM,8:50,Hunter Bad Pass Turnover (P1.T8),,Young STEAL (3 STL),,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200235,231,5,2,2,6:45 PM,8:47,Collins STEAL (1 STL),,Young Lost Ball Turnover (P1.T5),,,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200235,233,1,5,2,6:45 PM,8:43,Murray 2' Layup (9 PTS),,,42 - 35,-7,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,234,2,79,2,6:45 PM,8:32,,,MISS VanVleet 25' 3PT Pullup Jump Shot,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,235,4,0,2,6:45 PM,8:30,Collins REBOUND (Off:0 Def:5),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,236,2,1,2,6:45 PM,8:17,MISS Griffin 3PT Jump Shot,,,,,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,237,4,0,2,6:45 PM,8:13,,,Flynn REBOUND (Off:0 Def:2),,,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,238,2,1,2,6:45 PM,8:07,,,MISS Hernangomez 3PT Jump Shot,,,5,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,239,4,0,2,6:46 PM,8:04,Griffin REBOUND (Off:0 Def:1),,,,,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,240,2,101,2,6:46 PM,7:53,MISS Murray 6' Driving Floating Jump Shot,,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,241,4,0,2,6:46 PM,7:50,,,Birch REBOUND (Off:0 Def:1),,,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,242,2,6,2,6:46 PM,7:41,,,MISS VanVleet 3' Driving Layup,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,243,4,0,2,6:46 PM,7:38,Griffin REBOUND (Off:0 Def:2),,,,,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,244,1,41,2,6:46 PM,7:34,Griffin 2' Running Layup (7 PTS),,,42 - 37,-5,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,245,9,1,2,6:46 PM,7:21,,,Raptors Timeout: Regular (Reg.2 Short 0),,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200235,246,8,0,2,6:48 PM,7:21,SUB: Young FOR Griffin,,,,,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200235,247,8,0,2,6:48 PM,7:21,,,SUB: Anunoby FOR Flynn,,,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200235,250,2,79,2,6:49 PM,7:09,,,MISS VanVleet 27' 3PT Pullup Jump Shot,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,251,4,0,2,6:49 PM,7:06,,,Young REBOUND (Off:1 Def:1),,,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,252,1,72,2,6:49 PM,7:05,,,Young 2' Putback Layup (6 PTS),44 - 37,-7,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,253,6,2,2,6:50 PM,6:53,,,Anunoby S.FOUL (P2.T2) (B.Taylor),,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200235,255,3,11,2,6:50 PM,6:53,Collins Free Throw 1 of 2 (2 PTS),,,44 - 38,-6,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,258,3,12,2,6:50 PM,6:53,Collins Free Throw 2 of 2 (3 PTS),,,44 - 39,-5,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,256,8,0,2,6:50 PM,6:53,,,SUB: Barnes FOR Birch,,,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200235,259,1,1,2,6:51 PM,6:34,,,Barnes 25' 3PT Jump Shot (9 PTS) (Anunoby 2 AST),47 - 39,-8,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200235,261,1,52,2,6:51 PM,6:15,Okongwu 1' Alley Oop Dunk (2 PTS) (Young 3 AST),,,47 - 41,-6,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200235,263,2,1,2,6:51 PM,6:00,,,MISS Barnes 27' 3PT Jump Shot,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,264,4,0,2,6:51 PM,5:57,Murray REBOUND (Off:0 Def:4),,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,265,6,26,2,6:52 PM,5:50,Hunter Offensive Charge Foul (P1) (L.Holtkamp),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200235,267,5,37,2,6:52 PM,5:50,Hunter Offensive Foul Turnover (P2.T9),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0022200235,268,8,0,2,6:52 PM,5:50,SUB: Capela FOR Okongwu,,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200235,270,1,44,2,6:52 PM,5:37,,,Young Reverse Layup (8 PTS) (Anunoby 3 AST),49 - 41,-8,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200235,272,1,101,2,6:52 PM,5:25,Murray 8' Driving Floating Jump Shot (11 PTS),,,49 - 43,-6,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,273,1,9,2,6:53 PM,5:07,,,Barnes 1' Driving Dunk (11 PTS),51 - 43,-8,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,274,1,6,2,6:53 PM,4:57,Young 2' Driving Layup (10 PTS),,,51 - 45,-6,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,275,2,63,2,6:53 PM,4:43,,,MISS Barnes 14' Fadeaway Jumper,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,276,4,0,2,6:53 PM,4:41,Capela REBOUND (Off:3 Def:2),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,277,1,101,2,6:53 PM,4:32,Young 12' Driving Floating Jump Shot (12 PTS) (Murray 2 AST),,,51 - 47,-4,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200235,279,5,2,2,6:54 PM,4:09,Young STEAL (1 STL),,VanVleet Lost Ball Turnover (P2.T6),,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200235,281,1,50,2,6:54 PM,4:05,Collins 3' Running Dunk (5 PTS) (Young 4 AST),,,51 - 49,-2,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200235,283,9,1,2,6:54 PM,4:05,,,Raptors Timeout: Regular (Reg.3 Short 0),,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200235,284,2,1,2,6:57 PM,3:51,,,MISS Barnes 12' Jump Shot,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,285,4,0,2,6:57 PM,3:48,Capela REBOUND (Off:3 Def:3),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,286,2,103,2,6:57 PM,3:44,MISS Hunter 17' Running Pull-Up Jump Shot,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,287,4,0,2,6:57 PM,3:40,,,Young REBOUND (Off:1 Def:2),,,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,288,1,5,2,6:57 PM,3:25,,,Young Layup (10 PTS) (Anunoby 4 AST),53 - 49,-4,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200235,290,1,52,2,6:58 PM,3:14,Capela 1' Alley Oop Dunk (10 PTS) (Young 5 AST),,,53 - 51,-2,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200235,292,1,6,2,6:58 PM,3:02,,,Hernangomez 5' Driving Layup (8 PTS) (Young 2 AST),55 - 51,-4,5,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200235,293,6,2,2,6:58 PM,3:02,Young S.FOUL (P1.T3) (B.Taylor),,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200235,296,3,10,2,6:59 PM,3:02,,,MISS Hernangomez Free Throw 1 of 1,,,5,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,297,4,0,2,6:59 PM,3:00,Collins REBOUND (Off:0 Def:6),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,298,2,79,2,6:59 PM,2:51,MISS Hunter 15' Pullup Jump Shot,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,299,4,0,2,6:59 PM,2:48,,,Barnes REBOUND (Off:1 Def:2),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,300,5,40,2,6:59 PM,2:48,,,Barnes Out of Bounds Lost Ball Turnover (P1.T7),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0022200235,301,8,0,2,6:59 PM,2:48,SUB: Griffin FOR Murray,,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200235,303,6,1,2,6:59 PM,2:47,,,Anunoby P.FOUL (P3.T3) (B.Taylor),,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200235,305,2,80,2,7:00 PM,2:38,MISS Young 21' Step Back Jump Shot,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,306,4,0,2,7:00 PM,2:36,,,Raptors Rebound,,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200235,307,6,3,2,7:00 PM,2:36,Collins L.B.FOUL (P2.T4) (B.Taylor),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200235,309,2,1,2,7:01 PM,2:20,,,MISS Young 25' 3PT Jump Shot,,,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,310,4,0,2,7:01 PM,2:17,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200235,312,2,6,2,7:02 PM,2:05,MISS Hunter 1' Driving Layup,,Barnes BLOCK (1 BLK),,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,1
+0022200235,314,4,0,2,7:02 PM,2:00,Capela REBOUND (Off:4 Def:3),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,315,1,72,2,7:02 PM,2:00,Capela Putback Layup (12 PTS),,,55 - 53,-2,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,316,5,45,2,7:02 PM,1:44,,,Anunoby Out of Bounds - Bad Pass Turnover Turnover (P4.T8),,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0022200235,317,8,0,2,7:02 PM,1:44,,,SUB: Flynn FOR Anunoby,,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200235,319,2,6,2,7:03 PM,1:28,MISS Young 5' Driving Layup,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,320,4,0,2,7:03 PM,1:23,Capela REBOUND (Off:5 Def:3),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,321,1,107,2,7:03 PM,1:23,Capela Tip Dunk Shot (14 PTS),,,55 - 55,TIE,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,322,1,44,2,7:03 PM,1:11,,,Young Reverse Layup (12 PTS) (VanVleet 3 AST),57 - 55,-2,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200235,325,2,79,2,7:04 PM,0:52,MISS Griffin 14' Pullup Jump Shot,,,,,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,326,4,0,2,7:04 PM,0:49,,,Hernangomez REBOUND (Off:1 Def:4),,,5,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,327,2,79,2,7:04 PM,0:29,,,MISS Hernangomez 18' Pullup Jump Shot,,,5,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,328,4,0,2,7:04 PM,0:28,,,Young REBOUND (Off:2 Def:2),,,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,329,1,97,2,7:04 PM,0:28,,,Young Tip Layup Shot (14 PTS),59 - 55,-4,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,330,6,4,2,7:04 PM,0:05,Young OFF.Foul (P2) (B.Taylor),,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200235,332,5,37,2,7:04 PM,0:05,Young Offensive Foul Turnover (P2.T10),,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0022200235,333,6,11,2,7:05 PM,0:05,,Nate McMillan Foul:T.FOUL (B.Taylor),,,,6,1778,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200235,334,3,16,2,7:05 PM,0:05,,,VanVleet Free Throw Technical (12 PTS),60 - 55,-5,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,335,8,0,2,7:05 PM,0:05,SUB: A. Holiday FOR Young,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200235,337,1,6,2,7:06 PM,0:00,,,Barnes 2' Driving Layup (13 PTS),62 - 55,-7,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,338,7,2,2,7:06 PM,0:00,Collins Violation:Defensive Goaltending (S.Corbin),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0022200235,340,18,0,2,7:06 PM,0:00,,Instant Replay2nd Period (7:06 PM EST),,62 - 55,-7,0,337,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200235,767,8,0,2,7:06 PM,0:00,,,SUB: Anunoby FOR Flynn,,,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200235,339,13,0,2,7:06 PM,0:00,,End of 2nd Period (7:06 PM EST),,62 - 55,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200235,347,12,0,3,7:24 PM,12:00,,Start of 3rd Period (7:24 PM EST),,62 - 55,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200235,348,2,1,3,7:24 PM,11:51,,,MISS VanVleet 26' 3PT Jump Shot,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,349,4,0,3,7:24 PM,11:47,Collins REBOUND (Off:0 Def:7),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,350,1,101,3,7:24 PM,11:35,Young 9' Driving Floating Jump Shot (14 PTS) (Collins 3 AST),,,62 - 57,-5,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200235,351,2,79,3,7:24 PM,11:14,,,MISS Anunoby 21' Pullup Jump Shot,,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,352,4,0,3,7:24 PM,11:11,Young REBOUND (Off:0 Def:1),,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,353,1,41,3,7:25 PM,11:07,Young 2' Running Layup (16 PTS),,,62 - 59,-3,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,354,2,1,3,7:25 PM,10:54,,,MISS VanVleet 26' 3PT Jump Shot,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,355,4,0,3,7:25 PM,10:50,Collins REBOUND (Off:0 Def:8),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,356,1,6,3,7:25 PM,10:35,Murray 1' Driving Layup (13 PTS),,,62 - 61,-1,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,357,1,6,3,7:25 PM,10:13,,,Barnes 5' Driving Layup (15 PTS),64 - 61,-3,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,358,6,1,3,7:26 PM,9:58,,,Young P.FOUL (P1.T1) (L.Holtkamp),,,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200235,360,1,86,3,7:26 PM,9:51,Murray 9' Turnaround Fadeaway (15 PTS),,,64 - 63,-1,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,361,6,1,3,7:26 PM,9:39,Collins P.FOUL (P3.T1) (B.Taylor),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200235,363,1,9,3,7:27 PM,9:35,,,Anunoby 2' Driving Dunk (9 PTS) (Barnes 5 AST),66 - 63,-3,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200235,365,2,1,3,7:27 PM,9:17,MISS Murray 26' 3PT Jump Shot,,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,366,4,0,3,7:27 PM,9:14,,,Young REBOUND (Off:2 Def:3),,,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,367,2,1,3,7:27 PM,9:03,,,MISS Young 25' 3PT Jump Shot,,,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,368,4,0,3,7:27 PM,8:59,Collins REBOUND (Off:0 Def:9),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,369,1,50,3,7:27 PM,8:54,Capela 1' Running Dunk (16 PTS) (Hunter 1 AST),,,66 - 65,-1,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200235,371,2,79,3,7:28 PM,8:41,,,MISS Barnes 12' Pullup Jump Shot,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,372,4,0,3,7:28 PM,8:37,,,Barnes REBOUND (Off:2 Def:2),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,373,2,97,3,7:28 PM,8:37,,,MISS Barnes Tip Layup Shot,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,374,4,0,3,7:28 PM,8:36,Collins REBOUND (Off:0 Def:10),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,375,1,103,3,7:28 PM,8:33,Young 25' 3PT Running Pull-Up Jump Shot (19 PTS),,,66 - 68,2,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,377,1,80,3,7:28 PM,8:05,,,VanVleet 27' 3PT Step Back Jump Shot (15 PTS),69 - 68,-1,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,378,1,50,3,7:28 PM,7:57,Hunter 1' Running Dunk (6 PTS) (Young 6 AST),,,69 - 70,1,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200235,380,2,6,3,7:28 PM,7:46,,,MISS VanVleet 3' Driving Layup,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,381,4,0,3,7:29 PM,7:45,,,Raptors Rebound,,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200235,385,2,1,3,7:29 PM,7:36,,,MISS Anunoby 24' 3PT Jump Shot,,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,386,4,0,3,7:29 PM,7:33,Collins REBOUND (Off:0 Def:11),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,387,2,43,3,7:29 PM,7:26,MISS Capela 1' Alley Oop Layup,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,388,4,0,3,7:29 PM,7:24,,,Young REBOUND (Off:2 Def:4),,,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,389,1,50,3,7:30 PM,7:21,,,Barnes 1' Running Dunk (17 PTS) (Young 3 AST),71 - 70,-1,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200235,391,6,2,3,7:30 PM,7:04,,,Young S.FOUL (P2.T2) (B.Taylor),,,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200235,393,3,11,3,7:30 PM,7:04,Collins Free Throw 1 of 2 (6 PTS),,,71 - 71,TIE,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,396,3,12,3,7:30 PM,7:04,MISS Collins Free Throw 2 of 2,,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,394,8,0,3,7:30 PM,7:04,SUB: Okongwu FOR Capela,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200235,397,4,0,3,7:30 PM,7:02,,,Hernangomez REBOUND (Off:1 Def:5),,,5,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,398,2,80,3,7:31 PM,6:43,,,MISS Barnes 21' Step Back Jump Shot,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,399,4,0,3,7:31 PM,6:41,Okongwu REBOUND (Off:0 Def:2),,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,400,2,80,3,7:31 PM,6:33,MISS Young 26' 3PT Step Back Jump Shot,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,401,4,0,3,7:31 PM,6:29,,,Anunoby REBOUND (Off:0 Def:1),,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,402,5,1,3,7:31 PM,6:27,,,Barnes Bad Pass Turnover (P2.T9),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,403,9,1,3,7:32 PM,6:27,HAWKS Timeout: Regular (Full 2 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200235,405,8,0,3,7:34 PM,6:27,SUB: Griffin FOR Young,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200235,406,8,0,3,7:34 PM,6:27,,,SUB: Koloko FOR Hernangomez,,,5,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200235,409,2,79,3,7:35 PM,6:10,MISS Hunter 19' Pullup Jump Shot,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,410,4,0,3,7:35 PM,6:06,Griffin REBOUND (Off:1 Def:2),,,,,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,411,5,2,3,7:35 PM,6:03,Collins Lost Ball Turnover (P3.T11),,Young STEAL (4 STL),,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200235,413,1,50,3,7:35 PM,5:59,,,Anunoby 1' Running Dunk (11 PTS) (Barnes 6 AST),73 - 71,-2,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200235,415,5,1,3,7:35 PM,5:46,Collins Bad Pass Turnover (P4.T12),,Anunoby STEAL (2 STL),,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200235,417,6,1,3,7:36 PM,5:29,Hunter P.FOUL (P2.T2) (S.Corbin),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200235,419,8,0,3,7:36 PM,5:29,,,SUB: Flynn FOR Barnes,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200235,422,2,1,3,7:36 PM,5:19,,,MISS VanVleet 26' 3PT Jump Shot,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,423,4,0,3,7:36 PM,5:15,,,Koloko REBOUND (Off:2 Def:2),,,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,424,1,6,3,7:37 PM,5:08,,,Anunoby 2' Driving Layup (13 PTS) (Young 4 AST),75 - 71,-4,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200235,425,9,1,3,7:37 PM,5:07,HAWKS Timeout: Regular (Full 3 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200235,426,8,0,3,7:39 PM,5:07,SUB: Young FOR Murray,,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200235,428,1,6,3,7:40 PM,4:50,Hunter Driving Layup (8 PTS) (Collins 4 AST),,,75 - 73,-2,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200235,430,2,86,3,7:40 PM,4:33,,,MISS Anunoby 12' Turnaround Fadeaway Shot,,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,431,4,0,3,7:40 PM,4:30,Okongwu REBOUND (Off:0 Def:3),,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,432,6,1,3,7:40 PM,4:22,,,Flynn P.FOUL (P1.T3) (S.Corbin),,,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200235,434,8,0,3,7:40 PM,4:22,,,SUB: Barnes FOR Anunoby,,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200235,437,6,2,3,7:41 PM,4:21,,,Flynn S.FOUL (P2.T4) (B.Taylor),,,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200235,439,3,11,3,7:41 PM,4:21,MISS Okongwu Free Throw 1 of 2,,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,440,4,1,3,7:41 PM,4:21,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200235,441,3,12,3,7:41 PM,4:21,Okongwu Free Throw 2 of 2 (3 PTS),,,75 - 74,-1,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,442,1,7,3,7:42 PM,3:58,,,Koloko 1' Dunk (2 PTS) (VanVleet 4 AST),77 - 74,-3,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200235,444,6,2,3,7:42 PM,3:44,,,VanVleet S.FOUL (P1.PN) (L.Holtkamp),,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200235,446,9,1,3,7:43 PM,3:44,,,Raptors Timeout: Regular (Reg.4 Short 0),,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200235,447,18,4,3,7:43 PM,3:44,,Instant Replay3rd Period (7:43 PM EST),,77 - 74,-3,0,444,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200235,448,8,0,3,7:44 PM,3:44,SUB: Capela FOR Okongwu,,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200235,449,8,0,3,7:44 PM,3:44,SUB: J. Holiday FOR Collins,,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,203200,Justin Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200235,454,8,0,3,7:44 PM,3:44,,,SUB: Hernangomez FOR Young,,,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,5,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200235,455,3,11,3,7:45 PM,3:44,Hunter Free Throw 1 of 2 (9 PTS),,,77 - 75,-2,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,456,3,12,3,7:45 PM,3:44,Hunter Free Throw 2 of 2 (10 PTS),,,77 - 76,-1,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,457,2,3,3,7:46 PM,3:28,,,MISS Barnes 16' Hook Shot,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,458,4,0,3,7:46 PM,3:27,,,Raptors Rebound,,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200235,461,6,3,3,7:46 PM,3:26,Capela L.B.FOUL (P2.T3) (B.Taylor),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200235,463,2,1,3,7:46 PM,3:19,,,MISS Koloko 3PT Jump Shot,,,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,464,4,0,3,7:46 PM,3:17,,,Koloko REBOUND (Off:3 Def:2),,,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,465,1,1,3,7:46 PM,3:12,,,Barnes 25' 3PT Jump Shot (20 PTS) (Flynn 1 AST),80 - 76,-4,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200235,467,1,43,3,7:47 PM,2:57,Capela 1' Alley Oop Layup (18 PTS) (Young 7 AST),,,80 - 78,-2,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200235,469,1,102,3,7:47 PM,2:45,,,Barnes 6' Driving Floating Bank Jump Shot (22 PTS),82 - 78,-4,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,470,2,1,3,7:47 PM,2:34,MISS J. Holiday 3PT Jump Shot,,,,,4,203200,Justin Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,471,4,0,3,7:47 PM,2:31,,,Hernangomez REBOUND (Off:1 Def:6),,,5,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,472,6,1,3,7:47 PM,2:16,Griffin P.FOUL (P1.T4) (B.Taylor),,,,,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200235,474,2,80,3,7:48 PM,2:10,,,MISS VanVleet 26' 3PT Step Back Jump Shot,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,475,4,0,3,7:48 PM,2:07,,,Koloko REBOUND (Off:4 Def:2),,,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,476,2,101,3,7:48 PM,2:04,,,MISS Flynn 12' Driving Floating Jump Shot,,,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,477,4,0,3,7:48 PM,2:04,Capela REBOUND (Off:5 Def:4),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,478,1,98,3,7:48 PM,1:47,J. Holiday Cutting Layup Shot (2 PTS) (Young 8 AST),,,82 - 80,-2,4,203200,Justin Holiday,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200235,480,2,6,3,7:48 PM,1:30,,,MISS VanVleet 3' Driving Layup,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,481,4,0,3,7:48 PM,1:27,Capela REBOUND (Off:5 Def:5),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,482,6,1,3,7:49 PM,1:24,,,Flynn P.FOUL (P3.PN) (L.Holtkamp),,,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200235,484,3,11,3,7:49 PM,1:24,MISS Young Free Throw 1 of 2,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,485,4,1,3,7:49 PM,1:24,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200235,488,3,12,3,7:49 PM,1:24,MISS Young Free Throw 2 of 2,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,486,8,0,3,7:49 PM,1:24,,,SUB: Anunoby FOR VanVleet,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200235,489,4,0,3,7:49 PM,1:22,,,Hernangomez REBOUND (Off:1 Def:7),,,5,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,490,1,1,3,7:50 PM,1:04,,,Flynn 26' 3PT Jump Shot (11 PTS) (Barnes 7 AST),85 - 80,-5,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200235,492,2,101,3,7:50 PM,0:50,MISS Young 9' Driving Floating Jump Shot,,Koloko BLOCK (2 BLK),,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,1
+0022200235,494,4,0,3,7:50 PM,0:46,,,Barnes REBOUND (Off:2 Def:3),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,497,9,7,3,7:51 PM,0:46,HAWKS Timeout: Coach Challenge (Full 3 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200235,498,18,5,3,7:51 PM,0:46,,Instant Replay3rd Period (7:51 PM EST),,85 - 80,-5,0,495,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200235,499,2,41,3,7:52 PM,0:46,Griffin BLOCK (1 BLK),,MISS Anunoby 5' Running Layup,,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,1
+0022200235,501,4,0,3,7:52 PM,0:46,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200235,503,1,108,3,7:53 PM,0:32,Hunter 2' Cutting Dunk Shot (12 PTS) (Young 9 AST),,,85 - 82,-3,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200235,505,1,79,3,7:53 PM,0:12,,,Flynn 14' Pullup Jump Shot (13 PTS),87 - 82,-5,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,506,2,1,3,7:54 PM,0:01,MISS J. Holiday 3PT Jump Shot,,,,,4,203200,Justin Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,507,4,0,3,7:54 PM,0:01,,,Raptors Rebound,,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200235,508,6,3,3,7:54 PM,0:01,Capela L.B.FOUL (P3.PN) (B.Taylor),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200235,510,3,11,3,7:54 PM,0:01,,,Barnes Free Throw 1 of 2 (23 PTS),88 - 82,-6,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,511,3,12,3,7:55 PM,0:01,,,Barnes Free Throw 2 of 2 (24 PTS),89 - 82,-7,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,512,13,0,3,7:55 PM,0:00,,End of 3rd Period (7:55 PM EST),,89 - 82,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200235,519,12,0,4,7:57 PM,12:00,,Start of 4th Period (7:57 PM EST),,89 - 82,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200235,520,2,1,4,7:58 PM,11:45,MISS Griffin 24' 3PT Jump Shot,,,,,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,521,4,0,4,7:58 PM,11:41,,,Anunoby REBOUND (Off:0 Def:2),,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,522,1,47,4,7:58 PM,11:30,,,Barnes 9' Turnaround Jump Shot (26 PTS) (Anunoby 5 AST),91 - 82,-9,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200235,523,1,79,4,7:58 PM,11:13,J. Holiday 26' 3PT Pullup Jump Shot (5 PTS),,,91 - 85,-6,4,203200,Justin Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,524,2,57,4,7:58 PM,10:57,,,MISS Barnes 7' Driving Hook Shot,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,525,4,0,4,7:58 PM,10:54,Murray REBOUND (Off:0 Def:5),,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,526,5,2,4,7:59 PM,10:44,J. Holiday Lost Ball Turnover (P1.T13),,Flynn STEAL (2 STL),,,4,203200,Justin Holiday,1610612737.0,Atlanta,Hawks,ATL,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200235,528,5,15,4,7:59 PM,10:38,,,Hernangomez Offensive Goaltending Turnover (P1.T10),,,5,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0022200235,529,1,101,4,7:59 PM,10:25,Griffin 3' Driving Floating Jump Shot (9 PTS),,,91 - 87,-4,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,530,2,1,4,8:00 PM,10:08,,,MISS Anunoby 3PT Jump Shot,,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,531,4,0,4,8:00 PM,10:04,Okongwu REBOUND (Off:0 Def:4),,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,532,2,41,4,8:00 PM,10:00,MISS J. Holiday 1' Running Layup,,Barnes BLOCK (2 BLK),,,4,203200,Justin Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,1
+0022200235,534,4,0,4,8:00 PM,9:58,,,Flynn REBOUND (Off:0 Def:3),,,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,535,1,41,4,8:00 PM,9:52,,,Hernangomez 1' Running Layup (10 PTS) (Flynn 2 AST),93 - 87,-6,5,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200235,537,2,1,4,8:00 PM,9:40,MISS Griffin 25' 3PT Jump Shot,,,,,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,538,4,0,4,8:00 PM,9:38,,,Barnes REBOUND (Off:2 Def:4),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,539,1,74,4,8:00 PM,9:33,,,Anunoby 1' Running Reverse Layup (15 PTS) (Barnes 8 AST),95 - 87,-8,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200235,541,1,1,4,8:00 PM,9:18,Collins 25' 3PT Jump Shot (9 PTS) (Murray 3 AST),,,95 - 90,-5,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200235,543,2,73,4,8:01 PM,8:54,,,MISS Barnes 1' Driving Reverse Layup,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,544,4,0,4,8:01 PM,8:51,,,Hernangomez REBOUND (Off:2 Def:7),,,5,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,545,5,11,4,8:01 PM,8:50,,,Raptors Turnover: Shot Clock (T#11),,,3,1610612761,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200235,546,8,0,4,8:01 PM,8:50,SUB: Hunter FOR J. Holiday,,,,,4,203200,Justin Holiday,1610612737.0,Atlanta,Hawks,ATL,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200235,547,8,0,4,8:01 PM,8:50,SUB: Young FOR Griffin,,,,,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200235,550,2,1,4,8:02 PM,8:41,MISS Murray 25' 3PT Jump Shot,,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,551,4,0,4,8:02 PM,8:39,,,Anunoby REBOUND (Off:0 Def:3),,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,552,6,2,4,8:02 PM,8:32,Collins S.FOUL (P4.T1) (S.Corbin),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200235,554,3,11,4,8:02 PM,8:32,,,Koloko Free Throw 1 of 2 (3 PTS),96 - 90,-6,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,555,8,0,4,8:02 PM,8:32,,,SUB: VanVleet FOR Hernangomez,,,5,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200235,557,3,12,4,8:02 PM,8:32,,,Koloko Free Throw 2 of 2 (4 PTS),97 - 90,-7,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,558,2,1,4,8:03 PM,8:20,MISS Collins 27' 3PT Jump Shot,,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,559,4,0,4,8:03 PM,8:17,,,Barnes REBOUND (Off:2 Def:5),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,560,2,58,4,8:03 PM,8:00,,,MISS Barnes 8' Turnaround Hook Shot,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,561,4,0,4,8:03 PM,7:59,Murray REBOUND (Off:0 Def:6),,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,562,6,11,4,8:03 PM,7:59,,,Barnes T.FOUL (P1.T0) (L.Holtkamp),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0022200235,563,3,16,4,8:04 PM,7:59,Young Free Throw Technical (20 PTS),,,97 - 91,-6,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,564,10,0,4,8:05 PM,7:43,Jump Ball Okongwu vs. VanVleet: Tip to Murray,,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0
+0022200235,567,2,86,4,8:05 PM,7:37,MISS Murray 13' Turnaround Fadeaway Shot,,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,568,4,0,4,8:05 PM,7:34,,,Barnes REBOUND (Off:2 Def:6),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,569,1,80,4,8:05 PM,7:25,,,Flynn 17' Step Back Jump Shot (15 PTS),99 - 91,-8,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,570,6,1,4,8:05 PM,7:13,,,VanVleet P.FOUL (P2.T1) (L.Holtkamp),,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200235,572,1,6,4,8:06 PM,7:01,Young 2' Driving Layup (22 PTS),,,99 - 93,-6,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,573,1,6,4,8:06 PM,6:41,,,Anunoby 2' Driving Layup (17 PTS),101 - 93,-8,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,574,6,2,4,8:06 PM,6:41,Collins S.FOUL (P5.T2) (L.Holtkamp),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200235,576,9,1,4,8:06 PM,6:41,HAWKS Timeout: Regular (Full 4 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200235,580,8,0,4,8:08 PM,6:41,SUB: Capela FOR Okongwu,,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200235,582,3,10,4,8:09 PM,6:41,,,Anunoby Free Throw 1 of 1 (18 PTS),102 - 93,-9,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,583,5,13,4,8:09 PM,6:30,Hunter Backcourt Turnover (P3.T14),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0022200235,584,2,1,4,8:10 PM,6:23,,,MISS Flynn 24' 3PT Jump Shot,,,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,585,4,0,4,8:10 PM,6:19,Murray REBOUND (Off:0 Def:7),,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,586,1,101,4,8:10 PM,6:12,Murray 12' Driving Floating Jump Shot (17 PTS),,,102 - 95,-7,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,587,1,6,4,8:10 PM,5:54,,,Flynn 3' Driving Layup (17 PTS),104 - 95,-9,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,589,2,101,4,8:10 PM,5:41,MISS Young 7' Driving Floating Jump Shot,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,590,4,0,4,8:11 PM,5:39,Young REBOUND (Off:1 Def:1),,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,591,6,2,4,8:11 PM,5:35,,,Koloko S.FOUL (P3.T2) (L.Holtkamp),,,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200235,593,3,11,4,8:11 PM,5:35,Hunter Free Throw 1 of 2 (13 PTS),,,104 - 96,-8,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0022200235,594,3,12,4,8:11 PM,5:35,Hunter Free Throw 2 of 2 (14 PTS),,,104 - 97,-7,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,595,2,1,4,8:12 PM,5:20,,,MISS Anunoby 27' 3PT Jump Shot,,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,596,4,0,4,8:12 PM,5:17,Capela REBOUND (Off:5 Def:6),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,597,6,1,4,8:12 PM,5:12,,,Flynn P.FOUL (P4.T3) (S.Corbin),,,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200235,599,2,6,4,8:12 PM,5:02,MISS Hunter 5' Driving Layup,,Koloko BLOCK (3 BLK),,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,1
+0022200235,601,4,0,4,8:12 PM,5:01,Hunter REBOUND (Off:1 Def:2),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,602,6,1,4,8:12 PM,5:01,,,VanVleet P.FOUL (P3.T4) (L.Holtkamp),,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200235,604,2,79,4,8:13 PM,4:50,MISS Murray 14' Pullup Jump Shot,,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,605,4,0,4,8:13 PM,4:46,Capela REBOUND (Off:6 Def:6),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,606,2,97,4,8:13 PM,4:46,MISS Capela Tip Layup Shot,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,607,4,0,4,8:13 PM,4:45,,,Koloko REBOUND (Off:4 Def:3),,,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,608,6,2,4,8:13 PM,4:40,Collins S.FOUL (P6.T3) (S.Corbin),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200235,610,3,11,4,8:14 PM,4:40,,,MISS Koloko Free Throw 1 of 2,,,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,611,4,1,4,8:14 PM,4:40,,,Raptors Rebound,,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200235,615,3,12,4,8:14 PM,4:40,,,MISS Koloko Free Throw 2 of 2,,,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,612,8,0,4,8:14 PM,4:40,SUB: Griffin FOR Collins,,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200235,614,9,1,4,8:14 PM,4:40,HAWKS Timeout: Regular (Full 5 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200235,616,4,0,4,8:14 PM,4:38,Capela REBOUND (Off:6 Def:7),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,619,8,0,4,8:18 PM,4:21,,,SUB: Young FOR Barnes,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200235,621,1,101,4,8:18 PM,4:18,Young 8' Driving Floating Jump Shot (24 PTS) (Murray 4 AST),,,104 - 99,-5,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200235,623,5,39,4,8:18 PM,3:55,,,Anunoby Step Out of Bounds Turnover (P5.T12),,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0022200235,624,2,5,4,8:19 PM,3:47,MISS Griffin 3' Layup,,Koloko BLOCK (4 BLK),,,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,1
+0022200235,626,4,0,4,8:19 PM,3:43,,,Young REBOUND (Off:2 Def:5),,,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,627,2,6,4,8:19 PM,3:29,,,MISS VanVleet 2' Driving Layup,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,628,4,0,4,8:19 PM,3:26,Hunter REBOUND (Off:1 Def:3),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,631,1,41,4,8:19 PM,3:21,Hunter Running Layup (16 PTS),,,104 - 101,-3,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,632,9,1,4,8:20 PM,3:21,,,Raptors Timeout: Regular (Reg.5 Short 0),,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200235,633,2,79,4,8:21 PM,3:05,Capela BLOCK (3 BLK),,MISS VanVleet 26' 3PT Pullup Jump Shot,,,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1
+0022200235,635,4,0,4,8:21 PM,3:01,,,Koloko REBOUND (Off:5 Def:3),,,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,636,2,1,4,8:21 PM,3:00,,,MISS Anunoby 26' 3PT Jump Shot,,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,637,4,0,4,8:21 PM,2:57,,,Koloko REBOUND (Off:6 Def:3),,,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,638,1,72,4,8:21 PM,2:57,,,Koloko 2' Putback Layup (6 PTS),106 - 101,-5,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,639,2,1,4,8:22 PM,2:41,MISS Griffin 24' 3PT Jump Shot,,,,,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,640,4,0,4,8:22 PM,2:38,,,Flynn REBOUND (Off:0 Def:4),,,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,641,1,41,4,8:22 PM,2:36,,,Anunoby 1' Running Layup (20 PTS) (Flynn 3 AST),108 - 101,-7,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200235,643,6,2,4,8:22 PM,2:36,Young S.FOUL (P3.T4) (S.Corbin),,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200235,645,3,10,4,8:22 PM,2:36,,,Anunoby Free Throw 1 of 1 (21 PTS),109 - 101,-8,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0022200235,646,1,1,4,8:22 PM,2:29,Hunter 3PT Jump Shot (19 PTS) (Young 10 AST),,,109 - 104,-5,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200235,648,6,4,4,8:23 PM,2:14,,,Flynn OFF.Foul (P5) (S.Corbin),,,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200235,650,5,37,4,8:23 PM,2:14,,,Flynn Offensive Foul Turnover (P1.T13),,,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0022200235,651,8,0,4,8:23 PM,2:14,,,SUB: Barnes FOR Young,,,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200235,653,1,79,4,8:23 PM,2:08,Young 25' 3PT Pullup Jump Shot (27 PTS),,,109 - 107,-2,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,654,2,86,4,8:24 PM,1:40,,,MISS Anunoby 13' Turnaround Fadeaway Shot,,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,655,4,0,4,8:24 PM,1:38,,,Flynn REBOUND (Off:1 Def:4),,,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,656,2,79,4,8:24 PM,1:28,,,MISS Barnes 14' Pullup Jump Shot,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,657,4,0,4,8:24 PM,1:27,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200235,658,6,3,4,8:24 PM,1:27,,,Koloko L.B.FOUL (P4.PN) (S.Corbin),,,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200235,660,3,11,4,8:24 PM,1:27,Hunter Free Throw 1 of 2 (20 PTS),,,109 - 108,-1,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,661,3,12,4,8:25 PM,1:27,Hunter Free Throw 2 of 2 (21 PTS),,,109 - 109,TIE,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0022200235,662,2,1,4,8:25 PM,1:06,,,MISS Barnes 3PT Jump Shot,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,663,4,0,4,8:25 PM,1:01,Young REBOUND (Off:1 Def:2),,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,664,6,1,4,8:25 PM,0:59,,,Flynn P.FOUL (P6.PN) (L.Holtkamp),,,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200235,666,8,0,4,8:26 PM,0:59,,,SUB: Young FOR Flynn,,,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200235,668,3,11,4,8:26 PM,0:59,Young Free Throw 1 of 2 (28 PTS),,,109 - 110,1,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,669,3,12,4,8:26 PM,0:59,Young Free Throw 2 of 2 (29 PTS),,,109 - 111,2,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,670,6,1,4,8:27 PM,0:50,Hunter P.FOUL (P3.PN) (L.Holtkamp),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200235,672,3,11,4,8:27 PM,0:50,,,Anunoby Free Throw 1 of 2 (22 PTS),110 - 111,1,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,673,3,12,4,8:27 PM,0:50,,,Anunoby Free Throw 2 of 2 (23 PTS),111 - 111,TIE,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,674,2,101,4,8:28 PM,0:33,MISS Young 6' Driving Floating Jump Shot,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,675,4,0,4,8:28 PM,0:30,,,Young REBOUND (Off:2 Def:6),,,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,677,9,1,4,8:28 PM,0:18,,,Raptors Timeout: Regular (Reg.6 Short 0),,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200235,678,8,0,4,8:30 PM,0:18,SUB: J. Holiday FOR Young,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,203200,Justin Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200235,680,2,80,4,8:30 PM,0:09,,,MISS Anunoby 17' Step Back Jump Shot,,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,681,4,0,4,8:30 PM,0:05,,,Koloko REBOUND (Off:7 Def:3),,,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,682,2,98,4,8:30 PM,0:01,,,MISS Barnes Cutting Layup Shot,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,683,4,0,4,8:30 PM,0:00,,,Barnes REBOUND (Off:3 Def:6),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,684,2,97,4,8:30 PM,0:00,,,MISS Barnes Tip Layup Shot,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,685,4,0,4,8:30 PM,0:00,,,Raptors Rebound,,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200235,686,13,0,4,8:31 PM,0:00,,End of 4th Period (8:31 PM EST),,111 - 111,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200235,689,12,0,5,8:33 PM,5:00,,Start of 1st OT (8:33 PM EST),,111 - 111,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200235,691,10,0,5,8:34 PM,5:00,Jump Ball Capela vs. Koloko: Tip to Young,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1
+0022200235,694,2,1,5,8:34 PM,4:43,MISS Griffin 3PT Jump Shot,,,,,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,695,4,0,5,8:34 PM,4:40,,,Barnes REBOUND (Off:3 Def:7),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,696,6,4,5,8:34 PM,4:23,,,Barnes OFF.Foul (P2) (S.Corbin),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200235,698,5,37,5,8:34 PM,4:23,,,Barnes Offensive Foul Turnover (P3.T14),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0022200235,699,1,101,5,8:35 PM,4:04,Griffin 4' Driving Floating Jump Shot (11 PTS),,,111 - 113,2,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,700,1,101,5,8:35 PM,3:38,,,Barnes 8' Driving Floating Jump Shot (28 PTS),113 - 113,TIE,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,701,2,1,5,8:35 PM,3:23,MISS Murray 3PT Jump Shot,,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,702,4,0,5,8:35 PM,3:20,,,Barnes REBOUND (Off:3 Def:8),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,703,2,63,5,8:36 PM,3:06,,,MISS Anunoby 7' Fadeaway Jumper,,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,704,4,0,5,8:36 PM,3:03,Capela REBOUND (Off:6 Def:8),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,705,2,79,5,8:36 PM,2:48,MISS Murray 17' Pullup Jump Shot,,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,707,1,97,5,8:36 PM,2:42,Griffin Tip Layup Shot (13 PTS),,,113 - 115,2,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,706,4,0,5,8:36 PM,2:42,Griffin REBOUND (Off:2 Def:2),,,,,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,708,1,5,5,8:36 PM,2:31,,,Young 2' Layup (16 PTS) (Barnes 9 AST),115 - 115,TIE,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200235,710,6,2,5,8:37 PM,2:13,,,Koloko S.FOUL (P5.T1) (B.Taylor),,,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200235,712,3,11,5,8:37 PM,2:13,Hunter Free Throw 1 of 2 (22 PTS),,,115 - 116,1,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,713,3,12,5,8:37 PM,2:13,MISS Hunter Free Throw 2 of 2,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,714,4,0,5,8:37 PM,2:11,Griffin REBOUND (Off:3 Def:2),,,,,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,715,1,101,5,8:37 PM,1:58,Griffin 10' Driving Floating Jump Shot (15 PTS) (Young 11 AST),,,115 - 118,3,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200235,717,2,79,5,8:38 PM,1:42,,,MISS Barnes 26' 3PT Pullup Jump Shot,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,718,4,0,5,8:38 PM,1:37,Hunter REBOUND (Off:1 Def:4),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,719,2,79,5,8:38 PM,1:17,MISS Murray 24' 3PT Pullup Jump Shot,,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,721,4,0,5,8:38 PM,1:16,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200235,722,5,11,5,8:38 PM,1:16,HAWKS Turnover: Shot Clock (T#15),,,,,2,1610612737,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200235,723,2,1,5,8:39 PM,1:00,,,MISS Anunoby 25' 3PT Jump Shot,,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,724,4,0,5,8:39 PM,0:58,,,Young REBOUND (Off:3 Def:6),,,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,725,1,72,5,8:39 PM,0:58,,,Young 1' Putback Layup (18 PTS),117 - 118,1,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,726,6,1,5,8:39 PM,0:41,,,Young P.FOUL (P3.T2) (L.Holtkamp),,,5,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200235,728,9,1,5,8:40 PM,0:41,HAWKS Timeout: Regular (Full 6 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200235,729,1,75,5,8:42 PM,0:29,Young 2' Driving Finger Roll Layup (31 PTS),,,117 - 120,3,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,731,6,2,5,8:42 PM,0:12,Griffin S.FOUL (P2.T1) (S.Corbin),,,,,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200235,733,3,11,5,8:42 PM,0:12,,,MISS Koloko Free Throw 1 of 2,,,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,734,4,1,5,8:42 PM,0:12,,,Raptors Rebound,,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200235,735,3,12,5,8:43 PM,0:12,,,Koloko Free Throw 2 of 2 (7 PTS),118 - 120,2,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,736,6,28,5,8:43 PM,0:11,,,Anunoby Personal Take Foul (P4.PN) (L.Holtkamp),,,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200235,738,3,11,5,8:43 PM,0:11,Young Free Throw 1 of 2 (32 PTS),,,118 - 121,3,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,739,3,12,5,8:44 PM,0:11,Young Free Throw 2 of 2 (33 PTS),,,118 - 122,4,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,740,9,1,5,8:44 PM,0:11,,,Raptors Timeout: Regular (Reg.7 Short 0),,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200235,741,1,9,5,8:45 PM,0:08,,,Anunoby 1' Driving Dunk (25 PTS) (VanVleet 5 AST),120 - 122,2,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,5,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200235,743,9,1,5,8:46 PM,0:08,HAWKS Timeout: Regular (Full 7 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200235,744,8,0,5,8:47 PM,0:08,SUB: J. Holiday FOR Capela,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,203200,Justin Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200235,746,6,1,5,8:47 PM,0:08,,,Barnes P.FOUL (P3.PN) (S.Corbin),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200235,748,3,11,5,8:48 PM,0:08,MISS Hunter Free Throw 1 of 2,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,749,4,1,5,8:48 PM,0:08,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200235,752,3,12,5,8:48 PM,0:08,MISS Hunter Free Throw 2 of 2,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200235,750,8,0,5,8:48 PM,0:08,SUB: Capela FOR J. Holiday,,,,,4,203200,Justin Holiday,1610612737.0,Atlanta,Hawks,ATL,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200235,753,4,0,5,8:48 PM,0:07,,,Koloko REBOUND (Off:7 Def:4),,,5,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,754,9,1,5,8:49 PM,0:07,,,Raptors Timeout: Regular (Reg.8 Short 0),,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200235,755,8,0,5,8:49 PM,0:07,SUB: J. Holiday FOR Young,,,,,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,203200,Justin Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200235,757,6,2,5,8:50 PM,0:03,Capela S.FOUL (P4.PN) (B.Taylor),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200235,759,3,11,5,8:51 PM,0:03,,,Anunoby Free Throw 1 of 2 (26 PTS),121 - 122,1,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,762,3,12,5,8:51 PM,0:03,,,Anunoby Free Throw 2 of 2 (27 PTS),122 - 122,TIE,5,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200235,760,8,0,5,8:51 PM,0:03,SUB: Young FOR J. Holiday,,,,,4,203200,Justin Holiday,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200235,763,1,43,5,8:51 PM,0:00,Griffin 1' Alley Oop Layup (17 PTS) (Young 12 AST),,,122 - 124,2,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,4,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200235,765,13,0,5,8:51 PM,0:00,,End of 1st OT (8:51 PM EST),,122 - 124,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

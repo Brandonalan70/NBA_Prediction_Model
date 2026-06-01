@@ -1,0 +1,360 @@
+========================================
+NBA STACKING ENSEMBLE - OPTIMIZED
+========================================
+Job ID: 36434111
+Node: r320
+CPUs allocated: 48
+Memory allocated: 65536 MB
+Start time: Sat Dec  6 16:49:23 EST 2025
+
+Performance Configuration:
+  OMP_NUM_THREADS: 48
+  MKL_NUM_THREADS: 48
+  Available CPUs: 48
+
+Loading Anaconda module...
+Activating nba_env environment...
+
+Verifying Python packages...
+
+Package versions:
+  pandas: 2.3.3
+  numpy: 2.0.2
+  scikit-learn: 1.6.1
+  xgboost: 2.1.4
+  matplotlib: 3.9.4
+
+Navigating to project directory...
+Working directory: /ocean/projects/cis240116p/bbarber1/nba_modeling
+
+Checking for input data...
+✓ Input file found: nba_pbp.csv
+  Size: 465M
+  Lines: 804552
+
+Creating output directories...
+✓ Training script found: nba_model.py
+
+========================================
+STARTING MODEL TRAINING
+========================================
+Started at: 2025-12-06 16:49:26
+
+============================================================
+NBA STACKING ENSEMBLE - IN-GAME WIN PROBABILITY
+============================================================
+
+Configuration:
+  - Data sample: 20% of full dataset
+  - CV folds: 3
+  - Base models: Logistic Regression, Random Forest (100 trees), XGBoost (50 trees)
+  - Train individual models: True
+
+Expected runtime: ~15-25 minutes
+
+
+============================================================
+STEP 1: LOADING AND PREPARING DATA
+============================================================
+Loading data from nba_pbp.csv...
+  Loaded 804,551 rows in 6.07s
+
+============================================================
+DATA DIAGNOSTICS
+============================================================
+
+1. TIME REMAINING DISTRIBUTION:
+count    804551.000000
+mean       1391.048932
+std         845.589811
+min       -1440.000000
+25%         670.000000
+50%        1404.000000
+75%        2117.000000
+max        2880.000000
+Name: SECONDS REMAINING, dtype: float64
+
+Time buckets:
+SECONDS REMAINING
+0-1min       24814
+1-5min       66627
+5-12min     114769
+12-24min    197376
+24-48min    394328
+Name: count, dtype: int64
+
+2. SCORE MARGIN DISTRIBUTION:
+count    804551.000000
+mean         -1.508888
+std          11.432065
+min         -64.000000
+25%          -8.000000
+50%          -1.000000
+75%           5.000000
+max          53.000000
+Name: SCOREMARGIN, dtype: float64
+
+Score margin buckets:
+SCOREMARGIN
+Away blowout     95522
+Away lead       200093
+Close away      169369
+Close home      146805
+Home lead       140717
+Home blowout     52045
+Name: count, dtype: int64
+
+3. WINNER DISTRIBUTION:
+WINNER
+0    466431
+1    338120
+Name: count, dtype: int64
+============================================================
+
+Filling 154779 missing values...
+Engineering features...
+  Final: 18 features, 804,551 samples
+✓ Step 1 completed in 6.4s
+
+
+============================================================
+STEP 2: TRAINING MODELS
+============================================================
+
+============================================================
+TRAINING STACKING ENSEMBLE MODEL
+============================================================
+
+Train: 643,640 samples | Test: 160,911 samples
+Standardizing features...
+
+Base models: ['logistic', 'random_forest', 'xgboost']
+
+============================================================
+TRAINING INDIVIDUAL MODELS (for comparison)
+============================================================
+
+Training logistic...
+[Parallel(n_jobs=-1)]: Using backend ThreadingBackend with 128 concurrent workers.
+[Parallel(n_jobs=-1)]: Using backend ThreadingBackend with 128 concurrent workers.
+[Parallel(n_jobs=-1)]: Using backend ThreadingBackend with 128 concurrent workers.
+[Parallel(n_jobs=-1)]: Done   3 out of   3 | elapsed:    0.8s finished
+[Parallel(n_jobs=-1)]: Done   3 out of   3 | elapsed:    1.2s finished
+[Parallel(n_jobs=-1)]: Done   3 out of   3 | elapsed:  1.1min finished
+  Time: 5.6s (0.09 min)
+  Accuracy: 0.7916
+  ROC-AUC: 0.8734
+  Brier Score: 0.1421
+
+Training random_forest...
+  Time: 3.0s (0.05 min)
+  Accuracy: 0.9823
+  ROC-AUC: 0.9993
+  Brier Score: 0.0314
+
+Training xgboost...
+  Time: 0.4s (0.01 min)
+  Accuracy: 0.8635
+  ROC-AUC: 0.9471
+  Brier Score: 0.0985
+
+Base models: ['logistic', 'random_forest', 'xgboost']
+
+============================================================
+BUILDING STACKING ENSEMBLE
+============================================================
+Cross-validation folds: 3
+Stack method: predict_proba
+
+Training stacking ensemble...
+
+  ✓ Stacking training completed in 72.4s (1.21 min)
+
+============================================================
+STACKING ENSEMBLE EVALUATION
+============================================================
+
+TEST SET PERFORMANCE:
+  ACCURACY: 0.9978
+  PRECISION: 0.9982
+  RECALL: 0.9966
+  F1_SCORE: 0.9974
+  ROC_AUC: 1.0000
+  BRIER_SCORE: 0.0016
+  LOG_LOSS: 0.0063
+  EXPECTED_CALIBRATION_ERROR: 0.0015
+  MAX_CALIBRATION_ERROR: 0.2788
+  SHARPNESS: 0.4968
+
+============================================================
+BASELINE COMPARISON
+============================================================
+Model Brier Score:      0.0016
+Baseline (Home=0.6):    0.2759
+Baseline (Uniform=0.5): 0.2500
+
+✓ Brier Skill Score: 0.9941
+  (Model is 99.4% better than baseline)
+
+============================================================
+PERFORMANCE BY GAME SITUATION
+============================================================
+
+By Quarter:
+  Q1: Brier=0.0014, n=10,444
+  Q2: Brier=0.0009, n=12,098
+  Q3: Brier=0.0008, n=12,173
+  Q4: Brier=0.0014, n=11,239
+
+By Game Closeness:
+  Very Close (0-5): Brier=0.0016, n=160,888
+
+Clutch Time (last 5 min):  Brier=0.0016, n=160,911
+
+============================================================
+CONFUSION MATRIX
+============================================================
+                 Predicted
+               Away  Home
+Actual Away   93,168   119
+       Home     229 67,395
+
+============================================================
+MODEL COMPARISON
+============================================================
+
+Model                Accuracy   ROC-AUC    Brier     
+--------------------------------------------------
+logistic             0.7916     0.8734     0.1421    
+random_forest        0.9823     0.9993     0.0314    
+xgboost              0.8635     0.9471     0.0985    
+Stacking Ensemble    0.9978     1.0000     0.0016    
+--------------------------------------------------
+
+Generating visualizations...
+  ✓ Calibration plot
+  ✓ ROC curve
+  ✓ Model comparison
+  ✓ Probability distribution
+  ✓ Performance by quarter
+
+✓ Step 2 completed in 85.0s (1.4 min)
+
+
+============================================================
+STEP 3: SAVING MODEL ARTIFACTS
+============================================================
+
+============================================================
+SAVING MODEL ARTIFACTS
+============================================================
+✓ Model saved:   nba_stacking_model3.pkl
+✓ Scaler saved:  nba_stacking_scaler3.pkl
+✓ Results saved: stacking_model_results3.json
+✓ Plots saved:   model_plots_3/
+✓ Step 3 completed in 0.1s
+
+
+============================================================
+TRAINING COMPLETE!
+============================================================
+
+Total Runtime: 91.5s (1.5 minutes)
+
+Final Model Performance:
+  Accuracy:                   0.9978
+  ROC-AUC:                    1.0000
+  Brier Score:                0.0016
+  Expected Calibration Error: 0.0015
+  Sharpness:                  0.4968
+  Brier Skill Score:          0.9941
+
+Model demonstrates excellent calibration for in-game win probability prediction.
+Results are competitive with professional sports analytics systems.
+
+	Command being timed: "python nba_model.py"
+	User time (seconds): 1266.23
+	System time (seconds): 26.12
+	Percent of CPU this job got: 1381%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:33.57
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 6157060
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 212
+	Minor (reclaiming a frame) page faults: 4250240
+	Voluntary context switches: 571525
+	Involuntary context switches: 34441
+	Swaps: 0
+	File system inputs: 88
+	File system outputs: 24440
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+========================================
+✓ TRAINING COMPLETED SUCCESSFULLY
+========================================
+
+Generated Model Files:
+-rw-r--r-- 1 bbarber1 cis240116p 2.6K Nov  6 16:36 model_results2.json
+-rw-r--r-- 1 bbarber1 cis240116p 2.7K Nov  7 01:11 model_results3.json
+-rw-r--r-- 1 bbarber1 cis240116p 2.7K Nov 19 16:24 model_results4.json
+-rw-r--r-- 1 bbarber1 cis240116p 1023 Nov  6 16:36 nba_logistic_model2.pkl
+-rw-r--r-- 1 bbarber1 cis240116p 1.1K Nov  7 01:11 nba_logistic_model3.pkl
+-rw-r--r-- 1 bbarber1 cis240116p 1.1K Nov 19 16:24 nba_logistic_model4.pkl
+-rw-r--r-- 1 bbarber1 cis240116p 1.6K Nov  6 16:36 nba_scaler2.pkl
+-rw-r--r-- 1 bbarber1 cis240116p 1.7K Nov  7 01:11 nba_scaler3.pkl
+-rw-r--r-- 1 bbarber1 cis240116p 1.7K Nov 19 16:24 nba_scaler4.pkl
+-rw-r--r-- 1 bbarber1 cis240116p 2.8M Dec  5 15:07 nba_stacking_model.pkl
+-rw-r--r-- 1 bbarber1 cis240116p 9.2M Dec  6 16:44 nba_stacking_model2.pkl
+-rw-r--r-- 1 bbarber1 cis240116p  12M Dec  6 16:50 nba_stacking_model3.pkl
+-rw-r--r-- 1 bbarber1 cis240116p 1.6K Dec  5 15:07 nba_stacking_scaler.pkl
+-rw-r--r-- 1 bbarber1 cis240116p 1.6K Dec  6 16:44 nba_stacking_scaler2.pkl
+-rw-r--r-- 1 bbarber1 cis240116p 1.6K Dec  6 16:50 nba_stacking_scaler3.pkl
+-rw-r--r-- 1 bbarber1 cis240116p 2.0K Dec  5 15:07 stacking_model_results.json
+-rw-r--r-- 1 bbarber1 cis240116p 3.0K Dec  6 16:44 stacking_model_results2.json
+-rw-r--r-- 1 bbarber1 cis240116p 3.0K Dec  6 16:50 stacking_model_results3.json
+
+Generated Visualizations:
+-rw-r--r-- 1 bbarber1 cis240116p 183K Dec  5 15:07 model_plots/calibration_plot.png
+-rw-r--r-- 1 bbarber1 cis240116p  95K Dec  5 15:07 model_plots/performance_by_quarter.png
+-rw-r--r-- 1 bbarber1 cis240116p  98K Dec  5 15:07 model_plots/probability_distribution.png
+-rw-r--r-- 1 bbarber1 cis240116p 140K Dec  5 15:07 model_plots/roc_curve.png
+
+Backing up results...
+✓ Backup created with timestamp: 20251206_165100
+
+Model Summary:
+  Training samples: 321,820
+  Test samples: 80,456
+  Features: 18
+  Training time: 22.4s (0.4 min)
+  Accuracy: 0.9803
+  ROC-AUC: 0.9983
+  Brier Score: 0.0145
+  ECE: 0.0058
+
+========================================
+JOB COMPLETE
+========================================
+Completed at: 2025-12-06 16:51:00
+Total runtime: 1m 37s
+
+Output files saved in: /ocean/projects/cis240116p/bbarber1/nba_modeling
+SLURM output: slurm-nba-stacking-36434111.out
+Training log: training_output.log
+
+To view results:
+  cat stacking_model_results.json
+  ls -lh model_plots/
+
+To download results:
+  scp bfb5559@bridges2.psc.edu:/ocean/projects/cis240116p/bbarber1/nba_modeling/*.pkl .
+  scp bfb5559@bridges2.psc.edu:/ocean/projects/cis240116p/bbarber1/nba_modeling/*.json .
+  scp bfb5559@bridges2.psc.edu:/ocean/projects/cis240116p/bbarber1/nba_modeling/model_plots/*.png .
+

@@ -1,0 +1,485 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200080,2,12,0,1,10:12 PM,12:00,,Start of 1st Period (10:12 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200080,4,10,0,1,10:13 PM,12:00,Jump Ball Nurkic vs. Porter Jr.: Tip to Sengun,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1
+0022200080,7,2,86,1,10:13 PM,11:36,,,MISS Smith Jr. 18' Turnaround Fadeaway Shot,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,8,4,0,1,10:13 PM,11:34,Simons REBOUND (Off:0 Def:1),,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,10,1,79,1,10:13 PM,11:23,Sharpe 19' Pullup Jump Shot (2 PTS) (Simons 1 AST),,,0 - 2,2,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200080,12,2,6,1,10:14 PM,11:00,,,MISS Sengun 2' Driving Layup,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,13,4,0,1,10:14 PM,10:58,Simons REBOUND (Off:0 Def:2),,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,14,2,1,1,10:14 PM,10:45,MISS Grant 27' 3PT Jump Shot,,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,15,4,0,1,10:14 PM,10:42,,,Green REBOUND (Off:0 Def:1),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,16,2,79,1,10:14 PM,10:36,,,MISS Green 26' 3PT Pullup Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,17,4,0,1,10:14 PM,10:35,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200080,19,2,1,1,10:15 PM,10:19,MISS Simons 24' 3PT Jump Shot,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,20,4,0,1,10:15 PM,10:16,Grant REBOUND (Off:1 Def:0),,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,21,1,1,1,10:15 PM,10:07,Simons 24' 3PT Jump Shot (3 PTS) (Hart 1 AST),,,0 - 5,5,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200080,23,1,1,1,10:15 PM,9:46,,,Green 29' 3PT Jump Shot (3 PTS) (Porter Jr. 1 AST),3 - 5,2,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200080,25,1,58,1,10:15 PM,9:29,Nurkic 2' Turnaround Hook Shot (2 PTS) (Grant 1 AST),,,3 - 7,4,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200080,27,1,1,1,10:16 PM,9:13,,,Smith Jr. 24' 3PT Jump Shot (3 PTS) (Gordon 1 AST),6 - 7,1,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200080,29,1,58,1,10:16 PM,8:51,Nurkic 6' Turnaround Hook Shot (4 PTS),,,6 - 9,3,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,30,5,1,1,10:16 PM,8:38,Nurkic STEAL (1 STL),,Porter Jr. Bad Pass Turnover (P1.T1),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200080,32,5,45,1,10:16 PM,8:35,Grant Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0022200080,33,5,2,1,10:17 PM,8:14,Grant STEAL (1 STL),,Porter Jr. Lost Ball Turnover (P2.T2),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200080,35,1,50,1,10:17 PM,8:12,Sharpe 1' Running Dunk (4 PTS),,,6 - 11,5,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,36,1,101,1,10:17 PM,7:59,,,Porter Jr. 3' Driving Floating Jump Shot (2 PTS),8 - 11,3,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,37,2,6,1,10:17 PM,7:43,MISS Sharpe 2' Driving Layup,,Sengun BLOCK (1 BLK),,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1
+0022200080,39,4,0,1,10:17 PM,7:43,,,Green REBOUND (Off:0 Def:2),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,40,2,43,1,10:17 PM,7:37,,,MISS Smith Jr. 1' Alley Oop Layup,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,41,4,0,1,10:17 PM,7:36,Hart REBOUND (Off:0 Def:1),,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,42,2,103,1,10:18 PM,7:29,MISS Hart 5' Running Pull-Up Jump Shot,,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,43,4,0,1,10:18 PM,7:28,,,Sengun REBOUND (Off:0 Def:1),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,44,2,101,1,10:18 PM,7:13,,,MISS Porter Jr. 7' Driving Floating Jump Shot,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,45,4,0,1,10:18 PM,7:11,,,Sengun REBOUND (Off:1 Def:1),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,46,2,78,1,10:18 PM,7:10,,,MISS Sengun 13' Floating Jump Shot,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,47,4,0,1,10:18 PM,7:07,Nurkic REBOUND (Off:0 Def:1),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,48,2,1,1,10:18 PM,6:57,MISS Simons 27' 3PT Jump Shot,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,49,4,0,1,10:18 PM,6:55,Hart REBOUND (Off:1 Def:1),,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,50,1,6,1,10:18 PM,6:42,Nurkic 1' Driving Layup (6 PTS) (Grant 2 AST),,,8 - 13,5,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200080,52,2,6,1,10:19 PM,6:25,,,MISS Smith Jr. 2' Driving Layup,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,53,4,0,1,10:19 PM,6:25,Nurkic REBOUND (Off:0 Def:2),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,54,2,1,1,10:19 PM,6:16,MISS Grant 24' 3PT Jump Shot,,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,55,4,0,1,10:19 PM,6:14,,,Sengun REBOUND (Off:1 Def:2),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,56,5,40,1,10:19 PM,6:14,,,Sengun Out of Bounds Lost Ball Turnover (P1.T3),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200080,57,9,1,1,10:19 PM,6:14,TRAIL BLAZERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200080,58,8,0,1,10:21 PM,6:14,,,SUB: Tate FOR Sengun,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200080,60,1,1,1,10:22 PM,6:06,Simons 27' 3PT Jump Shot (6 PTS) (Sharpe 1 AST),,,8 - 16,8,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200080,62,2,6,1,10:22 PM,5:40,Nurkic BLOCK (1 BLK),,MISS Green 2' Driving Layup,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,1
+0022200080,65,1,72,1,10:23 PM,5:34,,,Tate Putback Layup (2 PTS),10 - 16,6,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,64,4,0,1,10:23 PM,5:34,,,Tate REBOUND (Off:1 Def:0),,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,66,2,6,1,10:23 PM,5:29,MISS Hart 1' Driving Layup,,Smith Jr. BLOCK (1 BLK),,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,1
+0022200080,68,4,0,1,10:23 PM,5:26,,,Gordon REBOUND (Off:0 Def:1),,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,69,5,4,1,10:23 PM,5:24,,,Gordon Traveling Turnover (P1.T4),,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200080,70,8,0,1,10:23 PM,5:24,SUB: Winslow FOR Sharpe,,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200080,71,8,0,1,10:23 PM,5:24,,,SUB: Martin Jr. FOR Gordon,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200080,74,2,78,1,10:23 PM,5:12,MISS Winslow 13' Floating Jump Shot,,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,75,4,0,1,10:23 PM,5:09,,,Martin Jr. REBOUND (Off:0 Def:1),,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,76,1,1,1,10:24 PM,4:54,,,Martin Jr. 3PT Jump Shot (3 PTS) (Tate 1 AST),13 - 16,3,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200080,78,1,78,1,10:24 PM,4:35,Nurkic 3' Floating Jump Shot (8 PTS),,,13 - 18,5,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,80,8,0,1,10:24 PM,4:24,SUB: Eubanks FOR Nurkic,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200080,82,2,79,1,10:25 PM,4:09,,,MISS Green 27' 3PT Pullup Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,83,4,0,1,10:25 PM,4:08,Hart REBOUND (Off:1 Def:2),,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,84,1,108,1,10:25 PM,3:58,Eubanks 1' Cutting Dunk Shot (2 PTS) (Winslow 1 AST),,,13 - 20,7,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200080,86,9,1,1,10:25 PM,3:57,,,Rockets Timeout: Regular (Reg.1 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200080,87,8,0,1,10:27 PM,3:57,SUB: Little FOR Hart,,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200080,89,5,1,1,10:28 PM,3:36,Simons STEAL (1 STL),,Smith Jr. Bad Pass Turnover (P1.T5),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200080,91,6,2,1,10:28 PM,3:33,,,Tate S.FOUL (P1.T1) (M.Davis),,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200080,93,3,11,1,10:29 PM,3:33,Grant Free Throw 1 of 2 (1 PTS),,,13 - 21,8,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,94,3,12,1,10:29 PM,3:33,Grant Free Throw 2 of 2 (2 PTS),,,13 - 22,9,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,95,2,1,1,10:29 PM,3:22,,,MISS Smith Jr. 28' 3PT Jump Shot,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,96,4,0,1,10:29 PM,3:19,Little REBOUND (Off:0 Def:1),,,,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,97,1,43,1,10:29 PM,3:04,Eubanks 1' Alley Oop Layup (4 PTS) (Little 1 AST),,,13 - 24,11,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200080,99,2,1,1,10:30 PM,2:49,,,MISS Porter Jr. 26' 3PT Jump Shot,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,100,4,0,1,10:30 PM,2:48,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200080,102,8,0,1,10:30 PM,2:48,SUB: Johnson FOR Simons,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200080,103,8,0,1,10:30 PM,2:48,,,SUB: Sengun FOR Smith Jr.,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200080,106,2,1,1,10:30 PM,2:44,,,MISS Green 29' 3PT Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0022200080,107,4,0,1,10:30 PM,2:41,,,Porter Jr. REBOUND (Off:1 Def:0),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0022200080,108,2,9,1,10:30 PM,2:30,,,MISS Green 3' Driving Dunk,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,109,4,0,1,10:30 PM,2:28,,,Tate REBOUND (Off:2 Def:0),,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,110,2,79,1,10:30 PM,2:27,,,MISS Tate 22' Pullup Jump Shot,,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,111,4,0,1,10:30 PM,2:27,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200080,112,5,11,1,10:30 PM,2:27,,,Rockets Turnover: Shot Clock (T#6),,,3,1610612745,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200080,113,6,2,1,10:31 PM,2:07,,,Sengun S.FOUL (P1.T2) (J.Butler),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200080,115,3,11,1,10:32 PM,2:07,Johnson Free Throw 1 of 2 (1 PTS),,,13 - 25,12,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,116,8,0,1,10:32 PM,2:07,,,SUB: Gordon FOR Porter Jr.,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200080,117,8,0,1,10:32 PM,2:07,,,SUB: Nix FOR Green,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200080,120,3,12,1,10:32 PM,2:07,MISS Johnson Free Throw 2 of 2,,,,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,121,4,0,1,10:32 PM,2:03,Winslow REBOUND (Off:1 Def:0),,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,122,1,3,1,10:32 PM,1:56,Eubanks 5' Hook Shot (6 PTS) (Winslow 2 AST),,,13 - 27,14,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200080,124,6,1,1,10:32 PM,1:47,Little P.FOUL (P1.T1) (J.Butler),,,,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200080,126,8,0,1,10:32 PM,1:47,SUB: Sharpe FOR Grant,,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200080,128,2,1,1,10:33 PM,1:43,,,MISS Gordon 25' 3PT Jump Shot,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,129,4,0,1,10:33 PM,1:40,Little REBOUND (Off:0 Def:2),,,,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,130,2,41,1,10:33 PM,1:35,MISS Little 1' Running Layup,,,,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,131,4,0,1,10:33 PM,1:33,,,Tate REBOUND (Off:2 Def:1),,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,132,1,41,1,10:33 PM,1:31,,,Martin Jr. 1' Running Layup (5 PTS) (Tate 2 AST),15 - 27,12,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200080,134,6,2,1,10:33 PM,1:31,Sharpe S.FOUL (P1.PN) (M.Davis),,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200080,136,8,0,1,10:33 PM,1:31,,,SUB: Eason FOR Tate,,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200080,138,3,10,1,10:33 PM,1:31,,,Martin Jr. Free Throw 1 of 1 (6 PTS),16 - 27,11,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,139,2,6,1,10:34 PM,1:20,MISS Winslow 1' Driving Layup,,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,140,4,0,1,10:34 PM,1:18,Eubanks REBOUND (Off:1 Def:0),,,,,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,141,1,107,1,10:34 PM,1:18,Eubanks Tip Dunk Shot (8 PTS),,,16 - 29,13,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,143,1,6,1,10:34 PM,0:56,,,Gordon 1' Driving Layup (2 PTS) (Nix 1 AST),18 - 29,11,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200080,146,1,79,1,10:35 PM,0:40,Little 26' 3PT Pullup Jump Shot (3 PTS) (Winslow 3 AST),,,18 - 32,14,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200080,147,1,9,1,10:35 PM,0:31,,,Martin Jr. 2' Driving Dunk (8 PTS),20 - 32,12,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,148,6,2,1,10:35 PM,0:31,Eubanks S.FOUL (P1.PN) (T.Maddox),,,,,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200080,150,8,0,1,10:35 PM,0:31,,,SUB: Garuba FOR Sengun,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200080,152,3,10,1,10:35 PM,0:31,,,Martin Jr. Free Throw 1 of 1 (9 PTS),21 - 32,11,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,153,2,80,1,10:36 PM,0:15,MISS Sharpe 27' 3PT Step Back Jump Shot,,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,154,4,0,1,10:36 PM,0:12,,,Eason REBOUND (Off:0 Def:1),,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,155,1,5,1,10:36 PM,0:00,,,Garuba 2' Layup (2 PTS) (Gordon 2 AST),23 - 32,9,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200080,157,18,0,1,10:36 PM,0:00,,Instant Replay1st Period (10:36 PM EST),,23 - 32,9,0,155,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200080,158,13,0,1,10:37 PM,0:00,,End of 1st Period (10:37 PM EST),,23 - 32,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200080,161,12,0,2,10:39 PM,12:00,,Start of 2nd Period (10:39 PM EST),,23 - 32,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200080,162,2,1,2,10:39 PM,11:45,MISS Sharpe 22' Jump Shot,,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,163,4,0,2,10:39 PM,11:43,,,Eason REBOUND (Off:0 Def:2),,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,165,5,2,2,10:39 PM,11:29,Winslow STEAL (1 STL),,Gordon Lost Ball Turnover (P2.T7),,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200080,167,2,1,2,10:39 PM,11:23,MISS Johnson 24' 3PT Jump Shot,,,,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,168,4,0,2,10:39 PM,11:18,,,Martin Jr. REBOUND (Off:0 Def:2),,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,169,1,101,2,10:40 PM,11:09,,,Eason 9' Driving Floating Jump Shot (2 PTS) (Gordon 3 AST),25 - 32,7,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200080,171,2,6,2,10:40 PM,10:49,MISS Nurkic 4' Driving Layup,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,173,1,97,2,10:40 PM,10:46,Sharpe Tip Layup Shot (6 PTS),,,25 - 34,9,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,172,4,0,2,10:40 PM,10:46,Sharpe REBOUND (Off:1 Def:0),,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,174,2,79,2,10:40 PM,10:35,,,MISS Gordon 28' 3PT Pullup Jump Shot,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,175,4,0,2,10:40 PM,10:35,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200080,176,6,3,2,10:40 PM,10:35,Nurkic L.B.FOUL (P1.T1) (T.Maddox),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200080,178,1,1,2,10:41 PM,10:28,,,Gordon 27' 3PT Jump Shot (5 PTS) (Nix 2 AST),28 - 34,6,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200080,180,1,79,2,10:41 PM,10:08,Johnson 18' Pullup Jump Shot (3 PTS) (Sharpe 2 AST),,,28 - 36,8,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200080,182,1,1,2,10:41 PM,9:51,,,Nix 26' 3PT Jump Shot (3 PTS) (Gordon 4 AST),31 - 36,5,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200080,184,1,57,2,10:42 PM,9:27,Nurkic 4' Driving Hook Shot (10 PTS) (Winslow 4 AST),,,31 - 38,7,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200080,186,5,45,2,10:42 PM,9:22,,,Gordon Out of Bounds - Bad Pass Turnover Turnover (P3.T8),,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200080,187,8,0,2,10:42 PM,9:22,SUB: Grant FOR Little,,,,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200080,191,8,0,2,10:42 PM,9:22,SUB: Simons FOR Winslow,,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200080,192,2,1,2,10:42 PM,9:08,MISS Johnson 24' 3PT Jump Shot,,,,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,193,4,0,2,10:42 PM,9:06,,,Gordon REBOUND (Off:0 Def:2),,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,194,5,45,2,10:43 PM,9:04,,,Gordon Out of Bounds - Bad Pass Turnover Turnover (P4.T9),,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200080,195,8,0,2,10:43 PM,9:04,,,SUB: Tate FOR Martin Jr.,,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200080,197,1,79,2,10:43 PM,8:45,Simons 28' 3PT Pullup Jump Shot (9 PTS),,,31 - 41,10,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,198,1,1,2,10:43 PM,8:35,,,Nix 26' 3PT Jump Shot (6 PTS) (Gordon 5 AST),34 - 41,7,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200080,200,1,108,2,10:44 PM,8:14,Sharpe 1' Cutting Dunk Shot (8 PTS) (Grant 3 AST),,,34 - 43,9,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200080,202,5,1,2,10:44 PM,7:53,Johnson STEAL (1 STL),,Tate Bad Pass Turnover (P1.T10),,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200080,204,1,52,2,10:44 PM,7:51,Sharpe 1' Alley Oop Dunk (10 PTS) (Johnson 1 AST),,,34 - 45,11,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200080,206,9,1,2,10:44 PM,7:51,,,Rockets Timeout: Regular (Reg.2 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200080,207,8,0,2,10:46 PM,7:51,SUB: Hart FOR Johnson,,,,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200080,208,8,0,2,10:46 PM,7:51,,,SUB: Sengun FOR Garuba,,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200080,209,8,0,2,10:46 PM,7:51,,,SUB: Mathews FOR Eason,,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200080,213,2,1,2,10:47 PM,7:41,,,MISS Mathews 3PT Jump Shot,,,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,214,4,0,2,10:47 PM,7:38,Simons REBOUND (Off:0 Def:3),,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,215,2,1,2,10:47 PM,7:33,MISS Hart 25' 3PT Jump Shot,,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,216,4,0,2,10:47 PM,7:31,Nurkic REBOUND (Off:1 Def:2),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,217,5,2,2,10:47 PM,7:29,Nurkic Lost Ball Turnover (P1.T2),,Tate STEAL (1 STL),,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200080,219,1,2,2,10:47 PM,7:23,,,Nix 25' 3PT Running Jump Shot (9 PTS) (Tate 3 AST),37 - 45,8,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200080,221,1,1,2,10:48 PM,7:03,Simons 27' 3PT Jump Shot (12 PTS) (Hart 2 AST),,,37 - 48,11,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200080,224,8,0,2,10:48 PM,6:42,,,SUB: Porter Jr. FOR Gordon,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200080,225,8,0,2,10:48 PM,6:42,,,SUB: Green FOR Nix,,,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200080,228,2,1,2,10:49 PM,6:38,,,MISS Tate 3PT Jump Shot,,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,229,4,0,2,10:49 PM,6:36,Grant REBOUND (Off:1 Def:1),,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,230,1,6,2,10:49 PM,6:26,Grant 1' Driving Layup (4 PTS),,,37 - 50,13,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,231,2,79,2,10:49 PM,6:15,,,MISS Green 17' Pullup Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,232,4,0,2,10:49 PM,6:13,Nurkic REBOUND (Off:1 Def:3),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,233,5,2,2,10:49 PM,6:12,Nurkic Lost Ball Turnover (P2.T3),,Tate STEAL (2 STL),,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200080,235,1,1,2,10:49 PM,6:07,,,Porter Jr. 25' 3PT Jump Shot (5 PTS) (Tate 4 AST),40 - 50,10,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200080,237,6,1,2,10:49 PM,5:49,,,Mathews P.FOUL (P1.T1) (J.Butler),,,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200080,239,8,0,2,10:50 PM,5:49,SUB: Eubanks FOR Nurkic,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200080,240,8,0,2,10:50 PM,5:49,,,SUB: Smith Jr. FOR Tate,,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200080,243,1,79,2,10:50 PM,5:44,Simons 26' 3PT Pullup Jump Shot (15 PTS),,,40 - 53,13,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,244,2,47,2,10:50 PM,5:29,,,MISS Porter Jr. 6' Turnaround Jump Shot,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,245,4,0,2,10:50 PM,5:29,,,Porter Jr. REBOUND (Off:2 Def:0),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,246,1,5,2,10:50 PM,5:27,,,Porter Jr. 1' Layup (7 PTS),42 - 53,11,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,247,1,6,2,10:50 PM,5:15,Simons 2' Driving Layup (17 PTS),,,42 - 55,13,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,248,2,80,2,10:51 PM,4:56,,,MISS Green 27' 3PT Step Back Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,249,4,0,2,10:51 PM,4:55,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200080,251,1,80,2,10:51 PM,4:44,Simons 25' 3PT Step Back Jump Shot (20 PTS),,,42 - 58,16,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,252,1,1,2,10:51 PM,4:24,,,Sengun 26' 3PT Jump Shot (3 PTS) (Porter Jr. 2 AST),45 - 58,13,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200080,254,1,98,2,10:52 PM,4:10,Hart Cutting Layup Shot (2 PTS) (Simons 2 AST),,,45 - 60,15,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200080,256,6,2,2,10:52 PM,4:10,,,Sengun S.FOUL (P2.T2) (T.Maddox),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200080,258,8,0,2,10:52 PM,4:10,SUB: Johnson FOR Sharpe,,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200080,260,3,10,2,10:52 PM,4:10,Hart Free Throw 1 of 1 (3 PTS),,,45 - 61,16,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,261,1,1,2,10:53 PM,3:47,,,Green 3PT Jump Shot (6 PTS) (Sengun 1 AST),48 - 61,13,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200080,263,6,1,2,10:53 PM,3:40,,,Green P.FOUL (P1.T3) (T.Maddox),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200080,265,1,1,2,10:53 PM,3:34,Simons 28' 3PT Jump Shot (23 PTS) (Eubanks 1 AST),,,48 - 64,16,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200080,267,5,1,2,10:54 PM,3:12,Grant STEAL (2 STL),,Porter Jr. Bad Pass Turnover (P3.T11),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200080,269,6,2,2,10:54 PM,3:08,,,Smith Jr. S.FOUL (P1.T4) (M.Davis),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200080,271,3,11,2,10:54 PM,3:08,Hart Free Throw 1 of 2 (4 PTS),,,48 - 65,17,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,272,8,0,2,10:54 PM,3:08,,,SUB: Gordon FOR Mathews,,,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200080,274,3,12,2,10:55 PM,3:08,Hart Free Throw 2 of 2 (5 PTS),,,48 - 66,18,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,275,2,58,2,10:55 PM,2:49,,,MISS Sengun 2' Turnaround Hook Shot,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,276,4,0,2,10:55 PM,2:49,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200080,278,9,1,2,10:55 PM,2:49,TRAIL BLAZERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200080,279,8,0,2,10:58 PM,2:49,,,SUB: Tate FOR Sengun,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200080,281,5,2,2,10:59 PM,2:34,Simons Lost Ball Turnover (P1.T4),,Porter Jr. STEAL (1 STL),,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200080,283,1,41,2,10:59 PM,2:29,,,Tate Running Layup (4 PTS) (Green 1 AST),50 - 66,16,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200080,284,2,1,2,10:59 PM,2:17,MISS Simons 28' 3PT Jump Shot,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,285,4,0,2,10:59 PM,2:15,,,Smith Jr. REBOUND (Off:0 Def:1),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,286,1,1,2,10:59 PM,2:08,,,Gordon 29' 3PT Jump Shot (8 PTS) (Tate 5 AST),53 - 66,13,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200080,288,2,98,2,10:59 PM,1:42,MISS Johnson 1' Cutting Layup Shot,,,,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,289,4,0,2,10:59 PM,1:40,,,Porter Jr. REBOUND (Off:2 Def:1),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,290,1,41,2,11:00 PM,1:34,,,Smith Jr. 2' Running Layup (5 PTS) (Green 2 AST),55 - 66,11,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200080,294,8,0,2,11:00 PM,1:12,SUB: Winslow FOR Eubanks,,,,,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200080,296,1,1,2,11:00 PM,1:09,Johnson 25' 3PT Jump Shot (6 PTS) (Simons 3 AST),,,55 - 69,14,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200080,298,2,73,2,11:01 PM,0:52,,,MISS Green 2' Driving Reverse Layup,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,300,4,0,2,11:01 PM,0:50,Hart REBOUND (Off:1 Def:3),,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,301,2,2,2,11:01 PM,0:45,MISS Grant 24' 3PT Running Jump Shot,,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,302,4,0,2,11:01 PM,0:42,,,Green REBOUND (Off:0 Def:3),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,303,1,41,2,11:01 PM,0:37,,,Porter Jr. 3' Running Layup (9 PTS),57 - 69,12,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,304,6,2,2,11:01 PM,0:37,Simons S.FOUL (P1.T2) (M.Davis),,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200080,306,3,10,2,11:01 PM,0:37,,,Porter Jr. Free Throw 1 of 1 (10 PTS),58 - 69,11,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,307,2,79,2,11:02 PM,0:33,MISS Simons 27' 3PT Pullup Jump Shot,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,308,4,0,2,11:02 PM,0:30,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200080,310,2,80,2,11:02 PM,0:08,,,MISS Green 32' 3PT Step Back Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,311,4,0,2,11:02 PM,0:06,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200080,312,5,11,2,11:02 PM,0:06,,,Rockets Turnover: Shot Clock (T#12),,,3,1610612745,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200080,313,6,26,2,11:03 PM,0:01,Simons Offensive Charge Foul (P2) (M.Davis),,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200080,315,5,37,2,11:03 PM,0:01,Simons Offensive Foul Turnover (P2.T5),,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0022200080,316,13,0,2,11:03 PM,0:00,,End of 2nd Period (11:03 PM EST),,58 - 69,11,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200080,323,12,0,3,11:18 PM,12:00,,Start of 3rd Period (11:18 PM EST),,58 - 69,11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200080,324,2,47,3,11:19 PM,11:39,MISS Nurkic 3' Turnaround Jump Shot,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,325,4,0,3,11:19 PM,11:36,,,Gordon REBOUND (Off:0 Def:3),,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,326,1,85,3,11:19 PM,11:25,,,Smith Jr. 3' Turnaround Bank Shot (7 PTS),60 - 69,9,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,327,5,2,3,11:19 PM,11:10,Simons Lost Ball Turnover (P3.T6),,Porter Jr. STEAL (2 STL),,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200080,329,1,74,3,11:19 PM,11:06,,,Green 1' Running Reverse Layup (8 PTS) (Porter Jr. 3 AST),62 - 69,7,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200080,331,1,58,3,11:20 PM,10:45,Nurkic 8' Turnaround Hook Shot (12 PTS),,,62 - 71,9,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,332,2,79,3,11:20 PM,10:24,,,MISS Green 25' 3PT Pullup Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,333,4,0,3,11:20 PM,10:22,Grant REBOUND (Off:1 Def:2),,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,334,5,1,3,11:20 PM,10:14,Grant Bad Pass Turnover (P2.T7),,Smith Jr. STEAL (1 STL),,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200080,336,2,86,3,11:20 PM,10:06,,,MISS Smith Jr. 11' Turnaround Fadeaway Shot,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,337,4,0,3,11:20 PM,10:02,Nurkic REBOUND (Off:1 Def:4),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,338,2,98,3,11:21 PM,9:51,MISS Nurkic 4' Cutting Layup Shot,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,339,4,0,3,11:21 PM,9:50,,,Porter Jr. REBOUND (Off:2 Def:2),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,340,6,2,3,11:21 PM,9:46,Sharpe S.FOUL (P2.T1) (M.Davis),,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200080,342,3,11,3,11:21 PM,9:46,,,MISS Porter Jr. Free Throw 1 of 2,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,343,4,1,3,11:21 PM,9:46,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200080,344,3,12,3,11:21 PM,9:46,,,Porter Jr. Free Throw 2 of 2 (11 PTS),63 - 71,8,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,346,6,4,3,11:22 PM,9:35,Grant OFF.Foul (P1) (J.Butler),,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200080,348,5,37,3,11:22 PM,9:35,Grant Offensive Foul Turnover (P3.T8),,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0022200080,349,2,101,3,11:22 PM,9:15,,,MISS Smith Jr. 4' Driving Floating Jump Shot,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,350,4,0,3,11:22 PM,9:14,Hart REBOUND (Off:1 Def:4),,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,351,2,41,3,11:22 PM,9:10,MISS Hart 2' Running Layup,,Gordon BLOCK (1 BLK),,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,1
+0022200080,353,4,0,3,11:22 PM,9:10,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200080,355,1,79,3,11:23 PM,9:03,,,Green 14' Pullup Jump Shot (10 PTS),65 - 71,6,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,356,9,1,3,11:23 PM,9:02,TRAIL BLAZERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200080,357,8,0,3,11:25 PM,9:02,SUB: Eubanks FOR Sharpe,,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200080,358,8,0,3,11:25 PM,9:02,SUB: Winslow FOR Nurkic,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200080,361,1,98,3,11:26 PM,8:47,Hart 1' Cutting Layup Shot (7 PTS) (Winslow 5 AST),,,65 - 73,8,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200080,363,1,6,3,11:26 PM,8:31,,,Sengun 3' Driving Layup (5 PTS),67 - 73,6,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,364,6,1,3,11:26 PM,8:20,,,Smith Jr. P.FOUL (P2.T1) (T.Maddox),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200080,366,6,2,3,11:27 PM,8:09,,,Gordon S.FOUL (P1.T2) (J.Butler),,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200080,368,3,11,3,11:27 PM,8:09,Winslow Free Throw 1 of 2 (1 PTS),,,67 - 74,7,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,369,3,12,3,11:27 PM,8:09,MISS Winslow Free Throw 2 of 2,,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,370,4,0,3,11:27 PM,8:07,,,Porter Jr. REBOUND (Off:2 Def:3),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,371,1,58,3,11:28 PM,7:48,,,Sengun 3' Turnaround Hook Shot (7 PTS),69 - 74,5,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,372,1,101,3,11:28 PM,7:27,Winslow 8' Driving Floating Jump Shot (3 PTS) (Hart 3 AST),,,69 - 76,7,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200080,374,5,45,3,11:28 PM,7:17,,,Porter Jr. Out of Bounds - Bad Pass Turnover Turnover (P4.T13),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200080,375,2,79,3,11:29 PM,7:00,MISS Simons 27' 3PT Pullup Jump Shot,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,376,4,0,3,11:29 PM,6:55,,,Green REBOUND (Off:0 Def:4),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,377,2,79,3,11:29 PM,6:47,,,MISS Green 11' Pullup Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,378,4,0,3,11:29 PM,6:47,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200080,379,6,3,3,11:29 PM,6:47,Grant L.B.FOUL (P2.T2) (T.Maddox),,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200080,381,6,2,3,11:30 PM,6:34,Eubanks S.FOUL (P2.T3) (J.Butler),,,,,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200080,383,3,11,3,11:30 PM,6:34,,,Smith Jr. Free Throw 1 of 2 (8 PTS),70 - 76,6,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,384,8,0,3,11:30 PM,6:34,SUB: Nurkic FOR Eubanks,,,,,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200080,386,3,12,3,11:31 PM,6:34,,,Smith Jr. Free Throw 2 of 2 (9 PTS),71 - 76,5,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,387,2,1,3,11:31 PM,6:23,MISS Simons 26' 3PT Jump Shot,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,388,4,0,3,11:31 PM,6:21,Hart REBOUND (Off:2 Def:4),,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,389,1,1,3,11:31 PM,6:15,Grant 3PT Jump Shot (7 PTS) (Nurkic 1 AST),,,71 - 79,8,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200080,391,2,1,3,11:31 PM,6:04,,,MISS Green 3PT Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,392,4,0,3,11:31 PM,6:00,Grant REBOUND (Off:1 Def:3),,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,393,2,41,3,11:31 PM,5:56,MISS Nurkic 1' Running Layup,,Sengun BLOCK (2 BLK),,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1
+0022200080,402,4,0,3,11:31 PM,5:56,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200080,395,8,0,3,11:32 PM,5:56,,,SUB: Martin Jr. FOR Gordon,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200080,396,8,0,3,11:32 PM,5:56,,,SUB: Tate FOR Sengun,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200080,399,10,0,3,11:32 PM,5:53,Jump Ball Nurkic vs. Tate: Tip to Martin Jr.,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,1
+0022200080,403,2,1,3,11:32 PM,5:39,,,MISS Smith Jr. 24' 3PT Jump Shot,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,404,4,0,3,11:32 PM,5:37,Nurkic REBOUND (Off:1 Def:5),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,405,1,71,3,11:33 PM,5:19,Nurkic 2' Finger Roll Layup (14 PTS),,,71 - 81,10,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,406,6,2,3,11:33 PM,5:05,Nurkic S.FOUL (P2.T4) (T.Maddox),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200080,408,3,11,3,11:33 PM,5:05,,,Tate Free Throw 1 of 2 (5 PTS),72 - 81,9,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,412,3,12,3,11:33 PM,5:05,,,MISS Tate Free Throw 2 of 2,,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,409,8,0,3,11:33 PM,5:05,,,SUB: Nix FOR Porter Jr.,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200080,413,4,0,3,11:33 PM,5:03,Nurkic REBOUND (Off:1 Def:6),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,414,1,1,3,11:34 PM,4:50,Winslow 25' 3PT Jump Shot (6 PTS) (Simons 4 AST),,,72 - 84,12,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200080,416,1,52,3,11:35 PM,4:41,,,Martin Jr. 1' Alley Oop Dunk (11 PTS) (Tate 6 AST),74 - 84,10,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200080,418,1,44,3,11:35 PM,4:27,Grant 1' Reverse Layup (9 PTS) (Simons 5 AST),,,74 - 86,12,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200080,420,6,2,3,11:35 PM,4:27,,,Tate S.FOUL (P2.T3) (T.Maddox),,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200080,422,8,0,3,11:35 PM,4:27,,,SUB: Eason FOR Smith Jr.,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200080,424,3,10,3,11:36 PM,4:27,Grant Free Throw 1 of 1 (10 PTS),,,74 - 87,13,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,425,2,47,3,11:36 PM,4:10,Nurkic BLOCK (2 BLK),,MISS Martin Jr. 2' Turnaround Jump Shot,,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,1
+0022200080,427,4,0,3,11:36 PM,4:07,,,Eason REBOUND (Off:1 Def:2),,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,428,1,3,3,11:36 PM,4:06,,,Eason 2' Hook Shot (4 PTS),76 - 87,11,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,430,5,2,3,11:37 PM,3:40,Winslow Lost Ball Turnover (P1.T9),,Eason STEAL (1 STL),,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200080,432,5,1,3,11:37 PM,3:30,,,Green Bad Pass Turnover (P1.T14),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,433,6,3,3,11:37 PM,3:30,,,Tate L.B.FOUL (P3.T4) (J.Butler),,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200080,435,2,1,3,11:37 PM,3:22,MISS Grant 28' 3PT Jump Shot,,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,436,4,0,3,11:37 PM,3:19,,,Martin Jr. REBOUND (Off:0 Def:3),,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,437,2,79,3,11:38 PM,3:10,,,MISS Green 19' Pullup Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,438,4,0,3,11:38 PM,3:06,,,Martin Jr. REBOUND (Off:1 Def:3),,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,439,2,78,3,11:38 PM,3:06,Grant BLOCK (1 BLK),,MISS Martin Jr. 3' Floating Jump Shot,,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,1
+0022200080,441,4,0,3,11:38 PM,3:04,Winslow REBOUND (Off:1 Def:1),,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,442,1,41,3,11:38 PM,2:58,Hart 3' Running Layup (9 PTS) (Grant 4 AST),,,76 - 89,13,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200080,444,9,1,3,11:38 PM,2:51,,,Rockets Timeout: Regular (Reg.3 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200080,445,8,0,3,11:40 PM,2:51,SUB: Johnson FOR Simons,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200080,446,8,0,3,11:40 PM,2:51,SUB: Sharpe FOR Grant,,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200080,447,8,0,3,11:40 PM,2:51,SUB: Little FOR Hart,,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200080,448,8,0,3,11:40 PM,2:51,,,SUB: Gordon FOR Green,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200080,453,2,1,3,11:41 PM,2:43,,,MISS Tate 24' 3PT Jump Shot,,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,454,4,0,3,11:41 PM,2:40,Johnson REBOUND (Off:0 Def:1),,,,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,455,2,1,3,11:41 PM,2:20,MISS Johnson 25' 3PT Jump Shot,,,,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,456,4,0,3,11:41 PM,2:19,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200080,457,6,3,3,11:41 PM,2:19,Nurkic L.B.FOUL (P3.PN) (M.Davis),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200080,459,3,11,3,11:42 PM,2:19,,,Tate Free Throw 1 of 2 (6 PTS),77 - 89,12,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,460,3,12,3,11:42 PM,2:19,,,Tate Free Throw 2 of 2 (7 PTS),78 - 89,11,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,461,1,63,3,11:43 PM,2:10,Sharpe 18' Fadeaway Jumper (12 PTS) (Winslow 6 AST),,,78 - 91,13,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200080,462,1,6,3,11:43 PM,1:54,,,Tate 2' Driving Layup (9 PTS),80 - 91,11,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,463,1,7,3,11:43 PM,1:36,Nurkic Dunk (16 PTS),,,80 - 93,13,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,464,2,1,3,11:44 PM,1:17,,,MISS Tate 24' 3PT Jump Shot,,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,465,4,0,3,11:44 PM,1:14,Winslow REBOUND (Off:1 Def:2),,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,466,6,2,3,11:44 PM,1:06,,,Tate S.FOUL (P4.PN) (J.Butler),,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200080,468,3,11,3,11:44 PM,1:06,Winslow Free Throw 1 of 2 (7 PTS),,,80 - 94,14,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,469,8,0,3,11:44 PM,1:06,,,SUB: Sengun FOR Tate,,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200080,471,3,12,3,11:44 PM,1:06,MISS Winslow Free Throw 2 of 2,,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,472,4,0,3,11:44 PM,1:03,,,Sengun REBOUND (Off:1 Def:3),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,473,5,1,3,11:45 PM,0:55,Winslow STEAL (2 STL),,Gordon Bad Pass Turnover (P5.T15),,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200080,475,5,1,3,11:45 PM,0:49,Little Bad Pass Turnover (P1.T10),,Nix STEAL (1 STL),,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200080,477,2,75,3,11:45 PM,0:41,,,MISS Eason 3' Driving Finger Roll Layup,,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,478,4,0,3,11:45 PM,0:39,Winslow REBOUND (Off:1 Def:3),,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,479,1,41,3,11:45 PM,0:34,Johnson 1' Running Layup (8 PTS) (Winslow 7 AST),,,80 - 96,16,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200080,480,6,1,3,11:45 PM,0:25,Johnson P.FOUL (P1.PN) (T.Maddox),,,,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200080,482,3,11,3,11:46 PM,0:25,,,Gordon Free Throw 1 of 2 (9 PTS),81 - 96,15,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,487,3,12,3,11:46 PM,0:25,,,Gordon Free Throw 2 of 2 (10 PTS),82 - 96,14,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,483,8,0,3,11:46 PM,0:25,SUB: Simons FOR Johnson,,,,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200080,484,8,0,3,11:46 PM,0:25,,,SUB: Garuba FOR Sengun,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200080,488,2,47,3,11:47 PM,0:01,MISS Winslow 3PT Turnaround Jump Shot,,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,489,4,0,3,11:47 PM,0:01,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200080,490,5,11,3,11:47 PM,0:01,TRAIL BLAZERS Turnover: Shot Clock (T#11),,,,,2,1610612757,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200080,493,2,1,3,11:47 PM,0:01,,,MISS Nix 59' 3PT Jump Shot,,,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,494,4,0,3,11:47 PM,0:01,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200080,492,13,0,3,11:47 PM,0:00,,End of 3rd Period (11:47 PM EST),,82 - 96,14,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200080,503,12,0,4,11:50 PM,12:00,,Start of 4th Period (11:50 PM EST),,82 - 96,14,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200080,504,2,1,4,11:50 PM,11:45,,,MISS Smith Jr. 26' 3PT Jump Shot,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,505,4,0,4,11:50 PM,11:42,Nurkic REBOUND (Off:1 Def:7),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,507,5,1,4,11:50 PM,11:25,Nurkic Bad Pass Turnover (P3.T12),,Porter Jr. STEAL (3 STL),,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200080,509,2,50,4,11:51 PM,11:20,,,MISS Eason 1' Running Dunk,,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,510,4,0,4,11:51 PM,11:19,Nurkic REBOUND (Off:1 Def:8),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,511,2,103,4,11:51 PM,11:14,MISS Sharpe 27' 3PT Running Pull-Up Jump Shot,,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,512,4,0,4,11:51 PM,11:14,Winslow REBOUND (Off:2 Def:3),,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,513,2,97,4,11:51 PM,11:11,MISS Winslow Tip Layup Shot,,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,514,4,0,4,11:51 PM,11:11,Nurkic REBOUND (Off:2 Def:8),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,515,6,2,4,11:51 PM,11:11,,,Smith Jr. S.FOUL (P3.T1) (T.Maddox),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200080,517,3,11,4,11:51 PM,11:11,Nurkic Free Throw 1 of 2 (17 PTS),,,82 - 97,15,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,518,3,12,4,11:51 PM,11:11,Nurkic Free Throw 2 of 2 (18 PTS),,,82 - 98,16,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,519,1,1,4,11:52 PM,11:00,,,Gordon 32' 3PT Jump Shot (13 PTS) (Mathews 1 AST),85 - 98,13,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200080,521,5,6,4,11:52 PM,10:40,Winslow Double Dribble Turnover (P2.T13),,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0022200080,522,2,6,4,11:52 PM,10:29,Winslow BLOCK (1 BLK),,MISS Gordon 2' Driving Layup,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,1
+0022200080,523,4,0,4,11:52 PM,10:27,Little REBOUND (Off:0 Def:3),,,,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,524,1,106,4,11:53 PM,10:24,Sharpe Running Alley Oop Dunk Shot (14 PTS) (Little 2 AST),,,85 - 100,15,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200080,526,1,75,4,11:53 PM,10:08,,,Porter Jr. 1' Driving Finger Roll Layup (13 PTS),87 - 100,13,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,527,5,2,4,11:53 PM,9:56,Winslow Lost Ball Turnover (P3.T14),,Gordon STEAL (1 STL),,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200080,530,2,103,4,11:53 PM,9:52,,,MISS Porter Jr. 29' 3PT Running Pull-Up Jump Shot,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,531,4,0,4,11:53 PM,9:50,Nurkic REBOUND (Off:2 Def:9),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,532,6,1,4,11:53 PM,9:43,,,Eason P.FOUL (P1.T2) (M.Davis),,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200080,534,8,0,4,11:53 PM,9:43,SUB: Simons FOR Winslow,,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200080,536,8,0,4,11:54 PM,9:43,SUB: Hart FOR Johnson,,,,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200080,538,1,5,4,11:54 PM,9:34,Nurkic 1' Layup (20 PTS),,,87 - 102,15,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,539,2,101,4,11:54 PM,9:24,Nurkic BLOCK (3 BLK),,MISS Porter Jr. 3' Driving Floating Jump Shot,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,1
+0022200080,541,4,0,4,11:54 PM,9:22,Simons REBOUND (Off:0 Def:4),,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,542,2,2,4,11:54 PM,9:17,MISS Sharpe 13' Running Jump Shot,,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,543,4,0,4,11:54 PM,9:15,,,Smith Jr. REBOUND (Off:0 Def:2),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,544,1,2,4,11:55 PM,9:09,,,Gordon 28' 3PT Running Jump Shot (16 PTS) (Smith Jr. 1 AST),90 - 102,12,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200080,546,2,1,4,11:55 PM,8:47,MISS Little 28' 3PT Jump Shot,,,,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,547,4,0,4,11:55 PM,8:45,Nurkic REBOUND (Off:3 Def:9),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,548,1,57,4,11:55 PM,8:40,Nurkic 5' Driving Hook Shot (22 PTS),,,90 - 104,14,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,549,1,1,4,11:55 PM,8:28,,,Smith Jr. 28' 3PT Jump Shot (12 PTS) (Porter Jr. 4 AST),93 - 104,11,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200080,550,1,1,4,11:55 PM,8:17,Nurkic 26' 3PT Jump Shot (25 PTS) (Little 3 AST),,,93 - 107,14,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200080,552,2,75,4,11:56 PM,8:01,,,MISS Smith Jr. 3' Driving Finger Roll Layup,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,553,4,0,4,11:56 PM,8:00,Nurkic REBOUND (Off:3 Def:10),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,554,2,1,4,11:56 PM,7:48,MISS Hart 25' 3PT Jump Shot,,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,555,4,0,4,11:56 PM,7:47,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200080,558,8,0,4,11:56 PM,7:47,,,SUB: Sengun FOR Gordon,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200080,560,8,0,4,11:56 PM,7:47,,,SUB: Tate FOR Eason,,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200080,562,2,1,4,11:57 PM,7:35,,,MISS Mathews 25' 3PT Jump Shot,,,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,563,4,0,4,11:57 PM,7:32,,,Sengun REBOUND (Off:3 Def:3),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,564,2,97,4,11:57 PM,7:32,,,MISS Sengun Tip Layup Shot,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,565,4,0,4,11:57 PM,7:32,,,Sengun REBOUND (Off:3 Def:3),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,580,2,97,4,11:57 PM,7:30,,,MISS Sengun 4' Tip Layup Shot,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,581,4,0,4,11:57 PM,7:30,,,Sengun REBOUND (Off:4 Def:3),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,566,1,97,4,11:57 PM,7:29,,,Sengun 1' Tip Layup Shot (9 PTS),95 - 107,12,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,567,6,4,4,11:57 PM,7:15,Hart OFF.Foul (P1) (T.Maddox),,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200080,569,5,37,4,11:57 PM,7:15,Hart Offensive Foul Turnover (P1.T15),,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0022200080,570,8,0,4,11:57 PM,7:15,SUB: Grant FOR Little,,,,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200080,572,6,2,4,11:58 PM,7:00,Sharpe S.FOUL (P3.T1) (T.Maddox),,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200080,574,3,13,4,11:58 PM,7:00,,,Mathews Free Throw 1 of 3 (1 PTS),96 - 107,11,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,575,3,14,4,11:58 PM,7:00,,,Mathews Free Throw 2 of 3 (2 PTS),97 - 107,10,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,576,3,15,4,11:58 PM,7:00,,,Mathews Free Throw 3 of 3 (3 PTS),98 - 107,9,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,577,6,1,4,11:59 PM,6:45,,,Tate P.FOUL (P5.T3) (J.Butler),,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200080,579,9,1,4,11:59 PM,6:45,TRAIL BLAZERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200080,582,8,0,4,12:01 AM,6:45,SUB: Eubanks FOR Nurkic,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200080,583,8,0,4,12:01 AM,6:45,,,SUB: Green FOR Tate,,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200080,586,1,1,4,12:02 AM,6:40,Grant 26' 3PT Jump Shot (13 PTS) (Simons 6 AST),,,98 - 110,12,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200080,588,6,2,4,12:02 AM,6:40,,,Smith Jr. S.FOUL (P4.T4) (J.Butler),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200080,590,3,10,4,12:03 AM,6:40,MISS Grant Free Throw 1 of 1,,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,591,4,0,4,12:03 AM,6:38,,,Green REBOUND (Off:0 Def:5),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,592,1,6,4,12:03 AM,6:28,,,Sengun 3' Driving Layup (11 PTS) (Mathews 2 AST),100 - 110,10,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200080,593,6,2,4,12:03 AM,6:28,Eubanks S.FOUL (P3.T2) (J.Butler),,,,,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200080,595,3,10,4,12:04 AM,6:28,,,Sengun Free Throw 1 of 1 (12 PTS),101 - 110,9,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,596,1,75,4,12:04 AM,6:08,Grant 1' Driving Finger Roll Layup (15 PTS),,,101 - 112,11,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,597,1,75,4,12:04 AM,5:51,,,Porter Jr. 1' Driving Finger Roll Layup (15 PTS),103 - 112,9,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,598,2,80,4,12:05 AM,5:25,MISS Simons 27' 3PT Step Back Jump Shot,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,599,4,0,4,12:05 AM,5:22,,,Sengun REBOUND (Off:4 Def:4),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,600,6,1,4,12:05 AM,5:15,Simons P.FOUL (P3.T3) (M.Davis),,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200080,603,6,2,4,12:06 AM,5:06,Eubanks S.FOUL (P4.T4) (M.Davis),,,,,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200080,605,3,11,4,12:06 AM,5:06,,,Porter Jr. Free Throw 1 of 2 (16 PTS),104 - 112,8,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,606,3,12,4,12:06 AM,5:06,,,MISS Porter Jr. Free Throw 2 of 2,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,607,4,0,4,12:06 AM,5:05,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200080,608,6,3,4,12:07 AM,5:05,,,Sengun L.B.FOUL (P3.PN) (J.Butler),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200080,610,3,11,4,12:08 AM,5:05,Eubanks Free Throw 1 of 2 (9 PTS),,,104 - 113,9,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,611,8,0,4,12:08 AM,5:05,,,SUB: Tate FOR Sengun,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200080,613,3,12,4,12:08 AM,5:05,Eubanks Free Throw 2 of 2 (10 PTS),,,104 - 114,10,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,614,2,80,4,12:08 AM,4:50,,,MISS Porter Jr. 19' Step Back Jump Shot,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,615,4,0,4,12:08 AM,4:47,Grant REBOUND (Off:1 Def:4),,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,616,2,41,4,12:08 AM,4:42,MISS Grant 1' Running Layup,,Porter Jr. BLOCK (1 BLK),,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,1
+0022200080,618,4,0,4,12:08 AM,4:37,,,Green REBOUND (Off:0 Def:6),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,619,6,2,4,12:09 AM,4:36,Sharpe S.FOUL (P4.PN) (J.Butler),,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200080,621,3,11,4,12:09 AM,4:36,,,Green Free Throw 1 of 2 (11 PTS),105 - 114,9,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,622,8,0,4,12:09 AM,4:36,SUB: Nurkic FOR Sharpe,,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200080,623,8,0,4,12:09 AM,4:36,SUB: Winslow FOR Eubanks,,,,,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200080,624,8,0,4,12:09 AM,4:36,,,SUB: Martin Jr. FOR Smith Jr.,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200080,628,3,12,4,12:09 AM,4:36,,,MISS Green Free Throw 2 of 2,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,629,4,0,4,12:09 AM,4:34,Nurkic REBOUND (Off:3 Def:11),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,630,2,79,4,12:10 AM,4:19,MISS Simons 27' 3PT Pullup Jump Shot,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,631,4,0,4,12:10 AM,4:19,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200080,633,2,57,4,12:10 AM,4:09,,,MISS Tate 4' Driving Hook Shot,,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,634,4,0,4,12:10 AM,4:08,Hart REBOUND (Off:2 Def:5),,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,635,6,2,4,12:10 AM,3:57,,,Tate S.FOUL (P6.PN) (M.Davis),,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200080,637,8,0,4,12:11 AM,3:57,,,SUB: Sengun FOR Tate,,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200080,639,8,0,4,12:11 AM,3:57,,,SUB: Gordon FOR Mathews,,,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200080,641,3,11,4,12:11 AM,3:57,Simons Free Throw 1 of 2 (24 PTS),,,105 - 115,10,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,642,3,12,4,12:12 AM,3:57,Simons Free Throw 2 of 2 (25 PTS),,,105 - 116,11,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,643,2,1,4,12:12 AM,3:37,,,MISS Porter Jr. 25' 3PT Jump Shot,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,644,4,0,4,12:12 AM,3:33,Nurkic REBOUND (Off:3 Def:12),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,645,1,7,4,12:12 AM,3:18,Nurkic 1' Dunk (27 PTS),,,105 - 118,13,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,646,9,1,4,12:13 AM,3:13,,,Rockets Timeout: Regular (Reg.4 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200080,647,8,0,4,12:14 AM,3:13,,,SUB: Smith Jr. FOR Martin Jr.,,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200080,649,2,1,4,12:16 AM,3:00,,,MISS Gordon 25' 3PT Jump Shot,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,650,4,0,4,12:16 AM,2:56,,,Sengun REBOUND (Off:5 Def:4),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,651,2,97,4,12:16 AM,2:56,,,MISS Sengun Tip Layup Shot,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,652,4,0,4,12:16 AM,2:55,,,Sengun REBOUND (Off:6 Def:4),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,653,1,97,4,12:16 AM,2:55,,,Sengun Tip Layup Shot (14 PTS),107 - 118,11,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,654,5,1,4,12:16 AM,2:41,Nurkic Bad Pass Turnover (P4.T16),,Green STEAL (1 STL),,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200080,656,2,41,4,12:16 AM,2:35,Simons BLOCK (1 BLK),,MISS Green 3' Running Layup,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,1
+0022200080,658,4,0,4,12:16 AM,2:33,Hart REBOUND (Off:2 Def:6),,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,659,2,6,4,12:16 AM,2:23,MISS Simons 2' Driving Layup,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,660,4,0,4,12:16 AM,2:23,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200080,662,1,78,4,12:17 AM,2:05,,,Gordon 11' Floating Jump Shot (18 PTS),109 - 118,9,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,664,2,57,4,12:17 AM,1:46,MISS Nurkic 3' Driving Hook Shot,,Sengun BLOCK (3 BLK),,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1
+0022200080,666,4,0,4,12:17 AM,1:46,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200080,668,2,86,4,12:18 AM,1:40,MISS Grant 10' Turnaround Fadeaway Shot,,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,669,4,0,4,12:18 AM,1:37,,,Sengun REBOUND (Off:6 Def:5),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,670,2,80,4,12:18 AM,1:24,,,MISS Green 3PT Step Back Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,671,4,0,4,12:18 AM,1:23,,,Porter Jr. REBOUND (Off:3 Def:3),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,672,10,0,4,12:19 AM,1:20,Jump Ball Winslow vs. Porter Jr.: Tip to Hart,,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0
+0022200080,675,5,2,4,12:19 AM,1:20,Winslow STEAL (3 STL),,Porter Jr. Lost Ball Turnover (P5.T16),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200080,677,1,106,4,12:19 AM,1:18,Simons 1' Running Alley Oop Dunk Shot (27 PTS) (Hart 4 AST),,,109 - 120,11,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200080,679,2,80,4,12:19 AM,1:13,,,MISS Porter Jr. 27' 3PT Step Back Jump Shot,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,680,4,0,4,12:19 AM,1:09,Winslow REBOUND (Off:2 Def:4),,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,681,1,6,4,12:19 AM,0:58,Simons 1' Driving Layup (29 PTS),,,109 - 122,13,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,682,6,2,4,12:19 AM,0:58,,,Sengun S.FOUL (P4.PN) (T.Maddox),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200080,684,9,1,4,12:20 AM,0:58,,,Rockets Timeout: Regular (Reg.5 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200080,685,18,4,4,12:20 AM,0:58,,Instant Replay4th Period (12:20 AM EST),,109 - 122,13,0,682,Bob Sura,,,,,0,0,,,,,,1,0,,,,,,0
+0022200080,686,8,0,4,12:22 AM,0:58,SUB: Little FOR Grant,,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200080,687,8,0,4,12:22 AM,0:58,SUB: Johnson FOR Hart,,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200080,688,8,0,4,12:22 AM,0:58,SUB: Walker FOR Winslow,,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,4,1631133,Jabari Walker,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200080,689,8,0,4,12:22 AM,0:58,SUB: Brown III FOR Nurkic,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,4,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200080,690,8,0,4,12:22 AM,0:58,,,SUB: Martin Jr. FOR Porter Jr.,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200080,691,8,0,4,12:22 AM,0:58,,,SUB: Nix FOR Green,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200080,692,8,0,4,12:22 AM,0:58,,,SUB: Mathews FOR Gordon,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200080,693,8,0,4,12:22 AM,0:58,,,SUB: Eason FOR Sengun,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200080,694,8,0,4,12:22 AM,0:58,,,SUB: Christopher FOR Smith Jr.,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200080,704,3,10,4,12:22 AM,0:58,Simons Free Throw 1 of 1 (30 PTS),,,109 - 123,14,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,705,1,47,4,12:22 AM,0:43,,,Christopher 14' Turnaround Jump Shot (2 PTS),111 - 123,12,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,706,2,1,4,12:23 AM,0:26,MISS Walker 27' 3PT Jump Shot,,,,,4,1631133,Jabari Walker,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,707,4,0,4,12:23 AM,0:21,Simons REBOUND (Off:1 Def:4),,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,708,2,97,4,12:23 AM,0:21,MISS Simons Tip Layup Shot,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200080,709,4,0,4,12:23 AM,0:20,,,Mathews REBOUND (Off:0 Def:1),,,5,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200080,710,5,1,4,12:23 AM,0:07,Johnson STEAL (2 STL),,Christopher Bad Pass Turnover (P1.T17),,,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200080,712,1,50,4,12:23 AM,0:04,Brown III 1' Running Dunk (2 PTS) (Simons 7 AST),,,111 - 125,14,4,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200080,714,13,0,4,12:23 AM,0:00,,End of 4th Period (12:23 AM EST),,111 - 125,14,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

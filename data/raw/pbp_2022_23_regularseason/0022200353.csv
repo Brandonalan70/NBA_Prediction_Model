@@ -1,0 +1,508 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200353,2,12,0,1,7:11 PM,12:00,,Start of 1st Period (7:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200353,4,10,0,1,7:11 PM,12:00,Jump Ball Bol vs. Portis: Tip to Fultz,,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,1
+0022200353,7,5,1,1,7:11 PM,11:41,M. Wagner Bad Pass Turnover (P1.T1),,G. Antetokounmpo STEAL (1 STL),,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,9,5,45,1,7:11 PM,11:40,,,Nwora Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0022200353,10,1,1,1,7:12 PM,11:24,Fultz 27' 3PT Jump Shot (3 PTS) (F. Wagner 1 AST),,,0 - 3,3,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200353,12,1,1,1,7:12 PM,11:07,,,Nwora 3PT Jump Shot (3 PTS) (Portis 1 AST),3 - 3,TIE,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,14,1,9,1,7:12 PM,10:51,Bol 1' Driving Dunk (2 PTS) (M. Wagner 1 AST),,,3 - 5,2,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200353,16,2,1,1,7:13 PM,10:37,,,MISS Portis 21' Jump Shot,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,17,4,0,1,7:13 PM,10:37,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200353,18,1,98,1,7:13 PM,10:36,,,Middleton 1' Cutting Layup Shot (2 PTS) (Holiday 1 AST),5 - 5,TIE,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,20,6,2,1,7:13 PM,10:36,Fultz S.FOUL (P1.T1) (E.Dalen),,,,,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200353,22,3,10,1,7:13 PM,10:36,,,MISS Middleton Free Throw 1 of 1,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,23,4,0,1,7:13 PM,10:35,M. Wagner REBOUND (Off:0 Def:1),,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,26,2,79,1,7:14 PM,10:19,MISS Fultz 12' Pullup Jump Shot,,,,,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,27,4,0,1,7:14 PM,10:19,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200353,28,2,1,1,7:14 PM,10:16,MISS M. Wagner 27' 3PT Jump Shot,,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,29,4,0,1,7:14 PM,10:16,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200353,31,2,1,1,7:15 PM,10:04,MISS M. Wagner 26' 3PT Jump Shot,,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,32,4,0,1,7:15 PM,10:02,,,G. Antetokounmpo REBOUND (Off:0 Def:1),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,33,2,80,1,7:15 PM,9:53,,,MISS Holiday 26' 3PT Step Back Jump Shot,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,34,4,0,1,7:15 PM,9:49,F. Wagner REBOUND (Off:0 Def:1),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,35,2,103,1,7:15 PM,9:47,MISS F. Wagner 28' 3PT Running Pull-Up Jump Shot,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,36,4,0,1,7:15 PM,9:44,Banchero REBOUND (Off:1 Def:0),,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,37,5,1,1,7:15 PM,9:37,Bol Bad Pass Turnover (P1.T2),,Middleton STEAL (1 STL),,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,39,6,4,1,7:15 PM,9:34,,,G. Antetokounmpo OFF.Foul (P1) (B.Forte),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200353,41,5,37,1,7:15 PM,9:34,,,G. Antetokounmpo Offensive Foul Turnover (P1.T2),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0022200353,42,1,6,1,7:16 PM,9:21,F. Wagner 2' Driving Layup (2 PTS) (Fultz 1 AST),,,5 - 7,2,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200353,44,6,2,1,7:16 PM,9:21,,,Portis S.FOUL (P1.T1) (B.Forte),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200353,46,3,10,1,7:16 PM,9:21,F. Wagner Free Throw 1 of 1 (3 PTS),,,5 - 8,3,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,47,5,4,1,7:16 PM,9:10,,,G. Antetokounmpo Traveling Turnover (P2.T3),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0022200353,48,1,98,1,7:17 PM,8:59,M. Wagner 3' Cutting Layup Shot (2 PTS) (Fultz 2 AST),,,5 - 10,5,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200353,50,6,2,1,7:17 PM,8:59,,,Portis S.FOUL (P2.T2) (N.Green),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200353,52,8,0,1,7:17 PM,8:59,,,SUB: Connaughton FOR Portis,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,54,3,10,1,7:18 PM,8:59,M. Wagner Free Throw 1 of 1 (3 PTS),,,5 - 11,6,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,55,7,1,1,7:18 PM,8:58,,,Bucks Violation: Delay of game Violation,,,3,1610612749,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200353,56,6,4,1,7:18 PM,8:48,,,Holiday OFF.Foul (P1) (B.Forte),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200353,58,5,37,1,7:18 PM,8:48,,,Holiday Offensive Foul Turnover (P1.T4),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0022200353,59,2,79,1,7:18 PM,8:40,MISS Banchero 27' 3PT Pullup Jump Shot,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,60,4,0,1,7:18 PM,8:35,,,G. Antetokounmpo REBOUND (Off:0 Def:2),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,61,1,103,1,7:18 PM,8:31,,,G. Antetokounmpo 18' Running Pull-Up Jump Shot (2 PTS),7 - 11,4,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,62,2,6,1,7:19 PM,8:20,MISS Fultz 3' Driving Layup,,,,,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,63,4,0,1,7:19 PM,8:20,,,G. Antetokounmpo REBOUND (Off:0 Def:3),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,65,5,2,1,7:19 PM,8:08,M. Wagner STEAL (1 STL),,Holiday Lost Ball Turnover (P2.T5),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200353,67,1,98,1,7:19 PM,7:59,M. Wagner 2' Cutting Layup Shot (5 PTS) (F. Wagner 2 AST),,,7 - 13,6,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200353,69,9,1,1,7:19 PM,7:59,,,Bucks Timeout: Regular (Reg.1 Short 0),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200353,70,8,0,1,7:22 PM,7:59,,,SUB: Carter FOR Nwora,,,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,72,6,2,1,7:22 PM,7:55,Bol S.FOUL (P1.T2) (E.Dalen),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200353,74,3,11,1,7:23 PM,7:55,,,G. Antetokounmpo Free Throw 1 of 2 (3 PTS),8 - 13,5,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,75,3,12,1,7:23 PM,7:55,,,G. Antetokounmpo Free Throw 2 of 2 (4 PTS),9 - 13,4,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,76,5,40,1,7:24 PM,7:35,Fultz Out of Bounds Lost Ball Turnover (P1.T3),,,,,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022200353,77,8,0,1,7:24 PM,7:35,,,SUB: Mamukelashvili FOR Middleton,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,5,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,79,2,1,1,7:24 PM,7:24,,,MISS Mamukelashvili 26' 3PT Jump Shot,,,5,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,80,4,0,1,7:24 PM,7:19,Banchero REBOUND (Off:1 Def:1),,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,81,5,2,1,7:24 PM,7:11,Banchero Lost Ball Turnover (P1.T4),,Holiday STEAL (1 STL),,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,83,6,2,1,7:25 PM,7:07,F. Wagner S.FOUL (P1.T3) (N.Green),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200353,85,3,11,1,7:25 PM,7:07,,,Holiday Free Throw 1 of 2 (1 PTS),10 - 13,3,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,86,3,12,1,7:25 PM,7:07,,,Holiday Free Throw 2 of 2 (2 PTS),11 - 13,2,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,87,2,80,1,7:26 PM,6:43,MISS Fultz 27' 3PT Step Back Jump Shot,,,,,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,88,4,0,1,7:26 PM,6:39,,,Holiday REBOUND (Off:0 Def:1),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,89,1,1,1,7:26 PM,6:26,,,G. Antetokounmpo 26' 3PT Jump Shot (7 PTS) (Holiday 2 AST),14 - 13,-1,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,91,2,79,1,7:26 PM,6:06,MISS Banchero 16' Pullup Jump Shot,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,92,4,0,1,7:26 PM,6:03,,,G. Antetokounmpo REBOUND (Off:0 Def:4),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,93,2,79,1,7:27 PM,5:45,,,MISS G. Antetokounmpo 27' 3PT Pullup Jump Shot,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,94,4,0,1,7:27 PM,5:40,,,Holiday REBOUND (Off:1 Def:1),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,95,2,1,1,7:27 PM,5:38,,,MISS Carter 26' 3PT Jump Shot,,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,96,4,0,1,7:27 PM,5:37,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200353,98,8,0,1,7:27 PM,5:37,SUB: Anthony FOR F. Wagner,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200353,99,8,0,1,7:27 PM,5:37,,,SUB: Hill FOR Holiday,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,5,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,102,6,2,1,7:27 PM,5:26,,,Mamukelashvili S.FOUL (P1.T3) (N.Green),,,5,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200353,104,3,11,1,7:28 PM,5:26,Banchero Free Throw 1 of 2 (1 PTS),,,14 - 14,TIE,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,105,8,0,1,7:28 PM,5:26,SUB: Houstan FOR Bol,,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200353,107,3,12,1,7:28 PM,5:26,Banchero Free Throw 2 of 2 (2 PTS),,,14 - 15,1,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,108,2,80,1,7:28 PM,5:11,,,MISS Connaughton 26' 3PT Step Back Jump Shot,,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,109,4,0,1,7:28 PM,5:08,M. Wagner REBOUND (Off:0 Def:2),,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,110,1,44,1,7:29 PM,4:54,M. Wagner 1' Reverse Layup (7 PTS) (Banchero 1 AST),,,14 - 17,3,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200353,112,2,1,1,7:29 PM,4:41,,,MISS Connaughton 25' 3PT Jump Shot,,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,113,4,0,1,7:29 PM,4:39,Banchero REBOUND (Off:1 Def:2),,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,114,5,1,1,7:29 PM,4:30,Banchero Bad Pass Turnover (P2.T5),,Connaughton STEAL (1 STL),,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,116,1,50,1,7:29 PM,4:28,,,G. Antetokounmpo 2' Running Dunk (9 PTS) (Mamukelashvili 1 AST),16 - 17,1,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,118,9,1,1,7:29 PM,4:28,MAGIC Timeout: Regular (Full 1 Short 0),,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200353,119,1,6,1,7:32 PM,4:08,Fultz 3' Driving Layup (5 PTS) (Banchero 2 AST),,,16 - 19,3,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200353,121,2,75,1,7:33 PM,3:45,,,MISS Connaughton 12' Driving Finger Roll Layup,,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,122,4,0,1,7:33 PM,3:42,M. Wagner REBOUND (Off:0 Def:3),,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,123,1,98,1,7:33 PM,3:21,M. Wagner 2' Cutting Layup Shot (9 PTS) (Banchero 3 AST),,,16 - 21,5,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200353,125,1,79,1,7:33 PM,3:10,,,G. Antetokounmpo 26' 3PT Pullup Jump Shot (12 PTS) (Carter 1 AST),19 - 21,2,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,127,6,4,1,7:34 PM,3:01,M. Wagner OFF.Foul (P1) (N.Green),,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,5,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200353,129,5,37,1,7:34 PM,3:01,M. Wagner Offensive Foul Turnover (P2.T6),,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022200353,130,8,0,1,7:34 PM,3:01,SUB: Schofield FOR Banchero,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200353,131,8,0,1,7:34 PM,3:01,SUB: F. Wagner FOR Fultz,,,,,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200353,132,8,0,1,7:34 PM,3:01,SUB: Ross FOR M. Wagner,,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200353,133,8,0,1,7:34 PM,3:01,,,SUB: Holiday FOR Connaughton,,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,134,8,0,1,7:34 PM,3:01,,,SUB: Portis FOR G. Antetokounmpo,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,140,1,1,1,7:34 PM,2:45,,,Mamukelashvili 26' 3PT Jump Shot (3 PTS) (Holiday 3 AST),22 - 21,-1,5,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,142,2,79,1,7:35 PM,2:26,MISS Ross 24' 3PT Pullup Jump Shot,,,,,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,143,4,0,1,7:35 PM,2:22,Houstan REBOUND (Off:1 Def:0),,,,,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,144,2,72,1,7:35 PM,2:20,MISS Houstan 3' Putback Layup,,,,,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,145,4,0,1,7:35 PM,2:17,,,Mamukelashvili REBOUND (Off:0 Def:1),,,5,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,147,6,1,1,7:35 PM,2:05,Schofield P.FOUL (P1.T4) (N.Green),,,,,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,5,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200353,149,1,1,1,7:35 PM,1:58,,,Portis 16' Jump Shot (2 PTS) (Carter 2 AST),24 - 21,-3,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,151,2,79,1,7:36 PM,1:40,MISS Ross 14' Pullup Jump Shot,,,,,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,152,4,0,1,7:36 PM,1:37,,,Hill REBOUND (Off:0 Def:1),,,5,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,153,1,1,1,7:36 PM,1:31,,,Portis 18' Jump Shot (4 PTS) (Hill 1 AST),26 - 21,-5,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,155,5,2,1,7:36 PM,1:15,F. Wagner Lost Ball Turnover (P1.T7),,Mamukelashvili STEAL (1 STL),,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,159,6,17,1,7:37 PM,1:08,MAGIC T.Foul (Def. 3 Sec Houstan ) (N.Green),,,,,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,0
+0022200353,160,3,16,1,7:37 PM,1:08,,,Holiday Free Throw Technical (3 PTS),27 - 21,-6,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,175,8,0,1,7:37 PM,1:08,,,SUB: Middleton FOR Carter,,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,161,2,80,1,7:37 PM,1:00,,,MISS Holiday 26' 3PT Step Back Jump Shot,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,162,4,0,1,7:37 PM,0:59,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200353,164,2,79,1,7:38 PM,0:39,MISS F. Wagner 27' 3PT Pullup Jump Shot,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,165,4,0,1,7:38 PM,0:34,,,Mamukelashvili REBOUND (Off:0 Def:2),,,5,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,166,2,80,1,7:38 PM,0:28,,,MISS Middleton 22' Step Back Jump Shot,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,167,4,0,1,7:38 PM,0:16,Ross REBOUND (Off:0 Def:1),,,,,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,168,2,101,1,7:38 PM,0:11,MISS Ross 7' Driving Floating Jump Shot,,Mamukelashvili BLOCK (1 BLK),,,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,5,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,1
+0022200353,170,4,0,1,7:38 PM,0:06,,,Mamukelashvili REBOUND (Off:0 Def:3),,,5,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,173,1,79,1,7:38 PM,0:00,,,Holiday 27' 3PT Pullup Jump Shot (6 PTS) (Middleton 1 AST),30 - 21,-9,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,177,13,0,1,7:39 PM,0:00,,End of 1st Period (7:39 PM EST),,30 - 21,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200353,180,12,0,2,7:41 PM,12:00,,Start of 2nd Period (7:41 PM EST),,30 - 21,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200353,181,1,43,2,7:41 PM,11:37,,,Mamukelashvili 1' Alley Oop Layup (5 PTS) (Holiday 4 AST),32 - 21,-11,5,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,183,2,79,2,7:41 PM,11:22,MISS Anthony 16' Pullup Jump Shot,,,,,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,184,4,0,2,7:42 PM,11:18,,,Holiday REBOUND (Off:1 Def:2),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,185,2,75,2,7:42 PM,11:11,,,MISS Middleton 1' Driving Finger Roll Layup,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,186,4,0,2,7:42 PM,11:09,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200353,188,2,79,2,7:42 PM,10:56,,,MISS Middleton 27' 3PT Pullup Jump Shot,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,189,4,0,2,7:42 PM,10:52,,,Portis REBOUND (Off:1 Def:0),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,190,2,78,2,7:42 PM,10:50,,,MISS Portis 10' Floating Jump Shot,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,191,4,0,2,7:42 PM,10:47,F. Wagner REBOUND (Off:0 Def:2),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,192,2,80,2,7:42 PM,10:41,MISS Anthony 16' Step Back Jump Shot,,,,,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,193,4,0,2,7:43 PM,10:37,,,Holiday REBOUND (Off:1 Def:3),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,194,6,26,2,7:43 PM,10:25,,,Mamukelashvili Offensive Charge Foul (P2) (B.Forte),,,5,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200353,196,5,37,2,7:43 PM,10:25,,,Mamukelashvili Offensive Foul Turnover (P1.T6),,,5,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0022200353,197,8,0,2,7:43 PM,10:25,SUB: M. Wagner FOR Schofield,,,,,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200353,198,8,0,2,7:43 PM,10:25,,,SUB: Nwora FOR Mamukelashvili,,,5,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,199,8,0,2,7:43 PM,10:25,,,SUB: G. Antetokounmpo FOR Portis,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,203,2,79,2,7:43 PM,10:12,MISS Ross 8' Pullup Jump Shot,,,,,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,204,4,0,2,7:43 PM,10:09,,,Holiday REBOUND (Off:1 Def:4),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,205,2,1,2,7:44 PM,10:06,,,MISS Middleton 26' 3PT Jump Shot,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,206,4,0,2,7:44 PM,10:02,Anthony REBOUND (Off:0 Def:1),,,,,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,207,1,75,2,7:44 PM,9:49,F. Wagner 2' Driving Finger Roll Layup (5 PTS),,,32 - 23,-9,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,208,2,80,2,7:44 PM,9:40,,,MISS Holiday 20' Step Back Jump Shot,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,209,4,0,2,7:44 PM,9:36,M. Wagner REBOUND (Off:0 Def:4),,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,210,2,80,2,7:44 PM,9:27,MISS F. Wagner 26' 3PT Step Back Jump Shot,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,211,4,0,2,7:44 PM,9:23,,,Holiday REBOUND (Off:1 Def:5),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,212,5,1,2,7:44 PM,9:15,Anthony STEAL (1 STL),,Holiday Bad Pass Turnover (P3.T7),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200353,214,5,1,2,7:45 PM,9:04,Ross Bad Pass Turnover (P1.T8),,Hill STEAL (1 STL),,,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,5,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,216,1,41,2,7:45 PM,9:00,,,G. Antetokounmpo Running Layup (14 PTS) (Hill 2 AST),34 - 23,-11,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,218,9,1,2,7:45 PM,9:00,MAGIC Timeout: Regular (Full 2 Short 0),,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200353,219,8,0,2,7:47 PM,9:00,,,SUB: Green FOR Hill,,,5,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,5,1631260,AJ Green,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,220,8,0,2,7:47 PM,9:00,,,SUB: Connaughton FOR Middleton,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,223,6,2,2,7:48 PM,8:49,,,G. Antetokounmpo S.FOUL (P2.T1) (B.Forte),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200353,225,3,11,2,7:48 PM,8:49,F. Wagner Free Throw 1 of 2 (6 PTS),,,34 - 24,-10,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,226,3,12,2,7:48 PM,8:49,F. Wagner Free Throw 2 of 2 (7 PTS),,,34 - 25,-9,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,227,1,1,2,7:49 PM,8:37,,,Green 3PT Jump Shot (3 PTS) (Holiday 5 AST),37 - 25,-12,5,1631260,AJ Green,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,229,2,73,2,7:49 PM,8:26,MISS Anthony 1' Driving Reverse Layup,,,,,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,230,4,0,2,7:49 PM,8:22,Houstan REBOUND (Off:2 Def:0),,,,,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,231,2,97,2,7:49 PM,8:22,MISS Houstan Tip Layup Shot,,,,,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,232,4,0,2,7:49 PM,8:20,,,G. Antetokounmpo REBOUND (Off:0 Def:5),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,233,1,79,2,7:49 PM,8:17,,,G. Antetokounmpo 15' Pullup Jump Shot (16 PTS),39 - 25,-14,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,234,1,101,2,7:49 PM,7:51,M. Wagner 4' Driving Floating Jump Shot (11 PTS) (Anthony 1 AST),,,39 - 27,-12,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200353,236,1,73,2,7:50 PM,7:38,,,Holiday 3' Driving Reverse Layup (8 PTS) (G. Antetokounmpo 1 AST),41 - 27,-14,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,239,8,0,2,7:50 PM,7:21,SUB: Banchero FOR Houstan,,,,,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200353,240,8,0,2,7:50 PM,7:21,SUB: Fultz FOR F. Wagner,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200353,241,8,0,2,7:50 PM,7:21,,,SUB: Carter FOR Holiday,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,245,5,11,2,7:51 PM,7:14,MAGIC Turnover: Shot Clock (T#9),,,,,2,1610612753,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200353,246,2,86,2,7:51 PM,6:58,,,MISS G. Antetokounmpo 15' Turnaround Fadeaway Shot,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,247,4,0,2,7:51 PM,6:54,M. Wagner REBOUND (Off:0 Def:5),,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,248,2,101,2,7:51 PM,6:49,MISS Banchero 6' Driving Floating Jump Shot,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,249,4,0,2,7:51 PM,6:47,,,G. Antetokounmpo REBOUND (Off:0 Def:6),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,250,2,6,2,7:51 PM,6:41,,,MISS G. Antetokounmpo 1' Driving Layup,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,252,4,0,2,7:51 PM,6:40,M. Wagner REBOUND (Off:0 Def:6),,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,253,2,2,2,7:51 PM,6:34,MISS Ross 27' 3PT Running Jump Shot,,,,,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,254,4,0,2,7:51 PM,6:29,,,Connaughton REBOUND (Off:0 Def:1),,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,255,9,1,2,7:52 PM,6:26,,,Bucks Timeout: Regular (Reg.2 Short 0),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200353,256,8,0,2,7:53 PM,6:26,SUB: Bol FOR M. Wagner,,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200353,257,8,0,2,7:53 PM,6:26,SUB: Hampton FOR Ross,,,,,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200353,258,8,0,2,7:53 PM,6:26,SUB: Schofield FOR Anthony,,,,,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200353,259,8,0,2,7:53 PM,6:26,,,SUB: Mamukelashvili FOR Connaughton,,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,5,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,260,8,0,2,7:53 PM,6:26,,,SUB: Portis FOR G. Antetokounmpo,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,266,2,1,2,7:55 PM,6:14,,,MISS Carter 3PT Jump Shot,,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,267,4,0,2,7:55 PM,6:10,Fultz REBOUND (Off:0 Def:1),,,,,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,268,6,2,2,7:55 PM,6:10,,,Green S.FOUL (P1.T2) (E.Dalen),,,5,1631260,AJ Green,1610612749.0,Milwaukee,Bucks,MIL,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200353,270,3,11,2,7:55 PM,6:10,Fultz Free Throw 1 of 2 (6 PTS),,,41 - 28,-13,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,271,3,12,2,7:55 PM,6:10,Fultz Free Throw 2 of 2 (7 PTS),,,41 - 29,-12,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,272,5,45,2,7:56 PM,5:49,,,Mamukelashvili Out of Bounds - Bad Pass Turnover Turnover (P2.T8),,,5,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0022200353,273,2,79,2,7:56 PM,5:35,MISS Bol 20' Pullup Jump Shot,,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,274,4,0,2,7:56 PM,5:30,,,Portis REBOUND (Off:1 Def:1),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,275,1,1,2,7:56 PM,5:22,,,Nwora 26' 3PT Jump Shot (6 PTS) (Carter 3 AST),44 - 29,-15,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,277,1,47,2,7:57 PM,5:04,Fultz 16' Turnaround Jump Shot (9 PTS) (Schofield 1 AST),,,44 - 31,-13,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200353,279,2,6,2,7:57 PM,4:50,Schofield BLOCK (1 BLK),,MISS Portis 2' Driving Layup,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,1
+0022200353,281,4,0,2,7:57 PM,4:50,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200353,282,8,0,2,7:57 PM,4:50,,,SUB: Middleton FOR Green,,,5,1631260,AJ Green,1610612749.0,Milwaukee,Bucks,MIL,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,283,8,0,2,7:57 PM,4:50,,,SUB: Holiday FOR Mamukelashvili,,,5,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,286,1,86,2,7:57 PM,4:42,,,Portis 14' Turnaround Fadeaway (6 PTS) (Holiday 6 AST),46 - 31,-15,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,288,2,80,2,7:58 PM,4:23,MISS Banchero 28' 3PT Step Back Jump Shot,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,289,4,0,2,7:58 PM,4:20,,,Portis REBOUND (Off:1 Def:2),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,290,2,80,2,7:58 PM,4:11,,,MISS Nwora 21' Step Back Jump Shot,,,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,291,4,0,2,7:58 PM,4:07,Bol REBOUND (Off:0 Def:1),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,292,1,79,2,7:58 PM,3:59,Fultz 18' Pullup Jump Shot (11 PTS) (Bol 1 AST),,,46 - 33,-13,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200353,294,2,80,2,7:58 PM,3:41,,,MISS Holiday 25' 3PT Step Back Jump Shot,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,295,4,0,2,7:59 PM,3:38,,,Nwora REBOUND (Off:1 Def:0),,,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,296,1,57,2,7:59 PM,3:27,,,Portis 7' Driving Hook Shot (8 PTS) (Carter 4 AST),48 - 33,-15,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,298,1,1,2,7:59 PM,3:12,Schofield 26' 3PT Jump Shot (3 PTS) (Banchero 4 AST),,,48 - 36,-12,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200353,300,1,1,2,7:59 PM,3:01,,,Portis 26' 3PT Jump Shot (11 PTS) (Carter 5 AST),51 - 36,-15,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,302,5,2,2,7:59 PM,2:43,Fultz Lost Ball Turnover (P2.T10),,Nwora STEAL (1 STL),,,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,304,5,2,2,8:00 PM,2:37,Fultz STEAL (1 STL),,Middleton Lost Ball Turnover (P1.T9),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200353,306,1,41,2,8:00 PM,2:33,Banchero 4' Running Layup (4 PTS) (Bol 2 AST),,,51 - 38,-13,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200353,308,2,1,2,8:00 PM,2:16,,,MISS Middleton 25' 3PT Jump Shot,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,309,4,0,2,8:00 PM,2:13,Banchero REBOUND (Off:1 Def:3),,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,310,1,1,2,8:00 PM,2:05,Schofield 25' 3PT Jump Shot (6 PTS) (Banchero 5 AST),,,51 - 41,-10,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200353,312,5,2,2,8:00 PM,1:49,Fultz STEAL (2 STL),,Holiday Lost Ball Turnover (P4.T10),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200353,314,2,79,2,8:01 PM,1:32,MISS Bol 21' Pullup Jump Shot,,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,315,4,0,2,8:01 PM,1:29,Hampton REBOUND (Off:1 Def:0),,,,,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,316,2,1,2,8:01 PM,1:24,MISS Schofield 3PT Jump Shot,,,,,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,317,4,0,2,8:01 PM,1:20,,,Portis REBOUND (Off:1 Def:3),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,318,5,2,2,8:01 PM,1:17,Banchero STEAL (1 STL),,Portis Lost Ball Turnover (P1.T11),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200353,320,1,5,2,8:01 PM,1:12,Banchero 2' Layup (6 PTS),,,51 - 43,-8,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,321,2,1,2,8:01 PM,1:00,,,MISS Holiday 27' 3PT Jump Shot,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,322,4,0,2,8:01 PM,0:57,Hampton REBOUND (Off:1 Def:1),,,,,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,323,5,2,2,8:02 PM,0:41,Banchero Lost Ball Turnover (P3.T11),,Carter STEAL (1 STL),,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,325,1,50,2,8:02 PM,0:40,,,Carter 1' Running Dunk (2 PTS),53 - 43,-10,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,326,6,2,2,8:02 PM,0:33,,,Middleton S.FOUL (P1.T3) (E.Dalen),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200353,328,3,11,2,8:02 PM,0:33,Banchero Free Throw 1 of 2 (7 PTS),,,53 - 44,-9,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,329,8,0,2,8:02 PM,0:33,SUB: M. Wagner FOR Schofield,,,,,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200353,330,8,0,2,8:02 PM,0:33,,,SUB: Hill FOR Carter,,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,5,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,331,8,0,2,8:02 PM,0:33,,,SUB: Green FOR Portis,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,1631260,AJ Green,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,332,8,0,2,8:02 PM,0:33,,,SUB: G. Antetokounmpo FOR Nwora,,,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,333,8,0,2,8:02 PM,0:33,,,SUB: Mamukelashvili FOR Middleton,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,5,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,339,3,12,2,8:03 PM,0:33,Banchero Free Throw 2 of 2 (8 PTS),,,53 - 45,-8,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,340,1,1,2,8:03 PM,0:26,,,Green 26' 3PT Jump Shot (6 PTS) (G. Antetokounmpo 2 AST),56 - 45,-11,5,1631260,AJ Green,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,342,2,80,2,8:03 PM,0:02,MISS Hampton 26' 3PT Step Back Jump Shot,,,,,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,343,4,0,2,8:03 PM,0:02,,,Mamukelashvili REBOUND (Off:0 Def:4),,,5,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,344,13,0,2,8:04 PM,0:00,,End of 2nd Period (8:04 PM EST),,56 - 45,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200353,353,12,0,3,8:19 PM,12:00,,Start of 3rd Period (8:19 PM EST),,56 - 45,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200353,354,6,1,3,8:19 PM,11:50,Fultz P.FOUL (P2.T1) (E.Dalen),,,,,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200353,356,1,78,3,8:20 PM,11:40,,,Portis 7' Floating Jump Shot (13 PTS) (Middleton 2 AST),58 - 45,-13,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,358,1,79,3,8:20 PM,11:22,Fultz 16' Pullup Jump Shot (13 PTS),,,58 - 47,-11,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,359,1,6,3,8:20 PM,11:10,,,Holiday 2' Driving Layup (10 PTS) (G. Antetokounmpo 3 AST),60 - 47,-13,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,361,2,57,3,8:20 PM,11:00,MISS Fultz 8' Driving Hook Shot,,,,,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,362,4,0,3,8:20 PM,10:57,,,Portis REBOUND (Off:1 Def:4),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,363,6,2,3,8:20 PM,10:53,Banchero S.FOUL (P1.T2) (B.Forte),,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200353,365,3,11,3,8:21 PM,10:53,,,G. Antetokounmpo Free Throw 1 of 2 (17 PTS),61 - 47,-14,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,366,3,12,3,8:21 PM,10:53,,,G. Antetokounmpo Free Throw 2 of 2 (18 PTS),62 - 47,-15,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,367,1,6,3,8:22 PM,10:37,Banchero 1' Driving Layup (10 PTS),,,62 - 49,-13,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,368,6,2,3,8:22 PM,10:37,,,G. Antetokounmpo S.FOUL (P3.T1) (B.Forte),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200353,370,3,10,3,8:22 PM,10:37,Banchero Free Throw 1 of 1 (11 PTS),,,62 - 50,-12,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,371,6,2,3,8:22 PM,10:26,F. Wagner S.FOUL (P2.T3) (N.Green),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200353,373,9,1,3,8:23 PM,10:26,MAGIC Timeout: Regular (Full 3 Short 0),,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200353,374,8,0,3,8:23 PM,10:26,,,SUB: Carter FOR Nwora,,,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,376,3,13,3,8:26 PM,10:26,,,Middleton Free Throw 1 of 3 (3 PTS),63 - 50,-13,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,377,3,14,3,8:26 PM,10:26,,,Middleton Free Throw 2 of 3 (4 PTS),64 - 50,-14,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,378,3,15,3,8:26 PM,10:26,,,Middleton Free Throw 3 of 3 (5 PTS),65 - 50,-15,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,379,1,1,3,8:27 PM,10:03,Fultz 3PT Jump Shot (16 PTS) (M. Wagner 2 AST),,,65 - 53,-12,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200353,381,2,79,3,8:27 PM,9:52,,,MISS Middleton 27' 3PT Pullup Jump Shot,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,382,4,0,3,8:27 PM,9:48,Fultz REBOUND (Off:0 Def:2),,,,,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,383,2,86,3,8:27 PM,9:36,MISS Banchero 14' Turnaround Fadeaway Shot,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,384,4,0,3,8:27 PM,9:36,M. Wagner REBOUND (Off:1 Def:6),,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,385,6,2,3,8:27 PM,9:36,,,Carter S.FOUL (P1.T2) (B.Forte),,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200353,387,3,11,3,8:28 PM,9:36,M. Wagner Free Throw 1 of 2 (12 PTS),,,65 - 54,-11,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,388,3,12,3,8:28 PM,9:36,M. Wagner Free Throw 2 of 2 (13 PTS),,,65 - 55,-10,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,389,2,101,3,8:28 PM,9:19,,,MISS G. Antetokounmpo 12' Driving Floating Jump Shot,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,390,4,0,3,8:28 PM,9:14,Bol REBOUND (Off:0 Def:2),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,391,6,2,3,8:29 PM,9:01,,,Holiday S.FOUL (P2.T3) (B.Forte),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200353,393,3,11,3,8:29 PM,9:01,Banchero Free Throw 1 of 2 (12 PTS),,,65 - 56,-9,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,394,3,12,3,8:29 PM,9:01,Banchero Free Throw 2 of 2 (13 PTS),,,65 - 57,-8,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,395,2,1,3,8:30 PM,8:51,,,MISS G. Antetokounmpo 26' 3PT Jump Shot,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,396,4,0,3,8:30 PM,8:46,F. Wagner REBOUND (Off:0 Def:3),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,397,2,5,3,8:30 PM,8:37,MISS Banchero 2' Layup,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,398,4,0,3,8:30 PM,8:34,Banchero REBOUND (Off:2 Def:3),,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,399,2,97,3,8:30 PM,8:34,MISS Banchero Tip Layup Shot,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,400,4,0,3,8:30 PM,8:34,M. Wagner REBOUND (Off:2 Def:6),,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,401,2,1,3,8:30 PM,8:30,MISS Fultz 25' 3PT Jump Shot,,,,,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,402,4,0,3,8:30 PM,8:30,,,G. Antetokounmpo REBOUND (Off:0 Def:7),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,404,1,6,3,8:30 PM,8:25,,,G. Antetokounmpo 3' Driving Layup (20 PTS),67 - 57,-10,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,405,6,2,3,8:30 PM,8:25,M. Wagner S.FOUL (P2.T4) (B.Forte),,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200353,407,3,10,3,8:31 PM,8:25,,,MISS G. Antetokounmpo Free Throw 1 of 1,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,408,4,0,3,8:31 PM,8:22,,,Portis REBOUND (Off:2 Def:4),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,409,2,1,3,8:31 PM,8:20,,,MISS Portis 26' 3PT Jump Shot,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,410,4,0,3,8:31 PM,8:17,Fultz REBOUND (Off:0 Def:3),,,,,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,411,1,41,3,8:31 PM,8:13,Fultz 8' Running Layup (18 PTS),,,67 - 59,-8,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,412,1,79,3,8:31 PM,7:49,,,Holiday 12' Pullup Jump Shot (12 PTS) (Carter 6 AST),69 - 59,-10,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,414,2,79,3,8:32 PM,7:36,MISS Banchero 27' 3PT Pullup Jump Shot,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,415,4,0,3,8:32 PM,7:33,,,G. Antetokounmpo REBOUND (Off:0 Def:8),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,416,2,79,3,8:32 PM,7:27,,,MISS Carter 17' Pullup Jump Shot,,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,417,4,0,3,8:32 PM,7:23,Banchero REBOUND (Off:2 Def:4),,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,418,1,1,3,8:32 PM,7:14,F. Wagner 25' 3PT Jump Shot (10 PTS) (M. Wagner 3 AST),,,69 - 62,-7,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200353,420,1,6,3,8:32 PM,6:57,,,G. Antetokounmpo 2' Driving Layup (22 PTS) (Holiday 7 AST),71 - 62,-9,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,422,5,40,3,8:33 PM,6:45,F. Wagner Out of Bounds Lost Ball Turnover (P2.T12),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022200353,423,8,0,3,8:33 PM,6:45,,,SUB: Connaughton FOR Portis,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,424,8,0,3,8:33 PM,6:45,,,SUB: Mamukelashvili FOR Middleton,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,5,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,427,5,1,3,8:33 PM,6:28,Bol STEAL (1 STL),,Holiday Bad Pass Turnover (P5.T12),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200353,429,2,6,3,8:33 PM,6:22,MISS Bol 2' Driving Layup,,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,430,4,0,3,8:33 PM,6:17,M. Wagner REBOUND (Off:3 Def:6),,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,431,2,97,3,8:33 PM,6:17,MISS M. Wagner Tip Layup Shot,,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,432,4,0,3,8:33 PM,6:16,,,Holiday REBOUND (Off:1 Def:6),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,433,1,2,3,8:33 PM,6:14,,,Connaughton 3PT Running Jump Shot (3 PTS) (Holiday 8 AST),74 - 62,-12,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,435,9,1,3,8:34 PM,6:12,MAGIC Timeout: Regular (Full 4 Short 0),,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200353,436,8,0,3,8:36 PM,6:12,SUB: Houstan FOR Bol,,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200353,437,8,0,3,8:36 PM,6:12,SUB: Schofield FOR M. Wagner,,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200353,438,8,0,3,8:36 PM,6:12,SUB: Anthony FOR F. Wagner,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200353,439,8,0,3,8:36 PM,6:12,,,SUB: Portis FOR G. Antetokounmpo,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,444,1,6,3,8:37 PM,5:52,Schofield 1' Driving Layup (8 PTS) (Banchero 6 AST),,,74 - 64,-10,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200353,446,1,6,3,8:37 PM,5:36,,,Holiday 2' Driving Layup (14 PTS),76 - 64,-12,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,447,6,2,3,8:37 PM,5:36,Schofield S.FOUL (P2.PN) (E.Dalen),,,,,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200353,449,3,10,3,8:38 PM,5:36,,,Holiday Free Throw 1 of 1 (15 PTS),77 - 64,-13,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,450,2,1,3,8:38 PM,5:25,MISS Houstan 30' 3PT Jump Shot,,,,,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,451,4,0,3,8:38 PM,5:19,Banchero REBOUND (Off:3 Def:4),,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,452,2,97,3,8:38 PM,5:19,MISS Banchero Tip Layup Shot,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,453,4,0,3,8:38 PM,5:19,Fultz REBOUND (Off:1 Def:3),,,,,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,454,5,1,3,8:38 PM,5:11,Banchero Bad Pass Turnover (P4.T13),,Holiday STEAL (2 STL),,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,456,1,2,3,8:38 PM,5:06,,,Connaughton 24' 3PT Running Jump Shot (6 PTS) (Holiday 9 AST),80 - 64,-16,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,458,2,79,3,8:38 PM,4:48,MISS Fultz 16' Pullup Jump Shot,,,,,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,459,4,0,3,8:38 PM,4:45,Banchero REBOUND (Off:4 Def:4),,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,460,1,72,3,8:38 PM,4:44,Banchero 1' Putback Layup (15 PTS),,,80 - 66,-14,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,461,1,7,3,8:39 PM,4:26,,,Portis 2' Dunk (15 PTS) (Holiday 10 AST),82 - 66,-16,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,463,6,2,3,8:39 PM,4:13,,,Holiday S.FOUL (P3.T4) (E.Dalen),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200353,465,3,11,3,8:40 PM,4:13,Banchero Free Throw 1 of 2 (16 PTS),,,82 - 67,-15,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,468,3,12,3,8:40 PM,4:13,MISS Banchero Free Throw 2 of 2,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,466,8,0,3,8:40 PM,4:13,SUB: F. Wagner FOR Fultz,,,,,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200353,469,4,0,3,8:40 PM,4:10,,,Portis REBOUND (Off:2 Def:5),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,471,5,1,3,8:41 PM,3:53,Schofield STEAL (1 STL),,Holiday Bad Pass Turnover (P6.T13),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200353,473,2,1,3,8:41 PM,3:45,MISS Banchero 7' Jump Shot,,Portis BLOCK (1 BLK),,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,1
+0022200353,475,4,0,3,8:41 PM,3:43,,,Portis REBOUND (Off:2 Def:6),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,476,5,45,3,8:41 PM,3:43,,,Portis Out of Bounds - Bad Pass Turnover Turnover (P2.T14),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0022200353,477,2,98,3,8:42 PM,3:33,MISS Schofield 3' Cutting Layup Shot,,,,,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,478,4,0,3,8:42 PM,3:30,,,Connaughton REBOUND (Off:0 Def:2),,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,479,1,58,3,8:42 PM,3:17,,,Portis 7' Turnaround Hook Shot (17 PTS),84 - 67,-17,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,480,2,1,3,8:42 PM,3:09,MISS Schofield 25' 3PT Jump Shot,,,,,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,481,4,0,3,8:42 PM,3:05,,,Portis REBOUND (Off:2 Def:7),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,482,2,86,3,8:42 PM,2:51,,,MISS Holiday 15' Turnaround Fadeaway Shot,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,483,4,0,3,8:43 PM,2:47,,,Mamukelashvili REBOUND (Off:1 Def:4),,,5,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,484,2,97,3,8:43 PM,2:47,,,MISS Mamukelashvili Tip Layup Shot,,,5,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,485,4,0,3,8:43 PM,2:47,F. Wagner REBOUND (Off:0 Def:4),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,486,2,80,3,8:43 PM,2:37,MISS Anthony 25' 3PT Step Back Jump Shot,,,,,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,487,4,0,3,8:43 PM,2:34,,,Connaughton REBOUND (Off:0 Def:3),,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,488,6,2,3,8:43 PM,2:24,Houstan S.FOUL (P1.PN) (E.Dalen),,,,,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200353,490,3,11,3,8:43 PM,2:24,,,Portis Free Throw 1 of 2 (18 PTS),85 - 67,-18,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,499,3,12,3,8:43 PM,2:24,,,MISS Portis Free Throw 2 of 2,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,491,8,0,3,8:43 PM,2:24,SUB: Ross FOR Banchero,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200353,492,8,0,3,8:43 PM,2:24,SUB: M. Wagner FOR Schofield,,,,,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200353,493,8,0,3,8:43 PM,2:24,,,SUB: Hill FOR Holiday,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,5,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,494,8,0,3,8:43 PM,2:24,,,SUB: G. Antetokounmpo FOR Mamukelashvili,,,5,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,500,4,0,3,8:43 PM,2:22,M. Wagner REBOUND (Off:3 Def:7),,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,501,5,40,3,8:44 PM,2:19,F. Wagner Out of Bounds Lost Ball Turnover (P3.T14),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022200353,502,8,0,3,8:44 PM,2:19,,,SUB: Mamukelashvili FOR Portis,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,504,2,79,3,8:44 PM,2:10,,,MISS Carter 18' Pullup Jump Shot,,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,505,4,0,3,8:44 PM,2:06,,,Mamukelashvili REBOUND (Off:2 Def:4),,,5,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,506,2,1,3,8:44 PM,2:05,,,MISS Connaughton 26' 3PT Jump Shot,,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,507,4,0,3,8:44 PM,1:59,M. Wagner REBOUND (Off:3 Def:8),,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,508,2,1,3,8:45 PM,1:52,MISS Anthony 25' 3PT Jump Shot,,,,,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,509,4,0,3,8:45 PM,1:52,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200353,510,6,1,3,8:45 PM,1:52,M. Wagner P.FOUL (P3.PN) (B.Forte),,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200353,512,3,11,3,8:45 PM,1:52,,,G. Antetokounmpo Free Throw 1 of 2 (23 PTS),86 - 67,-19,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,517,3,12,3,8:45 PM,1:52,,,MISS G. Antetokounmpo Free Throw 2 of 2,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0022200353,518,4,0,3,8:45 PM,1:52,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200353,513,8,0,3,8:45 PM,1:52,,,SUB: Middleton FOR Carter,,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,514,8,0,3,8:45 PM,1:52,,,SUB: Nwora FOR Connaughton,,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,519,1,1,3,8:46 PM,1:39,Houstan 3PT Jump Shot (3 PTS) (Ross 1 AST),,,86 - 70,-16,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200353,521,2,79,3,8:47 PM,1:23,,,MISS G. Antetokounmpo 17' Pullup Jump Shot,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,522,4,0,3,8:47 PM,1:20,F. Wagner REBOUND (Off:0 Def:5),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,523,1,101,3,8:47 PM,1:08,Ross 9' Driving Floating Jump Shot (2 PTS) (M. Wagner 4 AST),,,86 - 72,-14,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200353,525,5,1,3,8:47 PM,0:45,Anthony STEAL (2 STL),,Middleton Bad Pass Turnover (P2.T15),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200353,527,2,1,3,8:48 PM,0:34,MISS Anthony 28' 3PT Jump Shot,,,,,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,528,4,0,3,8:48 PM,0:30,,,Middleton REBOUND (Off:0 Def:1),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,529,1,50,3,8:48 PM,0:28,,,G. Antetokounmpo 1' Running Dunk (25 PTS) (Middleton 3 AST),88 - 72,-16,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,531,2,1,3,8:48 PM,0:06,MISS Houstan 3PT Jump Shot,,,,,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,532,4,0,3,8:48 PM,0:04,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200353,534,8,0,3,8:48 PM,0:04,,,SUB: Green FOR Mamukelashvili,,,5,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,5,1631260,AJ Green,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,536,2,1,3,8:48 PM,0:00,,,MISS Green 24' 3PT Jump Shot,,,5,1631260,AJ Green,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,537,4,0,3,8:48 PM,0:00,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200353,538,13,0,3,8:49 PM,0:00,,End of 3rd Period (8:49 PM EST),,88 - 72,-16,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200353,539,12,0,4,8:51 PM,12:00,,Start of 4th Period (8:51 PM EST),,88 - 72,-16,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200353,540,2,79,4,8:52 PM,11:42,MISS F. Wagner 27' 3PT Pullup Jump Shot,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,541,4,0,4,8:52 PM,11:39,Ross REBOUND (Off:1 Def:1),,,,,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,542,1,5,4,8:52 PM,11:37,M. Wagner 1' Layup (15 PTS) (Ross 2 AST),,,88 - 74,-14,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200353,544,2,101,4,8:52 PM,11:20,,,MISS Middleton 13' Driving Floating Jump Shot,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,545,4,0,4,8:52 PM,11:16,Anthony REBOUND (Off:0 Def:2),,,,,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,546,2,41,4,8:52 PM,11:12,MISS Anthony 3' Running Layup,,,,,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,547,4,0,4,8:52 PM,11:12,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200353,549,2,1,4,8:52 PM,11:10,MISS Ross 16' Jump Shot,,,,,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,550,4,0,4,8:52 PM,11:06,,,G. Antetokounmpo REBOUND (Off:0 Def:9),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,551,1,75,4,8:53 PM,10:58,,,G. Antetokounmpo 3' Driving Finger Roll Layup (27 PTS) (Middleton 4 AST),90 - 74,-16,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,553,1,101,4,8:53 PM,10:41,F. Wagner 11' Driving Floating Jump Shot (12 PTS),,,90 - 76,-14,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,555,2,79,4,8:53 PM,10:15,,,MISS G. Antetokounmpo 17' Pullup Jump Shot,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,556,4,0,4,8:54 PM,10:11,Anthony REBOUND (Off:0 Def:3),,,,,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,557,1,76,4,8:54 PM,10:06,F. Wagner 1' Running Finger Roll Layup (14 PTS),,,90 - 78,-12,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,558,9,1,4,8:54 PM,10:01,,,Bucks Timeout: Regular (Reg.3 Short 0),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200353,559,8,0,4,8:55 PM,10:01,,,SUB: Connaughton FOR Nwora,,,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,560,8,0,4,8:55 PM,10:01,,,SUB: Portis FOR Middleton,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,563,5,4,4,8:57 PM,9:53,,,G. Antetokounmpo Traveling Turnover (P3.T16),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0022200353,564,6,2,4,8:57 PM,9:42,,,Portis S.FOUL (P3.T1) (E.Dalen),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200353,566,3,11,4,8:58 PM,9:42,F. Wagner Free Throw 1 of 2 (15 PTS),,,90 - 79,-11,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,567,3,12,4,8:58 PM,9:42,F. Wagner Free Throw 2 of 2 (16 PTS),,,90 - 80,-10,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,569,2,1,4,8:58 PM,9:29,,,MISS Connaughton 3PT Jump Shot,,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,570,4,0,4,8:58 PM,9:27,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200353,572,6,3,4,8:59 PM,9:27,,,Portis L.B.FOUL (P4.T2) (B.Forte),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200353,574,2,79,4,8:59 PM,9:16,MISS Anthony 27' 3PT Pullup Jump Shot,,,,,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,575,4,0,4,8:59 PM,9:12,,,Portis REBOUND (Off:2 Def:8),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,576,1,1,4,8:59 PM,9:03,,,Green 23' Jump Shot (8 PTS) (G. Antetokounmpo 4 AST),92 - 80,-12,5,1631260,AJ Green,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,578,6,2,4,9:00 PM,8:45,,,Green S.FOUL (P2.T3) (B.Forte),,,5,1631260,AJ Green,1610612749.0,Milwaukee,Bucks,MIL,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200353,580,3,11,4,9:00 PM,8:45,F. Wagner Free Throw 1 of 2 (17 PTS),,,92 - 81,-11,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,581,3,12,4,9:00 PM,8:45,F. Wagner Free Throw 2 of 2 (18 PTS),,,92 - 82,-10,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,582,1,1,4,9:01 PM,8:27,,,Green 28' 3PT Jump Shot (11 PTS) (G. Antetokounmpo 5 AST),95 - 82,-13,5,1631260,AJ Green,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,584,2,79,4,9:01 PM,8:09,MISS Ross 26' 3PT Pullup Jump Shot,,,,,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,585,4,0,4,9:01 PM,8:03,Anthony REBOUND (Off:1 Def:3),,,,,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,586,2,72,4,9:01 PM,8:02,MISS Anthony 3' Putback Layup,,G. Antetokounmpo BLOCK (1 BLK),,,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1
+0022200353,588,4,0,4,9:01 PM,8:02,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200353,639,6,3,4,9:01 PM,8:02,Anthony L.B.FOUL (P1.T1) (N.Green),,,,,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200353,589,6,11,4,9:01 PM,8:02,Anthony T.FOUL (P1.T1) (N.Green),,,,,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022200353,590,3,16,4,9:02 PM,8:02,,,Green Free Throw Technical (12 PTS),96 - 82,-14,5,1631260,AJ Green,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,591,8,0,4,9:02 PM,8:02,SUB: Fultz FOR Anthony,,,,,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200353,593,2,79,4,9:02 PM,7:50,,,MISS Green 27' 3PT Pullup Jump Shot,,,5,1631260,AJ Green,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,594,4,0,4,9:02 PM,7:46,M. Wagner REBOUND (Off:3 Def:9),,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,595,1,101,4,9:02 PM,7:37,F. Wagner 6' Driving Floating Jump Shot (20 PTS),,,96 - 84,-12,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,596,2,1,4,9:03 PM,7:20,,,MISS Connaughton 24' 3PT Jump Shot,,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,597,4,0,4,9:03 PM,7:16,Houstan REBOUND (Off:2 Def:1),,,,,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,598,1,6,4,9:03 PM,7:05,M. Wagner 1' Driving Layup (17 PTS),,,96 - 86,-10,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,599,2,1,4,9:03 PM,6:50,,,MISS Hill 24' 3PT Jump Shot,,,5,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,600,4,0,4,9:03 PM,6:44,Houstan REBOUND (Off:2 Def:2),,,,,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,601,2,41,4,9:03 PM,6:41,MISS Fultz 1' Running Layup,,G. Antetokounmpo BLOCK (2 BLK),,,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1
+0022200353,603,4,0,4,9:03 PM,6:41,,,G. Antetokounmpo REBOUND (Off:0 Def:10),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,604,5,40,4,9:03 PM,6:37,,,G. Antetokounmpo Out of Bounds Lost Ball Turnover (P4.T17),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0022200353,605,8,0,4,9:04 PM,6:37,SUB: Banchero FOR Houstan,,,,,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200353,606,8,0,4,9:04 PM,6:37,,,SUB: Holiday FOR Portis,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,607,8,0,4,9:04 PM,6:37,,,SUB: Mamukelashvili FOR Green,,,5,1631260,AJ Green,1610612749.0,Milwaukee,Bucks,MIL,5,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,611,2,6,4,9:04 PM,6:23,MISS Fultz 2' Driving Layup,,,,,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,612,4,0,4,9:04 PM,6:23,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200353,613,6,3,4,9:04 PM,6:23,M. Wagner L.B.FOUL (P4.T2) (E.Dalen),,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200353,615,2,1,4,9:05 PM,6:11,,,MISS Connaughton 27' 3PT Jump Shot,,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,616,4,0,4,9:05 PM,6:07,,,G. Antetokounmpo REBOUND (Off:1 Def:10),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,617,2,47,4,9:05 PM,6:05,,,MISS G. Antetokounmpo 3' Turnaround Jump Shot,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,618,4,0,4,9:05 PM,6:03,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200353,620,1,79,4,9:05 PM,5:47,F. Wagner 27' 3PT Pullup Jump Shot (23 PTS),,,96 - 89,-7,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,621,6,1,4,9:06 PM,5:22,M. Wagner P.FOUL (P5.T3) (B.Forte),,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,5,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200353,623,8,0,4,9:06 PM,5:22,,,SUB: Carter FOR Hill,,,5,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,625,1,7,4,9:06 PM,5:12,,,G. Antetokounmpo 2' Dunk (29 PTS) (Mamukelashvili 2 AST),98 - 89,-9,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,627,2,47,4,9:07 PM,4:55,MISS Banchero 8' Turnaround Jump Shot,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,628,4,0,4,9:07 PM,4:52,,,Connaughton REBOUND (Off:0 Def:4),,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,629,2,6,4,9:07 PM,4:45,,,MISS G. Antetokounmpo 1' Driving Layup,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,631,4,0,4,9:07 PM,4:41,Banchero REBOUND (Off:4 Def:5),,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,632,2,41,4,9:07 PM,4:39,MISS Fultz 1' Running Layup,,,,,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,633,4,0,4,9:07 PM,4:36,Banchero REBOUND (Off:5 Def:5),,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,634,6,2,4,9:07 PM,4:36,,,Mamukelashvili S.FOUL (P3.T4) (B.Forte),,,5,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200353,636,3,11,4,9:07 PM,4:36,MISS Banchero Free Throw 1 of 2,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,637,4,1,4,9:07 PM,4:36,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200353,638,9,1,4,9:08 PM,4:36,,,Bucks Timeout: Regular (Reg.4 Short 0),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200353,642,8,0,4,9:09 PM,4:36,,,SUB: Middleton FOR Connaughton,,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,644,3,12,4,9:11 PM,4:36,Banchero Free Throw 2 of 2 (17 PTS),,,98 - 90,-8,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,645,2,1,4,9:11 PM,4:22,Banchero BLOCK (1 BLK),,MISS Middleton 3PT Jump Shot,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,1
+0022200353,647,4,0,4,9:11 PM,4:22,Ross REBOUND (Off:1 Def:2),,,,,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,648,2,79,4,9:11 PM,4:03,MISS F. Wagner 9' Pullup Jump Shot,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,649,4,0,4,9:11 PM,4:01,,,Holiday REBOUND (Off:1 Def:7),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,650,2,1,4,9:11 PM,3:54,,,MISS Holiday 27' 3PT Jump Shot,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,651,4,0,4,9:11 PM,3:49,Ross REBOUND (Off:1 Def:3),,,,,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,652,1,75,4,9:12 PM,3:30,F. Wagner 3' Driving Finger Roll Layup (25 PTS),,,98 - 92,-6,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,653,1,1,4,9:12 PM,3:10,,,Mamukelashvili 3PT Jump Shot (8 PTS) (Middleton 5 AST),101 - 92,-9,5,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200353,655,9,1,4,9:12 PM,3:09,MAGIC Timeout: Regular (Full 5 Short 0),,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200353,656,8,0,4,9:13 PM,3:09,,,SUB: Connaughton FOR Carter,,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,658,6,2,4,9:14 PM,2:51,,,Middleton S.FOUL (P2.PN) (N.Green),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200353,660,3,11,4,9:15 PM,2:51,M. Wagner Free Throw 1 of 2 (18 PTS),,,101 - 93,-8,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,661,3,12,4,9:15 PM,2:51,M. Wagner Free Throw 2 of 2 (19 PTS),,,101 - 94,-7,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,662,2,1,4,9:15 PM,2:39,,,MISS Middleton 27' 3PT Jump Shot,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,663,4,0,4,9:15 PM,2:34,Banchero REBOUND (Off:5 Def:6),,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,664,1,1,4,9:15 PM,2:20,Ross 26' 3PT Jump Shot (5 PTS) (Banchero 7 AST),,,101 - 97,-4,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200353,669,9,1,4,9:16 PM,2:00,,,Bucks Timeout: Regular (Reg.5 Short 0),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200353,670,18,1,4,9:16 PM,2:00,,Instant Replay4th Period (9:16 PM EST),,101 - 97,-4,0,671,Donnie Boyce,,,,,0,0,,,,,,1,0,,,,,,1
+0022200353,671,6,2,4,9:18 PM,2:00,M. Wagner S.FOUL (P6.T4) (B.Forte),,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200353,673,8,0,4,9:18 PM,2:00,SUB: Houstan FOR M. Wagner,,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200353,674,8,0,4,9:18 PM,2:00,,,SUB: Portis FOR Mamukelashvili,,,5,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,677,3,11,4,9:18 PM,2:00,,,G. Antetokounmpo Free Throw 1 of 2 (30 PTS),102 - 97,-5,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,678,3,12,4,9:18 PM,2:00,,,MISS G. Antetokounmpo Free Throw 2 of 2,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,679,4,0,4,9:19 PM,1:57,Banchero REBOUND (Off:5 Def:7),,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,680,2,1,4,9:19 PM,1:39,MISS Houstan 24' 3PT Jump Shot,,,,,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,681,4,0,4,9:19 PM,1:36,Houstan REBOUND (Off:3 Def:2),,,,,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,682,2,79,4,9:19 PM,1:34,MISS Ross 24' Pullup Jump Shot,,,,,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,683,4,0,4,9:19 PM,1:30,,,G. Antetokounmpo REBOUND (Off:1 Def:11),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,684,1,75,4,9:19 PM,1:23,,,G. Antetokounmpo 1' Driving Finger Roll Layup (32 PTS),104 - 97,-7,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,685,2,101,4,9:20 PM,1:07,MISS Banchero 7' Driving Floating Jump Shot,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,686,4,0,4,9:20 PM,1:04,,,G. Antetokounmpo REBOUND (Off:1 Def:12),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,687,2,1,4,9:20 PM,0:56,,,MISS Middleton 27' 3PT Jump Shot,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,688,4,0,4,9:20 PM,0:52,F. Wagner REBOUND (Off:0 Def:6),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,689,6,1,4,9:20 PM,0:43,,,Middleton P.FOUL (P3.PN) (E.Dalen),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200353,691,3,11,4,9:21 PM,0:43,Banchero Free Throw 1 of 2 (18 PTS),,,104 - 98,-6,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,692,3,12,4,9:21 PM,0:43,Banchero Free Throw 2 of 2 (19 PTS),,,104 - 99,-5,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,693,6,2,4,9:21 PM,0:40,Houstan S.FOUL (P2.PN) (E.Dalen),,,,,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200353,695,3,11,4,9:22 PM,0:40,,,G. Antetokounmpo Free Throw 1 of 2 (33 PTS),105 - 99,-6,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,696,8,0,4,9:22 PM,0:40,,,SUB: Hill FOR Middleton,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,5,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,697,8,0,4,9:22 PM,0:40,,,SUB: Carter FOR Portis,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,700,3,12,4,9:22 PM,0:40,,,G. Antetokounmpo Free Throw 2 of 2 (34 PTS),106 - 99,-7,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,701,9,1,4,9:22 PM,0:40,MAGIC Timeout: Regular (Full 6 Short 0),,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200353,702,6,2,4,9:24 PM,0:35,,,G. Antetokounmpo S.FOUL (P4.PN) (E.Dalen),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200353,704,3,11,4,9:24 PM,0:35,MISS Banchero Free Throw 1 of 2,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,705,4,1,4,9:24 PM,0:35,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200353,706,3,12,4,9:25 PM,0:35,Banchero Free Throw 2 of 2 (20 PTS),,,106 - 100,-6,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,707,6,1,4,9:25 PM,0:31,Banchero P.FOUL (P2.PN) (N.Green),,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200353,709,3,11,4,9:26 PM,0:31,,,Connaughton Free Throw 1 of 2 (7 PTS),107 - 100,-7,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,712,3,12,4,9:26 PM,0:31,,,MISS Connaughton Free Throw 2 of 2,,,5,1626192,Pat Connaughton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,710,8,0,4,9:26 PM,0:31,,,SUB: Mamukelashvili FOR G. Antetokounmpo,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,713,4,0,4,9:26 PM,0:28,Fultz REBOUND (Off:1 Def:4),,,,,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,714,1,41,4,9:26 PM,0:24,Fultz 1' Running Layup (20 PTS),,,107 - 102,-5,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,715,9,1,4,9:26 PM,0:24,,,Bucks Timeout: Regular (Reg.6 Short 0),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200353,716,8,0,4,9:27 PM,0:24,,,SUB: G. Antetokounmpo FOR Mamukelashvili,,,5,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,718,6,28,4,9:28 PM,0:23,Houstan Personal Take Foul (P3.PN) (B.Forte),,,,,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200353,720,3,11,4,9:28 PM,0:23,,,Holiday Free Throw 1 of 2 (16 PTS),108 - 102,-6,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,721,8,0,4,9:28 PM,0:23,,,SUB: Mamukelashvili FOR G. Antetokounmpo,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200353,723,3,12,4,9:29 PM,0:23,,,Holiday Free Throw 2 of 2 (17 PTS),109 - 102,-7,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,724,2,6,4,9:29 PM,0:16,MISS Fultz 2' Driving Layup,,,,,4,1628365,Markelle Fultz,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200353,725,4,0,4,9:29 PM,0:14,,,Carter REBOUND (Off:0 Def:1),,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200353,726,13,0,4,9:29 PM,0:00,,End of 4th Period (9:29 PM EST),,109 - 102,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

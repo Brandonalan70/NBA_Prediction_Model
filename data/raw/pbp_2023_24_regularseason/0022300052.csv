@@ -1,0 +1,479 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022300052,2,12,0,1,10:41 PM,12:00,,Start of 1st Period (10:41 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300052,4,10,0,1,10:41 PM,12:00,Jump Ball Zubac vs. Valanciunas: Tip to Mann,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,1
+0022300052,7,2,79,1,10:41 PM,11:42,MISS Mann 14' Pullup Jump Shot,,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,8,4,0,1,10:42 PM,11:39,,,Valanciunas REBOUND (Off:0 Def:1),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,9,1,79,1,10:42 PM,11:29,,,Ingram 19' Pullup Jump Shot (2 PTS) (Valanciunas 1 AST),2 - 0,-2,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300052,11,1,108,1,10:42 PM,11:16,Zubac 5' Cutting Dunk Shot (2 PTS) (Harden 1 AST),,,2 - 2,TIE,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022300052,13,1,98,1,10:42 PM,11:02,,,Ingram 3' Cutting Layup Shot (4 PTS) (Williamson 1 AST),4 - 2,-2,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300052,15,1,79,1,10:42 PM,10:42,George 22' Pullup Jump Shot (2 PTS) (Mann 1 AST),,,4 - 4,TIE,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022300052,17,2,6,1,10:43 PM,10:26,Mann BLOCK (1 BLK),,MISS Williamson 8' Driving Layup,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,1
+0022300052,19,4,0,1,10:43 PM,10:22,,,Jones REBOUND (Off:1 Def:0),,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,20,1,57,1,10:43 PM,10:22,,,Jones 5' Driving Hook Shot (2 PTS),6 - 4,-2,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,21,2,1,1,10:43 PM,10:06,MISS Leonard 24' 3PT Jump Shot,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,22,4,0,1,10:43 PM,10:02,,,Valanciunas REBOUND (Off:0 Def:2),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,23,1,1,1,10:43 PM,9:50,,,Daniels 26' 3PT Jump Shot (3 PTS) (Valanciunas 2 AST),9 - 4,-5,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300052,25,1,79,1,10:44 PM,9:28,Leonard 11' Pullup Jump Shot (2 PTS),,,9 - 6,-3,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,26,1,80,1,10:44 PM,9:14,,,Ingram 18' Step Back Jump Shot (6 PTS) (Valanciunas 3 AST),11 - 6,-5,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300052,28,1,80,1,10:44 PM,8:54,George 21' Step Back Jump Shot (4 PTS),,,11 - 8,-3,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,29,6,2,1,10:45 PM,8:42,Zubac S.FOUL (P1.T1) (S.Twardoski),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300052,31,3,11,1,10:45 PM,8:42,,,Valanciunas Free Throw 1 of 2 (1 PTS),12 - 8,-4,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,32,3,12,1,10:45 PM,8:42,,,Valanciunas Free Throw 2 of 2 (2 PTS),13 - 8,-5,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,33,1,1,1,10:46 PM,8:23,Leonard 15' Jump Shot (4 PTS) (George 1 AST),,,13 - 10,-3,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022300052,35,1,1,1,10:46 PM,8:10,,,Valanciunas 3PT Jump Shot (5 PTS) (Williamson 2 AST),16 - 10,-6,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300052,38,2,1,1,10:46 PM,7:49,MISS Harden 3PT Jump Shot,,,,,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,39,4,0,1,10:46 PM,7:47,,,Daniels REBOUND (Off:0 Def:1),,,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,40,2,6,1,10:46 PM,7:41,,,MISS Williamson 2' Driving Layup,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,41,4,0,1,10:46 PM,7:38,George REBOUND (Off:0 Def:1),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,42,2,2,1,10:47 PM,7:32,MISS George 6' Running Jump Shot,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,43,4,0,1,10:47 PM,7:32,,,Daniels REBOUND (Off:0 Def:2),,,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,44,1,5,1,10:47 PM,7:25,,,Williamson 1' Layup (2 PTS) (Jones 1 AST),18 - 10,-8,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300052,47,6,2,1,10:47 PM,7:25,Mann S.FOUL (P1.T2) (S.Foster),,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300052,49,9,1,1,10:47 PM,7:25,CLIPPERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300052,50,3,10,1,10:50 PM,7:25,,,Williamson Free Throw 1 of 1 (3 PTS),19 - 10,-9,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,51,2,63,1,10:51 PM,7:03,MISS Leonard 18' Fadeaway Jumper,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,52,4,0,1,10:51 PM,6:58,George REBOUND (Off:1 Def:1),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,53,1,80,1,10:51 PM,6:47,Mann 13' Step Back Jump Shot (2 PTS) (Harden 2 AST),,,19 - 12,-7,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022300052,55,1,1,1,10:51 PM,6:31,,,Valanciunas 16' Jump Shot (7 PTS) (Williamson 3 AST),21 - 12,-9,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300052,57,5,1,1,10:52 PM,6:13,George Bad Pass Turnover (P1.T1),,Valanciunas STEAL (1 STL),,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300052,59,1,41,1,10:52 PM,6:07,,,Williamson 2' Running Layup (5 PTS) (Daniels 1 AST),23 - 12,-11,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300052,61,2,1,1,10:52 PM,5:49,MISS Harden 27' 3PT Jump Shot,,,,,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,62,4,0,1,10:52 PM,5:49,,,Jones REBOUND (Off:1 Def:1),,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,63,8,0,1,10:52 PM,5:48,,,SUB: Marshall FOR Williamson,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300052,65,2,101,1,10:52 PM,5:35,,,MISS Daniels 3' Driving Floating Jump Shot,,,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,66,4,0,1,10:53 PM,5:32,,,Valanciunas REBOUND (Off:1 Def:2),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,67,2,1,1,10:53 PM,5:30,,,MISS Ingram 28' 3PT Jump Shot,,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,68,4,0,1,10:53 PM,5:30,Mann REBOUND (Off:0 Def:1),,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,69,2,103,1,10:53 PM,5:23,MISS George 27' 3PT Running Pull-Up Jump Shot,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,70,4,0,1,10:53 PM,5:21,,,Ingram REBOUND (Off:0 Def:1),,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,72,1,1,1,10:53 PM,5:08,,,Ingram 25' 3PT Jump Shot (9 PTS) (Daniels 2 AST),26 - 12,-14,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300052,74,6,2,1,10:53 PM,4:51,,,Valanciunas S.FOUL (P1.T1) (S.Foster),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022300052,76,3,11,1,10:54 PM,4:51,MISS Harden Free Throw 1 of 2,,,,,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,77,4,1,1,10:54 PM,4:51,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300052,87,3,12,1,10:54 PM,4:51,MISS Harden Free Throw 2 of 2,,,,,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,79,8,0,1,10:54 PM,4:51,SUB: Theis FOR George,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022300052,80,8,0,1,10:54 PM,4:51,SUB: Powell FOR Mann,,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022300052,81,8,0,1,10:54 PM,4:51,SUB: Westbrook FOR Zubac,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022300052,82,8,0,1,10:54 PM,4:51,,,SUB: Hawkins FOR Daniels,,,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,5,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300052,88,4,0,1,10:54 PM,4:48,,,Jones REBOUND (Off:1 Def:2),,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,89,2,101,1,10:55 PM,4:36,,,MISS Marshall 7' Driving Floating Jump Shot,,,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,90,4,0,1,10:55 PM,4:33,Westbrook REBOUND (Off:0 Def:1),,,,,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,91,2,1,1,10:55 PM,4:22,MISS Theis 24' 3PT Jump Shot,,,,,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,92,4,0,1,10:55 PM,4:17,,,Marshall REBOUND (Off:0 Def:1),,,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,93,1,6,1,10:55 PM,4:02,,,Ingram 2' Driving Layup (11 PTS),28 - 12,-16,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,94,2,1,1,10:56 PM,3:43,MISS Powell 24' 3PT Jump Shot,,,,,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,95,4,0,1,10:56 PM,3:40,,,Marshall REBOUND (Off:0 Def:2),,,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,96,2,86,1,10:56 PM,3:25,,,MISS Ingram 14' Turnaround Fadeaway Shot,,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,97,4,0,1,10:56 PM,3:24,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300052,98,6,3,1,10:56 PM,3:24,,,Valanciunas L.B.FOUL (P2.T2) (S.Foster),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022300052,100,8,0,1,10:56 PM,3:24,,,SUB: Alvarado FOR Jones,,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300052,101,8,0,1,10:56 PM,3:24,,,SUB: Nance Jr. FOR Valanciunas,,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300052,104,2,83,1,10:57 PM,3:02,MISS Westbrook 18' Fadeaway Bank Shot,,,,,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,105,4,0,1,10:57 PM,2:59,,,Hawkins REBOUND (Off:0 Def:1),,,5,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,106,1,1,1,10:57 PM,2:48,,,Ingram 26' 3PT Jump Shot (14 PTS) (Hawkins 1 AST),31 - 12,-19,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300052,108,2,63,1,10:57 PM,2:24,MISS Westbrook 8' Fadeaway Jumper,,,,,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,109,4,0,1,10:57 PM,2:22,,,Hawkins REBOUND (Off:0 Def:2),,,5,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,110,1,63,1,10:58 PM,2:14,,,Ingram 17' Fadeaway Jumper (16 PTS) (Alvarado 1 AST),33 - 12,-21,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300052,112,9,1,1,10:58 PM,2:14,CLIPPERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300052,113,2,1,1,11:01 PM,1:56,MISS Westbrook 3PT Jump Shot,,,,,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,114,4,0,1,11:01 PM,1:54,,,Alvarado REBOUND (Off:0 Def:1),,,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,115,2,6,1,11:01 PM,1:48,Theis BLOCK (1 BLK),,MISS Ingram 3' Driving Layup,,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,1
+0022300052,117,4,0,1,11:01 PM,1:45,Leonard REBOUND (Off:0 Def:1),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,118,1,2,1,11:01 PM,1:43,Powell 5' Running Jump Shot (2 PTS) (Leonard 1 AST),,,33 - 14,-19,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022300052,120,6,2,1,11:01 PM,1:43,,,Hawkins S.FOUL (P1.T3) (N.Green),,,5,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022300052,122,8,0,1,11:02 PM,1:43,SUB: George FOR Harden,,,,,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022300052,124,8,0,1,11:02 PM,1:43,SUB: Tucker FOR Leonard,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,4,200782,P.J. Tucker,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022300052,126,3,10,1,11:02 PM,1:43,Powell Free Throw 1 of 1 (3 PTS),,,33 - 15,-18,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,127,6,1,1,11:02 PM,1:33,George P.FOUL (P1.T3) (S.Foster),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300052,129,8,0,1,11:02 PM,1:33,,,SUB: Williamson FOR Ingram,,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300052,131,6,2,1,11:03 PM,1:27,George S.FOUL (P2.PN) (S.Twardoski),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300052,133,3,11,1,11:03 PM,1:27,,,MISS Marshall Free Throw 1 of 2,,,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,134,4,1,1,11:03 PM,1:27,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300052,135,3,12,1,11:04 PM,1:27,,,Marshall Free Throw 2 of 2 (1 PTS),34 - 15,-19,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,136,1,79,1,11:04 PM,1:13,George 26' 3PT Pullup Jump Shot (7 PTS),,,34 - 18,-16,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,137,2,75,1,11:04 PM,0:59,Westbrook BLOCK (1 BLK),,MISS Alvarado 4' Driving Finger Roll Layup,,,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,1
+0022300052,139,4,0,1,11:04 PM,0:58,,,Alvarado REBOUND (Off:1 Def:1),,,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,140,1,72,1,11:04 PM,0:58,,,Alvarado 4' Putback Layup (2 PTS),36 - 18,-18,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,141,2,1,1,11:04 PM,0:45,MISS Tucker 24' 3PT Jump Shot,,,,,4,200782,P.J. Tucker,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,142,4,0,1,11:04 PM,0:45,Westbrook REBOUND (Off:1 Def:1),,,,,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,143,1,72,1,11:04 PM,0:44,Westbrook Putback Layup (2 PTS),,,36 - 20,-16,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,144,2,1,1,11:05 PM,0:31,,,MISS Alvarado 25' 3PT Jump Shot,,,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,145,4,0,1,11:05 PM,0:29,Theis REBOUND (Off:0 Def:1),,,,,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,146,1,1,1,11:05 PM,0:16,Powell 28' 3PT Jump Shot (6 PTS) (Theis 1 AST),,,36 - 23,-13,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022300052,148,2,1,1,11:05 PM,0:00,,,MISS Marshall 25' 3PT Jump Shot,,,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,149,4,0,1,11:05 PM,0:00,Westbrook REBOUND (Off:1 Def:2),,,,,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,150,13,0,1,11:05 PM,0:00,,End of 1st Period (11:05 PM EST),,36 - 23,-13,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300052,155,12,0,2,11:08 PM,12:00,,Start of 2nd Period (11:08 PM EST),,36 - 23,-13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300052,156,2,1,2,11:08 PM,11:49,,,MISS Hawkins 26' 3PT Jump Shot,,,5,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,157,4,0,2,11:08 PM,11:49,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300052,159,1,1,2,11:09 PM,11:45,,,Hawkins 14' Jump Shot (2 PTS) (Jones 2 AST),38 - 23,-15,5,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300052,161,6,1,2,11:09 PM,11:29,,,Jones P.FOUL (P1.T1) (S.Twardoski),,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022300052,163,1,1,2,11:09 PM,11:19,Powell 26' 3PT Jump Shot (9 PTS) (George 2 AST),,,38 - 26,-12,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022300052,165,5,1,2,11:10 PM,11:02,Powell STEAL (1 STL),,Williamson Bad Pass Turnover (P1.T1),,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022300052,167,1,41,2,11:10 PM,10:59,Powell 4' Running Layup (11 PTS),,,38 - 28,-10,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,168,5,45,2,11:10 PM,10:48,,,Williamson Out of Bounds - Bad Pass Turnover Turnover (P2.T2),,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022300052,169,1,6,2,11:10 PM,10:36,George 3' Driving Layup (9 PTS) (Westbrook 1 AST),,,38 - 30,-8,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022300052,171,1,1,2,11:10 PM,10:23,,,Jones 27' 3PT Jump Shot (5 PTS) (Williamson 4 AST),41 - 30,-11,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300052,173,2,80,2,11:11 PM,10:09,MISS George 28' 3PT Step Back Jump Shot,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,174,4,0,2,11:11 PM,10:06,,,Daniels REBOUND (Off:0 Def:3),,,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,175,1,103,2,11:11 PM,10:00,,,Hawkins 3PT Running Pull-Up Jump Shot (5 PTS) (Jones 3 AST),44 - 30,-14,5,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300052,177,2,79,2,11:11 PM,9:37,MISS Westbrook 26' 3PT Pullup Jump Shot,,,,,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,178,4,0,2,11:11 PM,9:35,,,Nance Jr. REBOUND (Off:0 Def:1),,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,179,1,2,2,11:11 PM,9:30,,,Hawkins 3PT Running Jump Shot (8 PTS) (Williamson 5 AST),47 - 30,-17,5,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300052,181,9,1,2,11:11 PM,9:30,CLIPPERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300052,182,8,0,2,11:14 PM,9:30,SUB: Harden FOR Westbrook,,,,,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022300052,184,2,1,2,11:15 PM,9:15,MISS Powell 8' Jump Shot,,,,,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,185,4,0,2,11:15 PM,9:13,,,Daniels REBOUND (Off:0 Def:4),,,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,186,5,2,2,11:15 PM,9:01,Powell STEAL (2 STL),,Daniels Lost Ball Turnover (P1.T3),,,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022300052,188,2,41,2,11:15 PM,8:59,MISS Powell 1' Running Layup,,,,,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,189,4,0,2,11:15 PM,8:58,,,Hawkins REBOUND (Off:0 Def:3),,,5,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,190,5,1,2,11:15 PM,8:45,Harden STEAL (1 STL),,Jones Bad Pass Turnover (P1.T4),,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022300052,192,2,1,2,11:15 PM,8:34,MISS George 29' 3PT Jump Shot,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,193,4,0,2,11:15 PM,8:34,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300052,194,6,3,2,11:15 PM,8:34,,,Jones L.B.FOUL (P2.T2) (N.Green),,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022300052,196,8,0,2,11:16 PM,8:34,,,SUB: Marshall FOR Jones,,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300052,198,1,75,2,11:16 PM,8:23,Powell 6' Driving Finger Roll Layup (13 PTS) (Tucker 1 AST),,,47 - 32,-15,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,4,200782,P.J. Tucker,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022300052,200,2,6,2,11:16 PM,8:05,,,MISS Williamson 5' Driving Layup,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,201,4,0,2,11:16 PM,8:03,Theis REBOUND (Off:0 Def:2),,,,,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,202,6,2,2,11:16 PM,7:54,,,Williamson S.FOUL (P1.T3) (S.Twardoski),,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022300052,204,3,11,2,11:17 PM,7:54,Harden Free Throw 1 of 2 (1 PTS),,,47 - 33,-14,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,205,8,0,2,11:17 PM,7:54,,,SUB: Alvarado FOR Daniels,,,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300052,207,3,12,2,11:17 PM,7:54,Harden Free Throw 2 of 2 (2 PTS),,,47 - 34,-13,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,208,6,1,2,11:18 PM,7:37,Harden P.FOUL (P1.T1) (S.Foster),,,,,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300052,210,1,6,2,11:18 PM,7:29,,,Williamson 2' Driving Layup (7 PTS),49 - 34,-15,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,211,1,79,2,11:18 PM,7:12,Powell 22' Pullup Jump Shot (15 PTS) (Theis 2 AST),,,49 - 36,-13,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022300052,213,2,1,2,11:19 PM,6:49,,,MISS Nance Jr. 25' 3PT Jump Shot,,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,214,4,0,2,11:19 PM,6:46,Theis REBOUND (Off:0 Def:3),,,,,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,215,2,103,2,11:19 PM,6:41,MISS Harden 27' 3PT Running Pull-Up Jump Shot,,,,,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,216,4,0,2,11:19 PM,6:38,Tucker REBOUND (Off:1 Def:0),,,,,4,200782,P.J. Tucker,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,217,1,1,2,11:19 PM,6:38,George 27' 3PT Jump Shot (12 PTS) (Tucker 2 AST),,,49 - 39,-10,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,200782,P.J. Tucker,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022300052,219,9,1,2,11:19 PM,6:38,,,Pelicans Timeout: Regular (Reg.1 Short 0),,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300052,220,8,0,2,11:22 PM,6:38,,,SUB: Ingram FOR Nance Jr.,,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300052,221,8,0,2,11:22 PM,6:38,,,SUB: Valanciunas FOR Hawkins,,,5,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300052,224,1,101,2,11:22 PM,6:24,,,Williamson 5' Driving Floating Jump Shot (9 PTS),51 - 39,-12,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,225,2,101,2,11:22 PM,6:06,MISS Powell 9' Driving Floating Jump Shot,,,,,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,226,4,0,2,11:22 PM,6:03,,,Williamson REBOUND (Off:0 Def:1),,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,227,5,1,2,11:23 PM,5:59,Harden STEAL (2 STL),,Williamson Bad Pass Turnover (P3.T5),,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022300052,229,1,2,2,11:23 PM,5:54,George 27' 3PT Running Jump Shot (15 PTS) (Harden 3 AST),,,51 - 42,-9,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022300052,233,6,26,2,11:23 PM,5:34,,,Williamson Offensive Charge Foul (P2) (S.Foster),,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,200782,P.J. Tucker,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022300052,235,5,37,2,11:23 PM,5:34,,,Williamson Offensive Foul Turnover (P4.T6),,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022300052,236,8,0,2,11:23 PM,5:34,SUB: Zubac FOR Theis,,,,,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022300052,237,8,0,2,11:23 PM,5:34,SUB: Leonard FOR Powell,,,,,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022300052,238,8,0,2,11:23 PM,5:34,,,SUB: Jones FOR Williamson,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300052,242,5,1,2,11:24 PM,5:21,Harden Bad Pass Turnover (P1.T2),,Jones STEAL (1 STL),,,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300052,244,5,2,2,11:24 PM,5:19,Tucker STEAL (1 STL),,Jones Lost Ball Turnover (P2.T7),,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,200782,P.J. Tucker,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022300052,246,2,1,2,11:24 PM,5:13,MISS Leonard 24' 3PT Jump Shot,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,247,4,0,2,11:24 PM,5:13,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300052,249,6,3,2,11:24 PM,5:13,,,Jones L.B.FOUL (P3.T4) (S.Foster),,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,200782,P.J. Tucker,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022300052,251,8,0,2,11:24 PM,5:13,,,SUB: Daniels FOR Jones,,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300052,253,2,1,2,11:25 PM,5:07,MISS George 26' 3PT Jump Shot,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,254,4,0,2,11:25 PM,5:05,,,Valanciunas REBOUND (Off:1 Def:3),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,255,2,41,2,11:25 PM,4:59,,,MISS Marshall 4' Running Layup,,,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,256,4,0,2,11:25 PM,4:56,George REBOUND (Off:1 Def:2),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,257,1,101,2,11:25 PM,4:37,George 6' Driving Floating Jump Shot (17 PTS),,,51 - 44,-7,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,258,6,2,2,11:25 PM,4:25,Zubac S.FOUL (P2.T2) (N.Green),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300052,260,3,11,2,11:26 PM,4:25,,,MISS Ingram Free Throw 1 of 2,,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,261,4,1,2,11:26 PM,4:25,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300052,262,8,0,2,11:26 PM,4:25,SUB: Mann FOR Tucker,,,,,4,200782,P.J. Tucker,1610612746.0,LA,Clippers,LAC,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022300052,264,3,12,2,11:26 PM,4:25,,,Ingram Free Throw 2 of 2 (17 PTS),52 - 44,-8,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,265,6,2,2,11:27 PM,4:06,,,Marshall S.FOUL (P1.PN) (S.Twardoski),,,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022300052,267,3,11,2,11:27 PM,4:06,MISS Leonard Free Throw 1 of 2,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,268,4,1,2,11:27 PM,4:06,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300052,269,8,0,2,11:27 PM,4:06,,,SUB: Williamson FOR Alvarado,,,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300052,271,3,12,2,11:28 PM,4:06,Leonard Free Throw 2 of 2 (5 PTS),,,52 - 45,-7,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,272,2,79,2,11:28 PM,3:53,,,MISS Marshall 8' Pullup Jump Shot,,,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,273,4,0,2,11:28 PM,3:50,,,Marshall REBOUND (Off:1 Def:2),,,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,274,2,72,2,11:28 PM,3:50,Harden BLOCK (1 BLK),,MISS Marshall 3' Putback Layup,,,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,1
+0022300052,276,4,0,2,11:28 PM,3:50,Harden REBOUND (Off:0 Def:1),,,,,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,277,6,4,2,11:28 PM,3:44,Zubac OFF.Foul (P3) (S.Twardoski),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300052,279,5,37,2,11:28 PM,3:44,Zubac Offensive Foul Turnover (P1.T3),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0022300052,280,8,0,2,11:28 PM,3:44,SUB: Tucker FOR George,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,200782,P.J. Tucker,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022300052,282,8,0,2,11:28 PM,3:44,SUB: Theis FOR Zubac,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022300052,284,2,1,2,11:29 PM,3:22,,,MISS Marshall 26' 3PT Jump Shot,,,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,285,4,0,2,11:29 PM,3:18,Leonard REBOUND (Off:0 Def:2),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,286,1,63,2,11:29 PM,3:05,Leonard 15' Fadeaway Jumper (7 PTS),,,52 - 47,-5,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,287,1,3,2,11:30 PM,2:50,,,Williamson 7' Hook Shot (11 PTS),54 - 47,-7,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,288,1,79,2,11:30 PM,2:37,Leonard 26' 3PT Pullup Jump Shot (10 PTS),,,54 - 50,-4,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,289,2,1,2,11:30 PM,2:18,,,MISS Daniels 27' 3PT Jump Shot,,,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,290,4,0,2,11:30 PM,2:16,Theis REBOUND (Off:0 Def:4),,,,,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,291,2,80,2,11:30 PM,2:01,MISS Harden 26' 3PT Step Back Jump Shot,,,,,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,292,4,0,2,11:30 PM,1:58,,,Valanciunas REBOUND (Off:1 Def:4),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,293,2,1,2,11:31 PM,1:47,,,MISS Ingram 26' 3PT Jump Shot,,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,294,4,0,2,11:31 PM,1:47,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300052,295,6,3,2,11:31 PM,1:47,Mann L.B.FOUL (P2.T3) (S.Foster),,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300052,297,2,1,2,11:31 PM,1:41,,,MISS Williamson 27' 3PT Jump Shot,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,298,4,0,2,11:31 PM,1:39,Harden REBOUND (Off:0 Def:2),,,,,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,299,6,4,2,11:32 PM,1:20,Harden OFF.Foul (P2) (N.Green),,,,,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300052,301,5,37,2,11:32 PM,1:20,Harden Offensive Foul Turnover (P2.T4),,,,,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0022300052,302,1,63,2,11:32 PM,1:06,,,Ingram 10' Fadeaway Jumper (19 PTS) (Daniels 3 AST),56 - 50,-6,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300052,305,1,9,2,11:33 PM,0:48,Leonard 4' Driving Dunk (12 PTS),,,56 - 52,-4,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,317,2,1,2,11:33 PM,0:37,Theis BLOCK (2 BLK),,MISS Williamson 5' Jump Shot,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,1
+0022300052,319,4,0,2,11:33 PM,0:37,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300052,309,9,7,2,11:34 PM,0:37,CLIPPERS Timeout: Coach Challenge (Full 3 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300052,310,18,5,2,11:34 PM,0:37,,Instant Replay2nd Period (11:34 PM EST),,56 - 52,-4,0,306,Steve Colter,,,,,0,0,,,,,,1,0,,,,,,1
+0022300052,311,8,0,2,11:35 PM,0:37,SUB: Powell FOR Tucker,,,,,4,200782,P.J. Tucker,1610612746.0,LA,Clippers,LAC,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022300052,312,8,0,2,11:35 PM,0:37,,,SUB: Nance Jr. FOR Valanciunas,,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300052,315,1,1,2,11:37 PM,0:30,Theis 28' 3PT Jump Shot (3 PTS) (Leonard 2 AST),,,56 - 55,-1,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022300052,320,5,40,2,11:37 PM,0:06,,,Ingram Out of Bounds Lost Ball Turnover (P1.T8),,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022300052,324,13,0,2,11:38 PM,0:00,,End of 2nd Period (11:38 PM EST),,56 - 55,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300052,337,12,0,3,11:53 PM,12:00,,Start of 3rd Period (11:53 PM EST),,56 - 55,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300052,338,2,1,3,11:53 PM,11:45,,,MISS Jones 24' 3PT Jump Shot,,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,339,4,0,3,11:53 PM,11:43,Harden REBOUND (Off:0 Def:3),,,,,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,340,1,80,3,11:53 PM,11:36,Harden 14' Step Back Jump Shot (4 PTS),,,56 - 57,1,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,341,5,2,3,11:53 PM,11:26,Leonard STEAL (1 STL),,Ingram Lost Ball Turnover (P2.T9),,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022300052,343,1,2,3,11:53 PM,11:18,George 3PT Running Jump Shot (20 PTS) (Harden 4 AST),,,56 - 60,4,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022300052,345,9,1,3,11:54 PM,11:18,,,Pelicans Timeout: Regular (Reg.2 Short 0),,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300052,346,2,58,3,11:57 PM,11:04,,,MISS Williamson 7' Turnaround Hook Shot,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,347,4,0,3,11:57 PM,11:01,Zubac REBOUND (Off:0 Def:1),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,348,1,6,3,11:57 PM,10:54,George 2' Driving Layup (22 PTS),,,56 - 62,6,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,349,6,1,3,11:57 PM,10:47,Tucker P.FOUL (P1.T1) (S.Foster),,,,,4,200782,P.J. Tucker,1610612746.0,LA,Clippers,LAC,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300052,351,1,1,3,11:58 PM,10:31,,,Valanciunas 26' 3PT Jump Shot (10 PTS) (Daniels 4 AST),59 - 62,3,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300052,353,1,108,3,11:58 PM,10:08,Zubac 2' Cutting Dunk Shot (4 PTS) (Harden 5 AST),,,59 - 64,5,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022300052,355,6,2,3,11:58 PM,10:08,,,Ingram S.FOUL (P1.T1) (S.Foster),,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022300052,357,3,10,3,11:58 PM,10:08,Zubac Free Throw 1 of 1 (5 PTS),,,59 - 65,6,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,358,2,1,3,11:59 PM,9:59,,,MISS Valanciunas 20' Jump Shot,,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,359,4,0,3,11:59 PM,9:57,Zubac REBOUND (Off:0 Def:2),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,360,6,3,3,11:59 PM,9:48,,,Jones L.B.FOUL (P4.T2) (S.Foster),,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022300052,362,8,0,3,11:59 PM,9:48,,,SUB: Marshall FOR Jones,,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300052,364,2,1,3,12:00 AM,9:37,MISS Tucker 3PT Jump Shot,,,,,4,200782,P.J. Tucker,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,365,4,0,3,12:00 AM,9:35,,,Marshall REBOUND (Off:1 Def:3),,,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,366,1,100,3,12:00 AM,9:33,,,Williamson 1' Running Alley Oop Layup Shot (13 PTS) (Ingram 1 AST),61 - 65,4,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300052,368,2,6,3,12:00 AM,9:22,MISS George 2' Driving Layup,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,369,4,0,3,12:00 AM,9:21,Zubac REBOUND (Off:1 Def:2),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,370,1,97,3,12:00 AM,9:21,Zubac Tip Layup Shot (7 PTS),,,61 - 67,6,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,371,1,6,3,12:00 AM,9:06,,,Ingram 3' Driving Layup (21 PTS) (Valanciunas 4 AST),63 - 67,4,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300052,373,5,45,3,12:00 AM,8:50,Harden Out of Bounds - Bad Pass Turnover Turnover (P3.T5),,,,,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0022300052,374,6,1,3,12:01 AM,8:36,Tucker P.FOUL (P2.T2) (S.Twardoski),,,,,4,200782,P.J. Tucker,1610612746.0,LA,Clippers,LAC,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300052,376,1,101,3,12:01 AM,8:27,,,Williamson 4' Driving Floating Jump Shot (15 PTS) (Ingram 2 AST),65 - 67,2,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300052,378,5,1,3,12:02 AM,8:08,Zubac Bad Pass Turnover (P2.T6),,Williamson STEAL (1 STL),,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300052,380,1,106,3,12:02 AM,8:04,,,Williamson 2' Running Alley Oop Dunk Shot (17 PTS) (Ingram 3 AST),67 - 67,TIE,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300052,382,9,1,3,12:02 AM,8:04,CLIPPERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300052,383,1,44,3,12:05 AM,7:46,Zubac 3' Reverse Layup (9 PTS) (Harden 6 AST),,,67 - 69,2,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022300052,385,5,1,3,12:05 AM,7:27,Harden STEAL (3 STL),,Valanciunas Bad Pass Turnover (P1.T10),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022300052,387,1,50,3,12:05 AM,7:24,Leonard 1' Running Dunk (14 PTS) (Harden 7 AST),,,67 - 71,4,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022300052,389,1,79,3,12:06 AM,7:06,,,Williamson 7' Pullup Jump Shot (19 PTS),69 - 71,2,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,390,6,2,3,12:06 AM,6:49,,,Valanciunas S.FOUL (P3.T3) (N.Green),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022300052,392,3,11,3,12:07 AM,6:49,George Free Throw 1 of 2 (23 PTS),,,69 - 72,3,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,393,3,12,3,12:07 AM,6:49,MISS George Free Throw 2 of 2,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,394,4,0,3,12:07 AM,6:47,,,Daniels REBOUND (Off:0 Def:5),,,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,395,2,58,3,12:07 AM,6:34,,,MISS Williamson 15' Turnaround Hook Shot,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,396,4,0,3,12:07 AM,6:33,,,Williamson REBOUND (Off:1 Def:1),,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,397,1,72,3,12:07 AM,6:33,,,Williamson 1' Putback Layup (21 PTS),71 - 72,1,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,398,6,2,3,12:07 AM,6:33,Tucker S.FOUL (P3.T3) (N.Green),,,,,4,200782,P.J. Tucker,1610612746.0,LA,Clippers,LAC,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300052,400,3,10,3,12:08 AM,6:33,,,MISS Williamson Free Throw 1 of 1,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,401,4,0,3,12:08 AM,6:30,George REBOUND (Off:1 Def:3),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,402,2,9,3,12:08 AM,6:16,MISS George 4' Driving Dunk,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,403,4,0,3,12:08 AM,6:10,,,Marshall REBOUND (Off:1 Def:4),,,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,404,1,98,3,12:08 AM,6:06,,,Valanciunas 2' Cutting Layup Shot (12 PTS) (Daniels 5 AST),73 - 72,-1,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300052,406,2,80,3,12:08 AM,5:48,MISS Harden 17' Step Back Jump Shot,,,,,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,407,4,0,3,12:08 AM,5:45,,,Williamson REBOUND (Off:1 Def:2),,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,408,2,86,3,12:09 AM,5:31,,,MISS Williamson 10' Turnaround Fadeaway Shot,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,409,4,0,3,12:09 AM,5:29,,,Daniels REBOUND (Off:1 Def:5),,,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,410,2,97,3,12:09 AM,5:28,,,MISS Daniels Tip Layup Shot,,,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,411,4,0,3,12:09 AM,5:27,Leonard REBOUND (Off:0 Def:3),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,412,6,1,3,12:09 AM,5:27,,,Daniels P.FOUL (P1.T4) (S.Foster),,,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022300052,414,8,0,3,12:09 AM,5:27,,,SUB: Hawkins FOR Williamson,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300052,416,8,0,3,12:09 AM,5:27,SUB: Mann FOR Tucker,,,,,4,200782,P.J. Tucker,1610612746.0,LA,Clippers,LAC,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022300052,418,1,80,3,12:10 AM,5:09,Harden 27' 3PT Step Back Jump Shot (7 PTS) (Mann 2 AST),,,73 - 75,2,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022300052,420,6,2,3,12:10 AM,4:53,Mann S.FOUL (P3.T4) (S.Foster),,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300052,422,3,11,3,12:11 AM,4:53,,,Ingram Free Throw 1 of 2 (22 PTS),74 - 75,1,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,423,3,12,3,12:11 AM,4:53,,,Ingram Free Throw 2 of 2 (23 PTS),75 - 75,TIE,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,424,2,63,3,12:11 AM,4:25,MISS George 18' Fadeaway Jumper,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,425,4,0,3,12:11 AM,4:23,,,Daniels REBOUND (Off:1 Def:6),,,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,426,2,6,3,12:12 AM,4:15,Zubac BLOCK (1 BLK),,MISS Ingram 4' Driving Layup,,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,1
+0022300052,428,4,0,3,12:12 AM,4:11,Leonard REBOUND (Off:0 Def:4),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,429,1,41,3,12:12 AM,4:07,Leonard 2' Running Layup (16 PTS),,,75 - 77,2,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,430,1,6,3,12:12 AM,3:53,,,Daniels 3' Driving Layup (5 PTS),77 - 77,TIE,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,432,8,0,3,12:12 AM,3:46,SUB: Theis FOR George,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022300052,433,8,0,3,12:12 AM,3:46,SUB: Powell FOR Zubac,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022300052,434,8,0,3,12:12 AM,3:46,,,SUB: Alvarado FOR Daniels,,,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300052,435,8,0,3,12:12 AM,3:46,,,SUB: Nance Jr. FOR Valanciunas,,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300052,440,2,1,3,12:13 AM,3:39,MISS Leonard 14' Jump Shot,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,441,4,0,3,12:13 AM,3:36,,,Alvarado REBOUND (Off:1 Def:2),,,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,443,9,1,3,12:13 AM,3:35,,,Pelicans Timeout: Regular (Reg.3 Short 0),,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300052,444,2,86,3,12:15 AM,3:21,Leonard BLOCK (1 BLK),,MISS Ingram 12' Turnaround Fadeaway Shot,,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,1
+0022300052,446,4,0,3,12:15 AM,3:18,Leonard REBOUND (Off:0 Def:5),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,447,5,1,3,12:15 AM,3:15,Leonard Bad Pass Turnover (P1.T7),,Alvarado STEAL (1 STL),,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300052,450,2,2,3,12:15 AM,3:10,,,MISS Marshall 3PT Running Jump Shot,,,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,451,4,0,3,12:15 AM,3:07,Harden REBOUND (Off:0 Def:4),,,,,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,452,1,50,3,12:15 AM,3:05,Mann 1' Running Dunk (4 PTS) (Harden 8 AST),,,77 - 79,2,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022300052,454,6,2,3,12:16 AM,2:47,Theis S.FOUL (P1.PN) (N.Green),,,,,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300052,456,3,11,3,12:16 AM,2:47,,,Marshall Free Throw 1 of 2 (2 PTS),78 - 79,1,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,457,3,12,3,12:16 AM,2:47,,,Marshall Free Throw 2 of 2 (3 PTS),79 - 79,TIE,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0022300052,458,2,1,3,12:17 AM,2:27,MISS Leonard 26' 3PT Jump Shot,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,459,4,0,3,12:17 AM,2:24,,,Marshall REBOUND (Off:1 Def:5),,,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,460,6,2,3,12:17 AM,2:11,Harden S.FOUL (P3.PN) (S.Foster),,,,,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300052,462,3,11,3,12:17 AM,2:11,,,Alvarado Free Throw 1 of 2 (3 PTS),80 - 79,-1,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,463,8,0,3,12:17 AM,2:11,SUB: Westbrook FOR Harden,,,,,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022300052,465,3,12,3,12:18 AM,2:11,,,Alvarado Free Throw 2 of 2 (4 PTS),81 - 79,-2,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,467,2,79,3,12:18 AM,1:56,MISS Powell 19' Pullup Jump Shot,,,,,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,468,4,0,3,12:18 AM,1:51,,,Alvarado REBOUND (Off:1 Def:3),,,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,469,2,41,3,12:18 AM,1:49,,,MISS Alvarado 4' Running Layup,,,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,470,4,0,3,12:18 AM,1:45,,,Nance Jr. REBOUND (Off:1 Def:1),,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,471,2,107,3,12:18 AM,1:45,,,MISS Nance Jr. Tip Dunk Shot,,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,472,4,0,3,12:18 AM,1:43,,,Marshall REBOUND (Off:2 Def:5),,,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,473,1,5,3,12:18 AM,1:42,,,Nance Jr. 2' Layup (2 PTS) (Marshall 1 AST),83 - 79,-4,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300052,475,6,1,3,12:19 AM,1:26,,,Ingram P.FOUL (P2.PN) (N.Green),,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022300052,477,3,11,3,12:19 AM,1:26,Leonard Free Throw 1 of 2 (17 PTS),,,83 - 80,-3,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,478,8,0,3,12:19 AM,1:26,,,SUB: Williamson FOR Ingram,,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300052,480,3,12,3,12:20 AM,1:26,Leonard Free Throw 2 of 2 (18 PTS),,,83 - 81,-2,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,481,6,2,3,12:20 AM,1:16,Theis S.FOUL (P2.PN) (N.Green),,,,,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300052,483,9,1,3,12:20 AM,1:16,CLIPPERS Timeout: Regular (Full 5 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300052,484,18,6,3,12:20 AM,1:16,,Instant Replay3rd Period (12:20 AM EST),,83 - 81,-2,0,481,,,,,,0,0,,,,,,1,0,,,,,,1
+0022300052,485,8,0,3,12:23 AM,1:16,SUB: George FOR Leonard,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022300052,487,3,11,3,12:24 AM,1:16,,,Williamson Free Throw 1 of 2 (22 PTS),84 - 81,-3,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,488,3,12,3,12:24 AM,1:16,,,MISS Williamson Free Throw 2 of 2,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,489,4,0,3,12:24 AM,1:13,George REBOUND (Off:1 Def:4),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,490,1,6,3,12:25 AM,0:52,George 2' Driving Layup (25 PTS) (Mann 3 AST),,,84 - 83,-1,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022300052,492,2,1,3,12:25 AM,0:36,,,MISS Hawkins 27' 3PT Jump Shot,,,5,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,493,4,0,3,12:25 AM,0:32,Westbrook REBOUND (Off:1 Def:3),,,,,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,494,2,103,3,12:25 AM,0:26,MISS Westbrook 10' Running Pull-Up Jump Shot,,,,,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,495,4,0,3,12:25 AM,0:24,,,Hawkins REBOUND (Off:0 Def:4),,,5,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,496,6,2,3,12:25 AM,0:17,Westbrook S.FOUL (P1.PN) (S.Foster),,,,,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300052,498,3,11,3,12:26 AM,0:17,,,MISS Williamson Free Throw 1 of 2,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,499,4,1,3,12:26 AM,0:17,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300052,500,8,0,3,12:26 AM,0:17,,,SUB: Daniels FOR Hawkins,,,5,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300052,502,3,12,3,12:26 AM,0:17,,,Williamson Free Throw 2 of 2 (23 PTS),85 - 83,-2,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,503,2,1,3,12:27 AM,0:01,MISS Theis 15' Jump Shot,,,,,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,504,4,0,3,12:27 AM,0:01,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300052,505,13,0,3,12:27 AM,0:00,,End of 3rd Period (12:27 AM EST),,85 - 83,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300052,508,12,0,4,12:29 AM,12:00,,Start of 4th Period (12:29 AM EST),,85 - 83,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300052,509,1,7,4,12:29 AM,11:47,George 2' Dunk (27 PTS) (Westbrook 2 AST),,,85 - 85,TIE,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022300052,511,5,1,4,12:30 AM,11:27,Mann STEAL (1 STL),,Williamson Bad Pass Turnover (P5.T11),,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022300052,513,2,41,4,12:30 AM,11:23,MISS Westbrook 2' Running Layup,,,,,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,514,4,0,4,12:30 AM,11:20,,,Alvarado REBOUND (Off:1 Def:4),,,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,515,2,103,4,12:30 AM,11:19,,,MISS Alvarado 8' Running Pull-Up Jump Shot,,,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,516,4,0,4,12:30 AM,11:18,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300052,517,6,3,4,12:30 AM,11:18,Mann L.B.FOUL (P4.T1) (S.Foster),,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300052,519,1,6,4,12:30 AM,11:08,,,Williamson 3' Driving Layup (25 PTS),87 - 85,-2,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,520,6,2,4,12:31 AM,10:51,,,Nance Jr. S.FOUL (P1.T1) (S.Foster),,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022300052,522,3,11,4,12:31 AM,10:51,MISS Westbrook Free Throw 1 of 2,,,,,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,523,4,1,4,12:31 AM,10:51,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300052,524,8,0,4,12:32 AM,10:51,SUB: Tucker FOR Mann,,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,4,200782,P.J. Tucker,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022300052,526,3,12,4,12:32 AM,10:51,Westbrook Free Throw 2 of 2 (3 PTS),,,87 - 86,-1,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,527,1,73,4,12:32 AM,10:41,,,Williamson 3' Driving Reverse Layup (27 PTS),89 - 86,-3,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,528,6,2,4,12:32 AM,10:41,Tucker S.FOUL (P4.T2) (S.Foster),,,,,4,200782,P.J. Tucker,1610612746.0,LA,Clippers,LAC,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300052,543,3,10,4,12:33 AM,10:41,,,Williamson Free Throw 1 of 1 (28 PTS),90 - 86,-4,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,569,5,1,4,12:33 AM,10:21,Theis Bad Pass Turnover (P1.T8),,Williamson STEAL (2 STL),,,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300052,533,2,41,4,12:33 AM,10:20,Theis BLOCK (3 BLK),,MISS Williamson 12' Running Layup,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,1
+0022300052,535,4,0,4,12:33 AM,10:19,,,Daniels REBOUND (Off:2 Def:6),,,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,536,1,97,4,12:33 AM,10:18,,,Daniels Tip Layup Shot (7 PTS),92 - 86,-6,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,537,2,6,4,12:33 AM,10:04,MISS George 13' Driving Layup,,Nance Jr. BLOCK (1 BLK),,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,1
+0022300052,539,4,0,4,12:33 AM,10:04,,,Nance Jr. REBOUND (Off:1 Def:2),,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0022300052,541,8,0,4,12:33 AM,10:04,SUB: Zubac FOR Theis,,,,,4,1628464,Daniel Theis,1610612746.0,LA,Clippers,LAC,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022300052,544,2,1,4,12:34 AM,9:53,,,MISS Alvarado 28' 3PT Jump Shot,,,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,545,4,0,4,12:34 AM,9:52,,,Jones REBOUND (Off:2 Def:2),,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,546,6,2,4,12:34 AM,9:52,Powell S.FOUL (P1.T3) (S.Twardoski),,,,,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300052,548,3,11,4,12:34 AM,9:52,,,MISS Jones Free Throw 1 of 2,,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,549,4,1,4,12:34 AM,9:52,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300052,550,3,12,4,12:34 AM,9:52,,,Jones Free Throw 2 of 2 (6 PTS),93 - 86,-7,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,551,5,45,4,12:35 AM,9:40,Zubac Out of Bounds - Bad Pass Turnover Turnover (P3.T9),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0022300052,552,6,1,4,12:35 AM,9:39,Westbrook P.FOUL (P2.T4) (S.Twardoski),,,,,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300052,554,5,1,4,12:35 AM,9:27,Powell STEAL (3 STL),,Jones Bad Pass Turnover (P3.T12),,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022300052,556,2,41,4,12:35 AM,9:20,MISS George 3' Running Layup,,Jones BLOCK (1 BLK),,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,1
+0022300052,558,4,0,4,12:36 AM,9:17,Tucker REBOUND (Off:2 Def:0),,,,,4,200782,P.J. Tucker,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,559,1,79,4,12:36 AM,9:16,Powell 29' 3PT Pullup Jump Shot (18 PTS) (Tucker 3 AST),,,93 - 89,-4,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,4,200782,P.J. Tucker,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022300052,561,2,6,4,12:36 AM,9:02,,,MISS Williamson 4' Driving Layup,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,562,4,0,4,12:36 AM,9:00,George REBOUND (Off:1 Def:5),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,563,2,103,4,12:36 AM,8:57,MISS George 26' 3PT Running Pull-Up Jump Shot,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,564,4,0,4,12:36 AM,8:55,Zubac REBOUND (Off:2 Def:2),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,567,2,97,4,12:36 AM,8:54,MISS Zubac 2' Tip Layup Shot,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,568,4,0,4,12:36 AM,8:54,Zubac REBOUND (Off:3 Def:2),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,565,1,72,4,12:36 AM,8:52,Zubac Putback Layup (11 PTS),,,93 - 91,-2,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,566,9,1,4,12:36 AM,8:52,,,Pelicans Timeout: Regular (Reg.4 Short 0),,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300052,571,8,0,4,12:38 AM,8:52,,,SUB: Hawkins FOR Alvarado,,,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,5,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300052,572,8,0,4,12:38 AM,8:52,,,SUB: Valanciunas FOR Nance Jr.,,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300052,575,1,79,4,12:39 AM,8:34,,,Jones 29' 3PT Pullup Jump Shot (9 PTS),96 - 91,-5,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,576,5,2,4,12:40 AM,8:11,Zubac Lost Ball Turnover (P4.T10),,Daniels STEAL (1 STL),,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300052,578,1,6,4,12:40 AM,7:57,,,Jones 3' Driving Layup (11 PTS),98 - 91,-7,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,579,2,6,4,12:40 AM,7:39,MISS Westbrook 4' Driving Layup,,Daniels BLOCK (1 BLK),,,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,0,0,,,,,,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,1
+0022300052,581,4,0,4,12:40 AM,7:39,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300052,583,8,0,4,12:40 AM,7:39,SUB: Leonard FOR Westbrook,,,,,4,201566,Russell Westbrook,1610612746.0,LA,Clippers,LAC,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022300052,584,8,0,4,12:40 AM,7:39,SUB: Harden FOR Tucker,,,,,4,200782,P.J. Tucker,1610612746.0,LA,Clippers,LAC,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022300052,585,8,0,4,12:40 AM,7:39,,,SUB: Ingram FOR Williamson,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300052,589,1,63,4,12:41 AM,7:22,,,Ingram 17' Fadeaway Jumper (25 PTS) (Jones 4 AST),100 - 91,-9,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300052,591,2,1,4,12:41 AM,7:05,MISS Leonard 25' 3PT Jump Shot,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,592,4,0,4,12:41 AM,7:05,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300052,593,6,3,4,12:41 AM,7:05,,,Valanciunas L.B.FOUL (P4.T2) (S.Foster),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022300052,595,2,1,4,12:42 AM,7:00,MISS George 26' 3PT Jump Shot,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,596,4,0,4,12:42 AM,6:57,,,Valanciunas REBOUND (Off:1 Def:5),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,597,1,1,4,12:42 AM,6:49,,,Jones 27' 3PT Jump Shot (14 PTS) (Ingram 4 AST),103 - 91,-12,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300052,599,9,1,4,12:42 AM,6:48,CLIPPERS Timeout: Regular (Full 6 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300052,600,2,5,4,12:45 AM,6:37,MISS George 3' Layup,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,602,4,0,4,12:45 AM,6:34,,,Valanciunas REBOUND (Off:1 Def:6),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,603,2,79,4,12:45 AM,6:23,,,MISS Ingram 13' Pullup Jump Shot,,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,604,4,0,4,12:45 AM,6:18,,,Valanciunas REBOUND (Off:2 Def:6),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,605,2,97,4,12:45 AM,6:18,,,MISS Valanciunas Tip Layup Shot,,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,606,4,0,4,12:45 AM,6:18,Leonard REBOUND (Off:0 Def:6),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,607,1,41,4,12:45 AM,6:18,George 2' Running Layup (29 PTS) (Leonard 3 AST),,,103 - 93,-10,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022300052,609,6,2,4,12:46 AM,6:18,,,Jones S.FOUL (P5.T3) (S.Twardoski),,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022300052,611,8,0,4,12:46 AM,6:18,SUB: Mann FOR Zubac,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022300052,612,8,0,4,12:46 AM,6:18,,,SUB: Marshall FOR Jones,,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300052,615,3,10,4,12:46 AM,6:18,George Free Throw 1 of 1 (30 PTS),,,103 - 94,-9,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,616,1,75,4,12:47 AM,6:03,,,Ingram 3' Driving Finger Roll Layup (27 PTS),105 - 94,-11,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,617,2,1,4,12:47 AM,5:46,MISS Harden 24' 3PT Jump Shot,,,,,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,618,4,0,4,12:47 AM,5:43,,,Ingram REBOUND (Off:0 Def:2),,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,619,1,79,4,12:47 AM,5:30,,,Ingram 20' Pullup Jump Shot (29 PTS),107 - 94,-13,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,620,6,1,4,12:47 AM,5:14,,,Daniels P.FOUL (P2.T4) (S.Foster),,,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022300052,622,8,0,4,12:48 AM,5:14,,,SUB: Alvarado FOR Daniels,,,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300052,624,1,1,4,12:48 AM,5:05,Mann 27' 3PT Jump Shot (7 PTS) (Harden 9 AST),,,107 - 97,-10,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022300052,626,2,79,4,12:48 AM,4:47,,,MISS Ingram 21' Pullup Jump Shot,,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,627,4,0,4,12:48 AM,4:45,Mann REBOUND (Off:0 Def:2),,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,628,1,50,4,12:48 AM,4:43,George 2' Running Dunk (32 PTS) (Mann 4 AST),,,107 - 99,-8,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022300052,630,2,1,4,12:49 AM,4:28,,,MISS Ingram 28' 3PT Jump Shot,,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,631,4,0,4,12:49 AM,4:26,Leonard REBOUND (Off:0 Def:7),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,632,2,79,4,12:49 AM,4:22,MISS Leonard 27' 3PT Pullup Jump Shot,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,633,4,0,4,12:49 AM,4:21,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300052,635,5,4,4,12:49 AM,4:03,,,Alvarado Traveling Turnover (P1.T13),,,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022300052,636,8,0,4,12:49 AM,4:03,,,SUB: Williamson FOR Hawkins,,,5,1641722,Jordan Hawkins,1610612740.0,New Orleans,Pelicans,NOP,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300052,638,5,45,4,12:50 AM,3:46,George Out of Bounds - Bad Pass Turnover Turnover (P2.T11),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0022300052,639,9,1,4,12:50 AM,3:46,,,Pelicans Timeout: Regular (Reg.5 Short 0),,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300052,640,8,0,4,12:51 AM,3:46,,,SUB: Nance Jr. FOR Marshall,,,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300052,641,8,0,4,12:51 AM,3:46,,,SUB: Daniels FOR Alvarado,,,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300052,642,8,0,4,12:51 AM,3:46,,,SUB: Jones FOR Valanciunas,,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300052,646,5,1,4,12:52 AM,3:22,Harden STEAL (4 STL),,Nance Jr. Bad Pass Turnover (P1.T14),,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022300052,648,1,41,4,12:52 AM,3:17,George 2' Running Layup (34 PTS) (Harden 10 AST),,,107 - 101,-6,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022300052,650,5,1,4,12:52 AM,3:12,Mann STEAL (2 STL),,Ingram Bad Pass Turnover (P3.T15),,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022300052,652,2,1,4,12:53 AM,3:08,MISS George 26' 3PT Jump Shot,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,653,4,0,4,12:53 AM,3:04,,,Williamson REBOUND (Off:1 Def:3),,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,654,2,79,4,12:53 AM,2:52,,,MISS Williamson 18' Pullup Jump Shot,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,655,4,0,4,12:53 AM,2:50,George REBOUND (Off:1 Def:6),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,656,2,80,4,12:53 AM,2:38,MISS Leonard 25' 3PT Step Back Jump Shot,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,657,4,0,4,12:53 AM,2:35,,,Ingram REBOUND (Off:0 Def:3),,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,658,6,1,4,12:53 AM,2:28,Mann P.FOUL (P5.PN) (S.Twardoski),,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300052,660,3,11,4,12:54 AM,2:28,,,Ingram Free Throw 1 of 2 (30 PTS),108 - 101,-7,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,661,3,12,4,12:54 AM,2:28,,,MISS Ingram Free Throw 2 of 2,,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,662,4,0,4,12:54 AM,2:25,Harden REBOUND (Off:0 Def:5),,,,,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,663,2,9,4,12:54 AM,2:13,MISS George 2' Driving Dunk,,Nance Jr. BLOCK (2 BLK),,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,1
+0022300052,664,4,0,4,12:54 AM,2:11,,,Williamson REBOUND (Off:1 Def:4),,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,665,6,1,4,12:54 AM,2:10,George P.FOUL (P3.PN) (S.Twardoski),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300052,667,3,11,4,12:55 AM,2:10,,,Williamson Free Throw 1 of 2 (29 PTS),109 - 101,-8,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,669,3,12,4,12:55 AM,2:10,,,Williamson Free Throw 2 of 2 (30 PTS),110 - 101,-9,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,670,1,58,4,12:56 AM,1:56,Leonard 10' Turnaround Hook Shot (20 PTS),,,110 - 103,-7,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,671,2,6,4,12:56 AM,1:35,,,MISS Daniels 3' Driving Layup,,,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,672,4,0,4,12:56 AM,1:31,George REBOUND (Off:1 Def:7),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,673,6,1,4,12:56 AM,1:28,,,Ingram P.FOUL (P3.PN) (S.Twardoski),,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0022300052,675,3,11,4,12:57 AM,1:28,MISS Harden Free Throw 1 of 2,,,,,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,676,4,1,4,12:57 AM,1:28,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300052,677,3,12,4,12:57 AM,1:28,Harden Free Throw 2 of 2 (8 PTS),,,110 - 104,-6,4,201935,James Harden,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,678,2,79,4,12:57 AM,1:07,,,MISS Jones 7' Pullup Jump Shot,,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,679,4,0,4,12:57 AM,1:03,Powell REBOUND (Off:0 Def:1),,,,,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,680,1,6,4,12:58 AM,0:53,Powell 2' Driving Layup (20 PTS) (Mann 5 AST),,,110 - 106,-4,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0022300052,681,2,79,4,12:58 AM,0:35,,,MISS Williamson 11' Pullup Jump Shot,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,682,4,0,4,12:58 AM,0:34,,,Williamson REBOUND (Off:2 Def:4),,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,683,1,72,4,12:58 AM,0:34,,,Williamson Putback Layup (32 PTS),112 - 106,-6,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,684,9,1,4,12:58 AM,0:34,CLIPPERS Timeout: Regular (Full 7 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300052,686,8,0,4,12:59 AM,0:34,SUB: Zubac FOR Mann,,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0022300052,687,8,0,4,12:59 AM,0:34,,,SUB: Marshall FOR Williamson,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022300052,690,2,1,4,1:00 AM,0:31,MISS George 25' 3PT Jump Shot,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,691,4,0,4,1:00 AM,0:28,,,Ingram REBOUND (Off:0 Def:4),,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,692,6,28,4,1:00 AM,0:24,Zubac Personal Take Foul (P4.PN) (S.Twardoski),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022300052,694,3,11,4,1:00 AM,0:24,,,Marshall Free Throw 1 of 2 (4 PTS),113 - 106,-7,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,695,3,12,4,1:01 AM,0:24,,,Marshall Free Throw 2 of 2 (5 PTS),114 - 106,-8,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022300052,696,2,1,4,1:01 AM,0:11,MISS Powell 3PT Jump Shot,,,,,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,697,4,0,4,1:01 AM,0:10,Leonard REBOUND (Off:1 Def:7),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0022300052,705,2,72,4,1:01 AM,0:09,MISS Leonard 4' Putback Layup,,Nance Jr. BLOCK (3 BLK),,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0
+0022300052,707,4,0,4,1:01 AM,0:09,,,Marshall REBOUND (Off:2 Def:6),,,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0022300052,698,1,7,4,1:01 AM,0:01,,,Nance Jr. 3' Dunk (4 PTS) (Ingram 5 AST),116 - 106,-10,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022300052,701,18,0,4,1:01 AM,0:00,,Instant Replay4th Period (1:01 AM EST),,116 - 106,-10,0,700,Keith Tower,,,,,0,0,,,,,,1,0,,,,,,0
+0022300052,702,13,0,4,1:02 AM,0:00,,End of 4th Period (1:02 AM EST),,116 - 106,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

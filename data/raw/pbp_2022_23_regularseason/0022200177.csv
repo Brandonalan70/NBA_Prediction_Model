@@ -1,0 +1,413 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200177,2,12,0,1,7:11 PM,12:00,,Start of 1st Period (7:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200177,4,10,0,1,7:11 PM,12:00,Jump Ball Bol vs. Ayton: Tip to Payne,,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,1
+0022200177,7,5,45,1,7:12 PM,11:47,,,Booker Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0022200177,8,5,2,1,7:12 PM,11:33,Bol Lost Ball Turnover (P1.T1),,Craig STEAL (1 STL),,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200177,10,5,1,1,7:12 PM,11:29,Okeke STEAL (1 STL),,Craig Bad Pass Turnover (P1.T2),,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200177,12,1,57,1,7:12 PM,11:08,Wagner 4' Driving Hook Shot (2 PTS) (Suggs 1 AST),,,0 - 2,2,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200177,14,1,47,1,7:13 PM,10:53,,,Ayton 13' Turnaround Jump Shot (2 PTS) (Booker 1 AST),2 - 2,TIE,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200177,16,5,4,1,7:13 PM,10:35,Bol Traveling Turnover (P2.T2),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022200177,17,1,7,1,7:13 PM,10:23,,,Ayton Dunk (4 PTS) (Craig 1 AST),4 - 2,-2,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200177,19,2,3,1,7:14 PM,10:06,MISS Carter Jr. 4' Hook Shot,,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,20,4,0,1,7:14 PM,10:04,,,Ayton REBOUND (Off:0 Def:1),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,21,2,1,1,7:14 PM,9:58,,,MISS Booker 28' 3PT Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,22,4,0,1,7:14 PM,9:54,Carter Jr. REBOUND (Off:0 Def:1),,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,23,5,1,1,7:14 PM,9:50,Suggs Bad Pass Turnover (P1.T3),,Booker STEAL (1 STL),,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200177,25,2,79,1,7:14 PM,9:33,,,MISS Bridges 12' Pullup Jump Shot,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,26,4,0,1,7:14 PM,9:30,Bol REBOUND (Off:0 Def:1),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,27,2,101,1,7:15 PM,9:13,MISS Suggs 10' Driving Floating Jump Shot,,Ayton BLOCK (1 BLK),,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,1
+0022200177,29,4,0,1,7:15 PM,9:10,,,Payne REBOUND (Off:0 Def:1),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,30,2,41,1,7:15 PM,9:10,Okeke BLOCK (1 BLK),,MISS Bridges 3' Running Layup,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,1
+0022200177,32,4,0,1,7:15 PM,9:10,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200177,33,2,1,1,7:15 PM,9:08,,,MISS Booker 18' Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,34,4,0,1,7:15 PM,9:05,Carter Jr. REBOUND (Off:0 Def:2),,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,35,1,6,1,7:15 PM,8:52,Wagner 3' Driving Layup (4 PTS),,,4 - 4,TIE,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,36,1,80,1,7:15 PM,8:35,,,Payne 18' Step Back Jump Shot (2 PTS),6 - 4,-2,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,37,1,6,1,7:16 PM,8:26,Suggs 3' Driving Layup (2 PTS),,,6 - 6,TIE,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,38,2,1,1,7:16 PM,8:17,,,MISS Craig 3PT Jump Shot,,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,39,4,0,1,7:16 PM,8:13,,,Bridges REBOUND (Off:1 Def:0),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,40,2,5,1,7:16 PM,8:08,Carter Jr. BLOCK (1 BLK),,MISS Craig 4' Layup,,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,1
+0022200177,42,4,0,1,7:16 PM,8:07,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200177,44,2,1,1,7:16 PM,8:03,,,MISS Bridges 15' Jump Shot,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,45,4,0,1,7:16 PM,8:00,Bol REBOUND (Off:0 Def:2),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,46,5,4,1,7:16 PM,7:58,Bol Traveling Turnover (P3.T4),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022200177,47,2,80,1,7:17 PM,7:49,,,MISS Booker 26' 3PT Step Back Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,48,4,0,1,7:17 PM,7:46,Bol REBOUND (Off:0 Def:3),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,49,1,1,1,7:17 PM,7:33,Carter Jr. 3PT Jump Shot (3 PTS) (Okeke 1 AST),,,6 - 9,3,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200177,51,1,6,1,7:17 PM,7:19,,,Ayton 3' Driving Layup (6 PTS) (Booker 2 AST),8 - 9,1,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200177,53,6,1,1,7:18 PM,7:07,,,Payne P.FOUL (P1.T1) (J.Williams),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200177,55,2,6,1,7:18 PM,7:06,MISS Wagner 4' Driving Layup,,Craig BLOCK (1 BLK),,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,1
+0022200177,57,4,0,1,7:18 PM,7:06,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200177,59,1,7,1,7:18 PM,7:03,Bol 1' Dunk (2 PTS) (Suggs 2 AST),,,8 - 11,3,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200177,61,1,101,1,7:18 PM,6:50,,,Payne 8' Driving Floating Jump Shot (4 PTS),10 - 11,1,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,62,1,76,1,7:19 PM,6:46,Suggs 4' Running Finger Roll Layup (4 PTS),,,10 - 13,3,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,63,6,2,1,7:19 PM,6:46,,,Craig S.FOUL (P1.T2) (A.Moyer-Gleich),,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200177,65,9,1,1,7:19 PM,6:46,MAGIC Timeout: Regular (Full 1 Short 0),,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200177,66,8,0,1,7:19 PM,6:46,SUB: Ross FOR Carter Jr.,,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200177,67,8,0,1,7:19 PM,6:46,SUB: Bamba FOR Wagner,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200177,70,3,10,1,7:22 PM,6:46,Suggs Free Throw 1 of 1 (5 PTS),,,10 - 14,4,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,71,1,7,1,7:22 PM,6:24,,,Ayton Dunk (8 PTS) (Payne 1 AST),12 - 14,2,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200177,73,1,1,1,7:22 PM,6:05,Suggs 25' 3PT Jump Shot (8 PTS),,,12 - 17,5,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,75,5,45,1,7:22 PM,5:58,,,Payne Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0022200177,76,5,45,1,7:23 PM,5:50,Bamba Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022200177,77,2,1,1,7:23 PM,5:30,,,MISS Craig 25' 3PT Jump Shot,,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,78,4,0,1,7:23 PM,5:27,,,Booker REBOUND (Off:1 Def:0),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,79,2,1,1,7:23 PM,5:27,,,MISS Booker 26' 3PT Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,80,4,0,1,7:23 PM,5:26,,,Craig REBOUND (Off:1 Def:0),,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,81,1,97,1,7:23 PM,5:26,,,Craig Tip Layup Shot (2 PTS),14 - 17,3,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,82,2,1,1,7:23 PM,5:17,MISS Okeke 26' 3PT Jump Shot,,,,,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,83,4,0,1,7:23 PM,5:15,Okeke REBOUND (Off:1 Def:0),,,,,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,84,1,1,1,7:23 PM,5:14,Okeke 3PT Jump Shot (3 PTS),,,14 - 20,6,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,87,2,58,1,7:25 PM,4:50,,,MISS Ayton 10' Turnaround Hook Shot,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,88,4,0,1,7:26 PM,4:48,Bol REBOUND (Off:0 Def:4),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,89,1,1,1,7:26 PM,4:32,Bol 26' 3PT Jump Shot (5 PTS) (Okeke 2 AST),,,14 - 23,9,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200177,91,2,1,1,7:26 PM,4:16,,,MISS Bridges 3PT Jump Shot,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,92,4,0,1,7:26 PM,4:13,,,Ayton REBOUND (Off:1 Def:1),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,93,5,4,1,7:26 PM,4:11,,,Payne Traveling Turnover (P2.T4),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0022200177,94,8,0,1,7:26 PM,4:11,,,SUB: Lee FOR Payne,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,5,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200177,95,8,0,1,7:26 PM,4:11,,,SUB: Landale FOR Ayton,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200177,98,2,57,1,7:27 PM,3:59,MISS Bamba 4' Driving Hook Shot,,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,99,4,0,1,7:27 PM,3:57,,,Booker REBOUND (Off:1 Def:1),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,100,6,2,1,7:27 PM,3:45,Bamba S.FOUL (P1.T1) (A.Moyer-Gleich),,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200177,102,3,11,1,7:28 PM,3:45,,,Craig Free Throw 1 of 2 (3 PTS),15 - 23,8,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,103,8,0,1,7:28 PM,3:45,,,SUB: Okogie FOR Bridges,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200177,105,3,12,1,7:28 PM,3:45,,,Craig Free Throw 2 of 2 (4 PTS),16 - 23,7,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,106,2,79,1,7:28 PM,3:33,MISS Ross 16' Pullup Jump Shot,,,,,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,107,4,0,1,7:28 PM,3:30,,,Landale REBOUND (Off:0 Def:1),,,5,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,108,2,1,1,7:29 PM,3:12,,,MISS Okogie 26' 3PT Jump Shot,,,5,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,109,4,0,1,7:29 PM,3:10,Bamba REBOUND (Off:0 Def:1),,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,110,2,1,1,7:29 PM,2:56,MISS Bamba 26' 3PT Jump Shot,,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,111,4,0,1,7:29 PM,2:52,,,Craig REBOUND (Off:1 Def:1),,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,112,1,103,1,7:29 PM,2:47,,,Booker 25' 3PT Running Pull-Up Jump Shot (3 PTS),19 - 23,4,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,113,1,98,1,7:29 PM,2:26,Bamba 3' Cutting Layup Shot (2 PTS) (Bol 1 AST),,,19 - 25,6,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200177,115,6,2,1,7:30 PM,2:26,,,Okogie S.FOUL (P1.T3) (A.Moyer-Gleich),,,5,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200177,117,9,1,1,7:30 PM,2:26,,,Suns Timeout: Regular (Reg.1 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200177,118,8,0,1,7:32 PM,2:26,SUB: Houstan FOR Okeke,,,,,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200177,119,8,0,1,7:32 PM,2:26,SUB: Carter Jr. FOR Suggs,,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200177,120,8,0,1,7:32 PM,2:26,SUB: Wagner FOR Bol,,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200177,121,8,0,1,7:32 PM,2:26,,,SUB: Saric FOR Craig,,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,5,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200177,126,3,10,1,7:33 PM,2:26,Bamba Free Throw 1 of 1 (3 PTS),,,19 - 26,7,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,127,5,45,1,7:33 PM,2:02,,,Okogie Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,5,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0022200177,128,1,79,1,7:34 PM,1:45,Ross 12' Pullup Jump Shot (2 PTS),,,19 - 28,9,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,129,1,3,1,7:34 PM,1:30,,,Landale 3' Hook Shot (2 PTS) (Booker 3 AST),21 - 28,7,5,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200177,132,2,79,1,7:35 PM,1:06,MISS Carter Jr. 18' Pullup Jump Shot,,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,133,4,0,1,7:35 PM,1:03,,,Saric REBOUND (Off:0 Def:1),,,5,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,134,1,75,1,7:35 PM,0:56,,,Booker 4' Driving Finger Roll Layup (5 PTS),23 - 28,5,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,135,1,6,1,7:35 PM,0:35,Wagner 4' Driving Layup (6 PTS) (Bamba 1 AST),,,23 - 30,7,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200177,136,6,1,1,7:35 PM,0:30,Wagner P.FOUL (P1.T2) (A.Moyer-Gleich),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200177,138,2,1,1,7:36 PM,0:28,,,MISS Landale 26' 3PT Jump Shot,,,5,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,139,4,0,1,7:36 PM,0:28,,,Saric REBOUND (Off:1 Def:1),,,5,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,140,2,5,1,7:36 PM,0:21,,,MISS Saric 2' Layup,,,5,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,141,4,0,1,7:36 PM,0:19,Wagner REBOUND (Off:0 Def:1),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,143,2,79,1,7:37 PM,0:00,MISS Ross 16' Pullup Jump Shot,,Okogie BLOCK (1 BLK),,,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,5,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,1
+0022200177,145,4,0,1,7:37 PM,0:00,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200177,146,13,0,1,7:37 PM,0:00,,End of 1st Period (7:37 PM EST),,23 - 30,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200177,152,12,0,2,7:40 PM,12:00,,Start of 2nd Period (7:40 PM EST),,23 - 30,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200177,153,5,4,2,7:40 PM,11:51,Carter Jr. Traveling Turnover (P1.T6),,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022200177,154,5,7,2,7:40 PM,11:40,,,Payne Discontinue Dribble Turnover (P3.T6),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0022200177,155,1,86,2,7:41 PM,11:25,Carter Jr. 10' Turnaround Fadeaway (5 PTS),,,23 - 32,9,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,156,2,1,2,7:41 PM,10:59,,,MISS Saric 3PT Jump Shot,,,5,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,157,4,0,2,7:41 PM,10:57,,,Landale REBOUND (Off:1 Def:1),,,5,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,158,2,5,2,7:41 PM,10:52,Bamba BLOCK (1 BLK),,MISS Saric 3' Layup,,,5,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,1
+0022200177,159,4,0,2,7:41 PM,10:49,Wagner REBOUND (Off:0 Def:2),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,160,1,108,2,7:41 PM,10:41,Bamba 1' Cutting Dunk Shot (5 PTS) (Wagner 1 AST),,,23 - 34,11,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200177,163,1,1,2,7:42 PM,10:24,,,Payne 27' 3PT Jump Shot (7 PTS) (Saric 1 AST),26 - 34,8,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,5,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200177,165,2,101,2,7:42 PM,10:11,MISS Wagner 7' Driving Floating Jump Shot,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,166,4,0,2,7:42 PM,10:08,,,Bridges REBOUND (Off:1 Def:1),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,167,1,2,2,7:42 PM,10:05,,,Lee 27' 3PT Running Jump Shot (3 PTS) (Bridges 1 AST),29 - 34,5,5,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200177,169,9,1,2,7:42 PM,10:03,MAGIC Timeout: Regular (Full 2 Short 0),,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200177,170,1,58,2,7:45 PM,9:44,Wagner 9' Turnaround Hook Shot (8 PTS),,,29 - 36,7,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,171,1,3,2,7:46 PM,9:24,,,Landale 2' Hook Shot (4 PTS),31 - 36,5,5,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,172,5,1,2,7:46 PM,9:05,Houstan Bad Pass Turnover (P1.T7),,Lee STEAL (1 STL),,,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,5,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200177,174,1,6,2,7:46 PM,8:59,,,Bridges 3' Driving Layup (2 PTS),33 - 36,3,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,175,7,2,2,7:46 PM,8:59,Bamba Violation:Defensive Goaltending (J.Williams),,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022200177,176,6,1,2,7:46 PM,8:43,,,Lee P.FOUL (P1.T1) (J.Williams),,,5,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200177,178,8,0,2,7:47 PM,8:43,SUB: Schofield FOR Bamba,,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200177,179,8,0,2,7:47 PM,8:43,,,SUB: Craig FOR Saric,,,5,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200177,182,2,1,2,7:47 PM,8:35,MISS Schofield 26' 3PT Jump Shot,,,,,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,183,4,0,2,7:47 PM,8:33,,,Landale REBOUND (Off:1 Def:2),,,5,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,184,6,17,2,7:47 PM,8:22,MAGIC T.Foul (Def. 3 Sec Carter Jr. ) (E.Scott),,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022200177,185,3,16,2,7:47 PM,8:22,,,Payne Free Throw Technical (8 PTS),34 - 36,2,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,187,2,58,2,7:48 PM,8:09,,,MISS Payne 7' Turnaround Hook Shot,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,188,4,0,2,7:48 PM,8:09,Schofield REBOUND (Off:0 Def:1),,,,,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,189,2,1,2,7:49 PM,8:03,MISS Ross 25' 3PT Jump Shot,,,,,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,190,4,0,2,7:49 PM,7:59,,,Landale REBOUND (Off:1 Def:3),,,5,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,191,1,80,2,7:49 PM,7:53,,,Lee 25' 3PT Step Back Jump Shot (6 PTS) (Bridges 2 AST),37 - 36,-1,5,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200177,193,2,1,2,7:49 PM,7:36,MISS Carter Jr. 27' 3PT Jump Shot,,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,194,4,0,2,7:49 PM,7:32,,,Lee REBOUND (Off:0 Def:1),,,5,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,195,2,1,2,7:49 PM,7:20,,,MISS Bridges 25' 3PT Jump Shot,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,196,4,0,2,7:49 PM,7:15,Houstan REBOUND (Off:0 Def:1),,,,,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,197,6,1,2,7:50 PM,7:05,,,Craig P.FOUL (P2.T2) (A.Moyer-Gleich),,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200177,199,8,0,2,7:50 PM,7:05,SUB: Hampton FOR Houstan,,,,,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200177,200,8,0,2,7:50 PM,7:05,SUB: Bol FOR Ross,,,,,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200177,201,8,0,2,7:50 PM,7:05,,,SUB: Ayton FOR Landale,,,5,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200177,205,6,4,2,7:50 PM,7:02,Wagner OFF.Foul (P2) (A.Moyer-Gleich),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200177,207,5,37,2,7:50 PM,7:02,Wagner Offensive Foul Turnover (P1.T8),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022200177,208,2,86,2,7:51 PM,6:45,,,MISS Ayton 5' Turnaround Fadeaway Shot,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,209,4,0,2,7:51 PM,6:42,,,Craig REBOUND (Off:2 Def:1),,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,210,5,4,2,7:51 PM,6:41,,,Lee Traveling Turnover (P1.T7),,,5,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0022200177,211,8,0,2,7:51 PM,6:41,SUB: Suggs FOR Wagner,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200177,213,2,79,2,7:51 PM,6:22,MISS Bol 15' Pullup Jump Shot,,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,214,4,0,2,7:51 PM,6:20,,,Payne REBOUND (Off:0 Def:2),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,215,2,1,2,7:51 PM,6:16,,,MISS Lee 24' 3PT Jump Shot,,,5,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,216,4,0,2,7:51 PM,6:16,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200177,218,8,0,2,7:52 PM,6:14,,,SUB: Booker FOR Lee,,,5,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200177,220,2,1,2,7:52 PM,6:10,,,MISS Bridges 24' 3PT Jump Shot,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,221,4,0,2,7:52 PM,6:08,Bol REBOUND (Off:0 Def:5),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,222,1,1,2,7:52 PM,5:54,Schofield 24' 3PT Jump Shot (3 PTS) (Hampton 1 AST),,,37 - 39,2,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200177,224,2,47,2,7:52 PM,5:38,Hampton BLOCK (1 BLK),,MISS Booker 10' Turnaround Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,1
+0022200177,225,4,0,2,7:53 PM,5:34,Bol REBOUND (Off:0 Def:6),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,228,2,1,2,7:53 PM,5:28,MISS Schofield 24' 3PT Jump Shot,,,,,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,229,4,0,2,7:53 PM,5:25,,,Booker REBOUND (Off:1 Def:2),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,230,1,5,2,7:53 PM,5:12,,,Ayton 3' Layup (10 PTS) (Bridges 3 AST),39 - 39,TIE,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200177,232,1,79,2,7:53 PM,4:53,Suggs 20' Pullup Jump Shot (10 PTS) (Carter Jr. 1 AST),,,39 - 41,2,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200177,234,2,1,2,7:54 PM,4:35,,,MISS Booker 25' 3PT Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,235,4,0,2,7:54 PM,4:32,Bol REBOUND (Off:0 Def:7),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,236,1,1,2,7:54 PM,4:23,Hampton 24' 3PT Jump Shot (3 PTS) (Suggs 3 AST),,,39 - 44,5,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200177,238,9,1,2,7:54 PM,4:21,,,Suns Timeout: Regular (Reg.2 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200177,239,8,0,2,7:54 PM,4:21,SUB: Okeke FOR Carter Jr.,,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200177,241,2,1,2,7:57 PM,4:03,,,MISS Payne 26' 3PT Jump Shot,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,242,4,0,2,7:57 PM,3:59,Schofield REBOUND (Off:0 Def:2),,,,,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,243,1,101,2,7:57 PM,3:51,Suggs 5' Driving Floating Jump Shot (12 PTS),,,39 - 46,7,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,244,6,1,2,7:58 PM,3:38,Suggs P.FOUL (P1.T1) (E.Scott),,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200177,246,2,80,2,7:59 PM,3:24,,,MISS Bridges 25' 3PT Step Back Jump Shot,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,247,4,0,2,7:59 PM,3:21,,,Booker REBOUND (Off:2 Def:2),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,248,6,1,2,7:59 PM,3:21,Suggs P.FOUL (P2.T2) (E.Scott),,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200177,250,2,86,2,8:00 PM,3:14,,,MISS Ayton 10' Turnaround Fadeaway Shot,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,251,4,0,2,8:00 PM,3:10,Suggs REBOUND (Off:0 Def:1),,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,252,1,47,2,8:00 PM,2:54,Hampton 11' Turnaround Jump Shot (5 PTS),,,39 - 48,9,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,253,1,1,2,8:00 PM,2:41,,,Craig 3PT Jump Shot (7 PTS) (Bridges 4 AST),42 - 48,6,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200177,255,1,79,2,8:01 PM,2:23,Bol 14' Pullup Jump Shot (7 PTS),,,42 - 50,8,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,256,5,4,2,8:01 PM,2:05,,,Ayton Traveling Turnover (P1.T8),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0022200177,257,2,1,2,8:01 PM,1:59,MISS Suggs 27' 3PT Jump Shot,,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,258,4,0,2,8:01 PM,1:56,,,Payne REBOUND (Off:0 Def:3),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,259,1,5,2,8:01 PM,1:50,,,Booker 2' Layup (7 PTS) (Bridges 5 AST),44 - 50,6,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200177,261,1,1,2,8:02 PM,1:29,Bol 27' 3PT Jump Shot (10 PTS) (Hampton 2 AST),,,44 - 53,9,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200177,263,1,79,2,8:02 PM,1:13,,,Payne 25' 3PT Pullup Jump Shot (11 PTS),47 - 53,6,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,264,2,1,2,8:02 PM,0:59,MISS Okeke 26' 3PT Jump Shot,,,,,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,265,4,0,2,8:02 PM,0:56,,,Bridges REBOUND (Off:1 Def:2),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,266,1,101,2,8:02 PM,0:50,,,Booker 10' Driving Floating Jump Shot (9 PTS) (Bridges 6 AST),49 - 53,4,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200177,268,1,6,2,8:03 PM,0:34,Suggs 2' Driving Layup (14 PTS),,,49 - 55,6,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,269,2,103,2,8:03 PM,0:30,,,MISS Payne 25' 3PT Running Pull-Up Jump Shot,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,270,4,0,2,8:03 PM,0:24,Suggs REBOUND (Off:0 Def:2),,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,271,1,79,2,8:03 PM,0:04,Hampton 26' 3PT Pullup Jump Shot (8 PTS),,,49 - 58,9,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,272,1,1,2,8:03 PM,0:00,,,Bridges 25' 3PT Jump Shot (5 PTS) (Booker 4 AST),52 - 58,6,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200177,274,18,0,2,8:04 PM,0:00,,Instant Replay2nd Period (8:04 PM EST),,52 - 58,6,0,272,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200177,275,13,0,2,8:04 PM,0:00,,End of 2nd Period (8:04 PM EST),,52 - 58,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200177,280,12,0,3,8:19 PM,12:00,,Start of 3rd Period (8:19 PM EST),,52 - 58,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200177,282,1,98,3,8:19 PM,11:46,Okeke 2' Cutting Layup Shot (5 PTS) (Carter Jr. 2 AST),,,52 - 60,8,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200177,284,1,1,3,8:20 PM,11:27,,,Payne 26' 3PT Jump Shot (14 PTS) (Booker 5 AST),55 - 60,5,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200177,286,1,6,3,8:20 PM,11:09,Wagner 2' Driving Layup (10 PTS),,,55 - 62,7,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,287,2,86,3,8:20 PM,10:59,,,MISS Bridges 10' Turnaround Fadeaway Shot,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,288,4,0,3,8:20 PM,10:57,Bol REBOUND (Off:0 Def:8),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,289,2,57,3,8:20 PM,10:45,MISS Carter Jr. 9' Driving Hook Shot,,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,290,4,0,3,8:20 PM,10:42,,,Ayton REBOUND (Off:1 Def:2),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,291,2,74,3,8:20 PM,10:38,,,MISS Bridges 2' Running Reverse Layup,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,292,4,0,3,8:20 PM,10:35,,,Booker REBOUND (Off:3 Def:2),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,293,2,6,3,8:21 PM,10:33,,,MISS Booker 4' Driving Layup,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,294,4,0,3,8:21 PM,10:30,Carter Jr. REBOUND (Off:0 Def:3),,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,295,2,1,3,8:21 PM,10:22,MISS Wagner 3PT Jump Shot,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,296,4,0,3,8:21 PM,10:16,Carter Jr. REBOUND (Off:1 Def:3),,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,297,1,107,3,8:21 PM,10:16,Carter Jr. Tip Dunk Shot (7 PTS),,,55 - 64,9,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,298,1,1,3,8:21 PM,10:09,,,Booker 26' 3PT Jump Shot (12 PTS) (Payne 2 AST),58 - 64,6,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200177,300,1,1,3,8:21 PM,9:56,Carter Jr. 25' 3PT Jump Shot (10 PTS) (Suggs 4 AST),,,58 - 67,9,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200177,302,1,58,3,8:21 PM,9:41,,,Ayton 9' Turnaround Hook Shot (12 PTS) (Payne 3 AST),60 - 67,7,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200177,304,2,86,3,8:22 PM,9:26,MISS Suggs 7' Turnaround Fadeaway Shot,,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,305,4,0,3,8:22 PM,9:25,Wagner REBOUND (Off:1 Def:2),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,327,2,97,3,8:22 PM,9:25,MISS Wagner 1' Tip Layup Shot,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,328,4,0,3,8:22 PM,9:22,,,Booker REBOUND (Off:3 Def:3),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,306,2,79,3,8:22 PM,9:17,,,MISS Booker 26' 3PT Pullup Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,307,4,0,3,8:22 PM,9:13,Bol REBOUND (Off:0 Def:9),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,308,2,79,3,8:22 PM,8:58,MISS Carter Jr. 17' Pullup Jump Shot,,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,309,4,0,3,8:22 PM,8:55,,,Booker REBOUND (Off:3 Def:4),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,310,2,1,3,8:22 PM,8:41,,,MISS Payne 26' 3PT Jump Shot,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,311,4,0,3,8:22 PM,8:37,Bol REBOUND (Off:0 Def:10),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,312,5,1,3,8:23 PM,8:18,Carter Jr. Bad Pass Turnover (P2.T9),,Ayton STEAL (1 STL),,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200177,314,2,1,3,8:23 PM,8:06,,,MISS Payne 26' 3PT Jump Shot,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,315,4,0,3,8:23 PM,8:01,Wagner REBOUND (Off:1 Def:3),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,316,2,57,3,8:23 PM,7:48,MISS Wagner 3' Driving Hook Shot,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,317,4,0,3,8:23 PM,7:45,,,Ayton REBOUND (Off:1 Def:3),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,318,2,79,3,8:23 PM,7:42,,,MISS Bridges 10' Pullup Jump Shot,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,319,4,0,3,8:23 PM,7:39,Bol REBOUND (Off:0 Def:11),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,320,2,1,3,8:24 PM,7:34,MISS Okeke 20' Jump Shot,,,,,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,321,4,0,3,8:24 PM,7:33,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200177,323,1,43,3,8:24 PM,7:27,Carter Jr. 3' Alley Oop Layup (12 PTS) (Wagner 2 AST),,,60 - 69,9,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200177,325,6,2,3,8:24 PM,7:14,Okeke S.FOUL (P1.T1) (E.Scott),,,,,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200177,329,3,11,3,8:25 PM,7:14,,,Booker Free Throw 1 of 2 (13 PTS),61 - 69,8,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,330,3,12,3,8:25 PM,7:14,,,Booker Free Throw 2 of 2 (14 PTS),62 - 69,7,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,334,2,1,3,8:25 PM,6:53,MISS Carter Jr. 26' 3PT Jump Shot,,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,335,4,0,3,8:25 PM,6:53,,,Booker REBOUND (Off:3 Def:5),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,336,5,4,3,8:26 PM,6:44,,,Bridges Traveling Turnover (P1.T9),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0022200177,337,9,1,3,8:26 PM,6:44,MAGIC Timeout: Regular (Full 3 Short 0),,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200177,338,2,79,3,8:29 PM,6:34,MISS Bol 18' Pullup Jump Shot,,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,339,4,0,3,8:29 PM,6:29,Carter Jr. REBOUND (Off:2 Def:3),,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,340,1,86,3,8:29 PM,6:22,Carter Jr. 10' Turnaround Fadeaway (14 PTS),,,62 - 71,9,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,341,2,79,3,8:29 PM,5:55,,,MISS Booker 17' Pullup Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,342,4,0,3,8:29 PM,5:53,Bol REBOUND (Off:0 Def:12),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,343,5,2,3,8:30 PM,5:40,Carter Jr. Lost Ball Turnover (P3.T10),,Ayton STEAL (2 STL),,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200177,345,1,1,3,8:30 PM,5:23,,,Ayton 16' Jump Shot (14 PTS),64 - 71,7,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,346,2,6,3,8:30 PM,5:03,MISS Bol 5' Driving Layup,,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,347,4,0,3,8:30 PM,5:00,Okeke REBOUND (Off:2 Def:0),,,,,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,348,2,72,3,8:30 PM,5:00,MISS Okeke Putback Layup,,,,,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,349,4,0,3,8:30 PM,5:00,Okeke REBOUND (Off:3 Def:0),,,,,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,350,6,1,3,8:30 PM,5:00,,,Booker P.FOUL (P1.T1) (J.Williams),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200177,352,2,1,3,8:31 PM,4:53,MISS Okeke 25' 3PT Jump Shot,,,,,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,353,4,0,3,8:31 PM,4:51,,,Ayton REBOUND (Off:1 Def:4),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,354,5,45,3,8:31 PM,4:51,,,Payne Out of Bounds - Bad Pass Turnover Turnover (P4.T10),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0022200177,355,8,0,3,8:31 PM,4:51,SUB: Ross FOR Wagner,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200177,358,8,0,3,8:31 PM,4:45,SUB: Bamba FOR Carter Jr.,,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200177,359,8,0,3,8:31 PM,4:45,,,SUB: Landale FOR Payne,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,5,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200177,360,8,0,3,8:31 PM,4:45,,,SUB: Lee FOR Ayton,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200177,364,1,6,3,8:32 PM,4:32,Okeke 2' Driving Layup (7 PTS) (Ross 1 AST),,,64 - 73,9,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200177,366,6,2,3,8:32 PM,4:32,,,Booker S.FOUL (P2.T2) (E.Scott),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200177,368,3,10,3,8:32 PM,4:32,Okeke Free Throw 1 of 1 (8 PTS),,,64 - 74,10,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,369,1,1,3,8:33 PM,4:18,,,Craig 13' Jump Shot (9 PTS) (Lee 1 AST),66 - 74,8,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,5,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200177,371,2,80,3,8:33 PM,3:59,MISS Suggs 25' 3PT Step Back Jump Shot,,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,372,4,0,3,8:33 PM,3:59,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200177,374,2,6,3,8:33 PM,3:50,,,MISS Booker 4' Driving Layup,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,376,4,0,3,8:33 PM,3:50,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200177,378,2,5,3,8:34 PM,3:44,,,MISS Booker 4' Layup,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,379,4,0,3,8:34 PM,3:42,Bamba REBOUND (Off:0 Def:2),,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,380,2,1,3,8:34 PM,3:32,MISS Bamba 25' 3PT Jump Shot,,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,381,4,0,3,8:34 PM,3:29,,,Landale REBOUND (Off:1 Def:4),,,5,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,382,6,2,3,8:34 PM,3:15,Bol S.FOUL (P1.T2) (A.Moyer-Gleich),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,5,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200177,384,3,11,3,8:35 PM,3:15,,,Landale Free Throw 1 of 2 (5 PTS),67 - 74,7,5,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,386,8,0,3,8:35 PM,3:15,SUB: Houstan FOR Bol,,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200177,387,8,0,3,8:35 PM,3:15,,,SUB: Biyombo FOR Craig,,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,5,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200177,390,8,0,3,8:35 PM,3:15,,,SUB: Washington Jr. FOR Bridges,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200177,392,3,12,3,8:35 PM,3:15,,,MISS Landale Free Throw 2 of 2,,,5,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,393,4,0,3,8:35 PM,3:13,Okeke REBOUND (Off:3 Def:1),,,,,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,394,1,1,3,8:36 PM,3:01,Okeke 25' 3PT Jump Shot (11 PTS) (Ross 2 AST),,,67 - 77,10,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200177,396,2,1,3,8:36 PM,2:48,,,MISS Lee 27' 3PT Jump Shot,,,5,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,397,4,0,3,8:36 PM,2:44,Bamba REBOUND (Off:0 Def:3),,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,398,1,1,3,8:36 PM,2:25,Houstan 3PT Jump Shot (3 PTS) (Bamba 2 AST),,,67 - 80,13,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200177,400,2,43,3,8:36 PM,2:10,,,MISS Biyombo 4' Alley Oop Layup,,,5,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,401,4,0,3,8:37 PM,2:06,,,Landale REBOUND (Off:2 Def:4),,,5,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,402,1,72,3,8:37 PM,2:06,,,Landale Putback Layup (7 PTS),69 - 80,11,5,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,403,1,1,3,8:37 PM,1:50,Bamba 26' 3PT Jump Shot (8 PTS) (Suggs 5 AST),,,69 - 83,14,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200177,405,1,79,3,8:37 PM,1:30,,,Lee 11' Pullup Jump Shot (8 PTS),71 - 83,12,5,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,406,1,6,3,8:37 PM,1:15,Suggs 3' Driving Layup (16 PTS),,,71 - 85,14,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,407,1,108,3,8:38 PM,1:00,,,Biyombo 1' Cutting Dunk Shot (2 PTS) (Booker 6 AST),73 - 85,12,5,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200177,409,6,1,3,8:38 PM,0:42,,,Biyombo P.FOUL (P1.T3) (A.Moyer-Gleich),,,5,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200177,411,9,1,3,8:38 PM,0:42,,,Suns Timeout: Regular (Reg.3 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200177,412,8,0,3,8:40 PM,0:42,SUB: Wagner FOR Suggs,,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200177,413,8,0,3,8:40 PM,0:42,,,SUB: Bridges FOR Landale,,,5,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200177,416,6,2,3,8:41 PM,0:40,,,Bridges S.FOUL (P1.PN) (E.Scott),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200177,418,3,11,3,8:42 PM,0:40,Wagner Free Throw 1 of 2 (11 PTS),,,73 - 86,13,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,419,3,12,3,8:42 PM,0:40,Wagner Free Throw 2 of 2 (12 PTS),,,73 - 87,14,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,420,2,6,3,8:42 PM,0:33,,,MISS Washington Jr. 4' Driving Layup,,,5,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,421,4,0,3,8:42 PM,0:31,Bamba REBOUND (Off:0 Def:4),,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,422,2,79,3,8:42 PM,0:12,MISS Wagner 26' 3PT Pullup Jump Shot,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,423,4,0,3,8:43 PM,0:08,,,Bridges REBOUND (Off:1 Def:3),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,426,6,31,3,8:43 PM,0:06,Ross Transition Take Foul (P1.T3) (E.Scott),,,,,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200177,428,3,10,3,8:43 PM,0:06,,,Booker Free Throw 1 of 1 (15 PTS),74 - 87,13,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,429,2,80,3,8:44 PM,0:00,,,MISS Washington Jr. 26' 3PT Step Back Jump Shot,,,5,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,430,4,0,3,8:44 PM,0:00,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200177,431,13,0,3,8:44 PM,0:00,,End of 3rd Period (8:44 PM EST),,74 - 87,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200177,438,12,0,4,8:47 PM,12:00,,Start of 4th Period (8:47 PM EST),,74 - 87,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200177,439,1,79,4,8:47 PM,11:46,,,Payne 26' 3PT Pullup Jump Shot (17 PTS),77 - 87,10,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,440,5,2,4,8:47 PM,11:29,Wagner Lost Ball Turnover (P2.T11),,Payne STEAL (1 STL),,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200177,442,1,1,4,8:47 PM,11:25,,,Payne 27' 3PT Jump Shot (20 PTS),80 - 87,7,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,443,2,57,4,8:47 PM,11:05,MISS Wagner 3' Driving Hook Shot,,Biyombo BLOCK (1 BLK),,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,5,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,1
+0022200177,445,4,0,4,8:48 PM,11:02,Ross REBOUND (Off:1 Def:0),,,,,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,446,1,101,4,8:48 PM,11:00,Ross 4' Driving Floating Jump Shot (4 PTS),,,80 - 89,9,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,447,2,1,4,8:48 PM,10:41,,,MISS Craig 26' 3PT Jump Shot,,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,448,4,0,4,8:48 PM,10:39,Houstan REBOUND (Off:0 Def:2),,,,,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,449,1,47,4,8:48 PM,10:27,Wagner 6' Turnaround Jump Shot (14 PTS),,,80 - 91,11,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,450,2,79,4,8:48 PM,10:15,,,MISS Payne 27' 3PT Pullup Jump Shot,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,451,4,0,4,8:48 PM,10:11,,,Biyombo REBOUND (Off:1 Def:0),,,5,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,452,1,75,4,8:48 PM,10:09,,,Payne 2' Driving Finger Roll Layup (22 PTS) (Biyombo 1 AST),82 - 91,9,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,5,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200177,454,6,2,4,8:49 PM,9:54,,,Biyombo S.FOUL (P2.T1) (E.Scott),,,5,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200177,456,3,11,4,8:49 PM,9:54,Carter Jr. Free Throw 1 of 2 (15 PTS),,,82 - 92,10,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,457,3,12,4,8:50 PM,9:54,Carter Jr. Free Throw 2 of 2 (16 PTS),,,82 - 93,11,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,458,1,58,4,8:50 PM,9:41,,,Biyombo 10' Turnaround Hook Shot (4 PTS) (Payne 4 AST),84 - 93,9,5,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200177,460,1,79,4,8:50 PM,9:19,Ross 25' 3PT Pullup Jump Shot (7 PTS),,,84 - 96,12,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,461,2,63,4,8:51 PM,8:55,,,MISS Craig 11' Fadeaway Jumper,,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,462,4,0,4,8:51 PM,8:51,Wagner REBOUND (Off:1 Def:4),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,463,2,79,4,8:51 PM,8:41,MISS Wagner 26' 3PT Pullup Jump Shot,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,464,4,0,4,8:51 PM,8:39,Bamba REBOUND (Off:1 Def:4),,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,465,6,2,4,8:51 PM,8:39,,,Payne S.FOUL (P2.T2) (J.Williams),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200177,467,3,11,4,8:52 PM,8:39,MISS Bamba Free Throw 1 of 2,,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,468,4,1,4,8:52 PM,8:39,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200177,469,3,12,4,8:52 PM,8:39,Bamba Free Throw 2 of 2 (9 PTS),,,84 - 97,13,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,470,2,1,4,8:52 PM,8:27,,,MISS Lee 24' 3PT Jump Shot,,,5,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,471,4,0,4,8:52 PM,8:23,Wagner REBOUND (Off:1 Def:5),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,472,1,75,4,8:52 PM,8:18,Carter Jr. 4' Driving Finger Roll Layup (18 PTS) (Wagner 3 AST),,,84 - 99,15,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200177,474,9,1,4,8:53 PM,8:18,,,Suns Timeout: Regular (Reg.4 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200177,475,8,0,4,8:55 PM,8:18,SUB: Hampton FOR Bamba,,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200177,476,8,0,4,8:55 PM,8:18,,,SUB: Ayton FOR Lee,,,5,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200177,477,8,0,4,8:55 PM,8:18,,,SUB: Booker FOR Biyombo,,,5,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200177,481,6,1,4,8:56 PM,8:08,Wagner P.FOUL (P3.T1) (A.Moyer-Gleich),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200177,483,1,1,4,8:56 PM,7:54,,,Bridges 24' 3PT Jump Shot (8 PTS) (Ayton 1 AST),87 - 99,12,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200177,485,1,101,4,8:57 PM,7:33,Ross 9' Driving Floating Jump Shot (9 PTS) (Carter Jr. 3 AST),,,87 - 101,14,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200177,487,2,58,4,8:57 PM,7:17,,,MISS Ayton 9' Turnaround Hook Shot,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,488,4,0,4,8:57 PM,7:15,Carter Jr. REBOUND (Off:2 Def:4),,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,489,1,1,4,8:57 PM,7:00,Ross 25' 3PT Jump Shot (12 PTS) (Carter Jr. 4 AST),,,87 - 104,17,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200177,491,1,47,4,8:57 PM,6:44,,,Booker 7' Turnaround Jump Shot (17 PTS),89 - 104,15,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,492,6,2,4,8:58 PM,6:25,,,Payne S.FOUL (P3.T3) (A.Moyer-Gleich),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200177,494,3,11,4,8:58 PM,6:25,Ross Free Throw 1 of 2 (13 PTS),,,89 - 105,16,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,495,3,12,4,8:59 PM,6:25,Ross Free Throw 2 of 2 (14 PTS),,,89 - 106,17,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,496,2,79,4,8:59 PM,6:10,,,MISS Booker 21' Pullup Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,497,4,0,4,8:59 PM,6:07,Ross REBOUND (Off:1 Def:1),,,,,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,498,2,44,4,8:59 PM,5:51,MISS Ross 4' Reverse Layup,,,,,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,499,4,0,4,8:59 PM,5:49,,,Craig REBOUND (Off:2 Def:2),,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,500,5,1,4,8:59 PM,5:36,Hampton STEAL (1 STL),,Booker Bad Pass Turnover (P2.T11),,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200177,502,9,1,4,9:00 PM,5:30,MAGIC Timeout: Regular (Full 4 Short 0),,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200177,503,8,0,4,9:00 PM,5:30,SUB: Bol FOR Houstan,,,,,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200177,505,5,11,4,9:03 PM,5:13,MAGIC Turnover: Shot Clock (T#12),,,,,2,1610612753,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200177,506,6,1,4,9:03 PM,5:12,Hampton P.FOUL (P1.T2) (A.Moyer-Gleich),,,,,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200177,508,2,1,4,9:04 PM,5:10,,,MISS Booker 27' 3PT Jump Shot,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,509,4,0,4,9:04 PM,5:06,Carter Jr. REBOUND (Off:2 Def:5),,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,510,2,5,4,9:04 PM,4:55,MISS Carter Jr. 3' Layup,,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,511,4,0,4,9:04 PM,4:55,Carter Jr. REBOUND (Off:3 Def:5),,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,512,6,2,4,9:04 PM,4:55,,,Bridges S.FOUL (P2.T4) (A.Moyer-Gleich),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200177,514,3,11,4,9:04 PM,4:55,Carter Jr. Free Throw 1 of 2 (19 PTS),,,89 - 107,18,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,515,3,12,4,9:05 PM,4:55,Carter Jr. Free Throw 2 of 2 (20 PTS),,,89 - 108,19,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,516,2,75,4,9:05 PM,4:44,,,MISS Payne 4' Driving Finger Roll Layup,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,517,4,0,4,9:05 PM,4:41,Carter Jr. REBOUND (Off:3 Def:6),,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,518,5,45,4,9:05 PM,4:37,Hampton Out of Bounds - Bad Pass Turnover Turnover (P1.T13),,,,,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0022200177,520,8,0,4,9:05 PM,4:27,SUB: Okeke FOR Hampton,,,,,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200177,522,2,1,4,9:06 PM,4:25,,,MISS Ayton 26' 3PT Jump Shot,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,523,4,0,4,9:06 PM,4:21,Bol REBOUND (Off:0 Def:13),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,524,1,43,4,9:06 PM,4:05,Wagner 2' Alley Oop Layup (16 PTS) (Carter Jr. 5 AST),,,89 - 110,21,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200177,526,9,1,4,9:06 PM,4:04,,,Suns Timeout: Regular (Reg.5 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200177,528,8,0,4,9:07 PM,4:04,SUB: Suggs FOR Ross,,,,,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200177,529,8,0,4,9:07 PM,4:04,,,SUB: Okogie FOR Craig,,,5,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,5,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200177,530,8,0,4,9:07 PM,4:04,,,SUB: Biyombo FOR Booker,,,5,1626164,Devin Booker,1610612756.0,Phoenix,Suns,PHX,5,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200177,531,8,0,4,9:07 PM,4:04,,,SUB: Saric FOR Payne,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,5,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200177,532,8,0,4,9:07 PM,4:04,,,SUB: Washington Jr. FOR Ayton,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200177,533,8,0,4,9:07 PM,4:04,,,SUB: Lee FOR Bridges,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0022200177,540,1,79,4,9:08 PM,3:49,,,Washington Jr. 14' Pullup Jump Shot (2 PTS),91 - 110,19,5,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,541,6,2,4,9:08 PM,3:34,,,Washington Jr. S.FOUL (P1.PN) (A.Moyer-Gleich),,,5,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0022200177,543,3,11,4,9:08 PM,3:34,Wagner Free Throw 1 of 2 (17 PTS),,,91 - 111,20,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,544,3,12,4,9:08 PM,3:34,MISS Wagner Free Throw 2 of 2,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,545,4,0,4,9:09 PM,3:31,,,Biyombo REBOUND (Off:1 Def:1),,,5,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,546,2,1,4,9:09 PM,3:17,,,MISS Saric 25' 3PT Jump Shot,,,5,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,547,4,0,4,9:09 PM,3:13,Carter Jr. REBOUND (Off:3 Def:7),,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,548,2,1,4,9:09 PM,2:56,MISS Carter Jr. 26' 3PT Jump Shot,,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,549,4,0,4,9:09 PM,2:53,,,Okogie REBOUND (Off:0 Def:1),,,5,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,550,2,79,4,9:10 PM,2:46,,,MISS Okogie 22' Pullup Jump Shot,,,5,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,551,4,0,4,9:10 PM,2:42,Suggs REBOUND (Off:0 Def:3),,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,552,2,1,4,9:10 PM,2:25,MISS Suggs 26' 3PT Jump Shot,,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,553,4,0,4,9:10 PM,2:22,,,Saric REBOUND (Off:1 Def:2),,,5,203967,Dario Šarić,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,554,2,58,4,9:10 PM,2:10,,,MISS Biyombo 8' Turnaround Hook Shot,,,5,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,555,4,0,4,9:10 PM,2:10,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200177,556,8,0,4,9:11 PM,2:10,SUB: Schofield FOR Wagner,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200177,557,8,0,4,9:11 PM,2:10,SUB: Houstan FOR Carter Jr.,,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0022200177,560,10,0,4,9:11 PM,2:10,Jump Ball Bol vs. Biyombo: Tip to Washington Jr.,,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,5,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,5,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,1
+0022200177,563,2,1,4,9:11 PM,1:48,,,MISS Washington Jr. 26' 3PT Jump Shot,,,5,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,564,4,0,4,9:11 PM,1:45,Bol REBOUND (Off:0 Def:14),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,565,5,2,4,9:12 PM,1:30,Suggs Lost Ball Turnover (P2.T14),,Biyombo STEAL (1 STL),,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,5,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200177,567,1,50,4,9:12 PM,1:28,,,Biyombo 1' Running Dunk (6 PTS) (Washington Jr. 1 AST),93 - 111,18,5,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,5,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0022200177,569,6,2,4,9:12 PM,1:28,Suggs S.FOUL (P3.T3) (E.Scott),,,,,4,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,5,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0022200177,571,3,10,4,9:12 PM,1:28,,,Biyombo Free Throw 1 of 1 (7 PTS),94 - 111,17,5,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,572,1,1,4,9:12 PM,1:12,Bol 27' 3PT Jump Shot (13 PTS) (Okeke 3 AST),,,94 - 114,20,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0022200177,574,1,79,4,9:13 PM,1:00,,,Washington Jr. 27' 3PT Pullup Jump Shot (5 PTS),97 - 114,17,5,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,575,2,1,4,9:13 PM,0:44,MISS Okeke 25' 3PT Jump Shot,,,,,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,576,4,0,4,9:13 PM,0:41,,,Lee REBOUND (Off:0 Def:2),,,5,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,577,2,78,4,9:13 PM,0:36,,,MISS Biyombo 10' Floating Jump Shot,,,5,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,578,4,0,4,9:13 PM,0:29,Bol REBOUND (Off:0 Def:15),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,579,5,11,4,9:14 PM,0:08,MAGIC Turnover: Shot Clock (T#15),,,,,2,1610612753,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200177,581,2,80,4,9:14 PM,0:03,,,MISS Washington Jr. 26' 3PT Step Back Jump Shot,,,5,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0022200177,582,4,0,4,9:14 PM,0:00,Okeke REBOUND (Off:3 Def:2),,,,,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0022200177,583,13,0,4,9:15 PM,0:00,,End of 4th Period (9:15 PM EST),,97 - 114,17,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

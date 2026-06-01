@@ -1,0 +1,451 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022300573,2,12,0,1,7:42 PM,12:00,,Start of 1st Period (7:42 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300573,4,10,0,1,7:42 PM,12:00,Jump Ball Hartenstein vs. Sengun: Tip to Smith Jr.,,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,1
+0022300573,7,2,1,1,7:42 PM,11:46,,,MISS Ja. Green 25' 3PT Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,8,4,0,1,7:42 PM,11:44,Hartenstein REBOUND (Off:0 Def:1),,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,9,2,1,1,7:42 PM,11:27,MISS Anunoby 3PT Jump Shot,,,,,4,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,10,4,0,1,7:42 PM,11:25,,,Sengun REBOUND (Off:0 Def:1),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,11,1,5,1,7:42 PM,11:08,,,Brooks 2' Layup (2 PTS) (VanVleet 1 AST),2 - 0,-2,5,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022300573,13,5,1,1,7:43 PM,10:45,DiVincenzo Bad Pass Turnover (P1.T1),,Ja. Green STEAL (1 STL),,,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022300573,15,5,40,1,7:43 PM,10:34,,,Ja. Green Out of Bounds Lost Ball Turnover (P1.T1),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022300573,16,2,5,1,7:43 PM,10:16,MISS Hartenstein 1' Layup,,Brooks BLOCK (1 BLK),,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,5,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,1
+0022300573,18,4,0,1,7:43 PM,10:16,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300573,20,1,1,1,7:44 PM,10:14,Randle 3PT Jump Shot (3 PTS) (Brunson 1 AST),,,2 - 3,1,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300573,22,1,79,1,7:44 PM,9:56,,,Smith Jr. 9' Pullup Jump Shot (2 PTS) (Sengun 1 AST),4 - 3,-1,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022300573,24,1,102,1,7:44 PM,9:37,Randle 2' Driving Floating Bank Jump Shot (5 PTS),,,4 - 5,1,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,25,1,47,1,7:45 PM,9:20,,,Sengun 6' Turnaround Jump Shot (2 PTS) (VanVleet 2 AST),6 - 5,-1,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022300573,27,2,1,1,7:45 PM,9:08,MISS Randle 25' 3PT Jump Shot,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,28,4,0,1,7:45 PM,9:06,,,Ja. Green REBOUND (Off:0 Def:1),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,29,2,86,1,7:45 PM,8:47,,,MISS Sengun 8' Turnaround Fadeaway Shot,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,30,4,0,1,7:45 PM,8:46,Brunson REBOUND (Off:0 Def:1),,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,31,1,79,1,7:45 PM,8:35,Brunson 25' 3PT Pullup Jump Shot (3 PTS),,,6 - 8,2,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,32,1,1,1,7:46 PM,8:23,,,Smith Jr. 27' 3PT Jump Shot (5 PTS) (VanVleet 3 AST),9 - 8,-1,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022300573,34,2,79,1,7:46 PM,8:10,MISS Brunson 25' 3PT Pullup Jump Shot,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,35,4,0,1,7:46 PM,8:08,,,Ja. Green REBOUND (Off:0 Def:2),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,36,2,101,1,7:46 PM,8:01,,,MISS Ja. Green 3' Driving Floating Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,37,4,0,1,7:46 PM,7:59,Brunson REBOUND (Off:0 Def:2),,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,38,5,1,1,7:46 PM,7:53,DiVincenzo Bad Pass Turnover (P2.T2),,Smith Jr. STEAL (1 STL),,,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022300573,40,1,41,1,7:46 PM,7:49,,,Ja. Green 1' Running Layup (2 PTS) (Sengun 2 AST),11 - 8,-3,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022300573,41,5,2,1,7:47 PM,7:23,Randle Lost Ball Turnover (P1.T3),,VanVleet STEAL (1 STL),,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022300573,43,2,1,1,7:47 PM,7:17,,,MISS Ja. Green 24' 3PT Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,44,4,0,1,7:47 PM,7:15,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300573,47,5,1,1,7:47 PM,7:11,Anunoby STEAL (1 STL),,Ja. Green Bad Pass Turnover (P2.T2),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300573,49,1,79,1,7:47 PM,7:05,Brunson 25' 3PT Pullup Jump Shot (6 PTS) (DiVincenzo 1 AST),,,11 - 11,TIE,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300573,51,1,6,1,7:47 PM,6:46,,,Ja. Green 2' Driving Layup (4 PTS) (Sengun 3 AST),13 - 11,-2,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022300573,52,6,2,1,7:48 PM,6:46,Hartenstein S.FOUL (P1.T1) (T.Brothers),,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022300573,54,9,1,1,7:48 PM,6:46,KNICKS Timeout: Regular (Full 1 Short 0),,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300573,56,3,10,1,7:51 PM,6:46,,,Ja. Green Free Throw 1 of 1 (5 PTS),14 - 11,-3,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,58,1,5,1,7:52 PM,6:22,Hartenstein 1' Layup (2 PTS) (Brunson 2 AST),,,14 - 13,-1,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300573,60,6,2,1,7:52 PM,6:22,,,Smith Jr. S.FOUL (P1.T1) (J.Orr),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300573,62,18,0,1,7:52 PM,6:22,,Instant Replay1st Period (7:52 PM EST),,14 - 13,-1,0,60,,,,,,0,0,,,,,,1,0,,,,,,0
+0022300573,63,3,10,1,7:54 PM,6:22,Hartenstein Free Throw 1 of 1 (3 PTS),,,14 - 14,TIE,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,64,2,1,1,7:54 PM,6:01,,,MISS Sengun 18' Jump Shot,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,65,4,0,1,7:54 PM,5:59,DiVincenzo REBOUND (Off:0 Def:1),,,,,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,66,2,79,1,7:55 PM,5:51,MISS DiVincenzo 26' 3PT Pullup Jump Shot,,,,,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,67,4,0,1,7:55 PM,5:49,,,Ja. Green REBOUND (Off:0 Def:3),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,68,1,79,1,7:55 PM,5:43,,,Ja. Green 19' Pullup Jump Shot (7 PTS),16 - 14,-2,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,69,7,5,1,7:55 PM,5:23,,,Sengun Violation:Kicked Ball (A.Moyer-Gleich),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+0022300573,70,8,0,1,7:55 PM,5:23,SUB: Hart FOR DiVincenzo,,,,,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300573,84,8,0,1,7:55 PM,5:23,,,SUB: Tate FOR Brooks,,,5,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022300573,74,2,79,1,7:56 PM,5:18,MISS Brunson 25' 3PT Pullup Jump Shot,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,75,4,0,1,7:56 PM,5:16,,,Smith Jr. REBOUND (Off:0 Def:1),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,76,2,103,1,7:56 PM,5:08,,,MISS VanVleet 25' 3PT Running Pull-Up Jump Shot,,,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,85,4,0,1,7:56 PM,5:05,,,Smith Jr. REBOUND (Off:1 Def:1),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,78,2,79,1,7:56 PM,4:56,,,MISS Smith Jr. 6' Pullup Jump Shot,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,79,4,0,1,7:56 PM,4:54,Anunoby REBOUND (Off:0 Def:1),,,,,4,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,80,6,2,1,7:56 PM,4:50,,,Sengun S.FOUL (P1.T2) (T.Brothers),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,4,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300573,82,3,11,1,7:57 PM,4:50,Anunoby Free Throw 1 of 2 (1 PTS),,,16 - 15,-1,4,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,83,3,12,1,7:57 PM,4:50,Anunoby Free Throw 2 of 2 (2 PTS),,,16 - 16,TIE,4,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,86,1,9,1,7:57 PM,4:32,,,Smith Jr. 1' Driving Dunk (7 PTS) (Tate 1 AST),18 - 16,-2,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022300573,88,2,57,1,7:57 PM,4:09,MISS Randle 10' Driving Hook Shot,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,89,4,0,1,7:57 PM,4:07,Randle REBOUND (Off:1 Def:0),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,90,1,5,1,7:58 PM,4:04,Randle 1' Layup (7 PTS),,,18 - 18,TIE,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,91,2,79,1,7:58 PM,3:52,,,MISS Ja. Green 26' 3PT Pullup Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,92,4,0,1,7:58 PM,3:50,Anunoby REBOUND (Off:0 Def:2),,,,,4,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,93,2,41,1,7:58 PM,3:45,MISS Brunson Running Layup,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,94,4,0,1,7:58 PM,3:43,,,Sengun REBOUND (Off:0 Def:2),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,389,2,5,1,7:58 PM,3:38,Hartenstein BLOCK (1 BLK),,MISS Sengun 4' Layup,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,1
+0022300573,391,4,0,1,7:58 PM,3:38,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300573,97,9,1,1,7:58 PM,3:38,KNICKS Timeout: Regular (Full 2 Short 0),,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300573,99,8,0,1,7:59 PM,3:38,SUB: McBride FOR Brunson,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,4,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300573,100,8,0,1,7:59 PM,3:38,,,SUB: Whitmore FOR Ja. Green,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,1641715,Cam Whitmore,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022300573,101,8,0,1,7:59 PM,3:38,,,SUB: Brooks FOR Smith Jr.,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022300573,98,18,5,1,7:59 PM,3:38,,Instant Replay1st Period (7:59 PM EST),,18 - 18,TIE,0,95,Mark Bryant,,,,,0,0,,,,,,1,0,,,,,,1
+0022300573,105,2,1,1,8:01 PM,3:33,,,MISS Tate 25' 3PT Jump Shot,,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0022300573,106,4,0,1,8:01 PM,3:31,,,Sengun REBOUND (Off:1 Def:2),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0022300573,107,2,97,1,8:01 PM,3:31,,,MISS Sengun Tip Layup Shot,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0022300573,108,4,0,1,8:02 PM,3:30,,,Sengun REBOUND (Off:2 Def:2),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0022300573,110,5,4,1,8:02 PM,3:24,,,Sengun Traveling Turnover (P1.T3),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022300573,111,2,63,1,8:02 PM,3:10,MISS Randle 9' Fadeaway Jumper,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,112,4,0,1,8:02 PM,3:08,,,Tate REBOUND (Off:0 Def:1),,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,113,2,41,1,8:02 PM,3:03,,,MISS Brooks 2' Running Layup,,,5,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,114,4,0,1,8:02 PM,3:01,Hartenstein REBOUND (Off:0 Def:2),,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,115,1,5,1,8:03 PM,2:43,Hartenstein 2' Layup (5 PTS) (McBride 1 AST),,,18 - 20,2,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,4,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300573,117,2,79,1,8:03 PM,2:28,,,MISS VanVleet 25' 3PT Pullup Jump Shot,,,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,118,4,0,1,8:03 PM,2:26,Hart REBOUND (Off:0 Def:1),,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,119,5,45,1,8:03 PM,2:16,Anunoby Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,,,4,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022300573,120,8,0,1,8:03 PM,2:16,,,SUB: Thompson FOR Sengun,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022300573,121,8,0,1,8:03 PM,2:16,,,SUB: Je. Green FOR VanVleet,,,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,5,201145,Jeff Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022300573,124,8,0,1,8:03 PM,2:16,SUB: Grimes FOR Anunoby,,,,,4,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300573,126,2,6,1,8:04 PM,2:06,,,MISS Whitmore 5' Driving Layup,,,5,1641715,Cam Whitmore,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,127,4,0,1,8:04 PM,2:04,Hart REBOUND (Off:0 Def:2),,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,128,2,41,1,8:04 PM,1:58,MISS Grimes 2' Running Layup,,,,,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,129,4,0,1,8:04 PM,1:57,Grimes REBOUND (Off:1 Def:0),,,,,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,130,2,1,1,8:04 PM,1:55,MISS Randle 26' 3PT Jump Shot,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,131,4,0,1,8:04 PM,1:54,,,Thompson REBOUND (Off:0 Def:1),,,5,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,132,6,2,1,8:04 PM,1:39,Grimes S.FOUL (P1.T2) (T.Brothers),,,,,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,5,201145,Jeff Green,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022300573,134,3,11,1,8:05 PM,1:39,,,Je. Green Free Throw 1 of 2 (1 PTS),19 - 20,1,5,201145,Jeff Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,135,8,0,1,8:05 PM,1:39,SUB: Achiuwa FOR Hartenstein,,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300573,137,3,12,1,8:05 PM,1:39,,,Je. Green Free Throw 2 of 2 (2 PTS),20 - 20,TIE,5,201145,Jeff Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,138,6,1,1,8:05 PM,1:33,,,Thompson P.FOUL (P1.T3) (J.Orr),,,5,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,4,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300573,140,2,1,1,8:06 PM,1:29,MISS McBride 3PT Jump Shot,,,,,4,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,141,4,0,1,8:06 PM,1:27,,,Whitmore REBOUND (Off:0 Def:1),,,5,1641715,Cam Whitmore,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,142,1,108,1,8:06 PM,1:15,,,Thompson 1' Cutting Dunk Shot (2 PTS) (Tate 2 AST),22 - 20,-2,5,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022300573,144,6,26,1,8:06 PM,1:03,Randle Offensive Charge Foul (P1) (T.Brothers),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022300573,146,5,37,1,8:06 PM,1:03,Randle Offensive Foul Turnover (P2.T5),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022300573,147,2,1,1,8:07 PM,0:49,,,MISS Brooks 25' 3PT Jump Shot,,,5,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,148,4,0,1,8:07 PM,0:46,Randle REBOUND (Off:1 Def:1),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,149,1,5,1,8:07 PM,0:41,Randle 1' Layup (9 PTS),,,22 - 22,TIE,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,150,1,1,1,8:07 PM,0:26,,,Je. Green 25' 3PT Jump Shot (5 PTS) (Thompson 1 AST),25 - 22,-3,5,201145,Jeff Green,1610612745.0,Houston,Rockets,HOU,5,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022300573,152,6,2,1,8:08 PM,0:02,,,Thompson S.FOUL (P2.PN) (A.Moyer-Gleich),,,5,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300573,154,3,11,1,8:08 PM,0:02,Randle Free Throw 1 of 2 (10 PTS),,,25 - 23,-2,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,155,8,0,1,8:08 PM,0:02,,,SUB: Sengun FOR Tate,,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022300573,156,8,0,1,8:08 PM,0:02,,,SUB: VanVleet FOR Thompson,,,5,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022300573,159,3,12,1,8:08 PM,0:02,MISS Randle Free Throw 2 of 2,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,160,4,0,1,8:08 PM,0:00,,,Whitmore REBOUND (Off:0 Def:2),,,5,1641715,Cam Whitmore,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,161,13,0,1,8:09 PM,0:00,,End of 1st Period (8:09 PM EST),,25 - 23,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300573,168,12,0,2,8:12 PM,12:00,,Start of 2nd Period (8:12 PM EST),,25 - 23,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300573,169,1,102,2,8:12 PM,11:40,Hart 2' Driving Floating Bank Jump Shot (2 PTS) (Grimes 1 AST),,,25 - 25,TIE,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300573,171,2,47,2,8:13 PM,11:10,,,MISS Brooks 12' Turnaround Jump Shot,,,5,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,172,4,0,2,8:13 PM,11:08,Achiuwa REBOUND (Off:0 Def:1),,,,,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,173,6,1,2,8:13 PM,11:05,,,Brooks P.FOUL (P1.T1) (A.Moyer-Gleich),,,5,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300573,175,2,6,2,8:13 PM,10:42,MISS Hart 3' Driving Layup,,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,176,4,0,2,8:13 PM,10:41,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300573,177,5,11,2,8:14 PM,10:41,KNICKS Turnover: Shot Clock (T#6),,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300573,178,6,1,2,8:14 PM,10:33,McBride P.FOUL (P1.T1) (T.Brothers),,,,,4,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,5,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022300573,180,2,47,2,8:14 PM,10:23,,,MISS Thompson 11' Turnaround Jump Shot,,,5,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,181,4,0,2,8:15 PM,10:21,Achiuwa REBOUND (Off:0 Def:2),,,,,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,182,2,79,2,8:15 PM,10:05,MISS McBride 25' 3PT Pullup Jump Shot,,,,,4,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,183,4,0,2,8:15 PM,10:03,Hart REBOUND (Off:1 Def:2),,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,184,2,6,2,8:15 PM,9:55,MISS Achiuwa 3' Driving Layup,,,,,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,185,4,0,2,8:15 PM,9:53,Achiuwa REBOUND (Off:1 Def:2),,,,,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,186,2,97,2,8:15 PM,9:53,MISS Achiuwa Tip Layup Shot,,,,,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,187,4,0,2,8:15 PM,9:52,,,Je. Green REBOUND (Off:0 Def:1),,,5,201145,Jeff Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,188,2,2,2,8:15 PM,9:48,,,MISS Je. Green 7' Running Jump Shot,,,5,201145,Jeff Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,189,4,0,2,8:15 PM,9:46,Hart REBOUND (Off:1 Def:3),,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,190,2,2,2,8:15 PM,9:39,MISS McBride 25' 3PT Running Jump Shot,,,,,4,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,191,4,0,2,8:15 PM,9:37,Hart REBOUND (Off:2 Def:3),,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,192,6,2,2,8:16 PM,9:37,,,Brooks S.FOUL (P2.T2) (J.Orr),,,5,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300573,194,3,13,2,8:16 PM,9:37,Grimes Free Throw 1 of 3 (1 PTS),,,25 - 26,1,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,195,3,14,2,8:16 PM,9:37,Grimes Free Throw 2 of 3 (2 PTS),,,25 - 27,2,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,196,3,15,2,8:16 PM,9:37,Grimes Free Throw 3 of 3 (3 PTS),,,25 - 28,3,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,197,2,6,2,8:16 PM,9:25,Achiuwa BLOCK (1 BLK),,MISS Whitmore 1' Driving Layup,,,5,1641715,Cam Whitmore,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,1
+0022300573,199,4,0,2,8:17 PM,9:23,Anunoby REBOUND (Off:0 Def:3),,,,,4,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,200,2,1,2,8:17 PM,9:17,MISS Grimes 25' 3PT Jump Shot,,,,,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,201,4,0,2,8:17 PM,9:15,,,Smith Jr. REBOUND (Off:1 Def:2),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,202,2,80,2,8:17 PM,9:04,,,MISS Whitmore 25' 3PT Step Back Jump Shot,,,5,1641715,Cam Whitmore,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,203,4,0,2,8:17 PM,9:02,Grimes REBOUND (Off:1 Def:1),,,,,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,204,6,2,2,8:17 PM,8:47,,,Whitmore S.FOUL (P1.T3) (J.Orr),,,5,1641715,Cam Whitmore,1610612745.0,Houston,Rockets,HOU,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300573,206,3,11,2,8:18 PM,8:47,Grimes Free Throw 1 of 2 (4 PTS),,,25 - 29,4,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,207,8,0,2,8:18 PM,8:47,,,SUB: Ja. Green FOR Whitmore,,,5,1641715,Cam Whitmore,1610612745.0,Houston,Rockets,HOU,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022300573,208,8,0,2,8:18 PM,8:47,,,SUB: VanVleet FOR Thompson,,,5,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022300573,211,8,0,2,8:18 PM,8:47,SUB: Brunson FOR McBride,,,,,4,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300573,213,3,12,2,8:18 PM,8:47,Grimes Free Throw 2 of 2 (5 PTS),,,25 - 30,5,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,214,6,1,2,8:18 PM,8:33,Achiuwa P.FOUL (P1.T2) (J.Orr),,,,,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,5,201145,Jeff Green,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022300573,216,8,0,2,8:18 PM,8:33,SUB: Hartenstein FOR Achiuwa,,,,,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300573,217,8,0,2,8:18 PM,8:33,,,SUB: Sengun FOR Smith Jr.,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022300573,220,1,9,2,8:19 PM,8:25,,,Sengun Driving Dunk (4 PTS) (VanVleet 4 AST),27 - 30,3,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022300573,222,1,79,2,8:19 PM,8:15,Brunson 8' Pullup Jump Shot (8 PTS),,,27 - 32,5,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,223,2,79,2,8:20 PM,8:03,,,MISS VanVleet 25' 3PT Pullup Jump Shot,,,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,224,4,0,2,8:20 PM,8:01,Anunoby REBOUND (Off:0 Def:4),,,,,4,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,225,5,1,2,8:20 PM,7:51,Hartenstein Bad Pass Turnover (P1.T7),,Brooks STEAL (1 STL),,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022300573,227,6,1,2,8:20 PM,7:48,Hart P.FOUL (P1.T3) (A.Moyer-Gleich),,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022300573,229,2,1,2,8:20 PM,7:45,,,MISS VanVleet 29' 3PT Jump Shot,,,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,230,4,0,2,8:20 PM,7:43,Hart REBOUND (Off:2 Def:4),,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,231,2,1,2,8:20 PM,7:34,MISS Hart 27' 3PT Jump Shot,,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,232,4,0,2,8:20 PM,7:32,,,VanVleet REBOUND (Off:0 Def:1),,,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,233,6,1,2,8:21 PM,7:29,Brunson P.FOUL (P1.T4) (T.Brothers),,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022300573,235,6,2,2,8:21 PM,7:25,Hartenstein S.FOUL (P2.PN) (A.Moyer-Gleich),,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022300573,237,3,11,2,8:21 PM,7:25,,,Ja. Green Free Throw 1 of 2 (8 PTS),28 - 32,4,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,238,3,12,2,8:22 PM,7:25,,,Ja. Green Free Throw 2 of 2 (9 PTS),29 - 32,3,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,239,2,1,2,8:22 PM,7:04,MISS Grimes 3PT Jump Shot,,,,,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,240,4,0,2,8:22 PM,7:02,,,Sengun REBOUND (Off:2 Def:3),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,241,2,80,2,8:22 PM,6:49,,,MISS Ja. Green 19' Step Back Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,242,4,0,2,8:22 PM,6:47,,,Je. Green REBOUND (Off:1 Def:1),,,5,201145,Jeff Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,246,9,1,2,8:23 PM,6:40,KNICKS Timeout: Regular (Full 3 Short 0),,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300573,247,18,5,2,8:23 PM,6:40,,Instant Replay2nd Period (8:23 PM EST),,29 - 32,3,0,243,Aaron McKie,,,,,0,0,,,,,,1,0,,,,,,1
+0022300573,248,6,1,2,8:25 PM,6:40,Hart P.FOUL (P2.PN) (T.Brothers),,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,5,201145,Jeff Green,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022300573,250,3,11,2,8:26 PM,6:40,,,Je. Green Free Throw 1 of 2 (6 PTS),30 - 32,2,5,201145,Jeff Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,251,3,12,2,8:26 PM,6:40,,,Je. Green Free Throw 2 of 2 (7 PTS),31 - 32,1,5,201145,Jeff Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,300,8,0,2,8:26 PM,6:40,,,SUB: Whitmore FOR Brooks,,,5,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,5,1641715,Cam Whitmore,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022300573,252,2,5,2,8:27 PM,6:23,MISS Hartenstein 2' Layup,,Sengun BLOCK (1 BLK),,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1
+0022300573,254,4,0,2,8:27 PM,6:21,Hart REBOUND (Off:3 Def:4),,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,255,6,2,2,8:27 PM,6:17,,,Je. Green S.FOUL (P1.T4) (T.Brothers),,,5,201145,Jeff Green,1610612745.0,Houston,Rockets,HOU,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300573,257,3,11,2,8:27 PM,6:17,MISS Brunson Free Throw 1 of 2,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,258,4,1,2,8:27 PM,6:17,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300573,259,3,12,2,8:28 PM,6:17,Brunson Free Throw 2 of 2 (9 PTS),,,31 - 33,2,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,260,2,1,2,8:28 PM,5:57,,,MISS Je. Green 25' 3PT Jump Shot,,,5,201145,Jeff Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,261,4,0,2,8:28 PM,5:55,Hartenstein REBOUND (Off:0 Def:3),,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,262,1,1,2,8:28 PM,5:44,Grimes 25' 3PT Jump Shot (8 PTS) (Brunson 3 AST),,,31 - 36,5,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300573,264,6,17,2,8:29 PM,5:30,KNICKS T.Foul (Def. 3 Sec Anunoby ) (J.Orr),,,,,4,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022300573,265,3,16,2,8:29 PM,5:30,,,VanVleet Free Throw Technical (1 PTS),32 - 36,4,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,266,8,0,2,8:29 PM,5:30,SUB: Randle FOR Grimes,,,,,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300573,267,8,0,2,8:29 PM,5:30,,,SUB: Smith Jr. FOR Je. Green,,,5,201145,Jeff Green,1610612745.0,Houston,Rockets,HOU,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022300573,270,1,79,2,8:29 PM,5:25,,,VanVleet 26' 3PT Pullup Jump Shot (4 PTS),35 - 36,1,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,271,1,7,2,8:30 PM,5:06,Hartenstein 2' Dunk (7 PTS) (Brunson 4 AST),,,35 - 38,3,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300573,273,1,6,2,8:30 PM,4:52,,,Sengun 1' Driving Layup (6 PTS) (VanVleet 5 AST),37 - 38,1,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022300573,275,6,2,2,8:30 PM,4:35,,,Smith Jr. S.FOUL (P2.PN) (J.Orr),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300573,277,3,11,2,8:31 PM,4:35,Randle Free Throw 1 of 2 (11 PTS),,,37 - 39,2,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,278,8,0,2,8:31 PM,4:35,SUB: DiVincenzo FOR Hart,,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300573,302,8,0,2,8:31 PM,4:35,,,SUB: Brooks FOR Whitmore,,,5,1641715,Cam Whitmore,1610612745.0,Houston,Rockets,HOU,5,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022300573,282,3,12,2,8:31 PM,4:35,Randle Free Throw 2 of 2 (12 PTS),,,37 - 40,3,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,283,2,79,2,8:31 PM,4:24,,,MISS Brooks 26' 3PT Pullup Jump Shot,,,5,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,284,4,0,2,8:31 PM,4:22,Hartenstein REBOUND (Off:0 Def:4),,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,285,2,101,2,8:32 PM,4:06,MISS Randle 7' Driving Floating Jump Shot,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,286,4,0,2,8:32 PM,4:04,,,Ja. Green REBOUND (Off:0 Def:4),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,287,1,2,2,8:32 PM,4:01,,,Brooks 25' 3PT Running Jump Shot (5 PTS) (VanVleet 6 AST),40 - 40,TIE,5,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022300573,289,5,45,2,8:32 PM,3:38,Brunson Out of Bounds - Bad Pass Turnover Turnover (P1.T8),,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022300573,290,2,79,2,8:32 PM,3:26,,,MISS VanVleet 25' 3PT Pullup Jump Shot,,,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,291,4,0,2,8:32 PM,3:24,Randle REBOUND (Off:1 Def:2),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,292,6,26,2,8:32 PM,3:22,Randle Offensive Charge Foul (P2) (J.Orr),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022300573,294,5,37,2,8:32 PM,3:22,Randle Offensive Foul Turnover (P3.T9),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022300573,295,5,1,2,8:33 PM,3:11,Hartenstein STEAL (1 STL),,Ja. Green Bad Pass Turnover (P3.T4),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300573,297,1,50,2,8:33 PM,3:08,Randle Running Dunk (14 PTS) (DiVincenzo 2 AST),,,40 - 42,2,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300573,299,9,1,2,8:33 PM,3:07,,,Rockets Timeout: Regular (Reg.1 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300573,304,2,1,2,8:37 PM,2:44,,,MISS VanVleet 26' 3PT Jump Shot,,,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,305,4,0,2,8:37 PM,2:42,DiVincenzo REBOUND (Off:0 Def:2),,,,,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,306,1,50,2,8:37 PM,2:39,Anunoby 1' Running Dunk (4 PTS) (DiVincenzo 3 AST),,,40 - 44,4,4,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300573,308,2,47,2,8:37 PM,2:28,,,MISS Brooks 5' Turnaround Jump Shot,,,5,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,309,4,0,2,8:37 PM,2:26,Hartenstein REBOUND (Off:0 Def:5),,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,310,1,1,2,8:37 PM,2:07,DiVincenzo 24' 3PT Jump Shot (3 PTS) (Randle 1 AST),,,40 - 47,7,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300573,312,1,6,2,8:38 PM,1:52,,,Ja. Green 1' Driving Layup (11 PTS),42 - 47,5,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,313,6,4,2,8:38 PM,1:37,Randle OFF.Foul (P3) (J.Orr),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022300573,315,5,37,2,8:38 PM,1:37,Randle Offensive Foul Turnover (P4.T10),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022300573,317,8,0,2,8:38 PM,1:37,SUB: Hart FOR Randle,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300573,318,8,0,2,8:38 PM,1:37,,,SUB: Tate FOR Brooks,,,5,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022300573,316,7,1,2,8:38 PM,1:37,KNICKS Violation: Delay of game Violation,,,,,2,1610612752,,,,,,0,0,,,,,,1,0,,,,,,0
+0022300573,321,1,5,2,8:39 PM,1:24,,,Sengun Layup (8 PTS) (Smith Jr. 1 AST),44 - 47,3,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022300573,323,2,75,2,8:39 PM,1:05,MISS DiVincenzo 5' Driving Finger Roll Layup,,,,,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,324,4,0,2,8:39 PM,1:03,,,Smith Jr. REBOUND (Off:1 Def:3),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,325,1,5,2,8:39 PM,0:54,,,Tate 1' Layup (2 PTS) (VanVleet 7 AST),46 - 47,1,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022300573,327,6,2,2,8:39 PM,0:35,,,Ja. Green S.FOUL (P1.PN) (A.Moyer-Gleich),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300573,329,3,11,2,8:40 PM,0:35,MISS Brunson Free Throw 1 of 2,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,330,4,1,2,8:40 PM,0:35,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300573,331,8,0,2,8:40 PM,0:35,,,SUB: Je. Green FOR Smith Jr.,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,201145,Jeff Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022300573,333,8,0,2,8:40 PM,0:35,SUB: Grimes FOR Hartenstein,,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300573,335,3,12,2,8:41 PM,0:35,Brunson Free Throw 2 of 2 (10 PTS),,,46 - 48,2,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,336,2,75,2,8:41 PM,0:14,,,MISS Ja. Green 1' Driving Finger Roll Layup,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,337,4,0,2,8:41 PM,0:11,Hart REBOUND (Off:3 Def:5),,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,338,2,41,2,8:41 PM,0:08,MISS DiVincenzo 3' Running Layup,,Je. Green BLOCK (1 BLK),,,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,5,201145,Jeff Green,1610612745.0,Houston,Rockets,HOU,1
+0022300573,340,4,0,2,8:41 PM,0:06,,,Ja. Green REBOUND (Off:0 Def:5),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,342,2,1,2,8:42 PM,0:01,,,MISS Sengun 25' 3PT Jump Shot,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,343,4,0,2,8:42 PM,0:01,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300573,344,13,0,2,8:42 PM,0:00,,End of 2nd Period (8:42 PM EST),,46 - 48,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300573,353,12,0,3,8:57 PM,12:00,,Start of 3rd Period (8:57 PM EST),,46 - 48,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300573,354,6,1,3,8:57 PM,11:48,,,Ja. Green P.FOUL (P2.T1) (T.Brothers),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300573,356,1,1,3,8:58 PM,11:39,Randle 25' 3PT Jump Shot (17 PTS) (Hartenstein 1 AST),,,46 - 51,5,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300573,358,1,79,3,8:58 PM,11:21,,,Smith Jr. 19' Pullup Jump Shot (9 PTS) (VanVleet 8 AST),48 - 51,3,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022300573,360,1,6,3,8:58 PM,11:10,Brunson 3' Driving Layup (12 PTS),,,48 - 53,5,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,361,6,2,3,8:58 PM,11:10,,,VanVleet S.FOUL (P1.T2) (J.Orr),,,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300573,363,3,10,3,8:59 PM,11:10,Brunson Free Throw 1 of 1 (13 PTS),,,48 - 54,6,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,364,2,6,3,8:59 PM,11:02,,,MISS Sengun 1' Driving Layup,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,365,4,0,3,8:59 PM,11:00,Randle REBOUND (Off:1 Def:3),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,366,2,1,3,8:59 PM,10:50,MISS DiVincenzo 24' 3PT Jump Shot,,,,,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,367,4,0,3,8:59 PM,10:48,,,Sengun REBOUND (Off:2 Def:4),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,368,5,2,3,8:59 PM,10:36,Anunoby STEAL (2 STL),,Ja. Green Lost Ball Turnover (P4.T5),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300573,370,2,73,3,9:00 PM,10:27,MISS Brunson 1' Driving Reverse Layup,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,371,4,0,3,9:00 PM,10:25,,,Ja. Green REBOUND (Off:0 Def:6),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,372,6,1,3,9:00 PM,10:20,DiVincenzo P.FOUL (P1.T1) (J.Orr),,,,,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022300573,374,1,1,3,9:00 PM,10:13,,,VanVleet 25' 3PT Jump Shot (7 PTS) (Ja. Green 1 AST),51 - 54,3,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022300573,376,2,1,3,9:01 PM,9:55,MISS Anunoby 3PT Jump Shot,,,,,4,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,377,4,0,3,9:01 PM,9:53,,,Ja. Green REBOUND (Off:0 Def:7),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,378,6,2,3,9:01 PM,9:49,Brunson S.FOUL (P2.T2) (A.Moyer-Gleich),,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022300573,380,3,11,3,9:01 PM,9:49,,,VanVleet Free Throw 1 of 2 (8 PTS),52 - 54,2,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,381,3,12,3,9:01 PM,9:49,,,VanVleet Free Throw 2 of 2 (9 PTS),53 - 54,1,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,382,1,1,3,9:02 PM,9:27,Anunoby 3PT Jump Shot (7 PTS) (Randle 2 AST),,,53 - 57,4,4,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300573,384,2,1,3,9:02 PM,9:05,,,MISS Brooks 3PT Jump Shot,,,5,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,385,4,0,3,9:02 PM,9:03,Randle REBOUND (Off:1 Def:4),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,386,1,1,3,9:02 PM,8:56,Anunoby 3PT Jump Shot (10 PTS) (Brunson 5 AST),,,53 - 60,7,4,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300573,388,9,1,3,9:02 PM,8:54,,,Rockets Timeout: Regular (Reg.2 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300573,392,5,1,3,9:06 PM,8:39,Hartenstein STEAL (2 STL),,VanVleet Bad Pass Turnover (P1.T6),,,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300573,394,1,76,3,9:06 PM,8:35,DiVincenzo 1' Running Finger Roll Layup (5 PTS) (Randle 3 AST),,,53 - 62,9,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300573,396,6,2,3,9:06 PM,8:27,Randle S.FOUL (P4.T3) (A.Moyer-Gleich),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022300573,398,3,11,3,9:07 PM,8:27,,,Brooks Free Throw 1 of 2 (6 PTS),54 - 62,8,5,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,399,3,12,3,9:07 PM,8:27,,,Brooks Free Throw 2 of 2 (7 PTS),55 - 62,7,5,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,400,1,6,3,9:07 PM,8:14,Anunoby 3' Driving Layup (12 PTS) (DiVincenzo 4 AST),,,55 - 64,9,4,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300573,402,1,6,3,9:07 PM,7:55,,,Ja. Green 2' Driving Layup (13 PTS),57 - 64,7,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,403,1,1,3,9:08 PM,7:40,Randle 25' 3PT Jump Shot (20 PTS) (DiVincenzo 5 AST),,,57 - 67,10,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300573,405,2,6,3,9:08 PM,7:27,,,MISS VanVleet 2' Driving Layup,,,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,406,4,0,3,9:08 PM,7:26,Randle REBOUND (Off:1 Def:5),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,407,2,80,3,9:08 PM,7:14,MISS Anunoby 24' 3PT Step Back Jump Shot,,,,,4,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,408,4,0,3,9:08 PM,7:12,Hartenstein REBOUND (Off:1 Def:5),,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,409,2,80,3,9:08 PM,7:02,MISS Randle 25' 3PT Step Back Jump Shot,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,410,4,0,3,9:08 PM,7:00,,,VanVleet REBOUND (Off:0 Def:2),,,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,411,2,1,3,9:08 PM,6:52,,,MISS Ja. Green 25' 3PT Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,412,4,0,3,9:09 PM,6:50,,,Smith Jr. REBOUND (Off:2 Def:3),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,413,1,97,3,9:09 PM,6:50,,,Smith Jr. Tip Layup Shot (11 PTS),59 - 67,8,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,415,1,79,3,9:09 PM,6:32,Brunson 3PT Pullup Jump Shot (16 PTS) (Hartenstein 2 AST),,,59 - 70,11,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300573,417,2,1,3,9:09 PM,6:13,,,MISS Ja. Green 26' 3PT Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,418,4,0,3,9:09 PM,6:11,Brunson REBOUND (Off:0 Def:3),,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,419,2,1,3,9:10 PM,5:52,MISS DiVincenzo 3PT Jump Shot,,,,,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,420,4,0,3,9:10 PM,5:50,,,Smith Jr. REBOUND (Off:2 Def:4),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,421,6,1,3,9:10 PM,5:38,Anunoby P.FOUL (P1.T4) (T.Brothers),,,,,4,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022300573,423,8,0,3,9:10 PM,5:38,,,SUB: Tate FOR Brooks,,,5,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022300573,425,1,1,3,9:11 PM,5:30,,,VanVleet 25' 3PT Jump Shot (12 PTS) (Sengun 4 AST),62 - 70,8,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022300573,428,6,1,3,9:11 PM,5:13,,,VanVleet P.FOUL (P2.T3) (J.Orr),,,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300573,430,2,6,3,9:11 PM,5:08,MISS Anunoby 2' Driving Layup,,Sengun BLOCK (2 BLK),,,4,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1
+0022300573,432,4,0,3,9:11 PM,5:07,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300573,434,2,6,3,9:12 PM,4:56,,,MISS VanVleet 2' Driving Layup,,,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,435,4,0,3,9:12 PM,4:54,Hartenstein REBOUND (Off:1 Def:6),,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,436,1,63,3,9:12 PM,4:35,Brunson 9' Fadeaway Jumper (18 PTS),,,62 - 72,10,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,437,5,1,3,9:12 PM,4:19,Anunoby STEAL (3 STL),,Ja. Green Bad Pass Turnover (P5.T7),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300573,439,2,41,3,9:12 PM,4:12,MISS Anunoby 1' Running Layup,,,,,4,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,440,4,0,3,9:12 PM,4:11,Randle REBOUND (Off:2 Def:5),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,441,1,72,3,9:12 PM,4:10,Randle 1' Putback Layup (22 PTS),,,62 - 74,12,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,442,9,1,3,9:13 PM,4:10,,,Rockets Timeout: Regular (Reg.3 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300573,443,8,0,3,9:13 PM,4:10,SUB: Hart FOR DiVincenzo,,,,,4,1628978,Donte DiVincenzo,1610612752.0,New York,Knicks,NYK,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300573,444,8,0,3,9:13 PM,4:10,,,SUB: Brooks FOR Ja. Green,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022300573,445,8,0,3,9:13 PM,4:10,,,SUB: Holiday FOR Smith Jr.,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,1628988,Aaron Holiday,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022300573,449,2,1,3,9:16 PM,3:54,,,MISS Brooks 3PT Jump Shot,,,5,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,450,4,0,3,9:16 PM,3:53,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300573,452,5,1,3,9:17 PM,3:30,Brunson Bad Pass Turnover (P2.T11),,Sengun STEAL (1 STL),,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022300573,454,2,6,3,9:17 PM,3:21,Anunoby BLOCK (1 BLK),,MISS Sengun 3' Driving Layup,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,4,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,1
+0022300573,456,4,0,3,9:17 PM,3:19,,,Sengun REBOUND (Off:3 Def:4),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,457,5,2,3,9:17 PM,3:13,Anunoby STEAL (4 STL),,Sengun Lost Ball Turnover (P2.T8),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,4,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300573,459,5,11,3,9:17 PM,2:50,KNICKS Turnover: Shot Clock (T#12),,,,,2,1610612752,,,,,,0,0,,,,,,1,0,,,,,,0
+0022300573,460,5,40,3,9:18 PM,2:32,,,Brooks Out of Bounds Lost Ball Turnover (P1.T9),,,5,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022300573,461,8,0,3,9:18 PM,2:32,,,SUB: Je. Green FOR Sengun,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,201145,Jeff Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022300573,463,2,79,3,9:18 PM,2:16,MISS Brunson 15' Pullup Jump Shot,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,464,4,0,3,9:18 PM,2:14,,,Brooks REBOUND (Off:0 Def:1),,,5,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,465,1,41,3,9:19 PM,2:09,,,VanVleet 1' Running Layup (14 PTS),64 - 74,10,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,466,2,1,3,9:19 PM,1:54,MISS Brunson 25' 3PT Jump Shot,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,467,4,0,3,9:19 PM,1:52,,,Holiday REBOUND (Off:0 Def:1),,,5,1628988,Aaron Holiday,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,468,1,50,3,9:19 PM,1:50,,,Brooks Running Dunk (9 PTS) (Holiday 1 AST),66 - 74,8,5,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,5,1628988,Aaron Holiday,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022300573,470,9,1,3,9:19 PM,1:41,KNICKS Timeout: Regular (Full 4 Short 0),,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300573,471,8,0,3,9:19 PM,1:41,SUB: Grimes FOR Anunoby,,,,,4,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300573,475,1,1,3,9:21 PM,1:32,Randle 3PT Jump Shot (25 PTS) (Brunson 6 AST),,,66 - 77,11,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300573,477,1,79,3,9:21 PM,1:15,,,VanVleet 24' 3PT Pullup Jump Shot (17 PTS),69 - 77,8,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,478,2,6,3,9:21 PM,0:55,MISS Brunson 3' Driving Layup,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,479,4,0,3,9:21 PM,0:53,,,Je. Green REBOUND (Off:1 Def:2),,,5,201145,Jeff Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,480,2,102,3,9:22 PM,0:47,,,MISS VanVleet 17' Driving Floating Bank Jump Shot,,,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,481,4,0,3,9:22 PM,0:45,Hartenstein REBOUND (Off:1 Def:7),,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,482,2,1,3,9:22 PM,0:40,MISS Grimes 3PT Jump Shot,,,,,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,483,4,0,3,9:22 PM,0:36,Hart REBOUND (Off:4 Def:5),,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,484,2,6,3,9:22 PM,0:30,MISS Hart 1' Driving Layup,,Je. Green BLOCK (2 BLK),,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,5,201145,Jeff Green,1610612745.0,Houston,Rockets,HOU,1
+0022300573,486,4,0,3,9:22 PM,0:27,,,Tate REBOUND (Off:0 Def:2),,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,487,2,41,3,9:22 PM,0:23,,,MISS VanVleet 1' Running Layup,,,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,488,4,0,3,9:22 PM,0:22,Randle REBOUND (Off:2 Def:6),,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,489,2,1,3,9:22 PM,0:00,MISS Hart 29' 3PT Jump Shot,,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,490,4,0,3,9:22 PM,0:00,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300573,491,13,0,3,9:22 PM,0:00,,End of 3rd Period (9:22 PM EST),,69 - 77,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022300573,503,12,0,4,9:25 PM,12:00,,Start of 4th Period (9:25 PM EST),,69 - 77,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300573,504,2,3,4,9:25 PM,11:45,,,MISS Sengun 6' Hook Shot,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,505,4,0,4,9:25 PM,11:43,Hart REBOUND (Off:4 Def:6),,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,506,1,98,4,9:26 PM,11:27,Hart 1' Cutting Layup Shot (4 PTS) (Hartenstein 3 AST),,,69 - 79,10,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300573,508,2,79,4,9:26 PM,11:10,,,MISS Smith Jr. 24' 3PT Pullup Jump Shot,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,509,4,0,4,9:26 PM,11:08,Hart REBOUND (Off:4 Def:7),,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,510,1,79,4,9:26 PM,10:59,Grimes 26' 3PT Pullup Jump Shot (11 PTS) (Hartenstein 4 AST),,,69 - 82,13,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300573,512,9,1,4,9:26 PM,10:44,,,Rockets Timeout: Regular (Reg.4 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300573,513,8,0,4,9:26 PM,10:44,,,SUB: VanVleet FOR Tate,,,5,1630256,Jae'Sean Tate,1610612745.0,Houston,Rockets,HOU,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022300573,514,8,0,4,9:26 PM,10:44,,,SUB: Brooks FOR Smith Jr.,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022300573,517,2,1,4,9:29 PM,10:37,,,MISS Brooks 26' 3PT Jump Shot,,,5,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,518,4,0,4,9:29 PM,10:35,McBride REBOUND (Off:0 Def:1),,,,,4,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,519,2,79,4,9:30 PM,10:12,MISS Hart 8' Pullup Jump Shot,,Thompson BLOCK (1 BLK),,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,5,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,1
+0022300573,520,4,0,4,9:30 PM,10:10,,,Je. Green REBOUND (Off:1 Def:3),,,5,201145,Jeff Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,521,1,79,4,9:30 PM,9:56,,,VanVleet 22' Pullup Jump Shot (19 PTS) (Sengun 5 AST),71 - 82,11,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022300573,523,2,6,4,9:30 PM,9:42,MISS McBride 4' Driving Layup,,Thompson BLOCK (2 BLK),,,4,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,5,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,1
+0022300573,525,4,0,4,9:30 PM,9:41,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300573,527,8,0,4,9:30 PM,9:41,,,SUB: Ja. Green FOR Thompson,,,5,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022300573,530,5,4,4,9:31 PM,9:37,Hartenstein Traveling Turnover (P2.T13),,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022300573,531,8,0,4,9:31 PM,9:37,,,SUB: Thompson FOR Je. Green,,,5,201145,Jeff Green,1610612745.0,Houston,Rockets,HOU,5,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022300573,533,6,4,4,9:31 PM,9:30,,,Sengun OFF.Foul (P2) (T.Brothers),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300573,535,5,37,4,9:31 PM,9:30,,,Sengun Offensive Foul Turnover (P3.T10),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022300573,536,5,2,4,9:32 PM,9:15,McBride Lost Ball Turnover (P1.T14),,Thompson STEAL (1 STL),,,4,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,5,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022300573,538,1,41,4,9:32 PM,9:12,,,Thompson 1' Running Layup (4 PTS),73 - 82,9,5,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,539,9,1,4,9:32 PM,9:04,KNICKS Timeout: Regular (Full 5 Short 0),,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300573,540,8,0,4,9:32 PM,9:04,SUB: Brunson FOR McBride,,,,,4,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300573,543,1,80,4,9:35 PM,8:47,Brunson 25' 3PT Step Back Jump Shot (21 PTS),,,73 - 85,12,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,544,6,2,4,9:36 PM,8:24,Hartenstein S.FOUL (P3.T1) (A.Moyer-Gleich),,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022300573,546,3,11,4,9:36 PM,8:24,,,MISS Sengun Free Throw 1 of 2,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,547,4,1,4,9:36 PM,8:24,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300573,548,3,12,4,9:36 PM,8:24,,,MISS Sengun Free Throw 2 of 2,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,549,4,0,4,9:36 PM,8:22,Hartenstein REBOUND (Off:1 Def:8),,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,550,2,80,4,9:37 PM,8:02,MISS Brunson 24' 3PT Step Back Jump Shot,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,551,4,0,4,9:37 PM,7:59,,,Sengun REBOUND (Off:3 Def:5),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,552,1,6,4,9:37 PM,7:53,,,Ja. Green 1' Driving Layup (15 PTS),75 - 85,10,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,553,1,80,4,9:38 PM,7:27,Hart 15' Step Back Jump Shot (6 PTS) (Hartenstein 5 AST),,,75 - 87,12,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300573,555,6,2,4,9:38 PM,7:13,Anunoby S.FOUL (P2.T2) (J.Orr),,,,,4,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022300573,557,3,11,4,9:38 PM,7:13,,,Sengun Free Throw 1 of 2 (9 PTS),76 - 87,11,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,558,8,0,4,9:38 PM,7:13,SUB: Randle FOR Grimes,,,,,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300573,559,8,0,4,9:38 PM,7:13,,,SUB: Je. Green FOR Thompson,,,5,1641708,Amen Thompson,1610612745.0,Houston,Rockets,HOU,5,201145,Jeff Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022300573,562,3,12,4,9:39 PM,7:13,,,Sengun Free Throw 2 of 2 (10 PTS),77 - 87,10,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,563,1,79,4,9:39 PM,7:01,Brunson 10' Pullup Jump Shot (23 PTS),,,77 - 89,12,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,564,1,6,4,9:39 PM,6:44,,,Brooks 1' Driving Layup (11 PTS) (VanVleet 9 AST),79 - 89,10,5,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022300573,566,1,101,4,9:40 PM,6:26,Hart 6' Driving Floating Jump Shot (8 PTS) (Brunson 7 AST),,,79 - 91,12,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300573,568,1,44,4,9:40 PM,6:03,,,Sengun 1' Reverse Layup (12 PTS),81 - 91,10,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,569,1,79,4,9:40 PM,5:47,Brunson 10' Pullup Jump Shot (25 PTS),,,81 - 93,12,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,570,2,6,4,9:41 PM,5:32,Hartenstein BLOCK (2 BLK),,MISS Ja. Green 1' Driving Layup,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,1
+0022300573,572,4,0,4,9:41 PM,5:30,Hart REBOUND (Off:4 Def:8),,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,573,1,50,4,9:41 PM,5:28,Anunoby Running Dunk (14 PTS) (Randle 4 AST),,,81 - 95,14,4,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300573,575,6,2,4,9:41 PM,5:28,,,Sengun S.FOUL (P3.T1) (J.Orr),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,4,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300573,577,8,0,4,9:41 PM,5:28,,,SUB: Smith Jr. FOR Ja. Green,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022300573,579,3,10,4,9:42 PM,5:28,Anunoby Free Throw 1 of 1 (15 PTS),,,81 - 96,15,4,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,580,2,6,4,9:42 PM,5:09,,,MISS Brooks 4' Driving Layup,,,5,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,581,4,0,4,9:42 PM,5:07,Anunoby REBOUND (Off:0 Def:5),,,,,4,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,658,2,6,4,9:42 PM,4:56,MISS Randle 6' Driving Layup,,Sengun BLOCK (3 BLK),,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1
+0022300573,660,4,0,4,9:42 PM,4:53,Hart REBOUND (Off:5 Def:8),,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,582,1,75,4,9:42 PM,4:47,Hart 2' Driving Finger Roll Layup (10 PTS),,,81 - 98,17,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,583,9,1,4,9:42 PM,4:46,,,Rockets Timeout: Regular (Reg.5 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300573,584,2,63,4,9:44 PM,4:31,,,MISS Smith Jr. 15' Fadeaway Jumper,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,585,4,0,4,9:44 PM,4:28,Hartenstein REBOUND (Off:1 Def:9),,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,586,2,79,4,9:45 PM,4:13,MISS Brunson 25' 3PT Pullup Jump Shot,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,587,4,0,4,9:45 PM,4:11,,,Sengun REBOUND (Off:3 Def:6),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,588,1,103,4,9:45 PM,4:07,,,VanVleet 25' 3PT Running Pull-Up Jump Shot (22 PTS),84 - 98,14,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,589,1,101,4,9:45 PM,3:50,Brunson 13' Driving Floating Jump Shot (27 PTS),,,84 - 100,16,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,590,6,2,4,9:45 PM,3:50,,,VanVleet S.FOUL (P3.T2) (A.Moyer-Gleich),,,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300573,592,3,10,4,9:45 PM,3:50,MISS Brunson Free Throw 1 of 1,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,593,4,0,4,9:46 PM,3:48,,,Sengun REBOUND (Off:3 Def:7),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,594,1,41,4,9:46 PM,3:42,,,VanVleet 1' Running Layup (24 PTS),86 - 100,14,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,595,2,1,4,9:46 PM,3:17,MISS Randle 26' 3PT Jump Shot,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,596,4,0,4,9:46 PM,3:15,,,VanVleet REBOUND (Off:0 Def:3),,,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,597,1,41,4,9:46 PM,3:11,,,Je. Green 2' Running Layup (9 PTS) (VanVleet 10 AST),88 - 100,12,5,201145,Jeff Green,1610612745.0,Houston,Rockets,HOU,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022300573,599,1,78,4,9:47 PM,2:48,Brunson 8' Floating Jump Shot (29 PTS),,,88 - 102,14,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,600,6,2,4,9:47 PM,2:48,,,Je. Green S.FOUL (P2.T3) (T.Brothers),,,5,201145,Jeff Green,1610612745.0,Houston,Rockets,HOU,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300573,602,3,10,4,9:47 PM,2:48,Brunson Free Throw 1 of 1 (30 PTS),,,88 - 103,15,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,603,6,2,4,9:47 PM,2:43,Hartenstein S.FOUL (P4.T3) (T.Brothers),,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022300573,605,3,11,4,9:48 PM,2:43,,,MISS Sengun Free Throw 1 of 2,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,606,4,1,4,9:48 PM,2:43,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300573,607,3,12,4,9:48 PM,2:43,,,Sengun Free Throw 2 of 2 (13 PTS),89 - 103,14,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,608,2,6,4,9:48 PM,2:26,MISS Hart 1' Driving Layup,,Sengun BLOCK (4 BLK),,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1
+0022300573,610,4,0,4,9:48 PM,2:24,Hartenstein REBOUND (Off:2 Def:9),,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,611,2,79,4,9:49 PM,2:20,MISS Brunson 19' Pullup Jump Shot,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,612,4,0,4,9:49 PM,2:19,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300573,613,5,11,4,9:49 PM,2:19,KNICKS Turnover: Shot Clock (T#15),,,,,2,1610612752,,,,,,0,0,,,,,,1,0,,,,,,0
+0022300573,616,9,1,4,9:50 PM,2:08,KNICKS Timeout: Regular (Full 6 Short 0),,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300573,617,18,5,4,9:50 PM,2:08,,Instant Replay4th Period (9:50 PM EST),,89 - 103,14,0,614,,,,,,0,0,,,,,,1,0,,,,,,1
+0022300573,618,2,1,4,9:52 PM,2:08,Randle BLOCK (1 BLK),,MISS Smith Jr. 11' Jump Shot,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1
+0022300573,620,4,0,4,9:52 PM,2:08,KNICKS Rebound,,,,,2,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022300573,622,1,63,4,9:53 PM,1:45,Randle 9' Fadeaway Jumper (27 PTS) (Hart 1 AST),,,89 - 105,16,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022300573,624,2,3,4,9:53 PM,1:33,,,MISS Sengun 3' Hook Shot,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,625,4,0,4,9:53 PM,1:31,Hart REBOUND (Off:5 Def:9),,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,626,6,2,4,9:53 PM,1:20,,,Brooks S.FOUL (P3.T4) (T.Brothers),,,5,1628415,Dillon Brooks,1610612745.0,Houston,Rockets,HOU,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022300573,628,3,11,4,9:54 PM,1:20,Randle Free Throw 1 of 2 (28 PTS),,,89 - 106,17,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,629,8,0,4,9:54 PM,1:20,SUB: Achiuwa FOR Hartenstein,,,,,4,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300573,630,8,0,4,9:54 PM,1:20,SUB: McBride FOR Brunson,,,,,4,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,4,1630540,Miles McBride,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300573,633,3,12,4,9:54 PM,1:20,Randle Free Throw 2 of 2 (29 PTS),,,89 - 107,18,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,634,2,79,4,9:55 PM,1:13,,,MISS VanVleet 26' 3PT Pullup Jump Shot,,,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,635,4,0,4,9:55 PM,1:11,Achiuwa REBOUND (Off:1 Def:3),,,,,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,636,1,63,4,9:55 PM,0:57,Randle 10' Fadeaway Jumper (31 PTS),,,89 - 109,20,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,637,6,1,4,9:55 PM,0:54,Achiuwa P.FOUL (P2.T4) (T.Brothers),,,,,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022300573,639,8,0,4,9:55 PM,0:54,SUB: Grimes FOR Anunoby,,,,,4,1628384,OG Anunoby,1610612752.0,New York,Knicks,NYK,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300573,640,8,0,4,9:55 PM,0:54,SUB: Arcidiacono FOR Randle,,,,,4,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1627853,Ryan Arcidiacono,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300573,643,8,0,4,9:55 PM,0:54,SUB: Flynn FOR Hart,,,,,4,1628404,Josh Hart,1610612752.0,New York,Knicks,NYK,4,1630201,Malachi Flynn,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022300573,645,1,44,4,9:56 PM,0:49,,,Sengun 2' Reverse Layup (15 PTS) (VanVleet 11 AST),91 - 109,18,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022300573,647,6,2,4,9:56 PM,0:49,Achiuwa S.FOUL (P3.PN) (A.Moyer-Gleich),,,,,4,1630173,Precious Achiuwa,1610612752.0,New York,Knicks,NYK,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022300573,649,3,10,4,9:56 PM,0:49,,,Sengun Free Throw 1 of 1 (16 PTS),92 - 109,17,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,650,2,79,4,9:57 PM,0:33,MISS Grimes 26' 3PT Pullup Jump Shot,,,,,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,651,4,0,4,9:57 PM,0:31,Grimes REBOUND (Off:2 Def:1),,,,,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,652,2,1,4,9:57 PM,0:29,MISS Grimes 19' Jump Shot,,,,,4,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022300573,653,4,0,4,9:57 PM,0:27,,,Je. Green REBOUND (Off:1 Def:4),,,5,201145,Jeff Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022300573,654,1,9,4,9:57 PM,0:21,,,Sengun 2' Driving Dunk (18 PTS) (VanVleet 12 AST),94 - 109,15,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1627832,Fred VanVleet,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022300573,656,13,0,4,9:57 PM,0:00,,End of 4th Period (9:57 PM EST),,94 - 109,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

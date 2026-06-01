@@ -1,0 +1,452 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022400495,2,12,0,1,7:42 PM,12:00,,Start of 1st Period (7:42 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022400495,4,7,4,1,7:42 PM,12:00,,,Nembhard Violation:Jump Ball (M.Ervin),,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
+0022400495,5,2,63,1,7:43 PM,11:37,MISS Claxton 10' Fadeaway Jumper,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,6,4,0,1,7:43 PM,11:33,,,Nembhard REBOUND (Off:0 Def:1),,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,7,6,2,1,7:43 PM,11:30,Clowney S.FOUL (P1.T1) (D.Collins),,,,,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022400495,9,3,11,1,7:44 PM,11:30,,,Siakam Free Throw 1 of 2 (1 PTS),1 - 0,-1,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,10,3,12,1,7:44 PM,11:30,,,Siakam Free Throw 2 of 2 (2 PTS),2 - 0,-2,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,11,5,4,1,7:44 PM,11:14,Johnson Traveling Turnover (P1.T1),,,,,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022400495,12,1,1,1,7:45 PM,10:57,,,Siakam 17' Jump Shot (4 PTS),4 - 0,-4,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,14,6,1,1,7:45 PM,10:47,,,Mathurin P.FOUL (P1.T1) (D.Collins),,,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,4,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022400495,16,1,78,1,7:45 PM,10:41,Martin 5' Floating Jump Shot (2 PTS) (Claxton 1 AST),,,4 - 2,-2,4,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400495,17,6,1,1,7:45 PM,10:26,Claxton P.FOUL (P1.T2) (M.Ervin),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022400495,20,2,1,1,7:46 PM,10:12,,,MISS Siakam 27' 3PT Jump Shot,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,21,4,0,1,7:46 PM,10:09,Claxton REBOUND (Off:0 Def:1),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,22,2,41,1,7:46 PM,10:03,MISS Claxton 2' Running Layup,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,23,4,0,1,7:46 PM,10:00,,,Siakam REBOUND (Off:0 Def:1),,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,24,1,79,1,7:46 PM,9:54,,,Haliburton 33' 3PT Pullup Jump Shot (3 PTS),7 - 2,-5,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,25,2,1,1,7:47 PM,9:38,MISS Clowney 25' 3PT Jump Shot,,,,,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,26,4,0,1,7:47 PM,9:38,Claxton REBOUND (Off:1 Def:1),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,27,1,1,1,7:47 PM,9:27,Johnson 25' 3PT Jump Shot (3 PTS),,,7 - 5,-2,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,29,1,98,1,7:47 PM,9:05,,,Turner 1' Cutting Layup Shot (2 PTS) (Nembhard 1 AST),9 - 5,-4,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022400495,31,2,6,1,7:48 PM,8:47,MISS Johnson 3' Driving Layup,,,,,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,32,4,0,1,7:48 PM,8:47,,,Siakam REBOUND (Off:0 Def:2),,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,33,2,2,1,7:48 PM,8:41,,,MISS Haliburton 26' 3PT Running Jump Shot,,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,34,4,0,1,7:48 PM,8:38,Claxton REBOUND (Off:1 Def:2),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,35,2,3,1,7:48 PM,8:17,MISS Johnson 6' Hook Shot,,,,,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,36,4,0,1,7:48 PM,8:14,,,Siakam REBOUND (Off:0 Def:3),,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,38,5,4,1,7:49 PM,8:02,,,Mathurin Traveling Turnover (P1.T1),,,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0022400495,39,1,1,1,7:49 PM,7:46,Martin 25' 3PT Jump Shot (5 PTS) (Williams 1 AST),,,9 - 8,-1,4,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,4,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400495,41,2,6,1,7:49 PM,7:28,Williams BLOCK (1 BLK),,MISS Siakam 5' Driving Layup,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,1
+0022400495,43,4,0,1,7:49 PM,7:22,,,Turner REBOUND (Off:1 Def:0),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,44,2,72,1,7:49 PM,7:22,,,MISS Turner Putback Layup,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,45,4,0,1,7:49 PM,7:22,Williams REBOUND (Off:0 Def:1),,,,,4,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,46,2,2,1,7:49 PM,7:20,MISS Williams 26' 3PT Running Jump Shot,,,,,4,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,47,4,0,1,7:49 PM,7:19,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400495,49,8,0,1,7:50 PM,7:19,SUB: Wilson FOR Johnson,,,,,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400495,51,2,1,1,7:50 PM,7:07,,,MISS Mathurin 3PT Jump Shot,,,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,52,4,0,1,7:50 PM,7:04,Claxton REBOUND (Off:1 Def:3),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,53,2,1,1,7:50 PM,6:59,MISS Clowney 24' 3PT Jump Shot,,,,,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,54,4,0,1,7:50 PM,6:59,,,Nembhard REBOUND (Off:0 Def:2),,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,55,2,1,1,7:50 PM,6:48,,,MISS Nembhard 26' 3PT Jump Shot,,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,56,4,0,1,7:50 PM,6:44,Williams REBOUND (Off:0 Def:2),,,,,4,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,57,9,1,1,7:50 PM,6:41,NETS Timeout: Regular (Full 1 Short 0),,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400495,58,8,0,1,7:50 PM,6:41,,,SUB: Toppin FOR Siakam,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022400495,60,2,1,1,7:54 PM,6:23,MISS Clowney 25' 3PT Jump Shot,,,,,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,61,4,0,1,7:54 PM,6:19,,,Mathurin REBOUND (Off:0 Def:1),,,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,62,1,76,1,7:54 PM,6:17,,,Mathurin 3' Running Finger Roll Layup (2 PTS),11 - 8,-3,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,63,2,1,1,7:54 PM,6:03,MISS Wilson 25' 3PT Jump Shot,,,,,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,64,4,0,1,7:54 PM,6:03,Martin REBOUND (Off:1 Def:0),,,,,4,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,65,6,2,1,7:54 PM,6:01,,,Haliburton S.FOUL (P1.T2) (N.Sago),,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022400495,67,3,11,1,7:55 PM,6:01,Martin Free Throw 1 of 2 (6 PTS),,,11 - 9,-2,4,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0022400495,68,3,12,1,7:55 PM,6:01,MISS Martin Free Throw 2 of 2,,,,,4,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,69,4,0,1,7:55 PM,5:58,,,Toppin REBOUND (Off:0 Def:1),,,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,70,2,80,1,7:55 PM,5:36,,,MISS Mathurin 22' Step Back Jump Shot,,,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,71,4,0,1,7:55 PM,5:31,,,Turner REBOUND (Off:2 Def:0),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,72,1,72,1,7:55 PM,5:31,,,Turner Putback Layup (4 PTS),13 - 9,-4,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,73,1,1,1,7:56 PM,5:11,Williams 25' 3PT Jump Shot (3 PTS) (Martin 1 AST),,,13 - 12,-1,4,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,4,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400495,75,2,79,1,7:56 PM,4:58,,,MISS Toppin 14' Pullup Jump Shot,,,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,76,4,0,1,7:56 PM,4:58,Martin REBOUND (Off:1 Def:1),,,,,4,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,77,6,1,1,7:56 PM,4:48,,,Nembhard P.FOUL (P1.T3) (D.Collins),,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022400495,79,8,0,1,7:56 PM,4:48,SUB: Sharpe FOR Williams,,,,,4,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400495,80,8,0,1,7:56 PM,4:48,SUB: Evbuomwan FOR Martin,,,,,4,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,4,1641787,Tosan Evbuomwan,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400495,81,8,0,1,7:56 PM,4:48,SUB: Beekman FOR Claxton,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,1641736,Reece Beekman,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400495,82,8,0,1,7:56 PM,4:48,,,SUB: McConnell FOR Mathurin,,,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022400495,83,8,0,1,7:56 PM,4:48,,,SUB: Sheppard FOR Nembhard,,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022400495,89,2,78,1,7:57 PM,4:32,MISS Wilson 8' Floating Jump Shot,,,,,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,90,4,0,1,7:57 PM,4:30,Sharpe REBOUND (Off:1 Def:0),,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,91,2,3,1,7:57 PM,4:29,MISS Sharpe 7' Hook Shot,,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,92,4,0,1,7:57 PM,4:29,Wilson REBOUND (Off:1 Def:0),,,,,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,93,1,72,1,7:57 PM,4:24,Wilson Putback Layup (2 PTS),,,13 - 14,1,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,95,9,1,1,7:57 PM,4:14,,,Pacers Timeout: Regular (Reg.1 Short 0),,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400495,96,8,0,1,7:57 PM,4:14,SUB: Johnson FOR Clowney,,,,,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400495,98,1,52,1,8:00 PM,4:04,,,Toppin 2' Alley Oop Dunk (2 PTS) (Sheppard 1 AST),15 - 14,-1,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022400495,100,2,58,1,8:01 PM,3:41,MISS Wilson 11' Turnaround Hook Shot,,,,,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,101,4,0,1,8:01 PM,3:38,Sharpe REBOUND (Off:2 Def:0),,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,102,1,72,1,8:01 PM,3:36,Sharpe 3' Putback Layup (2 PTS),,,15 - 16,1,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,105,5,2,1,8:02 PM,3:13,Johnson STEAL (1 STL),,Haliburton Lost Ball Turnover (P1.T2),,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400495,107,1,106,1,8:02 PM,3:06,Sharpe 1' Running Alley Oop Dunk Shot (4 PTS) (Johnson 1 AST),,,15 - 18,3,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400495,109,1,1,1,8:02 PM,2:54,,,Turner 26' 3PT Jump Shot (7 PTS) (Haliburton 1 AST),18 - 18,TIE,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022400495,110,6,1,1,8:02 PM,2:41,,,McConnell P.FOUL (P1.T4) (N.Sago),,,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,1641736,Reece Beekman,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022400495,113,8,0,1,8:02 PM,2:41,,,SUB: Bryant FOR Haliburton,,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,5,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022400495,114,8,0,1,8:02 PM,2:41,,,SUB: Walker FOR Turner,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022400495,117,1,98,1,8:03 PM,2:34,Beekman 2' Cutting Layup Shot (2 PTS) (Sharpe 1 AST),,,18 - 20,2,4,1641736,Reece Beekman,1610612751.0,Brooklyn,Nets,BKN,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400495,119,1,108,1,8:03 PM,2:11,,,Toppin 1' Cutting Dunk Shot (4 PTS) (McConnell 1 AST),20 - 20,TIE,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022400495,121,2,75,1,8:04 PM,1:54,MISS Johnson 2' Driving Finger Roll Layup,,,,,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,122,4,0,1,8:04 PM,1:52,Sharpe REBOUND (Off:3 Def:0),,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,123,1,98,1,8:04 PM,1:50,Evbuomwan 1' Cutting Layup Shot (2 PTS) (Sharpe 2 AST),,,20 - 22,2,4,1641787,Tosan Evbuomwan,1610612751.0,Brooklyn,Nets,BKN,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400495,125,2,1,1,8:04 PM,1:29,,,MISS Sheppard 27' 3PT Jump Shot,,,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,126,4,0,1,8:04 PM,1:25,Evbuomwan REBOUND (Off:0 Def:1),,,,,4,1641787,Tosan Evbuomwan,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,127,2,79,1,8:04 PM,1:19,MISS Beekman 13' Pullup Jump Shot,,,,,4,1641736,Reece Beekman,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,128,4,0,1,8:04 PM,1:15,,,Bryant REBOUND (Off:0 Def:1),,,5,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,129,2,79,1,8:04 PM,1:06,,,MISS Walker 18' Pullup Jump Shot,,,5,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,130,4,0,1,8:04 PM,1:03,Evbuomwan REBOUND (Off:0 Def:2),,,,,4,1641787,Tosan Evbuomwan,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,131,2,73,1,8:05 PM,0:58,MISS Beekman 3' Driving Reverse Layup,,,,,4,1641736,Reece Beekman,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,132,4,0,1,8:05 PM,0:56,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,1
+0022400495,134,2,1,1,8:05 PM,0:51,MISS Beekman 25' 3PT Jump Shot,,,,,4,1641736,Reece Beekman,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,135,4,0,1,8:05 PM,0:48,Sharpe REBOUND (Off:4 Def:0),,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,136,2,72,1,8:05 PM,0:46,MISS Sharpe 5' Putback Layup,,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,137,4,0,1,8:05 PM,0:46,,,Toppin REBOUND (Off:0 Def:2),,,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,138,6,2,1,8:05 PM,0:33,Sharpe S.FOUL (P1.T3) (N.Sago),,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022400495,140,3,11,1,8:06 PM,0:33,,,Toppin Free Throw 1 of 2 (5 PTS),21 - 22,1,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,141,3,12,1,8:06 PM,0:33,,,Toppin Free Throw 2 of 2 (6 PTS),22 - 22,TIE,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,142,5,40,1,8:06 PM,0:18,Johnson Out of Bounds Lost Ball Turnover (P2.T2),,,,,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022400495,143,1,79,1,8:07 PM,0:02,,,McConnell 10' Pullup Jump Shot (2 PTS),24 - 22,-2,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,144,13,0,1,8:07 PM,0:00,,End of 1st Period (8:07 PM EST),,24 - 22,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022400495,149,12,0,2,8:09 PM,12:00,,Start of 2nd Period (8:09 PM EST),,24 - 22,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400495,150,5,11,2,8:10 PM,11:35,,,Pacers Turnover: Shot Clock (T#3),,,3,1610612754,,,,,,0,0,,,,,,1,0,,,,,,1
+0022400495,151,2,101,2,8:11 PM,11:15,MISS Johnson 11' Driving Floating Jump Shot,,,,,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,152,4,0,2,8:11 PM,11:12,,,Walker REBOUND (Off:0 Def:1),,,5,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,153,1,73,2,8:11 PM,10:58,,,McConnell 2' Driving Reverse Layup (4 PTS) (Bryant 1 AST),26 - 22,-4,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,5,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022400495,154,1,1,2,8:11 PM,10:44,Beekman 3PT Jump Shot (5 PTS) (Johnson 2 AST),,,26 - 25,-1,4,1641736,Reece Beekman,1610612751.0,Brooklyn,Nets,BKN,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400495,156,5,2,2,8:11 PM,10:29,Claxton STEAL (1 STL),,Sheppard Lost Ball Turnover (P1.T4),,,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400495,158,5,6,2,8:11 PM,10:28,Wilson Double Dribble Turnover (P1.T3),,,,,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,159,2,79,2,8:12 PM,10:18,,,MISS Walker 26' 3PT Pullup Jump Shot,,,5,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,160,4,0,2,8:12 PM,10:13,Claxton REBOUND (Off:1 Def:4),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,161,5,40,2,8:12 PM,10:05,Johnson Out of Bounds Lost Ball Turnover (P3.T4),,,,,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022400495,162,1,47,2,8:12 PM,9:47,,,Walker 9' Turnaround Jump Shot (2 PTS),28 - 25,-3,5,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,164,2,1,2,8:13 PM,9:33,MISS Wilson 25' 3PT Jump Shot,,,,,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,165,4,0,2,8:13 PM,9:31,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,1
+0022400495,166,6,3,2,8:13 PM,9:31,Evbuomwan L.B.FOUL (P1.T1) (D.Collins),,,,,4,1641787,Tosan Evbuomwan,1610612751.0,Brooklyn,Nets,BKN,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022400495,168,2,79,2,8:13 PM,9:13,,,MISS Siakam 12' Pullup Jump Shot,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,169,4,0,2,8:13 PM,9:10,,,Bryant REBOUND (Off:1 Def:1),,,5,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,170,1,72,2,8:13 PM,9:09,,,Bryant 2' Putback Layup (2 PTS),30 - 25,-5,5,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,171,2,78,2,8:14 PM,8:51,MISS Claxton 6' Floating Jump Shot,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,173,4,0,2,8:14 PM,8:47,,,Sheppard REBOUND (Off:0 Def:1),,,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,174,2,5,2,8:14 PM,8:43,,,MISS Siakam 4' Layup,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,175,4,0,2,8:14 PM,8:40,,,Siakam REBOUND (Off:1 Def:3),,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,176,1,72,2,8:14 PM,8:40,,,Siakam 2' Putback Layup (6 PTS),32 - 25,-7,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,177,9,1,2,8:14 PM,8:40,NETS Timeout: Regular (Full 2 Short 0),,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400495,178,8,0,2,8:14 PM,8:40,SUB: Sharpe FOR Beekman,,,,,4,1641736,Reece Beekman,1610612751.0,Brooklyn,Nets,BKN,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400495,179,8,0,2,8:14 PM,8:40,SUB: Martin FOR Johnson,,,,,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,4,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400495,180,8,0,2,8:14 PM,8:40,SUB: Clowney FOR Claxton,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400495,184,5,2,2,8:17 PM,8:24,Evbuomwan Lost Ball Turnover (P1.T5),,McConnell STEAL (1 STL),,,4,1641787,Tosan Evbuomwan,1610612751.0,Brooklyn,Nets,BKN,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022400495,186,1,50,2,8:17 PM,8:21,,,Walker 1' Running Dunk (4 PTS) (McConnell 2 AST),34 - 25,-9,5,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022400495,188,6,1,2,8:17 PM,8:16,,,McConnell P.FOUL (P2.T1) (M.Ervin),,,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022400495,190,1,78,2,8:17 PM,8:10,Martin 14' Floating Jump Shot (8 PTS) (Sharpe 3 AST),,,34 - 27,-7,4,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400495,191,2,79,2,8:18 PM,7:46,,,MISS Siakam 17' Pullup Jump Shot,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,192,4,0,2,8:18 PM,7:43,Clowney REBOUND (Off:0 Def:1),,,,,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,193,2,101,2,8:18 PM,7:36,MISS Clowney 8' Driving Floating Jump Shot,,,,,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,194,4,0,2,8:18 PM,7:34,,,Walker REBOUND (Off:0 Def:2),,,5,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,195,1,79,2,8:18 PM,7:20,,,Siakam 14' Pullup Jump Shot (8 PTS),36 - 27,-9,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,196,6,2,2,8:19 PM,7:05,,,Bryant S.FOUL (P1.T2) (D.Collins),,,5,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,4,1641787,Tosan Evbuomwan,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022400495,199,3,11,2,8:19 PM,7:05,MISS Evbuomwan Free Throw 1 of 2,,,,,4,1641787,Tosan Evbuomwan,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,200,4,1,2,8:19 PM,7:05,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400495,207,3,12,2,8:19 PM,7:05,MISS Evbuomwan Free Throw 2 of 2,,,,,4,1641787,Tosan Evbuomwan,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,201,8,0,2,8:19 PM,7:05,,,SUB: Turner FOR Bryant,,,5,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022400495,202,8,0,2,8:19 PM,7:05,,,SUB: Haliburton FOR McConnell,,,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022400495,203,8,0,2,8:19 PM,7:05,,,SUB: Mathurin FOR Sheppard,,,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022400495,208,4,0,2,8:19 PM,7:02,,,Walker REBOUND (Off:0 Def:3),,,5,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,209,2,79,2,8:20 PM,6:54,,,MISS Siakam 13' Pullup Jump Shot,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,210,4,0,2,8:20 PM,6:52,Sharpe REBOUND (Off:4 Def:1),,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,211,2,6,2,8:20 PM,6:42,MISS Evbuomwan 4' Driving Layup,,,,,4,1641787,Tosan Evbuomwan,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,212,4,0,2,8:20 PM,6:38,Wilson REBOUND (Off:2 Def:0),,,,,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,213,1,72,2,8:20 PM,6:38,Wilson 2' Putback Layup (4 PTS),,,36 - 29,-7,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,214,9,1,2,8:20 PM,6:38,,,Pacers Timeout: Regular (Reg.2 Short 0),,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400495,216,8,0,2,8:21 PM,6:38,SUB: Williams FOR Evbuomwan,,,,,4,1641787,Tosan Evbuomwan,1610612751.0,Brooklyn,Nets,BKN,4,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400495,217,8,0,2,8:21 PM,6:38,,,SUB: Toppin FOR Walker,,,5,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022400495,218,8,0,2,8:21 PM,6:38,,,SUB: Nembhard FOR Siakam,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022400495,222,1,1,2,8:24 PM,6:16,,,Turner 26' 3PT Jump Shot (10 PTS) (Nembhard 2 AST),39 - 29,-10,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022400495,224,1,1,2,8:24 PM,5:53,Williams 25' 3PT Jump Shot (6 PTS) (Wilson 1 AST),,,39 - 32,-7,4,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400495,227,1,79,2,8:24 PM,5:32,,,Mathurin 19' Pullup Jump Shot (4 PTS),41 - 32,-9,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,228,2,1,2,8:25 PM,5:18,MISS Clowney 3PT Jump Shot,,,,,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,229,4,0,2,8:25 PM,5:15,Wilson REBOUND (Off:3 Def:0),,,,,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,230,1,58,2,8:25 PM,5:05,Sharpe 9' Turnaround Hook Shot (6 PTS),,,41 - 34,-7,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,231,2,1,2,8:25 PM,4:58,,,MISS Turner 28' 3PT Jump Shot,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,232,4,0,2,8:25 PM,4:58,Williams REBOUND (Off:0 Def:3),,,,,4,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,233,2,41,2,8:25 PM,4:50,MISS Williams 3' Running Layup,,,,,4,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,234,4,0,2,8:25 PM,4:50,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400495,236,2,79,2,8:26 PM,4:36,,,MISS Haliburton 14' Pullup Jump Shot,,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,237,4,0,2,8:26 PM,4:33,Williams REBOUND (Off:0 Def:4),,,,,4,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,245,6,3,2,8:26 PM,4:25,,,Toppin L.B.FOUL (P1.T3) (M.Ervin),,,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022400495,239,9,7,2,8:26 PM,4:25,NETS Timeout: Coach Challenge (Full 2 Short 0),,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400495,240,18,5,2,8:26 PM,4:25,,Instant Replay2nd Period (8:26 PM EST),,41 - 34,-7,0,238,Tyrone Hill,,,,,0,0,,,,,,1,0,,,,,,1
+0022400495,241,8,0,2,8:26 PM,4:25,SUB: Claxton FOR Sharpe,,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400495,242,8,0,2,8:26 PM,4:25,SUB: Johnson FOR Wilson,,,,,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400495,247,2,79,2,8:29 PM,4:13,MISS Clowney 26' 3PT Pullup Jump Shot,,,,,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,248,4,0,2,8:29 PM,4:09,,,Nembhard REBOUND (Off:0 Def:3),,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,249,1,101,2,8:29 PM,3:56,,,Mathurin 6' Driving Floating Jump Shot (6 PTS) (Haliburton 2 AST),43 - 34,-9,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022400495,251,2,79,2,8:29 PM,3:44,MISS Johnson 26' 3PT Pullup Jump Shot,,,,,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,252,4,0,2,8:29 PM,3:41,,,Haliburton REBOUND (Off:0 Def:1),,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,253,5,1,2,8:29 PM,3:39,Johnson STEAL (2 STL),,Haliburton Bad Pass Turnover (P2.T5),,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400495,255,1,2,2,8:29 PM,3:35,Clowney 26' 3PT Running Jump Shot (3 PTS) (Johnson 3 AST),,,43 - 37,-6,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400495,257,2,79,2,8:30 PM,3:21,,,MISS Haliburton 20' Pullup Jump Shot,,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,258,4,0,2,8:30 PM,3:17,Claxton REBOUND (Off:1 Def:5),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,259,2,58,2,8:30 PM,3:07,MISS Claxton 4' Turnaround Hook Shot,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,260,4,0,2,8:30 PM,3:05,,,Turner REBOUND (Off:2 Def:1),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,261,1,1,2,8:30 PM,2:59,,,Mathurin 25' 3PT Jump Shot (9 PTS) (Haliburton 3 AST),46 - 37,-9,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022400495,263,1,44,2,8:30 PM,2:38,Williams 2' Reverse Layup (8 PTS) (Claxton 2 AST),,,46 - 39,-7,4,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400495,265,1,6,2,8:31 PM,2:27,,,Mathurin 3' Driving Layup (11 PTS),48 - 39,-9,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,266,5,2,2,8:31 PM,2:15,Martin Lost Ball Turnover (P1.T6),,Turner STEAL (1 STL),,,4,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022400495,268,6,2,2,8:31 PM,2:11,Williams S.FOUL (P1.T2) (M.Ervin),,,,,4,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022400495,270,3,11,2,8:31 PM,2:11,,,Haliburton Free Throw 1 of 2 (4 PTS),49 - 39,-10,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,271,8,0,2,8:31 PM,2:11,,,SUB: Siakam FOR Toppin,,,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022400495,273,3,12,2,8:31 PM,2:11,,,Haliburton Free Throw 2 of 2 (5 PTS),50 - 39,-11,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,274,2,80,2,8:32 PM,1:54,MISS Williams 25' 3PT Step Back Jump Shot,,,,,4,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,275,4,0,2,8:32 PM,1:53,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400495,277,5,40,2,8:32 PM,1:40,,,Nembhard Out of Bounds Lost Ball Turnover (P1.T6),,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0022400495,278,5,2,2,8:33 PM,1:24,Martin Lost Ball Turnover (P2.T7),,Turner STEAL (2 STL),,,4,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022400495,280,5,1,2,8:33 PM,1:12,Martin STEAL (1 STL),,Mathurin Bad Pass Turnover (P2.T7),,,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,4,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400495,282,5,1,2,8:33 PM,1:02,Johnson Bad Pass Turnover (P4.T8),,Turner STEAL (3 STL),,,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022400495,284,1,1,2,8:33 PM,0:44,,,Haliburton 3PT Jump Shot (8 PTS) (Mathurin 1 AST),53 - 39,-14,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022400495,286,2,80,2,8:34 PM,0:28,MISS Martin 25' 3PT Step Back Jump Shot,,,,,4,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,287,4,0,2,8:34 PM,0:25,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,1
+0022400495,289,6,2,2,8:34 PM,0:07,Johnson S.FOUL (P1.T3) (D.Collins),,,,,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022400495,291,3,11,2,8:35 PM,0:07,,,Haliburton Free Throw 1 of 2 (9 PTS),54 - 39,-15,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,292,8,0,2,8:35 PM,0:07,,,SUB: Sheppard FOR Nembhard,,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022400495,294,3,12,2,8:35 PM,0:07,,,Haliburton Free Throw 2 of 2 (10 PTS),55 - 39,-16,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,295,6,1,2,8:35 PM,0:03,,,Haliburton P.FOUL (P2.T4) (M.Ervin),,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022400495,297,2,1,2,8:36 PM,0:00,MISS Martin 20' Jump Shot,,,,,4,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,298,4,0,2,8:36 PM,0:00,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,1
+0022400495,299,13,0,2,8:36 PM,0:00,,End of 2nd Period (8:36 PM EST),,55 - 39,-16,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022400495,302,12,0,3,8:51 PM,12:00,,Start of 3rd Period (8:51 PM EST),,55 - 39,-16,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400495,303,2,6,3,8:51 PM,11:46,,,MISS Mathurin 2' Driving Layup,,,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,304,4,0,3,8:51 PM,11:43,Williams REBOUND (Off:0 Def:5),,,,,4,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,305,2,6,3,8:52 PM,11:34,MISS Martin 3' Driving Layup,,,,,4,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,306,4,0,3,8:52 PM,11:32,,,Turner REBOUND (Off:2 Def:2),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,307,1,1,3,8:52 PM,11:26,,,Mathurin 25' 3PT Jump Shot (14 PTS) (Haliburton 4 AST),58 - 39,-19,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022400495,309,5,2,3,8:52 PM,11:07,Claxton Lost Ball Turnover (P1.T9),,Nembhard STEAL (1 STL),,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022400495,311,5,1,3,8:52 PM,10:59,Johnson STEAL (3 STL),,Mathurin Bad Pass Turnover (P3.T8),,,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400495,313,5,1,3,8:52 PM,10:55,Williams Bad Pass Turnover (P1.T10),,Haliburton STEAL (1 STL),,,4,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022400495,315,1,41,3,8:52 PM,10:54,,,Siakam Running Layup (10 PTS) (Haliburton 5 AST),60 - 39,-21,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022400495,317,6,2,3,8:52 PM,10:54,Johnson S.FOUL (P2.T1) (D.Collins),,,,,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022400495,319,9,1,3,8:53 PM,10:54,NETS Timeout: Regular (Full 3 Short 0),,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400495,320,3,10,3,8:56 PM,10:54,,,Siakam Free Throw 1 of 1 (11 PTS),61 - 39,-22,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,321,1,78,3,8:56 PM,10:28,Claxton 7' Floating Jump Shot (2 PTS) (Clowney 1 AST),,,61 - 41,-20,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400495,323,1,80,3,8:56 PM,10:18,,,Haliburton 26' 3PT Step Back Jump Shot (13 PTS) (Turner 1 AST),64 - 41,-23,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022400495,324,5,1,3,8:57 PM,10:03,Martin Bad Pass Turnover (P3.T11),,Nembhard STEAL (2 STL),,,4,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022400495,327,6,2,3,8:57 PM,10:00,Johnson S.FOUL (P3.T2) (M.Ervin),,,,,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022400495,329,3,11,3,8:57 PM,10:00,,,MISS Mathurin Free Throw 1 of 2,,,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,330,4,1,3,8:57 PM,10:00,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,1
+0022400495,331,3,12,3,8:58 PM,10:00,,,Mathurin Free Throw 2 of 2 (15 PTS),65 - 41,-24,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,332,2,6,3,8:58 PM,9:54,MISS Johnson 2' Driving Layup,,Turner BLOCK (1 BLK),,,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,1
+0022400495,334,4,0,3,8:58 PM,9:51,,,Nembhard REBOUND (Off:0 Def:4),,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,335,2,103,3,8:58 PM,9:49,,,MISS Mathurin 25' 3PT Running Pull-Up Jump Shot,,,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,336,4,0,3,8:58 PM,9:45,Williams REBOUND (Off:0 Def:6),,,,,4,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,337,1,1,3,8:58 PM,9:36,Clowney 24' 3PT Jump Shot (6 PTS) (Williams 2 AST),,,65 - 44,-21,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,4,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400495,339,1,5,3,8:58 PM,9:25,,,Siakam 1' Layup (13 PTS) (Nembhard 3 AST),67 - 44,-23,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022400495,341,2,75,3,8:59 PM,9:06,MISS Clowney 3' Driving Finger Roll Layup,,,,,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,342,4,0,3,8:59 PM,9:06,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,1
+0022400495,343,6,3,3,8:59 PM,9:06,,,Siakam L.B.FOUL (P1.T1) (M.Ervin),,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022400495,345,8,0,3,8:59 PM,9:06,SUB: Wilson FOR Johnson,,,,,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400495,347,2,1,3,8:59 PM,9:04,MISS Claxton 25' 3PT Jump Shot,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,348,4,0,3,8:59 PM,9:00,Wilson REBOUND (Off:4 Def:0),,,,,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,349,1,47,3,8:59 PM,8:59,Wilson 6' Turnaround Jump Shot (6 PTS),,,67 - 46,-21,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,350,2,1,3,8:59 PM,8:36,,,MISS Siakam 25' 3PT Jump Shot,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,351,4,0,3,9:00 PM,8:33,Clowney REBOUND (Off:0 Def:2),,,,,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,352,1,75,3,9:00 PM,8:30,Clowney 2' Driving Finger Roll Layup (8 PTS),,,67 - 48,-19,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,353,6,2,3,9:00 PM,8:30,,,Turner S.FOUL (P1.T2) (D.Collins),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022400495,355,9,1,3,9:00 PM,8:30,,,Pacers Timeout: Regular (Reg.3 Short 0),,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400495,356,3,10,3,9:03 PM,8:30,Clowney Free Throw 1 of 1 (9 PTS),,,67 - 49,-18,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,357,2,1,3,9:03 PM,8:12,,,MISS Turner 25' 3PT Jump Shot,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,358,4,0,3,9:03 PM,8:09,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400495,360,5,1,3,9:04 PM,8:01,Williams STEAL (1 STL),,Haliburton Bad Pass Turnover (P3.T9),,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400495,363,2,1,3,9:04 PM,7:43,MISS Martin 24' 3PT Jump Shot,,,,,4,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,364,4,0,3,9:04 PM,7:39,Claxton REBOUND (Off:2 Def:5),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,365,1,78,3,9:04 PM,7:34,Claxton 12' Floating Jump Shot (4 PTS) (Wilson 2 AST),,,67 - 51,-16,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400495,367,2,75,3,9:05 PM,7:14,Claxton BLOCK (1 BLK),,MISS Nembhard 4' Driving Finger Roll Layup,,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1
+0022400495,369,4,0,3,9:05 PM,7:11,Williams REBOUND (Off:0 Def:7),,,,,4,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,370,1,41,3,9:05 PM,7:10,Martin 2' Running Layup (10 PTS) (Williams 3 AST),,,67 - 53,-14,4,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,4,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400495,371,6,3,3,9:05 PM,7:09,Williams L.B.FOUL (P2.T3) (N.Sago),,,,,4,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022400495,373,1,6,3,9:06 PM,6:50,,,Siakam 2' Driving Layup (15 PTS),69 - 53,-16,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,374,1,5,3,9:06 PM,6:35,Martin Layup (12 PTS) (Williams 4 AST),,,69 - 55,-14,4,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,4,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400495,376,1,80,3,9:06 PM,6:10,,,Haliburton 18' Step Back Jump Shot (15 PTS),71 - 55,-16,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,377,6,2,3,9:07 PM,6:10,Clowney S.FOUL (P2.T4) (N.Sago),,,,,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022400495,379,3,10,3,9:07 PM,6:10,,,Haliburton Free Throw 1 of 1 (16 PTS),72 - 55,-17,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,380,2,6,3,9:07 PM,5:55,MISS Claxton 4' Driving Layup,,Haliburton BLOCK (1 BLK),,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,1
+0022400495,382,4,0,3,9:07 PM,5:52,,,Haliburton REBOUND (Off:0 Def:2),,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,383,1,41,3,9:07 PM,5:51,,,Siakam 3' Running Layup (17 PTS) (Haliburton 6 AST),74 - 55,-19,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022400495,386,2,1,3,9:08 PM,5:39,MISS Williams 25' 3PT Jump Shot,,,,,4,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,387,4,0,3,9:08 PM,5:36,,,Siakam REBOUND (Off:1 Def:4),,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,388,6,1,3,9:08 PM,5:32,Clowney P.FOUL (P3.PN) (N.Sago),,,,,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022400495,390,3,11,3,9:08 PM,5:32,,,Siakam Free Throw 1 of 2 (18 PTS),75 - 55,-20,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,391,8,0,3,9:08 PM,5:32,SUB: Sharpe FOR Williams,,,,,4,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400495,392,8,0,3,9:08 PM,5:32,SUB: Beekman FOR Martin,,,,,4,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,4,1641736,Reece Beekman,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400495,393,8,0,3,9:08 PM,5:32,SUB: Evbuomwan FOR Claxton,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,1641787,Tosan Evbuomwan,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400495,397,3,12,3,9:09 PM,5:32,,,Siakam Free Throw 2 of 2 (19 PTS),76 - 55,-21,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,398,1,1,3,9:09 PM,5:17,Clowney 24' 3PT Jump Shot (12 PTS) (Wilson 3 AST),,,76 - 58,-18,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400495,400,6,2,3,9:09 PM,5:09,Sharpe S.FOUL (P2.PN) (M.Ervin),,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022400495,402,3,11,3,9:10 PM,5:09,,,Haliburton Free Throw 1 of 2 (17 PTS),77 - 58,-19,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,403,8,0,3,9:10 PM,5:09,,,SUB: Toppin FOR Siakam,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022400495,405,3,12,3,9:10 PM,5:09,,,Haliburton Free Throw 2 of 2 (18 PTS),78 - 58,-20,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,406,2,79,3,9:11 PM,4:50,MISS Clowney 12' Pullup Jump Shot,,,,,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,407,4,0,3,9:11 PM,4:47,Clowney REBOUND (Off:1 Def:2),,,,,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,408,2,5,3,9:11 PM,4:35,MISS Sharpe 4' Layup,,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,409,4,0,3,9:11 PM,4:31,Sharpe REBOUND (Off:5 Def:1),,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,410,1,97,3,9:11 PM,4:31,Sharpe Tip Layup Shot (8 PTS),,,78 - 60,-18,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,411,2,80,3,9:11 PM,4:21,,,MISS Haliburton 24' 3PT Step Back Jump Shot,,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,412,4,0,3,9:11 PM,4:17,Evbuomwan REBOUND (Off:0 Def:3),,,,,4,1641787,Tosan Evbuomwan,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,413,1,41,3,9:11 PM,4:14,Evbuomwan 2' Running Layup (4 PTS),,,78 - 62,-16,4,1641787,Tosan Evbuomwan,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,414,9,1,3,9:11 PM,4:13,,,Pacers Timeout: Regular (Reg.4 Short 0),,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400495,415,8,0,3,9:12 PM,4:13,,,SUB: McConnell FOR Haliburton,,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022400495,416,8,0,3,9:12 PM,4:13,,,SUB: Sheppard FOR Mathurin,,,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022400495,419,2,1,3,9:13 PM,3:53,,,MISS Nembhard 3PT Jump Shot,,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,420,4,0,3,9:13 PM,3:50,Evbuomwan REBOUND (Off:0 Def:4),,,,,4,1641787,Tosan Evbuomwan,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,421,2,3,3,9:14 PM,3:41,MISS Evbuomwan 7' Hook Shot,,,,,4,1641787,Tosan Evbuomwan,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,422,4,0,3,9:14 PM,3:35,,,McConnell REBOUND (Off:0 Def:1),,,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,423,2,1,3,9:14 PM,3:26,,,MISS Sheppard 3PT Jump Shot,,,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,424,4,0,3,9:14 PM,3:24,Clowney REBOUND (Off:1 Def:3),,,,,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,425,6,26,3,9:14 PM,3:20,Clowney Offensive Charge Foul (P4) (M.Ervin),,,,,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022400495,427,5,37,3,9:14 PM,3:20,Clowney Offensive Foul Turnover (P1.T12),,,,,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022400495,428,8,0,3,9:14 PM,3:20,SUB: Johnson FOR Clowney,,,,,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400495,430,2,1,3,9:15 PM,2:59,,,MISS Toppin 25' 3PT Jump Shot,,,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,431,4,0,3,9:15 PM,2:56,Evbuomwan REBOUND (Off:0 Def:5),,,,,4,1641787,Tosan Evbuomwan,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,432,1,101,3,9:15 PM,2:45,Johnson 6' Driving Floating Jump Shot (5 PTS),,,78 - 64,-14,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,433,2,79,3,9:15 PM,2:15,,,MISS Nembhard 14' Pullup Jump Shot,,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,434,4,0,3,9:15 PM,2:11,Johnson REBOUND (Off:0 Def:1),,,,,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,435,2,1,3,9:16 PM,2:06,MISS Sharpe 3PT Jump Shot,,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,436,4,0,3,9:16 PM,2:03,,,Toppin REBOUND (Off:0 Def:3),,,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,437,5,2,3,9:16 PM,1:41,Johnson STEAL (4 STL),,Toppin Lost Ball Turnover (P1.T10),,,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400495,439,6,2,3,9:16 PM,1:38,,,Nembhard S.FOUL (P2.T3) (M.Ervin),,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022400495,441,3,11,3,9:17 PM,1:38,Johnson Free Throw 1 of 2 (6 PTS),,,78 - 65,-13,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,442,8,0,3,9:17 PM,1:38,,,SUB: Bryant FOR Nembhard,,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,5,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022400495,443,8,0,3,9:17 PM,1:38,,,SUB: Haliburton FOR Turner,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022400495,446,3,12,3,9:17 PM,1:38,Johnson Free Throw 2 of 2 (7 PTS),,,78 - 66,-12,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,447,2,79,3,9:17 PM,1:26,,,MISS McConnell 16' Pullup Jump Shot,,,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,448,4,0,3,9:17 PM,1:23,Evbuomwan REBOUND (Off:0 Def:6),,,,,4,1641787,Tosan Evbuomwan,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,449,1,106,3,9:17 PM,1:19,Sharpe 1' Running Alley Oop Dunk Shot (10 PTS) (Evbuomwan 1 AST),,,78 - 68,-10,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,4,1641787,Tosan Evbuomwan,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400495,451,2,6,3,9:18 PM,0:56,Evbuomwan BLOCK (1 BLK),,MISS Sheppard 2' Driving Layup,,,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,1641787,Tosan Evbuomwan,1610612751.0,Brooklyn,Nets,BKN,1
+0022400495,453,4,0,3,9:18 PM,0:56,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400495,455,2,79,3,9:18 PM,0:51,,,MISS Bryant 26' 3PT Pullup Jump Shot,,,5,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,456,4,0,3,9:18 PM,0:51,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400495,458,8,0,3,9:19 PM,0:49,,,SUB: Siakam FOR Toppin,,,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022400495,460,2,1,3,9:19 PM,0:45,,,MISS Siakam 26' 3PT Jump Shot,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,461,4,0,3,9:19 PM,0:41,Sharpe REBOUND (Off:5 Def:2),,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,462,2,79,3,9:19 PM,0:29,MISS Wilson 26' 3PT Pullup Jump Shot,,,,,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,463,4,0,3,9:19 PM,0:25,Sharpe REBOUND (Off:6 Def:2),,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,464,1,98,3,9:19 PM,0:25,Evbuomwan 4' Cutting Layup Shot (6 PTS) (Sharpe 4 AST),,,78 - 70,-8,4,1641787,Tosan Evbuomwan,1610612751.0,Brooklyn,Nets,BKN,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400495,466,2,78,3,9:20 PM,0:02,,,MISS Haliburton 16' Floating Jump Shot,,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,467,4,0,3,9:20 PM,0:02,Sharpe REBOUND (Off:6 Def:3),,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,468,13,0,3,9:20 PM,0:00,,End of 3rd Period (9:20 PM EST),,78 - 70,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022400495,471,12,0,4,9:22 PM,12:00,,Start of 4th Period (9:22 PM EST),,78 - 70,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400495,472,5,1,4,9:22 PM,11:56,Johnson Bad Pass Turnover (P5.T13),,McConnell STEAL (2 STL),,,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022400495,474,1,1,4,9:23 PM,11:51,,,Mathurin 26' 3PT Jump Shot (18 PTS) (Siakam 1 AST),81 - 70,-11,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022400495,475,6,1,4,9:23 PM,11:43,,,Siakam P.FOUL (P2.T1) (D.Collins),,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,4,1641787,Tosan Evbuomwan,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022400495,478,1,86,4,9:23 PM,11:35,Evbuomwan 12' Turnaround Fadeaway (8 PTS),,,81 - 72,-9,4,1641787,Tosan Evbuomwan,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,479,1,73,4,9:24 PM,11:09,,,McConnell 3' Driving Reverse Layup (6 PTS),83 - 72,-11,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,480,1,6,4,9:24 PM,10:55,Beekman 2' Driving Layup (7 PTS),,,83 - 74,-9,4,1641736,Reece Beekman,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,481,6,2,4,9:24 PM,10:46,Wilson S.FOUL (P1.T1) (D.Collins),,,,,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022400495,483,3,11,4,9:25 PM,10:46,,,McConnell Free Throw 1 of 2 (7 PTS),84 - 74,-10,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,484,3,12,4,9:25 PM,10:46,,,McConnell Free Throw 2 of 2 (8 PTS),85 - 74,-11,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,485,2,75,4,9:25 PM,10:21,MISS Beekman 6' Driving Finger Roll Layup,,,,,4,1641736,Reece Beekman,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,486,4,0,4,9:25 PM,10:19,,,Mathurin REBOUND (Off:0 Def:2),,,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,487,1,98,4,9:25 PM,10:15,,,Bryant 2' Cutting Layup Shot (4 PTS) (Siakam 2 AST),87 - 74,-13,5,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022400495,489,6,2,4,9:26 PM,10:15,Evbuomwan S.FOUL (P2.T2) (N.Sago),,,,,4,1641787,Tosan Evbuomwan,1610612751.0,Brooklyn,Nets,BKN,5,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022400495,491,8,0,4,9:26 PM,10:15,SUB: Clowney FOR Sharpe,,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400495,492,8,0,4,9:26 PM,10:15,SUB: Claxton FOR Evbuomwan,,,,,4,1641787,Tosan Evbuomwan,1610612751.0,Brooklyn,Nets,BKN,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400495,493,8,0,4,9:26 PM,10:15,SUB: Williams FOR Wilson,,,,,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,4,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400495,497,3,10,4,9:26 PM,10:15,,,Bryant Free Throw 1 of 1 (5 PTS),88 - 74,-14,5,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,498,2,79,4,9:27 PM,10:04,MISS Beekman 7' Pullup Jump Shot,,,,,4,1641736,Reece Beekman,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,499,4,0,4,9:27 PM,10:00,,,Siakam REBOUND (Off:1 Def:5),,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,500,2,1,4,9:27 PM,9:53,,,MISS Mathurin 26' 3PT Jump Shot,,,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,501,4,0,4,9:27 PM,9:49,Johnson REBOUND (Off:0 Def:2),,,,,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,502,6,1,4,9:27 PM,9:48,,,Sheppard P.FOUL (P1.T2) (N.Sago),,,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022400495,504,8,0,4,9:27 PM,9:48,SUB: Martin FOR Beekman,,,,,4,1641736,Reece Beekman,1610612751.0,Brooklyn,Nets,BKN,4,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400495,506,2,1,4,9:28 PM,9:41,MISS Clowney 30' 3PT Jump Shot,,,,,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,507,4,0,4,9:28 PM,9:41,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,1
+0022400495,509,6,3,4,9:28 PM,9:41,,,Mathurin L.B.FOUL (P2.T3) (D.Collins),,,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,4,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022400495,511,2,1,4,9:28 PM,9:33,MISS Clowney 3PT Jump Shot,,,,,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,512,4,0,4,9:28 PM,9:29,Johnson REBOUND (Off:1 Def:2),,,,,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,513,2,78,4,9:28 PM,9:24,MISS Martin 9' Floating Jump Shot,,Bryant BLOCK (1 BLK),,,4,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,5,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,1
+0022400495,515,4,0,4,9:28 PM,9:21,Martin REBOUND (Off:2 Def:1),,,,,4,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,516,1,1,4,9:28 PM,9:18,Johnson 26' 3PT Jump Shot (10 PTS) (Claxton 3 AST),,,88 - 77,-11,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400495,518,2,6,4,9:29 PM,9:02,,,MISS Siakam 4' Driving Layup,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,519,4,0,4,9:29 PM,9:00,Williams REBOUND (Off:0 Def:8),,,,,4,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,520,6,1,4,9:29 PM,8:56,,,Mathurin P.FOUL (P3.T4) (M.Ervin),,,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,4,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022400495,522,6,2,4,9:29 PM,8:48,,,Bryant S.FOUL (P2.PN) (N.Sago),,,5,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022400495,524,3,11,4,9:30 PM,8:48,Clowney Free Throw 1 of 2 (13 PTS),,,88 - 78,-10,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,525,8,0,4,9:30 PM,8:48,,,SUB: Haliburton FOR Bryant,,,5,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022400495,526,8,0,4,9:30 PM,8:48,,,SUB: Toppin FOR McConnell,,,5,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022400495,527,8,0,4,9:30 PM,8:48,,,SUB: Nembhard FOR Sheppard,,,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022400495,528,8,0,4,9:30 PM,8:48,,,SUB: Turner FOR Siakam,,,5,1627783,Pascal Siakam,1610612754.0,Indiana,Pacers,IND,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022400495,533,3,12,4,9:30 PM,8:48,Clowney Free Throw 2 of 2 (14 PTS),,,88 - 79,-9,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,534,1,1,4,9:31 PM,8:26,,,Nembhard 24' 3PT Jump Shot (3 PTS) (Mathurin 2 AST),91 - 79,-12,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022400495,536,2,78,4,9:31 PM,8:04,MISS Clowney 12' Floating Jump Shot,,,,,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,537,4,0,4,9:31 PM,8:00,,,Nembhard REBOUND (Off:0 Def:5),,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,538,6,1,4,9:31 PM,7:54,Williams P.FOUL (P3.T3) (N.Sago),,,,,4,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022400495,540,8,0,4,9:31 PM,7:54,SUB: Wilson FOR Johnson,,,,,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400495,542,5,1,4,9:32 PM,7:50,Claxton STEAL (2 STL),,Turner Bad Pass Turnover (P1.T11),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400495,544,1,41,4,9:32 PM,7:44,Williams Running Layup (10 PTS),,,91 - 81,-10,4,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,545,1,79,4,9:32 PM,7:31,,,Haliburton 25' 3PT Pullup Jump Shot (21 PTS),94 - 81,-13,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,546,2,47,4,9:32 PM,7:12,MISS Claxton 8' Turnaround Jump Shot,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,547,4,0,4,9:33 PM,7:08,,,Toppin REBOUND (Off:0 Def:4),,,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,548,1,50,4,9:33 PM,7:05,,,Mathurin 1' Running Dunk (20 PTS) (Haliburton 7 AST),96 - 81,-15,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022400495,550,9,1,4,9:33 PM,7:05,NETS Timeout: Regular (Full 4 Short 0),,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400495,551,2,78,4,9:36 PM,6:47,MISS Martin 11' Floating Jump Shot,,Turner BLOCK (2 BLK),,,4,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,1
+0022400495,553,4,0,4,9:36 PM,6:46,Martin REBOUND (Off:3 Def:1),,,,,4,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,554,2,1,4,9:36 PM,6:44,MISS Wilson 24' 3PT Jump Shot,,,,,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,555,4,0,4,9:36 PM,6:43,,,Turner REBOUND (Off:2 Def:3),,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,556,6,1,4,9:36 PM,6:32,Claxton P.FOUL (P2.T4) (M.Ervin),,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022400495,558,8,0,4,9:37 PM,6:32,SUB: Evbuomwan FOR Martin,,,,,4,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,4,1641787,Tosan Evbuomwan,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400495,559,8,0,4,9:37 PM,6:32,SUB: Johnson FOR Clowney,,,,,4,1641730,Noah Clowney,1610612751.0,Brooklyn,Nets,BKN,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400495,562,6,1,4,9:37 PM,6:26,Williams P.FOUL (P4.PN) (M.Ervin),,,,,4,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022400495,564,3,11,4,9:37 PM,6:26,,,Haliburton Free Throw 1 of 2 (22 PTS),97 - 81,-16,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,565,3,12,4,9:38 PM,6:26,,,Haliburton Free Throw 2 of 2 (23 PTS),98 - 81,-17,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,566,2,7,4,9:38 PM,6:06,MISS Claxton 1' Dunk,,Turner BLOCK (3 BLK),,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,1
+0022400495,568,4,0,4,9:38 PM,6:05,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400495,570,8,0,4,9:38 PM,6:05,SUB: Sharpe FOR Claxton,,,,,4,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400495,572,1,63,4,9:39 PM,6:02,Wilson 19' Fadeaway Jumper (8 PTS) (Johnson 4 AST),,,98 - 83,-15,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400495,574,1,6,4,9:39 PM,5:38,,,Nembhard 2' Driving Layup (5 PTS),100 - 83,-17,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,575,9,1,4,9:39 PM,5:38,NETS Timeout: Regular (Full 5 Short 0),,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400495,576,2,9,4,9:43 PM,5:15,MISS Sharpe 2' Driving Dunk,,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,577,4,0,4,9:43 PM,5:12,,,Mathurin REBOUND (Off:0 Def:3),,,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,578,2,79,4,9:43 PM,5:03,,,MISS Haliburton 28' 3PT Pullup Jump Shot,,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,579,4,0,4,9:43 PM,4:58,,,Toppin REBOUND (Off:1 Def:4),,,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,580,1,87,4,9:43 PM,4:57,,,Toppin 1' Putback Dunk (8 PTS),102 - 83,-19,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,581,5,45,4,9:43 PM,4:47,Evbuomwan Out of Bounds - Bad Pass Turnover Turnover (P2.T14),,,,,4,1641787,Tosan Evbuomwan,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022400495,582,8,0,4,9:43 PM,4:47,SUB: Martin FOR Williams,,,,,4,1630533,Ziaire Williams,1610612751.0,Brooklyn,Nets,BKN,4,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400495,584,9,1,4,9:44 PM,4:47,,,Pacers Timeout: Regular (Reg.5 Short 0),,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400495,585,8,0,4,9:44 PM,4:47,,,SUB: Bryant FOR Turner,,,5,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022400495,587,1,1,4,9:45 PM,4:33,,,Toppin 25' 3PT Jump Shot (11 PTS) (Haliburton 8 AST),105 - 83,-22,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022400495,589,1,78,4,9:46 PM,4:04,Martin 6' Floating Jump Shot (14 PTS) (Sharpe 5 AST),,,105 - 85,-20,4,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400495,591,2,73,4,9:46 PM,3:45,,,MISS Mathurin 3' Driving Reverse Layup,,,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,592,4,0,4,9:46 PM,3:43,Sharpe REBOUND (Off:6 Def:4),,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,593,2,78,4,9:46 PM,3:31,MISS Wilson 10' Floating Jump Shot,,,,,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,594,4,0,4,9:46 PM,3:27,,,Bryant REBOUND (Off:1 Def:2),,,5,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,595,2,1,4,9:47 PM,3:18,,,MISS Nembhard 3PT Jump Shot,,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,596,4,0,4,9:47 PM,3:15,Martin REBOUND (Off:3 Def:2),,,,,4,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,597,2,1,4,9:47 PM,3:09,MISS Evbuomwan 26' 3PT Jump Shot,,,,,4,1641787,Tosan Evbuomwan,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,599,1,72,4,9:47 PM,3:01,Sharpe 1' Putback Layup (12 PTS),,,105 - 87,-18,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,598,4,0,4,9:47 PM,3:01,Sharpe REBOUND (Off:7 Def:4),,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,600,2,79,4,9:47 PM,2:50,,,MISS Haliburton 16' Pullup Jump Shot,,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,601,4,0,4,9:47 PM,2:50,Johnson REBOUND (Off:1 Def:3),,,,,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,602,1,41,4,9:47 PM,2:43,Johnson 4' Running Layup (12 PTS),,,105 - 89,-16,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,603,9,1,4,9:47 PM,2:42,,,Pacers Timeout: Regular (Reg.6 Short 0),,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400495,604,8,0,4,9:47 PM,2:42,SUB: Whitehead FOR Wilson,,,,,4,1630592,Jalen Wilson,1610612751.0,Brooklyn,Nets,BKN,4,1641727,Dariq Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400495,605,8,0,4,9:47 PM,2:42,,,SUB: Furphy FOR Haliburton,,,5,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,5,1642277,Johnny Furphy,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022400495,606,8,0,4,9:47 PM,2:42,,,SUB: Walker FOR Mathurin,,,5,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,5,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022400495,607,8,0,4,9:47 PM,2:42,,,SUB: Sheppard FOR Toppin,,,5,1630167,Obi Toppin,1610612754.0,Indiana,Pacers,IND,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022400495,612,1,75,4,9:49 PM,2:19,,,Nembhard 2' Driving Finger Roll Layup (7 PTS),107 - 89,-18,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,613,1,1,4,9:49 PM,2:08,Whitehead 26' 3PT Jump Shot (3 PTS) (Johnson 5 AST),,,107 - 92,-15,4,1641727,Dariq Whitehead,1610612751.0,Brooklyn,Nets,BKN,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022400495,615,6,1,4,9:50 PM,1:49,Whitehead P.FOUL (P1.PN) (N.Sago),,,,,4,1641727,Dariq Whitehead,1610612751.0,Brooklyn,Nets,BKN,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022400495,617,3,11,4,9:50 PM,1:49,,,MISS Nembhard Free Throw 1 of 2,,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,618,4,1,4,9:50 PM,1:49,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022400495,619,8,0,4,9:50 PM,1:49,SUB: Beekman FOR Johnson,,,,,4,1630553,Keon Johnson,1610612751.0,Brooklyn,Nets,BKN,4,1641736,Reece Beekman,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022400495,621,3,12,4,9:51 PM,1:49,,,Nembhard Free Throw 2 of 2 (8 PTS),108 - 92,-16,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,622,6,2,4,9:51 PM,1:36,,,Walker S.FOUL (P1.PN) (N.Sago),,,5,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,4,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022400495,624,3,11,4,9:51 PM,1:36,Martin Free Throw 1 of 2 (15 PTS),,,108 - 93,-15,4,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,625,8,0,4,9:51 PM,1:36,,,SUB: Johnson FOR Nembhard,,,5,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,5,201949,James Johnson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022400495,627,3,12,4,9:51 PM,1:36,MISS Martin Free Throw 2 of 2,,,,,4,1631213,Tyrese Martin,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,628,4,0,4,9:51 PM,1:33,,,Sheppard REBOUND (Off:0 Def:2),,,5,1641767,Ben Sheppard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022400495,629,1,98,4,9:52 PM,1:23,,,Furphy 1' Cutting Layup Shot (2 PTS) (Bryant 2 AST),110 - 93,-17,5,1642277,Johnny Furphy,1610612754.0,Indiana,Pacers,IND,5,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022400495,631,1,44,4,9:52 PM,1:15,Beekman 3' Reverse Layup (9 PTS),,,110 - 95,-15,4,1641736,Reece Beekman,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,632,1,1,4,9:52 PM,1:02,,,Bryant 25' 3PT Jump Shot (8 PTS) (Walker 1 AST),113 - 95,-18,5,1628418,Thomas Bryant,1610612754.0,Indiana,Pacers,IND,5,1641716,Jarace Walker,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022400495,634,2,1,4,9:53 PM,0:53,MISS Whitehead 25' 3PT Jump Shot,,,,,4,1641727,Dariq Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,635,4,0,4,9:53 PM,0:52,Sharpe REBOUND (Off:8 Def:4),,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,636,1,97,4,9:53 PM,0:52,Sharpe Tip Layup Shot (14 PTS),,,113 - 97,-16,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,637,5,11,4,9:53 PM,0:27,,,Pacers Turnover: Shot Clock (T#12),,,3,1610612754,,,,,,0,0,,,,,,1,0,,,,,,1
+0022400495,638,2,1,4,9:54 PM,0:16,MISS Whitehead 27' 3PT Jump Shot,,,,,4,1641727,Dariq Whitehead,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,639,4,0,4,9:54 PM,0:13,Sharpe REBOUND (Off:9 Def:4),,,,,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,640,1,72,4,9:54 PM,0:13,Sharpe Putback Layup (16 PTS),,,113 - 99,-14,4,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022400495,641,13,0,4,9:54 PM,0:00,,End of 4th Period (9:54 PM EST),,113 - 99,-14,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

@@ -1,0 +1,456 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200032,2,12,0,1,8:14 PM,12:00,,Start of 1st Period (8:14 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200032,4,10,0,1,8:14 PM,12:00,Jump Ball Vucevic vs. Allen: Tip to Mitchell,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022200032,7,2,6,1,8:15 PM,11:42,Vucevic BLOCK (1 BLK),,MISS Okoro 2' Driving Layup,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,1
+0022200032,9,4,0,1,8:15 PM,11:38,,,Allen REBOUND (Off:1 Def:0),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,10,2,1,1,8:15 PM,11:35,,,MISS LeVert 26' 3PT Jump Shot,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,11,4,0,1,8:15 PM,11:30,Dosunmu REBOUND (Off:0 Def:1),,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,12,1,108,1,8:15 PM,11:14,Vucevic 1' Cutting Dunk Shot (2 PTS) (LaVine 1 AST),,,0 - 2,2,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200032,14,1,57,1,8:16 PM,10:54,,,E. Mobley 5' Driving Hook Shot (2 PTS),2 - 2,TIE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,15,1,80,1,8:16 PM,10:32,LaVine 25' 3PT Step Back Jump Shot (3 PTS) (Vucevic 1 AST),,,2 - 5,3,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200032,17,5,45,1,8:16 PM,10:15,,,E. Mobley Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0022200032,18,5,40,1,8:17 PM,10:05,Williams Out of Bounds Lost Ball Turnover (P1.T1),,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0022200032,19,2,86,1,8:17 PM,9:40,,,MISS E. Mobley 12' Turnaround Fadeaway Shot,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,20,4,0,1,8:17 PM,9:37,Williams REBOUND (Off:0 Def:1),,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,21,2,58,1,8:17 PM,9:20,MISS Vucevic 6' Turnaround Hook Shot,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,22,4,0,1,8:17 PM,9:18,,,E. Mobley REBOUND (Off:0 Def:1),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,23,2,58,1,8:18 PM,9:05,,,MISS E. Mobley 5' Turnaround Hook Shot,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,24,4,0,1,8:18 PM,9:03,LaVine REBOUND (Off:0 Def:1),,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,25,1,86,1,8:18 PM,8:56,DeRozan 14' Turnaround Fadeaway (2 PTS) (LaVine 2 AST),,,2 - 7,5,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200032,27,5,1,1,8:18 PM,8:32,Williams STEAL (1 STL),,LeVert Bad Pass Turnover (P1.T2),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200032,29,6,31,1,8:18 PM,8:30,,,Mitchell Transition Take Foul (P1.T1) (R.Hussey),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200032,31,3,10,1,8:19 PM,8:30,DeRozan Free Throw 1 of 1 (3 PTS),,,2 - 8,6,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,33,1,58,1,8:20 PM,8:15,Vucevic 7' Turnaround Hook Shot (4 PTS) (Dosunmu 1 AST),,,2 - 10,8,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200032,35,1,43,1,8:20 PM,8:00,,,E. Mobley 1' Alley Oop Layup (4 PTS) (Allen 1 AST),4 - 10,6,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200032,37,6,2,1,8:20 PM,8:00,Williams S.FOUL (P1.T1) (R.Hussey),,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200032,39,3,10,1,8:21 PM,8:00,,,E. Mobley Free Throw 1 of 1 (5 PTS),5 - 10,5,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,40,1,80,1,8:21 PM,7:41,LaVine 17' Step Back Jump Shot (5 PTS),,,5 - 12,7,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,41,5,45,1,8:21 PM,7:31,,,Okoro Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0022200032,42,9,1,1,8:21 PM,7:31,BULLS Timeout: Regular (Full 1 Short 0),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200032,43,8,0,1,8:24 PM,7:31,,,SUB: Osman FOR Okoro,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200032,45,2,1,1,8:25 PM,7:14,MISS Dosunmu 25' 3PT Jump Shot,,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,46,4,0,1,8:25 PM,7:10,,,Allen REBOUND (Off:1 Def:1),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,47,1,79,1,8:25 PM,7:05,,,Mitchell 19' Pullup Jump Shot (2 PTS),7 - 12,5,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,49,2,1,1,8:26 PM,6:38,MISS Dosunmu 26' 3PT Jump Shot,,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,50,4,0,1,8:26 PM,6:36,,,Mitchell REBOUND (Off:0 Def:1),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,51,1,79,1,8:26 PM,6:32,,,Mitchell 26' 3PT Pullup Jump Shot (5 PTS),10 - 12,2,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,52,2,79,1,8:26 PM,6:16,MISS DeRozan 15' Pullup Jump Shot,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,53,4,0,1,8:26 PM,6:14,Williams REBOUND (Off:1 Def:1),,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,54,1,79,1,8:26 PM,6:12,Williams 17' Pullup Jump Shot (2 PTS),,,10 - 14,4,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,55,1,79,1,8:26 PM,5:52,,,Mitchell 16' Pullup Jump Shot (7 PTS),12 - 14,2,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,56,1,58,1,8:27 PM,5:36,Vucevic 8' Turnaround Hook Shot (6 PTS) (LaVine 3 AST),,,12 - 16,4,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200032,58,6,1,1,8:27 PM,5:26,Dosunmu P.FOUL (P1.T2) (R.Hussey),,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200032,60,8,0,1,8:27 PM,5:26,SUB: Green FOR Williams,,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200032,61,8,0,1,8:27 PM,5:26,,,SUB: Love FOR E. Mobley,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200032,64,2,79,1,8:28 PM,5:15,,,MISS Osman 17' Pullup Jump Shot,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,65,4,0,1,8:28 PM,5:13,Vucevic REBOUND (Off:0 Def:1),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,66,2,47,1,8:28 PM,5:06,MISS DeRozan 9' Turnaround Jump Shot,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,67,4,0,1,8:28 PM,5:03,,,Love REBOUND (Off:0 Def:1),,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,68,1,1,1,8:28 PM,4:59,,,Love 26' 3PT Jump Shot (3 PTS) (LeVert 1 AST),15 - 16,1,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200032,70,2,79,1,8:28 PM,4:45,MISS LaVine 25' 3PT Pullup Jump Shot,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,71,4,0,1,8:28 PM,4:41,,,Allen REBOUND (Off:1 Def:2),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,72,6,2,1,8:28 PM,4:35,Vucevic S.FOUL (P1.T3) (A.Moyer-Gleich),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200032,74,3,11,1,8:29 PM,4:35,,,Mitchell Free Throw 1 of 2 (8 PTS),16 - 16,TIE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0022200032,75,8,0,1,8:29 PM,4:35,SUB: White FOR Dosunmu,,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200032,77,3,12,1,8:29 PM,4:35,,,Mitchell Free Throw 2 of 2 (9 PTS),17 - 16,-1,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,78,6,2,1,8:30 PM,4:21,,,Allen S.FOUL (P1.T2) (A.Moyer-Gleich),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200032,80,3,11,1,8:30 PM,4:21,MISS LaVine Free Throw 1 of 2,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,81,4,1,1,8:30 PM,4:21,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200032,82,8,0,1,8:30 PM,4:21,,,SUB: Neto FOR Allen,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200032,83,8,0,1,8:30 PM,4:21,,,SUB: Lopez FOR Mitchell,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200032,86,3,12,1,8:31 PM,4:21,LaVine Free Throw 2 of 2 (6 PTS),,,17 - 17,TIE,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,87,1,1,1,8:31 PM,4:04,,,Love 29' 3PT Jump Shot (6 PTS) (LeVert 2 AST),20 - 17,-3,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200032,89,2,1,1,8:31 PM,3:50,MISS Vucevic 15' Jump Shot,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,90,4,0,1,8:31 PM,3:45,Green REBOUND (Off:1 Def:0),,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,91,1,87,1,8:31 PM,3:45,Green Putback Dunk (2 PTS),,,20 - 19,-1,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,92,1,79,1,8:32 PM,3:31,,,Love 27' 3PT Pullup Jump Shot (9 PTS),23 - 19,-4,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,93,2,1,1,8:32 PM,3:17,MISS Vucevic 26' 3PT Jump Shot,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,94,4,0,1,8:32 PM,3:15,,,Love REBOUND (Off:0 Def:2),,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,95,1,58,1,8:32 PM,3:02,,,Lopez 6' Turnaround Hook Shot (2 PTS),25 - 19,-6,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,97,1,79,1,8:32 PM,2:52,LaVine 22' Pullup Jump Shot (8 PTS),,,25 - 21,-4,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,98,2,44,1,8:33 PM,2:30,Vucevic BLOCK (2 BLK),,MISS LeVert 4' Reverse Layup,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,1
+0022200032,100,4,0,1,8:33 PM,2:28,LaVine REBOUND (Off:0 Def:2),,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,101,2,79,1,8:33 PM,2:21,MISS LaVine 25' 3PT Pullup Jump Shot,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,102,4,0,1,8:33 PM,2:19,White REBOUND (Off:1 Def:0),,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,103,1,98,1,8:33 PM,2:14,White 2' Cutting Layup Shot (2 PTS) (Green 1 AST),,,25 - 23,-2,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200032,105,1,58,1,8:33 PM,1:58,,,Lopez 5' Turnaround Hook Shot (4 PTS) (Neto 1 AST),27 - 23,-4,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200032,107,2,1,1,8:34 PM,1:33,MISS Vucevic 18' Jump Shot,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,108,4,0,1,8:34 PM,1:31,,,Love REBOUND (Off:0 Def:3),,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,109,9,1,1,8:34 PM,1:26,,,Cavaliers Timeout: Regular (Reg.1 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200032,110,8,0,1,8:36 PM,1:26,SUB: Drummond FOR LaVine,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200032,111,8,0,1,8:36 PM,1:26,SUB: Dragic FOR Vucevic,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200032,112,8,0,1,8:36 PM,1:26,SUB: Caruso FOR DeRozan,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200032,116,2,1,1,8:37 PM,1:17,Green BLOCK (1 BLK),,MISS Love 12' Jump Shot,,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,1
+0022200032,117,4,0,1,8:37 PM,1:14,Drummond REBOUND (Off:0 Def:1),,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,118,2,1,1,8:37 PM,1:08,MISS Green 26' 3PT Jump Shot,,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,119,4,0,1,8:37 PM,1:04,,,Neto REBOUND (Off:0 Def:1),,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,120,1,78,1,8:37 PM,0:59,,,Neto 7' Floating Jump Shot (2 PTS),29 - 23,-6,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,121,2,1,1,8:37 PM,0:49,MISS White 24' 3PT Jump Shot,,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,122,4,0,1,8:37 PM,0:46,,,Love REBOUND (Off:0 Def:4),,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,123,1,5,1,8:38 PM,0:41,,,Osman 2' Layup (2 PTS) (Love 1 AST),31 - 23,-8,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200032,125,1,78,1,8:38 PM,0:28,Dragic 10' Floating Jump Shot (2 PTS),,,31 - 25,-6,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,126,1,80,1,8:38 PM,0:08,,,LeVert 25' 3PT Step Back Jump Shot (3 PTS),34 - 25,-9,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,127,6,4,1,8:38 PM,0:04,Drummond OFF.Foul (P1) (A.Moyer-Gleich),,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200032,130,5,37,1,8:38 PM,0:04,Drummond Offensive Foul Turnover (P1.T2),,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0022200032,131,8,0,1,8:39 PM,0:04,SUB: Dosunmu FOR Dragic,,,,,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200032,132,8,0,1,8:39 PM,0:04,,,SUB: Mitchell FOR Lopez,,,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200032,135,2,6,1,8:39 PM,0:00,,,MISS LeVert 5' Driving Layup,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,136,4,0,1,8:39 PM,0:00,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200032,137,13,0,1,8:39 PM,0:00,,End of 1st Period (8:39 PM EST),,34 - 25,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200032,146,12,0,2,8:42 PM,12:00,,Start of 2nd Period (8:42 PM EST),,34 - 25,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200032,147,1,1,2,8:42 PM,11:46,Jones Jr. 3PT Jump Shot (3 PTS) (Dragic 1 AST),,,34 - 28,-6,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200032,149,1,79,2,8:42 PM,11:29,,,Mitchell 27' 3PT Pullup Jump Shot (12 PTS) (Love 2 AST),37 - 28,-9,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200032,151,5,1,2,8:43 PM,11:18,Dragic Bad Pass Turnover (P1.T3),,Mitchell STEAL (1 STL),,,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200032,153,1,50,2,8:43 PM,11:15,,,Okoro Running Dunk (2 PTS) (Mitchell 1 AST),39 - 28,-11,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200032,155,2,1,2,8:43 PM,10:53,MISS Dragic 11' Jump Shot,,,,,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,156,4,0,2,8:43 PM,10:52,,,Mitchell REBOUND (Off:0 Def:2),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,157,1,50,2,8:43 PM,10:48,,,E. Mobley Running Dunk (7 PTS) (Mitchell 2 AST),41 - 28,-13,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200032,159,9,1,2,8:43 PM,10:48,BULLS Timeout: Regular (Full 2 Short 0),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200032,160,1,3,2,8:46 PM,10:32,Drummond 3' Hook Shot (2 PTS) (Dragic 2 AST),,,41 - 30,-11,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200032,162,6,17,2,8:47 PM,10:15,BULLS T.Foul (Def. 3 Sec White ) (J.Williams),,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0022200032,163,3,16,2,8:47 PM,10:15,,,Mitchell Free Throw Technical (13 PTS),42 - 30,-12,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,164,1,79,2,8:48 PM,10:04,,,E. Mobley 7' Pullup Jump Shot (9 PTS) (Osman 1 AST),44 - 30,-14,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200032,166,5,2,2,8:48 PM,9:52,Drummond Lost Ball Turnover (P2.T4),,E. Mobley STEAL (1 STL),,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200032,168,1,79,2,8:48 PM,9:47,,,Osman 25' 3PT Pullup Jump Shot (5 PTS) (Love 3 AST),47 - 30,-17,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200032,170,2,58,2,8:48 PM,9:21,MISS Drummond 9' Turnaround Hook Shot,,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,171,4,0,2,8:48 PM,9:19,,,Love REBOUND (Off:0 Def:5),,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,172,1,98,2,8:48 PM,9:10,,,E. Mobley 3' Cutting Layup Shot (11 PTS) (Mitchell 3 AST),49 - 30,-19,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200032,174,1,79,2,8:49 PM,9:02,Dragic 11' Pullup Jump Shot (4 PTS),,,49 - 32,-17,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,175,2,5,2,8:49 PM,8:56,Caruso BLOCK (1 BLK),,MISS Osman 3' Layup,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,1
+0022200032,182,4,0,2,8:49 PM,8:56,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200032,177,8,0,2,8:49 PM,8:56,SUB: Dosunmu FOR Dragic,,,,,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200032,179,10,0,2,8:49 PM,8:56,Jump Ball Caruso vs. Osman: Tip to E. Mobley,,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022200032,183,1,98,2,8:49 PM,8:40,,,Osman 1' Cutting Layup Shot (7 PTS) (E. Mobley 1 AST),51 - 32,-19,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200032,185,6,1,2,8:50 PM,8:31,,,Osman P.FOUL (P1.T1) (A.Moyer-Gleich),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200032,188,6,2,2,8:50 PM,8:17,,,Osman S.FOUL (P2.T2) (R.Hussey),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200032,190,3,11,2,8:51 PM,8:17,Caruso Free Throw 1 of 2 (1 PTS),,,51 - 33,-18,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,191,8,0,2,8:51 PM,8:17,SUB: DeRozan FOR White,,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200032,192,8,0,2,8:51 PM,8:17,,,SUB: Allen FOR Love,,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200032,195,3,12,2,8:51 PM,8:17,Caruso Free Throw 2 of 2 (2 PTS),,,51 - 34,-17,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,196,1,98,2,8:52 PM,8:05,,,Allen 3' Cutting Layup Shot (2 PTS) (Mitchell 4 AST),53 - 34,-19,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200032,198,6,2,2,8:52 PM,7:49,,,Mitchell S.FOUL (P2.T3) (A.Moyer-Gleich),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200032,200,3,11,2,8:52 PM,7:49,Jones Jr. Free Throw 1 of 2 (4 PTS),,,53 - 35,-18,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,225,8,0,2,8:53 PM,7:49,SUB: White FOR Caruso,,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200032,201,3,12,2,8:53 PM,7:49,Jones Jr. Free Throw 2 of 2 (5 PTS),,,53 - 36,-17,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,202,5,1,2,8:53 PM,7:36,Drummond STEAL (1 STL),,Allen Bad Pass Turnover (P1.T4),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200032,204,2,1,2,8:53 PM,7:24,MISS White 25' 3PT Jump Shot,,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,205,4,0,2,8:53 PM,7:19,Drummond REBOUND (Off:1 Def:1),,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,206,2,97,2,8:53 PM,7:19,MISS Drummond Tip Layup Shot,,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,207,4,0,2,8:53 PM,7:19,,,Osman REBOUND (Off:0 Def:1),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,208,6,1,2,8:53 PM,7:19,White P.FOUL (P1.T1) (A.Moyer-Gleich),,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200032,210,8,0,2,8:54 PM,7:19,SUB: Vucevic FOR Drummond,,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200032,211,8,0,2,8:54 PM,7:19,,,SUB: Neto FOR Mitchell,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200032,214,5,2,2,8:54 PM,7:08,Jones Jr. STEAL (1 STL),,E. Mobley Lost Ball Turnover (P2.T5),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200032,215,6,1,2,8:54 PM,7:08,,,E. Mobley P.FOUL (P1.T4) (J.Williams),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200032,218,2,101,2,8:55 PM,6:51,MISS Dosunmu 2' Driving Floating Jump Shot,,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,219,4,0,2,8:55 PM,6:50,Vucevic REBOUND (Off:1 Def:1),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,220,1,97,2,8:55 PM,6:49,Vucevic Tip Layup Shot (8 PTS),,,53 - 38,-15,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,221,1,44,2,8:55 PM,6:24,,,Neto 2' Reverse Layup (4 PTS) (Osman 2 AST),55 - 38,-17,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200032,223,6,1,2,8:55 PM,6:13,,,Neto P.FOUL (P1.PN) (J.Williams),,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200032,227,3,11,2,8:56 PM,6:13,Jones Jr. Free Throw 1 of 2 (6 PTS),,,55 - 39,-16,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,228,3,12,2,8:56 PM,6:13,MISS Jones Jr. Free Throw 2 of 2,,,,,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,229,4,0,2,8:56 PM,6:10,,,E. Mobley REBOUND (Off:0 Def:2),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,230,5,45,2,8:56 PM,6:01,,,Osman Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,231,8,0,2,8:57 PM,5:49,SUB: LaVine FOR White,,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200032,233,7,5,2,8:57 PM,5:49,,,E. Mobley Violation:Kicked Ball (J.Williams),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,0
+0022200032,234,8,0,2,8:57 PM,5:49,SUB: Williams FOR Jones Jr.,,,,,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200032,235,8,0,2,8:57 PM,5:49,,,SUB: LeVert FOR E. Mobley,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200032,236,8,0,2,8:57 PM,5:49,,,SUB: Love FOR Osman,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200032,240,6,1,2,8:57 PM,5:40,,,Love P.FOUL (P1.PN) (R.Hussey),,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200032,242,3,11,2,8:58 PM,5:40,DeRozan Free Throw 1 of 2 (4 PTS),,,55 - 40,-15,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,243,3,12,2,8:58 PM,5:40,DeRozan Free Throw 2 of 2 (5 PTS),,,55 - 41,-14,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,244,2,1,2,8:59 PM,5:21,,,MISS Love 12' Jump Shot,,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,245,4,0,2,8:59 PM,5:17,,,Allen REBOUND (Off:2 Def:2),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,246,5,2,2,8:59 PM,5:17,LaVine STEAL (1 STL),,Allen Lost Ball Turnover (P2.T7),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200032,248,2,5,2,8:59 PM,5:04,MISS LaVine 5' Layup,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,249,4,0,2,8:59 PM,5:02,,,Love REBOUND (Off:0 Def:6),,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,250,9,1,2,8:59 PM,4:58,,,Cavaliers Timeout: Regular (Reg.2 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200032,252,8,0,2,9:02 PM,4:58,,,SUB: Mitchell FOR Neto,,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200032,254,2,6,2,9:02 PM,4:48,,,MISS Mitchell 2' Driving Layup,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,255,4,0,2,9:02 PM,4:46,DeRozan REBOUND (Off:0 Def:1),,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,256,2,1,2,9:02 PM,4:41,MISS Williams 13' Jump Shot,,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,257,4,0,2,9:02 PM,4:39,,,Allen REBOUND (Off:2 Def:3),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,258,6,1,2,9:02 PM,4:36,DeRozan P.FOUL (P1.T2) (R.Hussey),,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200032,260,2,1,2,9:03 PM,4:22,,,MISS Mitchell 27' 3PT Jump Shot,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,261,4,0,2,9:03 PM,4:19,LaVine REBOUND (Off:0 Def:3),,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,262,2,1,2,9:03 PM,4:01,MISS Dosunmu 3PT Jump Shot,,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,263,4,0,2,9:03 PM,3:58,,,Love REBOUND (Off:0 Def:7),,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,264,2,3,2,9:03 PM,3:51,,,MISS Allen 6' Hook Shot,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,265,4,0,2,9:03 PM,3:48,Vucevic REBOUND (Off:1 Def:2),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,266,2,1,2,9:04 PM,3:41,MISS Williams 26' 3PT Jump Shot,,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,267,4,0,2,9:04 PM,3:37,,,Love REBOUND (Off:0 Def:8),,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,268,2,41,2,9:04 PM,3:32,,,MISS LeVert 2' Running Layup,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,269,4,0,2,9:04 PM,3:32,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200032,271,8,0,2,9:04 PM,3:32,SUB: Caruso FOR Williams,,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200032,272,8,0,2,9:04 PM,3:32,,,SUB: E. Mobley FOR Love,,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200032,273,8,0,2,9:04 PM,3:32,,,SUB: Osman FOR Okoro,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200032,277,1,1,2,9:04 PM,3:24,,,LeVert 25' 3PT Jump Shot (6 PTS) (Mitchell 5 AST),58 - 41,-17,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200032,279,1,6,2,9:04 PM,3:14,LaVine 1' Driving Layup (10 PTS) (Dosunmu 2 AST),,,58 - 43,-15,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200032,281,2,1,2,9:05 PM,2:51,,,MISS LeVert 26' 3PT Jump Shot,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,282,4,0,2,9:05 PM,2:47,Caruso REBOUND (Off:0 Def:1),,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,283,6,2,2,9:05 PM,2:40,,,Osman S.FOUL (P3.PN) (R.Hussey),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200032,285,3,11,2,9:06 PM,2:40,DeRozan Free Throw 1 of 2 (6 PTS),,,58 - 44,-14,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,286,3,12,2,9:06 PM,2:40,DeRozan Free Throw 2 of 2 (7 PTS),,,58 - 45,-13,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,287,2,1,2,9:06 PM,2:26,,,MISS LeVert 27' 3PT Jump Shot,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,288,4,0,2,9:06 PM,2:22,Vucevic REBOUND (Off:1 Def:3),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,289,2,6,2,9:06 PM,2:13,MISS DeRozan 2' Driving Layup,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,291,4,0,2,9:06 PM,2:10,,,Osman REBOUND (Off:0 Def:2),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,292,1,66,2,9:06 PM,2:02,,,Allen 16' Jump Bank Shot (4 PTS) (Mitchell 6 AST),60 - 45,-15,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200032,294,1,79,2,9:07 PM,1:48,LaVine 26' 3PT Pullup Jump Shot (13 PTS),,,60 - 48,-12,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,295,1,58,2,9:07 PM,1:29,,,Allen 3' Turnaround Hook Shot (6 PTS) (Mitchell 7 AST),62 - 48,-14,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200032,297,1,66,2,9:07 PM,1:15,LaVine 7' Jump Bank Shot (15 PTS) (Vucevic 2 AST),,,62 - 50,-12,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200032,299,1,1,2,9:07 PM,1:01,,,Osman 26' 3PT Jump Shot (10 PTS) (Allen 2 AST),65 - 50,-15,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200032,301,1,6,2,9:08 PM,0:52,LaVine 2' Driving Layup (17 PTS),,,65 - 52,-13,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,302,1,79,2,9:08 PM,0:40,,,Mitchell 28' 3PT Pullup Jump Shot (16 PTS),68 - 52,-16,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,303,2,1,2,9:08 PM,0:30,MISS DeRozan 17' Jump Shot,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,304,4,0,2,9:08 PM,0:28,,,LeVert REBOUND (Off:0 Def:1),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,305,6,2,2,9:09 PM,0:11,Caruso S.FOUL (P1.T3) (R.Hussey),,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200032,307,3,11,2,9:09 PM,0:11,,,Mitchell Free Throw 1 of 2 (17 PTS),69 - 52,-17,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,308,8,0,2,9:09 PM,0:11,,,SUB: Okoro FOR Osman,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200032,310,3,12,2,9:10 PM,0:11,,,Mitchell Free Throw 2 of 2 (18 PTS),70 - 52,-18,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,311,1,105,2,9:10 PM,0:00,DeRozan 7' Turnaround Fadeaway Bank Jump Shot (9 PTS),,,70 - 54,-16,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,313,5,1,2,9:10 PM,0:00,LaVine STEAL (2 STL),,Mitchell Bad Pass Turnover (P1.T8),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200032,315,13,0,2,9:10 PM,0:00,,End of 2nd Period (9:10 PM EST),,70 - 54,-16,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200032,318,12,0,3,9:25 PM,12:00,,Start of 3rd Period (9:25 PM EST),,70 - 54,-16,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200032,319,1,5,3,9:26 PM,11:40,Vucevic 2' Layup (10 PTS),,,70 - 56,-14,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,320,6,1,3,9:26 PM,11:26,Dosunmu P.FOUL (P2.T1) (J.Williams),,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200032,322,7,5,3,9:26 PM,11:18,Williams Violation:Kicked Ball (A.Moyer-Gleich),,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0022200032,323,1,5,3,9:27 PM,11:06,,,E. Mobley 5' Layup (13 PTS),72 - 56,-16,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,324,2,79,3,9:27 PM,10:55,MISS Williams 16' Pullup Jump Shot,,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,325,4,0,3,9:27 PM,10:54,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200032,327,1,9,3,9:27 PM,10:40,,,Mitchell 1' Driving Dunk (20 PTS) (LeVert 3 AST),74 - 56,-18,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200032,329,9,1,3,9:28 PM,10:40,BULLS Timeout: Regular (Full 3 Short 0),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200032,332,5,40,3,9:30 PM,10:33,Vucevic Out of Bounds Lost Ball Turnover (P1.T5),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0022200032,333,1,52,3,9:31 PM,10:07,,,Allen 1' Alley Oop Dunk (8 PTS) (Mitchell 8 AST),76 - 56,-20,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200032,335,1,1,3,9:31 PM,9:55,Dosunmu 26' 3PT Jump Shot (3 PTS) (Vucevic 3 AST),,,76 - 59,-17,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200032,337,2,5,3,9:31 PM,9:45,Vucevic BLOCK (3 BLK),,MISS Mitchell 8' Layup,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,1
+0022200032,339,4,0,3,9:31 PM,9:40,Dosunmu REBOUND (Off:0 Def:2),,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,340,1,7,3,9:31 PM,9:39,LaVine Dunk (19 PTS) (Dosunmu 3 AST),,,76 - 61,-15,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200032,342,6,2,3,9:32 PM,9:27,LaVine S.FOUL (P1.T2) (A.Moyer-Gleich),,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200032,345,8,0,3,9:32 PM,9:27,SUB: Green FOR Williams,,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200032,344,3,11,3,9:32 PM,9:27,,,LeVert Free Throw 1 of 2 (7 PTS),77 - 61,-16,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,347,3,12,3,9:32 PM,9:27,,,MISS LeVert Free Throw 2 of 2,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,348,4,0,3,9:32 PM,9:24,Green REBOUND (Off:1 Def:1),,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,349,2,6,3,9:33 PM,8:59,MISS LaVine 3' Driving Layup,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,350,4,0,3,9:33 PM,8:57,,,Okoro REBOUND (Off:0 Def:1),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,351,1,5,3,9:33 PM,8:50,,,E. Mobley 1' Layup (15 PTS) (LeVert 4 AST),79 - 61,-18,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200032,353,6,2,3,9:33 PM,8:50,Vucevic S.FOUL (P2.T3) (J.Williams),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200032,355,3,10,3,9:34 PM,8:50,,,E. Mobley Free Throw 1 of 1 (16 PTS),80 - 61,-19,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,356,2,1,3,9:34 PM,8:25,MISS LaVine 3PT Jump Shot,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,357,4,0,3,9:34 PM,8:23,,,Mitchell REBOUND (Off:0 Def:3),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,358,5,1,3,9:34 PM,8:18,DeRozan STEAL (1 STL),,Mitchell Bad Pass Turnover (P2.T9),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200032,360,2,5,3,9:34 PM,8:05,MISS Vucevic 4' Layup,,Allen BLOCK (1 BLK),,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022200032,362,4,0,3,9:34 PM,8:01,,,LeVert REBOUND (Off:0 Def:2),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,364,2,5,3,9:34 PM,7:59,Green BLOCK (2 BLK),,MISS Okoro 1' Layup,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,1
+0022200032,366,4,0,3,9:35 PM,7:56,DeRozan REBOUND (Off:0 Def:2),,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,368,8,0,3,9:35 PM,7:56,SUB: Caruso FOR LaVine,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200032,370,1,5,3,9:35 PM,7:52,Dosunmu 2' Layup (5 PTS) (Caruso 1 AST),,,80 - 63,-17,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200032,372,5,39,3,9:36 PM,7:30,,,Okoro Step Out of Bounds Turnover (P2.T10),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0022200032,373,1,1,3,9:36 PM,7:14,Vucevic 3PT Jump Shot (13 PTS) (DeRozan 1 AST),,,80 - 66,-14,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200032,375,2,79,3,9:36 PM,6:48,,,MISS Mitchell 19' Pullup Jump Shot,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,376,4,0,3,9:37 PM,6:45,,,E. Mobley REBOUND (Off:1 Def:2),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,377,5,1,3,9:37 PM,6:40,DeRozan STEAL (2 STL),,E. Mobley Bad Pass Turnover (P3.T11),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200032,379,1,1,3,9:37 PM,6:33,Vucevic 28' 3PT Jump Shot (16 PTS) (Green 2 AST),,,80 - 69,-11,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200032,381,9,1,3,9:37 PM,6:32,,,Cavaliers Timeout: Regular (Reg.3 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200032,382,8,0,3,9:39 PM,6:32,,,SUB: Osman FOR Okoro,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200032,384,2,1,3,9:40 PM,6:05,,,MISS Osman 26' 3PT Jump Shot,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,385,4,0,3,9:40 PM,6:03,Caruso REBOUND (Off:0 Def:2),,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,386,5,1,3,9:40 PM,6:02,Caruso Bad Pass Turnover (P1.T6),,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,387,2,79,3,9:41 PM,5:42,,,MISS LeVert 12' Pullup Jump Shot,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,388,4,0,3,9:41 PM,5:39,Dosunmu REBOUND (Off:0 Def:3),,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,389,6,2,3,9:41 PM,5:34,,,LeVert S.FOUL (P1.T1) (A.Moyer-Gleich),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200032,391,3,11,3,9:41 PM,5:34,DeRozan Free Throw 1 of 2 (10 PTS),,,80 - 70,-10,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,392,8,0,3,9:41 PM,5:34,,,SUB: Love FOR E. Mobley,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200032,394,3,12,3,9:42 PM,5:34,DeRozan Free Throw 2 of 2 (11 PTS),,,80 - 71,-9,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0022200032,395,2,79,3,9:42 PM,5:12,,,MISS Mitchell 25' 3PT Pullup Jump Shot,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,396,4,0,3,9:42 PM,5:10,Green REBOUND (Off:1 Def:2),,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,398,6,1,3,9:42 PM,5:02,,,Osman P.FOUL (P4.T2) (J.Williams),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200032,400,2,98,3,9:43 PM,4:50,MISS Green 3' Cutting Layup Shot,,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,401,4,0,3,9:43 PM,4:49,Dosunmu REBOUND (Off:1 Def:3),,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,402,2,1,3,9:43 PM,4:45,MISS Caruso 27' 3PT Jump Shot,,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,403,4,0,3,9:43 PM,4:44,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200032,405,6,1,3,9:43 PM,4:31,Vucevic P.FOUL (P3.T4) (A.Moyer-Gleich),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200032,407,1,1,3,9:44 PM,4:19,,,Mitchell 10' Jump Shot (22 PTS),82 - 71,-11,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,408,6,2,3,9:44 PM,4:19,Dosunmu S.FOUL (P3.PN) (J.Williams),,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200032,410,6,11,3,9:44 PM,4:19,Vucevic T.FOUL (P3.PN) (R.Hussey),,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0022200032,411,3,16,3,9:45 PM,4:19,,,Mitchell Free Throw Technical (23 PTS),83 - 71,-12,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,412,3,10,3,9:45 PM,4:19,,,Mitchell Free Throw 1 of 1 (24 PTS),84 - 71,-13,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,413,6,2,3,9:45 PM,4:05,,,Osman S.FOUL (P5.T3) (J.Williams),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200032,415,3,13,3,9:46 PM,4:05,Green Free Throw 1 of 3 (3 PTS),,,84 - 72,-12,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,416,3,14,3,9:46 PM,4:05,MISS Green Free Throw 2 of 3,,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,417,4,1,3,9:46 PM,4:05,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200032,418,8,0,3,9:46 PM,4:05,,,SUB: Okoro FOR Osman,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200032,420,3,15,3,9:47 PM,4:05,Green Free Throw 3 of 3 (4 PTS),,,84 - 73,-11,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,421,5,1,3,9:47 PM,3:44,Green STEAL (1 STL),,Mitchell Bad Pass Turnover (P3.T12),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200032,423,1,50,3,9:47 PM,3:40,Green 1' Running Dunk (6 PTS),,,84 - 75,-9,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,424,2,1,3,9:48 PM,3:17,,,MISS Allen 15' Jump Shot,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,425,4,0,3,9:48 PM,3:14,,,Allen REBOUND (Off:3 Def:3),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,426,5,2,3,9:48 PM,3:12,Caruso STEAL (1 STL),,Mitchell Lost Ball Turnover (P4.T13),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200032,428,2,5,3,9:48 PM,3:04,MISS Dosunmu 1' Layup,,LeVert BLOCK (1 BLK),,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022200032,430,4,0,3,9:48 PM,3:01,,,LeVert REBOUND (Off:0 Def:3),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,431,1,1,3,9:48 PM,3:00,,,Love 26' 3PT Jump Shot (12 PTS) (LeVert 5 AST),87 - 75,-12,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200032,433,9,1,3,9:48 PM,2:58,BULLS Timeout: Regular (Full 4 Short 0),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200032,434,8,0,3,9:49 PM,2:58,SUB: White FOR Dosunmu,,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200032,435,8,0,3,9:49 PM,2:58,,,SUB: Lopez FOR Allen,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200032,438,2,79,3,9:50 PM,2:45,MISS DeRozan 17' Pullup Jump Shot,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,439,4,0,3,9:50 PM,2:43,,,Love REBOUND (Off:0 Def:9),,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,440,1,78,3,9:50 PM,2:28,,,Mitchell 4' Floating Jump Shot (26 PTS) (LeVert 6 AST),89 - 75,-14,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200032,442,2,1,3,9:50 PM,2:07,MISS Green 26' 3PT Jump Shot,,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,443,4,0,3,9:51 PM,2:04,,,Love REBOUND (Off:0 Def:10),,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,444,5,2,3,9:51 PM,2:02,Green STEAL (2 STL),,LeVert Lost Ball Turnover (P2.T14),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200032,446,1,79,3,9:51 PM,1:55,DeRozan 14' Pullup Jump Shot (13 PTS) (Caruso 2 AST),,,89 - 77,-12,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200032,448,1,3,3,9:51 PM,1:34,,,Lopez 8' Hook Shot (6 PTS) (LeVert 7 AST),91 - 77,-14,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200032,450,2,1,3,9:51 PM,1:20,MISS White 25' 3PT Jump Shot,,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,451,4,0,3,9:51 PM,1:18,,,Mitchell REBOUND (Off:0 Def:4),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,452,5,39,3,9:52 PM,1:09,,,Okoro Step Out of Bounds Turnover (P3.T15),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0022200032,453,8,0,3,9:52 PM,1:09,SUB: Dragic FOR Caruso,,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200032,454,8,0,3,9:52 PM,1:09,SUB: Jones Jr. FOR Vucevic,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200032,455,8,0,3,9:52 PM,1:09,SUB: Drummond FOR Green,,,,,4,1629750,Javonte Green,1610612741.0,Chicago,Bulls,CHI,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200032,456,8,0,3,9:52 PM,1:09,,,SUB: Neto FOR Mitchell,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200032,461,2,1,3,9:52 PM,0:59,MISS Drummond 3PT Jump Shot,,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,462,4,0,3,9:52 PM,0:53,,,Neto REBOUND (Off:0 Def:2),,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,463,1,5,3,9:52 PM,0:46,,,Lopez 1' Layup (8 PTS) (LeVert 8 AST),93 - 77,-16,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200032,465,1,5,3,9:53 PM,0:32,Jones Jr. 2' Layup (8 PTS) (Dragic 3 AST),,,93 - 79,-14,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200032,467,2,1,3,9:53 PM,0:08,,,MISS Okoro 25' 3PT Jump Shot,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,468,4,0,3,9:53 PM,0:04,Dragic REBOUND (Off:0 Def:1),,,,,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,469,6,26,3,9:53 PM,0:01,Jones Jr. Offensive Charge Foul (P1) (J.Williams),,,,,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200032,471,5,37,3,9:53 PM,0:01,Jones Jr. Offensive Foul Turnover (P1.T7),,,,,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0022200032,472,2,103,3,9:54 PM,0:00,,,MISS Neto 47' 3PT Running Pull-Up Jump Shot,,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,473,4,0,3,9:54 PM,0:00,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200032,474,13,0,3,9:54 PM,0:00,,End of 3rd Period (9:54 PM EST),,93 - 79,-14,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200032,479,12,0,4,9:56 PM,12:00,,Start of 4th Period (9:56 PM EST),,93 - 79,-14,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200032,480,2,5,4,9:57 PM,11:44,,,MISS Love 6' Layup,,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,481,4,0,4,9:57 PM,11:41,,,Lopez REBOUND (Off:1 Def:0),,,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,482,1,72,4,9:57 PM,11:41,,,Lopez Putback Layup (10 PTS),95 - 79,-16,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,483,6,2,4,9:57 PM,11:29,,,Lopez S.FOUL (P1.T1) (R.Hussey),,,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200032,485,3,11,4,9:57 PM,11:29,Drummond Free Throw 1 of 2 (3 PTS),,,95 - 80,-15,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0022200032,486,3,12,4,9:58 PM,11:29,Drummond Free Throw 2 of 2 (4 PTS),,,95 - 81,-14,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,487,2,1,4,9:58 PM,11:15,,,MISS Okoro 3PT Jump Shot,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,488,4,0,4,9:58 PM,11:13,Drummond REBOUND (Off:1 Def:2),,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,489,1,52,4,9:58 PM,11:05,Drummond 2' Alley Oop Dunk (6 PTS) (LaVine 4 AST),,,95 - 83,-12,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200032,491,2,79,4,9:58 PM,10:53,,,MISS Mitchell 21' Pullup Jump Shot,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,492,4,0,4,9:58 PM,10:51,Drummond REBOUND (Off:1 Def:3),,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,493,2,1,4,9:58 PM,10:43,MISS Dragic 26' 3PT Jump Shot,,,,,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,494,4,0,4,9:58 PM,10:38,,,Love REBOUND (Off:0 Def:11),,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,495,1,79,4,9:59 PM,10:31,,,Love 25' 3PT Pullup Jump Shot (15 PTS),98 - 83,-15,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,496,1,102,4,9:59 PM,10:21,White 6' Driving Floating Bank Jump Shot (4 PTS),,,98 - 85,-13,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,497,6,2,4,9:59 PM,10:21,,,Mitchell S.FOUL (P3.T2) (J.Williams),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200032,499,8,0,4,9:59 PM,10:21,,,SUB: Osman FOR Neto,,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200032,501,3,10,4,9:59 PM,10:21,White Free Throw 1 of 1 (5 PTS),,,98 - 86,-12,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,502,1,63,4,10:00 PM,10:04,,,Osman 12' Fadeaway Jumper (12 PTS) (Love 4 AST),100 - 86,-14,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200032,504,6,1,4,10:00 PM,9:48,,,Okoro P.FOUL (P1.T3) (J.Williams),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200032,506,2,1,4,10:01 PM,9:39,MISS LaVine 26' 3PT Jump Shot,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,507,4,0,4,10:01 PM,9:35,,,Mitchell REBOUND (Off:0 Def:5),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,508,6,1,4,10:01 PM,9:35,Dragic P.FOUL (P1.T1) (A.Moyer-Gleich),,,,,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200032,510,6,1,4,10:01 PM,9:30,LaVine P.FOUL (P2.T2) (A.Moyer-Gleich),,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200032,512,2,58,4,10:02 PM,9:15,,,MISS Lopez 8' Turnaround Hook Shot,,,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,513,4,0,4,10:02 PM,9:13,Drummond REBOUND (Off:1 Def:4),,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,514,6,26,4,10:02 PM,9:08,Drummond Offensive Charge Foul (P2) (R.Hussey),,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200032,516,5,37,4,10:02 PM,9:08,Drummond Offensive Foul Turnover (P3.T8),,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0022200032,517,2,6,4,10:03 PM,8:58,,,MISS Mitchell 1' Driving Layup,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,518,4,0,4,10:03 PM,8:56,,,Mitchell REBOUND (Off:1 Def:5),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,519,2,97,4,10:03 PM,8:56,,,MISS Mitchell Tip Layup Shot,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,520,4,0,4,10:03 PM,8:55,,,Mitchell REBOUND (Off:2 Def:5),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,521,1,97,4,10:03 PM,8:54,,,Mitchell Tip Layup Shot (28 PTS),102 - 86,-16,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,522,2,5,4,10:03 PM,8:42,MISS Drummond 2' Layup,,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,523,4,0,4,10:03 PM,8:39,,,Lopez REBOUND (Off:1 Def:1),,,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,524,2,1,4,10:03 PM,8:25,,,MISS Love 26' 3PT Jump Shot,,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,525,4,0,4,10:03 PM,8:23,,,Mitchell REBOUND (Off:3 Def:5),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,526,2,79,4,10:03 PM,8:13,,,MISS Mitchell 20' Pullup Jump Shot,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,527,4,0,4,10:03 PM,8:08,Dragic REBOUND (Off:0 Def:2),,,,,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,528,2,79,4,10:03 PM,8:07,MISS White 26' 3PT Pullup Jump Shot,,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,529,4,0,4,10:04 PM,8:05,Jones Jr. REBOUND (Off:1 Def:0),,,,,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,530,2,97,4,10:04 PM,8:04,MISS Jones Jr. Tip Layup Shot,,,,,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,531,4,0,4,10:04 PM,8:04,Drummond REBOUND (Off:2 Def:4),,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,532,2,72,4,10:04 PM,8:02,MISS Drummond Putback Layup,,Love BLOCK (1 BLK),,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022200032,533,4,0,4,10:04 PM,8:01,Drummond REBOUND (Off:3 Def:4),,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,534,2,78,4,10:04 PM,8:01,MISS LaVine 9' Floating Jump Shot,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,535,4,0,4,10:04 PM,8:00,,,Lopez REBOUND (Off:1 Def:2),,,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,537,9,1,4,10:04 PM,7:45,,,Cavaliers Timeout: Regular (Reg.4 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200032,538,8,0,4,10:06 PM,7:45,,,SUB: LeVert FOR Lopez,,,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200032,539,8,0,4,10:06 PM,7:45,,,SUB: Allen FOR Okoro,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200032,540,8,0,4,10:06 PM,7:45,,,SUB: Neto FOR Mitchell,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200032,544,5,1,4,10:07 PM,7:40,Drummond STEAL (2 STL),,Neto Bad Pass Turnover (P1.T16),,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200032,546,1,9,4,10:07 PM,7:37,Drummond 1' Driving Dunk (8 PTS),,,102 - 88,-14,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,547,2,79,4,10:07 PM,7:16,,,MISS LeVert 16' Pullup Jump Shot,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,548,4,0,4,10:07 PM,7:14,Jones Jr. REBOUND (Off:1 Def:1),,,,,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,549,2,1,4,10:07 PM,7:08,MISS White 27' 3PT Jump Shot,,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,550,4,0,4,10:07 PM,7:06,,,Love REBOUND (Off:0 Def:12),,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,551,1,102,4,10:08 PM,6:45,,,Neto 11' Driving Floating Bank Jump Shot (6 PTS),104 - 88,-16,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,552,1,75,4,10:08 PM,6:28,LaVine 2' Driving Finger Roll Layup (21 PTS),,,104 - 90,-14,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,553,6,2,4,10:08 PM,6:10,White S.FOUL (P2.T3) (J.Williams),,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200032,555,9,1,4,10:09 PM,6:10,BULLS Timeout: Regular (Full 5 Short 0),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200032,556,18,4,4,10:09 PM,6:10,,Instant Replay4th Period (10:09 PM EST),,104 - 90,-14,0,553,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200032,557,3,13,4,10:12 PM,6:10,,,Osman Free Throw 1 of 3 (13 PTS),105 - 90,-15,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,558,3,14,4,10:12 PM,6:10,,,Osman Free Throw 2 of 3 (14 PTS),106 - 90,-16,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,559,8,0,4,10:12 PM,6:10,SUB: DeRozan FOR White,,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200032,560,8,0,4,10:12 PM,6:10,SUB: Dosunmu FOR Drummond,,,,,4,203083,Andre Drummond,1610612741.0,Chicago,Bulls,CHI,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200032,561,8,0,4,10:12 PM,6:10,SUB: Vucevic FOR Dragic,,,,,4,201609,Goran Dragic,1610612741.0,Chicago,Bulls,CHI,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200032,562,8,0,4,10:12 PM,6:10,,,SUB: E. Mobley FOR Love,,,5,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200032,563,8,0,4,10:12 PM,6:10,,,SUB: Mitchell FOR Neto,,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200032,569,3,15,4,10:13 PM,6:10,,,Osman Free Throw 3 of 3 (15 PTS),107 - 90,-17,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,570,2,6,4,10:13 PM,5:51,MISS LaVine 2' Driving Layup,,E. Mobley BLOCK (1 BLK),,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022200032,572,4,0,4,10:13 PM,5:46,,,Mitchell REBOUND (Off:3 Def:6),,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,573,1,1,4,10:13 PM,5:34,,,LeVert 25' 3PT Jump Shot (10 PTS) (Osman 3 AST),110 - 90,-20,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200032,575,2,47,4,10:14 PM,5:17,MISS DeRozan 7' Turnaround Jump Shot,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,576,4,0,4,10:14 PM,5:15,,,LeVert REBOUND (Off:0 Def:4),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,577,1,1,4,10:14 PM,4:57,,,Mitchell 26' 3PT Jump Shot (31 PTS),113 - 90,-23,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,578,6,2,4,10:14 PM,4:47,,,Allen S.FOUL (P2.T4) (R.Hussey),,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200032,580,3,11,4,10:15 PM,4:47,LaVine Free Throw 1 of 2 (22 PTS),,,113 - 91,-22,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,581,8,0,4,10:15 PM,4:47,SUB: Caruso FOR Jones Jr.,,,,,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200032,583,3,12,4,10:15 PM,4:47,LaVine Free Throw 2 of 2 (23 PTS),,,113 - 92,-21,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,584,6,1,4,10:15 PM,4:30,DeRozan P.FOUL (P2.T4) (R.Hussey),,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0022200032,586,6,11,4,10:16 PM,4:30,DeRozan T.FOUL (P2.T4) (R.Hussey),,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,1
+0022200032,587,3,16,4,10:16 PM,4:30,,,Mitchell Free Throw Technical (32 PTS),114 - 92,-22,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0022200032,588,6,11,4,10:16 PM,4:30,DeRozan T.FOUL (P2.T4) (J.Williams),,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0022200032,589,3,16,4,10:16 PM,4:30,,,MISS Mitchell Free Throw Technical,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,590,4,1,4,10:16 PM,4:30,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200032,591,11,4,4,10:16 PM,4:30,DeRozan Ejection:Other,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0022200032,592,8,0,4,10:17 PM,4:30,SUB: White FOR DeRozan,,,,,4,201942,DeMar DeRozan,1610612741.0,Chicago,Bulls,CHI,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200032,595,6,2,4,10:17 PM,4:21,White S.FOUL (P3.PN) (J.Williams),,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0022200032,597,3,11,4,10:18 PM,4:21,,,LeVert Free Throw 1 of 2 (11 PTS),115 - 92,-23,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,598,3,12,4,10:18 PM,4:21,,,LeVert Free Throw 2 of 2 (12 PTS),116 - 92,-24,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,599,5,1,4,10:18 PM,4:09,Vucevic Bad Pass Turnover (P2.T9),,LeVert STEAL (1 STL),,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200032,601,1,50,4,10:18 PM,4:07,,,LeVert Running Dunk (14 PTS) (Osman 4 AST),118 - 92,-26,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200032,603,9,1,4,10:19 PM,4:07,BULLS Timeout: Regular (Full 6 Short 0),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200032,604,8,0,4,10:19 PM,4:07,SUB: Jones Jr. FOR Caruso,,,,,4,1627936,Alex Caruso,1610612741.0,Chicago,Bulls,CHI,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200032,605,8,0,4,10:19 PM,4:07,SUB: Terry FOR LaVine,,,,,4,203897,Zach LaVine,1610612741.0,Chicago,Bulls,CHI,4,1631207,Dalen Terry,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200032,606,8,0,4,10:19 PM,4:07,SUB: Bradley FOR Vucevic,,,,,4,202696,Nikola Vučević,1610612741.0,Chicago,Bulls,CHI,4,1628396,Tony Bradley,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200032,607,8,0,4,10:19 PM,4:07,SUB: Williams FOR Dosunmu,,,,,4,1630245,Ayo Dosunmu,1610612741.0,Chicago,Bulls,CHI,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200032,608,8,0,4,10:19 PM,4:07,,,SUB: Neto FOR LeVert,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200032,609,8,0,4,10:19 PM,4:07,,,SUB: I. Mobley FOR E. Mobley,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1630600,Isaiah Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200032,610,8,0,4,10:19 PM,4:07,,,SUB: Stevens FOR Osman,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200032,611,8,0,4,10:19 PM,4:07,,,SUB: Wade FOR Allen,,,5,1628386,Jarrett Allen,1610612739.0,Cleveland,Cavaliers,CLE,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200032,612,8,0,4,10:19 PM,4:07,,,SUB: Lopez FOR Mitchell,,,5,1628378,Donovan Mitchell,1610612739.0,Cleveland,Cavaliers,CLE,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0022200032,622,2,5,4,10:20 PM,3:51,MISS Terry 2' Layup,,Lopez BLOCK (1 BLK),,,4,1631207,Dalen Terry,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,1
+0022200032,624,4,0,4,10:20 PM,3:47,,,Wade REBOUND (Off:0 Def:1),,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,625,5,1,4,10:20 PM,3:30,Jones Jr. STEAL (2 STL),,Wade Bad Pass Turnover (P1.T17),,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200032,628,1,1,4,10:21 PM,3:20,Williams 26' 3PT Jump Shot (5 PTS) (White 1 AST),,,118 - 95,-23,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1
+0022200032,630,2,63,4,10:21 PM,3:01,,,MISS Stevens 9' Fadeaway Jumper,,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,631,4,0,4,10:21 PM,2:59,Williams REBOUND (Off:1 Def:2),,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,632,6,2,4,10:21 PM,2:56,,,I. Mobley S.FOUL (P1.PN) (A.Moyer-Gleich),,,5,1630600,Isaiah Mobley,1610612739.0,Cleveland,Cavaliers,CLE,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,1
+0022200032,635,3,11,4,10:22 PM,2:56,Williams Free Throw 1 of 2 (6 PTS),,,118 - 96,-22,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,636,3,12,4,10:22 PM,2:56,MISS Williams Free Throw 2 of 2,,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,637,4,0,4,10:22 PM,2:52,Bradley REBOUND (Off:1 Def:0),,,,,4,1628396,Tony Bradley,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,638,2,1,4,10:22 PM,2:44,MISS Williams 21' Jump Shot,,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,639,4,0,4,10:22 PM,2:42,,,Neto REBOUND (Off:0 Def:3),,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,640,1,5,4,10:22 PM,2:38,,,Wade 1' Layup (2 PTS) (Neto 2 AST),120 - 96,-24,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200032,642,2,1,4,10:22 PM,2:23,MISS Bradley 3PT Jump Shot,,,,,4,1628396,Tony Bradley,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,643,4,0,4,10:22 PM,2:20,,,I. Mobley REBOUND (Off:0 Def:1),,,5,1630600,Isaiah Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,645,2,1,4,10:23 PM,2:01,,,MISS Wade 26' 3PT Jump Shot,,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,646,4,0,4,10:23 PM,1:55,Bradley REBOUND (Off:1 Def:1),,,,,4,1628396,Tony Bradley,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,647,5,1,4,10:23 PM,1:46,Terry Bad Pass Turnover (P1.T10),,Neto STEAL (1 STL),,,4,1631207,Dalen Terry,1610612741.0,Chicago,Bulls,CHI,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200032,649,2,41,4,10:23 PM,1:44,Jones Jr. BLOCK (1 BLK),,MISS Neto 1' Running Layup,,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,1
+0022200032,651,4,0,4,10:23 PM,1:44,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200032,653,8,0,4,10:23 PM,1:44,SUB: Simonovic FOR Jones Jr.,,,,,4,1627884,Derrick Jones Jr.,1610612741.0,Chicago,Bulls,CHI,4,1630250,Marko Simonovic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0022200032,655,1,1,4,10:24 PM,1:35,,,Wade 25' 3PT Jump Shot (5 PTS) (Neto 3 AST),123 - 96,-27,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200032,657,2,1,4,10:24 PM,1:22,MISS Williams 25' 3PT Jump Shot,,,,,4,1630172,Patrick Williams,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,658,4,0,4,10:24 PM,1:15,,,Wade REBOUND (Off:0 Def:2),,,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,659,1,58,4,10:24 PM,1:10,,,Lopez 6' Turnaround Hook Shot (12 PTS) (Neto 4 AST),125 - 96,-29,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200032,661,2,1,4,10:24 PM,0:57,MISS White 19' Jump Shot,,,,,4,1629632,Coby White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,662,4,0,4,10:24 PM,0:54,,,Stevens REBOUND (Off:0 Def:1),,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,663,1,1,4,10:25 PM,0:47,,,I. Mobley 24' 3PT Jump Shot (3 PTS) (Wade 1 AST),128 - 96,-32,5,1630600,Isaiah Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1629731,Dean Wade,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0022200032,665,2,1,4,10:25 PM,0:37,MISS Simonovic 27' 3PT Jump Shot,,,,,4,1630250,Marko Simonovic,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,1
+0022200032,666,4,0,4,10:25 PM,0:33,,,Neto REBOUND (Off:0 Def:4),,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0022200032,667,5,11,4,10:25 PM,0:13,,,Cavaliers Turnover: Shot Clock (T#18),,,3,1610612739,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200032,668,13,0,4,10:26 PM,0:00,,End of 4th Period (10:26 PM EST),,128 - 96,-32,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

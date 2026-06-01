@@ -1,0 +1,395 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200059,2,12,0,1,7:41 PM,12:00,,Start of 1st Period (7:41 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200059,4,10,0,1,7:41 PM,12:00,Jump Ball Barnes vs. Embiid: Tip to Siakam,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,1
+0022200059,7,2,44,1,7:42 PM,11:39,MISS Anunoby 1' Reverse Layup,,,,,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,9,4,0,1,7:42 PM,11:36,,,Tucker REBOUND (Off:0 Def:1),,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,62,2,6,1,7:42 PM,11:32,VanVleet BLOCK (1 BLK),,MISS Harden 4' Driving Layup,,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,1
+0022200059,64,4,0,1,7:42 PM,11:32,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200059,11,2,79,1,7:42 PM,11:18,MISS VanVleet 10' Pullup Jump Shot,,Maxey BLOCK (1 BLK),,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,1
+0022200059,13,4,0,1,7:42 PM,11:14,,,Maxey REBOUND (Off:0 Def:1),,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,14,1,6,1,7:42 PM,11:09,,,Maxey 2' Driving Layup (2 PTS),2 - 0,-2,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,15,2,75,1,7:43 PM,10:55,MISS Siakam 4' Driving Finger Roll Layup,,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,16,4,0,1,7:43 PM,10:53,,,Embiid REBOUND (Off:0 Def:1),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,17,1,47,1,7:43 PM,10:42,,,Embiid 13' Turnaround Jump Shot (2 PTS) (Harden 1 AST),4 - 0,-4,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200059,19,1,1,1,7:43 PM,10:27,Barnes 25' 3PT Jump Shot (3 PTS) (Siakam 1 AST),,,4 - 3,-1,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,21,5,11,1,7:44 PM,10:01,,,76ers Turnover: Shot Clock (T#1),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200059,22,1,1,1,7:44 PM,9:44,Siakam 27' 3PT Jump Shot (3 PTS) (VanVleet 1 AST),,,4 - 6,2,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,24,1,75,1,7:44 PM,9:24,,,Embiid 1' Driving Finger Roll Layup (4 PTS),6 - 6,TIE,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,25,1,79,1,7:44 PM,9:14,Siakam 26' 3PT Pullup Jump Shot (6 PTS),,,6 - 9,3,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,26,6,2,1,7:45 PM,8:50,Anunoby S.FOUL (P1.T1) (B.Nansel),,,,,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200059,28,3,11,1,7:45 PM,8:50,,,Harden Free Throw 1 of 2 (1 PTS),7 - 9,2,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,29,3,12,1,7:46 PM,8:50,,,Harden Free Throw 2 of 2 (2 PTS),8 - 9,1,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,30,2,79,1,7:46 PM,8:30,MISS VanVleet 13' Pullup Jump Shot,,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,31,4,0,1,7:46 PM,8:28,,,Harden REBOUND (Off:0 Def:1),,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,32,5,45,1,7:46 PM,8:20,,,Harden Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200059,33,2,1,1,7:46 PM,8:14,MISS Trent Jr. 3PT Jump Shot,,,,,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,34,4,0,1,7:46 PM,8:11,,,Harris REBOUND (Off:0 Def:1),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,35,2,1,1,7:47 PM,8:01,,,MISS Tucker 3PT Jump Shot,,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,36,4,0,1,7:47 PM,7:59,Barnes REBOUND (Off:0 Def:1),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,37,1,41,1,7:47 PM,7:54,Trent Jr. 1' Running Layup (2 PTS) (Barnes 1 AST),,,8 - 11,3,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,40,1,1,1,7:47 PM,7:31,,,Embiid 27' 3PT Jump Shot (7 PTS) (Harden 2 AST),11 - 11,TIE,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200059,42,1,6,1,7:48 PM,7:16,Anunoby 1' Driving Layup (2 PTS),,,11 - 13,2,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,43,2,1,1,7:48 PM,7:07,,,MISS Maxey 27' 3PT Jump Shot,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,44,4,0,1,7:48 PM,7:04,Siakam REBOUND (Off:0 Def:1),,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,45,2,1,1,7:48 PM,6:53,MISS Barnes 26' 3PT Jump Shot,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,46,4,0,1,7:48 PM,6:50,,,Harris REBOUND (Off:0 Def:2),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,47,1,41,1,7:48 PM,6:45,,,Embiid 3' Running Layup (9 PTS) (Harden 3 AST),13 - 13,TIE,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200059,49,2,79,1,7:48 PM,6:35,MISS Anunoby 13' Pullup Jump Shot,,,,,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,50,4,0,1,7:48 PM,6:32,,,Embiid REBOUND (Off:0 Def:2),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,51,5,2,1,7:49 PM,6:24,Anunoby STEAL (1 STL),,Harden Lost Ball Turnover (P2.T3),,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,54,6,31,1,7:50 PM,6:22,,,Embiid Transition Take Foul (P1.T1) (B.Nansel),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200059,56,9,1,1,7:51 PM,6:22,RAPTORS Timeout: Regular (Full 1 Short 0),,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200059,57,8,0,1,7:51 PM,6:22,SUB: Koloko FOR Barnes,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200059,59,3,10,1,7:52 PM,6:22,VanVleet Free Throw 1 of 1 (1 PTS),,,13 - 14,1,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,60,1,5,1,7:52 PM,6:12,Koloko 1' Layup (2 PTS) (VanVleet 2 AST),,,13 - 16,3,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,65,6,1,1,7:52 PM,5:56,Koloko P.FOUL (P1.T2) (B.Nansel),,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200059,67,2,6,1,7:53 PM,5:41,Koloko BLOCK (1 BLK),,MISS Maxey 1' Driving Layup,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,1
+0022200059,69,4,0,1,7:53 PM,5:38,VanVleet REBOUND (Off:0 Def:1),,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,70,2,75,1,7:53 PM,5:28,MISS VanVleet 7' Driving Finger Roll Layup,,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,71,4,0,1,7:53 PM,5:26,,,Maxey REBOUND (Off:0 Def:2),,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,72,2,86,1,7:54 PM,5:10,,,MISS Harris 10' Turnaround Fadeaway Shot,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,73,4,0,1,7:54 PM,5:07,Koloko REBOUND (Off:0 Def:1),,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,74,2,1,1,7:54 PM,5:00,MISS Trent Jr. 25' 3PT Jump Shot,,,,,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,75,4,0,1,7:54 PM,4:58,,,Tucker REBOUND (Off:0 Def:2),,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,76,1,108,1,7:54 PM,4:46,,,Embiid 1' Cutting Dunk Shot (11 PTS) (Harden 4 AST),15 - 16,1,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200059,78,1,79,1,7:54 PM,4:29,Siakam 26' 3PT Pullup Jump Shot (9 PTS),,,15 - 19,4,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,79,6,1,1,7:54 PM,4:19,Anunoby P.FOUL (P2.T3) (B.Nansel),,,,,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200059,81,8,0,1,7:55 PM,4:19,SUB: Achiuwa FOR Anunoby,,,,,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200059,82,8,0,1,7:55 PM,4:19,SUB: Boucher FOR VanVleet,,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200059,83,8,0,1,7:55 PM,4:19,,,SUB: Harrell FOR Maxey,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200059,84,8,0,1,7:55 PM,4:19,,,SUB: Melton FOR Embiid,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200059,89,2,102,1,7:55 PM,4:03,,,MISS Harris 11' Driving Floating Bank Jump Shot,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,90,4,0,1,7:55 PM,4:02,,,Harris REBOUND (Off:1 Def:2),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,91,2,79,1,7:55 PM,4:00,,,MISS Tucker 3PT Pullup Jump Shot,,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,92,4,0,1,7:55 PM,3:56,Koloko REBOUND (Off:0 Def:2),,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,93,2,1,1,7:55 PM,3:52,MISS Achiuwa 3PT Jump Shot,,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,94,4,0,1,7:55 PM,3:48,,,Harrell REBOUND (Off:0 Def:1),,,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,95,1,101,1,7:56 PM,3:42,,,Harden 10' Driving Floating Jump Shot (4 PTS),17 - 19,2,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,96,6,2,1,7:56 PM,3:42,Trent Jr. S.FOUL (P1.T4) (C.Blair),,,,,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200059,98,3,10,1,7:56 PM,3:42,,,MISS Harden Free Throw 1 of 1,,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,99,4,0,1,7:56 PM,3:39,Siakam REBOUND (Off:0 Def:2),,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,100,1,1,1,7:56 PM,3:20,Siakam 29' 3PT Jump Shot (12 PTS) (Achiuwa 1 AST),,,17 - 22,5,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,102,6,2,1,7:57 PM,3:10,Koloko S.FOUL (P2.PN) (B.Nansel),,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200059,104,3,11,1,7:57 PM,3:10,,,MISS Harrell Free Throw 1 of 2,,,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,105,4,1,1,7:57 PM,3:10,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200059,108,3,12,1,7:57 PM,3:10,,,MISS Harrell Free Throw 2 of 2,,,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,106,8,0,1,7:57 PM,3:10,,,SUB: House Jr. FOR Harris,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200059,109,4,0,1,7:57 PM,3:08,Koloko REBOUND (Off:0 Def:3),,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,110,1,80,1,7:58 PM,2:49,Siakam 20' Step Back Jump Shot (14 PTS),,,17 - 24,7,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,111,1,80,1,7:58 PM,2:33,,,Harden 27' 3PT Step Back Jump Shot (7 PTS),20 - 24,4,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,112,6,2,1,7:58 PM,2:33,Koloko S.FOUL (P3.PN) (C.Blair),,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200059,114,9,1,1,7:58 PM,2:33,,,76ers Timeout: Regular (Reg.1 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200059,115,8,0,1,7:59 PM,2:33,SUB: Barnes FOR Trent Jr.,,,,,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200059,116,8,0,1,7:59 PM,2:33,SUB: VanVleet FOR Koloko,,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200059,119,3,10,1,8:02 PM,2:33,,,Harden Free Throw 1 of 1 (8 PTS),21 - 24,3,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,120,1,1,1,8:02 PM,2:18,Achiuwa 3PT Jump Shot (3 PTS) (Barnes 2 AST),,,21 - 27,6,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,122,2,80,1,8:02 PM,1:53,,,MISS Harden 16' Step Back Jump Shot,,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,123,4,0,1,8:02 PM,1:50,Boucher REBOUND (Off:0 Def:1),,,,,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,124,1,1,1,8:02 PM,1:44,Boucher 26' 3PT Jump Shot (3 PTS) (Achiuwa 2 AST),,,21 - 30,9,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,127,8,0,1,8:03 PM,1:31,,,SUB: Maxey FOR Harden,,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200059,128,8,0,1,8:03 PM,1:31,,,SUB: Niang FOR Harrell,,,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200059,129,8,0,1,8:03 PM,1:31,,,SUB: Embiid FOR Tucker,,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200059,133,1,1,1,8:03 PM,1:20,,,Niang 24' 3PT Jump Shot (3 PTS) (Maxey 1 AST),24 - 30,6,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200059,135,2,1,1,8:04 PM,0:53,MISS VanVleet 26' 3PT Jump Shot,,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,136,4,0,1,8:04 PM,0:51,Achiuwa REBOUND (Off:1 Def:0),,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,137,1,97,1,8:04 PM,0:51,Achiuwa Tip Layup Shot (5 PTS),,,24 - 32,8,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,138,2,86,1,8:04 PM,0:43,,,MISS Embiid 8' Turnaround Fadeaway Shot,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,139,4,0,1,8:04 PM,0:40,Barnes REBOUND (Off:0 Def:2),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,140,6,2,1,8:04 PM,0:36,,,Melton S.FOUL (P1.T2) (C.Blair),,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200059,142,3,11,1,8:04 PM,0:36,MISS Siakam Free Throw 1 of 2,,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,143,4,1,1,8:04 PM,0:36,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200059,144,3,12,1,8:05 PM,0:36,Siakam Free Throw 2 of 2 (15 PTS),,,24 - 33,9,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,145,5,1,1,8:05 PM,0:28,Barnes STEAL (1 STL),,Niang Bad Pass Turnover (P1.T4),,,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,147,1,5,1,8:05 PM,0:09,Barnes 1' Layup (5 PTS) (Siakam 2 AST),,,24 - 35,11,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,149,1,1,1,8:05 PM,0:00,,,Melton 28' 3PT Jump Shot (3 PTS) (Maxey 2 AST),27 - 35,8,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200059,151,18,0,1,8:06 PM,0:00,,Instant Replay1st Period (8:06 PM EST),,27 - 35,8,0,149,Michael Adams,,,,,0,0,,,,,,1,0,,,,,,0
+0022200059,152,13,0,1,8:06 PM,0:00,,End of 1st Period (8:06 PM EST),,27 - 35,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200059,155,12,0,2,8:08 PM,12:00,,Start of 2nd Period (8:08 PM EST),,27 - 35,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200059,156,1,75,2,8:09 PM,11:38,,,Melton 2' Driving Finger Roll Layup (5 PTS) (Maxey 3 AST),29 - 35,6,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200059,158,2,67,2,8:09 PM,11:13,MISS Achiuwa 8' Hook Bank Shot,,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,159,4,0,2,8:09 PM,11:11,,,Melton REBOUND (Off:0 Def:1),,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,160,1,1,2,8:09 PM,11:03,,,Maxey 27' 3PT Jump Shot (5 PTS) (Melton 1 AST),32 - 35,3,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200059,162,2,1,2,8:09 PM,10:44,MISS Achiuwa 26' 3PT Jump Shot,,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,163,4,0,2,8:10 PM,10:40,,,Melton REBOUND (Off:0 Def:2),,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,164,2,2,2,8:10 PM,10:35,,,MISS Maxey 29' 3PT Running Jump Shot,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,165,4,0,2,8:10 PM,10:32,Barnes REBOUND (Off:0 Def:3),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,166,2,101,2,8:10 PM,10:19,MISS Achiuwa 8' Driving Floating Jump Shot,,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,167,4,0,2,8:10 PM,10:19,Barnes REBOUND (Off:1 Def:3),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,168,6,2,2,8:10 PM,10:19,,,Melton S.FOUL (P2.T1) (B.Barnaky),,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200059,170,3,11,2,8:10 PM,10:19,Barnes Free Throw 1 of 2 (6 PTS),,,32 - 36,4,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,171,3,12,2,8:11 PM,10:19,Barnes Free Throw 2 of 2 (7 PTS),,,32 - 37,5,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,172,6,1,2,8:11 PM,10:10,Boucher P.FOUL (P1.T1) (C.Blair),,,,,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200059,174,2,79,2,8:12 PM,9:53,,,MISS House Jr. 21' Pullup Jump Shot,,,5,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,175,4,0,2,8:12 PM,9:51,Barnes REBOUND (Off:1 Def:4),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,176,2,86,2,8:12 PM,9:34,MISS Boucher 16' Turnaround Fadeaway Shot,,,,,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,177,4,0,2,8:12 PM,9:31,,,Niang REBOUND (Off:0 Def:1),,,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,178,2,58,2,8:12 PM,9:19,,,MISS Embiid 5' Turnaround Hook Shot,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,179,4,0,2,8:12 PM,9:17,VanVleet REBOUND (Off:0 Def:2),,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,180,1,2,2,8:12 PM,9:13,Anunoby 24' 3PT Running Jump Shot (5 PTS) (VanVleet 3 AST),,,32 - 40,8,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,182,2,1,2,8:13 PM,8:56,,,MISS Niang 26' 3PT Jump Shot,,,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,183,4,0,2,8:13 PM,8:53,Achiuwa REBOUND (Off:1 Def:1),,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,184,1,1,2,8:13 PM,8:47,Boucher 3PT Jump Shot (6 PTS) (VanVleet 4 AST),,,32 - 43,11,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,186,9,1,2,8:13 PM,8:45,,,76ers Timeout: Regular (Reg.2 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200059,187,8,0,2,8:14 PM,8:45,,,SUB: Harris FOR House Jr.,,,5,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200059,189,1,6,2,8:16 PM,8:31,,,Maxey 3' Driving Layup (7 PTS),34 - 43,9,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,190,2,1,2,8:16 PM,8:14,MISS Boucher 24' 3PT Jump Shot,,,,,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,191,4,0,2,8:16 PM,8:11,Achiuwa REBOUND (Off:2 Def:1),,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,192,1,79,2,8:16 PM,8:05,VanVleet 21' Pullup Jump Shot (3 PTS),,,34 - 45,11,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,193,1,73,2,8:17 PM,7:53,,,Maxey 2' Driving Reverse Layup (9 PTS),36 - 45,9,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,194,1,51,2,8:17 PM,7:41,Boucher 1' Reverse Dunk (8 PTS) (Barnes 3 AST),,,36 - 47,11,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,196,2,1,2,8:17 PM,7:17,,,MISS Harris 24' 3PT Jump Shot,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,197,4,0,2,8:17 PM,7:14,Barnes REBOUND (Off:1 Def:5),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,198,1,3,2,8:17 PM,7:07,Boucher 3' Hook Shot (10 PTS),,,36 - 49,13,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,200,1,101,2,8:17 PM,6:56,,,Melton 3' Driving Floating Jump Shot (7 PTS),38 - 49,11,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,201,1,9,2,8:18 PM,6:39,Anunoby 1' Driving Dunk (7 PTS) (VanVleet 5 AST),,,38 - 51,13,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,203,6,1,2,8:18 PM,6:32,Achiuwa P.FOUL (P1.T2) (B.Nansel),,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200059,205,8,0,2,8:18 PM,6:32,SUB: Siakam FOR Achiuwa,,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200059,206,8,0,2,8:18 PM,6:32,SUB: Trent Jr. FOR VanVleet,,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200059,207,8,0,2,8:18 PM,6:32,SUB: Banton FOR Boucher,,,,,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200059,208,8,0,2,8:18 PM,6:32,,,SUB: Harden FOR Melton,,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200059,209,8,0,2,8:18 PM,6:32,,,SUB: Tucker FOR Niang,,,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200059,215,6,2,2,8:19 PM,6:20,Anunoby S.FOUL (P3.T3) (C.Blair),,,,,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200059,217,3,11,2,8:19 PM,6:20,,,Embiid Free Throw 1 of 2 (12 PTS),39 - 51,12,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,218,8,0,2,8:19 PM,6:20,SUB: Birch FOR Anunoby,,,,,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200059,220,3,12,2,8:20 PM,6:20,,,Embiid Free Throw 2 of 2 (13 PTS),40 - 51,11,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,221,2,80,2,8:20 PM,6:06,MISS Trent Jr. 26' 3PT Step Back Jump Shot,,,,,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,222,4,0,2,8:20 PM,6:05,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200059,224,2,80,2,8:20 PM,5:43,,,MISS Harden 26' 3PT Step Back Jump Shot,,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,225,4,0,2,8:21 PM,5:40,Siakam REBOUND (Off:0 Def:3),,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,226,1,75,2,8:21 PM,5:34,Siakam 6' Driving Finger Roll Layup (17 PTS),,,40 - 53,13,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,296,2,101,2,8:21 PM,5:25,,,MISS Harden 13' Driving Floating Jump Shot,,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,298,4,0,2,8:21 PM,5:22,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200059,227,6,3,2,8:21 PM,5:22,Birch L.B.FOUL (P1.T4) (B.Barnaky),,,,,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200059,294,5,1,2,8:21 PM,5:20,Trent Jr. STEAL (1 STL),,Tucker Bad Pass Turnover (P1.T5),,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,293,5,39,2,8:21 PM,5:18,Trent Jr. Step Out of Bounds Turnover (P1.T1),,,,,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0022200059,231,5,45,2,8:22 PM,5:12,,,Maxey Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200059,232,1,79,2,8:22 PM,4:56,Trent Jr. 20' Pullup Jump Shot (4 PTS),,,40 - 55,15,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,233,2,78,2,8:23 PM,4:36,,,MISS Tucker 11' Floating Jump Shot,,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,234,4,0,2,8:23 PM,4:33,Birch REBOUND (Off:0 Def:1),,,,,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,235,1,74,2,8:23 PM,4:30,Banton 1' Running Reverse Layup (2 PTS) (Siakam 3 AST),,,40 - 57,17,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,237,1,5,2,8:23 PM,4:13,,,Tucker 3' Layup (2 PTS) (Maxey 4 AST),42 - 57,15,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200059,239,2,79,2,8:23 PM,3:52,MISS Trent Jr. 25' 3PT Pullup Jump Shot,,,,,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,240,4,0,2,8:24 PM,3:48,,,Embiid REBOUND (Off:0 Def:3),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,241,1,50,2,8:24 PM,3:46,,,Maxey 2' Running Dunk (11 PTS) (Embiid 1 AST),44 - 57,13,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200059,243,6,1,2,8:24 PM,3:31,,,Harris P.FOUL (P1.T2) (B.Nansel),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200059,245,8,0,2,8:24 PM,3:31,,,SUB: Harrell FOR Embiid,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200059,247,2,79,2,8:25 PM,3:20,MISS Barnes 26' 3PT Pullup Jump Shot,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,248,4,0,2,8:25 PM,3:17,,,Maxey REBOUND (Off:0 Def:3),,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,249,2,6,2,8:25 PM,3:00,,,MISS Maxey 5' Driving Layup,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,250,4,0,2,8:25 PM,2:57,Banton REBOUND (Off:0 Def:1),,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,251,1,41,2,8:25 PM,2:56,Trent Jr. 1' Running Layup (6 PTS) (Banton 1 AST),,,44 - 59,15,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,253,1,79,2,8:25 PM,2:43,,,Harden 26' 3PT Pullup Jump Shot (11 PTS),47 - 59,12,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,254,1,79,2,8:26 PM,2:19,Siakam 21' Pullup Jump Shot (19 PTS),,,47 - 61,14,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,255,6,1,2,8:26 PM,2:04,Birch P.FOUL (P2.PN) (B.Barnaky),,,,,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200059,257,9,1,2,8:26 PM,2:04,RAPTORS Timeout: Regular (Full 2 Short 0),,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200059,258,8,0,2,8:28 PM,2:04,SUB: VanVleet FOR Banton,,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200059,259,8,0,2,8:28 PM,2:04,,,SUB: Embiid FOR Harrell,,,5,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200059,262,3,11,2,8:29 PM,2:04,,,Harden Free Throw 1 of 2 (12 PTS),48 - 61,13,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,263,3,12,2,8:29 PM,2:04,,,Harden Free Throw 2 of 2 (13 PTS),49 - 61,12,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,264,2,1,2,8:30 PM,1:45,MISS Siakam 25' 3PT Jump Shot,,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,265,4,0,2,8:30 PM,1:42,,,Harris REBOUND (Off:1 Def:3),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,266,2,3,2,8:30 PM,1:32,Birch BLOCK (1 BLK),,MISS Tucker 3' Hook Shot,,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,1
+0022200059,268,4,0,2,8:30 PM,1:30,,,Harris REBOUND (Off:2 Def:3),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,269,5,45,2,8:30 PM,1:30,,,Harris Out of Bounds - Bad Pass Turnover Turnover (P1.T7),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200059,270,1,79,2,8:30 PM,1:22,VanVleet 17' Pullup Jump Shot (5 PTS) (Siakam 4 AST),,,49 - 63,14,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,272,1,101,2,8:30 PM,1:05,,,Maxey 10' Driving Floating Jump Shot (13 PTS) (Embiid 2 AST),51 - 63,12,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200059,274,6,2,2,8:30 PM,1:05,Birch S.FOUL (P3.PN) (C.Blair),,,,,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200059,276,3,10,2,8:31 PM,1:05,,,Maxey Free Throw 1 of 1 (14 PTS),52 - 63,11,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,277,2,1,2,8:31 PM,0:48,MISS Barnes 12' Jump Shot,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,278,4,0,2,8:31 PM,0:46,,,Harris REBOUND (Off:2 Def:4),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,279,6,1,2,8:31 PM,0:34,Birch P.FOUL (P4.PN) (B.Nansel),,,,,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200059,281,3,11,2,8:32 PM,0:34,,,MISS Embiid Free Throw 1 of 2,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,282,4,1,2,8:32 PM,0:34,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200059,283,3,12,2,8:32 PM,0:34,,,Embiid Free Throw 2 of 2 (14 PTS),53 - 63,10,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,284,6,1,2,8:33 PM,0:19,,,Harden P.FOUL (P1.T3) (B.Nansel),,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200059,286,2,79,2,8:33 PM,0:09,MISS Siakam 26' 3PT Pullup Jump Shot,,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,287,4,0,2,8:33 PM,0:06,,,Harden REBOUND (Off:0 Def:2),,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,288,2,57,2,8:33 PM,0:01,,,MISS Maxey 7' Driving Hook Shot,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,289,4,0,2,8:33 PM,0:01,Siakam REBOUND (Off:0 Def:4),,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,290,2,103,2,8:33 PM,0:00,MISS Siakam 58' 3PT Running Pull-Up Jump Shot,,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,291,4,0,2,8:33 PM,0:00,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200059,292,13,0,2,8:34 PM,0:00,,End of 2nd Period (8:34 PM EST),,53 - 63,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200059,301,12,0,3,8:48 PM,12:00,,Start of 3rd Period (8:48 PM EST),,53 - 63,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200059,302,2,5,3,8:49 PM,11:40,,,MISS Tucker 3' Layup,,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,304,4,0,3,8:49 PM,11:37,,,Tucker REBOUND (Off:1 Def:2),,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,305,2,58,3,8:49 PM,11:36,,,MISS Tucker 4' Turnaround Hook Shot,,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,306,4,0,3,8:49 PM,11:34,Barnes REBOUND (Off:1 Def:6),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,307,2,1,3,8:49 PM,11:18,MISS Anunoby 27' 3PT Jump Shot,,,,,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,308,4,0,3,8:49 PM,11:18,,,Harden REBOUND (Off:0 Def:3),,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,309,2,73,3,8:49 PM,11:09,,,MISS Maxey 1' Driving Reverse Layup,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,310,4,0,3,8:49 PM,11:07,,,Maxey REBOUND (Off:1 Def:3),,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,311,1,1,3,8:49 PM,11:05,,,Embiid 26' 3PT Jump Shot (17 PTS) (Maxey 5 AST),56 - 63,7,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200059,313,1,58,3,8:50 PM,10:43,Barnes 5' Turnaround Hook Shot (9 PTS) (VanVleet 6 AST),,,56 - 65,9,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,315,2,1,3,8:50 PM,10:20,,,MISS Tucker 3PT Jump Shot,,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,316,4,0,3,8:50 PM,10:17,Anunoby REBOUND (Off:0 Def:1),,,,,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,317,6,1,3,8:51 PM,10:01,,,Harris P.FOUL (P2.T1) (C.Blair),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200059,319,2,80,3,8:51 PM,9:49,MISS Barnes 26' 3PT Step Back Jump Shot,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,320,4,0,3,8:51 PM,9:45,,,Harden REBOUND (Off:0 Def:4),,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,321,1,74,3,8:51 PM,9:40,,,Embiid 1' Running Reverse Layup (19 PTS) (Harden 5 AST),58 - 65,7,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200059,323,1,101,3,8:52 PM,9:15,Trent Jr. 6' Driving Floating Jump Shot (8 PTS),,,58 - 67,9,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,324,1,47,3,8:52 PM,8:50,,,Embiid 20' Turnaround Jump Shot (21 PTS) (Harris 1 AST),60 - 67,7,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200059,326,2,79,3,8:52 PM,8:36,MISS Barnes 16' Pullup Jump Shot,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,327,4,0,3,8:52 PM,8:34,,,Embiid REBOUND (Off:0 Def:4),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,328,5,1,3,8:52 PM,8:24,Anunoby STEAL (2 STL),,Harden Bad Pass Turnover (P3.T8),,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,330,1,2,3,8:53 PM,8:19,Trent Jr. 24' 3PT Running Jump Shot (11 PTS) (Siakam 5 AST),,,60 - 70,10,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,332,2,80,3,8:53 PM,7:50,,,MISS Embiid 3PT Step Back Jump Shot,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,333,4,0,3,8:53 PM,7:47,VanVleet REBOUND (Off:0 Def:3),,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,334,6,2,3,8:53 PM,7:46,,,Harris S.FOUL (P3.T2) (B.Nansel),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200059,336,3,11,3,8:54 PM,7:46,Siakam Free Throw 1 of 2 (20 PTS),,,60 - 71,11,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,337,3,12,3,8:54 PM,7:46,MISS Siakam Free Throw 2 of 2,,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,338,4,0,3,8:54 PM,7:44,,,Harris REBOUND (Off:2 Def:5),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,339,1,9,3,8:55 PM,7:31,,,Embiid 1' Driving Dunk (23 PTS) (Harris 2 AST),62 - 71,9,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200059,341,5,2,3,8:55 PM,7:11,Siakam Lost Ball Turnover (P1.T2),,Harris STEAL (1 STL),,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200059,343,1,41,3,8:55 PM,7:08,,,Maxey 1' Running Layup (16 PTS) (Harris 3 AST),64 - 71,7,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200059,345,6,2,3,8:55 PM,7:08,VanVleet S.FOUL (P1.T1) (C.Blair),,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200059,347,3,10,3,8:56 PM,7:08,,,Maxey Free Throw 1 of 1 (17 PTS),65 - 71,6,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,348,1,79,3,8:56 PM,6:52,Trent Jr. 27' 3PT Pullup Jump Shot (14 PTS) (Barnes 4 AST),,,65 - 74,9,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,350,2,1,3,8:56 PM,6:37,,,MISS Maxey 27' 3PT Jump Shot,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,351,4,0,3,8:57 PM,6:34,VanVleet REBOUND (Off:0 Def:4),,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,352,1,50,3,8:57 PM,6:30,Anunoby 1' Running Dunk (9 PTS) (Siakam 6 AST),,,65 - 76,11,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,354,9,1,3,8:57 PM,6:30,,,76ers Timeout: Regular (Reg.3 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200059,355,1,5,3,9:00 PM,6:09,,,Embiid 1' Layup (25 PTS) (Harden 6 AST),67 - 76,9,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200059,357,1,101,3,9:00 PM,5:47,Anunoby 8' Driving Floating Jump Shot (11 PTS),,,67 - 78,11,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,358,6,2,3,9:01 PM,5:38,Siakam S.FOUL (P1.T2) (B.Nansel),,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200059,360,18,0,3,9:01 PM,5:38,,Instant Replay3rd Period (9:01 PM EST),,67 - 78,11,0,358,Anfernee Hardaway,,,,,0,0,,,,,,1,0,,,,,,0
+0022200059,361,3,11,3,9:03 PM,5:38,,,MISS Embiid Free Throw 1 of 2,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,362,4,1,3,9:03 PM,5:38,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200059,363,3,12,3,9:03 PM,5:38,,,Embiid Free Throw 2 of 2 (26 PTS),68 - 78,10,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,364,2,1,3,9:03 PM,5:18,MISS Anunoby 3PT Jump Shot,,,,,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,365,4,0,3,9:03 PM,5:15,,,Harden REBOUND (Off:0 Def:5),,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,366,1,1,3,9:04 PM,4:57,,,Harris 3PT Jump Shot (3 PTS) (Embiid 3 AST),71 - 78,7,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200059,368,1,1,3,9:04 PM,4:34,Trent Jr. 25' 3PT Jump Shot (17 PTS) (Barnes 5 AST),,,71 - 81,10,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,370,1,1,3,9:04 PM,4:17,,,Tucker 3PT Jump Shot (5 PTS) (Harris 4 AST),74 - 81,7,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200059,372,1,7,3,9:05 PM,3:57,Barnes 1' Dunk (11 PTS) (Siakam 7 AST),,,74 - 83,9,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,374,5,1,3,9:05 PM,3:38,VanVleet STEAL (1 STL),,Embiid Bad Pass Turnover (P1.T9),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,376,1,76,3,9:05 PM,3:32,Trent Jr. 6' Running Finger Roll Layup (19 PTS) (Siakam 8 AST),,,74 - 85,11,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,378,1,101,3,9:05 PM,3:20,,,Maxey 7' Driving Floating Jump Shot (19 PTS),76 - 85,9,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,379,2,1,3,9:05 PM,3:10,MISS Trent Jr. 25' 3PT Jump Shot,,,,,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,380,4,0,3,9:05 PM,3:07,,,Embiid REBOUND (Off:0 Def:5),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,381,1,1,3,9:06 PM,2:58,,,Maxey 28' 3PT Jump Shot (22 PTS) (Harden 7 AST),79 - 85,6,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200059,383,9,1,3,9:06 PM,2:56,RAPTORS Timeout: Regular (Full 3 Short 0),,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200059,384,8,0,3,9:06 PM,2:56,SUB: Achiuwa FOR Barnes,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200059,385,8,0,3,9:06 PM,2:56,SUB: Boucher FOR VanVleet,,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200059,386,8,0,3,9:06 PM,2:56,SUB: Koloko FOR Anunoby,,,,,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200059,387,8,0,3,9:06 PM,2:56,,,SUB: Reed FOR Tucker,,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200059,388,8,0,3,9:06 PM,2:56,,,SUB: House Jr. FOR Embiid,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200059,394,6,26,3,9:09 PM,2:37,Achiuwa Offensive Charge Foul (P2) (B.Nansel),,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200059,396,5,37,3,9:09 PM,2:37,Achiuwa Offensive Foul Turnover (P1.T3),,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0022200059,398,10,0,3,9:10 PM,2:19,Jump Ball Trent Jr. vs. Harden: Tip to Reed,,,,,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0
+0022200059,401,2,79,3,9:10 PM,2:16,,,MISS Maxey 30' 3PT Pullup Jump Shot,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,402,4,0,3,9:10 PM,2:15,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200059,404,6,1,3,9:11 PM,1:58,,,Reed P.FOUL (P1.T3) (B.Nansel),,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200059,406,8,0,3,9:11 PM,1:58,,,SUB: Melton FOR Maxey,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200059,407,8,0,3,9:11 PM,1:58,,,SUB: Niang FOR Harris,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200059,410,2,101,3,9:11 PM,1:48,MISS Siakam 10' Driving Floating Jump Shot,,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,411,4,0,3,9:11 PM,1:47,Boucher REBOUND (Off:1 Def:1),,,,,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,412,6,2,3,9:11 PM,1:47,,,House Jr. S.FOUL (P1.PN) (C.Blair),,,5,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200059,414,3,11,3,9:12 PM,1:47,Boucher Free Throw 1 of 2 (11 PTS),,,79 - 86,7,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,415,3,12,3,9:12 PM,1:47,MISS Boucher Free Throw 2 of 2,,,,,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,416,4,0,3,9:12 PM,1:45,,,Harden REBOUND (Off:0 Def:6),,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,417,6,1,3,9:12 PM,1:29,Koloko P.FOUL (P4.T3) (C.Blair),,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,5,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200059,419,2,66,3,9:13 PM,1:18,,,MISS Niang 25' 3PT Jump Bank Shot,,,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,420,4,0,3,9:13 PM,1:15,Boucher REBOUND (Off:1 Def:2),,,,,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,421,2,101,3,9:13 PM,0:56,MISS Siakam 8' Driving Floating Jump Shot,,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,425,4,0,3,9:13 PM,0:51,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200059,422,10,0,3,9:14 PM,0:51,Jump Ball Koloko vs. Reed: Tip to Niang,,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0
+0022200059,426,2,1,3,9:14 PM,0:31,,,MISS House Jr. 3PT Jump Shot,,,5,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,427,4,0,3,9:14 PM,0:28,Achiuwa REBOUND (Off:2 Def:2),,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,428,1,1,3,9:15 PM,0:11,Trent Jr. 26' 3PT Jump Shot (22 PTS) (Siakam 9 AST),,,79 - 89,10,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,430,2,1,3,9:15 PM,0:02,,,MISS Melton 29' 3PT Jump Shot,,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,431,4,0,3,9:15 PM,0:00,Boucher REBOUND (Off:1 Def:3),,,,,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,432,13,0,3,9:15 PM,0:00,,End of 3rd Period (9:15 PM EST),,79 - 89,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200059,441,12,0,4,9:18 PM,12:00,,Start of 4th Period (9:18 PM EST),,79 - 89,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200059,442,2,1,4,9:18 PM,11:49,MISS VanVleet 26' 3PT Jump Shot,,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,443,4,0,4,9:18 PM,11:45,Koloko REBOUND (Off:1 Def:3),,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,444,6,26,4,9:18 PM,11:45,Achiuwa Offensive Charge Foul (P3) (B.Barnaky),,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,5,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200059,446,5,37,4,9:18 PM,11:45,Achiuwa Offensive Foul Turnover (P2.T4),,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0022200059,447,2,1,4,9:19 PM,11:28,,,MISS Melton 3PT Jump Shot,,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,448,4,0,4,9:19 PM,11:26,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200059,450,2,101,4,9:19 PM,11:16,,,MISS Maxey 10' Driving Floating Jump Shot,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,451,4,0,4,9:19 PM,11:12,Achiuwa REBOUND (Off:2 Def:3),,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,452,1,58,4,9:19 PM,10:57,Boucher 5' Turnaround Hook Shot (13 PTS) (Achiuwa 3 AST),,,79 - 91,12,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,454,2,1,4,9:20 PM,10:43,,,MISS Niang 28' 3PT Jump Shot,,,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,455,4,0,4,9:20 PM,10:40,VanVleet REBOUND (Off:0 Def:5),,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,456,1,108,4,9:20 PM,10:31,Achiuwa 2' Cutting Dunk Shot (7 PTS) (VanVleet 7 AST),,,79 - 93,14,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,458,9,1,4,9:20 PM,10:31,,,76ers Timeout: Regular (Reg.4 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200059,459,5,1,4,9:23 PM,10:22,Koloko STEAL (1 STL),,Maxey Bad Pass Turnover (P2.T10),,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,461,1,50,4,9:23 PM,10:19,Koloko 1' Running Dunk (4 PTS),,,79 - 95,16,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,462,1,6,4,9:23 PM,9:59,,,Embiid 1' Driving Layup (28 PTS) (Melton 2 AST),81 - 95,14,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200059,464,6,2,4,9:23 PM,9:59,Boucher S.FOUL (P2.T1) (B.Nansel),,,,,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200059,466,3,10,4,9:24 PM,9:59,,,Embiid Free Throw 1 of 1 (29 PTS),82 - 95,13,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,467,5,2,4,9:24 PM,9:40,Boucher Lost Ball Turnover (P1.T5),,Maxey STEAL (1 STL),,,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200059,469,1,1,4,9:24 PM,9:20,,,House Jr. 3PT Jump Shot (3 PTS) (Melton 3 AST),85 - 95,10,5,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200059,471,1,108,4,9:25 PM,8:57,Anunoby 2' Cutting Dunk Shot (13 PTS) (VanVleet 8 AST),,,85 - 97,12,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,473,1,1,4,9:25 PM,8:38,,,Maxey 3PT Jump Shot (25 PTS) (Melton 4 AST),88 - 97,9,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200059,475,2,1,4,9:26 PM,8:17,MISS Boucher 27' 3PT Jump Shot,,,,,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,476,4,0,4,9:26 PM,8:14,,,Maxey REBOUND (Off:1 Def:4),,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,477,6,2,4,9:26 PM,8:03,Boucher S.FOUL (P3.T2) (B.Nansel),,,,,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200059,479,3,11,4,9:26 PM,8:03,,,MISS Maxey Free Throw 1 of 2,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,480,4,1,4,9:26 PM,8:03,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200059,481,3,12,4,9:27 PM,8:03,,,Maxey Free Throw 2 of 2 (26 PTS),89 - 97,8,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,482,5,1,4,9:27 PM,7:46,VanVleet Bad Pass Turnover (P1.T6),,Melton STEAL (1 STL),,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200059,484,5,2,4,9:27 PM,7:41,VanVleet STEAL (2 STL),,Maxey Lost Ball Turnover (P3.T11),,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,486,2,5,4,9:27 PM,7:28,MISS Boucher 4' Layup,,,,,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,488,4,0,4,9:27 PM,7:28,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200059,490,8,0,4,9:27 PM,7:28,SUB: Trent Jr. FOR Boucher,,,,,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200059,491,8,0,4,9:27 PM,7:28,SUB: Siakam FOR Koloko,,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200059,494,5,1,4,9:28 PM,7:26,VanVleet Bad Pass Turnover (P2.T7),,Melton STEAL (2 STL),,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200059,496,1,50,4,9:28 PM,7:22,,,Maxey 1' Running Dunk (28 PTS) (Melton 5 AST),91 - 97,6,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200059,497,1,79,4,9:28 PM,7:03,VanVleet 19' Pullup Jump Shot (7 PTS) (Siakam 10 AST),,,91 - 99,8,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,499,5,1,4,9:29 PM,6:40,Anunoby STEAL (3 STL),,Maxey Bad Pass Turnover (P4.T12),,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,501,6,2,4,9:29 PM,6:38,,,Embiid S.FOUL (P2.T1) (B.Nansel),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200059,503,3,11,4,9:29 PM,6:38,Anunoby Free Throw 1 of 2 (14 PTS),,,91 - 100,9,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,505,8,0,4,9:29 PM,6:38,,,SUB: Harden FOR Niang,,,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200059,509,8,0,4,9:29 PM,6:38,,,SUB: Harris FOR House Jr.,,,5,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200059,508,3,12,4,9:30 PM,6:38,Anunoby Free Throw 2 of 2 (15 PTS),,,91 - 101,10,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,510,5,2,4,9:30 PM,6:29,Trent Jr. STEAL (2 STL),,Embiid Lost Ball Turnover (P2.T13),,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,512,5,2,4,9:30 PM,6:24,Trent Jr. Lost Ball Turnover (P2.T8),,Maxey STEAL (2 STL),,,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200059,514,1,41,4,9:30 PM,6:20,,,Melton Running Layup (9 PTS) (Maxey 6 AST),93 - 101,8,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200059,516,2,79,4,9:30 PM,6:06,MISS Siakam 26' 3PT Pullup Jump Shot,,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,517,4,0,4,9:30 PM,6:02,Achiuwa REBOUND (Off:3 Def:3),,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,518,1,79,4,9:31 PM,5:56,Trent Jr. 17' Pullup Jump Shot (24 PTS) (Anunoby 1 AST),,,93 - 103,10,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,520,2,47,4,9:31 PM,5:30,VanVleet BLOCK (2 BLK),,MISS Harden 28' 3PT Turnaround Jump Shot,,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,1
+0022200059,522,4,0,4,9:31 PM,5:26,Siakam REBOUND (Off:0 Def:5),,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,523,1,2,4,9:31 PM,5:23,Trent Jr. 27' 3PT Running Jump Shot (27 PTS) (Achiuwa 4 AST),,,93 - 106,13,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,525,9,1,4,9:31 PM,5:22,,,76ers Timeout: Regular (Reg.5 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200059,527,8,0,4,9:33 PM,5:22,,,SUB: Tucker FOR Embiid,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200059,529,1,102,4,9:34 PM,5:08,,,Harden 5' Driving Floating Bank Jump Shot (15 PTS),95 - 106,11,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,530,2,63,4,9:35 PM,4:50,MISS VanVleet 14' Fadeaway Jumper,,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,531,4,0,4,9:35 PM,4:47,,,Melton REBOUND (Off:0 Def:3),,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,532,1,1,4,9:35 PM,4:41,,,Melton 26' 3PT Jump Shot (12 PTS) (Harden 8 AST),98 - 106,8,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200059,534,1,80,4,9:35 PM,4:26,VanVleet 26' 3PT Step Back Jump Shot (10 PTS),,,98 - 109,11,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,535,1,1,4,9:35 PM,4:05,,,Maxey 3PT Jump Shot (31 PTS) (Harden 9 AST),101 - 109,8,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200059,537,1,1,4,9:36 PM,3:43,VanVleet 27' 3PT Jump Shot (13 PTS) (Siakam 11 AST),,,101 - 112,11,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,539,6,1,4,9:36 PM,3:25,Anunoby P.FOUL (P4.T3) (C.Blair),,,,,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200059,541,8,0,4,9:36 PM,3:25,SUB: Barnes FOR Achiuwa,,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0022200059,543,2,80,4,9:37 PM,3:12,,,MISS Harden 18' Step Back Jump Shot,,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,544,4,0,4,9:37 PM,3:09,Barnes REBOUND (Off:1 Def:7),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,545,2,57,4,9:37 PM,2:55,MISS Siakam 6' Driving Hook Shot,,Harden BLOCK (1 BLK),,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1
+0022200059,547,4,0,4,9:37 PM,2:52,,,Tucker REBOUND (Off:1 Def:3),,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,548,2,1,4,9:37 PM,2:40,,,MISS Harris 3PT Jump Shot,,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,549,4,0,4,9:37 PM,2:37,Anunoby REBOUND (Off:0 Def:2),,,,,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,550,5,1,4,9:37 PM,2:29,Anunoby Bad Pass Turnover (P1.T9),,Melton STEAL (3 STL),,,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200059,552,1,1,4,9:38 PM,2:16,,,Tucker 3PT Jump Shot (8 PTS) (Harris 5 AST),104 - 112,8,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200059,554,6,2,4,9:38 PM,2:04,,,Tucker S.FOUL (P1.T2) (C.Blair),,,5,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200059,556,3,11,4,9:38 PM,2:04,VanVleet Free Throw 1 of 2 (14 PTS),,,104 - 113,9,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,557,8,0,4,9:38 PM,2:04,,,SUB: Embiid FOR Melton,,,5,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200059,559,3,12,4,9:39 PM,2:04,VanVleet Free Throw 2 of 2 (15 PTS),,,104 - 114,10,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,560,2,5,4,9:39 PM,1:53,VanVleet BLOCK (3 BLK),,MISS Embiid 2' Layup,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,1
+0022200059,562,4,0,4,9:39 PM,1:50,VanVleet REBOUND (Off:0 Def:6),,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,563,1,108,4,9:39 PM,1:36,Barnes 2' Cutting Dunk Shot (13 PTS) (Siakam 12 AST),,,104 - 116,12,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,565,9,1,4,9:39 PM,1:36,,,76ers Timeout: Regular (Reg.6 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200059,566,1,73,4,9:41 PM,1:27,,,Embiid 1' Driving Reverse Layup (31 PTS) (Harris 6 AST),106 - 116,10,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200059,567,2,86,4,9:42 PM,1:05,MISS Siakam 12' Turnaround Fadeaway Shot,,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,568,4,0,4,9:42 PM,1:02,,,Harden REBOUND (Off:0 Def:7),,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,569,1,80,4,9:42 PM,0:56,,,Harden 30' 3PT Step Back Jump Shot (18 PTS),109 - 116,7,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,570,2,80,4,9:42 PM,0:35,MISS VanVleet 27' 3PT Step Back Jump Shot,,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,571,4,0,4,9:42 PM,0:32,,,Harris REBOUND (Off:2 Def:6),,,5,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,572,2,103,4,9:42 PM,0:27,,,MISS Harden 29' 3PT Running Pull-Up Jump Shot,,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,573,4,0,4,9:42 PM,0:24,Barnes REBOUND (Off:1 Def:8),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,574,1,41,4,9:42 PM,0:20,Barnes 4' Running Layup (15 PTS) (Siakam 13 AST),,,109 - 118,9,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0022200059,576,6,2,4,9:42 PM,0:20,,,Harden S.FOUL (P2.T3) (B.Barnaky),,,5,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0022200059,578,3,10,4,9:43 PM,0:20,Barnes Free Throw 1 of 1 (16 PTS),,,109 - 119,10,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,579,2,80,4,9:43 PM,0:11,,,MISS Embiid 28' 3PT Step Back Jump Shot,,,5,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200059,580,4,0,4,9:43 PM,0:07,Barnes REBOUND (Off:1 Def:9),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0022200059,581,13,0,4,9:43 PM,0:00,,End of 4th Period (9:43 PM EST),,109 - 119,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

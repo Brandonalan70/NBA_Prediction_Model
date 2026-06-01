@@ -1,0 +1,447 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200065,2,12,0,1,10:13 PM,12:00,,Start of 1st Period (10:13 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200065,4,10,0,1,10:13 PM,12:00,Jump Ball Nurkic vs. Adebayo: Tip to Lowry,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,1
+0022200065,7,2,1,1,10:13 PM,11:41,,,MISS Butler 24' 3PT Jump Shot,,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,8,4,0,1,10:13 PM,11:37,Nurkic REBOUND (Off:0 Def:1),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,9,5,1,1,10:13 PM,11:24,Nurkic Bad Pass Turnover (P1.T1),,Martin STEAL (1 STL),,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,11,6,2,1,10:13 PM,11:18,Hart S.FOUL (P1.T1) (K.Cutler),,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200065,13,3,13,1,10:14 PM,11:18,,,MISS Lowry Free Throw 1 of 3,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0022200065,14,4,1,1,10:14 PM,11:18,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200065,15,3,14,1,10:14 PM,11:18,,,Lowry Free Throw 2 of 3 (1 PTS),1 - 0,-1,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0022200065,16,3,15,1,10:14 PM,11:18,,,Lowry Free Throw 3 of 3 (2 PTS),2 - 0,-2,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0022200065,17,5,2,1,10:15 PM,11:00,Simons Lost Ball Turnover (P1.T2),,Adebayo STEAL (1 STL),,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,19,2,63,1,10:15 PM,10:52,,,MISS Lowry 16' Fadeaway Jumper,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,20,4,0,1,10:15 PM,10:48,,,Adebayo REBOUND (Off:1 Def:0),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,21,2,72,1,10:15 PM,10:47,,,MISS Adebayo 8' Putback Layup,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,22,4,0,1,10:15 PM,10:47,,,Adebayo REBOUND (Off:2 Def:0),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,23,1,78,1,10:15 PM,10:47,,,Adebayo 4' Floating Jump Shot (2 PTS),4 - 0,-4,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,24,6,2,1,10:15 PM,10:47,Simons S.FOUL (P1.T2) (R.Mott),,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200065,26,3,10,1,10:15 PM,10:47,,,MISS Adebayo Free Throw 1 of 1,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0022200065,27,4,0,1,10:15 PM,10:43,Simons REBOUND (Off:0 Def:1),,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,28,1,86,1,10:16 PM,10:25,Hart 9' Turnaround Fadeaway (2 PTS),,,4 - 2,-2,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,29,6,2,1,10:16 PM,10:25,,,Butler S.FOUL (P1.T1) (K.Cutler),,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200065,31,3,10,1,10:16 PM,10:25,Hart Free Throw 1 of 1 (3 PTS),,,4 - 3,-1,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0022200065,84,5,1,1,10:16 PM,10:14,Hart STEAL (1 STL),,Herro Bad Pass Turnover (P1.T1),,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200065,34,1,2,1,10:17 PM,10:07,Lillard 26' 3PT Running Jump Shot (3 PTS) (Hart 1 AST),,,4 - 6,2,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200065,36,1,44,1,10:17 PM,9:53,,,Martin 4' Reverse Layup (2 PTS) (Adebayo 1 AST),6 - 6,TIE,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,38,1,6,1,10:17 PM,9:45,Hart 3' Driving Layup (5 PTS),,,6 - 8,2,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,39,5,4,1,10:17 PM,9:23,,,Butler Traveling Turnover (P1.T2),,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0022200065,40,1,101,1,10:18 PM,9:07,Nurkic 4' Driving Floating Jump Shot (2 PTS) (Hart 2 AST),,,6 - 10,4,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200065,42,1,79,1,10:18 PM,8:45,,,Martin 28' 3PT Pullup Jump Shot (5 PTS) (Lowry 1 AST),9 - 10,1,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,44,1,6,1,10:18 PM,8:32,Grant 5' Driving Layup (2 PTS) (Lillard 1 AST),,,9 - 12,3,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200065,45,2,63,1,10:19 PM,8:21,,,MISS Herro 14' Fadeaway Jumper,,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,46,4,0,1,10:19 PM,8:18,Nurkic REBOUND (Off:0 Def:2),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,47,2,103,1,10:19 PM,8:14,MISS Simons 18' Running Pull-Up Jump Shot,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,48,4,0,1,10:19 PM,8:09,,,Butler REBOUND (Off:0 Def:1),,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,49,2,1,1,10:19 PM,7:54,,,MISS Herro 27' 3PT Jump Shot,,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,50,4,0,1,10:19 PM,7:50,Lillard REBOUND (Off:0 Def:1),,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,51,5,2,1,10:19 PM,7:49,Lillard Lost Ball Turnover (P1.T3),,Martin STEAL (2 STL),,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,53,2,1,1,10:19 PM,7:45,,,MISS Herro 26' 3PT Jump Shot,,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,54,4,0,1,10:19 PM,7:40,,,Martin REBOUND (Off:1 Def:0),,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,55,2,6,1,10:19 PM,7:32,Nurkic BLOCK (1 BLK),,MISS Butler 3' Driving Layup,,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,1
+0022200065,57,4,0,1,10:19 PM,7:28,Hart REBOUND (Off:0 Def:1),,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,58,1,106,1,10:19 PM,7:27,Grant 4' Running Alley Oop Dunk Shot (4 PTS) (Hart 3 AST),,,9 - 14,5,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200065,60,6,2,1,10:20 PM,7:11,Simons S.FOUL (P2.T3) (K.Cutler),,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200065,62,3,11,1,10:20 PM,7:11,,,Adebayo Free Throw 1 of 2 (3 PTS),10 - 14,4,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0022200065,63,8,0,1,10:20 PM,7:11,SUB: Winslow FOR Simons,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200065,65,3,12,1,10:21 PM,7:11,,,Adebayo Free Throw 2 of 2 (4 PTS),11 - 14,3,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0022200065,66,2,79,1,10:21 PM,6:55,MISS Lillard 27' 3PT Pullup Jump Shot,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,67,4,0,1,10:21 PM,6:50,,,Martin REBOUND (Off:1 Def:1),,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,68,2,47,1,10:21 PM,6:40,,,MISS Herro 7' Turnaround Jump Shot,,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,69,4,0,1,10:21 PM,6:37,,,Adebayo REBOUND (Off:3 Def:0),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,70,2,72,1,10:21 PM,6:36,,,MISS Adebayo 3' Putback Layup,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,71,4,0,1,10:21 PM,6:34,Grant REBOUND (Off:0 Def:1),,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,72,2,41,1,10:21 PM,6:30,MISS Grant 4' Running Layup,,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,136,2,97,1,10:21 PM,6:25,MISS Nurkic 1' Tip Layup Shot,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,137,4,0,1,10:21 PM,6:25,Nurkic REBOUND (Off:1 Def:2),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,73,4,0,1,10:22 PM,6:25,Nurkic REBOUND (Off:2 Def:2),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,74,2,97,1,10:22 PM,6:25,MISS Nurkic Tip Layup Shot,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,75,4,0,1,10:22 PM,6:24,Hart REBOUND (Off:1 Def:1),,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,76,6,2,1,10:22 PM,6:24,,,Martin S.FOUL (P1.T2) (K.Cutler),,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200065,78,9,1,1,10:22 PM,6:24,TRAIL BLAZERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200065,79,8,0,1,10:24 PM,6:24,,,SUB: Dedmon FOR Adebayo,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,203473,Dewayne Dedmon,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200065,81,3,11,1,10:25 PM,6:24,MISS Nurkic Free Throw 1 of 2,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0022200065,82,4,1,1,10:25 PM,6:24,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200065,83,3,12,1,10:25 PM,6:24,Nurkic Free Throw 2 of 2 (3 PTS),,,11 - 15,4,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0022200065,86,2,1,1,10:25 PM,6:07,,,MISS Lowry 27' 3PT Jump Shot,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,87,4,0,1,10:25 PM,6:03,Hart REBOUND (Off:1 Def:2),,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,88,2,1,1,10:26 PM,5:47,MISS Winslow 26' 3PT Jump Shot,,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,89,4,0,1,10:26 PM,5:45,,,Lowry REBOUND (Off:0 Def:1),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,91,1,1,1,10:26 PM,5:36,,,Lowry 24' 3PT Jump Shot (5 PTS) (Herro 1 AST),14 - 15,1,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,93,2,80,1,10:26 PM,5:09,MISS Lillard 27' 3PT Step Back Jump Shot,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,94,4,0,1,10:26 PM,5:03,,,Butler REBOUND (Off:0 Def:2),,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,95,6,26,1,10:27 PM,5:00,,,Martin Offensive Charge Foul (P2) (D.Scott),,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200065,97,5,37,1,10:27 PM,5:00,,,Martin Offensive Foul Turnover (P1.T3),,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0022200065,98,8,0,1,10:27 PM,5:00,,,SUB: Strus FOR Martin,,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200065,100,1,101,1,10:27 PM,4:46,Winslow 14' Driving Floating Jump Shot (2 PTS),,,14 - 17,3,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,101,5,1,1,10:27 PM,4:38,,,Lowry Bad Pass Turnover (P1.T4),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,102,6,3,1,10:27 PM,4:38,,,Dedmon L.B.FOUL (P1.T3) (K.Cutler),,,5,203473,Dewayne Dedmon,1610612748.0,Miami,Heat,MIA,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200065,104,8,0,1,10:28 PM,4:38,SUB: Eubanks FOR Nurkic,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200065,106,1,79,1,10:28 PM,4:28,Lillard 26' 3PT Pullup Jump Shot (6 PTS) (Winslow 1 AST),,,14 - 20,6,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200065,107,5,1,1,10:28 PM,4:07,Lillard STEAL (1 STL),,Strus Bad Pass Turnover (P1.T5),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200065,109,2,2,1,10:28 PM,4:00,MISS Lillard 25' 3PT Running Jump Shot,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,110,4,0,1,10:28 PM,3:57,Hart REBOUND (Off:2 Def:2),,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,111,1,5,1,10:28 PM,3:53,Eubanks 3' Layup (2 PTS) (Hart 4 AST),,,14 - 22,8,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200065,113,9,1,1,10:29 PM,3:53,,,Heat Timeout: Regular (Reg.1 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200065,114,8,0,1,10:31 PM,3:53,SUB: Sharpe FOR Hart,,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200065,116,2,1,1,10:32 PM,3:31,,,MISS Butler 25' 3PT Jump Shot,,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,117,4,0,1,10:32 PM,3:31,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200065,118,6,3,1,10:32 PM,3:31,Winslow L.B.FOUL (P1.T4) (D.Scott),,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,5,203473,Dewayne Dedmon,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200065,120,8,0,1,10:32 PM,3:31,,,SUB: Vincent FOR Lowry,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200065,122,6,2,1,10:32 PM,3:20,Sharpe S.FOUL (P1.PN) (K.Cutler),,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200065,124,3,11,1,10:33 PM,3:20,,,Butler Free Throw 1 of 2 (1 PTS),15 - 22,7,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0022200065,125,3,12,1,10:33 PM,3:20,,,Butler Free Throw 2 of 2 (2 PTS),16 - 22,6,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0022200065,126,1,98,1,10:33 PM,3:09,Grant 3' Cutting Layup Shot (6 PTS) (Eubanks 1 AST),,,16 - 24,8,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200065,128,6,2,1,10:33 PM,3:09,,,Herro S.FOUL (P1.T4) (K.Cutler),,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200065,130,3,10,1,10:34 PM,3:09,MISS Grant Free Throw 1 of 1,,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0022200065,131,4,0,1,10:34 PM,3:05,,,Herro REBOUND (Off:0 Def:1),,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,132,1,78,1,10:34 PM,2:57,,,Dedmon 6' Floating Jump Shot (2 PTS) (Herro 2 AST),18 - 24,6,5,203473,Dewayne Dedmon,1610612748.0,Miami,Heat,MIA,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,134,6,2,1,10:34 PM,2:36,,,Dedmon S.FOUL (P2.PN) (D.Scott),,,5,203473,Dewayne Dedmon,1610612748.0,Miami,Heat,MIA,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200065,138,3,11,1,10:35 PM,2:36,Lillard Free Throw 1 of 2 (7 PTS),,,18 - 25,7,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0022200065,139,8,0,1,10:35 PM,2:36,SUB: Little FOR Grant,,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200065,140,8,0,1,10:35 PM,2:36,,,SUB: Robinson FOR Herro,,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200065,141,8,0,1,10:35 PM,2:36,,,SUB: Adebayo FOR Dedmon,,,5,203473,Dewayne Dedmon,1610612748.0,Miami,Heat,MIA,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200065,145,3,12,1,10:35 PM,2:36,Lillard Free Throw 2 of 2 (8 PTS),,,18 - 26,8,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0022200065,146,1,1,1,10:36 PM,2:20,,,Strus 3PT Jump Shot (3 PTS) (Vincent 1 AST),21 - 26,5,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,148,2,1,1,10:36 PM,2:04,MISS Lillard 24' 3PT Jump Shot,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,149,4,0,1,10:36 PM,2:01,,,Strus REBOUND (Off:0 Def:1),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,150,5,1,1,10:36 PM,1:50,Sharpe STEAL (1 STL),,Adebayo Bad Pass Turnover (P1.T6),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200065,152,1,41,1,10:36 PM,1:48,Sharpe 3' Running Layup (2 PTS),,,21 - 28,7,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,153,6,2,1,10:36 PM,1:48,,,Robinson S.FOUL (P1.PN) (K.Cutler),,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200065,155,3,10,1,10:37 PM,1:48,Sharpe Free Throw 1 of 1 (3 PTS),,,21 - 29,8,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0022200065,156,1,1,1,10:37 PM,1:32,,,Strus 29' 3PT Jump Shot (6 PTS) (Vincent 2 AST),24 - 29,5,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,158,6,2,1,10:37 PM,1:09,,,Adebayo S.FOUL (P1.PN) (D.Scott),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200065,160,3,11,1,10:38 PM,1:09,Lillard Free Throw 1 of 2 (9 PTS),,,24 - 30,6,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0022200065,161,8,0,1,10:38 PM,1:09,,,SUB: Martin FOR Butler,,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200065,163,3,12,1,10:38 PM,1:09,Lillard Free Throw 2 of 2 (10 PTS),,,24 - 31,7,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0022200065,164,1,75,1,10:38 PM,1:00,,,Vincent 5' Driving Finger Roll Layup (2 PTS) (Robinson 1 AST),26 - 31,5,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,165,2,80,1,10:39 PM,0:41,MISS Sharpe 27' 3PT Step Back Jump Shot,,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,166,4,0,1,10:39 PM,0:38,,,Martin REBOUND (Off:1 Def:2),,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,167,5,1,1,10:39 PM,0:31,Little STEAL (1 STL),,Martin Bad Pass Turnover (P2.T7),,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200065,170,5,45,1,10:39 PM,0:14,Lillard Out of Bounds - Bad Pass Turnover Turnover (P2.T4),,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0022200065,171,6,2,1,10:40 PM,0:07,Little S.FOUL (P1.PN) (D.Scott),,,,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200065,174,3,11,1,10:40 PM,0:07,,,Vincent Free Throw 1 of 2 (3 PTS),27 - 31,4,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0022200065,175,3,12,1,10:40 PM,0:07,,,Vincent Free Throw 2 of 2 (4 PTS),28 - 31,3,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0022200065,176,2,86,1,10:40 PM,0:00,MISS Winslow 16' Turnaround Fadeaway Shot,,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,177,4,0,1,10:40 PM,0:00,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200065,178,13,0,1,10:41 PM,0:00,,End of 1st Period (10:41 PM EST),,28 - 31,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200065,183,12,0,2,10:43 PM,12:00,,Start of 2nd Period (10:43 PM EST),,28 - 31,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200065,184,6,2,2,10:44 PM,11:40,,,Robinson S.FOUL (P2.T1) (D.Scott),,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200065,186,3,11,2,10:44 PM,11:40,MISS Sharpe Free Throw 1 of 2,,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0022200065,187,4,1,2,10:44 PM,11:40,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200065,188,3,12,2,10:44 PM,11:40,MISS Sharpe Free Throw 2 of 2,,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0022200065,189,4,0,2,10:44 PM,11:38,Little REBOUND (Off:1 Def:0),,,,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,190,1,80,2,10:45 PM,11:28,Simons 19' Step Back Jump Shot (2 PTS),,,28 - 33,5,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,191,6,26,2,10:45 PM,11:02,,,Adebayo Offensive Charge Foul (P2) (K.Cutler),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200065,193,5,37,2,10:45 PM,11:02,,,Adebayo Offensive Foul Turnover (P2.T8),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0022200065,194,2,79,2,10:46 PM,10:47,MISS Simons 28' 3PT Pullup Jump Shot,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,195,4,0,2,10:46 PM,10:42,Nurkic REBOUND (Off:3 Def:2),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,196,2,6,2,10:46 PM,10:38,MISS Winslow 5' Driving Layup,,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,197,4,0,2,10:46 PM,10:35,,,Robinson REBOUND (Off:0 Def:1),,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,198,1,79,2,10:46 PM,10:29,,,Robinson 16' Pullup Jump Shot (2 PTS) (Vincent 3 AST),30 - 33,3,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,200,1,102,2,10:46 PM,10:01,Simons 11' Driving Floating Bank Jump Shot (4 PTS),,,30 - 35,5,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,201,1,86,2,10:47 PM,9:38,,,Vincent 15' Turnaround Fadeaway (6 PTS) (Adebayo 2 AST),32 - 35,3,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,202,1,80,2,10:47 PM,9:19,Sharpe 25' 3PT Step Back Jump Shot (6 PTS) (Winslow 2 AST),,,32 - 38,6,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200065,204,1,79,2,10:48 PM,8:57,,,Strus 17' Pullup Jump Shot (8 PTS),34 - 38,4,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,205,1,6,2,10:48 PM,8:37,Nurkic 2' Driving Layup (5 PTS) (Winslow 3 AST),,,34 - 40,6,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200065,207,1,85,2,10:48 PM,8:21,,,Adebayo 12' Turnaround Bank Shot (6 PTS) (Strus 1 AST),36 - 40,4,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,209,2,1,2,10:48 PM,8:08,MISS Simons 26' 3PT Jump Shot,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,210,4,0,2,10:48 PM,8:05,,,Robinson REBOUND (Off:0 Def:2),,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,211,2,1,2,10:49 PM,7:56,,,MISS Strus 24' 3PT Jump Shot,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,212,4,0,2,10:49 PM,7:53,,,Strus REBOUND (Off:1 Def:1),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,213,2,1,2,10:49 PM,7:50,,,MISS Robinson 26' 3PT Jump Shot,,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,214,4,0,2,10:49 PM,7:46,Sharpe REBOUND (Off:0 Def:1),,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,215,6,4,2,10:49 PM,7:39,Sharpe OFF.Foul (P2) (R.Mott),,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200065,217,5,37,2,10:49 PM,7:39,Sharpe Offensive Foul Turnover (P1.T5),,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0022200065,221,8,0,2,10:49 PM,7:39,SUB: Grant FOR Little,,,,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200065,222,8,0,2,10:49 PM,7:39,SUB: Lillard FOR Sharpe,,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200065,223,8,0,2,10:49 PM,7:39,SUB: Hart FOR Winslow,,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200065,218,6,4,2,10:50 PM,7:30,,,Adebayo OFF.Foul (P3) (R.Mott),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200065,220,5,37,2,10:50 PM,7:30,,,Adebayo Offensive Foul Turnover (P3.T9),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0022200065,260,8,0,2,10:50 PM,7:30,,,SUB: Jovic FOR Adebayo,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200065,261,8,0,2,10:50 PM,7:30,,,SUB: Lowry FOR Robinson,,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200065,244,6,1,2,10:51 PM,7:15,,,Jovic P.FOUL (P1.T2) (R.Mott),,,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200065,233,6,1,2,10:51 PM,7:07,,,Strus P.FOUL (P1.T3) (R.Mott),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200065,235,8,0,2,10:51 PM,7:07,,,SUB: Butler FOR Martin,,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200065,237,6,2,2,10:52 PM,6:59,,,Jovic S.FOUL (P2.T4) (K.Cutler),,,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200065,239,9,1,2,10:52 PM,6:59,TRAIL BLAZERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200065,246,8,0,2,10:54 PM,6:59,,,SUB: Herro FOR Vincent,,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200065,248,3,11,2,10:55 PM,6:59,Grant Free Throw 1 of 2 (7 PTS),,,36 - 41,5,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0022200065,249,3,12,2,10:55 PM,6:59,MISS Grant Free Throw 2 of 2,,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0022200065,250,4,0,2,10:55 PM,6:57,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200065,252,5,1,2,10:56 PM,6:40,Nurkic STEAL (1 STL),,Lowry Bad Pass Turnover (P2.T10),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200065,254,1,1,2,10:56 PM,6:31,Grant 24' 3PT Jump Shot (10 PTS) (Hart 5 AST),,,36 - 44,8,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200065,256,1,1,2,10:56 PM,6:17,,,Herro 28' 3PT Jump Shot (3 PTS) (Butler 1 AST),39 - 44,5,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,258,1,80,2,10:56 PM,5:59,Lillard 21' Step Back Jump Shot (12 PTS),,,39 - 46,7,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,259,1,101,2,10:57 PM,5:43,,,Butler 9' Driving Floating Jump Shot (4 PTS),41 - 46,5,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,264,1,1,2,10:57 PM,5:29,Hart 3PT Jump Shot (8 PTS) (Grant 1 AST),,,41 - 49,8,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200065,266,2,98,2,10:57 PM,5:17,,,MISS Jovic 5' Cutting Layup Shot,,,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,268,1,97,2,10:57 PM,5:11,,,Jovic Tip Layup Shot (2 PTS),43 - 49,6,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,267,4,0,2,10:57 PM,5:11,,,Jovic REBOUND (Off:1 Def:0),,,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,269,2,1,2,10:57 PM,5:00,MISS Simons 25' 3PT Jump Shot,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,270,4,0,2,10:57 PM,4:54,Nurkic REBOUND (Off:4 Def:2),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,271,2,97,2,10:57 PM,4:54,MISS Nurkic Tip Layup Shot,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,272,4,0,2,10:57 PM,4:52,,,Strus REBOUND (Off:1 Def:2),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,273,1,50,2,10:57 PM,4:48,,,Butler 3' Running Dunk (6 PTS) (Strus 2 AST),45 - 49,4,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,276,8,0,2,10:58 PM,4:39,SUB: Eubanks FOR Nurkic,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200065,278,2,1,2,10:58 PM,4:23,MISS Grant 3PT Jump Shot,,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,279,4,0,2,10:58 PM,4:21,,,Strus REBOUND (Off:1 Def:3),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,280,1,1,2,10:58 PM,4:07,,,Strus 26' 3PT Jump Shot (11 PTS) (Butler 2 AST),48 - 49,1,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,282,6,2,2,10:59 PM,3:51,,,Jovic S.FOUL (P3.PN) (R.Mott),,,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200065,284,3,11,2,10:59 PM,3:51,Lillard Free Throw 1 of 2 (13 PTS),,,48 - 50,2,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0022200065,285,8,0,2,10:59 PM,3:51,SUB: Winslow FOR Eubanks,,,,,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200065,287,3,12,2,11:00 PM,3:51,Lillard Free Throw 2 of 2 (14 PTS),,,48 - 51,3,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0022200065,288,6,2,2,11:00 PM,3:29,Winslow S.FOUL (P2.T1) (R.Mott),,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200065,290,3,11,2,11:01 PM,3:29,,,Butler Free Throw 1 of 2 (7 PTS),49 - 51,2,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0022200065,291,3,12,2,11:01 PM,3:29,,,MISS Butler Free Throw 2 of 2,,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0022200065,292,4,0,2,11:01 PM,3:25,Hart REBOUND (Off:2 Def:3),,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,293,5,45,2,11:01 PM,3:17,Grant Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0022200065,294,2,86,2,11:01 PM,3:06,,,MISS Butler 10' Turnaround Fadeaway Shot,,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,295,4,0,2,11:01 PM,3:03,Grant REBOUND (Off:0 Def:2),,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,296,2,2,2,11:01 PM,2:59,MISS Lillard 25' 3PT Running Jump Shot,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,297,4,0,2,11:02 PM,2:56,,,Strus REBOUND (Off:1 Def:4),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,298,1,103,2,11:02 PM,2:53,,,Herro 4' Running Pull-Up Jump Shot (5 PTS),51 - 51,TIE,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,299,6,2,2,11:02 PM,2:53,Simons S.FOUL (P3.T2) (R.Mott),,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200065,301,9,1,2,11:02 PM,2:53,,,Heat Timeout: Regular (Reg.2 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200065,302,8,0,2,11:04 PM,2:53,SUB: Sharpe FOR Simons,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200065,304,3,10,2,11:05 PM,2:53,,,Herro Free Throw 1 of 1 (6 PTS),52 - 51,-1,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0022200065,305,2,1,2,11:05 PM,2:37,MISS Sharpe 25' 3PT Jump Shot,,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,306,4,0,2,11:05 PM,2:37,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200065,307,6,3,2,11:05 PM,2:37,,,Lowry L.B.FOUL (P1.PN) (K.Cutler),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200065,309,3,11,2,11:06 PM,2:37,MISS Grant Free Throw 1 of 2,,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0022200065,310,4,1,2,11:06 PM,2:37,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200065,311,3,12,2,11:06 PM,2:37,Grant Free Throw 2 of 2 (11 PTS),,,52 - 52,TIE,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0022200065,312,2,102,2,11:06 PM,2:24,,,MISS Strus 5' Driving Floating Bank Jump Shot,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,313,4,0,2,11:06 PM,2:23,,,Butler REBOUND (Off:1 Def:2),,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,348,2,97,2,11:06 PM,2:23,,,MISS Butler 2' Tip Layup Shot,,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,349,4,0,2,11:06 PM,2:23,,,Butler REBOUND (Off:2 Def:2),,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,314,2,72,2,11:06 PM,2:21,Winslow BLOCK (1 BLK),,MISS Butler Putback Layup,,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,1
+0022200065,316,4,0,2,11:06 PM,2:20,Sharpe REBOUND (Off:0 Def:2),,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,317,5,1,2,11:07 PM,2:19,Sharpe Bad Pass Turnover (P2.T7),,Strus STEAL (1 STL),,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,319,1,5,2,11:07 PM,2:18,,,Strus 2' Layup (13 PTS),54 - 52,-2,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,320,6,2,2,11:07 PM,2:08,,,Jovic S.FOUL (P4.PN) (R.Mott),,,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200065,322,3,11,2,11:07 PM,2:08,Sharpe Free Throw 1 of 2 (7 PTS),,,54 - 53,-1,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0022200065,325,3,12,2,11:07 PM,2:08,Sharpe Free Throw 2 of 2 (8 PTS),,,54 - 54,TIE,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0022200065,323,8,0,2,11:07 PM,2:08,,,SUB: Dedmon FOR Jovic,,,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,5,203473,Dewayne Dedmon,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200065,326,5,2,2,11:08 PM,1:55,Hart STEAL (2 STL),,Strus Lost Ball Turnover (P2.T11),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200065,328,5,2,2,11:08 PM,1:45,Grant Lost Ball Turnover (P2.T8),,Strus STEAL (2 STL),,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,330,1,74,2,11:08 PM,1:40,,,Butler 3' Running Reverse Layup (9 PTS) (Strus 3 AST),56 - 54,-2,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,332,1,73,2,11:08 PM,1:23,Lillard 2' Driving Reverse Layup (16 PTS),,,56 - 56,TIE,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,333,1,1,2,11:08 PM,1:10,,,Lowry 25' 3PT Jump Shot (8 PTS) (Herro 3 AST),59 - 56,-3,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,335,2,79,2,11:09 PM,0:58,MISS Lillard 28' 3PT Pullup Jump Shot,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,336,4,0,2,11:09 PM,0:58,,,Dedmon REBOUND (Off:0 Def:1),,,5,203473,Dewayne Dedmon,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,337,1,50,2,11:09 PM,0:56,,,Butler 2' Running Dunk (11 PTS) (Lowry 2 AST),61 - 56,-5,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,339,5,45,2,11:09 PM,0:41,Lillard Out of Bounds - Bad Pass Turnover Turnover (P3.T9),,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0022200065,340,8,0,2,11:09 PM,0:41,,,SUB: Martin FOR Dedmon,,,5,203473,Dewayne Dedmon,1610612748.0,Miami,Heat,MIA,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200065,342,2,1,2,11:10 PM,0:30,,,MISS Strus 26' 3PT Jump Shot,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,344,2,97,2,11:10 PM,0:25,,,MISS Butler Tip Layup Shot,,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,345,4,0,2,11:10 PM,0:25,Lillard REBOUND (Off:0 Def:2),,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,343,4,0,2,11:10 PM,0:25,,,Butler REBOUND (Off:3 Def:2),,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,346,2,1,2,11:10 PM,0:08,MISS Grant 24' 3PT Jump Shot,,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,347,4,0,2,11:10 PM,0:05,,,Strus REBOUND (Off:1 Def:5),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,350,2,2,2,11:10 PM,0:01,,,MISS Herro 28' 3PT Running Jump Shot,,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,351,4,0,2,11:10 PM,0:01,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200065,352,13,0,2,11:10 PM,0:00,,End of 2nd Period (11:10 PM EST),,61 - 56,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200065,359,12,0,3,11:25 PM,12:00,,Start of 3rd Period (11:25 PM EST),,61 - 56,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200065,360,1,63,3,11:26 PM,11:42,Lillard 26' 3PT Fadeaway Jumper (19 PTS) (Nurkic 1 AST),,,61 - 59,-2,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200065,362,2,1,3,11:26 PM,11:15,,,MISS Herro 25' 3PT Jump Shot,,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,363,4,0,3,11:26 PM,11:11,Grant REBOUND (Off:0 Def:3),,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,364,1,2,3,11:26 PM,11:07,Simons 3PT Running Jump Shot (7 PTS) (Hart 6 AST),,,61 - 62,1,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200065,366,1,98,3,11:27 PM,10:50,,,Martin 5' Cutting Layup Shot (7 PTS) (Butler 3 AST),63 - 62,-1,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,368,2,79,3,11:27 PM,10:24,MISS Lillard 32' 3PT Pullup Jump Shot,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,369,4,0,3,11:27 PM,10:19,,,Herro REBOUND (Off:0 Def:2),,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,370,2,63,3,11:27 PM,10:11,Hart BLOCK (1 BLK),,MISS Herro 12' Fadeaway Jumper,,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,1
+0022200065,372,4,0,3,11:27 PM,10:07,,,Martin REBOUND (Off:2 Def:2),,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,373,1,1,3,11:27 PM,10:05,,,Lowry 26' 3PT Jump Shot (11 PTS) (Herro 4 AST),66 - 62,-4,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,374,6,2,3,11:28 PM,9:41,,,Martin S.FOUL (P3.T1) (D.Scott),,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200065,377,3,11,3,11:29 PM,9:41,Nurkic Free Throw 1 of 2 (6 PTS),,,66 - 63,-3,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0022200065,378,3,12,3,11:29 PM,9:41,Nurkic Free Throw 2 of 2 (7 PTS),,,66 - 64,-2,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0022200065,379,1,1,3,11:29 PM,9:21,,,Lowry 24' 3PT Jump Shot (14 PTS) (Martin 1 AST),69 - 64,-5,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,381,1,79,3,11:29 PM,9:07,Simons 27' 3PT Pullup Jump Shot (10 PTS) (Lillard 2 AST),,,69 - 67,-2,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200065,382,2,1,3,11:30 PM,8:57,,,MISS Adebayo 26' 3PT Jump Shot,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,383,4,0,3,11:30 PM,8:52,Nurkic REBOUND (Off:4 Def:3),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,384,6,1,3,11:30 PM,8:49,,,Lowry P.FOUL (P2.T2) (K.Cutler),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200065,387,2,101,3,11:31 PM,8:35,MISS Simons 13' Driving Floating Jump Shot,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,388,4,0,3,11:31 PM,8:32,,,Martin REBOUND (Off:2 Def:3),,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,389,2,57,3,11:31 PM,8:14,,,MISS Adebayo 7' Driving Hook Shot,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,390,4,0,3,11:31 PM,8:10,Simons REBOUND (Off:0 Def:2),,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,391,2,5,3,11:31 PM,8:04,MISS Grant 6' Layup,,Lowry BLOCK (1 BLK),,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,1
+0022200065,393,4,0,3,11:31 PM,8:00,,,Lowry REBOUND (Off:0 Def:2),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,394,1,41,3,11:31 PM,7:58,,,Adebayo 4' Running Layup (8 PTS) (Lowry 3 AST),71 - 67,-4,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,398,6,4,3,11:32 PM,7:46,Hart OFF.Foul (P2) (K.Cutler),,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200065,400,5,37,3,11:32 PM,7:46,Hart Offensive Foul Turnover (P1.T10),,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0022200065,401,5,1,3,11:32 PM,7:36,Hart STEAL (3 STL),,Lowry Bad Pass Turnover (P3.T12),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200065,403,2,41,3,11:32 PM,7:32,MISS Hart 4' Running Layup,,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,404,4,0,3,11:32 PM,7:31,,,Adebayo REBOUND (Off:3 Def:1),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,405,1,50,3,11:32 PM,7:31,,,Martin 3' Running Dunk (9 PTS) (Adebayo 3 AST),73 - 67,-6,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,407,9,1,3,11:33 PM,7:31,TRAIL BLAZERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200065,408,2,1,3,11:35 PM,7:08,MISS Grant 26' 3PT Jump Shot,,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,409,4,0,3,11:35 PM,7:02,,,Martin REBOUND (Off:2 Def:4),,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,410,1,101,3,11:36 PM,6:52,,,Butler 5' Driving Floating Jump Shot (13 PTS) (Martin 2 AST),75 - 67,-8,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,412,2,1,3,11:36 PM,6:38,MISS Nurkic 27' 3PT Jump Shot,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,413,4,0,3,11:36 PM,6:34,,,Herro REBOUND (Off:0 Def:3),,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,414,1,7,3,11:36 PM,6:21,,,Adebayo 3' Dunk (10 PTS) (Butler 4 AST),77 - 67,-10,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,416,1,79,3,11:36 PM,6:07,Lillard 27' 3PT Pullup Jump Shot (22 PTS),,,77 - 70,-7,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,417,2,1,3,11:37 PM,5:39,,,MISS Butler 24' 3PT Jump Shot,,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,418,4,0,3,11:37 PM,5:36,Nurkic REBOUND (Off:4 Def:4),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,419,5,1,3,11:37 PM,5:15,Lillard Bad Pass Turnover (P4.T11),,Butler STEAL (1 STL),,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,421,1,50,3,11:37 PM,5:11,,,Butler 1' Running Dunk (15 PTS) (Lowry 4 AST),79 - 70,-9,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,423,9,1,3,11:37 PM,5:10,TRAIL BLAZERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200065,424,8,0,3,11:39 PM,5:10,SUB: Eubanks FOR Lillard,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200065,425,8,0,3,11:39 PM,5:10,SUB: Winslow FOR Nurkic,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200065,428,5,1,3,11:40 PM,4:59,Simons Bad Pass Turnover (P2.T12),,Butler STEAL (2 STL),,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,430,1,50,3,11:40 PM,4:54,,,Butler 2' Running Dunk (17 PTS),81 - 70,-11,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,431,1,80,3,11:41 PM,4:31,Simons 28' 3PT Step Back Jump Shot (13 PTS) (Grant 2 AST),,,81 - 73,-8,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200065,432,6,1,3,11:41 PM,4:16,Winslow P.FOUL (P3.T1) (K.Cutler),,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200065,434,8,0,3,11:41 PM,4:16,,,SUB: Jovic FOR Adebayo,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200065,435,8,0,3,11:41 PM,4:16,,,SUB: Strus FOR Martin,,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200065,438,5,4,3,11:42 PM,4:06,,,Jovic Traveling Turnover (P1.T13),,,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0022200065,439,5,1,3,11:42 PM,3:52,Hart Bad Pass Turnover (P2.T13),,Lowry STEAL (1 STL),,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,441,1,2,3,11:42 PM,3:47,,,Herro 24' 3PT Running Jump Shot (9 PTS) (Lowry 5 AST),84 - 73,-11,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,443,1,1,3,11:42 PM,3:27,Winslow 26' 3PT Jump Shot (5 PTS) (Grant 3 AST),,,84 - 76,-8,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200065,445,1,79,3,11:43 PM,3:09,,,Herro 29' 3PT Pullup Jump Shot (12 PTS) (Lowry 6 AST),87 - 76,-11,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,447,5,1,3,11:43 PM,2:53,Grant Bad Pass Turnover (P3.T14),,Jovic STEAL (1 STL),,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,449,1,1,3,11:43 PM,2:46,,,Lowry 27' 3PT Jump Shot (17 PTS) (Butler 5 AST),90 - 76,-14,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,451,2,1,3,11:44 PM,2:24,MISS Winslow 27' 3PT Jump Shot,,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,452,4,0,3,11:44 PM,2:24,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200065,454,8,0,3,11:44 PM,2:24,SUB: Little FOR Grant,,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200065,456,2,1,3,11:44 PM,2:00,,,MISS Lowry 29' 3PT Jump Shot,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,457,4,0,3,11:44 PM,2:00,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200065,458,5,11,3,11:44 PM,2:00,,,Heat Turnover: Shot Clock (T#14),,,3,1610612748,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200065,459,8,0,3,11:45 PM,2:00,SUB: Sharpe FOR Eubanks,,,,,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200065,460,8,0,3,11:45 PM,2:00,,,SUB: Vincent FOR Butler,,,5,202710,Jimmy Butler III,1610612748.0,Miami,Heat,MIA,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200065,463,2,105,3,11:45 PM,1:46,MISS Sharpe 14' Turnaround Fadeaway Bank Jump Shot,,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,464,4,0,3,11:45 PM,1:43,,,Herro REBOUND (Off:0 Def:4),,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,465,2,103,3,11:45 PM,1:41,,,MISS Herro 26' 3PT Running Pull-Up Jump Shot,,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,466,4,0,3,11:45 PM,1:41,Winslow REBOUND (Off:0 Def:1),,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,467,6,2,3,11:45 PM,1:32,,,Herro S.FOUL (P2.T3) (K.Cutler),,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200065,470,3,11,3,11:46 PM,1:32,Hart Free Throw 1 of 2 (9 PTS),,,90 - 77,-13,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0022200065,471,8,0,3,11:46 PM,1:32,,,SUB: Adebayo FOR Jovic,,,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200065,472,8,0,3,11:46 PM,1:32,,,SUB: Martin FOR Lowry,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200065,475,3,12,3,11:46 PM,1:32,Hart Free Throw 2 of 2 (10 PTS),,,90 - 78,-12,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0022200065,476,1,102,3,11:46 PM,1:16,,,Herro 6' Driving Floating Bank Jump Shot (14 PTS) (Vincent 4 AST),92 - 78,-14,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,477,2,80,3,11:47 PM,0:57,MISS Simons 28' 3PT Step Back Jump Shot,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,478,4,0,3,11:47 PM,0:54,Sharpe REBOUND (Off:1 Def:2),,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,479,1,72,3,11:47 PM,0:52,Sharpe 5' Putback Layup (10 PTS),,,92 - 80,-12,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,480,6,1,3,11:47 PM,0:35,Simons P.FOUL (P4.T2) (D.Scott),,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200065,482,2,86,3,11:48 PM,0:24,,,MISS Adebayo 10' Turnaround Fadeaway Shot,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,483,4,0,3,11:48 PM,0:19,Hart REBOUND (Off:2 Def:4),,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,484,5,1,3,11:48 PM,0:04,Simons Bad Pass Turnover (P3.T15),,Martin STEAL (3 STL),,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,486,1,50,3,11:48 PM,0:02,,,Martin 2' Running Dunk (11 PTS),94 - 80,-14,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,487,6,11,3,11:48 PM,0:02,,,Martin T.FOUL (P3.T3) (K.Cutler),,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0022200065,488,3,16,3,11:49 PM,0:02,Simons Free Throw Technical (14 PTS),,,94 - 81,-13,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0022200065,489,13,0,3,11:49 PM,0:00,,End of 3rd Period (11:49 PM EST),,94 - 81,-13,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200065,497,12,0,4,11:52 PM,12:00,,Start of 4th Period (11:52 PM EST),,94 - 81,-13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200065,498,2,79,4,11:52 PM,11:46,,,MISS Vincent 26' 3PT Pullup Jump Shot,,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,499,4,0,4,11:52 PM,11:42,,,Martin REBOUND (Off:3 Def:4),,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,500,2,75,4,11:52 PM,11:34,,,MISS Martin 3' Driving Finger Roll Layup,,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,502,2,97,4,11:52 PM,11:30,,,MISS Strus Tip Layup Shot,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,501,4,0,4,11:52 PM,11:30,,,Strus REBOUND (Off:2 Def:5),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,503,4,0,4,11:52 PM,11:29,,,Martin REBOUND (Off:4 Def:4),,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,504,1,1,4,11:52 PM,11:27,,,Robinson 25' 3PT Jump Shot (5 PTS) (Martin 3 AST),97 - 81,-16,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,506,9,1,4,11:53 PM,11:27,TRAIL BLAZERS Timeout: Regular (Full 5 Short 0),,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200065,507,2,80,4,11:56 PM,11:07,MISS Johnson 26' 3PT Step Back Jump Shot,,,,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,508,4,0,4,11:56 PM,11:07,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200065,509,2,79,4,11:56 PM,10:48,,,MISS Robinson 28' 3PT Pullup Jump Shot,,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,510,4,0,4,11:56 PM,10:46,,,Strus REBOUND (Off:3 Def:5),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,511,2,1,4,11:56 PM,10:42,,,MISS Strus 24' 3PT Jump Shot,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,512,4,0,4,11:56 PM,10:39,Sharpe REBOUND (Off:1 Def:3),,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,513,2,80,4,11:56 PM,10:36,MISS Sharpe 16' Step Back Jump Shot,,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,514,4,0,4,11:56 PM,10:33,,,Robinson REBOUND (Off:0 Def:3),,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,515,2,101,4,11:57 PM,10:18,,,MISS Robinson 9' Driving Floating Jump Shot,,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,516,4,0,4,11:57 PM,10:16,Nurkic REBOUND (Off:4 Def:5),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,517,5,1,4,11:57 PM,10:01,Johnson Bad Pass Turnover (P1.T16),,Martin STEAL (4 STL),,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,519,1,41,4,11:57 PM,9:56,,,Martin 4' Running Layup (13 PTS),99 - 81,-18,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,521,2,101,4,11:57 PM,9:30,MISS Winslow 12' Driving Floating Jump Shot,,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,523,2,97,4,11:57 PM,9:25,MISS Sharpe Tip Layup Shot,,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,522,4,0,4,11:58 PM,9:25,Sharpe REBOUND (Off:2 Def:3),,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,524,4,0,4,11:58 PM,9:25,,,Adebayo REBOUND (Off:3 Def:2),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,525,6,2,4,11:58 PM,9:20,Nurkic S.FOUL (P1.T1) (D.Scott),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200065,527,3,11,4,11:58 PM,9:20,,,Adebayo Free Throw 1 of 2 (11 PTS),100 - 81,-19,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0022200065,528,8,0,4,11:58 PM,9:20,SUB: Simons FOR Little,,,,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200065,529,8,0,4,11:58 PM,9:20,SUB: Grant FOR Sharpe,,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200065,530,8,0,4,11:58 PM,9:20,SUB: Hart FOR Johnson,,,,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200065,534,3,12,4,11:59 PM,9:20,,,Adebayo Free Throw 2 of 2 (12 PTS),101 - 81,-20,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0022200065,535,2,5,4,11:59 PM,9:01,MISS Nurkic 3' Layup,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,536,4,0,4,11:59 PM,8:59,,,Adebayo REBOUND (Off:3 Def:3),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,537,6,1,4,11:59 PM,8:56,Winslow P.FOUL (P4.T2) (R.Mott),,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200065,539,1,78,4,11:59 PM,8:50,,,Adebayo 10' Floating Jump Shot (14 PTS) (Robinson 2 AST),103 - 81,-22,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,541,2,1,4,12:00 AM,8:25,MISS Grant 24' 3PT Jump Shot,,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,542,4,0,4,12:00 AM,8:21,,,Strus REBOUND (Off:3 Def:6),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,598,5,1,4,12:00 AM,8:20,Winslow STEAL (1 STL),,Strus Bad Pass Turnover (P3.T15),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200065,543,1,5,4,12:00 AM,8:20,Winslow 3' Layup (7 PTS),,,103 - 83,-20,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,544,1,1,4,12:00 AM,8:10,,,Martin 3PT Jump Shot (16 PTS) (Vincent 5 AST),106 - 83,-23,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,546,1,108,4,12:00 AM,7:58,Winslow 4' Cutting Dunk Shot (9 PTS) (Grant 4 AST),,,106 - 85,-21,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200065,548,6,1,4,12:01 AM,7:48,Nurkic P.FOUL (P2.T3) (D.Scott),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200065,550,8,0,4,12:01 AM,7:48,SUB: Eubanks FOR Winslow,,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200065,551,8,0,4,12:01 AM,7:48,SUB: Walker FOR Nurkic,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,4,1631133,Jabari Walker,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200065,552,8,0,4,12:01 AM,7:48,SUB: Brown III FOR Grant,,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,4,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200065,556,6,2,4,12:01 AM,7:39,Eubanks S.FOUL (P1.T4) (R.Mott),,,,,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200065,558,3,11,4,12:02 AM,7:39,,,Adebayo Free Throw 1 of 2 (15 PTS),107 - 85,-22,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0022200065,559,3,12,4,12:02 AM,7:39,,,Adebayo Free Throw 2 of 2 (16 PTS),108 - 85,-23,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0022200065,560,2,79,4,12:02 AM,7:22,MISS Simons 26' 3PT Pullup Jump Shot,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,561,4,0,4,12:02 AM,7:13,Walker REBOUND (Off:1 Def:0),,,,,4,1631133,Jabari Walker,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,562,1,72,4,12:02 AM,7:13,Walker Putback Layup (2 PTS),,,108 - 87,-21,4,1631133,Jabari Walker,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,563,5,4,4,12:03 AM,7:05,,,Robinson Traveling Turnover (P1.T16),,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0022200065,564,2,3,4,12:03 AM,6:48,MISS Eubanks 11' Hook Shot,,,,,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,565,4,0,4,12:03 AM,6:46,,,Adebayo REBOUND (Off:3 Def:4),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,566,1,103,4,12:03 AM,6:42,,,Adebayo 15' Running Pull-Up Jump Shot (18 PTS),110 - 87,-23,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,567,5,4,4,12:03 AM,6:31,Brown III Traveling Turnover (P1.T17),,,,,4,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0022200065,568,1,1,4,12:04 AM,6:11,,,Strus 3PT Jump Shot (16 PTS) (Vincent 6 AST),113 - 87,-26,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,570,2,1,4,12:04 AM,5:50,MISS Eubanks 17' Jump Shot,,,,,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,571,4,0,4,12:04 AM,5:47,,,Adebayo REBOUND (Off:3 Def:5),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,572,2,1,4,12:04 AM,5:41,,,MISS Robinson 28' 3PT Jump Shot,,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,573,4,0,4,12:04 AM,5:37,,,Vincent REBOUND (Off:1 Def:0),,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,574,9,1,4,12:05 AM,5:37,,,Heat Timeout: Regular (Reg.3 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200065,575,8,0,4,12:07 AM,5:37,SUB: Sharpe FOR Simons,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200065,576,8,0,4,12:07 AM,5:37,SUB: Johnson FOR Hart,,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200065,577,8,0,4,12:07 AM,5:37,SUB: Little FOR Eubanks,,,,,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200065,578,8,0,4,12:07 AM,5:37,,,SUB: Jovic FOR Adebayo,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200065,579,8,0,4,12:07 AM,5:37,,,SUB: Smith FOR Martin,,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,1630696,Dru Smith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200065,580,8,0,4,12:07 AM,5:37,,,SUB: Highsmith FOR Strus,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200065,587,2,79,4,12:08 AM,5:31,,,MISS Robinson 27' 3PT Pullup Jump Shot,,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,588,4,0,4,12:08 AM,5:28,Sharpe REBOUND (Off:2 Def:4),,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,589,1,41,4,12:08 AM,5:23,Johnson 3' Running Layup (2 PTS),,,113 - 89,-24,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,590,2,80,4,12:08 AM,5:00,,,MISS Vincent 27' 3PT Step Back Jump Shot,,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,591,4,0,4,12:08 AM,4:58,Sharpe REBOUND (Off:2 Def:5),,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,592,2,41,4,12:08 AM,4:52,MISS Sharpe 7' Running Layup,,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,593,4,0,4,12:08 AM,4:47,Sharpe REBOUND (Off:3 Def:5),,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,594,1,87,4,12:08 AM,4:47,Sharpe Putback Dunk (12 PTS),,,113 - 91,-22,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,595,2,1,4,12:09 AM,4:26,,,MISS Smith 3PT Jump Shot,,,5,1630696,Dru Smith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,596,4,0,4,12:09 AM,4:23,Johnson REBOUND (Off:0 Def:1),,,,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,597,2,80,4,12:09 AM,4:14,MISS Sharpe 29' 3PT Step Back Jump Shot,,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,600,4,0,4,12:09 AM,4:10,,,Jovic REBOUND (Off:1 Def:1),,,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,601,5,1,4,12:09 AM,3:59,Brown III STEAL (1 STL),,Vincent Bad Pass Turnover (P1.T17),,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200065,603,1,106,4,12:09 AM,3:54,Brown III 2' Running Alley Oop Dunk Shot (2 PTS) (Walker 1 AST),,,113 - 93,-20,4,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,4,1631133,Jabari Walker,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200065,605,6,1,4,12:09 AM,3:41,Johnson P.FOUL (P1.PN) (R.Mott),,,,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200065,607,3,11,4,12:10 AM,3:41,,,Vincent Free Throw 1 of 2 (7 PTS),114 - 93,-21,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0022200065,608,3,12,4,12:10 AM,3:41,,,Vincent Free Throw 2 of 2 (8 PTS),115 - 93,-22,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0022200065,609,2,1,4,12:10 AM,3:30,MISS Little 27' 3PT Jump Shot,,,,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,610,4,0,4,12:10 AM,3:25,,,Highsmith REBOUND (Off:0 Def:1),,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,611,2,1,4,12:11 AM,3:17,,,MISS Jovic 3PT Jump Shot,,,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,612,4,0,4,12:11 AM,3:15,Walker REBOUND (Off:1 Def:1),,,,,4,1631133,Jabari Walker,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,613,1,9,4,12:11 AM,3:01,Little 2' Driving Dunk (2 PTS) (Johnson 1 AST),,,115 - 95,-20,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200065,614,2,6,4,12:11 AM,2:43,Brown III BLOCK (1 BLK),,MISS Vincent 5' Driving Layup,,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,1
+0022200065,615,4,0,4,12:11 AM,2:41,Johnson REBOUND (Off:0 Def:2),,,,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,616,5,1,4,12:11 AM,2:37,Little Bad Pass Turnover (P1.T18),,Highsmith STEAL (1 STL),,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,618,1,50,4,12:11 AM,2:32,,,Highsmith 2' Running Dunk (2 PTS) (Vincent 7 AST),117 - 95,-22,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,621,6,1,4,12:12 AM,2:16,,,Smith P.FOUL (P1.T1) (K.Cutler),,,5,1630696,Dru Smith,1610612748.0,Miami,Heat,MIA,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200065,623,8,0,4,12:12 AM,2:16,,,SUB: Haslem FOR Vincent,,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,5,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200065,625,1,1,4,12:12 AM,2:09,Sharpe 3PT Jump Shot (15 PTS) (Walker 2 AST),,,117 - 98,-19,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,4,1631133,Jabari Walker,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200065,626,1,6,4,12:12 AM,1:54,,,Smith 3' Driving Layup (2 PTS) (Robinson 3 AST),119 - 98,-21,5,1630696,Dru Smith,1610612748.0,Miami,Heat,MIA,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,627,2,80,4,12:13 AM,1:42,MISS Little 25' 3PT Step Back Jump Shot,,,,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,628,4,0,4,12:13 AM,1:39,,,Haslem REBOUND (Off:0 Def:1),,,5,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,629,2,1,4,12:13 AM,1:20,,,MISS Smith 27' 3PT Jump Shot,,,5,1630696,Dru Smith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,630,4,0,4,12:13 AM,1:15,Walker REBOUND (Off:1 Def:2),,,,,4,1631133,Jabari Walker,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,631,2,41,4,12:13 AM,1:13,MISS Brown III 5' Running Layup,,Haslem BLOCK (1 BLK),,,4,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,5,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,1
+0022200065,633,4,0,4,12:13 AM,1:13,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200065,635,6,2,4,12:14 AM,1:07,,,Jovic S.FOUL (P5.T2) (R.Mott),,,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,4,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200065,638,3,11,4,12:14 AM,1:07,MISS Brown III Free Throw 1 of 2,,,,,4,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0022200065,639,4,1,4,12:14 AM,1:07,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200065,641,3,12,4,12:14 AM,1:07,MISS Brown III Free Throw 2 of 2,,,,,4,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0022200065,642,4,0,4,12:14 AM,1:04,,,Smith REBOUND (Off:0 Def:1),,,5,1630696,Dru Smith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,643,2,47,4,12:15 AM,0:43,,,MISS Haslem 12' Turnaround Jump Shot,,,5,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200065,644,4,0,4,12:15 AM,0:39,Johnson REBOUND (Off:0 Def:3),,,,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200065,645,5,1,4,12:15 AM,0:30,Johnson Bad Pass Turnover (P2.T19),,Smith STEAL (1 STL),,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,5,1630696,Dru Smith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200065,647,5,11,4,12:16 AM,0:06,,,Heat Turnover: Shot Clock (T#18),,,3,1610612748,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200065,648,13,0,4,12:17 AM,0:00,,End of 4th Period (12:17 AM EST),,119 - 98,-21,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

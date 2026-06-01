@@ -1,0 +1,516 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200278,2,12,0,1,8:11 PM,12:00,,Start of 1st Period (8:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200278,4,10,0,1,8:11 PM,12:00,Jump Ball Fernando vs. Okongwu: Tip to Smith Jr.,,,,,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,1
+0022200278,7,1,1,1,8:12 PM,11:47,Smith Jr. 3PT Jump Shot (3 PTS) (Porter Jr. 1 AST),,,0 - 3,3,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200278,68,2,1,1,8:12 PM,11:20,Smith Jr. BLOCK (1 BLK),,MISS Collins 3PT Jump Shot,,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,1
+0022200278,70,4,0,1,8:12 PM,11:20,,,Hawks Rebound,,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200278,12,5,11,1,8:12 PM,11:20,,,Hawks Turnover: Shot Clock (T#1),,,3,1610612737,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200278,13,1,98,1,8:13 PM,11:03,Martin Jr. 6' Cutting Layup Shot (2 PTS) (Green 1 AST),,,0 - 5,5,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200278,15,1,79,1,8:13 PM,10:53,,,Murray 11' Pullup Jump Shot (2 PTS),2 - 5,3,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,16,1,9,1,8:13 PM,10:44,Green 2' Driving Dunk (2 PTS),,,2 - 7,5,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,17,1,79,1,8:13 PM,10:30,,,Young 14' Pullup Jump Shot (2 PTS),4 - 7,3,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,19,6,2,1,8:13 PM,10:30,Green S.FOUL (P1.T1) (M.Ervin),,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200278,21,3,10,1,8:14 PM,10:30,,,Young Free Throw 1 of 1 (3 PTS),5 - 7,2,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,22,5,4,1,8:14 PM,10:08,Porter Jr. Traveling Turnover (P1.T1),,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,23,2,79,1,8:14 PM,9:58,,,MISS Young 15' Pullup Jump Shot,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,24,4,0,1,8:14 PM,9:57,Smith Jr. REBOUND (Off:0 Def:1),,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,25,2,6,1,8:15 PM,9:50,MISS Martin Jr. 6' Driving Layup,,Okongwu BLOCK (1 BLK),,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,1
+0022200278,27,4,0,1,8:15 PM,9:50,Martin Jr. REBOUND (Off:1 Def:0),,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,28,6,2,1,8:15 PM,9:41,,,Okongwu S.FOUL (P1.T1) (M.Ervin),,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200278,30,3,11,1,8:15 PM,9:41,MISS Fernando Free Throw 1 of 2,,,,,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,31,4,1,1,8:15 PM,9:41,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200278,32,3,12,1,8:15 PM,9:41,Fernando Free Throw 2 of 2 (1 PTS),,,5 - 8,3,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,33,5,4,1,8:16 PM,9:32,,,Hunter Traveling Turnover (P1.T2),,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0022200278,34,1,108,1,8:16 PM,9:21,Fernando 6' Cutting Dunk Shot (3 PTS) (Green 2 AST),,,5 - 10,5,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200278,36,2,102,1,8:16 PM,9:13,,,MISS Young 5' Driving Floating Bank Jump Shot,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,37,4,0,1,8:16 PM,9:12,Green REBOUND (Off:0 Def:1),,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,38,1,106,1,8:16 PM,9:07,Martin Jr. 3' Running Alley Oop Dunk Shot (4 PTS) (Green 3 AST),,,5 - 12,7,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200278,40,1,79,1,8:16 PM,8:54,,,Murray 17' Pullup Jump Shot (4 PTS) (Okongwu 1 AST),7 - 12,5,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200278,42,2,1,1,8:17 PM,8:33,MISS Smith Jr. 26' 3PT Jump Shot,,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,43,4,0,1,8:17 PM,8:32,,,Murray REBOUND (Off:0 Def:1),,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,44,2,80,1,8:17 PM,8:22,,,MISS Murray 26' 3PT Step Back Jump Shot,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,45,4,0,1,8:17 PM,8:21,Martin Jr. REBOUND (Off:1 Def:1),,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,46,6,1,1,8:17 PM,8:12,,,Collins P.FOUL (P1.T2) (E.Dalen),,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200278,48,5,1,1,8:17 PM,8:06,Green Bad Pass Turnover (P1.T2),,Collins STEAL (1 STL),,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200278,50,2,1,1,8:18 PM,8:00,,,MISS Hunter 26' 3PT Jump Shot,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,51,4,0,1,8:18 PM,7:57,Martin Jr. REBOUND (Off:1 Def:2),,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,52,5,1,1,8:18 PM,7:55,Martin Jr. Bad Pass Turnover (P1.T3),,Okongwu STEAL (1 STL),,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200278,54,2,41,1,8:18 PM,7:50,,,MISS Collins 4' Running Layup,,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,55,4,0,1,8:18 PM,7:49,Smith Jr. REBOUND (Off:0 Def:2),,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,56,1,106,1,8:18 PM,7:45,Porter Jr. 4' Running Alley Oop Dunk Shot (2 PTS) (Green 4 AST),,,7 - 14,7,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200278,58,2,1,1,8:18 PM,7:27,,,MISS Collins 25' 3PT Jump Shot,,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,59,4,0,1,8:18 PM,7:26,Fernando REBOUND (Off:0 Def:1),,,,,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,60,2,101,1,8:18 PM,7:17,MISS Porter Jr. 8' Driving Floating Jump Shot,,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,61,4,0,1,8:18 PM,7:16,Porter Jr. REBOUND (Off:1 Def:0),,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,62,6,2,1,8:18 PM,7:11,,,Hunter S.FOUL (P1.T3) (M.Ervin),,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200278,64,3,11,1,8:19 PM,7:11,Smith Jr. Free Throw 1 of 2 (4 PTS),,,7 - 15,8,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0022200278,65,8,0,1,8:19 PM,7:11,SUB: Garuba FOR Fernando,,,,,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200278,67,3,12,1,8:19 PM,7:11,Smith Jr. Free Throw 2 of 2 (5 PTS),,,7 - 16,9,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,71,1,1,1,8:20 PM,6:54,,,Hunter 23' Jump Shot (2 PTS) (Collins 1 AST),9 - 16,7,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200278,73,5,40,1,8:20 PM,6:41,Porter Jr. Out of Bounds Lost Ball Turnover (P2.T4),,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200278,74,9,1,1,8:20 PM,6:41,ROCKETS Timeout: Regular (Full 1 Short 0),,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200278,75,8,0,1,8:21 PM,6:41,,,SUB: A. Holiday FOR Young,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200278,77,5,1,1,8:23 PM,6:24,Smith Jr. STEAL (1 STL),,A. Holiday Bad Pass Turnover (P1.T3),,,5,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200278,79,2,79,1,8:23 PM,6:18,MISS Green 27' 3PT Pullup Jump Shot,,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,80,4,0,1,8:23 PM,6:17,,,Okongwu REBOUND (Off:0 Def:1),,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,81,2,79,1,8:24 PM,6:06,,,MISS Murray 16' Pullup Jump Shot,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,82,4,0,1,8:24 PM,6:05,Smith Jr. REBOUND (Off:0 Def:3),,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,83,1,79,1,8:24 PM,5:56,Smith Jr. 27' 3PT Pullup Jump Shot (8 PTS) (Porter Jr. 2 AST),,,9 - 19,10,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200278,85,6,1,1,8:24 PM,5:41,Martin Jr. P.FOUL (P1.T2) (E.Dalen),,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200278,87,8,0,1,8:24 PM,5:41,SUB: Nix FOR Smith Jr.,,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200278,88,8,0,1,8:24 PM,5:41,SUB: Eason FOR Porter Jr.,,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200278,91,2,5,1,8:24 PM,5:36,,,MISS Hunter 6' Layup,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,92,4,0,1,8:25 PM,5:34,Nix REBOUND (Off:0 Def:1),,,,,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,93,5,1,1,8:25 PM,5:18,Green Bad Pass Turnover (P2.T5),,Collins STEAL (2 STL),,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200278,95,6,2,1,8:25 PM,5:15,Eason S.FOUL (P1.T3) (N.Green),,,,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200278,97,3,11,1,8:25 PM,5:15,,,Collins Free Throw 1 of 2 (1 PTS),10 - 19,9,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,98,3,12,1,8:26 PM,5:15,,,Collins Free Throw 2 of 2 (2 PTS),11 - 19,8,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,100,8,0,1,8:26 PM,4:59,,,SUB: Young FOR Murray,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200278,101,8,0,1,8:26 PM,4:59,,,SUB: Griffin FOR Okongwu,,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,5,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200278,104,6,2,1,8:27 PM,4:53,,,A. Holiday S.FOUL (P1.T4) (N.Green),,,5,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200278,106,3,11,1,8:27 PM,4:53,Garuba Free Throw 1 of 2 (1 PTS),,,11 - 20,9,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,107,3,12,1,8:27 PM,4:53,Garuba Free Throw 2 of 2 (2 PTS),,,11 - 21,10,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,108,2,80,1,8:27 PM,4:37,,,MISS Young 27' 3PT Step Back Jump Shot,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,109,4,0,1,8:28 PM,4:36,Nix REBOUND (Off:0 Def:2),,,,,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,110,5,2,1,8:28 PM,4:33,Nix Lost Ball Turnover (P1.T6),,Griffin STEAL (1 STL),,,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,5,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200278,112,1,1,1,8:28 PM,4:29,,,Griffin 25' 3PT Jump Shot (3 PTS) (Young 1 AST),14 - 21,7,5,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200278,114,1,99,1,8:28 PM,4:18,Martin Jr. 6' Cutting Finger Roll Layup Shot (6 PTS) (Nix 1 AST),,,14 - 23,9,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200278,116,6,1,1,8:28 PM,4:06,Nix P.FOUL (P1.T4) (M.Ervin),,,,,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200278,118,1,1,1,8:28 PM,3:54,,,Griffin 3PT Jump Shot (6 PTS) (Young 2 AST),17 - 23,6,5,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200278,120,2,79,1,8:29 PM,3:44,MISS Nix 28' 3PT Pullup Jump Shot,,,,,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,121,4,0,1,8:29 PM,3:42,,,Collins REBOUND (Off:0 Def:1),,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,122,1,80,1,8:29 PM,3:33,,,Griffin 25' 3PT Step Back Jump Shot (9 PTS) (A. Holiday 1 AST),20 - 23,3,5,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,5,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200278,124,1,1,1,8:29 PM,3:21,Green 27' 3PT Jump Shot (5 PTS) (Garuba 1 AST),,,20 - 26,6,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200278,126,1,75,1,8:29 PM,3:08,,,Young 4' Driving Finger Roll Layup (5 PTS),22 - 26,4,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,127,1,108,1,8:29 PM,2:56,Martin Jr. 3' Cutting Dunk Shot (8 PTS) (Nix 2 AST),,,22 - 28,6,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200278,129,9,1,1,8:30 PM,2:56,,,Hawks Timeout: Regular (Reg.1 Short 0),,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200278,130,8,0,1,8:31 PM,2:56,,,SUB: Kaminsky FOR Hunter,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,1626163,Frank Kaminsky,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200278,131,8,0,1,8:31 PM,2:56,,,SUB: Johnson FOR Collins,,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200278,134,1,79,1,8:33 PM,2:48,,,Young 30' 3PT Pullup Jump Shot (8 PTS),25 - 28,3,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,135,2,6,1,8:33 PM,2:33,MISS Nix 9' Driving Layup,,,,,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,136,4,0,1,8:33 PM,2:32,Garuba REBOUND (Off:1 Def:0),,,,,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,137,1,6,1,8:33 PM,2:24,Green 3' Driving Layup (7 PTS),,,25 - 30,5,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,139,2,6,1,8:33 PM,2:07,Garuba BLOCK (1 BLK),,MISS Young 5' Driving Layup,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,1
+0022200278,141,4,0,1,8:33 PM,2:06,Nix REBOUND (Off:0 Def:3),,,,,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,142,2,6,1,8:33 PM,1:59,MISS Eason 7' Driving Layup,,Johnson BLOCK (1 BLK),,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,1
+0022200278,143,4,0,1,8:33 PM,1:59,Eason REBOUND (Off:1 Def:0),,,,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,172,2,97,1,8:34 PM,1:58,MISS Eason 1' Tip Layup Shot,,,,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,173,4,0,1,8:34 PM,1:58,Garuba REBOUND (Off:2 Def:0),,,,,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,144,1,44,1,8:34 PM,1:54,Martin Jr. 2' Reverse Layup (10 PTS) (Garuba 2 AST),,,25 - 32,7,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200278,146,1,98,1,8:34 PM,1:40,,,Kaminsky 6' Cutting Layup Shot (2 PTS) (Johnson 1 AST),27 - 32,5,5,1626163,Frank Kaminsky,1610612737.0,Atlanta,Hawks,ATL,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200278,148,5,45,1,8:34 PM,1:25,Martin Jr. Out of Bounds - Bad Pass Turnover Turnover (P2.T7),,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200278,149,8,0,1,8:34 PM,1:25,SUB: Christopher FOR Green,,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200278,150,8,0,1,8:34 PM,1:25,SUB: Porter Jr. FOR Nix,,,,,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200278,156,8,0,1,8:34 PM,1:25,SUB: Smith Jr. FOR Martin Jr.,,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200278,154,6,2,1,8:35 PM,1:18,Garuba S.FOUL (P1.PN) (E.Dalen),,,,,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0022200278,158,3,11,1,8:35 PM,1:18,,,Young Free Throw 1 of 2 (9 PTS),28 - 32,4,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,159,3,12,1,8:35 PM,1:18,,,Young Free Throw 2 of 2 (10 PTS),29 - 32,3,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,160,1,63,1,8:36 PM,1:04,Porter Jr. 9' Fadeaway Jumper (4 PTS),,,29 - 34,5,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,161,6,2,1,8:36 PM,1:04,,,A. Holiday S.FOUL (P2.PN) (M.Ervin),,,5,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200278,163,3,10,1,8:36 PM,1:04,Porter Jr. Free Throw 1 of 1 (5 PTS),,,29 - 35,6,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,164,1,75,1,8:36 PM,0:58,,,Young 4' Driving Finger Roll Layup (12 PTS),31 - 35,4,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,166,2,80,1,8:37 PM,0:36,MISS Porter Jr. 27' 3PT Step Back Jump Shot,,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,167,4,0,1,8:37 PM,0:34,Garuba REBOUND (Off:3 Def:0),,,,,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,168,6,1,1,8:37 PM,0:33,,,Young P.FOUL (P1.PN) (E.Dalen),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200278,170,3,11,1,8:37 PM,0:33,Garuba Free Throw 1 of 2 (3 PTS),,,31 - 36,5,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,171,3,12,1,8:38 PM,0:33,Garuba Free Throw 2 of 2 (4 PTS),,,31 - 37,6,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,174,1,6,1,8:38 PM,0:26,,,A. Holiday 3' Driving Layup (2 PTS),33 - 37,4,5,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,176,6,2,1,8:38 PM,0:07,,,Kaminsky S.FOUL (P1.PN) (M.Ervin),,,5,1626163,Frank Kaminsky,1610612737.0,Atlanta,Hawks,ATL,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200278,178,3,11,1,8:39 PM,0:07,MISS Garuba Free Throw 1 of 2,,,,,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,179,4,1,1,8:39 PM,0:07,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200278,180,3,12,1,8:39 PM,0:07,Garuba Free Throw 2 of 2 (5 PTS),,,33 - 38,5,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,181,2,79,1,8:39 PM,0:01,,,MISS Young 31' 3PT Pullup Jump Shot,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,182,4,0,1,8:39 PM,0:00,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200278,184,13,0,1,8:39 PM,0:00,,End of 1st Period (8:39 PM EST),,33 - 38,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200278,192,12,0,2,8:42 PM,12:00,,Start of 2nd Period (8:42 PM EST),,33 - 38,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200278,193,5,1,2,8:42 PM,11:50,Porter Jr. STEAL (1 STL),,Murray Bad Pass Turnover (P1.T4),,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200278,195,1,50,2,8:42 PM,11:47,Porter Jr. 2' Running Dunk (7 PTS),,,33 - 40,7,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,196,2,1,2,8:43 PM,11:29,,,MISS A. Holiday 25' 3PT Jump Shot,,,5,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,197,4,0,2,8:43 PM,11:28,Christopher REBOUND (Off:0 Def:1),,,,,4,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,198,2,79,2,8:43 PM,11:23,MISS Smith Jr. 8' Pullup Jump Shot,,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,199,4,0,2,8:43 PM,11:22,Fernando REBOUND (Off:1 Def:1),,,,,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,201,5,1,2,8:43 PM,11:09,Christopher Bad Pass Turnover (P1.T8),,Griffin STEAL (2 STL),,,4,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,5,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200278,203,1,108,2,8:43 PM,11:04,,,Johnson 4' Cutting Dunk Shot (2 PTS) (Griffin 1 AST),35 - 40,5,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,5,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200278,205,2,5,2,8:44 PM,10:38,MISS Porter Jr. 6' Layup,,Johnson BLOCK (2 BLK),,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,1
+0022200278,207,4,0,2,8:44 PM,10:38,Porter Jr. REBOUND (Off:2 Def:0),,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,208,5,11,2,8:44 PM,10:38,ROCKETS Turnover: Shot Clock (T#9),,,,,2,1610612745,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200278,209,8,0,2,8:44 PM,10:38,,,SUB: Okongwu FOR Kaminsky,,,5,1626163,Frank Kaminsky,1610612737.0,Atlanta,Hawks,ATL,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200278,211,1,6,2,8:44 PM,10:29,,,Murray 5' Driving Layup (6 PTS),37 - 40,3,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,212,1,1,2,8:44 PM,10:22,Mathews 3PT Jump Shot (3 PTS) (Porter Jr. 3 AST),,,37 - 43,6,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200278,214,1,6,2,8:44 PM,10:06,,,Murray 6' Driving Layup (8 PTS),39 - 43,4,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,215,6,2,2,8:44 PM,10:06,Christopher S.FOUL (P1.T1) (M.Ervin),,,,,4,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200278,217,3,10,2,8:45 PM,10:06,,,Murray Free Throw 1 of 1 (9 PTS),40 - 43,3,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0022200278,219,2,1,2,8:45 PM,9:53,MISS Smith Jr. 26' 3PT Jump Shot,,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,220,4,0,2,8:45 PM,9:52,,,A. Holiday REBOUND (Off:0 Def:1),,,5,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,221,1,79,2,8:45 PM,9:39,,,Murray 26' 3PT Pullup Jump Shot (12 PTS),43 - 43,TIE,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,222,6,2,2,8:45 PM,9:27,,,A. Holiday S.FOUL (P3.T1) (N.Green),,,5,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200278,224,3,13,2,8:46 PM,9:27,Mathews Free Throw 1 of 3 (4 PTS),,,43 - 44,1,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,225,3,14,2,8:46 PM,9:27,Mathews Free Throw 2 of 3 (5 PTS),,,43 - 45,2,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,228,3,15,2,8:46 PM,9:27,Mathews Free Throw 3 of 3 (6 PTS),,,43 - 46,3,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,226,8,0,2,8:46 PM,9:27,,,SUB: Hunter FOR A. Holiday,,,5,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200278,229,6,1,2,8:47 PM,9:18,Mathews P.FOUL (P1.T2) (M.Ervin),,,,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200278,231,6,2,2,8:47 PM,9:14,Fernando S.FOUL (P1.T3) (E.Dalen),,,,,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200278,233,3,11,2,8:47 PM,9:14,,,Okongwu Free Throw 1 of 2 (1 PTS),44 - 46,2,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,234,3,12,2,8:48 PM,9:14,,,Okongwu Free Throw 2 of 2 (2 PTS),45 - 46,1,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,235,2,101,2,8:48 PM,9:00,MISS Porter Jr. 11' Driving Floating Jump Shot,,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,236,4,0,2,8:48 PM,9:00,,,Johnson REBOUND (Off:0 Def:1),,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,239,1,1,2,8:49 PM,8:41,,,Murray 25' 3PT Jump Shot (15 PTS) (Okongwu 2 AST),48 - 46,-2,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200278,241,2,101,2,8:49 PM,8:16,MISS Porter Jr. 12' Driving Floating Jump Shot,,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,242,4,0,2,8:49 PM,8:15,,,Murray REBOUND (Off:0 Def:2),,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,243,1,79,2,8:49 PM,8:07,,,Murray 26' 3PT Pullup Jump Shot (18 PTS),51 - 46,-5,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,244,9,1,2,8:49 PM,8:06,ROCKETS Timeout: Regular (Full 2 Short 0),,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200278,245,8,0,2,8:52 PM,8:06,SUB: Green FOR Porter Jr.,,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200278,246,8,0,2,8:52 PM,8:06,SUB: Nix FOR Christopher,,,,,4,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200278,250,2,63,2,8:53 PM,7:42,MISS Smith Jr. 21' Fadeaway Jumper,,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,251,4,0,2,8:53 PM,7:42,Fernando REBOUND (Off:2 Def:1),,,,,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,252,1,87,2,8:53 PM,7:39,Fernando Putback Dunk (5 PTS),,,51 - 48,-3,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,253,2,79,2,8:53 PM,7:22,,,MISS Griffin 18' Pullup Jump Shot,,,5,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,254,4,0,2,8:53 PM,7:21,Green REBOUND (Off:0 Def:2),,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,255,6,2,2,8:54 PM,7:11,,,Johnson S.FOUL (P1.T2) (M.Ervin),,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200278,257,3,11,2,8:54 PM,7:11,Green Free Throw 1 of 2 (8 PTS),,,51 - 49,-2,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,262,3,12,2,8:54 PM,7:11,MISS Green Free Throw 2 of 2,,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,263,4,0,2,8:54 PM,7:11,,,Okongwu REBOUND (Off:0 Def:2),,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,258,8,0,2,8:54 PM,7:11,,,SUB: Collins FOR Johnson,,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200278,259,8,0,2,8:54 PM,7:11,,,SUB: Young FOR Griffin,,,5,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200278,267,8,0,2,8:55 PM,6:56,SUB: Eason FOR Smith Jr.,,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200278,269,9,1,2,8:55 PM,6:56,ROCKETS Timeout: Regular (Full 3 Short 0),,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200278,270,18,5,2,8:55 PM,6:56,,Instant Replay2nd Period (8:55 PM EST),,51 - 49,-2,0,265,Harvey Grant,,,,,0,0,,,,,,1,0,,,,,,1
+0022200278,271,6,4,2,8:58 PM,6:56,,,Young OFF.Foul (P2) (M.Ervin),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200278,273,5,37,2,8:58 PM,6:56,,,Young Offensive Foul Turnover (P1.T5),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0022200278,274,2,1,2,8:58 PM,6:44,MISS Mathews 25' 3PT Jump Shot,,,,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,275,4,0,2,8:58 PM,6:43,,,Hunter REBOUND (Off:0 Def:1),,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,276,1,75,2,8:59 PM,6:28,,,Murray 6' Driving Finger Roll Layup (20 PTS),53 - 49,-4,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,277,2,1,2,8:59 PM,6:13,MISS Mathews 27' 3PT Jump Shot,,,,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,278,4,0,2,8:59 PM,6:12,,,Murray REBOUND (Off:0 Def:3),,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,279,1,80,2,8:59 PM,6:03,,,Young 30' 3PT Step Back Jump Shot (15 PTS),56 - 49,-7,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,280,2,80,2,8:59 PM,5:38,MISS Green 28' 3PT Step Back Jump Shot,,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,281,4,0,2,8:59 PM,5:38,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200278,282,6,3,2,9:00 PM,5:38,,,Hunter L.B.FOUL (P2.T3) (N.Green),,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200278,284,8,0,2,9:00 PM,5:38,SUB: Garuba FOR Fernando,,,,,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200278,285,8,0,2,9:00 PM,5:38,SUB: Martin Jr. FOR Mathews,,,,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200278,288,1,80,2,9:00 PM,5:23,Green 26' 3PT Step Back Jump Shot (11 PTS),,,56 - 52,-4,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,289,2,79,2,9:00 PM,5:14,,,MISS Young 28' 3PT Pullup Jump Shot,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,290,4,0,2,9:00 PM,5:13,Eason REBOUND (Off:1 Def:1),,,,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,291,1,101,2,9:01 PM,5:00,Green 5' Driving Floating Jump Shot (13 PTS),,,56 - 54,-2,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,292,1,101,2,9:01 PM,4:53,,,Young 6' Driving Floating Jump Shot (17 PTS),58 - 54,-4,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,293,1,63,2,9:01 PM,4:43,Green 19' Fadeaway Jumper (15 PTS),,,58 - 56,-2,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,294,6,1,2,9:01 PM,4:29,Green P.FOUL (P2.T4) (E.Dalen),,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200278,296,8,0,2,9:01 PM,4:29,SUB: Porter Jr. FOR Nix,,,,,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200278,298,6,1,2,9:02 PM,4:27,Eason P.FOUL (P2.PN) (M.Ervin),,,,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200278,300,3,11,2,9:02 PM,4:27,,,Collins Free Throw 1 of 2 (3 PTS),59 - 56,-3,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,301,3,12,2,9:02 PM,4:27,,,Collins Free Throw 2 of 2 (4 PTS),60 - 56,-4,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,302,2,1,2,9:03 PM,4:13,MISS Eason 3PT Jump Shot,,,,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,303,4,0,2,9:03 PM,4:12,,,Okongwu REBOUND (Off:0 Def:3),,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,304,1,1,2,9:03 PM,4:02,,,Murray 3PT Jump Shot (23 PTS) (Young 3 AST),63 - 56,-7,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200278,306,5,1,2,9:03 PM,3:48,Porter Jr. Bad Pass Turnover (P3.T10),,Okongwu STEAL (2 STL),,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200278,308,2,1,2,9:03 PM,3:41,,,MISS Hunter 3PT Jump Shot,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,309,4,0,2,9:03 PM,3:38,Green REBOUND (Off:0 Def:3),,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,310,1,108,2,9:03 PM,3:33,Eason 3' Cutting Dunk Shot (2 PTS) (Garuba 3 AST),,,63 - 58,-5,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200278,312,2,1,2,9:04 PM,3:07,,,MISS Murray 26' 3PT Jump Shot,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,313,4,0,2,9:04 PM,3:06,,,Okongwu REBOUND (Off:1 Def:3),,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,319,5,1,2,9:04 PM,3:05,Martin Jr. STEAL (1 STL),,Okongwu Bad Pass Turnover (P1.T6),,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200278,329,5,2,2,9:04 PM,3:05,Martin Jr. Lost Ball Turnover (P3.T11),,Murray STEAL (1 STL),,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200278,314,1,71,2,9:04 PM,2:57,,,Young 12' Finger Roll Layup (19 PTS),65 - 58,-7,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,315,2,75,2,9:04 PM,2:46,MISS Eason 6' Driving Finger Roll Layup,,,,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,316,4,0,2,9:04 PM,2:45,Martin Jr. REBOUND (Off:2 Def:2),,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,317,1,87,2,9:04 PM,2:43,Martin Jr. Putback Dunk (12 PTS),,,65 - 60,-5,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,318,9,1,2,9:04 PM,2:43,,,Hawks Timeout: Regular (Reg.2 Short 0),,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200278,321,8,0,2,9:05 PM,2:43,SUB: Smith Jr. FOR Eason,,,,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200278,322,8,0,2,9:05 PM,2:43,,,SUB: Griffin FOR Murray,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,5,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200278,325,7,1,2,9:06 PM,2:43,,,Hawks Violation: Delay of game Violation,,,3,1610612737,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200278,326,6,2,2,9:06 PM,2:27,Garuba S.FOUL (P2.PN) (N.Green),,,,,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,5,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200278,328,3,11,2,9:07 PM,2:27,,,Griffin Free Throw 1 of 2 (10 PTS),66 - 60,-6,5,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,331,3,12,2,9:07 PM,2:27,,,Griffin Free Throw 2 of 2 (11 PTS),67 - 60,-7,5,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,332,1,1,2,9:07 PM,2:14,Martin Jr. 26' 3PT Jump Shot (15 PTS) (Smith Jr. 1 AST),,,67 - 63,-4,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200278,334,5,4,2,9:07 PM,2:08,,,Griffin Traveling Turnover (P1.T7),,,5,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0022200278,335,2,1,2,9:07 PM,2:03,MISS Green 28' 3PT Jump Shot,,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,336,4,0,2,9:07 PM,2:02,Garuba REBOUND (Off:4 Def:0),,,,,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,337,2,1,2,9:08 PM,1:55,MISS Porter Jr. 28' 3PT Jump Shot,,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,338,4,0,2,9:08 PM,1:54,,,Collins REBOUND (Off:0 Def:2),,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,339,6,2,2,9:08 PM,1:47,Garuba S.FOUL (P3.PN) (E.Dalen),,,,,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200278,341,3,11,2,9:08 PM,1:47,,,Young Free Throw 1 of 2 (20 PTS),68 - 63,-5,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,342,3,12,2,9:08 PM,1:47,,,Young Free Throw 2 of 2 (21 PTS),69 - 63,-6,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,343,6,2,2,9:09 PM,1:25,,,Hunter S.FOUL (P3.T4) (M.Ervin),,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200278,345,3,11,2,9:09 PM,1:25,Green Free Throw 1 of 2 (16 PTS),,,69 - 64,-5,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,346,8,0,2,9:09 PM,1:25,,,SUB: J. Holiday FOR Hunter,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,203200,Justin Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200278,348,3,12,2,9:10 PM,1:25,Green Free Throw 2 of 2 (17 PTS),,,69 - 65,-4,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,349,1,79,2,9:10 PM,1:18,,,Young 30' 3PT Pullup Jump Shot (24 PTS),72 - 65,-7,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,350,1,102,2,9:10 PM,1:07,Porter Jr. 8' Driving Floating Bank Jump Shot (9 PTS),,,72 - 67,-5,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,351,2,79,2,9:10 PM,0:56,,,MISS Young 16' Pullup Jump Shot,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,352,4,0,2,9:10 PM,0:55,Green REBOUND (Off:0 Def:4),,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,353,2,79,2,9:10 PM,0:45,MISS Green 27' 3PT Pullup Jump Shot,,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,354,4,0,2,9:10 PM,0:44,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200278,355,6,3,2,9:11 PM,0:44,,,Okongwu L.B.FOUL (P2.PN) (N.Green),,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200278,357,3,11,2,9:11 PM,0:44,Garuba Free Throw 1 of 2 (6 PTS),,,72 - 68,-4,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,358,3,12,2,9:11 PM,0:44,Garuba Free Throw 2 of 2 (7 PTS),,,72 - 69,-3,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,359,2,79,2,9:11 PM,0:29,,,MISS Young 31' 3PT Pullup Jump Shot,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,360,4,0,2,9:11 PM,0:28,Smith Jr. REBOUND (Off:0 Def:4),,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,361,2,80,2,9:12 PM,0:07,MISS Porter Jr. 26' 3PT Step Back Jump Shot,,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,362,4,0,2,9:12 PM,0:04,Martin Jr. REBOUND (Off:3 Def:2),,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,363,2,5,2,9:12 PM,0:03,MISS Martin Jr. 4' Layup,,Collins BLOCK (1 BLK),,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,1
+0022200278,365,4,0,2,9:12 PM,0:03,,,Hawks Rebound,,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200278,367,13,0,2,9:12 PM,0:00,,End of 2nd Period (9:12 PM EST),,72 - 69,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200278,374,12,0,3,9:28 PM,12:00,,Start of 3rd Period (9:28 PM EST),,72 - 69,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200278,375,1,1,3,9:28 PM,11:47,,,Murray 26' 3PT Jump Shot (26 PTS) (Young 4 AST),75 - 69,-6,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200278,377,2,9,3,9:28 PM,11:26,MISS Fernando 4' Driving Dunk,,Collins BLOCK (2 BLK),,,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,1
+0022200278,379,4,0,3,9:28 PM,11:24,,,Okongwu REBOUND (Off:1 Def:4),,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,380,5,45,3,9:28 PM,11:22,,,Young Out of Bounds - Bad Pass Turnover Turnover (P2.T8),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0022200278,381,2,1,3,9:29 PM,11:08,MISS Green 26' 3PT Jump Shot,,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,382,4,0,3,9:29 PM,11:06,,,Hunter REBOUND (Off:0 Def:2),,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,383,2,1,3,9:29 PM,10:52,,,MISS Collins 27' 3PT Jump Shot,,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,384,4,0,3,9:29 PM,10:51,,,Hawks Rebound,,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200278,385,6,3,3,9:29 PM,10:51,Fernando L.B.FOUL (P2.T1) (N.Green),,,,,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200278,387,2,79,3,9:29 PM,10:40,,,MISS Murray 17' Pullup Jump Shot,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,388,4,0,3,9:29 PM,10:40,Martin Jr. REBOUND (Off:3 Def:3),,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,389,2,6,3,9:30 PM,10:24,MISS Smith Jr. 5' Driving Layup,,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,390,4,0,3,9:30 PM,10:23,,,Collins REBOUND (Off:0 Def:3),,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,391,2,1,3,9:30 PM,10:14,,,MISS Hunter 3PT Jump Shot,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,392,4,0,3,9:30 PM,10:12,,,Okongwu REBOUND (Off:2 Def:4),,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,393,2,1,3,9:30 PM,10:07,,,MISS Murray 27' 3PT Jump Shot,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,394,4,0,3,9:30 PM,10:06,Martin Jr. REBOUND (Off:3 Def:4),,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,395,6,4,3,9:30 PM,10:00,Fernando OFF.Foul (P3) (E.Dalen),,,,,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200278,397,5,37,3,9:30 PM,10:00,Fernando Offensive Foul Turnover (P1.T12),,,,,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200278,398,1,79,3,9:31 PM,9:51,,,Hunter 16' Pullup Jump Shot (4 PTS),77 - 69,-8,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,399,5,40,3,9:31 PM,9:32,Green Out of Bounds Lost Ball Turnover (P3.T13),,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200278,400,1,79,3,9:31 PM,9:26,,,Young 18' Pullup Jump Shot (26 PTS),79 - 69,-10,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,401,9,1,3,9:31 PM,9:25,ROCKETS Timeout: Regular (Full 4 Short 0),,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200278,402,5,40,3,9:34 PM,9:05,Porter Jr. Out of Bounds Lost Ball Turnover (P4.T14),,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200278,403,2,79,3,9:35 PM,8:52,,,MISS Hunter 11' Pullup Jump Shot,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,404,4,0,3,9:35 PM,8:51,Martin Jr. REBOUND (Off:3 Def:5),,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,405,6,4,3,9:35 PM,8:41,Green OFF.Foul (P3) (M.Ervin),,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200278,407,5,37,3,9:35 PM,8:41,Green Offensive Foul Turnover (P4.T15),,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200278,408,1,86,3,9:36 PM,8:29,,,Hunter 10' Turnaround Fadeaway (6 PTS),81 - 69,-12,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,409,2,5,3,9:36 PM,8:17,MISS Fernando 5' Layup,,Okongwu BLOCK (2 BLK),,,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,1
+0022200278,411,4,0,3,9:36 PM,8:17,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200278,413,6,2,3,9:36 PM,8:16,,,Young S.FOUL (P3.T1) (E.Dalen),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200278,415,3,13,3,9:36 PM,8:16,Green Free Throw 1 of 3 (18 PTS),,,81 - 70,-11,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,416,3,14,3,9:37 PM,8:16,Green Free Throw 2 of 3 (19 PTS),,,81 - 71,-10,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,417,3,15,3,9:37 PM,8:16,Green Free Throw 3 of 3 (20 PTS),,,81 - 72,-9,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,418,1,80,3,9:37 PM,8:04,,,Murray 27' 3PT Step Back Jump Shot (29 PTS),84 - 72,-12,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,419,5,39,3,9:37 PM,7:46,Martin Jr. Step Out of Bounds Turnover (P4.T16),,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200278,420,2,63,3,9:38 PM,7:37,Fernando BLOCK (1 BLK),,MISS Young 18' Fadeaway Jumper,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,1
+0022200278,421,4,0,3,9:38 PM,7:36,Martin Jr. REBOUND (Off:3 Def:6),,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,422,1,106,3,9:38 PM,7:32,Fernando Running Alley Oop Dunk Shot (7 PTS) (Porter Jr. 4 AST),,,84 - 74,-10,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200278,424,1,79,3,9:38 PM,7:12,,,Murray 27' 3PT Pullup Jump Shot (32 PTS),87 - 74,-13,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,425,5,1,3,9:39 PM,6:58,Green Bad Pass Turnover (P5.T17),,Murray STEAL (2 STL),,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200278,427,1,1,3,9:39 PM,6:53,,,Young 26' 3PT Jump Shot (29 PTS) (Murray 1 AST),90 - 74,-16,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200278,429,6,2,3,9:39 PM,6:35,,,Okongwu S.FOUL (P3.T2) (M.Ervin),,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200278,432,18,2,3,9:40 PM,6:35,,Instant Replay3rd Period (9:40 PM EST),,90 - 74,-16,0,429,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200278,433,6,16,3,9:43 PM,6:35,,"Double Technical - Smith Jr., Murray (M.Ervin)",,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0022200278,435,6,16,3,9:43 PM,6:35,,"Double Technical - Green, Young (M.Ervin)",,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0022200278,502,8,0,3,9:43 PM,6:35,SUB: Garuba FOR Fernando,,,,,4,1628981,Bruno Fernando,1610612745.0,Houston,Rockets,HOU,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200278,437,3,11,3,9:44 PM,6:35,Green Free Throw 1 of 2 (21 PTS),,,90 - 75,-15,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,438,3,12,3,9:44 PM,6:35,MISS Green Free Throw 2 of 2,,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,439,4,0,3,9:44 PM,6:35,,,Hunter REBOUND (Off:0 Def:3),,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,440,2,79,3,9:44 PM,6:15,,,MISS Murray 16' Pullup Jump Shot,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,441,4,0,3,9:44 PM,6:14,Martin Jr. REBOUND (Off:3 Def:7),,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,442,2,76,3,9:44 PM,6:09,MISS Martin Jr. 7' Running Finger Roll Layup,,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,444,4,0,3,9:44 PM,6:08,Smith Jr. REBOUND (Off:1 Def:4),,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,445,6,2,3,9:44 PM,6:07,,,Okongwu S.FOUL (P4.T3) (E.Dalen),,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200278,447,3,11,3,9:45 PM,6:07,Smith Jr. Free Throw 1 of 2 (9 PTS),,,90 - 76,-14,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,448,8,0,3,9:45 PM,6:07,,,SUB: Griffin FOR Okongwu,,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,5,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200278,450,3,12,3,9:45 PM,6:07,Smith Jr. Free Throw 2 of 2 (10 PTS),,,90 - 77,-13,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,451,6,1,3,9:46 PM,5:53,Green P.FOUL (P4.T2) (E.Dalen),,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200278,453,1,98,3,9:46 PM,5:48,,,Collins 4' Cutting Layup Shot (6 PTS) (Murray 2 AST),92 - 77,-15,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200278,455,1,52,3,9:46 PM,5:34,Martin Jr. 1' Alley Oop Dunk (17 PTS) (Porter Jr. 5 AST),,,92 - 79,-13,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200278,457,2,1,3,9:47 PM,5:19,,,MISS Murray 3PT Jump Shot,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,458,4,0,3,9:47 PM,5:18,Martin Jr. REBOUND (Off:3 Def:8),,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,459,1,1,3,9:47 PM,5:03,Smith Jr. 25' 3PT Jump Shot (13 PTS) (Martin Jr. 1 AST),,,92 - 82,-10,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200278,461,2,1,3,9:47 PM,4:48,,,MISS Hunter 25' 3PT Jump Shot,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,462,4,0,3,9:47 PM,4:47,Green REBOUND (Off:0 Def:5),,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,463,5,2,3,9:47 PM,4:39,Green Lost Ball Turnover (P6.T18),,Young STEAL (1 STL),,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200278,465,6,31,3,9:48 PM,4:39,Green Transition Take Foul (P5.T3) (N.Green),,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200278,467,3,10,3,9:48 PM,4:39,,,Young Free Throw 1 of 1 (30 PTS),93 - 82,-11,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,468,8,0,3,9:48 PM,4:39,SUB: Mathews FOR Green,,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200278,469,8,0,3,9:48 PM,4:39,,,SUB: A. Holiday FOR Murray,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,5,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200278,472,2,1,3,9:49 PM,4:30,,,MISS Young 32' 3PT Jump Shot,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,473,4,0,3,9:49 PM,4:29,Mathews REBOUND (Off:0 Def:1),,,,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,475,6,4,3,9:49 PM,4:14,Martin Jr. OFF.Foul (P2) (E.Dalen),,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200278,477,5,37,3,9:49 PM,4:14,Martin Jr. Offensive Foul Turnover (P5.T19),,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200278,479,6,11,3,9:49 PM,4:14,,Stephen Silas Foul:T.FOUL (E.Dalen),,,,6,2152,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200278,480,3,16,3,9:50 PM,4:14,,,Young Free Throw Technical (31 PTS),94 - 82,-12,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,481,1,6,3,9:50 PM,4:04,,,Collins 3' Driving Layup (8 PTS) (Young 5 AST),96 - 82,-14,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200278,483,6,2,3,9:50 PM,4:04,Smith Jr. S.FOUL (P1.T4) (M.Ervin),,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200278,485,8,0,3,9:50 PM,4:04,SUB: Eason FOR Smith Jr.,,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200278,487,3,10,3,9:51 PM,4:04,,,MISS Collins Free Throw 1 of 1,,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,488,4,0,3,9:51 PM,4:04,,,Hunter REBOUND (Off:1 Def:3),,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,489,2,97,3,9:51 PM,3:58,,,MISS Hunter Tip Layup Shot,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,490,4,0,3,9:51 PM,3:58,Mathews REBOUND (Off:0 Def:2),,,,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,491,2,1,3,9:51 PM,3:45,MISS Garuba 3PT Jump Shot,,,,,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,492,4,0,3,9:51 PM,3:44,,,Griffin REBOUND (Off:0 Def:1),,,5,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,493,5,2,3,9:51 PM,3:38,Garuba STEAL (1 STL),,Young Lost Ball Turnover (P3.T9),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200278,495,2,5,3,9:51 PM,3:31,MISS Eason 4' Layup,,,,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,496,4,0,3,9:51 PM,3:30,Eason REBOUND (Off:2 Def:1),,,,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,497,2,72,3,9:51 PM,3:28,MISS Eason 1' Putback Layup,,,,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,498,4,0,3,9:51 PM,3:27,Garuba REBOUND (Off:5 Def:0),,,,,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,499,1,7,3,9:51 PM,3:24,Martin Jr. Dunk (19 PTS) (Mathews 1 AST),,,96 - 84,-12,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200278,501,9,1,3,9:51 PM,3:24,,,Hawks Timeout: Regular (Reg.3 Short 0),,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200278,508,2,6,3,9:55 PM,2:59,Garuba BLOCK (2 BLK),,MISS Young 5' Driving Layup,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,1
+0022200278,510,4,0,3,9:55 PM,2:58,Porter Jr. REBOUND (Off:2 Def:1),,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,511,5,45,3,9:55 PM,2:50,Mathews Out of Bounds - Bad Pass Turnover Turnover (P1.T20),,,,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200278,512,6,2,3,9:55 PM,2:36,Garuba S.FOUL (P4.PN) (N.Green),,,,,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200278,514,3,11,3,9:56 PM,2:36,,,Hunter Free Throw 1 of 2 (7 PTS),97 - 84,-13,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0022200278,515,8,0,3,9:56 PM,2:36,SUB: Smith Jr. FOR Martin Jr.,,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200278,516,8,0,3,9:56 PM,2:36,,,SUB: Kaminsky FOR Collins,,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,1626163,Frank Kaminsky,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200278,519,3,12,3,9:56 PM,2:36,,,Hunter Free Throw 2 of 2 (8 PTS),98 - 84,-14,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,520,1,1,3,9:56 PM,2:24,Mathews 27' 3PT Jump Shot (9 PTS) (Porter Jr. 6 AST),,,98 - 87,-11,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200278,522,2,1,3,9:56 PM,2:09,,,MISS Hunter 24' 3PT Jump Shot,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,523,4,0,3,9:56 PM,2:08,Eason REBOUND (Off:2 Def:2),,,,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,524,1,98,3,9:57 PM,1:58,Garuba 4' Cutting Layup Shot (9 PTS) (Porter Jr. 7 AST),,,98 - 89,-9,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200278,526,2,79,3,9:57 PM,1:33,,,MISS Young 16' Pullup Jump Shot,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,527,4,0,3,9:57 PM,1:31,Porter Jr. REBOUND (Off:2 Def:2),,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,528,2,1,3,9:57 PM,1:18,MISS Smith Jr. 3PT Jump Shot,,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,529,4,0,3,9:57 PM,1:16,,,Hunter REBOUND (Off:1 Def:4),,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,530,1,75,3,9:57 PM,1:08,,,Young 4' Driving Finger Roll Layup (33 PTS),100 - 89,-11,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,531,2,76,3,9:57 PM,1:02,MISS Eason 4' Running Finger Roll Layup,,,,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,532,4,0,3,9:57 PM,1:01,Eason REBOUND (Off:3 Def:2),,,,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,533,6,2,3,9:58 PM,1:01,,,Griffin S.FOUL (P1.T4) (N.Green),,,5,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200278,535,3,11,3,9:58 PM,1:01,Eason Free Throw 1 of 2 (3 PTS),,,100 - 90,-10,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,536,8,0,3,9:58 PM,1:01,,,SUB: Johnson FOR Hunter,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200278,538,3,12,3,9:58 PM,1:01,Eason Free Throw 2 of 2 (4 PTS),,,100 - 91,-9,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,539,1,80,3,9:58 PM,0:45,,,Young 22' Step Back Jump Shot (35 PTS),102 - 91,-11,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,540,6,2,3,9:59 PM,0:35,,,A. Holiday S.FOUL (P4.PN) (E.Dalen),,,5,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200278,542,3,11,3,9:59 PM,0:35,MISS Porter Jr. Free Throw 1 of 2,,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,543,4,1,3,9:59 PM,0:35,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200278,544,3,12,3,9:59 PM,0:35,Porter Jr. Free Throw 2 of 2 (10 PTS),,,102 - 92,-10,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,545,6,1,3,10:00 PM,0:31,Garuba P.FOUL (P5.PN) (M.Ervin),,,,,4,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200278,547,3,11,3,10:00 PM,0:31,,,Young Free Throw 1 of 2 (36 PTS),103 - 92,-11,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,548,3,12,3,10:00 PM,0:31,,,Young Free Throw 2 of 2 (37 PTS),104 - 92,-12,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,549,2,1,3,10:01 PM,0:16,MISS Smith Jr. 24' 3PT Jump Shot,,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,550,4,0,3,10:01 PM,0:14,Mathews REBOUND (Off:1 Def:2),,,,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,551,1,6,3,10:01 PM,0:01,Porter Jr. 3' Driving Layup (12 PTS),,,104 - 94,-10,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,552,13,0,3,10:01 PM,0:00,,End of 3rd Period (10:01 PM EST),,104 - 94,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200278,557,12,0,4,10:04 PM,12:00,,Start of 4th Period (10:04 PM EST),,104 - 94,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200278,558,1,1,4,10:04 PM,11:46,Smith Jr. 25' 3PT Jump Shot (16 PTS) (Porter Jr. 8 AST),,,104 - 97,-7,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200278,560,2,104,4,10:04 PM,11:19,,,MISS Murray 27' 3PT Step Back Bank Jump Shot,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,561,4,0,4,10:04 PM,11:18,Smith Jr. REBOUND (Off:1 Def:5),,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,562,6,1,4,10:05 PM,11:17,,,Johnson P.FOUL (P2.T1) (N.Green),,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200278,564,1,1,4,10:05 PM,11:00,Mathews 3PT Jump Shot (12 PTS) (Porter Jr. 9 AST),,,104 - 100,-4,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200278,566,6,1,4,10:05 PM,10:43,Smith Jr. P.FOUL (P2.T1) (N.Green),,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200278,568,6,2,4,10:06 PM,10:35,Nix S.FOUL (P2.T2) (N.Green),,,,,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,5,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200278,570,3,11,4,10:06 PM,10:35,,,MISS A. Holiday Free Throw 1 of 2,,,5,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,571,4,1,4,10:06 PM,10:35,,,Hawks Rebound,,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200278,574,3,12,4,10:06 PM,10:35,,,MISS A. Holiday Free Throw 2 of 2,,,5,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,575,4,0,4,10:06 PM,10:35,Smith Jr. REBOUND (Off:1 Def:6),,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,572,8,0,4,10:06 PM,10:35,,,SUB: Okongwu FOR Kaminsky,,,5,1626163,Frank Kaminsky,1610612737.0,Atlanta,Hawks,ATL,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200278,576,2,9,4,10:07 PM,10:15,MISS Porter Jr. 3' Driving Dunk,,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,577,4,0,4,10:07 PM,10:14,,,A. Holiday REBOUND (Off:0 Def:2),,,5,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,578,5,1,4,10:07 PM,10:01,Mathews STEAL (1 STL),,A. Holiday Bad Pass Turnover (P2.T10),,,5,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200278,581,6,2,4,10:07 PM,9:59,,,Murray S.FOUL (P1.T2) (N.Green),,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200278,583,3,11,4,10:08 PM,9:59,Mathews Free Throw 1 of 2 (13 PTS),,,104 - 101,-3,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,584,8,0,4,10:08 PM,9:59,,,SUB: Hunter FOR A. Holiday,,,5,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200278,586,7,1,4,10:08 PM,9:59,ROCKETS Violation: Delay of game Violation,,,,,2,1610612745,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200278,587,3,12,4,10:08 PM,9:59,Mathews Free Throw 2 of 2 (14 PTS),,,104 - 102,-2,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,591,9,1,4,10:09 PM,9:44,,,Hawks Timeout: Regular (Reg.4 Short 0),,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200278,592,18,5,4,10:09 PM,9:44,,Instant Replay4th Period (10:09 PM EST),,104 - 102,-2,0,588,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200278,593,6,2,4,10:11 PM,9:44,Mathews S.FOUL (P2.T3) (N.Green),,,,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0022200278,595,3,11,4,10:12 PM,9:44,,,Murray Free Throw 1 of 2 (33 PTS),105 - 102,-3,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0022200278,596,3,12,4,10:12 PM,9:44,,,Murray Free Throw 2 of 2 (34 PTS),106 - 102,-4,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,597,2,1,4,10:12 PM,9:33,MISS Smith Jr. 26' 3PT Jump Shot,,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,598,4,0,4,10:12 PM,9:33,,,Hawks Rebound,,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200278,600,5,1,4,10:13 PM,9:18,Nix STEAL (1 STL),,Murray Bad Pass Turnover (P2.T11),,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200278,602,2,76,4,10:13 PM,9:15,MISS Smith Jr. 3' Running Finger Roll Layup,,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,603,4,0,4,10:13 PM,9:14,Eason REBOUND (Off:4 Def:2),,,,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,604,1,97,4,10:13 PM,9:14,Eason Tip Layup Shot (6 PTS),,,106 - 104,-2,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,605,2,1,4,10:13 PM,9:00,,,MISS Johnson 27' 3PT Jump Shot,,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,606,4,0,4,10:13 PM,9:00,,,Okongwu REBOUND (Off:3 Def:4),,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,607,1,5,4,10:13 PM,8:53,,,Johnson 2' Layup (4 PTS) (Murray 3 AST),108 - 104,-4,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200278,609,2,79,4,10:14 PM,8:31,MISS Porter Jr. 26' 3PT Pullup Jump Shot,,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,610,4,0,4,10:14 PM,8:30,,,Okongwu REBOUND (Off:3 Def:5),,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,611,5,2,4,10:14 PM,8:21,Eason STEAL (1 STL),,Murray Lost Ball Turnover (P3.T12),,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200278,613,2,79,4,10:14 PM,8:15,MISS Porter Jr. 26' 3PT Pullup Jump Shot,,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,614,4,0,4,10:14 PM,8:14,,,Okongwu REBOUND (Off:3 Def:6),,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,615,2,1,4,10:14 PM,8:06,,,MISS Hunter 3PT Jump Shot,,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,616,4,0,4,10:14 PM,8:05,,,Okongwu REBOUND (Off:4 Def:6),,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,617,6,2,4,10:14 PM,8:05,Smith Jr. S.FOUL (P3.T4) (N.Green),,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200278,619,3,11,4,10:14 PM,8:05,,,MISS Okongwu Free Throw 1 of 2,,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,620,4,1,4,10:14 PM,8:05,,,Hawks Rebound,,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200278,629,3,12,4,10:14 PM,8:05,,,MISS Okongwu Free Throw 2 of 2,,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,630,4,0,4,10:14 PM,8:05,Mathews REBOUND (Off:1 Def:3),,,,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,621,8,0,4,10:14 PM,8:05,SUB: Green FOR Porter Jr.,,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200278,622,8,0,4,10:14 PM,8:05,SUB: Martin Jr. FOR Eason,,,,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200278,623,8,0,4,10:14 PM,8:05,,,SUB: Collins FOR Johnson,,,5,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200278,624,8,0,4,10:14 PM,8:05,,,SUB: Young FOR Griffin,,,5,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200278,631,5,45,4,10:15 PM,7:54,Nix Out of Bounds - Bad Pass Turnover Turnover (P2.T21),,,,,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200278,632,6,1,4,10:16 PM,7:34,Martin Jr. P.FOUL (P3.PN) (M.Ervin),,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200278,634,3,11,4,10:16 PM,7:34,,,Okongwu Free Throw 1 of 2 (3 PTS),109 - 104,-5,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,635,3,12,4,10:16 PM,7:34,,,Okongwu Free Throw 2 of 2 (4 PTS),110 - 104,-6,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,636,1,1,4,10:17 PM,7:10,Smith Jr. 25' 3PT Jump Shot (19 PTS) (Green 5 AST),,,110 - 107,-3,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200278,638,5,2,4,10:17 PM,6:45,Nix STEAL (2 STL),,Young Lost Ball Turnover (P4.T13),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200278,640,5,45,4,10:17 PM,6:43,Nix Out of Bounds - Bad Pass Turnover Turnover (P3.T22),,,,,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200278,641,1,75,4,10:18 PM,6:22,,,Young 3' Driving Finger Roll Layup (39 PTS),112 - 107,-5,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,642,2,6,4,10:18 PM,6:01,MISS Green 6' Driving Layup,,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,643,4,0,4,10:18 PM,6:01,Martin Jr. REBOUND (Off:4 Def:8),,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,644,1,107,4,10:18 PM,6:00,Martin Jr. Tip Dunk Shot (21 PTS),,,112 - 109,-3,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,645,2,63,4,10:19 PM,5:24,,,MISS Young 20' Fadeaway Jumper,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,646,4,0,4,10:19 PM,5:22,Martin Jr. REBOUND (Off:4 Def:9),,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,647,1,1,4,10:19 PM,5:15,Green 25' 3PT Jump Shot (24 PTS) (Mathews 2 AST),,,112 - 112,TIE,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200278,649,1,79,4,10:19 PM,4:47,,,Murray 27' 3PT Pullup Jump Shot (37 PTS),115 - 112,-3,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,650,1,75,4,10:19 PM,4:33,Green 2' Driving Finger Roll Layup (26 PTS),,,115 - 114,-1,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,651,9,1,4,10:19 PM,4:33,,,Hawks Timeout: Regular (Reg.5 Short 0),,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200278,652,8,0,4,10:20 PM,4:33,SUB: Porter Jr. FOR Nix,,,,,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200278,654,2,101,4,10:23 PM,4:17,,,MISS Murray 5' Driving Floating Jump Shot,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,655,4,0,4,10:23 PM,4:16,Porter Jr. REBOUND (Off:2 Def:3),,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,656,2,63,4,10:23 PM,3:52,MISS Smith Jr. 14' Fadeaway Jumper,,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,657,4,0,4,10:23 PM,3:51,Martin Jr. REBOUND (Off:5 Def:9),,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,658,2,1,4,10:23 PM,3:39,MISS Smith Jr. 26' 3PT Jump Shot,,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,659,4,0,4,10:23 PM,3:38,,,Collins REBOUND (Off:0 Def:4),,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,660,1,86,4,10:24 PM,3:17,,,Murray 12' Turnaround Fadeaway (39 PTS),117 - 114,-3,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,661,9,1,4,10:24 PM,3:08,ROCKETS Timeout: Regular (Full 5 Short 0),,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200278,662,6,1,4,10:26 PM,3:00,,,Collins P.FOUL (P2.T3) (N.Green),,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200278,664,1,6,4,10:27 PM,2:49,Green 4' Driving Layup (28 PTS) (Martin Jr. 2 AST),,,117 - 116,-1,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200278,666,2,79,4,10:27 PM,2:31,,,MISS Murray 17' Pullup Jump Shot,,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,667,4,0,4,10:27 PM,2:29,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200278,668,6,3,4,10:27 PM,2:29,,,Okongwu L.B.FOUL (P5.T4) (M.Ervin),,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200278,670,2,79,4,10:27 PM,2:11,MISS Green 27' 3PT Pullup Jump Shot,,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,671,4,0,4,10:27 PM,2:09,Porter Jr. REBOUND (Off:3 Def:3),,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,672,1,101,4,10:28 PM,2:04,Green 7' Driving Floating Jump Shot (30 PTS) (Porter Jr. 10 AST),,,117 - 118,1,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200278,674,2,102,4,10:28 PM,1:50,,,MISS Young 7' Driving Floating Bank Jump Shot,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,675,4,0,4,10:28 PM,1:49,,,Okongwu REBOUND (Off:5 Def:6),,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,676,5,2,4,10:28 PM,1:46,Mathews STEAL (2 STL),,Okongwu Lost Ball Turnover (P2.T14),,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200278,678,6,1,4,10:28 PM,1:46,,,Hunter P.FOUL (P4.PN) (M.Ervin),,,5,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200278,680,3,11,4,10:28 PM,1:46,Mathews Free Throw 1 of 2 (15 PTS),,,117 - 119,2,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,681,8,0,4,10:28 PM,1:46,,,SUB: Griffin FOR Okongwu,,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,5,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200278,683,3,12,4,10:29 PM,1:46,Mathews Free Throw 2 of 2 (16 PTS),,,117 - 120,3,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,684,6,2,4,10:29 PM,1:40,Mathews S.FOUL (P3.PN) (M.Ervin),,,,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200278,686,3,11,4,10:29 PM,1:40,,,Young Free Throw 1 of 2 (40 PTS),118 - 120,2,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,687,3,12,4,10:29 PM,1:40,,,MISS Young Free Throw 2 of 2,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,688,4,0,4,10:29 PM,1:40,Smith Jr. REBOUND (Off:1 Def:7),,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,689,2,79,4,10:30 PM,1:16,MISS Porter Jr. 27' 3PT Pullup Jump Shot,,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,690,4,0,4,10:30 PM,1:15,Smith Jr. REBOUND (Off:2 Def:7),,,,,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,691,1,72,4,10:30 PM,1:13,Smith Jr. Putback Layup (21 PTS),,,118 - 122,4,4,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,692,6,2,4,10:30 PM,1:11,Green S.FOUL (P6.PN) (N.Green),,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200278,694,8,0,4,10:31 PM,1:11,SUB: Eason FOR Green,,,,,4,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200278,695,8,0,4,10:31 PM,1:11,,,SUB: Okongwu FOR Griffin,,,5,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200278,698,3,11,4,10:32 PM,1:11,,,Young Free Throw 1 of 2 (41 PTS),119 - 122,3,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,699,3,12,4,10:32 PM,1:11,,,MISS Young Free Throw 2 of 2,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,700,4,0,4,10:32 PM,1:11,Eason REBOUND (Off:4 Def:3),,,,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,701,1,101,4,10:32 PM,0:50,Mathews 5' Driving Floating Jump Shot (18 PTS),,,119 - 124,5,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,702,9,1,4,10:32 PM,0:50,,,Hawks Timeout: Regular (Reg.6 Short 0),,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200278,703,8,0,4,10:33 PM,0:50,SUB: Nix FOR Mathews,,,,,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200278,704,8,0,4,10:33 PM,0:50,,,SUB: Griffin FOR Okongwu,,,5,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,5,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200278,707,2,79,4,10:34 PM,0:45,,,MISS Young 28' 3PT Pullup Jump Shot,,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,708,4,0,4,10:34 PM,0:44,Porter Jr. REBOUND (Off:3 Def:4),,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,709,9,1,4,10:34 PM,0:34,ROCKETS Timeout: Regular (Full 6 Short 0),,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200278,710,8,0,4,10:35 PM,0:34,SUB: Mathews FOR Eason,,,,,4,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200278,712,6,28,4,10:36 PM,0:29,,,Young Personal Take Foul (P4.PN) (M.Ervin),,,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200278,714,3,11,4,10:37 PM,0:29,MISS Nix Free Throw 1 of 2,,,,,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,715,4,1,4,10:37 PM,0:29,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200278,716,3,12,4,10:37 PM,0:29,Nix Free Throw 2 of 2 (1 PTS),,,119 - 125,6,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,717,2,80,4,10:37 PM,0:20,,,MISS Collins 27' 3PT Step Back Jump Shot,,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,718,4,0,4,10:37 PM,0:18,Martin Jr. REBOUND (Off:5 Def:10),,,,,4,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,719,6,28,4,10:37 PM,0:13,,,Griffin Personal Take Foul (P2.PN) (E.Dalen),,,5,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200278,721,3,11,4,10:38 PM,0:13,Mathews Free Throw 1 of 2 (19 PTS),,,119 - 126,7,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,722,6,11,4,10:38 PM,0:13,Porter Jr. T.FOUL (P0.PN) (M.Ervin),,,,,4,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200278,723,3,16,4,10:38 PM,0:13,,,Young Free Throw Technical (42 PTS),120 - 126,6,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,724,3,12,4,10:39 PM,0:13,Mathews Free Throw 2 of 2 (20 PTS),,,120 - 127,7,4,1629726,Garrison Mathews,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,725,6,2,4,10:39 PM,0:09,Nix S.FOUL (P3.PN) (M.Ervin),,,,,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200278,727,3,11,4,10:39 PM,0:09,,,Young Free Throw 1 of 2 (43 PTS),121 - 127,6,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,728,3,12,4,10:40 PM,0:09,,,Young Free Throw 2 of 2 (44 PTS),122 - 127,5,5,1629027,Trae Young,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,729,6,28,4,10:40 PM,0:07,,,Murray Personal Take Foul (P2.PN) (E.Dalen),,,5,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200278,731,3,11,4,10:40 PM,0:07,Nix Free Throw 1 of 2 (2 PTS),,,122 - 128,6,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,732,3,12,4,10:40 PM,0:07,MISS Nix Free Throw 2 of 2,,,,,4,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200278,733,4,0,4,10:40 PM,0:07,,,Collins REBOUND (Off:0 Def:5),,,5,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,734,2,1,4,10:40 PM,0:00,,,MISS Griffin 27' 3PT Jump Shot,,,5,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200278,735,4,0,4,10:40 PM,0:00,,,Hawks Rebound,,,3,1610612737,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200278,736,13,0,4,10:41 PM,0:00,,End of 4th Period (10:41 PM EST),,122 - 128,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

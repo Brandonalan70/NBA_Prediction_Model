@@ -1,0 +1,501 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200004,2,12,0,1,7:14 PM,12:00,,Start of 1st Period (7:14 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200004,4,10,0,1,7:14 PM,12:00,Jump Ball Smith vs. Porzingis: Tip to Kuzma,,,,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,1
+0022200004,7,6,2,1,7:14 PM,11:45,Smith S.FOUL (P1.T1) (A.Moyer-Gleich),,,,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200004,9,3,11,1,7:15 PM,11:45,,,MISS Porzingis Free Throw 1 of 2,,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,10,4,1,1,7:15 PM,11:45,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200004,11,3,12,1,7:15 PM,11:45,,,Porzingis Free Throw 2 of 2 (1 PTS),1 - 0,-1,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,12,2,1,1,7:15 PM,11:36,MISS Smith 26' 3PT Jump Shot,,,,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,13,4,0,1,7:15 PM,11:31,,,Morris REBOUND (Off:0 Def:1),,,5,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,14,1,1,1,7:16 PM,11:20,,,Beal 25' 3PT Jump Shot (3 PTS) (Porzingis 1 AST),4 - 0,-4,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200004,16,1,79,1,7:16 PM,11:12,Haliburton 26' 3PT Pullup Jump Shot (3 PTS),,,4 - 3,-1,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,17,2,80,1,7:16 PM,10:52,,,MISS Porzingis 26' 3PT Step Back Jump Shot,,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,18,4,0,1,7:16 PM,10:50,Duarte REBOUND (Off:0 Def:1),,,,,4,1630537,Chris Duarte,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,19,5,1,1,7:16 PM,10:41,Haliburton Bad Pass Turnover (P1.T1),,Morris STEAL (1 STL),,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,5,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200004,21,1,76,1,7:16 PM,10:39,,,Morris 1' Running Finger Roll Layup (2 PTS),6 - 3,-3,5,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,22,5,40,1,7:16 PM,10:35,Haliburton Out of Bounds Lost Ball Turnover (P2.T2),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
+0022200004,23,1,108,1,7:17 PM,10:31,,,Porzingis 2' Cutting Dunk Shot (3 PTS) (Morris 1 AST),8 - 3,-5,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,5,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200004,25,9,1,1,7:17 PM,10:30,PACERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200004,26,2,1,1,7:20 PM,10:17,MISS Duarte 3PT Jump Shot,,,,,4,1630537,Chris Duarte,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,27,4,0,1,7:20 PM,10:12,,,Kuzma REBOUND (Off:0 Def:1),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,28,1,108,1,7:20 PM,10:05,,,Avdija 3' Cutting Dunk Shot (2 PTS) (Kuzma 1 AST),10 - 3,-7,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200004,30,1,80,1,7:20 PM,9:42,Hield 30' 3PT Step Back Jump Shot (3 PTS),,,10 - 6,-4,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,31,2,1,1,7:21 PM,9:25,,,MISS Porzingis 26' 3PT Jump Shot,,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,32,4,0,1,7:21 PM,9:22,Hield REBOUND (Off:0 Def:1),,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,33,2,2,1,7:21 PM,9:16,MISS Smith 26' 3PT Running Jump Shot,,,,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,34,4,0,1,7:21 PM,9:13,,,Kuzma REBOUND (Off:0 Def:2),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,35,6,2,1,7:21 PM,9:11,Smith S.FOUL (P2.T2) (B.Barnaky),,,,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200004,37,3,11,1,7:22 PM,9:11,,,Porzingis Free Throw 1 of 2 (4 PTS),11 - 6,-5,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,40,3,12,1,7:22 PM,9:11,,,MISS Porzingis Free Throw 2 of 2,,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,38,8,0,1,7:22 PM,9:11,SUB: Jackson FOR Smith,,,,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200004,41,4,0,1,7:22 PM,9:10,Hield REBOUND (Off:0 Def:2),,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,42,2,1,1,7:22 PM,9:01,MISS Hield 26' 3PT Jump Shot,,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,43,4,0,1,7:22 PM,8:58,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200004,45,6,2,1,7:23 PM,8:47,Haliburton S.FOUL (P1.T3) (S.Foster),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200004,47,3,11,1,7:23 PM,8:47,,,MISS Kuzma Free Throw 1 of 2,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,48,4,1,1,7:23 PM,8:47,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200004,49,3,12,1,7:23 PM,8:47,,,Kuzma Free Throw 2 of 2 (1 PTS),12 - 6,-6,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,50,5,1,1,7:24 PM,8:28,Taylor Bad Pass Turnover (P1.T3),,Morris STEAL (2 STL),,,4,1630678,Terry Taylor,1610612754.0,Indiana,Pacers,IND,5,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200004,52,2,76,1,7:24 PM,8:25,,,MISS Morris 3' Running Finger Roll Layup,,,5,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,53,4,0,1,7:24 PM,8:20,Hield REBOUND (Off:0 Def:3),,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,54,1,79,1,7:24 PM,8:18,Haliburton 26' 3PT Pullup Jump Shot (6 PTS),,,12 - 9,-3,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,55,1,1,1,7:24 PM,7:58,,,Kuzma 25' 3PT Jump Shot (4 PTS) (Beal 1 AST),15 - 9,-6,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200004,57,2,79,1,7:24 PM,7:48,MISS Haliburton 28' 3PT Pullup Jump Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,58,4,0,1,7:25 PM,7:45,,,Kuzma REBOUND (Off:0 Def:3),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,59,1,1,1,7:25 PM,7:29,,,Kuzma 26' 3PT Jump Shot (7 PTS) (Beal 2 AST),18 - 9,-9,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200004,61,2,1,1,7:25 PM,7:13,MISS Taylor 12' Jump Shot,,,,,4,1630678,Terry Taylor,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,62,4,0,1,7:25 PM,7:09,Hield REBOUND (Off:1 Def:3),,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,63,1,79,1,7:25 PM,7:01,Haliburton 17' Pullup Jump Shot (8 PTS),,,18 - 11,-7,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,64,1,6,1,7:26 PM,6:46,,,Kuzma 3' Driving Layup (9 PTS),20 - 11,-9,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,65,6,2,1,7:26 PM,6:46,Taylor S.FOUL (P1.T4) (A.Moyer-Gleich),,,,,4,1630678,Terry Taylor,1610612754.0,Indiana,Pacers,IND,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200004,67,8,0,1,7:26 PM,6:46,SUB: Mathurin FOR Hield,,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200004,68,8,0,1,7:26 PM,6:46,,,SUB: Hachimura FOR Avdija,,,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200004,71,3,10,1,7:26 PM,6:46,,,Kuzma Free Throw 1 of 1 (10 PTS),21 - 11,-10,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,72,1,102,1,7:26 PM,6:36,Mathurin 14' Driving Floating Bank Jump Shot (2 PTS) (Haliburton 1 AST),,,21 - 13,-8,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200004,73,2,79,1,7:27 PM,6:19,,,MISS Kuzma 26' 3PT Pullup Jump Shot,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,74,4,0,1,7:27 PM,6:16,Mathurin REBOUND (Off:0 Def:1),,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,75,2,1,1,7:27 PM,6:09,MISS Taylor 3PT Jump Shot,,,,,4,1630678,Terry Taylor,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,76,4,0,1,7:27 PM,6:06,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200004,78,6,1,1,7:27 PM,5:49,Mathurin P.FOUL (P1.PN) (B.Barnaky),,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200004,80,3,11,1,7:28 PM,5:49,,,Porzingis Free Throw 1 of 2 (5 PTS),22 - 13,-9,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,81,8,0,1,7:28 PM,5:49,SUB: McConnell FOR Duarte,,,,,4,1630537,Chris Duarte,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200004,83,3,12,1,7:28 PM,5:49,,,Porzingis Free Throw 2 of 2 (6 PTS),23 - 13,-10,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,86,6,2,1,7:29 PM,5:42,,,Kuzma S.FOUL (P1.T1) (B.Barnaky),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200004,88,3,11,1,7:29 PM,5:42,Haliburton Free Throw 1 of 2 (9 PTS),,,23 - 14,-9,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,89,3,12,1,7:29 PM,5:42,Haliburton Free Throw 2 of 2 (10 PTS),,,23 - 15,-8,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,90,2,75,1,7:30 PM,5:28,,,MISS Beal 12' Driving Finger Roll Layup,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,92,1,97,1,7:30 PM,5:24,,,Beal Tip Layup Shot (5 PTS),25 - 15,-10,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,91,4,0,1,7:30 PM,5:24,,,Beal REBOUND (Off:1 Def:0),,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,93,2,1,1,7:30 PM,5:14,MISS Mathurin 3PT Jump Shot,,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,94,4,0,1,7:30 PM,5:10,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200004,96,2,79,1,7:30 PM,5:05,MISS McConnell 13' Pullup Jump Shot,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,97,4,0,1,7:30 PM,5:02,Jackson REBOUND (Off:1 Def:0),,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,98,5,45,1,7:30 PM,4:55,McConnell Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0022200004,136,8,0,1,7:31 PM,4:55,,,SUB: Wright FOR Morris,,,5,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200004,101,2,80,1,7:31 PM,4:38,,,MISS Hachimura 15' Step Back Jump Shot,,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,102,4,0,1,7:31 PM,4:35,Jackson REBOUND (Off:1 Def:1),,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,103,6,2,1,7:31 PM,4:31,,,Beal S.FOUL (P1.T2) (S.Foster),,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200004,105,3,11,1,7:32 PM,4:31,Mathurin Free Throw 1 of 2 (3 PTS),,,25 - 16,-9,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,106,8,0,1,7:32 PM,4:31,SUB: Brissett FOR Taylor,,,,,4,1630678,Terry Taylor,1610612754.0,Indiana,Pacers,IND,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200004,108,3,12,1,7:32 PM,4:31,Mathurin Free Throw 2 of 2 (4 PTS),,,25 - 17,-8,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,109,2,47,1,7:32 PM,4:13,,,MISS Porzingis 12' Turnaround Jump Shot,,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,110,4,0,1,7:32 PM,4:10,,,Wright REBOUND (Off:1 Def:0),,,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,112,1,73,1,7:33 PM,4:03,,,Beal 2' Driving Reverse Layup (7 PTS),27 - 17,-10,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,113,1,101,1,7:33 PM,3:53,McConnell 12' Driving Floating Jump Shot (2 PTS),,,27 - 19,-8,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,114,2,1,1,7:33 PM,3:35,,,MISS Kuzma 28' 3PT Jump Shot,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,115,4,0,1,7:33 PM,3:28,Mathurin REBOUND (Off:0 Def:2),,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,116,2,6,1,7:33 PM,3:24,MISS Haliburton 4' Driving Layup,,Hachimura BLOCK (1 BLK),,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,1
+0022200004,118,4,0,1,7:33 PM,3:20,,,Porzingis REBOUND (Off:0 Def:1),,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,119,1,74,1,7:33 PM,3:18,,,Wright 2' Running Reverse Layup (2 PTS) (Porzingis 2 AST),29 - 19,-10,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200004,121,2,79,1,7:34 PM,3:02,MISS Haliburton 26' 3PT Pullup Jump Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,122,4,0,1,7:34 PM,2:58,,,Kuzma REBOUND (Off:0 Def:4),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,123,2,1,1,7:34 PM,2:44,,,MISS Beal 24' 3PT Jump Shot,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,124,4,0,1,7:34 PM,2:40,Jackson REBOUND (Off:1 Def:2),,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,127,2,44,1,7:34 PM,2:29,MISS McConnell 3' Reverse Layup,,Porzingis BLOCK (1 BLK),,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1
+0022200004,129,4,0,1,7:34 PM,2:27,,,Hachimura REBOUND (Off:0 Def:1),,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,130,5,1,1,7:34 PM,2:24,Mathurin STEAL (1 STL),,Hachimura Bad Pass Turnover (P1.T1),,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200004,132,2,5,1,7:34 PM,2:21,MISS Mathurin 2' Layup,,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,133,4,0,1,7:34 PM,2:20,,,Porzingis REBOUND (Off:0 Def:2),,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,134,1,6,1,7:34 PM,2:16,,,Wright 5' Driving Layup (4 PTS),31 - 19,-12,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,135,9,1,1,7:34 PM,2:15,PACERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200004,137,8,0,1,7:37 PM,2:15,SUB: Nesmith FOR Haliburton,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200004,138,8,0,1,7:37 PM,2:15,,,SUB: Gill FOR Beal,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200004,139,8,0,1,7:37 PM,2:15,,,SUB: Barton FOR Porzingis,,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200004,140,8,0,1,7:37 PM,2:15,,,SUB: Gafford FOR Kuzma,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200004,145,5,4,1,7:38 PM,1:54,Mathurin Traveling Turnover (P1.T5),,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0022200004,162,5,1,1,7:38 PM,1:54,McConnell STEAL (1 STL),,Gafford Bad Pass Turnover (P1.T2),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200004,147,5,2,1,7:38 PM,1:51,McConnell Lost Ball Turnover (P2.T6),,Wright STEAL (1 STL),,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200004,150,2,5,1,7:38 PM,1:35,,,MISS Hachimura 3' Layup,,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,151,4,0,1,7:38 PM,1:33,Nesmith REBOUND (Off:0 Def:1),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,152,2,5,1,7:39 PM,1:23,MISS Jackson 4' Layup,,Wright BLOCK (1 BLK),,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,1
+0022200004,154,4,0,1,7:39 PM,1:23,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200004,156,2,1,1,7:39 PM,1:14,MISS Brissett 25' 3PT Jump Shot,,,,,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,157,4,0,1,7:39 PM,1:10,,,Gill REBOUND (Off:0 Def:1),,,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,158,2,103,1,7:39 PM,1:07,Jackson BLOCK (1 BLK),,MISS Barton 25' 3PT Running Pull-Up Jump Shot,,,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,1
+0022200004,159,4,0,1,7:39 PM,1:04,Nesmith REBOUND (Off:0 Def:2),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,160,1,1,1,7:39 PM,0:49,Mathurin 26' 3PT Jump Shot (7 PTS) (McConnell 1 AST),,,31 - 22,-9,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200004,164,2,75,1,7:40 PM,0:32,,,MISS Wright 3' Driving Finger Roll Layup,,,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,165,4,0,1,7:40 PM,0:29,,,Gafford REBOUND (Off:1 Def:0),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,166,1,7,1,7:40 PM,0:29,,,Gafford 3' Dunk (2 PTS),33 - 22,-11,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,167,1,1,1,7:40 PM,0:14,Mathurin 25' 3PT Jump Shot (10 PTS) (McConnell 2 AST),,,33 - 25,-8,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200004,169,1,80,1,7:41 PM,0:00,,,Barton 25' 3PT Step Back Jump Shot (3 PTS),36 - 25,-11,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,170,18,0,1,7:41 PM,0:00,,Instant Replay1st Period (7:41 PM EST),,36 - 25,-11,0,169,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200004,171,13,0,1,7:41 PM,0:00,,End of 1st Period (7:41 PM EST),,36 - 25,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200004,172,12,0,2,7:43 PM,12:00,,Start of 2nd Period (7:43 PM EST),,36 - 25,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200004,173,2,1,2,7:43 PM,11:49,MISS Nesmith 25' 3PT Jump Shot,,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,174,4,0,2,7:43 PM,11:45,,,Gill REBOUND (Off:0 Def:2),,,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,175,2,1,2,7:44 PM,11:29,,,MISS Barton 22' Jump Shot,,,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,176,4,0,2,7:44 PM,11:26,Nesmith REBOUND (Off:0 Def:3),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,177,6,1,2,7:44 PM,11:22,,,Barton P.FOUL (P1.T1) (A.Moyer-Gleich),,,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200004,179,8,0,2,7:44 PM,11:22,SUB: Smith FOR Jackson,,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200004,181,1,79,2,7:44 PM,11:19,McConnell 14' Pullup Jump Shot (4 PTS) (Smith 1 AST),,,36 - 27,-9,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200004,183,1,44,2,7:45 PM,11:02,,,Gill 1' Reverse Layup (2 PTS) (Barton 1 AST),38 - 27,-11,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200004,185,2,5,2,7:45 PM,10:43,MISS Smith 2' Layup,,,,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,186,4,0,2,7:45 PM,10:41,Mathurin REBOUND (Off:1 Def:2),,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,187,1,72,2,7:45 PM,10:41,Mathurin 2' Putback Layup (12 PTS),,,38 - 29,-9,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,188,6,2,2,7:45 PM,10:30,McConnell S.FOUL (P1.T1) (S.Foster),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200004,190,3,11,2,7:46 PM,10:30,,,MISS Wright Free Throw 1 of 2,,,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,191,4,1,2,7:46 PM,10:30,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200004,192,3,12,2,7:46 PM,10:30,,,Wright Free Throw 2 of 2 (5 PTS),39 - 29,-10,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,193,2,6,2,7:46 PM,10:15,MISS Brissett 3' Driving Layup,,,,,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,194,4,0,2,7:46 PM,10:14,,,Gafford REBOUND (Off:1 Def:1),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,195,6,26,2,7:46 PM,10:10,,,Hachimura Offensive Charge Foul (P1) (B.Barnaky),,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200004,197,5,37,2,7:46 PM,10:10,,,Hachimura Offensive Foul Turnover (P2.T3),,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022200004,198,2,58,2,7:47 PM,9:52,MISS Smith 9' Turnaround Hook Shot,,,,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,199,4,0,2,7:47 PM,9:48,,,Hachimura REBOUND (Off:0 Def:2),,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,200,5,45,2,7:47 PM,9:47,,,Hachimura Out of Bounds - Bad Pass Turnover Turnover (P3.T4),,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022200004,201,2,73,2,7:47 PM,9:40,MISS McConnell 2' Driving Reverse Layup,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,202,4,0,2,7:47 PM,9:38,,,Gafford REBOUND (Off:1 Def:2),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,203,1,50,2,7:47 PM,9:34,,,Barton 1' Running Dunk (5 PTS),41 - 29,-12,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,204,9,1,2,7:47 PM,9:31,PACERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200004,206,2,1,2,7:50 PM,9:22,MISS Smith 26' 3PT Jump Shot,,,,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,207,4,0,2,7:50 PM,9:21,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200004,209,2,6,2,7:51 PM,9:09,Smith BLOCK (1 BLK),,MISS Barton 3' Driving Layup,,,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,1
+0022200004,211,4,0,2,7:51 PM,9:06,Mathurin REBOUND (Off:1 Def:3),,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,212,2,98,2,7:51 PM,8:48,MISS Brissett 3' Cutting Layup Shot,,,,,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,213,4,0,2,7:51 PM,8:45,,,Gafford REBOUND (Off:1 Def:3),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,214,2,6,2,7:51 PM,8:29,,,MISS Hachimura 3' Driving Layup,,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,215,4,0,2,7:51 PM,8:27,Smith REBOUND (Off:0 Def:1),,,,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,216,2,6,2,7:51 PM,8:21,MISS Nesmith 4' Driving Layup,,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,217,4,0,2,7:52 PM,8:18,Smith REBOUND (Off:1 Def:1),,,,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,218,1,97,2,7:52 PM,8:18,Smith Tip Layup Shot (2 PTS),,,41 - 31,-10,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,219,2,6,2,7:52 PM,8:02,McConnell BLOCK (1 BLK),,MISS Wright 5' Driving Layup,,,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,1
+0022200004,221,4,0,2,7:52 PM,8:02,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200004,223,8,0,2,7:52 PM,8:02,SUB: Hield FOR Mathurin,,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200004,224,8,0,2,7:52 PM,8:02,SUB: Taylor FOR Brissett,,,,,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,4,1630678,Terry Taylor,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200004,264,8,0,2,7:52 PM,8:02,,,SUB: Kuzma FOR Gill,,,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200004,229,1,5,2,7:53 PM,7:57,,,Gafford 4' Layup (4 PTS) (Barton 2 AST),43 - 31,-12,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200004,231,2,102,2,7:53 PM,7:44,MISS McConnell 11' Driving Floating Bank Jump Shot,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,232,4,0,2,7:53 PM,7:44,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200004,233,6,3,2,7:53 PM,7:44,,,Hachimura L.B.FOUL (P2.T2) (S.Foster),,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200004,235,8,0,2,7:53 PM,7:44,SUB: Bitadze FOR Smith,,,,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200004,236,8,0,2,7:53 PM,7:44,,,SUB: Beal FOR Barton,,,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200004,239,2,1,2,7:54 PM,7:34,MISS Nesmith 27' 3PT Jump Shot,,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,240,4,0,2,7:54 PM,7:30,Taylor REBOUND (Off:1 Def:0),,,,,4,1630678,Terry Taylor,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,241,1,79,2,7:54 PM,7:21,Hield 26' 3PT Pullup Jump Shot (6 PTS) (McConnell 3 AST),,,43 - 34,-9,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200004,243,6,2,2,7:54 PM,7:08,Nesmith S.FOUL (P1.T2) (B.Barnaky),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200004,245,3,11,2,7:55 PM,7:08,,,MISS Kuzma Free Throw 1 of 2,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,246,4,1,2,7:55 PM,7:08,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200004,247,8,0,2,7:55 PM,7:08,SUB: Haliburton FOR McConnell,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200004,249,3,12,2,7:55 PM,7:08,,,Kuzma Free Throw 2 of 2 (11 PTS),44 - 34,-10,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,250,1,79,2,7:55 PM,6:59,Haliburton 17' Pullup Jump Shot (12 PTS),,,44 - 36,-8,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,251,9,1,2,7:55 PM,6:57,,,Wizards Timeout: Regular (Reg.1 Short 0),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200004,253,8,0,2,7:57 PM,6:57,,,SUB: Porzingis FOR Gafford,,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200004,256,2,1,2,7:58 PM,6:36,,,MISS Wright 26' 3PT Jump Shot,,,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,257,4,0,2,7:59 PM,6:30,Nesmith REBOUND (Off:0 Def:4),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,258,1,75,2,7:59 PM,6:19,Hield 2' Driving Finger Roll Layup (8 PTS),,,44 - 38,-6,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,259,2,80,2,7:59 PM,6:00,,,MISS Porzingis 17' Step Back Jump Shot,,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,260,4,0,2,7:59 PM,5:56,Bitadze REBOUND (Off:0 Def:1),,,,,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,261,1,1,2,7:59 PM,5:48,Hield 26' 3PT Jump Shot (11 PTS) (Bitadze 1 AST),,,44 - 41,-3,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200004,263,9,1,2,7:59 PM,5:46,,,Wizards Timeout: Regular (Reg.2 Short 0),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200004,265,8,0,2,8:00 PM,5:46,,,SUB: Morris FOR Hachimura,,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,5,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200004,266,8,0,2,8:00 PM,5:46,,,SUB: Avdija FOR Wright,,,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200004,269,2,1,2,8:01 PM,5:30,,,MISS Kuzma 24' 3PT Jump Shot,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,270,4,0,2,8:01 PM,5:26,Taylor REBOUND (Off:1 Def:1),,,,,4,1630678,Terry Taylor,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,271,6,2,2,8:01 PM,5:17,,,Morris S.FOUL (P1.T3) (B.Barnaky),,,5,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,4,1630678,Terry Taylor,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200004,273,3,11,2,8:02 PM,5:17,Taylor Free Throw 1 of 2 (1 PTS),,,44 - 42,-2,4,1630678,Terry Taylor,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,274,3,12,2,8:02 PM,5:17,Taylor Free Throw 2 of 2 (2 PTS),,,44 - 43,-1,4,1630678,Terry Taylor,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,275,6,2,2,8:02 PM,5:06,Bitadze S.FOUL (P1.T3) (B.Barnaky),,,,,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200004,277,3,11,2,8:03 PM,5:06,,,Avdija Free Throw 1 of 2 (3 PTS),45 - 43,-2,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,278,3,12,2,8:03 PM,5:06,,,Avdija Free Throw 2 of 2 (4 PTS),46 - 43,-3,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,279,2,1,2,8:03 PM,4:51,MISS Hield 24' 3PT Jump Shot,,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,280,4,0,2,8:03 PM,4:46,,,Kuzma REBOUND (Off:0 Def:5),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,281,1,80,2,8:04 PM,4:31,,,Beal 14' Step Back Jump Shot (9 PTS),48 - 43,-5,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,283,6,4,2,8:04 PM,4:15,Bitadze OFF.Foul (P2) (B.Barnaky),,,,,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0022200004,285,5,37,2,8:04 PM,4:15,Bitadze Offensive Foul Turnover (P1.T7),,,,,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0022200004,286,8,0,2,8:04 PM,4:15,SUB: Duarte FOR Nesmith,,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,1630537,Chris Duarte,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200004,288,2,6,2,8:05 PM,4:07,Bitadze BLOCK (1 BLK),,MISS Kuzma 3' Driving Layup,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,1
+0022200004,290,4,0,2,8:05 PM,4:04,,,Morris REBOUND (Off:1 Def:1),,,5,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0022200004,291,2,1,2,8:05 PM,4:03,,,MISS Morris 18' Jump Shot,,,5,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0022200004,292,4,0,2,8:05 PM,4:01,Hield REBOUND (Off:1 Def:4),,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0022200004,293,6,4,2,8:05 PM,3:58,Bitadze OFF.Foul (P3) (B.Barnaky),,,,,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200004,295,5,37,2,8:05 PM,3:58,Bitadze Offensive Foul Turnover (P2.T8),,,,,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0022200004,296,8,0,2,8:05 PM,3:58,SUB: Jackson FOR Bitadze,,,,,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200004,298,2,73,2,8:06 PM,3:47,,,MISS Beal 2' Driving Reverse Layup,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,300,2,97,2,8:06 PM,3:44,,,MISS Porzingis Tip Layup Shot,,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,299,4,0,2,8:06 PM,3:44,,,Porzingis REBOUND (Off:1 Def:2),,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,301,4,0,2,8:06 PM,3:43,,,Beal REBOUND (Off:2 Def:0),,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,302,5,1,2,8:06 PM,3:40,Taylor STEAL (1 STL),,Beal Bad Pass Turnover (P1.T5),,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,1630678,Terry Taylor,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200004,304,2,2,2,8:06 PM,3:37,MISS Taylor 4' Running Jump Shot,,,,,4,1630678,Terry Taylor,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,305,4,0,2,8:06 PM,3:33,,,Beal REBOUND (Off:2 Def:1),,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,306,1,50,2,8:06 PM,3:29,,,Porzingis 1' Running Dunk (8 PTS) (Kuzma 2 AST),50 - 43,-7,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200004,308,5,40,2,8:06 PM,3:20,Duarte Out of Bounds Lost Ball Turnover (P1.T9),,,,,4,1630537,Chris Duarte,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0022200004,309,9,1,2,8:07 PM,3:20,,,Wizards Timeout: Regular (Reg.3 Short 0),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200004,310,8,0,2,8:08 PM,3:20,,,SUB: Barton FOR Avdija,,,5,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200004,313,1,5,2,8:09 PM,3:07,,,Beal 3' Layup (11 PTS),52 - 43,-9,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,314,2,1,2,8:09 PM,2:52,MISS Hield 27' 3PT Jump Shot,,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,315,4,0,2,8:09 PM,2:49,,,Kuzma REBOUND (Off:0 Def:6),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,316,1,1,2,8:10 PM,2:39,,,Barton 25' 3PT Jump Shot (8 PTS) (Morris 2 AST),55 - 43,-12,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,5,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200004,318,5,45,2,8:10 PM,2:28,Haliburton Out of Bounds - Bad Pass Turnover Turnover (P3.T10),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0022200004,319,2,80,2,8:10 PM,2:04,,,MISS Beal 24' 3PT Step Back Jump Shot,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,320,4,0,2,8:10 PM,2:04,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200004,321,5,11,2,8:10 PM,2:04,,,Wizards Turnover: Shot Clock (T#6),,,3,1610612764,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200004,322,1,79,2,8:11 PM,1:59,Hield 8' Pullup Jump Shot (13 PTS),,,55 - 45,-10,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,323,1,1,2,8:11 PM,1:47,,,Porzingis 26' 3PT Jump Shot (11 PTS) (Morris 3 AST),58 - 45,-13,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,5,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200004,326,2,6,2,8:11 PM,1:29,MISS Jackson 5' Driving Layup,,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,327,4,0,2,8:11 PM,1:26,Haliburton REBOUND (Off:1 Def:0),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,328,1,78,2,8:11 PM,1:23,Haliburton 13' Floating Jump Shot (14 PTS),,,58 - 47,-11,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,329,2,1,2,8:12 PM,1:13,,,MISS Porzingis 27' 3PT Jump Shot,,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,330,4,0,2,8:12 PM,1:11,,,Morris REBOUND (Off:2 Def:1),,,5,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,331,2,78,2,8:12 PM,1:10,,,MISS Morris 8' Floating Jump Shot,,,5,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,332,4,0,2,8:12 PM,1:08,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200004,334,1,79,2,8:12 PM,1:02,Haliburton 25' 3PT Pullup Jump Shot (17 PTS),,,58 - 50,-8,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,335,1,73,2,8:12 PM,0:45,,,Beal 3' Driving Reverse Layup (13 PTS),60 - 50,-10,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,336,2,5,2,8:12 PM,0:38,MISS Hield 4' Layup,,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,337,4,0,2,8:13 PM,0:35,,,Morris REBOUND (Off:2 Def:2),,,5,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,338,5,1,2,8:13 PM,0:15,Duarte STEAL (1 STL),,Morris Bad Pass Turnover (P1.T7),,,5,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,4,1630537,Chris Duarte,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200004,341,8,0,2,8:13 PM,0:12,,,SUB: Wright FOR Porzingis,,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200004,342,8,0,2,8:13 PM,0:12,,,SUB: Gafford FOR Morris,,,5,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200004,345,8,0,2,8:13 PM,0:12,SUB: Mathurin FOR Taylor,,,,,4,1630678,Terry Taylor,1610612754.0,Indiana,Pacers,IND,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200004,347,1,108,2,8:14 PM,0:10,Jackson 1' Cutting Dunk Shot (2 PTS) (Haliburton 2 AST),,,60 - 52,-8,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200004,350,2,1,2,8:14 PM,0:00,,,MISS Kuzma 26' 3PT Jump Shot,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,351,4,0,2,8:14 PM,0:00,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200004,352,13,0,2,8:14 PM,0:00,,End of 2nd Period (8:14 PM EST),,60 - 52,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200004,363,12,0,3,8:30 PM,12:00,,Start of 3rd Period (8:30 PM EST),,60 - 52,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200004,364,1,108,3,8:30 PM,11:46,Smith 1' Cutting Dunk Shot (4 PTS) (Hield 1 AST),,,60 - 54,-6,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200004,366,1,1,3,8:30 PM,11:27,,,Morris 27' 3PT Jump Shot (5 PTS) (Beal 3 AST),63 - 54,-9,5,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200004,369,2,1,3,8:31 PM,10:59,MISS Hield 3PT Jump Shot,,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,370,4,0,3,8:31 PM,10:55,,,Morris REBOUND (Off:2 Def:3),,,5,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,371,2,101,3,8:31 PM,10:49,,,MISS Kuzma 7' Driving Floating Jump Shot,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,372,4,0,3,8:31 PM,10:46,Smith REBOUND (Off:1 Def:2),,,,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,373,1,50,3,8:31 PM,10:41,Haliburton Running Dunk (19 PTS),,,63 - 56,-7,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,374,1,1,3,8:32 PM,10:13,,,Kuzma 25' 3PT Jump Shot (14 PTS) (Morris 4 AST),66 - 56,-10,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200004,376,2,101,3,8:32 PM,10:01,MISS Haliburton 12' Driving Floating Jump Shot,,Kuzma BLOCK (1 BLK),,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,1
+0022200004,378,4,0,3,8:32 PM,10:01,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200004,380,1,5,3,8:32 PM,10:00,Taylor 3' Layup (4 PTS) (Haliburton 3 AST),,,66 - 58,-8,4,1630678,Terry Taylor,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200004,382,1,75,3,8:32 PM,9:42,,,Beal 2' Driving Finger Roll Layup (15 PTS) (Morris 5 AST),68 - 58,-10,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200004,383,6,2,3,8:33 PM,9:34,,,Gill S.FOUL (P1.T1) (S.Foster),,,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,4,1630678,Terry Taylor,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200004,385,3,11,3,8:33 PM,9:34,Taylor Free Throw 1 of 2 (5 PTS),,,68 - 59,-9,4,1630678,Terry Taylor,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,386,3,12,3,8:33 PM,9:34,MISS Taylor Free Throw 2 of 2,,,,,4,1630678,Terry Taylor,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,387,4,0,3,8:33 PM,9:33,,,Porzingis REBOUND (Off:1 Def:3),,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,389,2,1,3,8:34 PM,9:18,,,MISS Porzingis 7' Jump Shot,,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,390,4,0,3,8:34 PM,9:14,Haliburton REBOUND (Off:1 Def:1),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,391,6,2,3,8:34 PM,9:04,,,Kuzma S.FOUL (P2.T2) (S.Foster),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,1630537,Chris Duarte,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200004,393,3,11,3,8:34 PM,9:04,Duarte Free Throw 1 of 2 (1 PTS),,,68 - 60,-8,4,1630537,Chris Duarte,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,394,3,12,3,8:34 PM,9:04,Duarte Free Throw 2 of 2 (2 PTS),,,68 - 61,-7,4,1630537,Chris Duarte,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,395,1,6,3,8:35 PM,8:55,,,Kuzma 4' Driving Layup (16 PTS),70 - 61,-9,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,396,1,9,3,8:35 PM,8:39,Haliburton 1' Driving Dunk (21 PTS) (Hield 2 AST),,,70 - 63,-7,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200004,398,2,1,3,8:35 PM,8:18,,,MISS Kuzma 28' 3PT Jump Shot,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,399,4,0,3,8:35 PM,8:14,Smith REBOUND (Off:1 Def:3),,,,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,400,6,2,3,8:35 PM,8:07,,,Gill S.FOUL (P2.T3) (A.Moyer-Gleich),,,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200004,402,3,11,3,8:36 PM,8:07,Smith Free Throw 1 of 2 (5 PTS),,,70 - 64,-6,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,403,7,3,3,8:36 PM,8:07,,,Lane,,,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0022200004,404,3,12,3,8:36 PM,8:07,Smith Free Throw 2 of 2 (6 PTS),,,70 - 65,-5,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,405,1,47,3,8:37 PM,7:51,,,Porzingis 9' Turnaround Jump Shot (13 PTS),72 - 65,-7,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,406,2,6,3,8:37 PM,7:43,MISS Duarte 1' Driving Layup,,Porzingis BLOCK (2 BLK),,,4,1630537,Chris Duarte,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1
+0022200004,408,4,0,3,8:37 PM,7:40,,,Kuzma REBOUND (Off:0 Def:7),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,409,6,2,3,8:37 PM,7:38,Hield S.FOUL (P1.T1) (A.Moyer-Gleich),,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,5,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200004,411,3,11,3,8:38 PM,7:38,,,Morris Free Throw 1 of 2 (6 PTS),73 - 65,-8,5,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,412,3,12,3,8:38 PM,7:38,,,Morris Free Throw 2 of 2 (7 PTS),74 - 65,-9,5,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,413,2,101,3,8:38 PM,7:25,MISS Haliburton 14' Driving Floating Jump Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,414,4,0,3,8:38 PM,7:21,,,Porzingis REBOUND (Off:1 Def:4),,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,415,5,1,3,8:39 PM,7:06,Taylor STEAL (2 STL),,Beal Bad Pass Turnover (P2.T8),,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,1630678,Terry Taylor,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200004,417,1,2,3,8:39 PM,7:01,Hield 24' 3PT Running Jump Shot (16 PTS) (Taylor 1 AST),,,74 - 68,-6,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,4,1630678,Terry Taylor,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200004,419,9,1,3,8:39 PM,7:00,,,Wizards Timeout: Regular (Reg.4 Short 0),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200004,420,1,108,3,8:42 PM,6:41,,,Porzingis 2' Cutting Dunk Shot (15 PTS) (Beal 4 AST),76 - 68,-8,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200004,422,2,5,3,8:42 PM,6:19,MISS Smith 3' Layup,,Gill BLOCK (1 BLK),,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,1
+0022200004,424,4,0,3,8:42 PM,6:16,,,Morris REBOUND (Off:2 Def:4),,,5,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,425,1,1,3,8:43 PM,6:07,,,Beal 3PT Jump Shot (18 PTS) (Morris 6 AST),79 - 68,-11,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200004,427,2,79,3,8:43 PM,5:47,MISS Hield 25' 3PT Pullup Jump Shot,,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,428,4,0,3,8:43 PM,5:47,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200004,430,8,0,3,8:43 PM,5:47,SUB: Mathurin FOR Duarte,,,,,4,1630537,Chris Duarte,1610612754.0,Indiana,Pacers,IND,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200004,431,8,0,3,8:43 PM,5:47,,,SUB: Hachimura FOR Gill,,,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200004,434,2,79,3,8:43 PM,5:30,,,MISS Morris 17' Pullup Jump Shot,,,5,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,435,4,0,3,8:44 PM,5:26,Smith REBOUND (Off:1 Def:4),,,,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,436,2,1,3,8:44 PM,5:16,MISS Mathurin 26' 3PT Jump Shot,,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,437,4,0,3,8:44 PM,5:14,,,Porzingis REBOUND (Off:1 Def:5),,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,438,2,98,3,8:44 PM,5:07,,,MISS Hachimura 2' Cutting Layup Shot,,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,439,4,0,3,8:44 PM,5:06,,,Hachimura REBOUND (Off:1 Def:2),,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,440,1,72,3,8:44 PM,5:04,,,Hachimura 2' Putback Layup (2 PTS),81 - 68,-13,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,441,9,1,3,8:44 PM,5:04,PACERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200004,442,8,0,3,8:46 PM,5:04,SUB: Bitadze FOR Smith,,,,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200004,444,1,1,3,8:47 PM,4:53,Taylor 26' 3PT Jump Shot (8 PTS) (Haliburton 4 AST),,,81 - 71,-10,4,1630678,Terry Taylor,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200004,446,2,80,3,8:48 PM,4:24,,,MISS Beal 19' Step Back Jump Shot,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,447,4,0,3,8:48 PM,4:24,Haliburton REBOUND (Off:1 Def:2),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,448,1,74,3,8:48 PM,4:15,Mathurin 2' Running Reverse Layup (14 PTS),,,81 - 73,-8,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,449,2,6,3,8:48 PM,4:02,Taylor BLOCK (1 BLK),,MISS Kuzma 5' Driving Layup,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,4,1630678,Terry Taylor,1610612754.0,Indiana,Pacers,IND,1
+0022200004,451,4,0,3,8:48 PM,3:59,Mathurin REBOUND (Off:1 Def:4),,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,452,2,2,3,8:48 PM,3:56,MISS Hield 25' 3PT Running Jump Shot,,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,453,4,0,3,8:48 PM,3:52,Haliburton REBOUND (Off:2 Def:2),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,454,2,1,3,8:48 PM,3:51,MISS Taylor 26' 3PT Jump Shot,,,,,4,1630678,Terry Taylor,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,455,4,0,3,8:48 PM,3:51,,,Porzingis REBOUND (Off:1 Def:6),,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,456,2,1,3,8:49 PM,3:27,,,MISS Porzingis 27' 3PT Jump Shot,,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,457,4,0,3,8:49 PM,3:24,Hield REBOUND (Off:1 Def:5),,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,458,2,6,3,8:49 PM,3:17,MISS Mathurin 4' Driving Layup,,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,459,4,0,3,8:49 PM,3:16,,,Porzingis REBOUND (Off:1 Def:7),,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,460,6,1,3,8:49 PM,3:16,Mathurin P.FOUL (P2.T2) (A.Moyer-Gleich),,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200004,462,8,0,3,8:49 PM,3:16,SUB: Nesmith FOR Taylor,,,,,4,1630678,Terry Taylor,1610612754.0,Indiana,Pacers,IND,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200004,463,8,0,3,8:49 PM,3:16,SUB: Brissett FOR Hield,,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200004,464,8,0,3,8:49 PM,3:16,,,SUB: Wright FOR Beal,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200004,465,8,0,3,8:49 PM,3:16,,,SUB: Gafford FOR Porzingis,,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200004,466,8,0,3,8:49 PM,3:16,,,SUB: Barton FOR Morris,,,5,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200004,472,1,47,3,8:50 PM,3:01,,,Kuzma 9' Turnaround Jump Shot (18 PTS),83 - 73,-10,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,473,2,1,3,8:50 PM,2:44,MISS Nesmith 26' 3PT Jump Shot,,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,474,4,0,3,8:50 PM,2:41,,,Hachimura REBOUND (Off:1 Def:3),,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,475,6,1,3,8:50 PM,2:37,Nesmith P.FOUL (P2.T3) (S.Foster),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200004,477,8,0,3,8:50 PM,2:37,SUB: McConnell FOR Haliburton,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200004,479,2,5,3,8:51 PM,2:28,,,MISS Gafford 3' Layup,,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,480,4,0,3,8:51 PM,2:28,,,Gafford REBOUND (Off:2 Def:3),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,483,5,1,3,8:52 PM,2:20,Bitadze STEAL (1 STL),,Kuzma Bad Pass Turnover (P1.T9),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200004,485,5,2,3,8:52 PM,2:17,Mathurin Lost Ball Turnover (P2.T11),,Gafford STEAL (1 STL),,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200004,487,5,39,3,8:52 PM,2:16,,,Gafford Step Out of Bounds Turnover (P2.T10),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022200004,488,5,45,3,8:53 PM,2:04,Mathurin Out of Bounds - Bad Pass Turnover Turnover (P3.T12),,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0022200004,492,8,0,3,8:53 PM,2:04,,,SUB: Beal FOR Kuzma,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200004,489,1,86,3,8:53 PM,1:42,,,Beal 15' Turnaround Fadeaway (20 PTS),85 - 73,-12,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,490,1,98,3,8:54 PM,1:20,McConnell 3' Cutting Layup Shot (6 PTS) (Bitadze 2 AST),,,85 - 75,-10,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200004,494,1,5,3,8:54 PM,1:06,,,Gafford 1' Layup (6 PTS),87 - 75,-12,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,496,2,6,3,8:54 PM,0:54,MISS Nesmith 1' Driving Layup,,Gafford BLOCK (1 BLK),,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1
+0022200004,498,4,0,3,8:54 PM,0:51,,,Wright REBOUND (Off:1 Def:1),,,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,501,5,40,3,8:55 PM,0:47,,,Barton Out of Bounds Lost Ball Turnover (P1.T11),,,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022200004,502,2,101,3,8:55 PM,0:27,MISS Mathurin 8' Driving Floating Jump Shot,,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,503,4,0,3,8:55 PM,0:24,Bitadze REBOUND (Off:1 Def:1),,,,,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,504,6,1,3,8:55 PM,0:24,,,Wright P.FOUL (P1.T4) (S.Foster),,,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200004,506,1,75,3,8:55 PM,0:19,McConnell 3' Driving Finger Roll Layup (8 PTS),,,87 - 77,-10,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,508,2,1,3,8:56 PM,0:01,,,MISS Barton 15' Jump Shot,,,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,509,4,0,3,8:56 PM,0:01,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200004,510,13,0,3,8:56 PM,0:00,,End of 3rd Period (8:56 PM EST),,87 - 77,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200004,511,12,0,4,8:59 PM,12:00,,Start of 4th Period (8:59 PM EST),,87 - 77,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200004,512,1,7,4,8:59 PM,11:35,,,Gafford 2' Dunk (8 PTS) (Beal 5 AST),89 - 77,-12,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200004,514,6,4,4,8:59 PM,11:22,Brissett OFF.Foul (P1) (S.Foster),,,,,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200004,516,5,37,4,8:59 PM,11:22,Brissett Offensive Foul Turnover (P1.T13),,,,,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0022200004,517,6,1,4,9:00 PM,11:14,McConnell P.FOUL (P2.T1) (A.Moyer-Gleich),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200004,519,5,40,4,9:00 PM,11:09,,,Beal Out of Bounds Lost Ball Turnover (P3.T12),,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022200004,520,2,6,4,9:00 PM,10:59,MISS Mathurin 6' Driving Layup,,Wright BLOCK (2 BLK),,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,1
+0022200004,522,4,0,4,9:00 PM,10:59,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200004,524,2,1,4,9:01 PM,10:58,MISS Bitadze 15' Jump Shot,,,,,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,525,4,0,4,9:01 PM,10:53,,,Hachimura REBOUND (Off:1 Def:4),,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,526,1,101,4,9:01 PM,10:44,,,Barton 3' Driving Floating Jump Shot (10 PTS),91 - 77,-14,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,527,9,1,4,9:01 PM,10:44,PACERS Timeout: Regular (Full 5 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200004,528,8,0,4,9:03 PM,10:44,SUB: Jackson FOR Bitadze,,,,,4,1629048,Goga Bitadze,1610612754.0,Indiana,Pacers,IND,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200004,530,5,45,4,9:04 PM,10:35,Jackson Out of Bounds - Bad Pass Turnover Turnover (P1.T14),,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0022200004,531,2,1,4,9:04 PM,10:26,,,MISS Wright 3PT Jump Shot,,,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,532,4,0,4,9:04 PM,10:22,McConnell REBOUND (Off:0 Def:1),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,533,1,103,4,9:04 PM,10:18,Brissett 27' 3PT Running Pull-Up Jump Shot (3 PTS) (McConnell 4 AST),,,91 - 80,-11,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200004,535,6,4,4,9:05 PM,9:59,,,Wright OFF.Foul (P2) (A.Moyer-Gleich),,,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200004,537,5,37,4,9:05 PM,9:59,,,Wright Offensive Foul Turnover (P1.T13),,,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022200004,538,2,63,4,9:05 PM,9:43,MISS McConnell 10' Fadeaway Jumper,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,539,4,0,4,9:05 PM,9:39,,,Beal REBOUND (Off:2 Def:2),,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,540,1,2,4,9:05 PM,9:35,,,Hachimura 24' 3PT Running Jump Shot (5 PTS) (Wright 1 AST),94 - 80,-14,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200004,542,6,11,4,9:06 PM,9:33,,Rick Carlisle Foul:T.FOUL (B.Barnaky),,,,6,1320,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200004,543,3,16,4,9:06 PM,9:33,,,Beal Free Throw Technical (21 PTS),95 - 80,-15,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,544,8,0,4,9:06 PM,9:33,SUB: Duarte FOR Mathurin,,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,4,1630537,Chris Duarte,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200004,545,8,0,4,9:06 PM,9:33,SUB: Hield FOR Nesmith,,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200004,546,8,0,4,9:06 PM,9:33,,,SUB: Gill FOR Beal,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200004,550,6,2,4,9:07 PM,9:24,,,Gill S.FOUL (P3.T1) (A.Moyer-Gleich),,,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200004,552,3,11,4,9:07 PM,9:24,MISS Jackson Free Throw 1 of 2,,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,553,4,1,4,9:07 PM,9:24,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200004,554,8,0,4,9:07 PM,9:24,SUB: Haliburton FOR Brissett,,,,,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200004,556,3,12,4,9:08 PM,9:24,Jackson Free Throw 2 of 2 (3 PTS),,,95 - 81,-14,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,557,6,1,4,9:08 PM,9:17,McConnell P.FOUL (P3.T2) (B.Barnaky),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200004,559,1,47,4,9:08 PM,9:12,,,Hachimura 13' Turnaround Jump Shot (7 PTS),97 - 81,-16,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,560,5,2,4,9:09 PM,8:48,Hield Lost Ball Turnover (P1.T15),,Wright STEAL (2 STL),,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200004,562,1,108,4,9:09 PM,8:41,,,Gafford 1' Cutting Dunk Shot (10 PTS) (Barton 3 AST),99 - 81,-18,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200004,564,9,1,4,9:09 PM,8:40,PACERS Timeout: Regular (Full 6 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200004,565,8,0,4,9:11 PM,8:40,SUB: Mathurin FOR McConnell,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200004,566,8,0,4,9:11 PM,8:40,SUB: Smith FOR Jackson,,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200004,569,1,5,4,9:12 PM,8:30,Smith 6' Layup (8 PTS) (Haliburton 5 AST),,,99 - 83,-16,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200004,571,2,101,4,9:12 PM,8:13,,,MISS Gill 13' Driving Floating Jump Shot,,,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,572,4,0,4,9:12 PM,8:09,,,Gafford REBOUND (Off:3 Def:3),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,573,1,97,4,9:12 PM,8:09,,,Gafford Tip Layup Shot (12 PTS),101 - 83,-18,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,574,1,79,4,9:12 PM,7:57,Duarte 27' 3PT Pullup Jump Shot (5 PTS) (Mathurin 1 AST),,,101 - 86,-15,4,1630537,Chris Duarte,1610612754.0,Indiana,Pacers,IND,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200004,576,5,40,4,9:13 PM,7:43,,,Barton Out of Bounds Lost Ball Turnover (P2.T14),,,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022200004,577,1,1,4,9:13 PM,7:35,Smith 26' 3PT Jump Shot (11 PTS) (Haliburton 6 AST),,,101 - 89,-12,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200004,579,2,1,4,9:13 PM,7:14,,,MISS Gill 3PT Jump Shot,,,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,580,4,0,4,9:13 PM,7:12,Smith REBOUND (Off:1 Def:5),,,,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,581,2,1,4,9:13 PM,7:03,MISS Smith 25' 3PT Jump Shot,,,,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,582,4,0,4,9:14 PM,7:01,,,Barton REBOUND (Off:0 Def:1),,,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,583,2,6,4,9:14 PM,6:50,,,MISS Barton 3' Driving Layup,,,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,584,4,0,4,9:14 PM,6:49,,,Gafford REBOUND (Off:4 Def:3),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,585,2,72,4,9:14 PM,6:48,,,MISS Gafford Putback Layup,,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,586,4,0,4,9:14 PM,6:47,,,Barton REBOUND (Off:1 Def:1),,,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0022200004,707,2,97,4,9:14 PM,6:47,,,MISS Barton 3' Tip Layup Shot,,,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0022200004,708,4,0,4,9:14 PM,6:47,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200004,588,8,0,4,9:14 PM,6:47,,,SUB: Beal FOR Hachimura,,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200004,589,8,0,4,9:14 PM,6:47,,,SUB: Porzingis FOR Gill,,,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200004,590,8,0,4,9:14 PM,6:47,,,SUB: Kuzma FOR Gafford,,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200004,595,8,0,4,9:15 PM,6:47,SUB: Nesmith FOR Duarte,,,,,4,1630537,Chris Duarte,1610612754.0,Indiana,Pacers,IND,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200004,597,2,79,4,9:16 PM,6:37,MISS Haliburton 15' Pullup Jump Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,598,4,0,4,9:16 PM,6:34,Mathurin REBOUND (Off:2 Def:4),,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,599,6,2,4,9:16 PM,6:33,,,Kuzma S.FOUL (P3.T2) (A.Moyer-Gleich),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200004,601,3,11,4,9:16 PM,6:33,MISS Mathurin Free Throw 1 of 2,,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0022200004,602,4,1,4,9:16 PM,6:33,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200004,603,3,12,4,9:16 PM,6:33,MISS Mathurin Free Throw 2 of 2,,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,604,4,0,4,9:16 PM,6:32,,,Kuzma REBOUND (Off:0 Def:8),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,605,6,1,4,9:17 PM,6:15,Nesmith P.FOUL (P3.T3) (A.Moyer-Gleich),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200004,607,2,1,4,9:17 PM,6:09,,,MISS Beal 25' 3PT Jump Shot,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,608,4,0,4,9:17 PM,6:04,Mathurin REBOUND (Off:2 Def:5),,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,609,1,41,4,9:17 PM,6:00,Smith 6' Running Layup (13 PTS) (Mathurin 2 AST),,,101 - 91,-10,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200004,611,6,2,4,9:17 PM,6:00,,,Wright S.FOUL (P3.T3) (A.Moyer-Gleich),,,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200004,613,3,10,4,9:18 PM,6:00,Smith Free Throw 1 of 1 (14 PTS),,,101 - 92,-9,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,614,2,79,4,9:18 PM,5:36,,,MISS Beal 25' 3PT Pullup Jump Shot,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,615,4,0,4,9:18 PM,5:33,,,Kuzma REBOUND (Off:1 Def:8),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,616,1,72,4,9:18 PM,5:32,,,Kuzma 2' Putback Layup (20 PTS),103 - 92,-11,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,617,1,102,4,9:18 PM,5:20,Haliburton 13' Driving Floating Bank Jump Shot (23 PTS),,,103 - 94,-9,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,618,6,2,4,9:19 PM,5:20,,,Wright S.FOUL (P4.T4) (S.Foster),,,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200004,620,9,1,4,9:19 PM,5:20,,,Wizards Timeout: Regular (Reg.5 Short 0),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200004,621,18,4,4,9:19 PM,5:20,,Instant Replay4th Period (9:19 PM EST),,103 - 94,-9,0,618,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200004,622,3,10,4,9:21 PM,5:20,Haliburton Free Throw 1 of 1 (24 PTS),,,103 - 95,-8,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,623,2,1,4,9:21 PM,4:57,,,MISS Kuzma 32' 3PT Jump Shot,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,624,4,0,4,9:22 PM,4:53,Hield REBOUND (Off:1 Def:6),,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,625,2,41,4,9:22 PM,4:46,MISS Hield 6' Running Layup,,Kuzma BLOCK (2 BLK),,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,1
+0022200004,627,4,0,4,9:22 PM,4:45,,,Beal REBOUND (Off:2 Def:3),,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,628,6,2,4,9:22 PM,4:42,Nesmith S.FOUL (P4.T4) (A.Moyer-Gleich),,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200004,630,3,11,4,9:22 PM,4:42,,,Beal Free Throw 1 of 2 (22 PTS),104 - 95,-9,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,631,3,12,4,9:23 PM,4:42,,,Beal Free Throw 2 of 2 (23 PTS),105 - 95,-10,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,632,1,79,4,9:23 PM,4:33,Haliburton 17' Pullup Jump Shot (26 PTS),,,105 - 97,-8,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,633,6,4,4,9:23 PM,4:16,,,Porzingis OFF.Foul (P1) (A.Moyer-Gleich),,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200004,635,5,37,4,9:23 PM,4:16,,,Porzingis Offensive Foul Turnover (P1.T15),,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022200004,636,6,2,4,9:24 PM,4:00,,,Beal S.FOUL (P2.PN) (S.Foster),,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200004,638,3,11,4,9:24 PM,4:00,MISS Smith Free Throw 1 of 2,,,,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,639,4,1,4,9:24 PM,4:00,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200004,640,3,12,4,9:24 PM,4:00,MISS Smith Free Throw 2 of 2,,,,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,641,4,0,4,9:24 PM,3:59,,,Kuzma REBOUND (Off:1 Def:9),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,642,1,1,4,9:25 PM,3:38,,,Wright 24' 3PT Jump Shot (8 PTS) (Porzingis 3 AST),108 - 97,-11,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200004,644,2,101,4,9:25 PM,3:25,MISS Haliburton 11' Driving Floating Jump Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,645,4,0,4,9:25 PM,3:24,,,Porzingis REBOUND (Off:1 Def:8),,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,646,6,4,4,9:25 PM,3:10,,,Porzingis OFF.Foul (P2) (A.Moyer-Gleich),,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200004,648,5,37,4,9:25 PM,3:10,,,Porzingis Offensive Foul Turnover (P2.T16),,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022200004,649,1,98,4,9:26 PM,2:55,Smith 2' Cutting Layup Shot (16 PTS) (Hield 3 AST),,,108 - 99,-9,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200004,651,2,79,4,9:26 PM,2:32,,,MISS Kuzma 20' Pullup Jump Shot,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,652,4,0,4,9:26 PM,2:30,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200004,654,2,1,4,9:27 PM,2:28,MISS Smith 27' 3PT Jump Shot,,,,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,656,2,97,4,9:27 PM,2:22,MISS Hield Tip Layup Shot,,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,655,4,0,4,9:27 PM,2:22,Hield REBOUND (Off:2 Def:6),,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,657,4,0,4,9:27 PM,2:21,,,Kuzma REBOUND (Off:1 Def:10),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,658,9,1,4,9:27 PM,2:14,,,Wizards Timeout: Regular (Reg.6 Short 0),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200004,659,1,1,4,9:29 PM,2:03,,,Kuzma 15' Jump Shot (22 PTS) (Beal 6 AST),110 - 99,-11,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200004,661,2,1,4,9:29 PM,1:54,MISS Hield 27' 3PT Jump Shot,,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,662,4,0,4,9:29 PM,1:49,,,Kuzma REBOUND (Off:1 Def:11),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,663,2,1,4,9:30 PM,1:28,,,MISS Porzingis 21' Jump Shot,,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,664,4,0,4,9:30 PM,1:26,Smith REBOUND (Off:1 Def:6),,,,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,665,1,103,4,9:30 PM,1:23,Nesmith 27' 3PT Running Pull-Up Jump Shot (3 PTS) (Haliburton 7 AST),,,110 - 102,-8,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200004,668,2,1,4,9:30 PM,1:03,,,MISS Beal 25' 3PT Jump Shot,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,669,4,0,4,9:30 PM,0:59,,,Porzingis REBOUND (Off:2 Def:8),,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,670,2,80,4,9:30 PM,0:53,,,MISS Kuzma 3PT Step Back Jump Shot,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,671,4,0,4,9:30 PM,0:50,Smith REBOUND (Off:1 Def:7),,,,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,672,1,103,4,9:30 PM,0:45,Mathurin 26' 3PT Running Pull-Up Jump Shot (17 PTS),,,110 - 105,-5,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,673,5,1,4,9:30 PM,0:40,Mathurin STEAL (2 STL),,Kuzma Bad Pass Turnover (P2.T17),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200004,675,2,1,4,9:31 PM,0:37,MISS Mathurin 26' 3PT Jump Shot,,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,676,4,0,4,9:31 PM,0:33,Hield REBOUND (Off:3 Def:6),,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,677,2,5,4,9:31 PM,0:32,MISS Nesmith 3' Layup,,Beal BLOCK (1 BLK),,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1
+0022200004,679,4,0,4,9:31 PM,0:32,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200004,681,1,44,4,9:31 PM,0:31,Mathurin 3' Reverse Layup (19 PTS) (Nesmith 1 AST),,,110 - 107,-3,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200004,683,6,2,4,9:31 PM,0:31,,,Kuzma S.FOUL (P4.PN) (S.Foster),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200004,685,3,10,4,9:31 PM,0:31,MISS Mathurin Free Throw 1 of 1,,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,686,4,0,4,9:31 PM,0:29,Hield REBOUND (Off:4 Def:6),,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,687,2,1,4,9:31 PM,0:28,MISS Haliburton 28' 3PT Jump Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,688,4,0,4,9:32 PM,0:24,,,Wright REBOUND (Off:1 Def:2),,,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,689,6,2,4,9:32 PM,0:14,Mathurin S.FOUL (P3.PN) (S.Foster),,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200004,691,3,11,4,9:32 PM,0:14,,,Barton Free Throw 1 of 2 (11 PTS),111 - 107,-4,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,692,8,0,4,9:32 PM,0:14,,,SUB: Gill FOR Porzingis,,,5,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200004,694,3,12,4,9:33 PM,0:14,,,Barton Free Throw 2 of 2 (12 PTS),112 - 107,-5,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,695,2,79,4,9:33 PM,0:10,MISS Nesmith 26' 3PT Pullup Jump Shot,,,,,4,1630174,Aaron Nesmith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,696,4,0,4,9:33 PM,0:09,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200004,697,6,3,4,9:33 PM,0:09,Hield L.B.FOUL (P2.PN) (S.Foster),,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200004,699,9,1,4,9:33 PM,0:09,PACERS Timeout: Regular (Full 7 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200004,700,18,4,4,9:33 PM,0:09,,Instant Replay4th Period (9:33 PM EST),,112 - 107,-5,0,697,Fred Hoiberg,,,,,0,0,,,,,,1,0,,,,,,1
+0022200004,701,3,11,4,9:36 PM,0:09,,,Barton Free Throw 1 of 2 (13 PTS),113 - 107,-6,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,702,3,12,4,9:36 PM,0:09,,,Barton Free Throw 2 of 2 (14 PTS),114 - 107,-7,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,703,2,1,4,9:36 PM,0:04,MISS Mathurin 28' 3PT Jump Shot,,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200004,704,4,0,4,9:36 PM,0:01,,,Kuzma REBOUND (Off:1 Def:12),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200004,705,13,0,4,9:36 PM,0:00,,End of 4th Period (9:36 PM EST),,114 - 107,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

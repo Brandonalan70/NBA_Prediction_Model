@@ -1,0 +1,503 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200399,2,12,0,1,6:12 PM,12:00,,Start of 1st Period (6:12 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200399,4,10,0,1,6:12 PM,12:00,Jump Ball Embiid vs. Plumlee: Tip to Rozier,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,1
+0022200399,7,2,79,1,6:12 PM,11:44,,,MISS Oubre Jr. 12' Pullup Jump Shot,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,8,4,0,1,6:12 PM,11:41,Harden REBOUND (Off:0 Def:1),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,9,2,47,1,6:12 PM,11:24,MISS Embiid 7' Turnaround Jump Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,10,4,0,1,6:12 PM,11:22,,,Washington REBOUND (Off:0 Def:1),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,11,2,1,1,6:13 PM,11:13,,,MISS Oubre Jr. 25' 3PT Jump Shot,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,12,4,0,1,6:13 PM,11:10,Harris REBOUND (Off:0 Def:1),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,14,2,101,1,6:13 PM,10:53,MISS Harden 3' Driving Floating Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,15,4,0,1,6:13 PM,10:51,,,Washington REBOUND (Off:0 Def:2),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,16,2,1,1,6:13 PM,10:45,,,MISS McDaniels 26' 3PT Jump Shot,,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,17,4,0,1,6:13 PM,10:41,Melton REBOUND (Off:0 Def:1),,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,18,6,1,1,6:14 PM,10:26,,,McDaniels P.FOUL (P1.T1) (D.Taylor),,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200399,20,2,63,1,6:14 PM,10:16,MISS Embiid 15' Fadeaway Jumper,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,21,4,0,1,6:14 PM,10:13,,,Rozier REBOUND (Off:0 Def:1),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,22,2,1,1,6:14 PM,10:02,,,MISS Washington 26' 3PT Jump Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,23,4,0,1,6:14 PM,10:01,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200399,25,1,5,1,6:15 PM,9:45,Embiid 2' Layup (2 PTS) (Melton 1 AST),,,0 - 2,2,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200399,27,1,79,1,6:15 PM,9:27,,,Oubre Jr. 7' Pullup Jump Shot (2 PTS) (Plumlee 1 AST),2 - 2,TIE,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200399,29,1,80,1,6:15 PM,9:02,Harden 25' 3PT Step Back Jump Shot (3 PTS),,,2 - 5,3,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,30,2,2,1,6:16 PM,8:53,Melton BLOCK (1 BLK),,MISS Plumlee 4' Running Jump Shot,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,1
+0022200399,32,4,0,1,6:16 PM,8:49,Harden REBOUND (Off:0 Def:2),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,33,2,2,1,6:16 PM,8:47,MISS Tucker 3PT Running Jump Shot,,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,34,4,0,1,6:16 PM,8:44,,,McDaniels REBOUND (Off:0 Def:1),,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,35,1,50,1,6:16 PM,8:40,,,McDaniels 1' Running Dunk (2 PTS),4 - 5,1,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,36,2,86,1,6:16 PM,8:31,MISS Embiid 13' Turnaround Fadeaway Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,37,4,0,1,6:16 PM,8:28,,,Plumlee REBOUND (Off:0 Def:1),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,38,2,41,1,6:16 PM,8:25,Harris BLOCK (1 BLK),,MISS Rozier 3' Running Layup,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,1
+0022200399,40,4,0,1,6:16 PM,8:25,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200399,42,1,80,1,6:16 PM,8:22,,,Rozier 3PT Step Back Jump Shot (3 PTS) (McDaniels 1 AST),7 - 5,-2,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200399,43,2,79,1,6:17 PM,7:57,MISS Melton 26' 3PT Pullup Jump Shot,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,44,4,0,1,6:17 PM,7:55,Harden REBOUND (Off:1 Def:2),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,45,2,1,1,6:17 PM,7:53,MISS Harden 28' 3PT Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,46,4,0,1,6:17 PM,7:49,,,Rozier REBOUND (Off:0 Def:2),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,47,2,1,1,6:17 PM,7:32,,,MISS Oubre Jr. 3PT Jump Shot,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,48,4,0,1,6:17 PM,7:30,Embiid REBOUND (Off:0 Def:1),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,49,5,1,1,6:17 PM,7:25,Melton Bad Pass Turnover (P1.T1),,Plumlee STEAL (1 STL),,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200399,51,1,76,1,6:17 PM,7:19,,,Oubre Jr. 1' Running Finger Roll Layup (4 PTS) (Plumlee 2 AST),9 - 5,-4,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200399,53,2,1,1,6:18 PM,7:02,MISS Harris 26' 3PT Jump Shot,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,54,4,0,1,6:18 PM,6:59,,,Plumlee REBOUND (Off:0 Def:2),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,55,1,79,1,6:18 PM,6:51,,,Rozier 14' Pullup Jump Shot (5 PTS),11 - 5,-6,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,56,2,101,1,6:18 PM,6:39,MISS Embiid 7' Driving Floating Jump Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,57,4,0,1,6:18 PM,6:39,Embiid REBOUND (Off:1 Def:1),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,206,2,97,1,6:18 PM,6:38,MISS Embiid 4' Tip Layup Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,207,4,0,1,6:18 PM,6:38,Embiid REBOUND (Off:2 Def:1),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,58,1,72,1,6:18 PM,6:33,Embiid Putback Layup (4 PTS),,,11 - 7,-4,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,59,2,75,1,6:19 PM,6:12,,,MISS McDaniels 2' Driving Finger Roll Layup,,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,60,4,0,1,6:19 PM,6:10,Harris REBOUND (Off:0 Def:2),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,61,5,2,1,6:19 PM,6:07,Harris Lost Ball Turnover (P1.T2),,McDaniels STEAL (1 STL),,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200399,63,1,100,1,6:19 PM,6:03,,,McDaniels 2' Running Alley Oop Layup Shot (4 PTS) (Washington 1 AST),13 - 7,-6,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200399,65,9,1,1,6:19 PM,6:03,76ERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200399,66,8,0,1,6:21 PM,6:03,,,SUB: McGowens FOR McDaniels,,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,5,1631121,Bryce McGowens,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200399,68,2,6,1,6:22 PM,5:49,MISS Harris 6' Driving Layup,,Plumlee BLOCK (1 BLK),,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,1
+0022200399,70,4,0,1,6:22 PM,5:46,,,Plumlee REBOUND (Off:0 Def:3),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,71,2,80,1,6:22 PM,5:37,,,MISS Washington 19' Step Back Jump Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,72,4,0,1,6:22 PM,5:34,Harden REBOUND (Off:1 Def:3),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,73,1,58,1,6:22 PM,5:29,Embiid 5' Turnaround Hook Shot (6 PTS) (Harden 1 AST),,,13 - 9,-4,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200399,75,5,2,1,6:23 PM,5:16,Melton STEAL (1 STL),,Rozier Lost Ball Turnover (P1.T1),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200399,77,2,41,1,6:23 PM,5:12,MISS Melton 1' Running Layup,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,78,4,0,1,6:23 PM,5:10,,,Washington REBOUND (Off:0 Def:3),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,79,1,41,1,6:23 PM,5:05,,,Oubre Jr. 1' Running Layup (6 PTS) (McGowens 1 AST),15 - 9,-6,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,1631121,Bryce McGowens,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200399,81,2,79,1,6:23 PM,4:51,MISS Embiid 14' Pullup Jump Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,82,4,0,1,6:23 PM,4:49,Tucker REBOUND (Off:1 Def:0),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,83,2,1,1,6:23 PM,4:41,MISS Harris 24' 3PT Jump Shot,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,84,4,0,1,6:23 PM,4:37,,,Plumlee REBOUND (Off:0 Def:4),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,85,2,98,1,6:24 PM,4:25,,,MISS Plumlee 1' Cutting Layup Shot,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,86,4,0,1,6:24 PM,4:21,Harden REBOUND (Off:1 Def:4),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,87,6,2,1,6:24 PM,4:16,,,Oubre Jr. S.FOUL (P1.T2) (R.Mott),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200399,89,3,11,1,6:24 PM,4:16,Harden Free Throw 1 of 2 (4 PTS),,,15 - 10,-5,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,98,3,12,1,6:24 PM,4:16,Harden Free Throw 2 of 2 (5 PTS),,,15 - 11,-4,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,90,8,0,1,6:24 PM,4:16,,,SUB: Richards FOR Rozier,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200399,91,8,0,1,6:24 PM,4:16,,,SUB: Maledon FOR Plumlee,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,5,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200399,94,8,0,1,6:24 PM,4:16,SUB: Milton FOR Melton,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200399,95,8,0,1,6:24 PM,4:16,SUB: Niang FOR Harris,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200399,99,2,79,1,6:25 PM,4:00,,,MISS Oubre Jr. 8' Pullup Jump Shot,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,100,4,0,1,6:25 PM,3:56,Milton REBOUND (Off:0 Def:1),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,101,5,1,1,6:25 PM,3:42,Niang Bad Pass Turnover (P1.T3),,Richards STEAL (1 STL),,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200399,103,2,79,1,6:25 PM,3:36,,,MISS McGowens 27' 3PT Pullup Jump Shot,,,5,1631121,Bryce McGowens,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,104,4,0,1,6:25 PM,3:36,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200399,105,6,1,1,6:25 PM,3:36,Tucker P.FOUL (P1.T1) (R.Mott),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200399,107,8,0,1,6:26 PM,3:36,SUB: Thybulle FOR Tucker,,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200399,109,6,1,1,6:26 PM,3:34,Thybulle P.FOUL (P1.T2) (R.Mott),,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200399,111,8,0,1,6:26 PM,3:34,SUB: Korkmaz FOR Harden,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200399,113,2,79,1,6:27 PM,3:19,,,MISS Maledon 28' 3PT Pullup Jump Shot,,,5,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,114,4,0,1,6:27 PM,3:14,Embiid REBOUND (Off:2 Def:2),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,115,1,6,1,6:27 PM,3:05,Embiid 3' Driving Layup (8 PTS),,,15 - 13,-2,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,116,1,101,1,6:27 PM,2:50,,,Oubre Jr. 5' Driving Floating Jump Shot (8 PTS),17 - 13,-4,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,117,5,1,1,6:27 PM,2:39,Korkmaz Bad Pass Turnover (P1.T4),,Washington STEAL (1 STL),,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200399,119,1,50,1,6:27 PM,2:35,,,Washington 1' Running Dunk (2 PTS),19 - 13,-6,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,120,5,1,1,6:28 PM,2:16,Thybulle Bad Pass Turnover (P1.T5),,McGowens STEAL (1 STL),,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,5,1631121,Bryce McGowens,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200399,122,5,40,1,6:28 PM,2:09,,,McGowens Out of Bounds Lost Ball Turnover (P1.T2),,,5,1631121,Bryce McGowens,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022200399,123,9,1,1,6:28 PM,2:09,,,Hornets Timeout: Regular (Reg.1 Short 0),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200399,124,8,0,1,6:30 PM,2:09,,,SUB: McDaniels FOR Oubre Jr.,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200399,125,8,0,1,6:30 PM,2:09,,,SUB: Jones FOR Washington,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200399,128,8,0,1,6:30 PM,2:09,SUB: Harrell FOR Embiid,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200399,130,2,1,1,6:31 PM,1:54,MISS Milton 10' Jump Shot,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,131,4,0,1,6:31 PM,1:50,,,McDaniels REBOUND (Off:0 Def:2),,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,132,1,63,1,6:31 PM,1:37,,,McDaniels 12' Fadeaway Jumper (6 PTS) (Maledon 1 AST),21 - 13,-8,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,5,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200399,134,1,3,1,6:31 PM,1:24,Harrell 10' Hook Shot (2 PTS) (Milton 1 AST),,,21 - 15,-6,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200399,136,6,1,1,6:32 PM,1:12,Thybulle P.FOUL (P2.T3) (D.Taylor),,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200399,138,8,0,1,6:32 PM,1:12,,,SUB: Rozier FOR McGowens,,,5,1631121,Bryce McGowens,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200399,140,5,1,1,6:32 PM,0:59,Korkmaz STEAL (1 STL),,Maledon Bad Pass Turnover (P1.T3),,,5,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200399,142,1,75,1,6:33 PM,0:51,Milton 1' Driving Finger Roll Layup (2 PTS) (Harrell 1 AST),,,21 - 17,-4,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200399,144,6,2,1,6:33 PM,0:51,,,Rozier S.FOUL (P1.T3) (R.Mott),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200399,146,3,10,1,6:33 PM,0:51,Milton Free Throw 1 of 1 (3 PTS),,,21 - 18,-3,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,147,2,102,1,6:33 PM,0:37,,,MISS Maledon 7' Driving Floating Bank Jump Shot,,,5,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,148,4,0,1,6:33 PM,0:34,,,McDaniels REBOUND (Off:1 Def:2),,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,149,2,78,1,6:33 PM,0:26,,,MISS Jones 5' Floating Jump Shot,,,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,150,4,0,1,6:33 PM,0:23,Niang REBOUND (Off:0 Def:1),,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,151,1,101,1,6:34 PM,0:19,Milton 5' Driving Floating Jump Shot (5 PTS),,,21 - 20,-1,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,153,2,1,1,6:34 PM,0:00,,,MISS Richards 10' Jump Shot,,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,154,4,0,1,6:34 PM,0:00,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200399,155,13,0,1,6:34 PM,0:00,,End of 1st Period (6:34 PM EST),,21 - 20,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200399,159,12,0,2,6:37 PM,12:00,,Start of 2nd Period (6:37 PM EST),,21 - 20,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200399,160,6,2,2,6:37 PM,11:51,,,Oubre Jr. S.FOUL (P2.T1) (D.Taylor),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200399,162,3,11,2,6:37 PM,11:51,Korkmaz Free Throw 1 of 2 (1 PTS),,,21 - 21,TIE,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,163,3,12,2,6:37 PM,11:51,MISS Korkmaz Free Throw 2 of 2,,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,164,4,0,2,6:37 PM,11:49,,,Jones REBOUND (Off:0 Def:1),,,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,165,2,75,2,6:38 PM,11:33,Harrell BLOCK (1 BLK),,MISS Rozier 2' Driving Finger Roll Layup,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,1
+0022200399,167,4,0,2,6:38 PM,11:33,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200399,168,1,80,2,6:38 PM,11:26,,,Rozier 25' 3PT Step Back Jump Shot (8 PTS),24 - 21,-3,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,169,1,98,2,6:38 PM,11:12,Harrell 1' Cutting Layup Shot (4 PTS) (Niang 1 AST),,,24 - 23,-1,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200399,171,6,2,2,6:38 PM,11:12,,,Jones S.FOUL (P1.T2) (R.Mott),,,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200399,173,3,10,2,6:39 PM,11:12,Harrell Free Throw 1 of 1 (5 PTS),,,24 - 24,TIE,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,174,1,101,2,6:39 PM,11:02,,,Oubre Jr. 7' Driving Floating Jump Shot (10 PTS) (Rozier 1 AST),26 - 24,-2,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200399,176,6,2,2,6:39 PM,11:02,Milton S.FOUL (P1.T1) (N.Buchert),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200399,178,3,10,2,6:40 PM,11:02,,,Oubre Jr. Free Throw 1 of 1 (11 PTS),27 - 24,-3,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,179,2,101,2,6:40 PM,10:53,MISS Milton 12' Driving Floating Jump Shot,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,180,4,0,2,6:40 PM,10:50,,,Rozier REBOUND (Off:0 Def:3),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,181,1,5,2,6:40 PM,10:43,,,Rozier 3' Layup (10 PTS),29 - 24,-5,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,182,2,6,2,6:40 PM,10:29,MISS Korkmaz 4' Driving Layup,,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,183,4,0,2,6:40 PM,10:26,Harrell REBOUND (Off:1 Def:0),,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,184,1,7,2,6:40 PM,10:12,Harrell 1' Dunk (7 PTS) (Milton 2 AST),,,29 - 26,-3,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200399,186,1,57,2,6:41 PM,10:03,,,Rozier 3' Driving Hook Shot (12 PTS),31 - 26,-5,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,187,6,2,2,6:41 PM,9:51,,,Rozier S.FOUL (P2.T3) (N.Buchert),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200399,189,3,11,2,6:41 PM,9:51,Milton Free Throw 1 of 2 (6 PTS),,,31 - 27,-4,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,194,3,12,2,6:41 PM,9:51,MISS Milton Free Throw 2 of 2,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,190,8,0,2,6:41 PM,9:51,SUB: Harden FOR Thybulle,,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200399,191,8,0,2,6:41 PM,9:51,SUB: Harris FOR Korkmaz,,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200399,195,4,0,2,6:41 PM,9:49,,,Richards REBOUND (Off:0 Def:1),,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,196,2,57,2,6:42 PM,9:34,,,MISS Rozier 5' Driving Hook Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,197,4,0,2,6:42 PM,9:34,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200399,198,6,3,2,6:42 PM,9:34,Harden L.B.FOUL (P1.T2) (N.Buchert),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200399,200,8,0,2,6:42 PM,9:34,SUB: Tucker FOR Niang,,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200399,202,5,11,2,6:43 PM,9:19,,,Hornets Turnover: Shot Clock (T#4),,,3,1610612766,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200399,204,8,0,2,6:43 PM,9:09,,,SUB: McGowens FOR Oubre Jr.,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,1631121,Bryce McGowens,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200399,208,2,79,2,6:44 PM,9:01,MISS Harden 26' 3PT Pullup Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,209,4,0,2,6:44 PM,8:58,,,Richards REBOUND (Off:0 Def:2),,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,210,6,2,2,6:44 PM,8:43,Tucker S.FOUL (P2.T3) (D.Taylor),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200399,212,3,11,2,6:44 PM,8:43,,,Richards Free Throw 1 of 2 (1 PTS),32 - 27,-5,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,213,3,12,2,6:45 PM,8:43,,,Richards Free Throw 2 of 2 (2 PTS),33 - 27,-6,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,214,6,2,2,6:45 PM,8:21,,,McDaniels S.FOUL (P2.T4) (D.Taylor),,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200399,216,3,13,2,6:46 PM,8:21,Tucker Free Throw 1 of 3 (1 PTS),,,33 - 28,-5,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,217,3,14,2,6:46 PM,8:21,Tucker Free Throw 2 of 3 (2 PTS),,,33 - 29,-4,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,218,8,0,2,6:46 PM,8:21,SUB: Embiid FOR Harrell,,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200399,219,8,0,2,6:46 PM,8:21,SUB: Melton FOR Milton,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200399,220,8,0,2,6:46 PM,8:21,,,SUB: Washington FOR Rozier,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200399,221,8,0,2,6:46 PM,8:21,,,SUB: Maledon FOR Jones,,,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,5,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200399,226,3,15,2,6:47 PM,8:21,Tucker Free Throw 3 of 3 (3 PTS),,,33 - 30,-3,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,227,2,78,2,6:47 PM,8:08,,,MISS Washington 8' Floating Jump Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,228,4,0,2,6:47 PM,8:05,Embiid REBOUND (Off:2 Def:3),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,229,1,1,2,6:47 PM,7:51,Embiid 25' 3PT Jump Shot (11 PTS) (Harris 1 AST),,,33 - 33,TIE,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200399,231,6,1,2,6:47 PM,7:42,Harris P.FOUL (P1.T4) (R.Mott),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200399,233,2,101,2,6:48 PM,7:33,,,MISS Maledon 5' Driving Floating Jump Shot,,,5,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,234,4,0,2,6:48 PM,7:31,Melton REBOUND (Off:0 Def:2),,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,235,1,6,2,6:48 PM,7:22,Harden Driving Layup (7 PTS),,,33 - 35,2,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,236,2,47,2,6:48 PM,6:58,,,MISS Washington 7' Turnaround Jump Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,237,4,0,2,6:48 PM,6:56,Embiid REBOUND (Off:2 Def:4),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,238,1,50,2,6:48 PM,6:53,Harris 1' Running Dunk (2 PTS) (Embiid 1 AST),,,33 - 37,4,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200399,240,9,1,2,6:49 PM,6:53,,,Hornets Timeout: Regular (Reg.2 Short 0),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200399,241,8,0,2,6:51 PM,6:53,,,SUB: Plumlee FOR Richards,,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200399,243,5,40,2,6:52 PM,6:35,,,McGowens Out of Bounds Lost Ball Turnover (P2.T5),,,5,1631121,Bryce McGowens,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022200399,244,1,1,2,6:52 PM,6:25,Embiid 13' Jump Shot (13 PTS) (Harden 2 AST),,,33 - 39,6,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200399,246,2,78,2,6:52 PM,6:08,,,MISS McDaniels 8' Floating Jump Shot,,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,247,4,0,2,6:52 PM,6:06,,,Plumlee REBOUND (Off:1 Def:4),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,248,2,1,2,6:53 PM,5:59,,,MISS McDaniels 28' 3PT Jump Shot,,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,249,4,0,2,6:53 PM,5:55,Harden REBOUND (Off:1 Def:5),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,250,1,6,2,6:53 PM,5:51,Harris 2' Driving Layup (4 PTS) (Melton 2 AST),,,33 - 41,8,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200399,252,6,2,2,6:53 PM,5:51,,,Washington S.FOUL (P1.PN) (R.Mott),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200399,254,8,0,2,6:53 PM,5:51,,,SUB: Rozier FOR McGowens,,,5,1631121,Bryce McGowens,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200399,255,8,0,2,6:53 PM,5:51,,,SUB: Oubre Jr. FOR Maledon,,,5,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200399,258,3,10,2,6:53 PM,5:51,Harris Free Throw 1 of 1 (5 PTS),,,33 - 42,9,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,259,5,45,2,6:54 PM,5:30,,,McDaniels Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022200399,260,2,6,2,6:54 PM,5:13,MISS Embiid 2' Driving Layup,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,261,4,0,2,6:54 PM,5:13,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200399,263,2,79,2,6:55 PM,5:06,MISS Embiid 10' Pullup Jump Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,264,4,0,2,6:55 PM,5:03,,,Rozier REBOUND (Off:0 Def:4),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,265,1,6,2,6:55 PM,4:46,,,McDaniels 2' Driving Layup (8 PTS) (Rozier 2 AST),35 - 42,7,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200399,267,1,101,2,6:55 PM,4:37,Harden 3' Driving Floating Jump Shot (9 PTS),,,35 - 44,9,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,268,6,2,2,6:55 PM,4:37,,,McDaniels S.FOUL (P3.PN) (D.Taylor),,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200399,270,8,0,2,6:55 PM,4:37,,,SUB: McGowens FOR McDaniels,,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,5,1631121,Bryce McGowens,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200399,272,3,10,2,6:56 PM,4:37,MISS Harden Free Throw 1 of 1,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,273,4,0,2,6:56 PM,4:34,,,Plumlee REBOUND (Off:1 Def:5),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,274,2,78,2,6:56 PM,4:20,,,MISS Oubre Jr. 4' Floating Jump Shot,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,275,4,0,2,6:56 PM,4:19,,,Plumlee REBOUND (Off:2 Def:5),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,276,1,107,2,6:56 PM,4:19,,,Plumlee Tip Dunk Shot (2 PTS),37 - 44,7,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,277,5,40,2,6:56 PM,4:02,Harris Out of Bounds Lost Ball Turnover (P2.T6),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200399,278,5,1,2,6:56 PM,3:51,Harris STEAL (1 STL),,Rozier Bad Pass Turnover (P2.T7),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200399,280,1,50,2,6:57 PM,3:47,Harris 1' Running Dunk (7 PTS),,,37 - 46,9,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,281,1,1,2,6:57 PM,3:34,,,Rozier 26' 3PT Jump Shot (15 PTS) (Plumlee 3 AST),40 - 46,6,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200399,283,2,5,2,6:57 PM,3:16,MISS Tucker 3' Layup,,Oubre Jr. BLOCK (1 BLK),,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,1
+0022200399,285,4,0,2,6:57 PM,3:13,,,Rozier REBOUND (Off:0 Def:5),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,286,2,103,2,6:57 PM,3:11,,,MISS Rozier 27' 3PT Running Pull-Up Jump Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,287,4,0,2,6:57 PM,3:08,Embiid REBOUND (Off:2 Def:5),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,288,6,2,2,6:57 PM,3:03,,,Rozier S.FOUL (P3.PN) (N.Buchert),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200399,290,3,11,2,6:58 PM,3:03,Embiid Free Throw 1 of 2 (14 PTS),,,40 - 47,7,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,291,8,0,2,6:58 PM,3:03,,,SUB: Maledon FOR Rozier,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200399,293,3,12,2,6:58 PM,3:03,Embiid Free Throw 2 of 2 (15 PTS),,,40 - 48,8,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,295,6,2,2,6:59 PM,2:52,Melton S.FOUL (P1.PN) (N.Buchert),,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200399,297,9,1,2,7:00 PM,2:52,76ERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200399,298,3,11,2,7:03 PM,2:52,,,Oubre Jr. Free Throw 1 of 2 (12 PTS),41 - 48,7,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,299,3,12,2,7:03 PM,2:52,,,Oubre Jr. Free Throw 2 of 2 (13 PTS),42 - 48,6,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,300,1,6,2,7:03 PM,2:40,Embiid 2' Driving Layup (17 PTS),,,42 - 50,8,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,301,1,79,2,7:03 PM,2:25,,,Oubre Jr. 8' Pullup Jump Shot (15 PTS),44 - 50,6,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,302,5,1,2,7:04 PM,2:11,Harden Bad Pass Turnover (P1.T7),,Oubre Jr. STEAL (1 STL),,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200399,304,1,50,2,7:04 PM,2:07,,,Oubre Jr. 3' Running Dunk (17 PTS),46 - 50,4,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,305,1,6,2,7:04 PM,1:47,Embiid 5' Driving Layup (19 PTS),,,46 - 52,6,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,306,6,2,2,7:04 PM,1:47,,,Plumlee S.FOUL (P1.PN) (N.Buchert),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200399,308,8,0,2,7:04 PM,1:47,SUB: Milton FOR Melton,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200399,310,3,10,2,7:05 PM,1:47,Embiid Free Throw 1 of 1 (20 PTS),,,46 - 53,7,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,311,1,1,2,7:05 PM,1:33,,,Maledon 26' 3PT Jump Shot (3 PTS) (Oubre Jr. 1 AST),49 - 53,4,5,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200399,313,1,6,2,7:05 PM,1:18,Embiid 1' Driving Layup (22 PTS),,,49 - 55,6,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,314,6,2,2,7:05 PM,1:18,,,Plumlee S.FOUL (P2.PN) (D.Taylor),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200399,316,3,10,2,7:06 PM,1:18,Embiid Free Throw 1 of 1 (23 PTS),,,49 - 56,7,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,317,2,1,2,7:06 PM,1:05,,,MISS Washington 26' 3PT Jump Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,318,4,0,2,7:06 PM,1:02,Harden REBOUND (Off:1 Def:6),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,319,1,50,2,7:06 PM,0:58,Embiid Running Dunk (25 PTS) (Harden 3 AST),,,49 - 58,9,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200399,321,6,2,2,7:06 PM,0:58,,,Oubre Jr. S.FOUL (P3.PN) (N.Buchert),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200399,323,8,0,2,7:06 PM,0:58,,,SUB: Bouknight FOR Oubre Jr.,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200399,324,8,0,2,7:06 PM,0:58,,,SUB: Richards FOR Plumlee,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200399,327,3,10,2,7:07 PM,0:58,Embiid Free Throw 1 of 1 (26 PTS),,,49 - 59,10,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,328,1,80,2,7:07 PM,0:40,,,Bouknight 27' 3PT Step Back Jump Shot (3 PTS),52 - 59,7,5,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,329,6,1,2,7:07 PM,0:31,,,Bouknight P.FOUL (P1.PN) (N.Buchert),,,5,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200399,331,3,11,2,7:08 PM,0:31,Embiid Free Throw 1 of 2 (27 PTS),,,52 - 60,8,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,332,8,0,2,7:08 PM,0:31,SUB: Thybulle FOR Tucker,,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200399,334,3,12,2,7:08 PM,0:31,Embiid Free Throw 2 of 2 (28 PTS),,,52 - 61,9,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,335,2,101,2,7:08 PM,0:19,Embiid BLOCK (1 BLK),,MISS Washington 9' Driving Floating Jump Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1
+0022200399,337,4,0,2,7:08 PM,0:16,,,Richards REBOUND (Off:1 Def:2),,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,338,1,97,2,7:08 PM,0:16,,,Richards Tip Layup Shot (4 PTS),54 - 61,7,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,339,2,1,2,7:09 PM,0:01,MISS Harden 26' 3PT Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,340,4,0,2,7:09 PM,0:01,,,Bouknight REBOUND (Off:0 Def:1),,,5,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,341,13,0,2,7:09 PM,0:00,,End of 2nd Period (7:09 PM EST),,54 - 61,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200399,354,12,0,3,7:24 PM,12:00,,Start of 3rd Period (7:24 PM EST),,54 - 61,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200399,355,5,2,3,7:24 PM,11:39,Embiid Lost Ball Turnover (P1.T8),,Oubre Jr. STEAL (2 STL),,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200399,357,2,41,3,7:25 PM,11:35,,,MISS McDaniels 2' Running Layup,,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,358,4,0,3,7:25 PM,11:32,Embiid REBOUND (Off:2 Def:6),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,359,1,1,3,7:25 PM,11:24,Harden 27' 3PT Jump Shot (12 PTS) (Embiid 2 AST),,,54 - 64,10,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200399,361,2,98,3,7:25 PM,11:09,,,MISS Rozier 2' Cutting Layup Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,362,4,0,3,7:25 PM,11:09,,,Rozier REBOUND (Off:1 Def:5),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,363,2,97,3,7:25 PM,11:06,,,MISS Rozier Tip Layup Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,364,4,0,3,7:25 PM,11:02,,,Rozier REBOUND (Off:2 Def:5),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,365,1,72,3,7:25 PM,11:02,,,Rozier Putback Layup (17 PTS),56 - 64,8,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,366,1,1,3,7:25 PM,10:57,Embiid 27' 3PT Jump Shot (31 PTS) (Harris 2 AST),,,56 - 67,11,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200399,368,1,102,3,7:26 PM,10:36,,,Rozier 6' Driving Floating Bank Jump Shot (19 PTS),58 - 67,9,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,369,6,2,3,7:26 PM,10:36,Melton S.FOUL (P2.T1) (D.Taylor),,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200399,371,3,10,3,7:26 PM,10:36,,,Rozier Free Throw 1 of 1 (20 PTS),59 - 67,8,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,372,1,1,3,7:26 PM,10:21,Melton 26' 3PT Jump Shot (3 PTS) (Harden 4 AST),,,59 - 70,11,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200399,374,2,1,3,7:27 PM,10:03,,,MISS McDaniels 26' 3PT Jump Shot,,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,375,4,0,3,7:27 PM,10:00,,,Plumlee REBOUND (Off:3 Def:5),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,376,1,1,3,7:27 PM,9:58,,,Oubre Jr. 26' 3PT Jump Shot (20 PTS) (Plumlee 4 AST),62 - 70,8,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200399,378,5,1,3,7:27 PM,9:34,Harden Bad Pass Turnover (P2.T9),,McDaniels STEAL (2 STL),,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200399,380,5,1,3,7:27 PM,9:33,Harris STEAL (2 STL),,McDaniels Bad Pass Turnover (P2.T8),,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200399,382,6,28,3,7:27 PM,9:33,,,Washington Personal Take Foul (P2.T1) (R.Mott),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200399,384,2,1,3,7:28 PM,9:24,MISS Harden 27' 3PT Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,385,4,0,3,7:28 PM,9:21,,,Plumlee REBOUND (Off:3 Def:6),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,386,2,101,3,7:28 PM,9:08,,,MISS Oubre Jr. 3' Driving Floating Jump Shot,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,387,4,0,3,7:28 PM,9:06,Embiid REBOUND (Off:2 Def:7),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,388,1,76,3,7:28 PM,9:00,Harris 1' Running Finger Roll Layup (9 PTS) (Harden 5 AST),,,62 - 72,10,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200399,390,2,1,3,7:28 PM,8:46,,,MISS Washington 26' 3PT Jump Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,391,4,0,3,7:29 PM,8:43,Tucker REBOUND (Off:1 Def:1),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,392,1,2,3,7:29 PM,8:37,Melton 26' 3PT Running Jump Shot (6 PTS) (Harden 6 AST),,,62 - 75,13,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200399,394,9,1,3,7:29 PM,8:37,,,Hornets Timeout: Regular (Reg.3 Short 0),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200399,395,5,1,3,7:32 PM,8:18,Tucker STEAL (1 STL),,Oubre Jr. Bad Pass Turnover (P1.T9),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200399,397,1,1,3,7:32 PM,8:10,Melton 24' 3PT Jump Shot (9 PTS) (Harden 7 AST),,,62 - 78,16,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200399,399,6,2,3,7:32 PM,7:50,Harden S.FOUL (P2.T2) (D.Taylor),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200399,401,3,11,3,7:33 PM,7:50,,,MISS Oubre Jr. Free Throw 1 of 2,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,402,4,1,3,7:33 PM,7:50,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200399,403,3,12,3,7:33 PM,7:50,,,MISS Oubre Jr. Free Throw 2 of 2,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,404,4,0,3,7:33 PM,7:48,Melton REBOUND (Off:0 Def:3),,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,405,1,1,3,7:34 PM,7:32,Melton 27' 3PT Jump Shot (12 PTS) (Harden 8 AST),,,62 - 81,19,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200399,407,1,50,3,7:34 PM,7:25,,,Oubre Jr. Running Dunk (22 PTS) (Rozier 3 AST),64 - 81,17,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200399,409,1,79,3,7:34 PM,7:08,Embiid 21' Pullup Jump Shot (33 PTS) (Harden 9 AST),,,64 - 83,19,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200399,411,2,6,3,7:34 PM,6:52,Tucker BLOCK (1 BLK),,MISS Washington 9' Driving Layup,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,1
+0022200399,413,4,0,3,7:34 PM,6:52,,,Plumlee REBOUND (Off:4 Def:6),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,414,6,2,3,7:34 PM,6:52,Embiid S.FOUL (P1.T3) (R.Mott),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200399,416,3,11,3,7:35 PM,6:52,,,Plumlee Free Throw 1 of 2 (3 PTS),65 - 83,18,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,417,3,12,3,7:35 PM,6:52,,,Plumlee Free Throw 2 of 2 (4 PTS),66 - 83,17,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,418,1,79,3,7:35 PM,6:40,Embiid 15' Pullup Jump Shot (35 PTS) (Harden 10 AST),,,66 - 85,19,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200399,420,6,2,3,7:35 PM,6:28,Embiid S.FOUL (P2.T4) (N.Buchert),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200399,422,3,11,3,7:36 PM,6:28,,,McDaniels Free Throw 1 of 2 (9 PTS),67 - 85,18,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,423,3,12,3,7:36 PM,6:28,,,McDaniels Free Throw 2 of 2 (10 PTS),68 - 85,17,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,425,2,1,3,7:37 PM,6:12,MISS Melton 24' 3PT Jump Shot,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,426,4,0,3,7:37 PM,6:10,,,Rozier REBOUND (Off:2 Def:6),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,427,1,106,3,7:37 PM,6:07,,,McDaniels 1' Running Alley Oop Dunk Shot (12 PTS) (Rozier 4 AST),70 - 85,15,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200399,429,9,1,3,7:37 PM,6:06,76ERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200399,430,1,6,3,7:40 PM,5:57,Harris 2' Driving Layup (11 PTS) (Harden 11 AST),,,70 - 87,17,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200399,432,5,45,3,7:40 PM,5:39,,,Plumlee Out of Bounds - Bad Pass Turnover Turnover (P1.T10),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022200399,433,5,21,3,7:41 PM,5:32,Harden Palming Turnover (P3.T10),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200399,434,1,79,3,7:41 PM,5:21,,,Oubre Jr. 26' 3PT Pullup Jump Shot (25 PTS) (Plumlee 5 AST),73 - 87,14,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200399,436,2,79,3,7:41 PM,5:08,MISS Embiid 18' Pullup Jump Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,437,4,0,3,7:41 PM,5:08,,,McDaniels REBOUND (Off:1 Def:3),,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,438,2,57,3,7:41 PM,4:48,,,MISS McDaniels 3' Driving Hook Shot,,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,440,4,0,3,7:41 PM,4:48,,,Plumlee REBOUND (Off:5 Def:6),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,538,1,72,3,7:42 PM,4:47,,,Plumlee 2' Putback Layup (6 PTS),75 - 87,12,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0022200399,444,6,2,3,7:42 PM,4:47,Harris S.FOUL (P2.PN) (D.Taylor),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200399,446,8,0,3,7:42 PM,4:47,SUB: Milton FOR Melton,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200399,447,8,0,3,7:42 PM,4:47,,,SUB: McGowens FOR McDaniels,,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,5,1631121,Bryce McGowens,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200399,448,8,0,3,7:42 PM,4:47,,,SUB: Maledon FOR Rozier,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200399,452,3,10,3,7:42 PM,4:47,,,Plumlee Free Throw 1 of 1 (7 PTS),76 - 87,11,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,453,2,9,3,7:43 PM,4:22,MISS Embiid 4' Driving Dunk,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,454,4,0,3,7:43 PM,4:22,Harris REBOUND (Off:1 Def:2),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,455,2,1,3,7:43 PM,4:19,MISS Harris 3PT Jump Shot,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,456,4,0,3,7:43 PM,4:16,,,Plumlee REBOUND (Off:5 Def:7),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,457,5,1,3,7:43 PM,4:15,Harris STEAL (3 STL),,Plumlee Bad Pass Turnover (P2.T11),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200399,459,5,2,3,7:43 PM,4:11,Harris Lost Ball Turnover (P3.T11),,Maledon STEAL (1 STL),,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200399,461,6,28,3,7:43 PM,4:11,Harris Personal Take Foul (P3.PN) (D.Taylor),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200399,463,3,11,3,7:44 PM,4:11,,,Maledon Free Throw 1 of 2 (4 PTS),77 - 87,10,5,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,464,8,0,3,7:44 PM,4:11,SUB: Niang FOR Harris,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200399,465,8,0,3,7:44 PM,4:11,,,SUB: Richards FOR Plumlee,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200399,468,3,12,3,7:44 PM,4:11,,,Maledon Free Throw 2 of 2 (5 PTS),78 - 87,9,5,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,469,2,58,3,7:44 PM,3:59,MISS Tucker 4' Turnaround Hook Shot,,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,470,4,0,3,7:44 PM,3:55,,,McGowens REBOUND (Off:0 Def:1),,,5,1631121,Bryce McGowens,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,471,2,80,3,7:44 PM,3:42,,,MISS Washington 26' 3PT Step Back Jump Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,472,4,0,3,7:44 PM,3:40,Harden REBOUND (Off:1 Def:7),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,473,1,6,3,7:45 PM,3:29,Embiid 3' Driving Layup (37 PTS) (Harden 12 AST),,,78 - 89,11,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200399,475,6,2,3,7:45 PM,3:10,Milton S.FOUL (P2.PN) (N.Buchert),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200399,477,3,11,3,7:45 PM,3:10,,,Maledon Free Throw 1 of 2 (6 PTS),79 - 89,10,5,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,478,8,0,3,7:45 PM,3:10,SUB: Korkmaz FOR Harden,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200399,479,8,0,3,7:45 PM,3:10,SUB: Thybulle FOR Tucker,,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200399,482,3,12,3,7:46 PM,3:10,,,Maledon Free Throw 2 of 2 (7 PTS),80 - 89,9,5,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,483,1,79,3,7:46 PM,2:56,Embiid 19' Pullup Jump Shot (39 PTS),,,80 - 91,11,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,484,2,98,3,7:46 PM,2:33,,,MISS Richards 4' Cutting Layup Shot,,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,485,4,0,3,7:46 PM,2:32,Milton REBOUND (Off:0 Def:2),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,486,2,2,3,7:46 PM,2:29,MISS Niang 26' 3PT Running Jump Shot,,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,487,4,0,3,7:46 PM,2:26,,,Richards REBOUND (Off:1 Def:3),,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,488,2,1,3,7:47 PM,2:07,,,MISS McGowens 27' 3PT Jump Shot,,,5,1631121,Bryce McGowens,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,489,4,0,3,7:47 PM,2:04,Embiid REBOUND (Off:2 Def:8),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,490,5,1,3,7:47 PM,1:54,Embiid Bad Pass Turnover (P2.T12),,Washington STEAL (2 STL),,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200399,492,2,41,3,7:47 PM,1:49,,,MISS Maledon 3' Running Layup,,,5,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,493,4,0,3,7:47 PM,1:46,,,Washington REBOUND (Off:1 Def:3),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,494,2,97,3,7:47 PM,1:46,,,MISS Washington Tip Layup Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,495,4,0,3,7:47 PM,1:43,,,Richards REBOUND (Off:2 Def:3),,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,496,1,72,3,7:47 PM,1:43,,,Richards Putback Layup (6 PTS),82 - 91,9,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,497,2,9,3,7:47 PM,1:30,MISS Embiid 1' Driving Dunk,,Richards BLOCK (1 BLK),,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,1
+0022200399,498,4,0,3,7:47 PM,1:29,Embiid REBOUND (Off:3 Def:8),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,499,6,2,3,7:48 PM,1:22,,,Washington S.FOUL (P3.T2) (N.Buchert),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200399,501,3,11,3,7:48 PM,1:22,MISS Korkmaz Free Throw 1 of 2,,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,502,4,1,3,7:48 PM,1:22,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200399,504,8,0,3,7:48 PM,1:22,SUB: Harrell FOR Embiid,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200399,505,8,0,3,7:48 PM,1:22,,,SUB: McDaniels FOR McGowens,,,5,1631121,Bryce McGowens,1610612766.0,Charlotte,Hornets,CHA,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200399,506,8,0,3,7:48 PM,1:22,,,SUB: Jones FOR Oubre Jr.,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200399,507,8,0,3,7:48 PM,1:22,,,SUB: Rozier FOR Washington,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200399,512,3,12,3,7:48 PM,1:22,Korkmaz Free Throw 2 of 2 (2 PTS),,,82 - 92,10,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,513,6,17,3,7:49 PM,1:05,76ERS T.Foul (Def. 3 Sec Harrell ) (R.Mott),,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200399,514,3,16,3,7:49 PM,1:05,,,Rozier Free Throw Technical (21 PTS),83 - 92,9,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,515,5,21,3,7:50 PM,0:56,,,Rozier Palming Turnover (P3.T12),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,516,6,1,3,7:50 PM,0:48,,,McDaniels P.FOUL (P4.PN) (D.Taylor),,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200399,518,3,11,3,7:50 PM,0:48,Korkmaz Free Throw 1 of 2 (3 PTS),,,83 - 93,10,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,519,8,0,3,7:50 PM,0:48,,,SUB: McGowens FOR McDaniels,,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,5,1631121,Bryce McGowens,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200399,521,3,12,3,7:51 PM,0:48,Korkmaz Free Throw 2 of 2 (4 PTS),,,83 - 94,11,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,522,2,80,3,7:51 PM,0:35,,,MISS Rozier 27' 3PT Step Back Jump Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,523,4,0,3,7:51 PM,0:33,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200399,524,6,3,3,7:51 PM,0:33,Harrell L.B.FOUL (P1.PN) (D.Taylor),,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200399,526,3,11,3,7:52 PM,0:33,,,Richards Free Throw 1 of 2 (7 PTS),84 - 94,10,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,527,3,12,3,7:52 PM,0:33,,,Richards Free Throw 2 of 2 (8 PTS),85 - 94,9,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,528,1,73,3,7:52 PM,0:19,Milton 2' Driving Reverse Layup (8 PTS),,,85 - 96,11,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,529,6,1,3,7:53 PM,0:05,Niang P.FOUL (P1.PN) (D.Taylor),,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200399,531,3,11,3,7:53 PM,0:05,,,Rozier Free Throw 1 of 2 (22 PTS),86 - 96,10,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,534,3,12,3,7:53 PM,0:05,,,Rozier Free Throw 2 of 2 (23 PTS),87 - 96,9,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,603,8,0,3,7:53 PM,0:05,SUB: Harden FOR Thybulle,,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200399,535,2,2,3,7:54 PM,0:01,MISS Korkmaz 23' Running Jump Shot,,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,536,4,0,3,7:54 PM,0:01,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200399,537,13,0,3,7:54 PM,0:00,,End of 3rd Period (7:54 PM EST),,87 - 96,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200399,543,12,0,4,7:56 PM,12:00,,Start of 4th Period (7:56 PM EST),,87 - 96,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200399,544,6,1,4,7:57 PM,11:49,Niang P.FOUL (P2.T1) (D.Taylor),,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200399,546,5,45,4,7:57 PM,11:39,,,Rozier Out of Bounds - Bad Pass Turnover Turnover (P4.T13),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022200399,547,1,101,4,7:57 PM,11:28,Harden 4' Driving Floating Jump Shot (14 PTS) (Harrell 2 AST),,,87 - 98,11,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200399,549,2,1,4,7:58 PM,11:08,,,MISS Oubre Jr. 27' 3PT Jump Shot,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,550,4,0,4,7:58 PM,11:06,Thybulle REBOUND (Off:0 Def:1),,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,551,2,75,4,7:58 PM,10:59,MISS Milton 2' Driving Finger Roll Layup,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,552,4,0,4,7:58 PM,10:57,,,Jones REBOUND (Off:0 Def:2),,,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,553,2,47,4,7:58 PM,10:49,,,MISS Jones 10' Turnaround Jump Shot,,,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,554,4,0,4,7:58 PM,10:46,,,Jones REBOUND (Off:1 Def:2),,,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,555,1,5,4,7:58 PM,10:45,,,Jones 1' Layup (2 PTS),89 - 98,9,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,556,6,2,4,7:58 PM,10:45,Niang S.FOUL (P3.T2) (R.Mott),,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200399,558,3,10,4,7:59 PM,10:45,,,Jones Free Throw 1 of 1 (3 PTS),90 - 98,8,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,559,1,1,4,7:59 PM,10:36,Niang 28' 3PT Jump Shot (3 PTS) (Harrell 3 AST),,,90 - 101,11,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200399,561,6,2,4,7:59 PM,10:19,Harrell S.FOUL (P2.T3) (D.Taylor),,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200399,563,3,11,4,7:59 PM,10:19,,,Oubre Jr. Free Throw 1 of 2 (26 PTS),91 - 101,10,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,564,3,12,4,7:59 PM,10:19,,,MISS Oubre Jr. Free Throw 2 of 2,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,565,4,0,4,7:59 PM,10:17,Niang REBOUND (Off:0 Def:2),,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,566,1,7,4,8:00 PM,10:02,Harrell 1' Dunk (9 PTS) (Milton 3 AST),,,91 - 103,12,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200399,568,2,6,4,8:00 PM,9:49,,,MISS Rozier 7' Driving Layup,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,569,4,0,4,8:00 PM,9:49,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200399,571,6,4,4,8:00 PM,9:44,Niang OFF.Foul (P4) (N.Buchert),,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200399,573,5,37,4,8:00 PM,9:44,Niang Offensive Foul Turnover (P2.T13),,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200399,574,1,6,4,8:01 PM,9:28,,,Jones 1' Driving Layup (5 PTS) (McGowens 2 AST),93 - 103,10,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,5,1631121,Bryce McGowens,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200399,576,6,2,4,8:01 PM,9:28,Niang S.FOUL (P5.T4) (N.Buchert),,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200399,578,8,0,4,8:01 PM,9:28,SUB: Harris FOR Niang,,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200399,580,3,10,4,8:02 PM,9:28,,,Jones Free Throw 1 of 1 (6 PTS),94 - 103,9,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,581,2,57,4,8:02 PM,9:14,MISS Harris 4' Driving Hook Shot,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,582,4,0,4,8:02 PM,9:12,Harrell REBOUND (Off:2 Def:0),,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,583,6,2,4,8:02 PM,9:12,,,Jones S.FOUL (P2.T1) (D.Taylor),,,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200399,585,3,11,4,8:02 PM,9:12,MISS Harrell Free Throw 1 of 2,,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,586,4,1,4,8:02 PM,9:12,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200399,587,3,12,4,8:02 PM,9:12,MISS Harrell Free Throw 2 of 2,,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,588,4,0,4,8:02 PM,9:10,Thybulle REBOUND (Off:1 Def:1),,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,589,2,80,4,8:03 PM,9:04,MISS Harden 27' 3PT Step Back Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,590,4,0,4,8:03 PM,8:58,,,Oubre Jr. REBOUND (Off:0 Def:1),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,592,2,41,4,8:03 PM,8:57,Harden BLOCK (1 BLK),,MISS Oubre Jr. 4' Running Layup,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1
+0022200399,594,4,0,4,8:03 PM,8:57,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200399,596,8,0,4,8:03 PM,8:57,,,SUB: McDaniels FOR McGowens,,,5,1631121,Bryce McGowens,1610612766.0,Charlotte,Hornets,CHA,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200399,598,2,78,4,8:03 PM,8:50,,,MISS Oubre Jr. 16' Floating Jump Shot,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,599,4,0,4,8:04 PM,8:46,,,Oubre Jr. REBOUND (Off:1 Def:1),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,600,2,97,4,8:04 PM,8:46,,,MISS Oubre Jr. Tip Layup Shot,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,601,4,0,4,8:04 PM,8:44,,,Richards REBOUND (Off:3 Def:3),,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,602,2,97,4,8:04 PM,8:44,,,MISS Richards Tip Layup Shot,,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,605,4,0,4,8:04 PM,8:43,Harris REBOUND (Off:1 Def:3),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,606,1,1,4,8:04 PM,8:36,Milton 27' 3PT Jump Shot (11 PTS) (Harrell 4 AST),,,94 - 106,12,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200399,608,9,1,4,8:04 PM,8:35,,,Hornets Timeout: Regular (Reg.4 Short 0),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200399,609,8,0,4,8:06 PM,8:35,SUB: Melton FOR Thybulle,,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200399,611,2,1,4,8:07 PM,8:25,,,MISS Rozier 26' 3PT Jump Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,612,4,0,4,8:07 PM,8:22,Harrell REBOUND (Off:2 Def:1),,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,613,2,1,4,8:07 PM,8:14,MISS Melton 25' 3PT Jump Shot,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,614,4,0,4,8:07 PM,8:12,,,Richards REBOUND (Off:3 Def:4),,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,615,2,80,4,8:07 PM,8:05,,,MISS Oubre Jr. 25' 3PT Step Back Jump Shot,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,616,4,0,4,8:07 PM,8:02,,,Richards REBOUND (Off:4 Def:4),,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,617,6,26,4,8:07 PM,7:59,,,Oubre Jr. Offensive Charge Foul (P4) (D.Taylor),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200399,619,5,37,4,8:07 PM,7:59,,,Oubre Jr. Offensive Foul Turnover (P2.T14),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022200399,620,8,0,4,8:08 PM,7:59,,,SUB: Washington FOR Jones,,,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200399,622,2,6,4,8:08 PM,7:49,MISS Harrell 2' Driving Layup,,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,623,4,0,4,8:08 PM,7:47,,,Oubre Jr. REBOUND (Off:1 Def:2),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,624,6,2,4,8:08 PM,7:43,Harden S.FOUL (P3.PN) (N.Buchert),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200399,626,3,11,4,8:09 PM,7:43,,,MISS Richards Free Throw 1 of 2,,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,627,4,1,4,8:09 PM,7:43,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200399,628,8,0,4,8:09 PM,7:43,SUB: Embiid FOR Harrell,,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200399,630,3,12,4,8:09 PM,7:43,,,Richards Free Throw 2 of 2 (9 PTS),95 - 106,11,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,631,6,1,4,8:09 PM,7:32,,,Oubre Jr. P.FOUL (P5.T2) (D.Taylor),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200399,633,8,0,4,8:10 PM,7:32,SUB: Tucker FOR Milton,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200399,635,6,2,4,8:10 PM,7:25,,,McDaniels S.FOUL (P5.T3) (N.Buchert),,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200399,637,3,11,4,8:10 PM,7:25,Embiid Free Throw 1 of 2 (40 PTS),,,95 - 107,12,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,638,8,0,4,8:10 PM,7:25,,,SUB: McGowens FOR Oubre Jr.,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,1631121,Bryce McGowens,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200399,640,3,12,4,8:11 PM,7:25,Embiid Free Throw 2 of 2 (41 PTS),,,95 - 108,13,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,641,1,6,4,8:11 PM,7:10,,,Washington 3' Driving Layup (4 PTS) (Rozier 5 AST),97 - 108,11,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200399,643,6,1,4,8:11 PM,7:00,,,Rozier P.FOUL (P4.T4) (N.Buchert),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200399,645,1,58,4,8:12 PM,6:52,Embiid 4' Turnaround Hook Shot (43 PTS),,,97 - 110,13,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,646,1,75,4,8:12 PM,6:38,,,McGowens 1' Driving Finger Roll Layup (2 PTS) (Washington 2 AST),99 - 110,11,5,1631121,Bryce McGowens,1610612766.0,Charlotte,Hornets,CHA,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200399,648,2,1,4,8:12 PM,6:19,MISS Embiid 26' 3PT Jump Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,649,4,0,4,8:12 PM,6:16,,,McDaniels REBOUND (Off:1 Def:4),,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,650,1,2,4,8:12 PM,6:10,,,Rozier 26' 3PT Running Jump Shot (26 PTS) (McDaniels 2 AST),102 - 110,8,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200399,652,1,63,4,8:13 PM,5:49,Embiid 22' Fadeaway Jumper (45 PTS) (Harden 13 AST),,,102 - 112,10,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200399,654,9,1,4,8:13 PM,5:48,,,Hornets Timeout: Regular (Reg.5 Short 0),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200399,655,8,0,4,8:15 PM,5:48,,,SUB: Plumlee FOR Richards,,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200399,656,8,0,4,8:15 PM,5:48,,,SUB: Oubre Jr. FOR McGowens,,,5,1631121,Bryce McGowens,1610612766.0,Charlotte,Hornets,CHA,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200399,659,1,1,4,8:16 PM,5:33,,,Oubre Jr. 24' 3PT Jump Shot (29 PTS) (Rozier 6 AST),105 - 112,7,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200399,661,6,2,4,8:16 PM,5:09,,,Plumlee S.FOUL (P3.PN) (N.Buchert),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200399,663,3,11,4,8:17 PM,5:09,Embiid Free Throw 1 of 2 (46 PTS),,,105 - 113,8,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,664,3,12,4,8:17 PM,5:09,Embiid Free Throw 2 of 2 (47 PTS),,,105 - 114,9,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,665,2,79,4,8:17 PM,4:46,,,MISS Rozier 18' Pullup Jump Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,666,4,0,4,8:17 PM,4:44,Melton REBOUND (Off:0 Def:4),,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,667,1,58,4,8:18 PM,4:34,Embiid 15' Turnaround Hook Shot (49 PTS) (Harden 14 AST),,,105 - 116,11,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200399,669,2,1,4,8:18 PM,4:20,,,MISS Oubre Jr. 27' 3PT Jump Shot,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,670,4,0,4,8:18 PM,4:18,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200399,672,1,79,4,8:18 PM,4:03,Embiid 11' Pullup Jump Shot (51 PTS) (Harden 15 AST),,,105 - 118,13,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200399,674,9,1,4,8:18 PM,4:03,,,Hornets Timeout: Regular (Reg.6 Short 0),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200399,675,1,1,4,8:20 PM,3:47,,,McDaniels 24' 3PT Jump Shot (15 PTS) (Washington 3 AST),108 - 118,10,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200399,677,5,1,4,8:20 PM,3:31,Harden Bad Pass Turnover (P4.T14),,McDaniels STEAL (3 STL),,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200399,679,5,40,4,8:20 PM,3:30,,,McDaniels Out of Bounds Lost Ball Turnover (P3.T15),,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022200399,680,1,1,4,8:21 PM,3:19,Harris 3PT Jump Shot (14 PTS) (Embiid 3 AST),,,108 - 121,13,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200399,682,5,13,4,8:21 PM,3:08,,,Rozier Backcourt Turnover (P5.T16),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022200399,683,1,6,4,8:21 PM,2:49,Embiid 2' Driving Layup (53 PTS) (Harden 16 AST),,,108 - 123,15,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200399,685,2,78,4,8:22 PM,2:28,,,MISS Plumlee 10' Floating Jump Shot,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,686,4,0,4,8:22 PM,2:26,Embiid REBOUND (Off:3 Def:9),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,688,8,0,4,8:22 PM,2:14,SUB: Harrell FOR Embiid,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200399,690,1,1,4,8:23 PM,2:03,Harris 28' 3PT Jump Shot (17 PTS),,,108 - 126,18,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,691,1,80,4,8:23 PM,1:47,,,Rozier 25' 3PT Step Back Jump Shot (29 PTS) (McDaniels 3 AST),111 - 126,15,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200399,693,6,28,4,8:23 PM,1:41,,,Rozier Personal Take Foul (P5.PN) (R.Mott),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200399,695,9,1,4,8:23 PM,1:41,,,Hornets Timeout: Regular (Reg.7 Short 0),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200399,696,8,0,4,8:24 PM,1:41,SUB: Reed FOR Melton,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200399,697,8,0,4,8:24 PM,1:41,SUB: Springer FOR Harris,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200399,698,8,0,4,8:24 PM,1:41,SUB: Korkmaz FOR Tucker,,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200399,699,8,0,4,8:24 PM,1:41,SUB: Milton FOR Harrell,,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200399,700,8,0,4,8:24 PM,1:41,,,SUB: Jones FOR Rozier,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200399,701,8,0,4,8:24 PM,1:41,,,SUB: Thor FOR McDaniels,,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,5,1630550,JT Thor,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200399,702,8,0,4,8:24 PM,1:41,,,SUB: Maledon FOR Oubre Jr.,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200399,703,8,0,4,8:24 PM,1:41,,,SUB: McGowens FOR Plumlee,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,5,1631121,Bryce McGowens,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200399,704,8,0,4,8:24 PM,1:41,,,SUB: Bouknight FOR Washington,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200399,714,7,1,4,8:25 PM,1:41,76ERS Violation: Delay of game Violation,,,,,2,1610612755,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200399,715,3,11,4,8:25 PM,1:41,Harden Free Throw 1 of 2 (15 PTS),,,111 - 127,16,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,716,3,12,4,8:25 PM,1:41,Harden Free Throw 2 of 2 (16 PTS),,,111 - 128,17,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,717,2,1,4,8:26 PM,1:20,,,MISS Thor 27' 3PT Jump Shot,,,5,1630550,JT Thor,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,718,4,0,4,8:26 PM,1:16,Harden REBOUND (Off:1 Def:8),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,719,1,80,4,8:26 PM,1:00,Harden 26' 3PT Step Back Jump Shot (19 PTS),,,111 - 131,20,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,720,6,28,4,8:26 PM,0:57,Springer Personal Take Foul (P1.PN) (D.Taylor),,,,,4,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,5,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200399,722,8,0,4,8:26 PM,0:57,SUB: Harrell FOR Harden,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200399,724,3,11,4,8:27 PM,0:57,,,Maledon Free Throw 1 of 2 (8 PTS),112 - 131,19,5,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,725,3,12,4,8:27 PM,0:57,,,Maledon Free Throw 2 of 2 (9 PTS),113 - 131,18,5,1630177,Theo Maledon,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,726,5,1,4,8:27 PM,0:44,Springer Bad Pass Turnover (P1.T15),,Bouknight STEAL (1 STL),,,4,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,5,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200399,728,2,101,4,8:27 PM,0:30,,,MISS Bouknight 8' Driving Floating Jump Shot,,,5,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200399,729,4,0,4,8:27 PM,0:28,Korkmaz REBOUND (Off:0 Def:1),,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200399,730,5,11,4,8:28 PM,0:06,76ERS Turnover: Shot Clock (T#16),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200399,731,13,0,4,8:28 PM,0:00,,End of 4th Period (8:28 PM EST),,113 - 131,18,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

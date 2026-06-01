@@ -1,0 +1,492 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200017,2,12,0,1,7:11 PM,12:00,,Start of 1st Period (7:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200017,4,10,0,1,7:11 PM,12:00,Jump Ball Plumlee vs. Valanciunas: Tip to Washington,,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,1
+0022200017,7,2,79,1,7:12 PM,11:42,MISS Hayward 18' Pullup Jump Shot,,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,8,4,0,1,7:12 PM,11:40,,,Williamson REBOUND (Off:0 Def:1),,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,9,1,101,1,7:12 PM,11:33,,,Ingram 10' Driving Floating Jump Shot (2 PTS) (Williamson 1 AST),2 - 0,-2,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200017,11,2,5,1,7:12 PM,11:19,MISS Rozier 2' Layup,,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,12,4,0,1,7:12 PM,11:15,Plumlee REBOUND (Off:1 Def:0),,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,13,1,97,1,7:12 PM,11:15,Plumlee Tip Layup Shot (2 PTS),,,2 - 2,TIE,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,14,2,6,1,7:13 PM,10:53,Rozier BLOCK (1 BLK),,MISS Ingram 3' Driving Layup,,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,1
+0022200017,16,4,0,1,7:13 PM,10:51,Oubre Jr. REBOUND (Off:0 Def:1),,,,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,18,5,2,1,7:13 PM,10:50,Oubre Jr. Lost Ball Turnover (P1.T1),,Valanciunas STEAL (1 STL),,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200017,26,1,50,1,7:13 PM,10:49,,,Valanciunas 1' Running Dunk (2 PTS),4 - 2,-2,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,19,2,1,1,7:13 PM,10:32,MISS Oubre Jr. 26' 3PT Jump Shot,,,,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,20,4,0,1,7:13 PM,10:29,,,Valanciunas REBOUND (Off:0 Def:1),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,21,6,2,1,7:13 PM,10:27,Washington S.FOUL (P1.T1) (M.Davis),,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200017,24,3,11,1,7:14 PM,10:27,,,Valanciunas Free Throw 1 of 2 (3 PTS),5 - 2,-3,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,25,3,12,1,7:14 PM,10:27,,,Valanciunas Free Throw 2 of 2 (4 PTS),6 - 2,-4,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,27,6,1,1,7:14 PM,10:15,,,McCollum P.FOUL (P1.T1) (N.Green),,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200017,29,2,1,1,7:15 PM,9:59,MISS Washington 24' 3PT Jump Shot,,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,30,4,0,1,7:15 PM,9:57,Plumlee REBOUND (Off:2 Def:0),,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,31,1,1,1,7:15 PM,9:54,Hayward 26' 3PT Jump Shot (3 PTS) (Plumlee 1 AST),,,6 - 5,-1,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200017,33,6,4,1,7:15 PM,9:45,,,McCollum OFF.Foul (P2) (N.Green),,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200017,35,5,37,1,7:15 PM,9:45,,,McCollum Offensive Foul Turnover (P1.T1),,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022200017,36,8,0,1,7:15 PM,9:45,,,SUB: Alvarado FOR McCollum,,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200017,38,2,63,1,7:16 PM,9:30,MISS Rozier 12' Fadeaway Jumper,,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,39,4,0,1,7:16 PM,9:25,,,Alvarado REBOUND (Off:0 Def:1),,,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,40,2,2,1,7:16 PM,9:20,,,MISS Valanciunas 26' 3PT Running Jump Shot,,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,41,4,0,1,7:16 PM,9:17,HORNETS Rebound,,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200017,43,2,79,1,7:16 PM,9:02,MISS Oubre Jr. 10' Pullup Jump Shot,,,,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,44,4,0,1,7:16 PM,9:00,,,Williamson REBOUND (Off:0 Def:2),,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,46,5,2,1,7:17 PM,8:47,Rozier STEAL (1 STL),,Alvarado Lost Ball Turnover (P1.T2),,,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200017,48,5,1,1,7:17 PM,8:47,Plumlee Bad Pass Turnover (P1.T2),,Ingram STEAL (1 STL),,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200017,50,6,2,1,7:17 PM,8:47,Washington S.FOUL (P2.T2) (N.Green),,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200017,52,3,11,1,7:17 PM,8:47,,,Ingram Free Throw 1 of 2 (3 PTS),7 - 5,-2,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,53,3,12,1,7:17 PM,8:47,,,Ingram Free Throw 2 of 2 (4 PTS),8 - 5,-3,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0022200017,54,5,1,1,7:18 PM,8:39,Washington Bad Pass Turnover (P1.T3),,Alvarado STEAL (1 STL),,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200017,56,1,98,1,7:18 PM,8:34,,,Valanciunas 2' Cutting Layup Shot (6 PTS) (Jones 1 AST),10 - 5,-5,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200017,58,6,2,1,7:18 PM,8:34,Plumlee S.FOUL (P1.T3) (B.Barnaky),,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200017,60,8,0,1,7:18 PM,8:34,SUB: Richards FOR Plumlee,,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200017,62,3,10,1,7:18 PM,8:34,,,Valanciunas Free Throw 1 of 1 (7 PTS),11 - 5,-6,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,63,5,40,1,7:19 PM,8:28,Washington Out of Bounds Lost Ball Turnover (P2.T4),,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022200017,65,1,6,1,7:19 PM,8:12,,,Ingram 2' Driving Layup (6 PTS) (Valanciunas 1 AST),13 - 5,-8,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200017,66,2,1,1,7:20 PM,7:53,MISS Hayward 21' Jump Shot,,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,67,4,0,1,7:20 PM,7:50,,,Valanciunas REBOUND (Off:0 Def:2),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,68,6,2,1,7:20 PM,7:46,Richards S.FOUL (P1.T4) (M.Davis),,,,,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200017,71,9,1,1,7:20 PM,7:46,HORNETS Timeout: Regular (Full 1 Short 0),,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200017,72,3,11,1,7:23 PM,7:46,,,MISS Williamson Free Throw 1 of 2,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,73,4,1,1,7:23 PM,7:46,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200017,74,3,12,1,7:23 PM,7:46,,,Williamson Free Throw 2 of 2 (1 PTS),14 - 5,-9,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,75,2,80,1,7:24 PM,7:27,MISS Rozier 20' Step Back Jump Shot,,Valanciunas BLOCK (1 BLK),,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,1
+0022200017,76,4,0,1,7:24 PM,7:24,,,Valanciunas REBOUND (Off:0 Def:3),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,77,2,1,1,7:24 PM,7:17,,,MISS Valanciunas 27' 3PT Jump Shot,,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,79,4,0,1,7:24 PM,7:17,Washington REBOUND (Off:0 Def:1),,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,80,2,1,1,7:24 PM,6:57,MISS Oubre Jr. 30' 3PT Jump Shot,,,,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,81,4,0,1,7:24 PM,6:54,,,Ingram REBOUND (Off:0 Def:1),,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,82,2,6,1,7:24 PM,6:47,,,MISS Williamson 3' Driving Layup,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,83,4,0,1,7:24 PM,6:44,Oubre Jr. REBOUND (Off:0 Def:2),,,,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,84,2,6,1,7:24 PM,6:39,MISS Oubre Jr. 8' Driving Layup,,Ingram BLOCK (1 BLK),,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1
+0022200017,86,4,0,1,7:24 PM,6:33,Oubre Jr. REBOUND (Off:1 Def:2),,,,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,87,1,72,1,7:24 PM,6:33,Oubre Jr. Putback Layup (2 PTS),,,14 - 7,-7,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,88,2,6,1,7:25 PM,6:16,,,MISS Jones 2' Driving Layup,,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,89,4,0,1,7:25 PM,6:08,,,Valanciunas REBOUND (Off:1 Def:3),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,90,1,72,1,7:25 PM,6:08,,,Valanciunas Putback Layup (9 PTS),16 - 7,-9,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,91,2,79,1,7:25 PM,5:59,MISS Washington 25' 3PT Pullup Jump Shot,,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,92,4,0,1,7:25 PM,5:56,,,Alvarado REBOUND (Off:0 Def:2),,,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,93,1,1,1,7:25 PM,5:49,,,Valanciunas 26' 3PT Jump Shot (12 PTS) (Williamson 2 AST),19 - 7,-12,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200017,95,2,6,1,7:25 PM,5:36,MISS Rozier 4' Driving Layup,,Jones BLOCK (1 BLK),,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,1
+0022200017,97,4,0,1,7:25 PM,5:34,Rozier REBOUND (Off:1 Def:0),,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,98,1,1,1,7:26 PM,5:30,Washington 26' 3PT Jump Shot (3 PTS) (Rozier 1 AST),,,19 - 10,-9,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200017,100,1,5,1,7:26 PM,5:17,,,Alvarado 5' Layup (2 PTS),21 - 10,-11,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,101,6,3,1,7:26 PM,5:04,,,Jones L.B.FOUL (P1.T2) (B.Barnaky),,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200017,103,8,0,1,7:26 PM,5:04,SUB: McDaniels FOR Washington,,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200017,105,8,0,1,7:26 PM,5:04,,,SUB: Nance Jr. FOR Williamson,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200017,106,8,0,1,7:26 PM,5:04,,,SUB: Murphy III FOR Valanciunas,,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200017,109,1,79,1,7:27 PM,4:56,Rozier 27' 3PT Pullup Jump Shot (3 PTS),,,21 - 13,-8,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,110,5,2,1,7:27 PM,4:40,Oubre Jr. STEAL (1 STL),,Ingram Lost Ball Turnover (P1.T3),,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200017,112,2,103,1,7:27 PM,4:35,MISS Rozier 25' 3PT Running Pull-Up Jump Shot,,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,113,4,0,1,7:27 PM,4:32,,,Ingram REBOUND (Off:0 Def:2),,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,114,1,41,1,7:27 PM,4:31,,,Murphy III 2' Running Layup (2 PTS) (Ingram 1 AST),23 - 13,-10,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200017,116,2,1,1,7:27 PM,4:11,MISS Rozier 3PT Jump Shot,,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,117,4,0,1,7:27 PM,4:08,,,Ingram REBOUND (Off:0 Def:3),,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,118,1,2,1,7:27 PM,4:04,,,Murphy III 25' 3PT Running Jump Shot (5 PTS) (Ingram 2 AST),26 - 13,-13,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200017,120,1,1,1,7:28 PM,3:40,Hayward 23' Jump Shot (5 PTS),,,26 - 15,-11,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,121,1,79,1,7:28 PM,3:25,,,Ingram 16' Pullup Jump Shot (8 PTS) (Nance Jr. 1 AST),28 - 15,-13,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200017,123,1,86,1,7:28 PM,3:00,Hayward 10' Turnaround Fadeaway (7 PTS),,,28 - 17,-11,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,124,2,78,1,7:29 PM,2:46,,,MISS Murphy III 6' Floating Jump Shot,,,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,125,4,0,1,7:29 PM,2:44,Richards REBOUND (Off:0 Def:1),,,,,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,126,5,40,1,7:29 PM,2:42,Rozier Out of Bounds Lost Ball Turnover (P1.T5),,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022200017,127,9,1,1,7:29 PM,2:42,,,Pelicans Timeout: Regular (Reg.1 Short 0),,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200017,128,18,7,1,7:30 PM,2:42,,Instant Replay1st Period (7:30 PM EST),,28 - 17,-11,0,120,Steven Smith,,,,,0,0,,,,,,1,0,,,,,,0
+0022200017,129,8,0,1,7:31 PM,2:42,SUB: Washington FOR Rozier,,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200017,130,8,0,1,7:31 PM,2:42,SUB: Smith Jr. FOR Oubre Jr.,,,,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200017,131,8,0,1,7:31 PM,2:42,SUB: Bouknight FOR Hayward,,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,4,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200017,135,1,1,1,7:32 PM,2:27,,,Alvarado 27' 3PT Jump Shot (5 PTS) (Ingram 3 AST),31 - 17,-14,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200017,137,1,7,1,7:32 PM,2:00,Richards 1' Dunk (2 PTS) (Washington 1 AST),,,31 - 19,-12,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200017,139,2,1,1,7:33 PM,1:37,,,MISS Alvarado 26' 3PT Jump Shot,,,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,140,4,0,1,7:33 PM,1:32,McDaniels REBOUND (Off:0 Def:1),,,,,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,141,5,1,1,7:33 PM,1:27,McDaniels Bad Pass Turnover (P1.T6),,Murphy III STEAL (1 STL),,,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200017,144,1,1,1,7:34 PM,1:12,,,Murphy III 25' 3PT Jump Shot (8 PTS) (Alvarado 1 AST),34 - 19,-15,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200017,146,6,1,1,7:34 PM,0:56,,,Jones P.FOUL (P2.T3) (N.Green),,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200017,148,8,0,1,7:34 PM,0:56,,,SUB: Valanciunas FOR Jones,,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200017,149,8,0,1,7:34 PM,0:56,,,SUB: Marshall FOR Ingram,,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200017,152,1,1,1,7:34 PM,0:45,Smith Jr. 25' 3PT Jump Shot (3 PTS) (Washington 2 AST),,,34 - 22,-12,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200017,154,6,2,1,7:35 PM,0:40,Smith Jr. S.FOUL (P1.PN) (N.Green),,,,,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200017,156,3,11,1,7:35 PM,0:40,,,MISS Alvarado Free Throw 1 of 2,,,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,157,4,1,1,7:35 PM,0:40,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200017,158,3,12,1,7:35 PM,0:40,,,Alvarado Free Throw 2 of 2 (6 PTS),35 - 22,-13,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,159,1,98,1,7:35 PM,0:29,McDaniels 2' Cutting Layup Shot (2 PTS) (Smith Jr. 1 AST),,,35 - 24,-11,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200017,161,2,1,1,7:36 PM,0:13,,,MISS Murphy III 3PT Jump Shot,,,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,162,4,0,1,7:36 PM,0:11,Bouknight REBOUND (Off:0 Def:1),,,,,4,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,163,2,41,1,7:36 PM,0:07,MISS Bouknight 3' Running Layup,,,,,4,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,164,4,0,1,7:36 PM,0:04,,,Valanciunas REBOUND (Off:1 Def:4),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,165,2,2,1,7:36 PM,0:00,,,MISS Murphy III 26' 3PT Running Jump Shot,,,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,166,4,0,1,7:36 PM,0:00,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200017,167,13,0,1,7:36 PM,0:00,,End of 1st Period (7:36 PM EST),,35 - 24,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200017,178,12,0,2,7:39 PM,12:00,,Start of 2nd Period (7:39 PM EST),,35 - 24,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200017,179,1,6,2,7:39 PM,11:45,,,Williamson 1' Driving Layup (3 PTS),37 - 24,-13,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,180,2,79,2,7:39 PM,11:17,MISS Rozier 29' 3PT Pullup Jump Shot,,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,181,4,0,2,7:40 PM,11:14,,,Hernangomez REBOUND (Off:0 Def:1),,,5,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,182,2,79,2,7:40 PM,11:06,,,MISS McCollum 21' Pullup Jump Shot,,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,183,4,0,2,7:40 PM,11:02,Richards REBOUND (Off:0 Def:2),,,,,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,184,2,1,2,7:40 PM,10:54,MISS Bouknight 29' 3PT Jump Shot,,,,,4,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,185,4,0,2,7:40 PM,10:51,,,McCollum REBOUND (Off:0 Def:1),,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,186,2,1,2,7:40 PM,10:39,,,MISS Murphy III 3PT Jump Shot,,,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,187,4,0,2,7:40 PM,10:36,Richards REBOUND (Off:0 Def:3),,,,,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,188,1,98,2,7:40 PM,10:17,Richards Cutting Layup Shot (4 PTS) (Smith Jr. 2 AST),,,37 - 26,-11,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200017,190,2,6,2,7:41 PM,10:07,,,MISS Williamson 2' Driving Layup,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,191,4,0,2,7:41 PM,10:03,Richards REBOUND (Off:0 Def:4),,,,,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,192,2,1,2,7:41 PM,9:56,MISS Washington 25' 3PT Jump Shot,,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,193,4,0,2,7:41 PM,9:54,,,Hernangomez REBOUND (Off:0 Def:2),,,5,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,194,1,63,2,7:41 PM,9:44,,,McCollum 6' Fadeaway Jumper (2 PTS) (Graham 1 AST),39 - 26,-13,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,5,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200017,195,1,101,2,7:41 PM,9:26,Rozier 10' Driving Floating Jump Shot (5 PTS),,,39 - 28,-11,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,196,1,1,2,7:42 PM,9:13,,,Graham 26' 3PT Jump Shot (3 PTS) (Williamson 3 AST),42 - 28,-14,5,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200017,198,2,1,2,7:42 PM,8:55,MISS Bouknight 26' 3PT Jump Shot,,,,,4,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,199,4,0,2,7:42 PM,8:53,,,McCollum REBOUND (Off:0 Def:2),,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,200,2,5,2,7:42 PM,8:45,,,MISS Hernangomez 3' Layup,,,5,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,201,4,0,2,7:42 PM,8:43,Smith Jr. REBOUND (Off:0 Def:1),,,,,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,202,2,79,2,7:42 PM,8:35,MISS Smith Jr. 20' Pullup Jump Shot,,,,,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,203,4,0,2,7:42 PM,8:31,,,Hernangomez REBOUND (Off:0 Def:3),,,5,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,204,1,75,2,7:42 PM,8:22,,,McCollum 3' Driving Finger Roll Layup (4 PTS),44 - 28,-16,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,205,9,1,2,7:43 PM,8:22,HORNETS Timeout: Regular (Full 2 Short 0),,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200017,206,8,0,2,7:43 PM,8:22,SUB: McDaniels FOR Bouknight,,,,,4,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200017,207,8,0,2,7:43 PM,8:22,SUB: Hayward FOR Richards,,,,,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200017,208,8,0,2,7:43 PM,8:22,SUB: Plumlee FOR Washington,,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200017,212,1,6,2,7:46 PM,8:08,Rozier 8' Driving Layup (7 PTS) (Hayward 1 AST),,,44 - 30,-14,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200017,213,6,2,2,7:46 PM,8:08,,,Hernangomez S.FOUL (P1.T1) (M.Davis),,,5,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200017,215,3,10,2,7:46 PM,8:08,Rozier Free Throw 1 of 1 (8 PTS),,,44 - 31,-13,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,217,2,79,2,7:46 PM,7:48,,,MISS Graham 28' 3PT Pullup Jump Shot,,,5,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,218,4,0,2,7:46 PM,7:45,Plumlee REBOUND (Off:2 Def:1),,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,219,1,1,2,7:47 PM,7:36,McDaniels 25' 3PT Jump Shot (5 PTS) (Rozier 2 AST),,,44 - 34,-10,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200017,221,2,1,2,7:47 PM,7:24,,,MISS Graham 26' 3PT Jump Shot,,,5,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,222,4,0,2,7:47 PM,7:20,McDaniels REBOUND (Off:0 Def:2),,,,,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,223,2,1,2,7:47 PM,7:03,MISS Rozier 25' 3PT Jump Shot,,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,224,4,0,2,7:47 PM,7:01,,,Graham REBOUND (Off:0 Def:1),,,5,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,225,2,57,2,7:47 PM,6:48,,,MISS Williamson 5' Driving Hook Shot,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,226,4,0,2,7:47 PM,6:44,,,Hernangomez REBOUND (Off:1 Def:3),,,5,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,227,1,97,2,7:47 PM,6:44,,,Hernangomez Tip Layup Shot (2 PTS),46 - 34,-12,5,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,228,1,6,2,7:48 PM,6:32,Hayward 10' Driving Layup (9 PTS) (Smith Jr. 3 AST),,,46 - 36,-10,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200017,229,2,9,2,7:48 PM,6:19,,,MISS Murphy III 2' Driving Dunk,,,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,230,4,0,2,7:48 PM,6:16,,,Murphy III REBOUND (Off:1 Def:0),,,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,231,2,5,2,7:48 PM,6:13,,,MISS Murphy III 2' Layup,,,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,232,4,0,2,7:48 PM,6:13,,,Hernangomez REBOUND (Off:2 Def:3),,,5,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,233,2,97,2,7:48 PM,6:07,,,MISS Hernangomez Tip Layup Shot,,,5,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,234,4,0,2,7:48 PM,6:07,Plumlee REBOUND (Off:2 Def:2),,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,235,1,41,2,7:48 PM,6:07,Hayward 2' Running Layup (11 PTS) (Plumlee 2 AST),,,46 - 38,-8,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200017,237,9,1,2,7:48 PM,6:07,,,Pelicans Timeout: Regular (Reg.2 Short 0),,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200017,238,8,0,2,7:48 PM,6:07,SUB: Oubre Jr. FOR Smith Jr.,,,,,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200017,239,8,0,2,7:48 PM,6:07,,,SUB: Nance Jr. FOR Williamson,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200017,240,8,0,2,7:48 PM,6:07,,,SUB: Valanciunas FOR Graham,,,5,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200017,241,8,0,2,7:48 PM,6:07,,,SUB: Jones FOR Hernangomez,,,5,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200017,242,8,0,2,7:48 PM,6:07,,,SUB: Ingram FOR Murphy III,,,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200017,249,2,1,2,7:51 PM,5:56,,,MISS McCollum 26' 3PT Jump Shot,,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,250,4,0,2,7:51 PM,5:53,Hayward REBOUND (Off:0 Def:1),,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,252,1,86,2,7:52 PM,5:35,Oubre Jr. 10' Turnaround Fadeaway (4 PTS) (Rozier 3 AST),,,46 - 40,-6,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200017,254,5,13,2,7:52 PM,5:28,,,Valanciunas Backcourt Turnover (P1.T4),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022200017,255,1,79,2,7:52 PM,5:06,Oubre Jr. 14' Pullup Jump Shot (6 PTS) (Hayward 2 AST),,,46 - 42,-4,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200017,257,1,101,2,7:53 PM,4:46,,,McCollum 10' Driving Floating Jump Shot (6 PTS) (Ingram 4 AST),48 - 42,-6,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200017,259,6,1,2,7:53 PM,4:33,,,Jones P.FOUL (P3.T2) (M.Davis),,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200017,261,8,0,2,7:53 PM,4:33,SUB: Smith Jr. FOR Rozier,,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200017,262,8,0,2,7:53 PM,4:33,,,SUB: Marshall FOR Jones,,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200017,266,1,1,2,7:54 PM,4:18,Oubre Jr. 13' Jump Shot (8 PTS) (Smith Jr. 4 AST),,,48 - 44,-4,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200017,268,1,6,2,7:54 PM,3:56,,,Ingram 3' Driving Layup (10 PTS) (McCollum 1 AST),50 - 44,-6,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200017,270,2,5,2,7:55 PM,3:36,MISS McDaniels 3' Layup,,,,,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,271,4,0,2,7:55 PM,3:34,,,Valanciunas REBOUND (Off:1 Def:5),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,272,1,102,2,7:55 PM,3:30,,,McCollum 7' Driving Floating Bank Jump Shot (8 PTS),52 - 44,-8,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,273,6,2,2,7:55 PM,3:30,McDaniels S.FOUL (P1.T1) (M.Davis),,,,,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200017,275,8,0,2,7:55 PM,3:30,SUB: Richards FOR Plumlee,,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200017,276,8,0,2,7:55 PM,3:30,,,SUB: Williamson FOR Nance Jr.,,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200017,279,3,10,2,7:56 PM,3:30,,,McCollum Free Throw 1 of 1 (9 PTS),53 - 44,-9,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,280,2,1,2,7:56 PM,3:18,MISS Hayward 17' Jump Shot,,Marshall BLOCK (1 BLK),,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,1
+0022200017,282,4,0,2,7:56 PM,3:11,Hayward REBOUND (Off:1 Def:1),,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,283,5,2,2,7:56 PM,3:10,Oubre Jr. Lost Ball Turnover (P2.T7),,McCollum STEAL (1 STL),,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200017,285,1,5,2,7:56 PM,3:03,,,Williamson 2' Layup (5 PTS) (Valanciunas 2 AST),55 - 44,-11,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200017,287,2,86,2,7:56 PM,2:46,MISS Smith Jr. 5' Turnaround Fadeaway Shot,,,,,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,288,4,0,2,7:56 PM,2:44,,,Valanciunas REBOUND (Off:1 Def:6),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,289,2,79,2,7:56 PM,2:37,,,MISS Ingram 15' Pullup Jump Shot,,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,290,4,0,2,7:57 PM,2:34,Richards REBOUND (Off:0 Def:5),,,,,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,291,5,45,2,7:57 PM,2:21,Hayward Out of Bounds - Bad Pass Turnover Turnover (P1.T8),,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022200017,292,8,0,2,7:57 PM,2:21,SUB: Rozier FOR Smith Jr.,,,,,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200017,294,2,6,2,7:57 PM,2:06,,,MISS Williamson 3' Driving Layup,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,295,4,0,2,7:57 PM,2:03,,,Williamson REBOUND (Off:1 Def:2),,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,296,2,97,2,7:57 PM,2:03,,,MISS Williamson Tip Layup Shot,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,297,4,0,2,7:57 PM,2:01,,,Valanciunas REBOUND (Off:2 Def:6),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,298,1,97,2,7:57 PM,2:01,,,Valanciunas Tip Layup Shot (14 PTS),57 - 44,-13,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,299,2,6,2,7:57 PM,1:51,MISS McDaniels 5' Driving Layup,,,,,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,300,4,0,2,7:58 PM,1:49,,,McCollum REBOUND (Off:0 Def:3),,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,301,1,41,2,7:58 PM,1:45,,,Williamson 2' Running Layup (7 PTS) (McCollum 2 AST),59 - 44,-15,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200017,303,5,1,2,7:58 PM,1:27,Hayward Bad Pass Turnover (P2.T9),,Williamson STEAL (1 STL),,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200017,305,2,41,2,7:58 PM,1:24,Rozier BLOCK (2 BLK),,MISS Williamson 5' Running Layup,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,1
+0022200017,307,4,0,2,7:58 PM,1:24,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200017,308,8,0,2,7:58 PM,1:24,,,SUB: Nance Jr. FOR McCollum,,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200017,309,8,0,2,7:58 PM,1:24,,,SUB: Alvarado FOR Valanciunas,,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200017,313,5,45,2,7:59 PM,1:23,,,Alvarado Out of Bounds - Bad Pass Turnover Turnover (P2.T5),,,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+0022200017,314,1,1,2,7:59 PM,1:11,McDaniels 26' 3PT Jump Shot (8 PTS) (Rozier 4 AST),,,59 - 47,-12,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200017,316,6,11,2,7:59 PM,1:08,,,Nance Jr. T.FOUL (P0.T2) (M.Davis),,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022200017,317,3,16,2,8:00 PM,1:08,Rozier Free Throw Technical (9 PTS),,,59 - 48,-11,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,318,2,6,2,8:00 PM,0:52,,,MISS Williamson 6' Driving Layup,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,319,4,0,2,8:00 PM,0:49,Rozier REBOUND (Off:1 Def:1),,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,320,1,41,2,8:00 PM,0:44,Rozier 2' Running Layup (11 PTS),,,59 - 50,-9,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,321,6,2,2,8:00 PM,0:44,,,Nance Jr. S.FOUL (P1.T3) (B.Barnaky),,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200017,332,8,0,2,8:01 PM,0:44,,,SUB: McCollum FOR Alvarado,,,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200017,323,3,10,2,8:01 PM,0:44,Rozier Free Throw 1 of 1 (12 PTS),,,59 - 51,-8,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,324,1,79,2,8:01 PM,0:29,,,Ingram 19' Pullup Jump Shot (12 PTS),61 - 51,-10,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,325,2,1,2,8:02 PM,0:07,MISS Hayward 26' 3PT Jump Shot,,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,326,4,0,2,8:02 PM,0:03,,,Ingram REBOUND (Off:0 Def:4),,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,327,2,80,2,8:02 PM,0:00,,,MISS McCollum 26' 3PT Step Back Jump Shot,,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,328,4,0,2,8:02 PM,0:00,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200017,331,13,0,2,8:03 PM,0:00,,End of 2nd Period (8:03 PM EST),,61 - 51,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200017,342,12,0,3,8:17 PM,12:00,,Start of 3rd Period (8:17 PM EST),,61 - 51,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200017,343,6,2,3,8:17 PM,11:44,Hayward S.FOUL (P1.T1) (M.Davis),,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200017,345,3,11,3,8:18 PM,11:44,,,MISS Williamson Free Throw 1 of 2,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,346,4,1,3,8:18 PM,11:44,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200017,347,3,12,3,8:18 PM,11:44,,,Williamson Free Throw 2 of 2 (8 PTS),62 - 51,-11,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,348,2,80,3,8:18 PM,11:30,MISS Washington 17' Step Back Jump Shot,,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,349,4,0,3,8:18 PM,11:27,,,Ingram REBOUND (Off:0 Def:5),,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,350,5,40,3,8:19 PM,11:21,,,Williamson Out of Bounds Lost Ball Turnover (P1.T6),,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022200017,351,1,1,3,8:19 PM,11:13,Rozier 26' 3PT Jump Shot (15 PTS),,,62 - 54,-8,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,352,5,2,3,8:19 PM,11:04,Washington STEAL (1 STL),,Williamson Lost Ball Turnover (P2.T7),,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200017,354,2,41,3,8:19 PM,11:00,MISS Oubre Jr. 3' Running Layup,,,,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,355,4,0,3,8:19 PM,10:58,,,Valanciunas REBOUND (Off:2 Def:7),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,356,1,79,3,8:19 PM,10:49,,,McCollum 13' Pullup Jump Shot (11 PTS),64 - 54,-10,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,357,2,63,3,8:19 PM,10:29,MISS Rozier 3PT Fadeaway Jumper,,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,358,4,0,3,8:20 PM,10:26,Washington REBOUND (Off:1 Def:1),,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,359,2,72,3,8:20 PM,10:25,MISS Washington 2' Putback Layup,,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,361,2,97,3,8:20 PM,10:21,MISS Rozier Tip Layup Shot,,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,362,4,0,3,8:20 PM,10:21,,,Valanciunas REBOUND (Off:2 Def:8),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,360,4,0,3,8:20 PM,10:21,Rozier REBOUND (Off:2 Def:1),,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,363,6,1,3,8:20 PM,10:14,Oubre Jr. P.FOUL (P1.T2) (B.Barnaky),,,,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200017,365,2,86,3,8:20 PM,10:03,,,MISS Ingram 7' Turnaround Fadeaway Shot,,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,366,4,0,3,8:20 PM,10:00,,,Valanciunas REBOUND (Off:3 Def:8),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,367,1,1,3,8:20 PM,9:59,,,McCollum 25' 3PT Jump Shot (14 PTS) (Ingram 5 AST),67 - 54,-13,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200017,369,6,1,3,8:21 PM,9:52,,,McCollum P.FOUL (P3.T1) (B.Barnaky),,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200017,371,1,1,3,8:21 PM,9:36,Washington 24' 3PT Jump Shot (6 PTS) (Rozier 5 AST),,,67 - 57,-10,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200017,374,2,6,3,8:22 PM,9:23,,,MISS Williamson 2' Driving Layup,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,375,4,0,3,8:22 PM,9:23,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200017,377,1,63,3,8:22 PM,9:11,,,Ingram 11' Fadeaway Jumper (14 PTS),69 - 57,-12,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,378,1,1,3,8:23 PM,8:48,Oubre Jr. 27' 3PT Jump Shot (11 PTS) (Rozier 6 AST),,,69 - 60,-9,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200017,380,6,1,3,8:23 PM,8:39,Washington P.FOUL (P3.T3) (N.Green),,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200017,382,1,6,3,8:23 PM,8:32,,,Williamson 2' Driving Layup (10 PTS) (Valanciunas 3 AST),71 - 60,-11,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200017,383,2,1,3,8:24 PM,8:14,MISS Oubre Jr. 3PT Jump Shot,,Jones BLOCK (2 BLK),,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,1
+0022200017,385,4,0,3,8:24 PM,8:14,HORNETS Rebound,,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200017,388,1,3,3,8:24 PM,8:06,Plumlee 7' Hook Shot (4 PTS) (Hayward 3 AST),,,71 - 62,-9,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200017,390,1,6,3,8:24 PM,7:53,,,Williamson 3' Driving Layup (12 PTS),73 - 62,-11,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,391,6,11,3,8:24 PM,7:53,,,Jones T.FOUL (P3.T1) (M.Davis),,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022200017,392,3,16,3,8:25 PM,7:53,Rozier Free Throw Technical (16 PTS),,,73 - 63,-10,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,393,1,79,3,8:25 PM,7:37,Rozier 21' Pullup Jump Shot (18 PTS) (Plumlee 3 AST),,,73 - 65,-8,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200017,395,1,63,3,8:25 PM,7:20,,,Valanciunas 7' Fadeaway Jumper (16 PTS),75 - 65,-10,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,396,2,1,3,8:26 PM,7:11,MISS Plumlee 12' Jump Shot,,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,397,4,0,3,8:26 PM,7:08,,,Ingram REBOUND (Off:0 Def:6),,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,398,2,5,3,8:26 PM,6:53,Washington BLOCK (1 BLK),,MISS Williamson 5' Layup,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,1
+0022200017,400,4,0,3,8:26 PM,6:50,,,Williamson REBOUND (Off:2 Def:2),,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,401,2,5,3,8:26 PM,6:49,,,MISS Williamson 2' Layup,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,402,4,0,3,8:26 PM,6:47,Plumlee REBOUND (Off:2 Def:3),,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,403,2,2,3,8:26 PM,6:44,MISS Oubre Jr. 27' 3PT Running Jump Shot,,,,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,409,2,72,3,8:26 PM,6:40,MISS Rozier 3' Putback Layup,,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,410,4,0,3,8:26 PM,6:40,Rozier REBOUND (Off:3 Def:1),,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,404,4,0,3,8:26 PM,6:40,Rozier REBOUND (Off:4 Def:1),,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,405,2,97,3,8:26 PM,6:39,MISS Rozier 3' Tip Layup Shot,,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,406,4,0,3,8:26 PM,6:39,,,Jones REBOUND (Off:0 Def:1),,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,407,1,1,3,8:26 PM,6:32,,,McCollum 25' 3PT Jump Shot (17 PTS),78 - 65,-13,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,408,9,1,3,8:27 PM,6:27,HORNETS Timeout: Regular (Full 3 Short 0),,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200017,411,8,0,3,8:27 PM,6:27,SUB: McDaniels FOR Washington,,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200017,412,8,0,3,8:27 PM,6:27,,,SUB: Alvarado FOR Williamson,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200017,413,8,0,3,8:27 PM,6:27,,,SUB: Murphy III FOR McCollum,,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200017,417,7,5,3,8:29 PM,6:26,,,Jones Violation:Kicked Ball (M.Davis),,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+0022200017,418,1,9,3,8:30 PM,6:19,Plumlee 2' Driving Dunk (6 PTS) (Hayward 4 AST),,,78 - 67,-11,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200017,420,6,2,3,8:30 PM,6:02,Oubre Jr. S.FOUL (P2.T4) (M.Davis),,,,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200017,422,3,11,3,8:31 PM,6:02,,,Ingram Free Throw 1 of 2 (15 PTS),79 - 67,-12,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,423,3,12,3,8:31 PM,6:02,,,Ingram Free Throw 2 of 2 (16 PTS),80 - 67,-13,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,424,1,6,3,8:31 PM,5:49,Hayward 1' Driving Layup (13 PTS) (Rozier 7 AST),,,80 - 69,-11,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200017,426,5,2,3,8:32 PM,5:37,Oubre Jr. STEAL (2 STL),,Ingram Lost Ball Turnover (P2.T8),,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200017,428,1,50,3,8:32 PM,5:33,Hayward 2' Running Dunk (15 PTS) (Plumlee 4 AST),,,80 - 71,-9,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200017,430,9,1,3,8:32 PM,5:33,,,Pelicans Timeout: Regular (Reg.3 Short 0),,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200017,431,8,0,3,8:32 PM,5:33,SUB: Smith Jr. FOR Rozier,,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200017,433,6,1,3,8:35 PM,5:21,Plumlee P.FOUL (P2.PN) (B.Barnaky),,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200017,435,3,11,3,8:36 PM,5:21,,,Valanciunas Free Throw 1 of 2 (17 PTS),81 - 71,-10,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,436,3,12,3,8:36 PM,5:21,,,Valanciunas Free Throw 2 of 2 (18 PTS),82 - 71,-11,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,437,2,6,3,8:36 PM,5:03,MISS Hayward 7' Driving Layup,,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,438,4,0,3,8:36 PM,5:01,,,Valanciunas REBOUND (Off:3 Def:9),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,439,5,2,3,8:36 PM,4:53,Oubre Jr. STEAL (3 STL),,Ingram Lost Ball Turnover (P3.T9),,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200017,441,1,44,3,8:37 PM,4:47,Hayward 2' Reverse Layup (17 PTS) (McDaniels 1 AST),,,82 - 73,-9,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200017,443,6,1,3,8:37 PM,4:34,Oubre Jr. P.FOUL (P3.PN) (M.Davis),,,,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200017,445,3,11,3,8:37 PM,4:34,,,Valanciunas Free Throw 1 of 2 (19 PTS),83 - 73,-10,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,450,3,12,3,8:37 PM,4:34,,,Valanciunas Free Throw 2 of 2 (20 PTS),84 - 73,-11,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,446,8,0,3,8:37 PM,4:34,SUB: Bouknight FOR Oubre Jr.,,,,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,4,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200017,447,8,0,3,8:37 PM,4:34,SUB: Richards FOR Plumlee,,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200017,451,1,80,3,8:38 PM,4:20,Hayward 12' Step Back Jump Shot (19 PTS),,,84 - 75,-9,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,452,6,2,3,8:38 PM,4:06,Richards S.FOUL (P2.PN) (N.Green),,,,,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200017,454,3,11,3,8:39 PM,4:06,,,Valanciunas Free Throw 1 of 2 (21 PTS),85 - 75,-10,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,455,3,12,3,8:39 PM,4:06,,,MISS Valanciunas Free Throw 2 of 2,,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,456,4,0,3,8:39 PM,4:02,McDaniels REBOUND (Off:0 Def:3),,,,,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,457,2,80,3,8:39 PM,3:52,MISS Hayward 18' Step Back Jump Shot,,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,458,4,0,3,8:39 PM,3:48,,,Murphy III REBOUND (Off:1 Def:1),,,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,459,2,80,3,8:40 PM,3:36,,,MISS Alvarado 25' 3PT Step Back Jump Shot,,,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,460,4,0,3,8:40 PM,3:33,McDaniels REBOUND (Off:0 Def:4),,,,,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,461,1,1,3,8:40 PM,3:18,McDaniels 3PT Jump Shot (11 PTS) (Hayward 5 AST),,,85 - 78,-7,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200017,463,1,86,3,8:40 PM,3:05,,,Valanciunas 7' Turnaround Fadeaway (23 PTS),87 - 78,-9,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,464,1,1,3,8:40 PM,2:46,Smith Jr. 25' 3PT Jump Shot (6 PTS) (Hayward 6 AST),,,87 - 81,-6,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200017,466,2,63,3,8:41 PM,2:16,,,MISS Valanciunas 6' Fadeaway Jumper,,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,467,4,0,3,8:41 PM,2:14,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200017,469,8,0,3,8:41 PM,2:14,SUB: Washington FOR Hayward,,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200017,470,8,0,3,8:41 PM,2:14,,,SUB: Williamson FOR Jones,,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200017,471,8,0,3,8:41 PM,2:14,,,SUB: Nance Jr. FOR Valanciunas,,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200017,506,8,0,3,8:41 PM,2:14,,,SUB: McCollum FOR Alvarado,,,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200017,475,6,2,3,8:42 PM,2:09,McDaniels S.FOUL (P2.PN) (B.Barnaky),,,,,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200017,477,3,11,3,8:42 PM,2:09,,,Ingram Free Throw 1 of 2 (17 PTS),88 - 81,-7,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,478,3,12,3,8:42 PM,2:09,,,Ingram Free Throw 2 of 2 (18 PTS),89 - 81,-8,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,479,1,5,3,8:42 PM,1:58,Smith Jr. 1' Layup (8 PTS),,,89 - 83,-6,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,480,1,5,3,8:43 PM,1:31,,,Williamson 2' Layup (14 PTS) (Nance Jr. 2 AST),91 - 83,-8,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200017,481,6,2,3,8:43 PM,1:20,,,Murphy III S.FOUL (P1.T2) (B.Barnaky),,,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200017,483,3,11,3,8:44 PM,1:20,Richards Free Throw 1 of 2 (5 PTS),,,91 - 84,-7,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,484,3,12,3,8:44 PM,1:20,Richards Free Throw 2 of 2 (6 PTS),,,91 - 85,-6,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,485,2,63,3,8:44 PM,1:04,,,MISS Ingram 14' Fadeaway Jumper,,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,486,4,0,3,8:44 PM,0:59,Bouknight REBOUND (Off:0 Def:2),,,,,4,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,487,2,47,3,8:45 PM,0:43,MISS Washington 4' Turnaround Jump Shot,,Nance Jr. BLOCK (1 BLK),,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,1
+0022200017,489,4,0,3,8:45 PM,0:43,HORNETS Rebound,,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200017,491,2,63,3,8:45 PM,0:40,MISS Bouknight 15' Fadeaway Jumper,,,,,4,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,492,4,0,3,8:45 PM,0:38,Richards REBOUND (Off:1 Def:5),,,,,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,493,2,5,3,8:45 PM,0:36,MISS Richards 6' Layup,,,,,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,494,4,0,3,8:45 PM,0:36,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200017,496,1,79,3,8:46 PM,0:26,,,McCollum 17' Pullup Jump Shot (19 PTS),93 - 85,-8,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,499,2,5,3,8:46 PM,0:06,MISS Richards 5' Layup,,Nance Jr. BLOCK (2 BLK),,,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,1
+0022200017,501,4,0,3,8:46 PM,0:05,,,McCollum REBOUND (Off:0 Def:4),,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,502,2,5,3,8:46 PM,0:01,McDaniels BLOCK (1 BLK),,MISS McCollum 3' Layup,,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,1
+0022200017,504,4,0,3,8:46 PM,0:01,,,McCollum REBOUND (Off:1 Def:4),,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,505,13,0,3,8:46 PM,0:00,,End of 3rd Period (8:46 PM EST),,93 - 85,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200017,512,12,0,4,8:49 PM,12:00,,Start of 4th Period (8:49 PM EST),,93 - 85,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200017,513,5,1,4,8:49 PM,11:42,Smith Jr. Bad Pass Turnover (P1.T10),,Murphy III STEAL (2 STL),,,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200017,515,5,2,4,8:49 PM,11:33,Smith Jr. STEAL (1 STL),,McCollum Lost Ball Turnover (P2.T10),,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200017,517,1,50,4,8:49 PM,11:29,Smith Jr. 2' Running Dunk (10 PTS),,,93 - 87,-6,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,518,2,5,4,8:50 PM,11:10,,,MISS Williamson 5' Layup,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,519,4,0,4,8:50 PM,11:08,Rozier REBOUND (Off:4 Def:2),,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,520,2,2,4,8:50 PM,11:04,MISS Bouknight 3PT Running Jump Shot,,,,,4,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,521,4,0,4,8:50 PM,11:02,,,Murphy III REBOUND (Off:1 Def:2),,,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,522,5,2,4,8:50 PM,10:54,Smith Jr. STEAL (2 STL),,Williamson Lost Ball Turnover (P3.T11),,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200017,524,10,0,4,8:51 PM,10:43,Jump Ball Smith Jr. vs. Murphy III: Tip to Graham,,,,,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,5,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,0
+0022200017,527,5,2,4,8:51 PM,10:43,Bouknight Lost Ball Turnover (P1.T11),,Murphy III STEAL (3 STL),,,4,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200017,529,2,1,4,8:51 PM,10:35,,,MISS McCollum 26' 3PT Jump Shot,,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,530,4,0,4,8:51 PM,10:34,,,Nance Jr. REBOUND (Off:1 Def:0),,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,531,2,1,4,8:51 PM,10:32,,,MISS McCollum 26' 3PT Jump Shot,,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,532,4,0,4,8:51 PM,10:30,,,McCollum REBOUND (Off:2 Def:4),,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,533,2,1,4,8:51 PM,10:29,,,MISS Graham 25' 3PT Jump Shot,,,5,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,534,4,0,4,8:51 PM,10:26,,,Nance Jr. REBOUND (Off:2 Def:0),,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,535,6,1,4,8:51 PM,10:24,Washington P.FOUL (P4.T1) (M.Davis),,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200017,537,2,6,4,8:52 PM,10:15,,,MISS Williamson 4' Driving Layup,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,538,4,0,4,8:52 PM,10:11,Rozier REBOUND (Off:4 Def:3),,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,539,2,2,4,8:52 PM,10:07,MISS Washington 26' 3PT Running Jump Shot,,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,540,4,0,4,8:52 PM,10:05,HORNETS Rebound,,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200017,542,5,45,4,8:52 PM,10:02,Washington Out of Bounds - Bad Pass Turnover Turnover (P3.T12),,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022200017,543,6,2,4,8:53 PM,9:45,Washington S.FOUL (P5.T2) (N.Green),,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200017,545,3,11,4,8:53 PM,9:45,,,MISS Graham Free Throw 1 of 2,,,5,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,546,4,1,4,8:53 PM,9:45,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200017,547,8,0,4,8:53 PM,9:45,SUB: McDaniels FOR Bouknight,,,,,4,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200017,548,8,0,4,8:53 PM,9:45,SUB: Hayward FOR Washington,,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200017,551,3,12,4,8:54 PM,9:45,,,Graham Free Throw 2 of 2 (4 PTS),94 - 87,-7,5,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,552,6,2,4,8:54 PM,9:35,,,Murphy III S.FOUL (P2.T1) (M.Davis),,,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200017,554,3,11,4,8:55 PM,9:35,Rozier Free Throw 1 of 2 (19 PTS),,,94 - 88,-6,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,555,8,0,4,8:55 PM,9:35,,,SUB: Jones FOR Murphy III,,,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200017,557,3,12,4,8:55 PM,9:35,Rozier Free Throw 2 of 2 (20 PTS),,,94 - 89,-5,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,558,1,78,4,8:55 PM,9:16,,,Nance Jr. 11' Floating Jump Shot (2 PTS) (Jones 2 AST),96 - 89,-7,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200017,560,2,79,4,8:56 PM,9:04,MISS Rozier 22' Pullup Jump Shot,,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,561,4,0,4,8:56 PM,9:02,,,Williamson REBOUND (Off:2 Def:3),,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,562,2,78,4,8:56 PM,8:50,,,MISS Nance Jr. 11' Floating Jump Shot,,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,563,4,0,4,8:56 PM,8:47,McDaniels REBOUND (Off:0 Def:5),,,,,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,564,1,47,4,8:56 PM,8:38,Hayward 5' Turnaround Jump Shot (21 PTS) (McDaniels 2 AST),,,96 - 91,-5,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200017,565,2,101,4,8:56 PM,8:25,,,MISS McCollum 13' Driving Floating Jump Shot,,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,566,4,0,4,8:57 PM,8:23,Rozier REBOUND (Off:4 Def:4),,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,567,6,2,4,8:57 PM,8:18,,,Nance Jr. S.FOUL (P2.T2) (B.Barnaky),,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200017,569,3,11,4,8:57 PM,8:18,MISS Rozier Free Throw 1 of 2,,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,570,4,1,4,8:57 PM,8:18,HORNETS Rebound,,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200017,571,8,0,4,8:57 PM,8:18,,,SUB: Ingram FOR Williamson,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200017,572,8,0,4,8:57 PM,8:18,,,SUB: Marshall FOR McCollum,,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200017,575,3,12,4,8:58 PM,8:18,Rozier Free Throw 2 of 2 (21 PTS),,,96 - 92,-4,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,577,8,0,4,8:58 PM,8:09,,,SUB: Valanciunas FOR Nance Jr.,,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200017,579,2,63,4,8:58 PM,8:02,,,MISS Ingram 16' Fadeaway Jumper,,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,580,4,0,4,8:59 PM,7:56,,,Marshall REBOUND (Off:1 Def:0),,,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,581,2,97,4,8:59 PM,7:56,,,MISS Marshall Tip Layup Shot,,,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,582,4,0,4,8:59 PM,7:55,Smith Jr. REBOUND (Off:0 Def:2),,,,,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,583,2,1,4,8:59 PM,7:44,MISS Smith Jr. 3PT Jump Shot,,,,,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,584,4,0,4,8:59 PM,7:42,,,Valanciunas REBOUND (Off:3 Def:10),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,585,2,73,4,8:59 PM,7:29,,,MISS Ingram 2' Driving Reverse Layup,,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,586,4,0,4,8:59 PM,7:27,,,Jones REBOUND (Off:1 Def:1),,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,587,5,2,4,8:59 PM,7:25,Hayward STEAL (1 STL),,Ingram Lost Ball Turnover (P4.T12),,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200017,589,1,50,4,8:59 PM,7:21,Rozier 1' Running Dunk (23 PTS) (Hayward 7 AST),,,96 - 94,-2,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200017,592,9,1,4,8:59 PM,7:21,,,Pelicans Timeout: Regular (Reg.4 Short 0),,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200017,595,8,0,4,8:59 PM,7:21,SUB: Oubre Jr. FOR Smith Jr.,,,,,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200017,597,1,1,4,9:02 PM,6:59,,,Ingram 26' 3PT Jump Shot (21 PTS) (Marshall 1 AST),99 - 94,-5,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200017,599,7,1,4,9:03 PM,6:58,,,Pelicans Violation: Delay of game Violation,,,3,1610612740,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200017,600,1,1,4,9:03 PM,6:44,McDaniels 3PT Jump Shot (14 PTS) (Rozier 8 AST),,,99 - 97,-2,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200017,602,1,5,4,9:03 PM,6:29,,,Jones 3' Layup (2 PTS) (Ingram 6 AST),101 - 97,-4,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200017,604,6,2,4,9:03 PM,6:29,Rozier S.FOUL (P1.T3) (N.Green),,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200017,606,8,0,4,9:04 PM,6:29,,,SUB: McCollum FOR Graham,,,5,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200017,608,3,10,4,9:04 PM,6:29,,,Jones Free Throw 1 of 1 (3 PTS),102 - 97,-5,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,609,2,6,4,9:04 PM,6:13,MISS Rozier 2' Driving Layup,,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,610,4,0,4,9:04 PM,6:11,,,Valanciunas REBOUND (Off:3 Def:11),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,611,2,86,4,9:04 PM,6:05,,,MISS Ingram 14' Turnaround Fadeaway Shot,,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,612,4,0,4,9:04 PM,6:03,,,Valanciunas REBOUND (Off:4 Def:11),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,613,1,72,4,9:04 PM,6:03,,,Valanciunas Putback Layup (25 PTS),104 - 97,-7,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,614,6,2,4,9:04 PM,6:03,Hayward S.FOUL (P2.T4) (B.Barnaky),,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200017,616,8,0,4,9:05 PM,6:03,SUB: Smith Jr. FOR Rozier,,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200017,617,8,0,4,9:05 PM,6:03,SUB: Washington FOR Richards,,,,,4,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200017,618,8,0,4,9:05 PM,6:03,SUB: Plumlee FOR McDaniels,,,,,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200017,622,3,10,4,9:05 PM,6:03,,,Valanciunas Free Throw 1 of 1 (26 PTS),105 - 97,-8,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,623,2,79,4,9:05 PM,5:52,MISS Hayward 10' Pullup Jump Shot,,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,624,4,0,4,9:05 PM,5:48,,,Valanciunas REBOUND (Off:4 Def:12),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,625,1,101,4,9:06 PM,5:30,,,McCollum 14' Driving Floating Jump Shot (21 PTS) (Valanciunas 4 AST),107 - 97,-10,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200017,627,6,2,4,9:06 PM,5:14,,,Valanciunas S.FOUL (P1.T3) (B.Barnaky),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200017,629,3,11,4,9:07 PM,5:14,MISS Oubre Jr. Free Throw 1 of 2,,,,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,630,4,1,4,9:07 PM,5:14,HORNETS Rebound,,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200017,631,3,12,4,9:07 PM,5:14,Oubre Jr. Free Throw 2 of 2 (12 PTS),,,107 - 98,-9,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,632,5,45,4,9:07 PM,5:03,,,Ingram Out of Bounds - Bad Pass Turnover Turnover (P5.T13),,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022200017,633,2,1,4,9:07 PM,4:55,MISS Washington 25' 3PT Jump Shot,,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,634,4,0,4,9:07 PM,4:50,,,Valanciunas REBOUND (Off:4 Def:13),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,635,6,2,4,9:08 PM,4:38,Plumlee S.FOUL (P3.PN) (N.Green),,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200017,637,3,11,4,9:08 PM,4:38,,,Valanciunas Free Throw 1 of 2 (27 PTS),108 - 98,-10,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,640,3,12,4,9:08 PM,4:38,,,Valanciunas Free Throw 2 of 2 (28 PTS),109 - 98,-11,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,638,8,0,4,9:08 PM,4:38,SUB: Rozier FOR Smith Jr.,,,,,4,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200017,641,1,1,4,9:09 PM,4:23,Oubre Jr. 24' 3PT Jump Shot (15 PTS) (Rozier 9 AST),,,109 - 101,-8,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200017,643,6,1,4,9:09 PM,4:12,Plumlee P.FOUL (P4.PN) (B.Barnaky),,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200017,645,3,11,4,9:09 PM,4:12,,,Valanciunas Free Throw 1 of 2 (29 PTS),110 - 101,-9,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,646,3,12,4,9:10 PM,4:12,,,Valanciunas Free Throw 2 of 2 (30 PTS),111 - 101,-10,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,647,6,1,4,9:10 PM,3:53,,,Jones P.FOUL (P4.T4) (M.Davis),,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200017,649,5,1,4,9:11 PM,3:45,Rozier Bad Pass Turnover (P2.T13),,Ingram STEAL (2 STL),,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200017,651,1,76,4,9:11 PM,3:43,,,Ingram 1' Running Finger Roll Layup (23 PTS),113 - 101,-12,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,652,1,6,4,9:11 PM,3:29,Washington 1' Driving Layup (8 PTS) (Rozier 10 AST),,,113 - 103,-10,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200017,654,2,1,4,9:11 PM,3:10,,,MISS McCollum 19' Jump Shot,,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,655,4,0,4,9:11 PM,3:08,Oubre Jr. REBOUND (Off:1 Def:3),,,,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,656,1,1,4,9:11 PM,3:02,Plumlee 16' Jump Shot (8 PTS),,,113 - 105,-8,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,657,6,31,4,9:12 PM,2:55,Plumlee Transition Take Foul (P5.PN) (B.Barnaky),,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200017,659,9,1,4,9:13 PM,2:55,HORNETS Timeout: Regular (Full 4 Short 0),,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200017,660,8,0,4,9:14 PM,2:55,SUB: McDaniels FOR Plumlee,,,,,4,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200017,661,8,0,4,9:14 PM,2:55,,,SUB: Williamson FOR Marshall,,,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200017,664,3,10,4,9:15 PM,2:55,,,Ingram Free Throw 1 of 1 (24 PTS),114 - 105,-9,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,665,2,63,4,9:16 PM,2:49,,,MISS Ingram 13' Fadeaway Jumper,,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,666,4,0,4,9:16 PM,2:44,HORNETS Rebound,,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200017,668,2,1,4,9:16 PM,2:36,MISS Washington 26' 3PT Jump Shot,,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,669,4,0,4,9:16 PM,2:32,,,Ingram REBOUND (Off:0 Def:7),,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,670,6,2,4,9:16 PM,2:25,McDaniels S.FOUL (P3.PN) (M.Davis),,,,,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200017,672,3,11,4,9:17 PM,2:25,,,Ingram Free Throw 1 of 2 (25 PTS),115 - 105,-10,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,675,3,12,4,9:17 PM,2:25,,,Ingram Free Throw 2 of 2 (26 PTS),116 - 105,-11,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,673,8,0,4,9:17 PM,2:25,,,SUB: Marshall FOR Valanciunas,,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200017,676,6,2,4,9:17 PM,2:17,,,Marshall S.FOUL (P1.PN) (M.Davis),,,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200017,678,3,11,4,9:18 PM,2:17,MISS Hayward Free Throw 1 of 2,,,,,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,679,4,1,4,9:18 PM,2:17,HORNETS Rebound,,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200017,680,8,0,4,9:18 PM,2:17,,,SUB: Valanciunas FOR Marshall,,,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200017,682,3,12,4,9:18 PM,2:17,Hayward Free Throw 2 of 2 (22 PTS),,,116 - 106,-10,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,683,1,6,4,9:18 PM,1:59,,,Williamson 4' Driving Layup (16 PTS) (Ingram 7 AST),118 - 106,-12,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200017,685,2,101,4,9:19 PM,1:42,MISS Rozier 8' Driving Floating Jump Shot,,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,686,4,0,4,9:19 PM,1:42,Washington REBOUND (Off:2 Def:1),,,,,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,687,1,97,4,9:19 PM,1:42,Washington Tip Layup Shot (10 PTS),,,118 - 108,-10,4,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,688,5,1,4,9:19 PM,1:30,Hayward STEAL (2 STL),,McCollum Bad Pass Turnover (P3.T14),,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200017,690,1,41,4,9:19 PM,1:28,Hayward 1' Running Layup (24 PTS),,,118 - 110,-8,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,691,1,41,4,9:19 PM,1:22,,,Jones 2' Running Layup (5 PTS),120 - 110,-10,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,692,2,80,4,9:20 PM,1:07,MISS Rozier 25' 3PT Step Back Jump Shot,,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,693,4,0,4,9:20 PM,1:05,,,Ingram REBOUND (Off:0 Def:8),,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,694,9,1,4,9:20 PM,1:01,,,Pelicans Timeout: Regular (Reg.5 Short 0),,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200017,695,6,1,4,9:22 PM,0:55,McDaniels P.FOUL (P4.PN) (N.Green),,,,,4,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200017,697,3,11,4,9:22 PM,0:55,,,Jones Free Throw 1 of 2 (6 PTS),121 - 110,-11,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,698,8,0,4,9:22 PM,0:55,,,SUB: Marshall FOR Valanciunas,,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200017,700,3,12,4,9:22 PM,0:55,,,Jones Free Throw 2 of 2 (7 PTS),122 - 110,-12,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0022200017,701,1,6,4,9:22 PM,0:47,Hayward 2' Driving Layup (26 PTS) (Rozier 11 AST),,,122 - 112,-10,4,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200017,703,5,4,4,9:23 PM,0:43,,,Marshall Traveling Turnover (P1.T15),,,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022200017,704,9,1,4,9:23 PM,0:43,HORNETS Timeout: Regular (Full 5 Short 0),,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200017,705,5,9,4,9:24 PM,0:43,HORNETS Turnover: 5 Second Violation (T#14),,,,,2,1610612766,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200017,706,6,1,4,9:25 PM,0:37,Oubre Jr. P.FOUL (P4.PN) (N.Green),,,,,4,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200017,708,3,11,4,9:25 PM,0:37,,,Ingram Free Throw 1 of 2 (27 PTS),123 - 112,-11,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,709,3,12,4,9:25 PM,0:37,,,Ingram Free Throw 2 of 2 (28 PTS),124 - 112,-12,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,710,2,80,4,9:26 PM,0:25,MISS Rozier 18' Step Back Jump Shot,,,,,4,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200017,711,4,0,4,9:26 PM,0:23,,,Ingram REBOUND (Off:0 Def:9),,,5,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200017,712,5,11,4,9:26 PM,0:02,,,Pelicans Turnover: Shot Clock (T#16),,,3,1610612740,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200017,713,13,0,4,9:27 PM,0:00,,End of 4th Period (9:27 PM EST),,124 - 112,-12,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

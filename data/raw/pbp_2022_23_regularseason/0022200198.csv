@@ -1,0 +1,463 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200198,2,12,0,1,9:41 PM,12:00,,Start of 1st Period (9:41 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200198,4,10,0,1,9:41 PM,12:00,Jump Ball Davis vs. Claxton: Tip to Reaves,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1
+0022200198,7,2,1,1,9:41 PM,11:40,MISS Brown Jr. 3PT Jump Shot,,,,,4,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,8,4,0,1,9:41 PM,11:38,Davis REBOUND (Off:1 Def:0),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,9,2,72,1,9:41 PM,11:37,MISS Davis 7' Putback Layup,,Durant BLOCK (1 BLK),,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1
+0022200198,11,4,0,1,9:41 PM,11:37,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200198,12,6,2,1,9:42 PM,11:34,,,O'Neale S.FOUL (P1.T1) (J.DeRosa),,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200198,14,3,11,1,9:42 PM,11:34,Walker IV Free Throw 1 of 2 (1 PTS),,,0 - 1,1,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,15,3,12,1,9:42 PM,11:34,Walker IV Free Throw 2 of 2 (2 PTS),,,0 - 2,2,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,16,1,78,1,9:43 PM,11:17,,,Claxton 7' Floating Jump Shot (2 PTS) (O'Neale 1 AST),2 - 2,TIE,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200198,19,2,79,1,9:43 PM,10:51,MISS Reaves 12' Pullup Jump Shot,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,20,4,0,1,9:43 PM,10:49,,,Durant REBOUND (Off:0 Def:1),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,21,2,1,1,9:43 PM,10:36,,,MISS Sumner 3PT Jump Shot,,,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,22,4,0,1,9:44 PM,10:35,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200198,24,1,58,1,9:44 PM,10:16,Davis 5' Turnaround Hook Shot (2 PTS),,,2 - 4,2,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,25,6,17,1,9:44 PM,10:02,LAKERS T.Foul (Def. 3 Sec Davis ) (D.Guthrie),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0022200198,26,3,16,1,9:45 PM,10:02,,,Durant Free Throw Technical (1 PTS),3 - 4,1,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,27,2,1,1,9:45 PM,9:56,,,MISS O'Neale 24' 3PT Jump Shot,,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,28,4,0,1,9:45 PM,9:52,Davis REBOUND (Off:1 Def:1),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,29,5,1,1,9:45 PM,9:47,Beverley Bad Pass Turnover (P1.T1),,Sumner STEAL (1 STL),,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200198,31,2,6,1,9:46 PM,9:33,,,MISS Sumner 2' Driving Layup,,,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,32,4,0,1,9:46 PM,9:30,Beverley REBOUND (Off:0 Def:1),,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,33,2,75,1,9:46 PM,9:18,MISS Davis 7' Driving Finger Roll Layup,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,34,4,0,1,9:46 PM,9:16,,,Durant REBOUND (Off:0 Def:2),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,35,6,26,1,9:46 PM,9:14,,,Sumner Offensive Charge Foul (P1) (D.Guthrie),,,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200198,37,5,37,1,9:46 PM,9:14,,,Sumner Offensive Foul Turnover (P1.T1),,,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022200198,38,6,17,1,9:47 PM,8:54,,,Nets T.Foul (Def. 3 Sec Durant ) (D.Guthrie),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022200198,39,3,16,1,9:47 PM,8:54,Reaves Free Throw Technical (1 PTS),,,3 - 5,2,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,40,2,1,1,9:47 PM,8:45,MISS Beverley 26' 3PT Jump Shot,,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,41,4,0,1,9:47 PM,8:42,,,O'Neale REBOUND (Off:0 Def:1),,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,42,2,1,1,9:47 PM,8:33,,,MISS Sumner 3PT Jump Shot,,,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,43,4,0,1,9:48 PM,8:31,Beverley REBOUND (Off:0 Def:2),,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,44,1,93,1,9:48 PM,8:22,Davis 8' Driving Bank Hook Shot (4 PTS),,,3 - 7,4,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,45,1,101,1,9:48 PM,8:06,,,O'Neale 11' Driving Floating Jump Shot (2 PTS),5 - 7,2,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,46,1,1,1,9:48 PM,7:51,Walker IV 26' 3PT Jump Shot (5 PTS) (Beverley 1 AST),,,5 - 10,5,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200198,48,2,98,1,9:48 PM,7:37,Beverley BLOCK (1 BLK),,MISS Durant 3' Cutting Layup Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,1
+0022200198,50,4,0,1,9:48 PM,7:37,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200198,52,8,0,1,9:49 PM,7:37,SUB: Westbrook FOR Reaves,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200198,54,2,79,1,9:49 PM,7:33,,,MISS Harris 14' Pullup Jump Shot,,,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,55,4,0,1,9:49 PM,7:31,Davis REBOUND (Off:1 Def:2),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,56,1,1,1,9:49 PM,7:18,Walker IV 3PT Jump Shot (8 PTS) (Beverley 2 AST),,,5 - 13,8,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200198,58,1,1,1,9:49 PM,7:03,,,Harris 3PT Jump Shot (3 PTS) (O'Neale 2 AST),8 - 13,5,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200198,60,7,5,1,9:50 PM,6:45,,,Durant Violation:Kicked Ball (D.Guthrie),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0022200198,61,9,1,1,9:50 PM,6:45,LAKERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200198,62,8,0,1,9:52 PM,6:45,,,SUB: Thomas FOR Sumner,,,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200198,63,8,0,1,9:52 PM,6:45,,,SUB: Morris FOR Harris,,,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200198,66,6,2,1,9:53 PM,6:36,,,Claxton S.FOUL (P1.T2) (J.Schroeder),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200198,68,3,11,1,9:53 PM,6:36,Davis Free Throw 1 of 2 (5 PTS),,,8 - 14,6,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,69,3,12,1,9:54 PM,6:36,Davis Free Throw 2 of 2 (6 PTS),,,8 - 15,7,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,70,2,79,1,9:54 PM,6:22,,,MISS Durant 12' Pullup Jump Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,71,4,0,1,9:54 PM,6:20,Westbrook REBOUND (Off:0 Def:1),,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,72,5,45,1,9:54 PM,6:16,Westbrook Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0022200198,73,6,2,1,9:55 PM,6:00,Walker IV S.FOUL (P1.T1) (J.Schroeder),,,,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200198,75,3,11,1,9:55 PM,6:00,,,Thomas Free Throw 1 of 2 (1 PTS),9 - 15,6,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,76,3,12,1,9:55 PM,6:00,,,Thomas Free Throw 2 of 2 (2 PTS),10 - 15,5,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,77,1,75,1,9:55 PM,5:51,Westbrook 2' Driving Finger Roll Layup (2 PTS),,,10 - 17,7,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,78,1,79,1,9:56 PM,5:34,,,Durant 8' Pullup Jump Shot (3 PTS) (Morris 1 AST),12 - 17,5,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200198,80,1,6,1,9:56 PM,5:16,Walker IV 2' Driving Layup (10 PTS) (Westbrook 1 AST),,,12 - 19,7,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200198,82,6,2,1,9:56 PM,5:16,,,Claxton S.FOUL (P2.T3) (J.Schroeder),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200198,84,3,10,1,9:57 PM,5:16,Walker IV Free Throw 1 of 1 (11 PTS),,,12 - 20,8,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,85,1,43,1,9:57 PM,5:03,,,Claxton 2' Alley Oop Layup (4 PTS) (Durant 1 AST),14 - 20,6,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200198,87,2,1,1,9:57 PM,4:51,MISS Beverley 3PT Jump Shot,,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,88,4,0,1,9:57 PM,4:48,Davis REBOUND (Off:2 Def:2),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,89,1,87,1,9:57 PM,4:48,Davis Putback Dunk (8 PTS),,,14 - 22,8,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,90,9,1,1,9:57 PM,4:48,,,Nets Timeout: Regular (Reg.1 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200198,91,8,0,1,9:59 PM,4:48,,,SUB: Watanabe FOR Claxton,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200198,93,1,79,1,10:00 PM,4:37,,,Thomas 13' Pullup Jump Shot (4 PTS),16 - 22,6,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,94,2,5,1,10:01 PM,4:18,MISS Davis 2' Layup,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,95,4,0,1,10:01 PM,4:15,,,Thomas REBOUND (Off:0 Def:1),,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,96,2,103,1,10:01 PM,4:12,,,MISS Thomas 21' Running Pull-Up Jump Shot,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,97,4,0,1,10:01 PM,4:06,,,Watanabe REBOUND (Off:1 Def:0),,,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,98,1,97,1,10:01 PM,4:06,,,Watanabe Tip Layup Shot (2 PTS),18 - 22,4,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,99,2,63,1,10:01 PM,3:53,MISS Westbrook 10' Fadeaway Jumper,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,100,4,0,1,10:01 PM,3:51,,,Durant REBOUND (Off:0 Def:3),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,101,1,6,1,10:01 PM,3:38,,,Thomas 2' Driving Layup (6 PTS) (Watanabe 1 AST),20 - 22,2,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200198,103,2,1,1,10:01 PM,3:20,MISS Beverley 24' 3PT Jump Shot,,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,104,4,0,1,10:01 PM,3:18,,,O'Neale REBOUND (Off:0 Def:2),,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,105,2,1,1,10:02 PM,3:12,,,MISS Watanabe 24' 3PT Jump Shot,,,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,106,4,0,1,10:02 PM,3:08,Davis REBOUND (Off:2 Def:3),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,107,1,79,1,10:02 PM,2:57,Westbrook 3PT Pullup Jump Shot (5 PTS),,,20 - 25,5,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,108,6,2,1,10:02 PM,2:36,Walker IV S.FOUL (P2.T2) (D.Guthrie),,,,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200198,110,3,11,1,10:03 PM,2:36,,,Durant Free Throw 1 of 2 (4 PTS),21 - 25,4,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,120,3,12,1,10:03 PM,2:36,,,MISS Durant Free Throw 2 of 2,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,111,8,0,1,10:03 PM,2:36,SUB: Reaves FOR Walker IV,,,,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200198,112,8,0,1,10:03 PM,2:36,SUB: Nunn FOR Brown Jr.,,,,,4,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200198,113,8,0,1,10:03 PM,2:36,SUB: Christie FOR Beverley,,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200198,114,8,0,1,10:03 PM,2:36,,,SUB: Duke Jr. FOR O'Neale,,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200198,119,9,1,1,10:03 PM,2:36,LAKERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200198,121,4,0,1,10:03 PM,2:34,Davis REBOUND (Off:2 Def:4),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,122,2,79,1,10:05 PM,2:12,MISS Christie 20' Pullup Jump Shot,,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,123,4,0,1,10:05 PM,2:10,Davis REBOUND (Off:3 Def:4),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,124,2,80,1,10:05 PM,2:00,MISS Nunn 24' 3PT Step Back Jump Shot,,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,125,4,0,1,10:05 PM,1:57,Davis REBOUND (Off:4 Def:4),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,126,2,72,1,10:05 PM,1:56,MISS Davis 2' Putback Layup,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,127,4,0,1,10:05 PM,1:54,,,Watanabe REBOUND (Off:1 Def:1),,,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,128,6,2,1,10:06 PM,1:50,Nunn S.FOUL (P1.T3) (J.DeRosa),,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200198,130,3,11,1,10:06 PM,1:50,,,Thomas Free Throw 1 of 2 (7 PTS),22 - 25,3,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,133,3,12,1,10:06 PM,1:50,,,MISS Thomas Free Throw 2 of 2,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,131,8,0,1,10:06 PM,1:50,SUB: Gabriel FOR Davis,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200198,134,4,0,1,10:06 PM,1:47,Christie REBOUND (Off:0 Def:1),,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,135,2,6,1,10:07 PM,1:29,MISS Westbrook 5' Driving Layup,,Duke Jr. BLOCK (1 BLK),,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,1
+0022200198,137,4,0,1,10:07 PM,1:25,,,Watanabe REBOUND (Off:1 Def:2),,,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,138,2,6,1,10:07 PM,1:18,,,MISS Duke Jr. 3' Driving Layup,,,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,139,4,0,1,10:07 PM,1:15,Christie REBOUND (Off:0 Def:2),,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,140,6,2,1,10:07 PM,1:08,,,Thomas S.FOUL (P1.T4) (J.DeRosa),,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200198,142,3,11,1,10:08 PM,1:08,MISS Westbrook Free Throw 1 of 2,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,143,4,1,1,10:08 PM,1:08,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200198,144,8,0,1,10:08 PM,1:08,,,SUB: Harris FOR Morris,,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200198,146,3,12,1,10:08 PM,1:08,Westbrook Free Throw 2 of 2 (6 PTS),,,22 - 26,4,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,147,2,1,1,10:08 PM,0:55,,,MISS Watanabe 25' 3PT Jump Shot,,,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,148,4,0,1,10:08 PM,0:53,Christie REBOUND (Off:0 Def:3),,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,149,2,79,1,10:08 PM,0:40,MISS Nunn 25' 3PT Pullup Jump Shot,,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,150,4,0,1,10:08 PM,0:37,,,Harris REBOUND (Off:0 Def:1),,,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,151,2,102,1,10:09 PM,0:30,,,MISS Thomas 10' Driving Floating Bank Jump Shot,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,152,4,0,1,10:09 PM,0:28,,,Watanabe REBOUND (Off:2 Def:2),,,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,153,2,47,1,10:09 PM,0:20,Westbrook BLOCK (1 BLK),,MISS Durant 10' Turnaround Jump Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,1
+0022200198,155,4,0,1,10:09 PM,0:17,Christie REBOUND (Off:0 Def:4),,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,156,2,1,1,10:09 PM,0:13,MISS Nunn 25' 3PT Jump Shot,,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,157,4,0,1,10:09 PM,0:09,,,Thomas REBOUND (Off:0 Def:2),,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,158,2,98,1,10:09 PM,0:04,,,MISS Watanabe 1' Cutting Layup Shot,,,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,159,4,0,1,10:09 PM,0:03,Nunn REBOUND (Off:0 Def:1),,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,160,13,0,1,10:09 PM,0:00,,End of 1st Period (10:09 PM EST),,22 - 26,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200198,167,12,0,2,10:12 PM,12:00,,Start of 2nd Period (10:12 PM EST),,22 - 26,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200198,168,6,2,2,10:12 PM,11:42,Ryan S.FOUL (P1.T1) (J.Schroeder),,,,,4,1630346,Matt Ryan,1610612747.0,Los Angeles,Lakers,LAL,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200198,170,3,11,2,10:12 PM,11:42,,,MISS O'Neale Free Throw 1 of 2,,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,171,4,1,2,10:12 PM,11:42,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200198,172,3,12,2,10:13 PM,11:42,,,O'Neale Free Throw 2 of 2 (3 PTS),23 - 26,3,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,174,1,96,2,10:13 PM,11:29,Gabriel 4' Turnaround Bank Hook Shot (2 PTS) (Westbrook 2 AST),,,23 - 28,5,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200198,177,1,98,2,10:13 PM,11:18,,,Harris 1' Cutting Layup Shot (5 PTS) (Watanabe 2 AST),25 - 28,3,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200198,179,2,1,2,10:13 PM,11:07,MISS Westbrook 25' 3PT Jump Shot,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,180,4,0,2,10:13 PM,11:04,,,Harris REBOUND (Off:0 Def:2),,,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,181,5,4,2,10:14 PM,10:56,,,Harris Traveling Turnover (P1.T2),,,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022200198,182,1,6,2,10:14 PM,10:45,Westbrook 2' Driving Layup (8 PTS),,,25 - 30,5,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,183,1,75,2,10:14 PM,10:32,,,Watanabe 1' Driving Finger Roll Layup (4 PTS) (Mills 1 AST),27 - 30,3,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200198,185,1,1,2,10:14 PM,10:23,Reaves 25' 3PT Jump Shot (4 PTS) (Westbrook 3 AST),,,27 - 33,6,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200198,187,2,1,2,10:15 PM,10:02,,,MISS Harris 25' 3PT Jump Shot,,,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,188,4,0,2,10:15 PM,9:59,Reaves REBOUND (Off:0 Def:1),,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,189,2,6,2,10:15 PM,9:50,MISS Gabriel 4' Driving Layup,,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,190,4,0,2,10:15 PM,9:47,,,Harris REBOUND (Off:0 Def:3),,,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,191,2,2,2,10:15 PM,9:42,,,MISS Harris 25' 3PT Running Jump Shot,,,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,192,4,0,2,10:15 PM,9:39,Ryan REBOUND (Off:0 Def:1),,,,,4,1630346,Matt Ryan,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,193,1,108,2,10:15 PM,9:29,Gabriel 1' Cutting Dunk Shot (4 PTS) (Westbrook 4 AST),,,27 - 35,8,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200198,195,9,1,2,10:15 PM,9:29,,,Nets Timeout: Regular (Reg.2 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200198,196,8,0,2,10:17 PM,9:29,,,SUB: Claxton FOR Harris,,,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200198,197,8,0,2,10:17 PM,9:29,,,SUB: Sumner FOR Watanabe,,,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200198,200,2,1,2,10:18 PM,9:20,,,MISS Mills 24' 3PT Jump Shot,,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,201,4,0,2,10:18 PM,9:15,,,Sumner REBOUND (Off:1 Def:0),,,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,202,2,80,2,10:18 PM,9:11,,,MISS Thomas 26' 3PT Step Back Jump Shot,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,203,4,0,2,10:18 PM,9:08,Christie REBOUND (Off:0 Def:5),,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,204,2,58,2,10:19 PM,8:48,MISS Gabriel 6' Turnaround Hook Shot,,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,205,4,0,2,10:19 PM,8:44,Westbrook REBOUND (Off:1 Def:1),,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,206,2,107,2,10:19 PM,8:44,MISS Westbrook Tip Dunk Shot,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,207,4,0,2,10:19 PM,8:43,,,O'Neale REBOUND (Off:0 Def:3),,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,208,2,79,2,10:19 PM,8:37,,,MISS Mills 25' 3PT Pullup Jump Shot,,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,209,4,0,2,10:19 PM,8:37,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200198,211,2,79,2,10:19 PM,8:22,MISS Ryan 20' Pullup Jump Shot,,,,,4,1630346,Matt Ryan,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,212,4,0,2,10:19 PM,8:20,,,Claxton REBOUND (Off:0 Def:1),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,213,1,41,2,10:19 PM,8:14,,,Mills 2' Running Layup (2 PTS),29 - 35,6,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,214,1,1,2,10:20 PM,7:51,Gabriel 3PT Jump Shot (7 PTS) (Westbrook 5 AST),,,29 - 38,9,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200198,216,6,1,2,10:20 PM,7:38,Westbrook P.FOUL (P1.T2) (J.DeRosa),,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200198,218,8,0,2,10:20 PM,7:38,SUB: Davis FOR Westbrook,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200198,219,8,0,2,10:20 PM,7:38,SUB: Brown Jr. FOR Gabriel,,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,4,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200198,220,8,0,2,10:20 PM,7:38,SUB: Walker IV FOR Ryan,,,,,4,1630346,Matt Ryan,1610612747.0,Los Angeles,Lakers,LAL,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200198,221,8,0,2,10:20 PM,7:38,,,SUB: Harris FOR Thomas,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200198,226,2,79,2,10:21 PM,7:26,,,MISS Mills 16' Pullup Jump Shot,,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,227,4,0,2,10:21 PM,7:24,Davis REBOUND (Off:4 Def:5),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,228,2,75,2,10:21 PM,6:59,MISS Walker IV 5' Driving Finger Roll Layup,,,,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,229,4,0,2,10:21 PM,6:56,,,Claxton REBOUND (Off:0 Def:2),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,230,6,2,2,10:21 PM,6:53,Davis S.FOUL (P1.T3) (J.Schroeder),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200198,234,8,0,2,10:22 PM,6:53,,,SUB: Watanabe FOR O'Neale,,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200198,232,3,11,2,10:22 PM,6:53,,,MISS Claxton Free Throw 1 of 2,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,233,4,1,2,10:22 PM,6:53,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200198,236,3,12,2,10:22 PM,6:53,,,MISS Claxton Free Throw 2 of 2,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,237,4,0,2,10:22 PM,6:50,Brown Jr. REBOUND (Off:0 Def:1),,,,,4,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,238,2,101,2,10:23 PM,6:37,MISS Davis 4' Driving Floating Jump Shot,,Watanabe BLOCK (1 BLK),,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,1
+0022200198,240,4,0,2,10:23 PM,6:36,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200198,242,2,79,2,10:23 PM,6:31,MISS Davis 6' Pullup Jump Shot,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,243,4,0,2,10:23 PM,6:28,,,Claxton REBOUND (Off:0 Def:3),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,244,2,79,2,10:23 PM,6:11,,,MISS Mills 25' 3PT Pullup Jump Shot,,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,245,4,0,2,10:23 PM,6:08,,,Claxton REBOUND (Off:1 Def:3),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,246,1,72,2,10:23 PM,6:07,,,Claxton 2' Putback Layup (6 PTS),31 - 38,7,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,247,7,1,2,10:23 PM,6:05,,,Nets Violation: Delay of game Violation,,,3,1610612751,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200198,248,2,79,2,10:24 PM,5:51,MISS Walker IV 10' Pullup Jump Shot,,,,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,249,4,0,2,10:24 PM,5:48,,,Harris REBOUND (Off:0 Def:4),,,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,250,2,1,2,10:24 PM,5:42,,,MISS Sumner 3PT Jump Shot,,,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,251,4,0,2,10:24 PM,5:39,Christie REBOUND (Off:0 Def:6),,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,252,6,1,2,10:24 PM,5:29,,,Harris P.FOUL (P1.T1) (J.DeRosa),,,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200198,254,8,0,2,10:24 PM,5:29,SUB: Beverley FOR Christie,,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200198,255,8,0,2,10:24 PM,5:29,,,SUB: Durant FOR Mills,,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200198,259,1,6,2,10:25 PM,5:17,Davis 3' Driving Layup (10 PTS),,,31 - 40,9,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,260,5,45,2,10:25 PM,5:02,,,Claxton Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022200198,261,1,7,2,10:25 PM,4:47,Davis Dunk (12 PTS) (Beverley 3 AST),,,31 - 42,11,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200198,263,5,45,2,10:26 PM,4:26,,,Sumner Out of Bounds - Bad Pass Turnover Turnover (P2.T4),,,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022200198,264,1,79,2,10:26 PM,4:19,Reaves 14' Pullup Jump Shot (6 PTS),,,31 - 44,13,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,265,9,1,2,10:26 PM,4:18,,,Nets Timeout: Regular (Reg.3 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200198,266,8,0,2,10:28 PM,4:18,SUB: Westbrook FOR Walker IV,,,,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200198,267,8,0,2,10:28 PM,4:18,,,SUB: Morris FOR Watanabe,,,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200198,268,8,0,2,10:28 PM,4:18,,,SUB: O'Neale FOR Claxton,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200198,272,6,1,2,10:29 PM,4:09,Beverley P.FOUL (P1.T4) (J.DeRosa),,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200198,274,2,1,2,10:30 PM,3:56,,,MISS Morris 25' 3PT Jump Shot,,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,275,4,0,2,10:30 PM,3:51,,,Morris REBOUND (Off:1 Def:0),,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,276,1,6,2,10:30 PM,3:48,,,Sumner 1' Driving Layup (2 PTS) (Morris 2 AST),33 - 44,11,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200198,278,1,6,2,10:30 PM,3:28,Brown Jr. 2' Driving Layup (2 PTS) (Beverley 4 AST),,,33 - 46,13,4,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200198,280,1,98,2,10:30 PM,3:19,,,Durant 1' Cutting Layup Shot (6 PTS) (O'Neale 3 AST),35 - 46,11,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200198,282,1,1,2,10:31 PM,2:56,Reaves 3PT Jump Shot (9 PTS) (Davis 1 AST),,,35 - 49,14,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200198,284,1,1,2,10:31 PM,2:43,,,Morris 22' Jump Shot (2 PTS) (Durant 2 AST),37 - 49,12,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200198,286,2,5,2,10:31 PM,2:28,MISS Reaves 5' Layup,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,288,4,0,2,10:31 PM,2:23,Davis REBOUND (Off:5 Def:5),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,289,1,97,2,10:31 PM,2:23,Davis Tip Layup Shot (14 PTS),,,37 - 51,14,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,290,1,5,2,10:31 PM,2:14,,,Durant 2' Layup (8 PTS) (Morris 3 AST),39 - 51,12,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200198,292,2,79,2,10:32 PM,1:54,MISS Westbrook 3PT Pullup Jump Shot,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,293,4,0,2,10:32 PM,1:51,Davis REBOUND (Off:6 Def:5),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,294,1,98,2,10:32 PM,1:49,Beverley 3' Cutting Layup Shot (2 PTS) (Davis 2 AST),,,39 - 53,14,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200198,296,6,2,2,10:32 PM,1:49,,,Harris S.FOUL (P2.T2) (J.Schroeder),,,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200198,298,8,0,2,10:32 PM,1:49,SUB: Walker IV FOR Reaves,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200198,300,3,10,2,10:33 PM,1:49,MISS Beverley Free Throw 1 of 1,,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,301,4,0,2,10:33 PM,1:47,,,Morris REBOUND (Off:1 Def:1),,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,302,6,2,2,10:33 PM,1:44,Davis S.FOUL (P2.PN) (J.DeRosa),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200198,304,3,11,2,10:33 PM,1:44,,,Sumner Free Throw 1 of 2 (3 PTS),40 - 53,13,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,305,3,12,2,10:33 PM,1:44,,,Sumner Free Throw 2 of 2 (4 PTS),41 - 53,12,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,306,5,1,2,10:33 PM,1:33,Westbrook Bad Pass Turnover (P2.T3),,O'Neale STEAL (1 STL),,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200198,308,1,41,2,10:33 PM,1:29,,,Sumner 1' Running Layup (6 PTS) (Durant 3 AST),43 - 53,10,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200198,310,6,2,2,10:34 PM,1:19,,,Morris S.FOUL (P1.PN) (D.Guthrie),,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200198,312,3,11,2,10:34 PM,1:19,Davis Free Throw 1 of 2 (15 PTS),,,43 - 54,11,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,313,3,12,2,10:35 PM,1:19,Davis Free Throw 2 of 2 (16 PTS),,,43 - 55,12,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,314,1,79,2,10:35 PM,1:08,,,Sumner 25' 3PT Pullup Jump Shot (9 PTS),46 - 55,9,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,315,2,6,2,10:35 PM,0:55,MISS Westbrook 2' Driving Layup,,Morris BLOCK (1 BLK),,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,1
+0022200198,317,4,0,2,10:35 PM,0:55,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200198,320,5,39,2,10:36 PM,0:53,Westbrook Step Out of Bounds Turnover (P3.T4),,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0022200198,321,2,1,2,10:37 PM,0:37,,,MISS Morris 3PT Jump Shot,,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,322,4,0,2,10:37 PM,0:33,Beverley REBOUND (Off:0 Def:3),,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,323,6,4,2,10:37 PM,0:29,Davis OFF.Foul (P3) (J.DeRosa),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200198,325,5,37,2,10:37 PM,0:29,Davis Offensive Foul Turnover (P1.T5),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0022200198,326,8,0,2,10:37 PM,0:29,SUB: Gabriel FOR Davis,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200198,328,5,1,2,10:37 PM,0:20,Brown Jr. STEAL (1 STL),,Durant Bad Pass Turnover (P1.T5),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,4,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200198,330,2,75,2,10:38 PM,0:02,MISS Westbrook 5' Driving Finger Roll Layup,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,331,4,0,2,10:38 PM,0:00,,,Durant REBOUND (Off:0 Def:4),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,332,13,0,2,10:38 PM,0:00,,End of 2nd Period (10:38 PM EST),,46 - 55,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200198,339,12,0,3,10:53 PM,12:00,,Start of 3rd Period (10:53 PM EST),,46 - 55,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200198,340,2,79,3,10:54 PM,11:42,,,MISS Sumner 16' Pullup Jump Shot,,,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,341,4,0,3,10:54 PM,11:39,Davis REBOUND (Off:6 Def:6),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,342,6,1,3,10:54 PM,11:21,,,Durant P.FOUL (P1.T1) (J.DeRosa),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200198,344,2,1,3,10:54 PM,11:08,MISS Walker IV 26' 3PT Jump Shot,,,,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,345,4,0,3,10:55 PM,11:04,Brown Jr. REBOUND (Off:1 Def:1),,,,,4,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,346,6,2,3,10:55 PM,10:57,,,O'Neale S.FOUL (P2.T2) (D.Guthrie),,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200198,348,3,11,3,10:55 PM,10:57,MISS Reaves Free Throw 1 of 2,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,349,4,1,3,10:55 PM,10:57,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200198,350,3,12,3,10:55 PM,10:57,Reaves Free Throw 2 of 2 (10 PTS),,,46 - 56,10,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,351,2,6,3,10:56 PM,10:45,,,MISS O'Neale 4' Driving Layup,,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,352,4,0,3,10:56 PM,10:43,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200198,353,5,4,3,10:56 PM,10:43,,,O'Neale Traveling Turnover (P1.T6),,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022200198,354,6,1,3,10:56 PM,10:33,,,Sumner P.FOUL (P2.T3) (D.Guthrie),,,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200198,356,1,52,3,10:56 PM,10:25,Davis Alley Oop Dunk (18 PTS) (Reaves 1 AST),,,46 - 58,12,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200198,358,1,43,3,10:57 PM,10:12,,,Claxton 1' Alley Oop Layup (8 PTS) (Durant 4 AST),48 - 58,10,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200198,360,1,98,3,10:57 PM,9:55,Davis Cutting Layup Shot (20 PTS) (Beverley 5 AST),,,48 - 60,12,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200198,362,6,1,3,10:57 PM,9:49,Beverley P.FOUL (P2.T1) (J.Schroeder),,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200198,364,2,1,3,10:58 PM,9:34,,,MISS Sumner 3PT Jump Shot,,,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,365,4,0,3,10:58 PM,9:27,,,Claxton REBOUND (Off:2 Def:3),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,366,2,1,3,10:58 PM,9:26,,,MISS O'Neale 25' 3PT Jump Shot,,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,367,4,0,3,10:58 PM,9:23,Walker IV REBOUND (Off:0 Def:1),,,,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,368,2,79,3,10:58 PM,9:12,MISS Reaves 25' 3PT Pullup Jump Shot,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,369,4,0,3,10:58 PM,9:10,,,Durant REBOUND (Off:0 Def:5),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,370,1,98,3,10:58 PM,9:05,,,Durant 2' Cutting Layup Shot (10 PTS) (O'Neale 4 AST),50 - 60,10,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200198,372,1,1,3,10:58 PM,8:41,Davis 12' Jump Shot (22 PTS),,,50 - 62,12,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,373,6,1,3,10:59 PM,8:32,Beverley P.FOUL (P3.T2) (J.DeRosa),,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200198,375,8,0,3,10:59 PM,8:32,,,SUB: Morris FOR Claxton,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200198,377,1,1,3,10:59 PM,8:24,,,Durant 12' Jump Shot (12 PTS) (Sumner 1 AST),52 - 62,10,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200198,380,8,0,3,11:00 PM,7:59,SUB: Westbrook FOR Reaves,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200198,382,1,1,3,11:00 PM,7:57,Brown Jr. 10' Jump Shot (4 PTS) (Westbrook 6 AST),,,52 - 64,12,4,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200198,384,1,6,3,11:00 PM,7:41,,,Sumner 3' Driving Layup (11 PTS),54 - 64,10,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,386,1,75,3,11:00 PM,7:34,Walker IV 2' Driving Finger Roll Layup (13 PTS) (Westbrook 7 AST),,,54 - 66,12,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200198,388,2,75,3,11:00 PM,7:24,,,MISS Sumner 3' Driving Finger Roll Layup,,,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,389,4,0,3,11:00 PM,7:23,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200198,391,1,79,3,11:01 PM,7:18,,,Harris 22' Pullup Jump Shot (7 PTS) (Morris 4 AST),56 - 66,10,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200198,393,1,99,3,11:01 PM,6:59,Brown Jr. 2' Cutting Finger Roll Layup Shot (6 PTS) (Westbrook 8 AST),,,56 - 68,12,4,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200198,395,1,1,3,11:02 PM,6:42,,,Morris 25' 3PT Jump Shot (5 PTS) (Durant 5 AST),59 - 68,9,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200198,397,2,1,3,11:02 PM,6:21,MISS Westbrook 26' 3PT Jump Shot,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,398,4,0,3,11:02 PM,6:18,,,Harris REBOUND (Off:0 Def:5),,,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,400,2,1,3,11:02 PM,6:12,,,MISS O'Neale 3PT Jump Shot,,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,401,4,0,3,11:02 PM,6:08,Westbrook REBOUND (Off:1 Def:2),,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,402,2,103,3,11:02 PM,6:05,MISS Beverley 25' 3PT Running Pull-Up Jump Shot,,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,403,4,0,3,11:02 PM,6:03,,,Durant REBOUND (Off:0 Def:6),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,404,2,41,3,11:02 PM,5:58,,,MISS O'Neale 2' Running Layup,,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,405,4,0,3,11:02 PM,5:56,Westbrook REBOUND (Off:1 Def:3),,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,406,1,50,3,11:02 PM,5:54,Davis Running Dunk (24 PTS) (Westbrook 9 AST),,,59 - 70,11,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200198,408,9,1,3,11:02 PM,5:52,,,Nets Timeout: Regular (Reg.4 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200198,410,8,0,3,11:05 PM,5:52,,,SUB: Thomas FOR Harris,,,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200198,412,2,79,3,11:06 PM,5:29,,,MISS Thomas 33' 3PT Pullup Jump Shot,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,413,4,0,3,11:06 PM,5:28,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200198,414,5,11,3,11:06 PM,5:28,,,Nets Turnover: Shot Clock (T#7),,,3,1610612751,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200198,415,1,86,3,11:06 PM,5:14,Davis 11' Turnaround Fadeaway (26 PTS),,,59 - 72,13,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,416,6,2,3,11:07 PM,4:59,Westbrook S.FOUL (P2.T3) (J.DeRosa),,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200198,418,3,11,3,11:07 PM,4:59,,,Thomas Free Throw 1 of 2 (8 PTS),60 - 72,12,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,419,3,12,3,11:07 PM,4:59,,,Thomas Free Throw 2 of 2 (9 PTS),61 - 72,11,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,420,1,7,3,11:08 PM,4:48,Davis 2' Dunk (28 PTS) (Westbrook 10 AST),,,61 - 74,13,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200198,422,5,4,3,11:08 PM,4:30,,,Sumner Traveling Turnover (P3.T8),,,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022200198,423,8,0,3,11:08 PM,4:30,SUB: Nunn FOR Beverley,,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200198,424,8,0,3,11:08 PM,4:30,,,SUB: Watanabe FOR Sumner,,,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200198,427,2,52,3,11:08 PM,4:21,MISS Davis 1' Alley Oop Dunk,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,428,4,0,3,11:08 PM,4:18,,,Morris REBOUND (Off:1 Def:2),,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,429,2,1,3,11:09 PM,4:06,,,MISS Durant 25' 3PT Jump Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,430,4,0,3,11:09 PM,4:03,Westbrook REBOUND (Off:1 Def:4),,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,431,1,1,3,11:09 PM,3:56,Walker IV 26' 3PT Jump Shot (16 PTS) (Nunn 1 AST),,,61 - 77,16,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200198,433,2,101,3,11:09 PM,3:31,,,MISS Morris 10' Driving Floating Jump Shot,,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,434,4,0,3,11:09 PM,3:28,Westbrook REBOUND (Off:1 Def:5),,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,435,5,1,3,11:09 PM,3:22,Westbrook Bad Pass Turnover (P4.T6),,O'Neale STEAL (2 STL),,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200198,437,1,50,3,11:09 PM,3:19,,,Watanabe Running Dunk (6 PTS) (Durant 6 AST),63 - 77,14,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200198,439,6,1,3,11:10 PM,3:04,,,Watanabe P.FOUL (P1.T4) (J.DeRosa),,,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200198,441,8,0,3,11:10 PM,3:04,SUB: Christie FOR Walker IV,,,,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200198,442,8,0,3,11:10 PM,3:04,SUB: Reaves FOR Brown Jr.,,,,,4,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200198,445,2,1,3,11:10 PM,2:56,MISS Westbrook 25' 3PT Jump Shot,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,446,4,0,3,11:10 PM,2:52,,,O'Neale REBOUND (Off:0 Def:4),,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,447,6,2,3,11:10 PM,2:45,Reaves S.FOUL (P1.T4) (J.DeRosa),,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200198,449,9,1,3,11:11 PM,2:45,LAKERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200198,450,8,0,3,11:11 PM,2:45,SUB: Gabriel FOR Davis,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200198,452,3,11,3,11:14 PM,2:45,,,Durant Free Throw 1 of 2 (13 PTS),64 - 77,13,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,453,3,12,3,11:14 PM,2:45,,,Durant Free Throw 2 of 2 (14 PTS),65 - 77,12,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,454,2,57,3,11:14 PM,2:25,MISS Westbrook 6' Driving Hook Shot,,Durant BLOCK (2 BLK),,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1
+0022200198,456,4,0,3,11:14 PM,2:23,,,Watanabe REBOUND (Off:2 Def:3),,,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,457,1,79,3,11:14 PM,2:15,,,Durant 25' 3PT Pullup Jump Shot (17 PTS),68 - 77,9,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,458,6,2,3,11:15 PM,2:15,Nunn S.FOUL (P2.PN) (J.DeRosa),,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200198,460,8,0,3,11:15 PM,2:15,SUB: Davis FOR Gabriel,,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200198,462,3,10,3,11:15 PM,2:15,,,Durant Free Throw 1 of 1 (18 PTS),69 - 77,8,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,463,2,1,3,11:16 PM,1:52,MISS Westbrook 27' 3PT Jump Shot,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,464,4,0,3,11:16 PM,1:48,,,Durant REBOUND (Off:0 Def:7),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,465,1,79,3,11:16 PM,1:42,,,Durant 26' 3PT Pullup Jump Shot (21 PTS),72 - 77,5,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,466,1,1,3,11:16 PM,1:20,Davis 19' Jump Shot (30 PTS),,,72 - 79,7,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,467,2,6,3,11:16 PM,0:59,,,MISS Thomas 1' Driving Layup,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,468,4,0,3,11:16 PM,0:57,Davis REBOUND (Off:6 Def:7),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,469,2,6,3,11:17 PM,0:45,MISS Davis 2' Driving Layup,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,470,4,0,3,11:17 PM,0:44,,,Durant REBOUND (Off:0 Def:8),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,471,1,98,3,11:17 PM,0:39,,,Watanabe 2' Cutting Layup Shot (8 PTS) (Thomas 1 AST),74 - 79,5,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200198,473,2,58,3,11:17 PM,0:19,MISS Nunn 10' Turnaround Hook Shot,,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,474,4,0,3,11:17 PM,0:13,Davis REBOUND (Off:7 Def:7),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,475,2,72,3,11:17 PM,0:13,MISS Davis 7' Putback Layup,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,476,4,0,3,11:17 PM,0:11,,,Durant REBOUND (Off:0 Def:9),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,479,6,18,3,11:18 PM,0:09,,,Nets Delay,,,3,1610612751,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200198,480,3,16,3,11:18 PM,0:09,Davis Free Throw Technical (31 PTS),,,74 - 80,6,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,481,8,0,3,11:18 PM,0:09,SUB: Beverley FOR Nunn,,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200198,483,1,1,3,11:19 PM,0:03,,,O'Neale 26' 3PT Jump Shot (6 PTS) (Morris 5 AST),77 - 80,3,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200198,486,18,0,3,11:19 PM,0:00,,Instant Replay3rd Period (11:19 PM EST),,77 - 80,3,0,0,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200198,487,13,0,3,11:20 PM,0:00,,End of 3rd Period (11:20 PM EST),,77 - 80,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200198,494,12,0,4,11:22 PM,12:00,,Start of 4th Period (11:22 PM EST),,77 - 80,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200198,495,7,1,4,11:22 PM,12:00,LAKERS Violation: Delay of game Violation,,,,,2,1610612747,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200198,496,1,5,4,11:22 PM,11:43,Gabriel 1' Layup (9 PTS) (Westbrook 11 AST),,,77 - 82,5,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200198,498,6,4,4,11:23 PM,11:23,,,Morris OFF.Foul (P2) (J.Schroeder),,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200198,500,5,37,4,11:23 PM,11:23,,,Morris Offensive Foul Turnover (P1.T9),,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022200198,501,2,101,4,11:23 PM,11:06,MISS Brown Jr. 10' Driving Floating Jump Shot,,,,,4,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,502,4,0,4,11:23 PM,11:05,,,Morris REBOUND (Off:1 Def:3),,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,503,2,79,4,11:23 PM,10:55,,,MISS Morris 18' Pullup Jump Shot,,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,504,4,0,4,11:23 PM,10:50,Beverley REBOUND (Off:0 Def:4),,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,505,1,9,4,11:24 PM,10:36,Westbrook 2' Driving Dunk (10 PTS) (Reaves 2 AST),,,77 - 84,7,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200198,507,1,1,4,11:24 PM,10:16,,,Harris 3PT Jump Shot (10 PTS) (Thomas 2 AST),80 - 84,4,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200198,509,6,1,4,11:24 PM,10:04,,,Durant P.FOUL (P2.T1) (D.Guthrie),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200198,511,8,0,4,11:24 PM,10:04,,,SUB: Mills FOR Morris,,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200198,512,8,0,4,11:24 PM,10:04,,,SUB: O'Neale FOR Thomas,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200198,515,1,1,4,11:25 PM,9:51,Brown Jr. 24' 3PT Jump Shot (9 PTS) (Westbrook 12 AST),,,80 - 87,7,4,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200198,517,1,99,4,11:25 PM,9:34,,,Watanabe 2' Cutting Finger Roll Layup Shot (10 PTS) (Durant 7 AST),82 - 87,5,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200198,519,6,2,4,11:25 PM,9:34,Westbrook S.FOUL (P3.T1) (D.Guthrie),,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200198,521,3,10,4,11:26 PM,9:34,,,Watanabe Free Throw 1 of 1 (11 PTS),83 - 87,4,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,523,6,2,4,11:26 PM,9:13,,,O'Neale S.FOUL (P3.T2) (J.DeRosa),,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200198,525,3,11,4,11:27 PM,9:13,Westbrook Free Throw 1 of 2 (11 PTS),,,83 - 88,5,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,526,3,12,4,11:27 PM,9:13,Westbrook Free Throw 2 of 2 (12 PTS),,,83 - 89,6,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,527,6,1,4,11:27 PM,9:02,Beverley P.FOUL (P4.T2) (D.Guthrie),,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200198,529,6,2,4,11:27 PM,9:00,Beverley S.FOUL (P5.T3) (J.Schroeder),,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0022200198,531,3,11,4,11:28 PM,9:00,,,Durant Free Throw 1 of 2 (22 PTS),84 - 89,5,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,532,8,0,4,11:28 PM,9:00,SUB: Walker IV FOR Beverley,,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200198,534,3,12,4,11:28 PM,9:00,,,Durant Free Throw 2 of 2 (23 PTS),85 - 89,4,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,535,6,2,4,11:28 PM,8:53,,,O'Neale S.FOUL (P4.T3) (D.Guthrie),,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200198,537,3,11,4,11:29 PM,8:53,Westbrook Free Throw 1 of 2 (13 PTS),,,85 - 90,5,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,538,3,12,4,11:29 PM,8:53,Westbrook Free Throw 2 of 2 (14 PTS),,,85 - 91,6,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,539,5,4,4,11:29 PM,8:40,,,Durant Traveling Turnover (P2.T10),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022200198,540,5,1,4,11:30 PM,8:30,Gabriel Bad Pass Turnover (P1.T7),,Mills STEAL (1 STL),,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200198,542,6,2,4,11:30 PM,8:28,Reaves S.FOUL (P2.T4) (J.DeRosa),,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200198,544,9,1,4,11:30 PM,8:28,LAKERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200198,545,8,0,4,11:32 PM,8:28,SUB: Christie FOR Westbrook,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200198,546,8,0,4,11:32 PM,8:28,SUB: Davis FOR Gabriel,,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200198,549,3,11,4,11:33 PM,8:28,,,Durant Free Throw 1 of 2 (24 PTS),86 - 91,5,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0022200198,550,3,12,4,11:34 PM,8:28,,,Durant Free Throw 2 of 2 (25 PTS),87 - 91,4,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0022200198,551,1,79,4,11:34 PM,8:06,Reaves 12' Pullup Jump Shot (12 PTS),,,87 - 93,6,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,552,2,6,4,11:34 PM,7:46,,,MISS Durant 2' Driving Layup,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,553,4,0,4,11:34 PM,7:42,,,Mills REBOUND (Off:1 Def:0),,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,554,2,1,4,11:34 PM,7:35,,,MISS Mills 25' 3PT Jump Shot,,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,555,4,0,4,11:34 PM,7:33,Brown Jr. REBOUND (Off:1 Def:2),,,,,4,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,556,1,1,4,11:35 PM,7:19,Walker IV 25' 3PT Jump Shot (19 PTS) (Reaves 3 AST),,,87 - 96,9,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200198,558,2,102,4,11:35 PM,6:59,,,MISS Durant 9' Driving Floating Bank Jump Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,559,4,0,4,11:35 PM,6:56,Christie REBOUND (Off:0 Def:7),,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,560,2,6,4,11:35 PM,6:43,MISS Walker IV 1' Driving Layup,,,,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,561,4,0,4,11:35 PM,6:41,Davis REBOUND (Off:8 Def:7),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,562,1,107,4,11:35 PM,6:41,Davis Tip Dunk Shot (33 PTS),,,87 - 98,11,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,563,9,1,4,11:35 PM,6:41,,,Nets Timeout: Regular (Reg.5 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200198,564,2,79,4,11:38 PM,6:28,,,MISS Durant 11' Pullup Jump Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,565,4,0,4,11:39 PM,6:24,Davis REBOUND (Off:8 Def:8),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,566,1,80,4,11:39 PM,6:14,Walker IV 19' Step Back Jump Shot (21 PTS),,,87 - 100,13,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,567,5,40,4,11:39 PM,5:57,,,Durant Out of Bounds Lost Ball Turnover (P3.T11),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0022200198,568,1,75,4,11:39 PM,5:46,Walker IV 2' Driving Finger Roll Layup (23 PTS),,,87 - 102,15,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,569,2,6,4,11:40 PM,5:31,,,MISS O'Neale 4' Driving Layup,,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,570,4,0,4,11:40 PM,5:31,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200198,572,2,79,4,11:40 PM,5:21,MISS Walker IV 16' Pullup Jump Shot,,,,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,573,4,0,4,11:40 PM,5:18,Davis REBOUND (Off:9 Def:8),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,574,1,107,4,11:40 PM,5:18,Davis Tip Dunk Shot (35 PTS),,,87 - 104,17,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,575,9,1,4,11:40 PM,5:18,,,Nets Timeout: Regular (Reg.6 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200198,576,6,1,4,11:42 PM,5:13,Davis P.FOUL (P4.PN) (J.Schroeder),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200198,578,3,11,4,11:42 PM,5:13,,,Durant Free Throw 1 of 2 (26 PTS),88 - 104,16,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,579,3,12,4,11:42 PM,5:13,,,Durant Free Throw 2 of 2 (27 PTS),89 - 104,15,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,580,2,78,4,11:43 PM,4:59,MISS Davis 10' Floating Jump Shot,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,581,4,0,4,11:43 PM,4:59,Davis REBOUND (Off:10 Def:8),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,582,6,2,4,11:43 PM,4:59,,,Harris S.FOUL (P3.T4) (J.DeRosa),,,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0022200198,584,3,11,4,11:43 PM,4:59,Davis Free Throw 1 of 2 (36 PTS),,,89 - 105,16,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,585,3,12,4,11:43 PM,4:59,Davis Free Throw 2 of 2 (37 PTS),,,89 - 106,17,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,586,6,1,4,11:44 PM,4:54,Davis P.FOUL (P5.PN) (D.Guthrie),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200198,588,3,11,4,11:44 PM,4:54,,,Durant Free Throw 1 of 2 (28 PTS),90 - 106,16,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,589,3,12,4,11:44 PM,4:54,,,Durant Free Throw 2 of 2 (29 PTS),91 - 106,15,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,590,5,45,4,11:45 PM,4:37,Reaves Out of Bounds - Bad Pass Turnover Turnover (P1.T8),,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0022200198,591,2,6,4,11:45 PM,4:30,,,MISS Durant 1' Driving Layup,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,592,4,0,4,11:45 PM,4:28,Brown Jr. REBOUND (Off:1 Def:3),,,,,4,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,593,1,1,4,11:45 PM,4:11,Reaves 25' 3PT Jump Shot (15 PTS) (Brown Jr. 1 AST),,,91 - 109,18,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200198,595,1,86,4,11:46 PM,3:57,,,Durant 9' Turnaround Fadeaway (31 PTS),93 - 109,16,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,596,1,101,4,11:46 PM,3:39,Walker IV 15' Driving Floating Jump Shot (25 PTS),,,93 - 111,18,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,597,9,1,4,11:46 PM,3:39,,,Nets Timeout: Regular (Reg.7 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200198,598,9,1,4,11:47 PM,3:39,LAKERS Timeout: Regular (Full 5 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200198,599,8,0,4,11:48 PM,3:39,SUB: Nunn FOR Reaves,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200198,601,8,0,4,11:48 PM,3:39,,,SUB: Thomas FOR O'Neale,,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200198,603,8,0,4,11:48 PM,3:39,,,SUB: Sumner FOR Mills,,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200198,604,8,0,4,11:48 PM,3:39,,,SUB: Edwards FOR Harris,,,5,203925,Joe Harris,1610612751.0,Brooklyn,Nets,BKN,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200198,605,8,0,4,11:48 PM,3:39,,,SUB: Sharpe FOR Watanabe,,,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200198,614,6,18,4,11:49 PM,3:39,LAKERS Delay,,,,,2,1610612747,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200198,619,3,16,4,11:51 PM,3:39,,,MISS Durant Free Throw Technical,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,620,4,1,4,11:51 PM,3:39,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200198,621,8,0,4,11:51 PM,3:39,SUB: Gabriel FOR Davis,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200198,622,8,0,4,11:51 PM,3:39,,,SUB: Duke Jr. FOR Durant,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0022200198,625,5,2,4,11:51 PM,3:20,Brown Jr. STEAL (2 STL),,Sharpe Lost Ball Turnover (P1.T12),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,4,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200198,627,2,101,4,11:52 PM,2:57,MISS Brown Jr. 9' Driving Floating Jump Shot,,,,,4,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,628,4,0,4,11:52 PM,2:54,,,Sharpe REBOUND (Off:0 Def:1),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,629,1,102,4,11:52 PM,2:41,,,Sumner 11' Driving Floating Bank Jump Shot (13 PTS),95 - 111,16,5,1628410,Edmond Sumner,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,630,2,6,4,11:52 PM,2:20,MISS Walker IV 2' Driving Layup,,,,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,631,4,0,4,11:52 PM,2:18,,,Sharpe REBOUND (Off:0 Def:2),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,632,7,5,4,11:53 PM,2:07,Brown Jr. Violation:Kicked Ball (J.Schroeder),,,,,4,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,0
+0022200198,633,8,0,4,11:53 PM,2:07,SUB: Toscano-Anderson FOR Walker IV,,,,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,4,1629308,Juan Toscano-Anderson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200198,634,8,0,4,11:53 PM,2:07,SUB: Ryan FOR Brown Jr.,,,,,4,1628972,Troy Brown Jr.,1610612747.0,Los Angeles,Lakers,LAL,4,1630346,Matt Ryan,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0022200198,637,1,6,4,11:53 PM,2:00,,,Duke Jr. 5' Driving Layup (2 PTS),97 - 111,14,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,638,5,1,4,11:53 PM,1:48,Toscano-Anderson Bad Pass Turnover (P1.T9),,Thomas STEAL (1 STL),,,4,1629308,Juan Toscano-Anderson,1610612747.0,Los Angeles,Lakers,LAL,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0022200198,640,1,41,4,11:53 PM,1:46,,,Thomas 1' Running Layup (11 PTS),99 - 111,12,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,641,1,1,4,11:54 PM,1:35,Ryan 3PT Jump Shot (3 PTS) (Nunn 2 AST),,,99 - 114,15,4,1630346,Matt Ryan,1610612747.0,Los Angeles,Lakers,LAL,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200198,643,5,2,4,11:54 PM,1:28,Toscano-Anderson STEAL (1 STL),,Thomas Lost Ball Turnover (P1.T13),,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,4,1629308,Juan Toscano-Anderson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0022200198,645,1,41,4,11:54 PM,1:26,Toscano-Anderson Running Layup (2 PTS),,,99 - 116,17,4,1629308,Juan Toscano-Anderson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,646,2,57,4,11:54 PM,1:07,,,MISS Duke Jr. 5' Driving Hook Shot,,,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,647,4,0,4,11:54 PM,1:03,,,Sharpe REBOUND (Off:1 Def:2),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,648,2,97,4,11:54 PM,1:03,,,MISS Sharpe Tip Layup Shot,,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,649,4,0,4,11:54 PM,1:02,Christie REBOUND (Off:0 Def:8),,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,650,2,6,4,11:55 PM,0:43,MISS Gabriel 1' Driving Layup,,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,651,4,0,4,11:55 PM,0:41,,,Thomas REBOUND (Off:0 Def:3),,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,652,1,41,4,11:55 PM,0:38,,,Thomas 4' Running Layup (13 PTS),101 - 116,15,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,653,6,2,4,11:55 PM,0:38,Toscano-Anderson S.FOUL (P1.PN) (J.Schroeder),,,,,4,1629308,Juan Toscano-Anderson,1610612747.0,Los Angeles,Lakers,LAL,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200198,655,3,10,4,11:55 PM,0:38,,,MISS Thomas Free Throw 1 of 1,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,656,4,0,4,11:55 PM,0:36,Christie REBOUND (Off:0 Def:9),,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,657,2,1,4,11:55 PM,0:28,MISS Ryan 25' 3PT Jump Shot,,,,,4,1630346,Matt Ryan,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0022200198,658,4,0,4,11:55 PM,0:25,,,Sharpe REBOUND (Off:1 Def:3),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,659,6,2,4,11:55 PM,0:20,Gabriel S.FOUL (P1.PN) (D.Guthrie),,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0022200198,661,3,11,4,11:56 PM,0:20,,,Thomas Free Throw 1 of 2 (14 PTS),102 - 116,14,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,662,3,12,4,11:56 PM,0:20,,,Thomas Free Throw 2 of 2 (15 PTS),103 - 116,13,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0022200198,663,13,0,4,11:56 PM,0:00,,End of 4th Period (11:56 PM EST),,103 - 116,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

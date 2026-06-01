@@ -1,0 +1,561 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200009,2,12,0,1,7:46 PM,12:00,,Start of 1st Period (7:46 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200009,4,10,0,1,7:46 PM,12:00,Jump Ball Adams vs. Robinson: Tip to Morant,,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1
+0022200009,7,1,75,1,7:46 PM,11:45,Morant 2' Driving Finger Roll Layup (2 PTS) (Bane 1 AST),,,0 - 2,2,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200009,9,2,86,1,7:46 PM,11:18,,,MISS Randle 10' Turnaround Fadeaway Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,10,4,0,1,7:46 PM,11:16,Konchar REBOUND (Off:0 Def:1),,,,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,11,1,103,1,7:46 PM,11:12,Morant 25' 3PT Running Pull-Up Jump Shot (5 PTS) (Konchar 1 AST),,,0 - 5,5,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200009,12,2,102,1,7:47 PM,10:56,,,MISS Fournier 5' Driving Floating Bank Jump Shot,,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,13,4,0,1,7:47 PM,10:52,Adams REBOUND (Off:0 Def:1),,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,15,2,78,1,7:47 PM,10:48,MISS Bane 12' Floating Jump Shot,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,16,4,0,1,7:47 PM,10:46,Morant REBOUND (Off:1 Def:0),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,17,2,79,1,7:47 PM,10:38,MISS Bane 24' 3PT Pullup Jump Shot,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,18,4,0,1,7:47 PM,10:35,,,Randle REBOUND (Off:0 Def:1),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,19,1,1,1,7:47 PM,10:28,,,Randle 26' 3PT Jump Shot (3 PTS) (Fournier 1 AST),3 - 5,2,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200009,21,2,1,1,7:48 PM,10:13,MISS Konchar 3PT Jump Shot,,,,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,22,4,0,1,7:48 PM,10:10,,,Randle REBOUND (Off:0 Def:2),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,23,2,74,1,7:48 PM,10:07,,,MISS Barrett 2' Running Reverse Layup,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,24,4,0,1,7:48 PM,10:04,Bane REBOUND (Off:0 Def:1),,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,25,2,80,1,7:48 PM,9:57,MISS Bane 25' 3PT Step Back Jump Shot,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,26,4,0,1,7:48 PM,9:53,,,Randle REBOUND (Off:0 Def:3),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,27,1,99,1,7:48 PM,9:43,,,Barrett 1' Cutting Finger Roll Layup Shot (2 PTS) (Randle 1 AST),5 - 5,TIE,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200009,29,6,2,1,7:48 PM,9:27,,,Brunson S.FOUL (P1.T1) (D.Taylor),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200009,31,3,11,1,7:49 PM,9:27,Morant Free Throw 1 of 2 (6 PTS),,,5 - 6,1,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,32,3,12,1,7:49 PM,9:27,Morant Free Throw 2 of 2 (7 PTS),,,5 - 7,2,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,33,2,86,1,7:49 PM,9:17,,,MISS Brunson 11' Turnaround Fadeaway Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,34,4,0,1,7:49 PM,9:16,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200009,35,6,3,1,7:49 PM,9:16,Adams L.B.FOUL (P1.T1) (D.Taylor),,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200009,37,2,79,1,7:50 PM,9:10,,,MISS Brunson 17' Pullup Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,38,4,0,1,7:50 PM,9:08,Bane REBOUND (Off:0 Def:2),,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,39,1,1,1,7:50 PM,9:01,Aldama 3PT Jump Shot (3 PTS) (Konchar 2 AST),,,5 - 10,5,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200009,41,2,101,1,7:50 PM,8:45,,,MISS Barrett 10' Driving Floating Jump Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,42,4,0,1,7:50 PM,8:41,,,Robinson REBOUND (Off:1 Def:0),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,43,2,1,1,7:50 PM,8:40,,,MISS Barrett 3PT Jump Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,44,4,0,1,7:50 PM,8:37,Konchar REBOUND (Off:0 Def:2),,,,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,45,5,45,1,7:50 PM,8:26,Morant Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0022200009,46,1,79,1,7:51 PM,8:13,,,Brunson 8' Pullup Jump Shot (2 PTS),7 - 10,3,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,47,2,79,1,7:51 PM,8:00,MISS Morant 25' 3PT Pullup Jump Shot,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,48,4,0,1,7:51 PM,7:56,,,Fournier REBOUND (Off:0 Def:1),,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,49,2,1,1,7:51 PM,7:45,,,MISS Barrett 3PT Jump Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,50,4,0,1,7:51 PM,7:43,Konchar REBOUND (Off:0 Def:3),,,,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,51,2,1,1,7:51 PM,7:31,MISS Aldama 25' 3PT Jump Shot,,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,52,4,0,1,7:51 PM,7:29,Konchar REBOUND (Off:1 Def:3),,,,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,53,6,2,1,7:52 PM,7:26,,,Robinson S.FOUL (P1.T2) (D.Taylor),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200009,55,3,11,1,7:52 PM,7:26,Morant Free Throw 1 of 2 (8 PTS),,,7 - 11,4,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,56,3,12,1,7:52 PM,7:26,Morant Free Throw 2 of 2 (9 PTS),,,7 - 12,5,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,57,2,79,1,7:52 PM,7:13,,,MISS Fournier 13' Pullup Jump Shot,,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,58,4,0,1,7:53 PM,7:11,Aldama REBOUND (Off:0 Def:1),,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,59,2,75,1,7:53 PM,7:03,MISS Bane 1' Driving Finger Roll Layup,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,60,4,0,1,7:53 PM,7:00,,,Randle REBOUND (Off:0 Def:4),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,61,2,79,1,7:53 PM,6:53,,,MISS Randle 10' Pullup Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,62,4,0,1,7:53 PM,6:49,Adams REBOUND (Off:0 Def:2),,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,63,6,2,1,7:53 PM,6:47,,,Brunson S.FOUL (P2.T3) (Z.Zarba),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200009,65,9,1,1,7:53 PM,6:47,GRIZZLIES Timeout: Regular (Full 1 Short 0),,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200009,67,8,0,1,7:56 PM,6:47,SUB: Clarke FOR Aldama,,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200009,68,8,0,1,7:56 PM,6:47,SUB: Jones FOR Bane,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200009,98,8,0,1,7:56 PM,6:47,,,SUB: Quickley FOR Brunson,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200009,71,3,11,1,7:57 PM,6:47,MISS Morant Free Throw 1 of 2,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,72,4,1,1,7:57 PM,6:47,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200009,73,3,12,1,7:57 PM,6:47,Morant Free Throw 2 of 2 (10 PTS),,,7 - 13,6,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,74,6,26,1,7:57 PM,6:26,,,Barrett Offensive Charge Foul (P1) (C.Blair),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200009,76,5,37,1,7:57 PM,6:26,,,Barrett Offensive Foul Turnover (P1.T1),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022200009,77,2,6,1,7:58 PM,6:15,MISS Konchar 3' Driving Layup,,Robinson BLOCK (1 BLK),,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,1
+0022200009,80,5,1,1,7:58 PM,6:10,Konchar Bad Pass Turnover (P1.T2),,Fournier STEAL (1 STL),,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200009,79,4,0,1,7:58 PM,6:10,Konchar REBOUND (Off:2 Def:3),,,,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,82,1,71,1,7:58 PM,6:06,,,Randle Finger Roll Layup (5 PTS) (Barrett 1 AST),9 - 13,4,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200009,84,1,41,1,7:58 PM,6:00,Morant 3' Running Layup (12 PTS),,,9 - 15,6,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,85,1,80,1,7:58 PM,5:44,,,Fournier 3PT Step Back Jump Shot (3 PTS),12 - 15,3,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,86,2,1,1,7:58 PM,5:27,MISS Clarke 3PT Jump Shot,,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,87,4,0,1,7:58 PM,5:24,,,Randle REBOUND (Off:0 Def:5),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,88,2,2,1,7:59 PM,5:19,,,MISS Quickley 26' 3PT Running Jump Shot,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,89,4,0,1,7:59 PM,5:13,Konchar REBOUND (Off:2 Def:4),,,,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,90,2,101,1,7:59 PM,5:08,MISS Jones 11' Driving Floating Jump Shot,,,,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,91,4,0,1,7:59 PM,5:05,,,Quickley REBOUND (Off:0 Def:1),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,92,1,98,1,7:59 PM,4:54,,,Robinson 2' Cutting Layup Shot (2 PTS) (Barrett 2 AST),14 - 15,1,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200009,94,6,2,1,7:59 PM,4:54,Clarke S.FOUL (P1.T2) (D.Taylor),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200009,96,8,0,1,7:59 PM,4:54,SUB: Roddy FOR Konchar,,,,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200009,100,3,10,1,8:00 PM,4:54,,,MISS Robinson Free Throw 1 of 1,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,101,4,0,1,8:00 PM,4:52,Clarke REBOUND (Off:0 Def:1),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,102,2,1,1,8:00 PM,4:37,MISS Roddy 3PT Jump Shot,,,,,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,103,4,0,1,8:00 PM,4:34,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200009,105,1,101,1,8:00 PM,4:21,,,Randle 9' Driving Floating Jump Shot (7 PTS),16 - 15,-1,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,106,6,2,1,8:01 PM,4:21,Clarke S.FOUL (P2.T3) (Z.Zarba),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200009,108,8,0,1,8:01 PM,4:21,,,SUB: Hartenstein FOR Robinson,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200009,110,3,10,1,8:01 PM,4:21,,,Randle Free Throw 1 of 1 (8 PTS),17 - 15,-2,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,111,1,1,1,8:01 PM,4:04,Jones 3PT Jump Shot (3 PTS) (Morant 1 AST),,,17 - 18,1,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200009,114,8,0,1,8:02 PM,3:46,SUB: Tillman FOR Adams,,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200009,115,8,0,1,8:02 PM,3:46,SUB: Aldama FOR Morant,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200009,116,8,0,1,8:02 PM,3:46,SUB: Bane FOR Clarke,,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200009,120,2,1,1,8:02 PM,3:41,,,MISS Randle 26' 3PT Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,121,4,0,1,8:02 PM,3:39,Tillman REBOUND (Off:0 Def:1),,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,122,2,1,1,8:02 PM,3:33,MISS Aldama 3PT Jump Shot,,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,123,4,0,1,8:02 PM,3:29,,,Barrett REBOUND (Off:0 Def:1),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,124,2,98,1,8:02 PM,3:23,,,MISS Quickley 2' Cutting Layup Shot,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,125,4,0,1,8:02 PM,3:21,,,Hartenstein REBOUND (Off:1 Def:0),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,126,5,4,1,8:03 PM,3:21,,,Hartenstein Traveling Turnover (P1.T2),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022200009,127,2,1,1,8:03 PM,3:06,MISS Jones 25' 3PT Jump Shot,,,,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,128,4,0,1,8:03 PM,3:04,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200009,130,8,0,1,8:03 PM,3:04,,,SUB: Reddish FOR Barrett,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200009,132,2,5,1,8:03 PM,3:02,MISS Roddy 4' Layup,,Reddish BLOCK (1 BLK),,,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,1
+0022200009,134,4,0,1,8:03 PM,3:02,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200009,136,2,101,1,8:04 PM,2:53,MISS Jones 12' Driving Floating Jump Shot,,,,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,137,4,0,1,8:04 PM,2:50,,,Reddish REBOUND (Off:0 Def:1),,,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,138,5,2,1,8:04 PM,2:49,Jones STEAL (1 STL),,Reddish Lost Ball Turnover (P1.T3),,,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200009,140,1,5,1,8:04 PM,2:45,Jones 1' Layup (5 PTS),,,17 - 20,3,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,141,1,1,1,8:04 PM,2:24,,,Reddish 25' 3PT Jump Shot (3 PTS) (Randle 2 AST),20 - 20,TIE,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200009,143,1,1,1,8:05 PM,2:12,Aldama 25' 3PT Jump Shot (6 PTS) (Bane 2 AST),,,20 - 23,3,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200009,145,2,101,1,8:05 PM,1:47,,,MISS Reddish 3' Driving Floating Jump Shot,,,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,146,4,0,1,8:05 PM,1:45,Aldama REBOUND (Off:0 Def:2),,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,147,6,1,1,8:05 PM,1:34,,,Fournier P.FOUL (P1.T4) (C.Blair),,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200009,149,9,1,1,8:05 PM,1:34,,,Knicks Timeout: Regular (Reg.1 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200009,150,8,0,1,8:07 PM,1:34,,,SUB: Toppin FOR Fournier,,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200009,151,8,0,1,8:07 PM,1:34,,,SUB: Rose FOR Randle,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200009,154,2,78,1,8:09 PM,1:21,MISS Tillman 10' Floating Jump Shot,,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,155,4,0,1,8:09 PM,1:17,Roddy REBOUND (Off:1 Def:0),,,,,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,156,2,97,1,8:09 PM,1:17,MISS Roddy Tip Layup Shot,,,,,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,157,4,0,1,8:09 PM,1:17,Roddy REBOUND (Off:2 Def:0),,,,,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,158,2,72,1,8:09 PM,1:16,MISS Roddy Putback Layup,,,,,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,159,4,0,1,8:09 PM,1:16,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200009,161,1,1,1,8:10 PM,1:00,,,Reddish 26' 3PT Jump Shot (6 PTS) (Rose 1 AST),23 - 23,TIE,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200009,163,1,6,1,8:10 PM,0:39,Aldama 7' Driving Layup (8 PTS) (Jones 1 AST),,,23 - 25,2,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200009,165,2,79,1,8:10 PM,0:31,Bane BLOCK (1 BLK),,MISS Rose 27' 3PT Pullup Jump Shot,,,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,1
+0022200009,167,4,0,1,8:10 PM,0:27,Aldama REBOUND (Off:0 Def:3),,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,168,2,101,1,8:10 PM,0:07,MISS Jones 5' Driving Floating Jump Shot,,,,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,169,4,0,1,8:11 PM,0:05,Aldama REBOUND (Off:1 Def:3),,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,170,2,78,1,8:11 PM,0:02,MISS Aldama 16' Floating Jump Shot,,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,171,4,0,1,8:11 PM,0:00,,,Quickley REBOUND (Off:0 Def:2),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,172,2,103,1,8:11 PM,0:00,,,MISS Quickley 29' 3PT Running Pull-Up Jump Shot,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,173,4,0,1,8:11 PM,0:00,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200009,174,13,0,1,8:11 PM,0:00,,End of 1st Period (8:11 PM EST),,23 - 25,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200009,177,12,0,2,8:14 PM,12:00,,Start of 2nd Period (8:14 PM EST),,23 - 25,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200009,178,2,79,2,8:15 PM,11:44,,,MISS Reddish 25' 3PT Pullup Jump Shot,,,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,179,4,0,2,8:15 PM,11:42,Jones REBOUND (Off:0 Def:1),,,,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,180,1,1,2,8:15 PM,11:35,Bane 25' 3PT Jump Shot (3 PTS) (Jones 2 AST),,,23 - 28,5,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200009,182,6,1,2,8:15 PM,11:27,Bane P.FOUL (P1.T1) (C.Blair),,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200009,184,2,98,2,8:15 PM,11:23,,,MISS Quickley 2' Cutting Layup Shot,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,185,4,0,2,8:15 PM,11:20,Aldama REBOUND (Off:1 Def:4),,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,186,2,1,2,8:16 PM,11:07,MISS Aldama 3PT Jump Shot,,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,187,4,0,2,8:16 PM,11:05,,,Reddish REBOUND (Off:0 Def:2),,,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,188,1,102,2,8:16 PM,10:54,,,Rose 5' Driving Floating Bank Jump Shot (2 PTS) (Hartenstein 1 AST),25 - 28,3,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200009,191,5,45,2,8:16 PM,10:36,Tillman Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0022200009,192,2,1,2,8:17 PM,10:22,,,MISS Rose 27' 3PT Jump Shot,,,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,193,4,0,2,8:17 PM,10:18,,,Hartenstein REBOUND (Off:2 Def:0),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,194,2,80,2,8:17 PM,10:10,Aldama BLOCK (1 BLK),,MISS Quickley 27' 3PT Step Back Jump Shot,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,1
+0022200009,196,4,0,2,8:17 PM,10:09,,,Hartenstein REBOUND (Off:3 Def:0),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,197,1,72,2,8:17 PM,10:09,,,Hartenstein Putback Layup (2 PTS),27 - 28,1,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,198,6,2,2,8:17 PM,10:09,Tillman S.FOUL (P1.T2) (Z.Zarba),,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200009,200,3,10,2,8:17 PM,10:09,,,Hartenstein Free Throw 1 of 1 (3 PTS),28 - 28,TIE,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,201,1,75,2,8:17 PM,9:57,Bane 1' Driving Finger Roll Layup (5 PTS),,,28 - 30,2,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,202,1,7,2,8:18 PM,9:41,,,Toppin 1' Dunk (2 PTS) (Hartenstein 2 AST),30 - 30,TIE,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200009,204,1,102,2,8:18 PM,9:24,Tillman 8' Driving Floating Bank Jump Shot (2 PTS),,,30 - 32,2,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,206,2,63,2,8:18 PM,9:10,,,MISS Toppin 11' Fadeaway Jumper,,,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,207,4,0,2,8:18 PM,9:09,Aldama REBOUND (Off:1 Def:5),,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,208,2,103,2,8:18 PM,9:04,MISS Jones 25' 3PT Running Pull-Up Jump Shot,,,,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,209,4,0,2,8:18 PM,9:00,Tillman REBOUND (Off:1 Def:1),,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,210,1,72,2,8:18 PM,9:00,Tillman Putback Layup (4 PTS),,,30 - 34,4,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,211,9,1,2,8:19 PM,8:56,,,Knicks Timeout: Regular (Reg.2 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200009,212,8,0,2,8:21 PM,8:56,,,SUB: Brunson FOR Quickley,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200009,214,2,1,2,8:22 PM,8:44,,,MISS Reddish 25' 3PT Jump Shot,,,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,215,4,0,2,8:22 PM,8:41,Jones REBOUND (Off:0 Def:2),,,,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,216,1,101,2,8:22 PM,8:27,Jones 12' Driving Floating Jump Shot (7 PTS),,,30 - 36,6,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,217,1,78,2,8:23 PM,8:15,,,Hartenstein 12' Floating Jump Shot (5 PTS) (Brunson 1 AST),32 - 36,4,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200009,219,1,1,2,8:23 PM,8:01,LaRavia 25' 3PT Jump Shot (3 PTS) (Bane 3 AST),,,32 - 39,7,4,1631222,Jake LaRavia,1610612763.0,Memphis,Grizzlies,MEM,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200009,221,2,102,2,8:23 PM,7:46,,,MISS Brunson 2' Driving Floating Bank Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,222,4,0,2,8:23 PM,7:43,LaRavia REBOUND (Off:0 Def:1),,,,,4,1631222,Jake LaRavia,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,223,2,1,2,8:23 PM,7:39,MISS Bane 25' 3PT Jump Shot,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,224,4,0,2,8:23 PM,7:36,,,Rose REBOUND (Off:0 Def:1),,,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,296,2,101,2,8:23 PM,7:28,Tillman BLOCK (1 BLK),,MISS Rose 8' Driving Floating Jump Shot,,,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,1
+0022200009,298,4,0,2,8:23 PM,7:26,,,Rose REBOUND (Off:1 Def:1),,,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,225,2,1,2,8:23 PM,7:23,,,MISS Hartenstein 26' 3PT Jump Shot,,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,226,4,0,2,8:24 PM,7:21,,,Reddish REBOUND (Off:1 Def:2),,,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,227,1,78,2,8:24 PM,7:17,,,Hartenstein 5' Floating Jump Shot (7 PTS) (Toppin 1 AST),34 - 39,5,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200009,229,2,102,2,8:24 PM,7:06,MISS Bane 9' Driving Floating Bank Jump Shot,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,230,4,0,2,8:24 PM,7:04,,,Rose REBOUND (Off:1 Def:2),,,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,231,2,101,2,8:24 PM,6:59,Tillman BLOCK (2 BLK),,MISS Reddish 9' Driving Floating Jump Shot,,,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,1
+0022200009,232,4,0,2,8:24 PM,6:55,Aldama REBOUND (Off:1 Def:6),,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,233,5,45,2,8:24 PM,6:52,Bane Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0022200009,234,8,0,2,8:24 PM,6:52,SUB: Morant FOR Tillman,,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200009,235,8,0,2,8:24 PM,6:52,SUB: Adams FOR Aldama,,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200009,236,8,0,2,8:24 PM,6:52,SUB: Clarke FOR Jones,,,,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200009,237,8,0,2,8:24 PM,6:52,,,SUB: Robinson FOR Reddish,,,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200009,238,8,0,2,8:24 PM,6:52,,,SUB: Barrett FOR Hartenstein,,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200009,244,6,2,2,8:25 PM,6:38,LaRavia S.FOUL (P1.T3) (C.Blair),,,,,4,1631222,Jake LaRavia,1610612763.0,Memphis,Grizzlies,MEM,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200009,246,3,11,2,8:25 PM,6:38,,,Barrett Free Throw 1 of 2 (3 PTS),35 - 39,4,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,247,8,0,2,8:25 PM,6:38,SUB: Roddy FOR LaRavia,,,,,4,1631222,Jake LaRavia,1610612763.0,Memphis,Grizzlies,MEM,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200009,248,8,0,2,8:25 PM,6:38,SUB: Konchar FOR Bane,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200009,251,3,12,2,8:25 PM,6:38,,,MISS Barrett Free Throw 2 of 2,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,252,4,0,2,8:25 PM,6:36,Konchar REBOUND (Off:2 Def:5),,,,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,253,1,1,2,8:26 PM,6:21,Morant 26' 3PT Jump Shot (15 PTS) (Roddy 1 AST),,,35 - 42,7,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200009,255,2,101,2,8:26 PM,6:03,,,MISS Barrett 7' Driving Floating Jump Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,256,4,0,2,8:26 PM,6:00,,,Brunson REBOUND (Off:1 Def:0),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,257,5,1,2,8:26 PM,5:58,Adams STEAL (1 STL),,Toppin Bad Pass Turnover (P1.T4),,,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200009,259,6,2,2,8:26 PM,5:53,,,Robinson S.FOUL (P2.T1) (C.Blair),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200009,261,3,11,2,8:26 PM,5:53,MISS Adams Free Throw 1 of 2,,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,262,4,1,2,8:26 PM,5:53,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200009,263,8,0,2,8:27 PM,5:53,,,SUB: Fournier FOR Toppin,,,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200009,264,8,0,2,8:27 PM,5:53,,,SUB: Randle FOR Rose,,,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200009,267,3,12,2,8:27 PM,5:53,Adams Free Throw 2 of 2 (1 PTS),,,35 - 43,8,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,268,2,101,2,8:27 PM,5:38,,,MISS Randle 3' Driving Floating Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,269,4,0,2,8:27 PM,5:35,,,Robinson REBOUND (Off:2 Def:0),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,270,2,97,2,8:27 PM,5:35,,,MISS Robinson Tip Layup Shot,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,271,4,0,2,8:27 PM,5:35,Clarke REBOUND (Off:0 Def:2),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,272,6,1,2,8:28 PM,5:30,,,Robinson P.FOUL (P3.T2) (D.Taylor),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200009,274,8,0,2,8:28 PM,5:30,,,SUB: Hartenstein FOR Robinson,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200009,276,2,79,2,8:28 PM,5:22,MISS Morant 13' Pullup Jump Shot,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,277,4,0,2,8:28 PM,5:19,,,Fournier REBOUND (Off:0 Def:2),,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,278,2,1,2,8:28 PM,5:07,,,MISS Fournier 26' 3PT Jump Shot,,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,279,4,0,2,8:28 PM,5:04,Morant REBOUND (Off:1 Def:1),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,280,1,1,2,8:28 PM,4:56,Konchar 24' 3PT Jump Shot (3 PTS) (Morant 2 AST),,,35 - 46,11,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200009,282,2,1,2,8:29 PM,4:41,,,MISS Randle 26' 3PT Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,283,4,0,2,8:29 PM,4:39,,,Fournier REBOUND (Off:1 Def:2),,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,284,1,72,2,8:29 PM,4:38,,,Fournier 4' Putback Layup (5 PTS),37 - 46,9,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,285,1,79,2,8:29 PM,4:22,Morant 25' 3PT Pullup Jump Shot (18 PTS) (Adams 1 AST),,,37 - 49,12,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200009,287,2,101,2,8:29 PM,4:05,,,MISS Brunson 3' Driving Floating Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,288,4,0,2,8:29 PM,4:03,Adams REBOUND (Off:0 Def:3),,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,289,2,1,2,8:29 PM,3:57,MISS Konchar 25' 3PT Jump Shot,,,,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,290,4,0,2,8:29 PM,3:52,,,Randle REBOUND (Off:0 Def:6),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,291,2,1,2,8:30 PM,3:42,,,MISS Barrett 3PT Jump Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,292,4,0,2,8:30 PM,3:38,Clarke REBOUND (Off:0 Def:3),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,293,1,76,2,8:30 PM,3:34,Clarke 1' Running Finger Roll Layup (2 PTS) (Morant 3 AST),,,37 - 51,14,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200009,295,9,1,2,8:30 PM,3:27,,,Knicks Timeout: Regular (Reg.3 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200009,300,1,1,2,8:34 PM,3:12,,,Fournier 3PT Jump Shot (8 PTS) (Randle 3 AST),40 - 51,11,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200009,302,2,1,2,8:34 PM,2:52,MISS Roddy 3PT Jump Shot,,,,,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,303,4,0,2,8:34 PM,2:49,,,Hartenstein REBOUND (Off:3 Def:1),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,304,1,76,2,8:34 PM,2:45,,,Brunson 1' Running Finger Roll Layup (4 PTS) (Hartenstein 3 AST),42 - 51,9,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200009,306,2,101,2,8:34 PM,2:27,MISS Morant 12' Driving Floating Jump Shot,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,307,4,0,2,8:34 PM,2:25,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200009,308,6,3,2,8:34 PM,2:25,,,Hartenstein L.B.FOUL (P1.T3) (C.Blair),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200009,310,8,0,2,8:35 PM,2:25,SUB: Aldama FOR Clarke,,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200009,311,8,0,2,8:35 PM,2:25,SUB: Bane FOR Roddy,,,,,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200009,314,1,78,2,8:35 PM,2:16,Aldama 5' Floating Jump Shot (10 PTS) (Bane 4 AST),,,42 - 53,11,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200009,316,1,6,2,8:35 PM,1:52,,,Brunson 7' Driving Layup (6 PTS),44 - 53,9,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,317,1,76,2,8:36 PM,1:46,Bane 1' Running Finger Roll Layup (7 PTS) (Morant 4 AST),,,44 - 55,11,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200009,319,2,79,2,8:36 PM,1:33,,,MISS Brunson 26' 3PT Pullup Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,320,4,0,2,8:36 PM,1:30,,,Hartenstein REBOUND (Off:4 Def:1),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,321,2,1,2,8:36 PM,1:27,,,MISS Barrett 14' Jump Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,322,4,0,2,8:36 PM,1:25,,,Hartenstein REBOUND (Off:5 Def:1),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,323,2,78,2,8:36 PM,1:24,,,MISS Hartenstein 2' Floating Jump Shot,,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,324,4,0,2,8:36 PM,1:20,,,Randle REBOUND (Off:1 Def:6),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,325,1,107,2,8:36 PM,1:20,,,Randle Tip Dunk Shot (10 PTS),46 - 55,9,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,326,6,1,2,8:36 PM,1:16,,,Brunson P.FOUL (P3.T4) (Z.Zarba),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200009,328,8,0,2,8:36 PM,1:16,,,SUB: Quickley FOR Brunson,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200009,330,1,1,2,8:37 PM,1:10,Bane 24' 3PT Jump Shot (10 PTS) (Morant 5 AST),,,46 - 58,12,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200009,332,2,79,2,8:37 PM,0:56,,,MISS Barrett 26' 3PT Pullup Jump Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,333,4,0,2,8:37 PM,0:54,Aldama REBOUND (Off:1 Def:7),,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,334,1,79,2,8:37 PM,0:35,Konchar 3PT Pullup Jump Shot (6 PTS) (Morant 6 AST),,,46 - 61,15,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200009,336,2,101,2,8:38 PM,0:11,Adams BLOCK (1 BLK),,MISS Fournier 2' Driving Floating Jump Shot,,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,1
+0022200009,338,4,0,2,8:38 PM,0:07,Adams REBOUND (Off:0 Def:4),,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,339,2,101,2,8:38 PM,0:00,MISS Bane 12' Driving Floating Jump Shot,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,340,4,0,2,8:38 PM,0:00,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200009,341,13,0,2,8:38 PM,0:00,,End of 2nd Period (8:38 PM EST),,46 - 61,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200009,346,12,0,3,8:55 PM,12:00,,Start of 3rd Period (8:55 PM EST),,46 - 61,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200009,347,1,108,3,8:55 PM,11:44,,,Robinson 1' Cutting Dunk Shot (4 PTS) (Randle 4 AST),48 - 61,13,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200009,349,5,1,3,8:56 PM,11:30,Adams Bad Pass Turnover (P1.T5),,Fournier STEAL (2 STL),,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200009,351,2,79,3,8:56 PM,11:23,,,MISS Barrett 19' Pullup Jump Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,352,4,0,3,8:56 PM,11:20,Adams REBOUND (Off:0 Def:5),,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,353,1,1,3,8:56 PM,11:14,Konchar 3PT Jump Shot (9 PTS) (Bane 5 AST),,,48 - 64,16,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200009,355,2,101,3,8:56 PM,10:52,,,MISS Fournier 9' Driving Floating Jump Shot,,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,356,4,0,3,8:56 PM,10:49,Adams REBOUND (Off:0 Def:6),,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,357,2,102,3,8:56 PM,10:36,MISS Bane 2' Driving Floating Bank Jump Shot,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,358,4,0,3,8:56 PM,10:33,,,Randle REBOUND (Off:1 Def:7),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,359,2,1,3,8:57 PM,10:25,,,MISS Randle 25' 3PT Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,360,4,0,3,8:57 PM,10:20,Adams REBOUND (Off:0 Def:7),,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,361,6,1,3,8:57 PM,10:15,,,Randle P.FOUL (P1.T1) (D.Taylor),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200009,363,1,75,3,8:57 PM,10:10,Morant 6' Driving Finger Roll Layup (20 PTS),,,48 - 66,18,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,364,6,2,3,8:57 PM,10:10,,,Robinson S.FOUL (P4.T2) (Z.Zarba),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200009,366,8,0,3,8:58 PM,10:10,,,SUB: Hartenstein FOR Robinson,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200009,368,3,10,3,8:58 PM,10:10,Morant Free Throw 1 of 1 (21 PTS),,,48 - 67,19,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,369,6,2,3,8:58 PM,10:01,Bane S.FOUL (P2.T1) (Z.Zarba),,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200009,371,3,11,3,8:59 PM,10:01,,,Barrett Free Throw 1 of 2 (4 PTS),49 - 67,18,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,372,3,12,3,8:59 PM,10:01,,,Barrett Free Throw 2 of 2 (5 PTS),50 - 67,17,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0022200009,373,2,75,3,8:59 PM,9:48,MISS Adams 2' Driving Finger Roll Layup,,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,374,4,0,3,8:59 PM,9:47,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200009,376,2,1,3,8:59 PM,9:31,,,MISS Barrett 26' 3PT Jump Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,377,4,0,3,9:00 PM,9:28,Konchar REBOUND (Off:2 Def:6),,,,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,378,2,79,3,9:00 PM,9:22,MISS Bane 27' 3PT Pullup Jump Shot,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,379,4,0,3,9:00 PM,9:20,,,Barrett REBOUND (Off:0 Def:2),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,380,1,99,3,9:00 PM,9:08,,,Randle 1' Cutting Finger Roll Layup Shot (12 PTS) (Fournier 2 AST),52 - 67,15,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200009,382,2,101,3,9:00 PM,8:53,MISS Morant 11' Driving Floating Jump Shot,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,383,4,0,3,9:00 PM,8:50,Aldama REBOUND (Off:2 Def:7),,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,384,1,97,3,9:00 PM,8:50,Aldama Tip Layup Shot (12 PTS),,,52 - 69,17,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,385,2,80,3,9:00 PM,8:34,,,MISS Fournier 25' 3PT Step Back Jump Shot,,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,386,4,0,3,9:01 PM,8:29,,,Barrett REBOUND (Off:1 Def:2),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,387,1,97,3,9:01 PM,8:29,,,Barrett Tip Layup Shot (7 PTS),54 - 69,15,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,388,2,6,3,9:01 PM,8:18,MISS Morant 2' Driving Layup,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,389,4,0,3,9:01 PM,8:17,Adams REBOUND (Off:1 Def:7),,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,390,2,1,3,9:01 PM,8:15,MISS Konchar 3PT Jump Shot,,,,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,391,4,0,3,9:01 PM,8:11,,,Fournier REBOUND (Off:1 Def:3),,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,392,2,102,3,9:01 PM,8:08,,,MISS Brunson 10' Driving Floating Bank Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,393,4,0,3,9:01 PM,8:03,,,Hartenstein REBOUND (Off:6 Def:1),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,394,1,79,3,9:01 PM,7:57,,,Fournier 25' 3PT Pullup Jump Shot (11 PTS) (Brunson 2 AST),57 - 69,12,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200009,396,9,1,3,9:01 PM,7:56,GRIZZLIES Timeout: Regular (Full 2 Short 0),,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200009,397,1,98,3,9:05 PM,7:44,Morant 1' Cutting Layup Shot (23 PTS) (Adams 2 AST),,,57 - 71,14,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200009,399,5,2,3,9:05 PM,7:26,Konchar STEAL (1 STL),,Hartenstein Lost Ball Turnover (P2.T5),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200009,401,6,1,3,9:05 PM,7:20,,,Fournier P.FOUL (P2.T3) (C.Blair),,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200009,403,2,6,3,9:06 PM,7:16,MISS Aldama 5' Driving Layup,,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,404,4,0,3,9:06 PM,7:14,Adams REBOUND (Off:2 Def:7),,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,405,1,108,3,9:06 PM,7:02,Aldama Cutting Dunk Shot (14 PTS) (Adams 3 AST),,,57 - 73,16,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200009,407,6,11,3,9:06 PM,7:01,Aldama T.FOUL (P0.T1) (Z.Zarba),,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+0022200009,408,3,16,3,9:06 PM,7:01,,,Randle Free Throw Technical (13 PTS),58 - 73,15,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,409,8,0,3,9:06 PM,7:01,SUB: Clarke FOR Aldama,,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200009,410,8,0,3,9:06 PM,7:01,SUB: Jones FOR Bane,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200009,413,1,86,3,9:07 PM,6:49,,,Randle 9' Turnaround Fadeaway (15 PTS) (Brunson 3 AST),60 - 73,13,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200009,415,2,79,3,9:07 PM,6:25,MISS Morant 26' 3PT Pullup Jump Shot,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,416,4,0,3,9:07 PM,6:22,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200009,418,1,1,3,9:08 PM,6:10,,,Brunson 24' 3PT Jump Shot (9 PTS) (Fournier 3 AST),63 - 73,10,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200009,420,1,79,3,9:08 PM,5:42,Jones 27' 3PT Pullup Jump Shot (10 PTS),,,63 - 76,13,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,421,1,78,3,9:08 PM,5:33,,,Hartenstein 13' Floating Jump Shot (9 PTS) (Brunson 4 AST),65 - 76,11,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200009,423,1,101,3,9:09 PM,5:13,Jones 11' Driving Floating Jump Shot (12 PTS) (Morant 7 AST),,,65 - 78,13,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200009,425,1,75,3,9:09 PM,4:53,,,Barrett 2' Driving Finger Roll Layup (9 PTS) (Hartenstein 4 AST),67 - 78,11,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200009,426,2,101,3,9:09 PM,4:36,MISS Konchar 8' Driving Floating Jump Shot,,,,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,427,4,0,3,9:09 PM,4:34,Clarke REBOUND (Off:1 Def:3),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,428,1,97,3,9:09 PM,4:34,Clarke Tip Layup Shot (4 PTS),,,67 - 80,13,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,429,9,1,3,9:09 PM,4:34,,,Knicks Timeout: Regular (Reg.4 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200009,430,8,0,3,9:12 PM,4:34,SUB: Roddy FOR Konchar,,,,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200009,432,6,2,3,9:13 PM,4:16,Morant S.FOUL (P1.T2) (C.Blair),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200009,434,3,13,3,9:14 PM,4:16,,,Fournier Free Throw 1 of 3 (12 PTS),68 - 80,12,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,435,3,14,3,9:14 PM,4:16,,,Fournier Free Throw 2 of 3 (13 PTS),69 - 80,11,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,436,3,15,3,9:14 PM,4:16,,,Fournier Free Throw 3 of 3 (14 PTS),70 - 80,10,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,437,2,1,3,9:14 PM,4:02,MISS Clarke 24' 3PT Jump Shot,,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,438,4,0,3,9:14 PM,3:59,,,Brunson REBOUND (Off:1 Def:1),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,439,1,41,3,9:14 PM,3:54,,,Randle 1' Running Layup (17 PTS) (Brunson 5 AST),72 - 80,8,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200009,441,6,1,3,9:15 PM,3:32,,,Barrett P.FOUL (P2.T4) (C.Blair),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200009,443,8,0,3,9:15 PM,3:32,SUB: Tillman FOR Adams,,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200009,447,6,4,3,9:15 PM,3:29,Clarke OFF.Foul (P3) (C.Blair),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200009,449,5,37,3,9:15 PM,3:29,Clarke Offensive Foul Turnover (P1.T6),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0022200009,450,8,0,3,9:16 PM,3:29,SUB: Bane FOR Morant,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200009,452,1,5,3,9:16 PM,3:15,,,Randle 1' Layup (19 PTS),74 - 80,6,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,453,6,2,3,9:16 PM,3:15,Roddy S.FOUL (P1.T3) (C.Blair),,,,,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200009,455,9,1,3,9:16 PM,3:15,GRIZZLIES Timeout: Regular (Full 3 Short 0),,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200009,456,3,10,3,9:18 PM,3:15,,,MISS Randle Free Throw 1 of 1,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,457,4,0,3,9:18 PM,3:13,Tillman REBOUND (Off:1 Def:2),,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,458,2,1,3,9:18 PM,2:53,MISS Jones 26' 3PT Jump Shot,,,,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,459,4,0,3,9:18 PM,2:50,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200009,460,6,3,3,9:18 PM,2:50,Clarke L.B.FOUL (P4.T4) (C.Blair),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200009,462,8,0,3,9:19 PM,2:50,SUB: Aldama FOR Clarke,,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200009,463,8,0,3,9:19 PM,2:50,,,SUB: Reddish FOR Barrett,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200009,466,1,1,3,9:19 PM,2:37,,,Randle 25' 3PT Jump Shot (22 PTS) (Brunson 6 AST),77 - 80,3,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200009,469,2,1,3,9:20 PM,2:12,MISS Jones 3PT Jump Shot,,,,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,470,4,0,3,9:20 PM,2:08,Tillman REBOUND (Off:2 Def:2),,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,471,2,98,3,9:20 PM,2:05,MISS Roddy 4' Cutting Layup Shot,,,,,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,472,4,0,3,9:20 PM,2:03,,,Randle REBOUND (Off:1 Def:8),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,473,6,26,3,9:20 PM,1:55,,,Randle Offensive Charge Foul (P2) (Z.Zarba),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200009,475,5,37,3,9:20 PM,1:55,,,Randle Offensive Foul Turnover (P1.T6),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022200009,476,1,75,3,9:21 PM,1:32,Bane 4' Driving Finger Roll Layup (12 PTS),,,77 - 82,5,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,477,5,45,3,9:21 PM,1:21,,,Hartenstein Out of Bounds - Bad Pass Turnover Turnover (P3.T7),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022200009,478,8,0,3,9:22 PM,1:00,SUB: Morant FOR Roddy,,,,,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200009,479,8,0,3,9:22 PM,1:00,,,SUB: Quickley FOR Brunson,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200009,480,8,0,3,9:22 PM,1:00,,,SUB: Toppin FOR Randle,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200009,484,10,0,3,9:22 PM,0:58,Jump Ball Tillman vs. Hartenstein: Tip to Bane,,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,1
+0022200009,487,2,1,3,9:22 PM,0:56,MISS Bane 27' 3PT Jump Shot,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,488,4,0,3,9:22 PM,0:55,,,Toppin REBOUND (Off:0 Def:1),,,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,489,1,73,3,9:22 PM,0:47,,,Reddish 1' Driving Reverse Layup (8 PTS),79 - 82,3,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,490,1,1,3,9:23 PM,0:29,Aldama 3PT Jump Shot (17 PTS) (Jones 3 AST),,,79 - 85,6,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200009,492,2,101,3,9:23 PM,0:06,,,MISS Quickley 10' Driving Floating Jump Shot,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,493,4,0,3,9:23 PM,0:04,Tillman REBOUND (Off:2 Def:3),,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,495,2,1,3,9:24 PM,0:00,MISS Aldama 26' 3PT Jump Shot,,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,496,4,0,3,9:24 PM,0:00,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200009,497,13,0,3,9:24 PM,0:00,,End of 3rd Period (9:24 PM EST),,79 - 85,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200009,502,12,0,4,9:27 PM,12:00,,Start of 4th Period (9:27 PM EST),,79 - 85,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200009,503,2,1,4,9:28 PM,11:41,MISS Bane 26' 3PT Jump Shot,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0022200009,504,4,0,4,9:28 PM,11:38,LaRavia REBOUND (Off:1 Def:1),,,,,4,1631222,Jake LaRavia,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0022200009,505,2,98,4,9:28 PM,11:34,MISS Bane 3' Cutting Layup Shot,,Hartenstein BLOCK (1 BLK),,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,1
+0022200009,507,4,0,4,9:28 PM,11:29,,,Toppin REBOUND (Off:0 Def:2),,,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,508,1,41,4,9:28 PM,11:27,,,Rose 3' Running Layup (4 PTS),81 - 85,4,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,509,2,79,4,9:28 PM,11:14,MISS Jones 26' 3PT Pullup Jump Shot,,,,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,510,4,0,4,9:28 PM,11:11,,,Rose REBOUND (Off:1 Def:3),,,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,511,2,6,4,9:28 PM,11:06,LaRavia BLOCK (1 BLK),,MISS Rose 2' Driving Layup,,,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1631222,Jake LaRavia,1610612763.0,Memphis,Grizzlies,MEM,1
+0022200009,513,4,0,4,9:28 PM,11:06,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200009,515,1,73,4,9:29 PM,11:01,,,Reddish 3' Driving Reverse Layup (10 PTS) (Rose 2 AST),83 - 85,2,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200009,516,2,101,4,9:29 PM,10:48,MISS Jones 14' Driving Floating Jump Shot,,,,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,517,4,0,4,9:29 PM,10:42,Jones REBOUND (Off:1 Def:2),,,,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,518,5,1,4,9:29 PM,10:42,Jones Bad Pass Turnover (P1.T7),,Reddish STEAL (1 STL),,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200009,520,2,103,4,9:29 PM,10:38,,,MISS Rose 25' 3PT Running Pull-Up Jump Shot,,,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,521,4,0,4,9:29 PM,10:36,Tillman REBOUND (Off:2 Def:4),,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,522,1,103,4,9:29 PM,10:33,Bane 26' 3PT Running Pull-Up Jump Shot (15 PTS) (Tillman 1 AST),,,83 - 88,5,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200009,524,2,1,4,9:29 PM,10:06,,,MISS Hartenstein 3PT Jump Shot,,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,525,4,0,4,9:30 PM,10:04,Bane REBOUND (Off:0 Def:3),,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,526,2,44,4,9:30 PM,9:50,MISS Tillman 2' Reverse Layup,,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,527,4,0,4,9:30 PM,9:48,,,Reddish REBOUND (Off:1 Def:3),,,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,528,2,75,4,9:30 PM,9:33,,,MISS Rose 3' Driving Finger Roll Layup,,,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,529,4,0,4,9:30 PM,9:29,Aldama REBOUND (Off:2 Def:8),,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,530,2,103,4,9:30 PM,9:25,MISS Bane 29' 3PT Running Pull-Up Jump Shot,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,531,4,0,4,9:30 PM,9:21,,,Quickley REBOUND (Off:0 Def:3),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,533,2,101,4,9:31 PM,9:06,,,MISS Reddish 10' Driving Floating Jump Shot,,,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,534,4,0,4,9:31 PM,9:04,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200009,536,6,1,4,9:31 PM,8:58,,,Reddish P.FOUL (P1.T1) (Z.Zarba),,,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200009,538,8,0,4,9:32 PM,8:58,,,SUB: Robinson FOR Hartenstein,,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200009,540,2,98,4,9:32 PM,8:49,MISS Tillman 3' Cutting Layup Shot,,Rose BLOCK (1 BLK),,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,1
+0022200009,542,4,0,4,9:32 PM,8:49,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200009,544,5,45,4,9:32 PM,8:37,,,Rose Out of Bounds - Bad Pass Turnover Turnover (P1.T8),,,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022200009,545,8,0,4,9:32 PM,8:37,SUB: Adams FOR Tillman,,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200009,547,2,6,4,9:33 PM,8:19,MISS Jones 3' Driving Layup,,Robinson BLOCK (2 BLK),,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,1
+0022200009,549,4,0,4,9:33 PM,8:17,Adams REBOUND (Off:3 Def:7),,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,550,6,2,4,9:33 PM,8:16,,,Robinson S.FOUL (P5.T2) (D.Taylor),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,4,1631222,Jake LaRavia,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200009,552,3,11,4,9:34 PM,8:16,LaRavia Free Throw 1 of 2 (4 PTS),,,83 - 89,6,4,1631222,Jake LaRavia,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,553,8,0,4,9:34 PM,8:16,SUB: Morant FOR Jones,,,,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200009,555,3,12,4,9:34 PM,8:16,LaRavia Free Throw 2 of 2 (5 PTS),,,83 - 90,7,4,1631222,Jake LaRavia,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,556,1,73,4,9:34 PM,8:04,,,Reddish 1' Driving Reverse Layup (12 PTS),85 - 90,5,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,557,6,2,4,9:35 PM,7:38,,,Toppin S.FOUL (P1.T3) (C.Blair),,,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200009,559,3,11,4,9:35 PM,7:38,MISS Adams Free Throw 1 of 2,,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,560,4,1,4,9:35 PM,7:38,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200009,561,8,0,4,9:35 PM,7:38,,,SUB: Barrett FOR Rose,,,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200009,563,3,12,4,9:35 PM,7:38,MISS Adams Free Throw 2 of 2,,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0022200009,564,4,0,4,9:35 PM,7:36,,,Toppin REBOUND (Off:0 Def:3),,,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0022200009,565,2,47,4,9:36 PM,7:22,,,MISS Toppin 7' Turnaround Jump Shot,,,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,566,4,0,4,9:36 PM,7:17,Adams REBOUND (Off:3 Def:8),,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,567,1,101,4,9:36 PM,7:13,Morant 13' Driving Floating Jump Shot (25 PTS),,,85 - 92,7,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,568,9,1,4,9:36 PM,7:12,,,Knicks Timeout: Regular (Reg.5 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200009,570,8,0,4,9:39 PM,7:12,SUB: Clarke FOR Aldama,,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200009,571,8,0,4,9:39 PM,7:12,SUB: Konchar FOR Bane,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200009,572,8,0,4,9:39 PM,7:12,,,SUB: Randle FOR Toppin,,,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200009,573,8,0,4,9:39 PM,7:12,,,SUB: Brunson FOR Quickley,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200009,574,8,0,4,9:39 PM,7:12,,,SUB: Hartenstein FOR Robinson,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200009,580,5,2,4,9:40 PM,6:52,LaRavia STEAL (1 STL),,Reddish Lost Ball Turnover (P2.T9),,,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,4,1631222,Jake LaRavia,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200009,582,1,76,4,9:40 PM,6:49,Clarke 1' Running Finger Roll Layup (6 PTS) (LaRavia 1 AST),,,85 - 94,9,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,4,1631222,Jake LaRavia,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200009,584,2,6,4,9:40 PM,6:24,,,MISS Barrett 1' Driving Layup,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,585,4,0,4,9:40 PM,6:21,,,Hartenstein REBOUND (Off:7 Def:1),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,586,2,80,4,9:40 PM,6:18,,,MISS Randle 25' 3PT Step Back Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,587,4,0,4,9:40 PM,6:14,Morant REBOUND (Off:1 Def:2),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,588,2,79,4,9:41 PM,5:58,MISS Morant 16' Pullup Jump Shot,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,589,4,0,4,9:41 PM,5:56,,,Reddish REBOUND (Off:1 Def:4),,,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,590,1,76,4,9:41 PM,5:52,,,Reddish 3' Running Finger Roll Layup (14 PTS),87 - 94,7,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,591,2,1,4,9:41 PM,5:32,MISS Konchar 3PT Jump Shot,,,,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,592,4,0,4,9:41 PM,5:31,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200009,593,6,3,4,9:41 PM,5:31,,,Randle L.B.FOUL (P3.T4) (D.Taylor),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200009,595,5,2,4,9:42 PM,5:19,Morant Lost Ball Turnover (P2.T8),,Randle STEAL (1 STL),,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200009,597,6,2,4,9:42 PM,5:18,Morant S.FOUL (P2.T1) (D.Taylor),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200009,599,3,11,4,9:42 PM,5:18,,,Barrett Free Throw 1 of 2 (10 PTS),88 - 94,6,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0022200009,600,3,12,4,9:42 PM,5:18,,,Barrett Free Throw 2 of 2 (11 PTS),89 - 94,5,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,601,2,1,4,9:43 PM,5:04,MISS LaRavia 27' 3PT Jump Shot,,,,,4,1631222,Jake LaRavia,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,602,4,0,4,9:43 PM,5:01,Adams REBOUND (Off:4 Def:8),,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,603,2,101,4,9:43 PM,4:56,MISS Morant 11' Driving Floating Jump Shot,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,604,4,0,4,9:43 PM,4:54,,,Brunson REBOUND (Off:1 Def:2),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,605,1,76,4,9:43 PM,4:50,,,Reddish 1' Running Finger Roll Layup (16 PTS) (Brunson 7 AST),91 - 94,3,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200009,607,6,2,4,9:43 PM,4:50,LaRavia S.FOUL (P2.T2) (C.Blair),,,,,4,1631222,Jake LaRavia,1610612763.0,Memphis,Grizzlies,MEM,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200009,609,8,0,4,9:43 PM,4:50,SUB: Bane FOR LaRavia,,,,,4,1631222,Jake LaRavia,1610612763.0,Memphis,Grizzlies,MEM,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200009,611,9,1,4,9:43 PM,4:50,GRIZZLIES Timeout: Regular (Full 4 Short 0),,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200009,612,8,0,4,9:45 PM,4:50,SUB: Aldama FOR Clarke,,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200009,614,3,10,4,9:47 PM,4:50,,,Reddish Free Throw 1 of 1 (17 PTS),92 - 94,2,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0022200009,615,6,2,4,9:47 PM,4:31,,,Reddish S.FOUL (P2.PN) (C.Blair),,,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200009,617,3,11,4,9:47 PM,4:31,MISS Bane Free Throw 1 of 2,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,618,4,1,4,9:47 PM,4:31,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200009,619,3,12,4,9:48 PM,4:31,Bane Free Throw 2 of 2 (16 PTS),,,92 - 95,3,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,620,2,101,4,9:48 PM,4:22,,,MISS Brunson 5' Driving Floating Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,621,4,0,4,9:48 PM,4:21,,,Randle REBOUND (Off:2 Def:8),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,622,5,1,4,9:48 PM,4:17,Aldama STEAL (1 STL),,Randle Bad Pass Turnover (P2.T10),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200009,624,2,100,4,9:48 PM,4:13,MISS Morant 2' Running Alley Oop Layup Shot,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,625,4,0,4,9:48 PM,4:08,,,Brunson REBOUND (Off:1 Def:3),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,626,1,78,4,9:48 PM,4:00,,,Hartenstein 13' Floating Jump Shot (11 PTS) (Randle 5 AST),94 - 95,1,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200009,628,5,1,4,9:49 PM,3:37,Morant Bad Pass Turnover (P3.T9),,Randle STEAL (2 STL),,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200009,630,1,73,4,9:49 PM,3:31,,,Brunson 2' Driving Reverse Layup (11 PTS) (Randle 6 AST),96 - 95,-1,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200009,632,9,1,4,9:49 PM,3:20,GRIZZLIES Timeout: Regular (Full 5 Short 0),,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200009,633,1,1,4,9:51 PM,3:12,Konchar 25' 3PT Jump Shot (12 PTS) (Bane 6 AST),,,96 - 98,2,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200009,635,1,86,4,9:51 PM,2:49,,,Brunson 10' Turnaround Fadeaway (13 PTS),98 - 98,TIE,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,636,2,101,4,9:51 PM,2:32,MISS Morant 9' Driving Floating Jump Shot,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,637,4,0,4,9:51 PM,2:30,,,Randle REBOUND (Off:2 Def:9),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,638,2,74,4,9:52 PM,2:27,,,MISS Barrett 2' Running Reverse Layup,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,639,4,0,4,9:52 PM,2:26,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200009,640,6,3,4,9:52 PM,2:26,,,Randle L.B.FOUL (P4.PN) (Z.Zarba),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200009,642,3,11,4,9:52 PM,2:26,Morant Free Throw 1 of 2 (26 PTS),,,98 - 99,1,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,643,3,12,4,9:53 PM,2:26,Morant Free Throw 2 of 2 (27 PTS),,,98 - 100,2,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,644,1,79,4,9:53 PM,2:16,,,Brunson 20' Pullup Jump Shot (15 PTS),100 - 100,TIE,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,645,2,1,4,9:53 PM,1:46,MISS Bane 29' 3PT Jump Shot,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,646,4,0,4,9:53 PM,1:46,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200009,647,6,3,4,9:53 PM,1:46,,,Randle L.B.FOUL (P5.PN) (D.Taylor),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200009,649,3,11,4,9:54 PM,1:46,Aldama Free Throw 1 of 2 (18 PTS),,,100 - 101,1,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,650,3,12,4,9:54 PM,1:46,MISS Aldama Free Throw 2 of 2,,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,651,4,0,4,9:54 PM,1:43,Adams REBOUND (Off:5 Def:8),,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,652,1,101,4,9:54 PM,1:39,Morant 11' Driving Floating Jump Shot (29 PTS),,,100 - 103,3,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,653,6,2,4,9:54 PM,1:39,,,Hartenstein S.FOUL (P2.PN) (C.Blair),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200009,655,3,10,4,9:55 PM,1:39,Morant Free Throw 1 of 1 (30 PTS),,,100 - 104,4,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,656,9,1,4,9:55 PM,1:39,,,Knicks Timeout: Regular (Reg.6 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200009,657,6,2,4,9:57 PM,1:34,Aldama S.FOUL (P1.T3) (D.Taylor),,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200009,659,3,11,4,9:57 PM,1:34,,,Randle Free Throw 1 of 2 (23 PTS),101 - 104,3,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,660,3,12,4,9:58 PM,1:34,,,Randle Free Throw 2 of 2 (24 PTS),102 - 104,2,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,661,2,6,4,9:58 PM,1:16,MISS Morant 4' Driving Layup,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,663,4,0,4,9:58 PM,1:13,Adams REBOUND (Off:6 Def:8),,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,664,1,3,4,9:58 PM,1:11,Adams 11' Hook Shot (3 PTS) (Aldama 1 AST),,,102 - 106,4,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200009,666,2,1,4,9:58 PM,1:01,,,MISS Hartenstein 25' 3PT Jump Shot,,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,667,4,0,4,9:58 PM,0:59,Bane REBOUND (Off:0 Def:4),,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,668,2,1,4,9:59 PM,0:39,MISS Konchar 25' 3PT Jump Shot,,,,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,669,4,0,4,9:59 PM,0:36,,,Brunson REBOUND (Off:1 Def:4),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,670,2,79,4,9:59 PM,0:32,,,MISS Barrett 24' 3PT Pullup Jump Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,671,4,0,4,9:59 PM,0:29,,,Brunson REBOUND (Off:2 Def:4),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,672,1,98,4,9:59 PM,0:28,,,Hartenstein 4' Cutting Layup Shot (13 PTS) (Brunson 8 AST),104 - 106,2,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200009,674,6,2,4,9:59 PM,0:28,Bane S.FOUL (P3.PN) (C.Blair),,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200009,676,8,0,4,9:59 PM,0:28,SUB: Clarke FOR Bane,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200009,678,3,10,4,10:00 PM,0:28,,,Hartenstein Free Throw 1 of 1 (14 PTS),105 - 106,1,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,679,9,1,4,10:00 PM,0:28,GRIZZLIES Timeout: Regular (Full 6 Short 0),,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200009,680,8,0,4,10:01 PM,0:28,SUB: Jones FOR Clarke,,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200009,682,1,75,4,10:02 PM,0:08,Morant 1' Driving Finger Roll Layup (32 PTS),,,105 - 108,3,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,683,9,1,4,10:02 PM,0:08,,,Knicks Timeout: Regular (Reg.7 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200009,684,8,0,4,10:03 PM,0:08,SUB: Roddy FOR Jones,,,,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200009,685,8,0,4,10:03 PM,0:08,,,SUB: Fournier FOR Hartenstein,,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200009,688,1,1,4,10:04 PM,0:03,,,Reddish 3PT Jump Shot (20 PTS) (Brunson 9 AST),108 - 108,TIE,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200009,690,9,1,4,10:04 PM,0:03,GRIZZLIES Timeout: Regular (Full 7 Short 0),,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200009,691,8,0,4,10:05 PM,0:03,SUB: Jones FOR Adams,,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200009,692,8,0,4,10:05 PM,0:03,SUB: Clarke FOR Roddy,,,,,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200009,693,8,0,4,10:05 PM,0:03,,,SUB: Robinson FOR Fournier,,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200009,697,6,26,4,10:06 PM,0:00,Morant Offensive Charge Foul (P3) (Z.Zarba),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200009,699,5,37,4,10:06 PM,0:00,Morant Offensive Foul Turnover (P4.T10),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0022200009,700,5,1,4,10:06 PM,0:00,Konchar STEAL (2 STL),,Barrett Bad Pass Turnover (P2.T11),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200009,702,13,0,4,10:07 PM,0:00,,End of 4th Period (10:07 PM EST),,108 - 108,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200009,707,12,0,5,10:09 PM,5:00,,Start of 1st OT (10:09 PM EST),,108 - 108,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200009,709,10,0,5,10:09 PM,5:00,Jump Ball Adams vs. Hartenstein: Tip to Morant,,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1
+0022200009,712,5,4,5,10:09 PM,4:50,Morant Traveling Turnover (P5.T11),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0022200009,714,6,26,5,10:10 PM,4:36,,,Randle Offensive Charge Foul (P6) (C.Blair),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200009,716,5,37,5,10:10 PM,4:36,,,Randle Offensive Foul Turnover (P3.T12),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022200009,717,8,0,5,10:10 PM,4:36,SUB: Clarke FOR Adams,,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200009,718,8,0,5,10:10 PM,4:36,,,SUB: Fournier FOR Randle,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200009,728,8,0,5,10:10 PM,4:36,SUB: Bane FOR Jones,,,,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200009,721,5,2,5,10:11 PM,4:17,Bane Lost Ball Turnover (P2.T12),,Reddish STEAL (2 STL),,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200009,723,2,74,5,10:11 PM,4:13,Morant BLOCK (1 BLK),,MISS Brunson 2' Running Reverse Layup,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1
+0022200009,725,4,0,5,10:11 PM,4:08,Konchar REBOUND (Off:2 Def:7),,,,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,726,1,52,5,10:11 PM,4:05,Clarke 1' Alley Oop Dunk (8 PTS) (Morant 8 AST),,,108 - 110,2,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200009,730,9,1,5,10:12 PM,4:04,,,Knicks Timeout: Regular (Reg.8 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200009,731,1,3,5,10:13 PM,3:52,,,Hartenstein 9' Hook Shot (16 PTS) (Barrett 3 AST),110 - 110,TIE,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200009,733,2,1,5,10:13 PM,3:33,MISS Bane 27' 3PT Jump Shot,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,734,4,0,5,10:13 PM,3:30,,,Barrett REBOUND (Off:1 Def:3),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,735,2,1,5,10:14 PM,3:19,,,MISS Brunson 3PT Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,736,4,0,5,10:14 PM,3:16,Clarke REBOUND (Off:1 Def:4),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,737,1,101,5,10:14 PM,3:03,Morant 10' Driving Floating Jump Shot (34 PTS),,,110 - 112,2,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,738,6,2,5,10:14 PM,3:03,,,Hartenstein S.FOUL (P3.T1) (Z.Zarba),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200009,740,3,10,5,10:14 PM,3:03,MISS Morant Free Throw 1 of 1,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,741,4,0,5,10:14 PM,3:00,,,Barrett REBOUND (Off:1 Def:4),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,742,2,78,5,10:15 PM,2:53,,,MISS Barrett 9' Floating Jump Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,743,4,0,5,10:15 PM,2:48,Aldama REBOUND (Off:2 Def:9),,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,744,2,101,5,10:15 PM,2:34,MISS Morant 10' Driving Floating Jump Shot,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,745,4,0,5,10:15 PM,2:31,Konchar REBOUND (Off:3 Def:7),,,,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,746,2,79,5,10:15 PM,2:28,MISS Bane 26' 3PT Pullup Jump Shot,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,747,4,0,5,10:15 PM,2:25,,,Barrett REBOUND (Off:1 Def:5),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,748,2,101,5,10:15 PM,2:20,,,MISS Barrett 2' Driving Floating Jump Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,749,4,0,5,10:15 PM,2:16,Konchar REBOUND (Off:3 Def:8),,,,,4,1629723,John Konchar,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,750,5,1,5,10:15 PM,1:59,Morant Bad Pass Turnover (P6.T13),,Reddish STEAL (3 STL),,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200009,752,1,50,5,10:16 PM,1:55,,,Reddish Running Dunk (22 PTS),112 - 112,TIE,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,753,2,1,5,10:16 PM,1:31,MISS Morant 36' 3PT Jump Shot,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,754,4,0,5,10:16 PM,1:31,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200009,755,5,11,5,10:16 PM,1:31,GRIZZLIES Turnover: Shot Clock (T#14),,,,,2,1610612763,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200009,756,8,0,5,10:16 PM,1:31,SUB: Jones FOR Bane,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0022200009,758,2,102,5,10:17 PM,1:15,,,MISS Brunson 8' Driving Floating Bank Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,759,4,0,5,10:17 PM,1:12,,,Barrett REBOUND (Off:2 Def:5),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,760,2,80,5,10:17 PM,1:09,,,MISS Brunson 3PT Step Back Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,761,4,0,5,10:17 PM,1:06,Morant REBOUND (Off:1 Def:3),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,762,1,1,5,10:17 PM,0:47,Jones 26' 3PT Jump Shot (15 PTS) (Morant 9 AST),,,112 - 115,3,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0022200009,764,2,79,5,10:17 PM,0:38,,,MISS Reddish 26' 3PT Pullup Jump Shot,,,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,765,4,0,5,10:17 PM,0:34,Jones REBOUND (Off:1 Def:3),,,,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,766,2,1,5,10:18 PM,0:16,MISS Aldama 26' 3PT Jump Shot,,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,767,4,0,5,10:18 PM,0:13,Clarke REBOUND (Off:2 Def:4),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,768,6,28,5,10:18 PM,0:09,,,Hartenstein Personal Take Foul (P4.T2) (C.Blair),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200009,770,6,28,5,10:18 PM,0:04,,,Hartenstein Personal Take Foul (P5.PN) (D.Taylor),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0022200009,772,3,11,5,10:19 PM,0:04,MISS Jones Free Throw 1 of 2,,,,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,773,4,1,5,10:19 PM,0:04,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200009,774,8,0,5,10:19 PM,0:04,,,SUB: Robinson FOR Fournier,,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200009,776,3,12,5,10:20 PM,0:04,MISS Jones Free Throw 2 of 2,,,,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0022200009,777,4,0,5,10:20 PM,0:04,,,Barrett REBOUND (Off:2 Def:6),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,778,9,1,5,10:20 PM,0:04,,,Knicks Timeout: Regular (Reg.9 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200009,779,8,0,5,10:21 PM,0:04,,,SUB: Fournier FOR Robinson,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200009,781,6,28,5,10:22 PM,0:03,Morant Personal Take Foul (P4.T1) (Z.Zarba),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200009,783,2,1,5,10:22 PM,0:01,,,MISS Fournier 3PT Jump Shot,,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200009,784,4,0,5,10:22 PM,0:00,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200009,785,13,0,5,10:23 PM,0:00,,End of 1st OT (10:23 PM EST),,112 - 115,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

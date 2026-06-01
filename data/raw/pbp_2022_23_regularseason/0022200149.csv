@@ -1,0 +1,474 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200149,2,12,0,1,8:16 PM,12:00,,Start of 1st Period (8:16 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200149,4,10,0,1,8:16 PM,12:00,Jump Ball Capela vs. Lopez: Tip to G. Antetokounmpo,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1
+0022200149,7,1,1,1,8:16 PM,11:47,,,Allen 26' 3PT Jump Shot (3 PTS) (G. Antetokounmpo 1 AST),3 - 0,-3,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200149,9,7,5,1,8:17 PM,11:26,,,G. Antetokounmpo Violation:Kicked Ball (S.Wright),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0022200149,10,2,5,1,8:17 PM,11:14,MISS Capela 3' Layup,,Allen BLOCK (1 BLK),,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,1
+0022200149,12,4,0,1,8:17 PM,11:10,Murray REBOUND (Off:1 Def:0),,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,13,5,1,1,8:17 PM,11:08,Murray Bad Pass Turnover (P1.T1),,Carter STEAL (1 STL),,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200149,15,1,73,1,8:17 PM,11:00,,,G. Antetokounmpo 2' Driving Reverse Layup (2 PTS) (Allen 1 AST),5 - 0,-5,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200149,17,5,39,1,8:17 PM,10:49,Murray Step Out of Bounds Turnover (P2.T2),,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0022200149,18,6,4,1,8:18 PM,10:36,,,G. Antetokounmpo OFF.Foul (P1) (C.Blair),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200149,20,5,37,1,8:18 PM,10:36,,,G. Antetokounmpo Offensive Foul Turnover (P1.T1),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0022200149,21,1,6,1,8:18 PM,10:26,Collins 1' Driving Layup (2 PTS) (Murray 1 AST),,,5 - 2,-3,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200149,23,2,79,1,8:18 PM,10:16,,,MISS G. Antetokounmpo 18' Pullup Jump Shot,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,24,4,0,1,8:18 PM,10:14,,,G. Antetokounmpo REBOUND (Off:1 Def:0),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,25,2,1,1,8:18 PM,10:13,,,MISS G. Antetokounmpo 19' Jump Shot,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,26,4,0,1,8:18 PM,10:12,Capela REBOUND (Off:0 Def:1),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,27,1,79,1,8:18 PM,10:05,Hunter 11' Pullup Jump Shot (2 PTS),,,5 - 4,-1,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,28,6,2,1,8:19 PM,10:05,,,Allen S.FOUL (P1.T1) (S.Wall),,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200149,30,3,10,1,8:19 PM,10:05,MISS Hunter Free Throw 1 of 1,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,31,4,0,1,8:19 PM,10:03,,,Holiday REBOUND (Off:0 Def:1),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,32,1,1,1,8:19 PM,9:47,,,Lopez 26' 3PT Jump Shot (3 PTS) (Allen 2 AST),8 - 4,-4,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200149,34,1,79,1,8:19 PM,9:34,Murray 13' Pullup Jump Shot (2 PTS),,,8 - 6,-2,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,35,2,101,1,8:20 PM,9:23,,,MISS Holiday 10' Driving Floating Jump Shot,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,36,4,0,1,8:20 PM,9:18,,,Holiday REBOUND (Off:1 Def:1),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,37,1,72,1,8:20 PM,9:18,,,Holiday Putback Layup (2 PTS),10 - 6,-4,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,38,1,79,1,8:20 PM,9:08,Murray 14' Pullup Jump Shot (4 PTS) (Hunter 1 AST),,,10 - 8,-2,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200149,40,1,6,1,8:20 PM,8:54,,,G. Antetokounmpo 2' Driving Layup (4 PTS),12 - 8,-4,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,41,2,58,1,8:20 PM,8:38,MISS Capela 4' Turnaround Hook Shot,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,42,4,0,1,8:20 PM,8:36,,,G. Antetokounmpo REBOUND (Off:1 Def:1),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,43,6,26,1,8:20 PM,8:32,,,G. Antetokounmpo Offensive Charge Foul (P2) (S.Wall),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200149,45,5,37,1,8:20 PM,8:32,,,G. Antetokounmpo Offensive Foul Turnover (P2.T2),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0022200149,46,8,0,1,8:21 PM,8:32,,,SUB: Portis FOR G. Antetokounmpo,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200149,48,2,57,1,8:21 PM,8:19,MISS Capela 3' Driving Hook Shot,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,49,4,0,1,8:21 PM,8:17,,,Portis REBOUND (Off:0 Def:1),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,50,1,1,1,8:21 PM,8:03,,,Allen 29' 3PT Jump Shot (6 PTS) (Portis 1 AST),15 - 8,-7,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200149,52,2,79,1,8:22 PM,7:48,MISS Hunter 18' Pullup Jump Shot,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,53,4,0,1,8:22 PM,7:45,,,Portis REBOUND (Off:0 Def:2),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,54,1,1,1,8:22 PM,7:37,,,Lopez 26' 3PT Jump Shot (6 PTS) (Carter 1 AST),18 - 8,-10,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200149,56,2,79,1,8:22 PM,7:20,MISS Hunter 12' Pullup Jump Shot,,Holiday BLOCK (1 BLK),,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,1
+0022200149,58,4,0,1,8:22 PM,7:19,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200149,60,8,0,1,8:22 PM,7:19,,,SUB: Nwora FOR Holiday,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200149,62,1,1,1,8:23 PM,7:09,,,Allen 26' 3PT Jump Shot (9 PTS) (Carter 2 AST),21 - 8,-13,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200149,64,9,1,1,8:23 PM,7:08,HAWKS Timeout: Regular (Full 1 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200149,65,8,0,1,8:25 PM,7:08,SUB: Griffin FOR A. Holiday,,,,,4,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200149,67,2,79,1,8:26 PM,6:56,MISS Hunter 17' Pullup Jump Shot,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,68,4,0,1,8:26 PM,6:52,Griffin REBOUND (Off:1 Def:0),,,,,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,69,1,5,1,8:26 PM,6:50,Collins 1' Layup (4 PTS) (Griffin 1 AST),,,21 - 10,-11,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200149,71,2,79,1,8:26 PM,6:33,,,MISS Allen 25' 3PT Pullup Jump Shot,,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,72,4,0,1,8:26 PM,6:31,Hunter REBOUND (Off:0 Def:1),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,73,2,2,1,8:26 PM,6:26,MISS Collins 25' 3PT Running Jump Shot,,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,74,4,0,1,8:26 PM,6:23,,,Portis REBOUND (Off:0 Def:3),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,75,2,86,1,8:26 PM,6:10,,,MISS Lopez 12' Turnaround Fadeaway Shot,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,76,4,0,1,8:26 PM,6:06,Hunter REBOUND (Off:0 Def:2),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,77,1,80,1,8:27 PM,5:52,Collins 12' Step Back Jump Shot (6 PTS) (Murray 2 AST),,,21 - 12,-9,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200149,79,1,80,1,8:27 PM,5:42,,,Portis 18' Step Back Jump Shot (2 PTS) (Carter 3 AST),23 - 12,-11,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200149,80,2,47,1,8:27 PM,5:28,MISS Collins 12' Turnaround Jump Shot,,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,81,4,0,1,8:27 PM,5:26,,,Carter REBOUND (Off:0 Def:1),,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,82,2,47,1,8:27 PM,5:15,Collins BLOCK (1 BLK),,MISS Portis 8' Turnaround Jump Shot,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,1
+0022200149,84,4,0,1,8:27 PM,5:10,Hunter REBOUND (Off:0 Def:3),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,85,1,78,1,8:27 PM,5:08,Hunter 3' Floating Jump Shot (4 PTS),,,23 - 14,-9,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,86,2,79,1,8:28 PM,4:53,,,MISS Carter 21' Pullup Jump Shot,,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,87,4,0,1,8:28 PM,4:50,Murray REBOUND (Off:1 Def:1),,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,88,2,79,1,8:28 PM,4:43,MISS Murray 26' 3PT Pullup Jump Shot,,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,89,4,0,1,8:28 PM,4:39,,,Nwora REBOUND (Off:0 Def:1),,,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,90,2,102,1,8:28 PM,4:24,,,MISS Nwora 11' Driving Floating Bank Jump Shot,,,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,91,4,0,1,8:28 PM,4:22,,,Nwora REBOUND (Off:1 Def:1),,,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,92,2,1,1,8:28 PM,4:20,,,MISS Nwora 25' 3PT Jump Shot,,,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,93,4,0,1,8:28 PM,4:16,Capela REBOUND (Off:0 Def:2),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,95,8,0,1,8:29 PM,4:07,SUB: Okongwu FOR Hunter,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200149,96,8,0,1,8:29 PM,4:07,SUB: J. Holiday FOR Capela,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,203200,Justin Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200149,97,8,0,1,8:29 PM,4:07,,,SUB: Hill FOR Carter,,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,5,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200149,98,8,0,1,8:29 PM,4:07,,,SUB: Holiday FOR Lopez,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200149,99,8,0,1,8:29 PM,4:07,,,SUB: Ibaka FOR Allen,,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,5,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200149,105,2,79,1,8:29 PM,4:03,MISS Griffin 11' Pullup Jump Shot,,,,,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,106,4,0,1,8:29 PM,4:02,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200149,108,1,101,1,8:29 PM,3:54,Murray 12' Driving Floating Jump Shot (6 PTS),,,23 - 16,-7,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,110,9,1,1,8:30 PM,3:47,,,Bucks Timeout: Regular (Reg.1 Short 0),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200149,114,8,0,1,8:31 PM,3:47,SUB: Johnson FOR Collins,,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200149,112,1,1,1,8:33 PM,3:32,,,Portis 27' 3PT Jump Shot (5 PTS) (Holiday 1 AST),26 - 16,-10,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200149,117,2,1,1,8:34 PM,3:19,MISS Johnson 24' 3PT Jump Shot,,,,,4,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,118,4,0,1,8:34 PM,3:15,,,Nwora REBOUND (Off:1 Def:2),,,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,119,5,1,1,8:34 PM,3:11,Johnson STEAL (1 STL),,Holiday Bad Pass Turnover (P1.T3),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200149,121,1,50,1,8:34 PM,3:07,Johnson 1' Running Dunk (2 PTS) (Murray 3 AST),,,26 - 18,-8,4,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200149,123,1,101,1,8:34 PM,2:50,,,Holiday 8' Driving Floating Jump Shot (4 PTS),28 - 18,-10,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,124,1,101,1,8:34 PM,2:39,Murray 9' Driving Floating Jump Shot (8 PTS),,,28 - 20,-8,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,125,2,6,1,8:34 PM,2:25,,,MISS Nwora 5' Driving Layup,,,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,126,4,0,1,8:34 PM,2:22,Johnson REBOUND (Off:0 Def:1),,,,,4,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,127,1,98,1,8:35 PM,2:10,Johnson 1' Cutting Layup Shot (4 PTS) (Murray 4 AST),,,28 - 22,-6,4,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200149,129,2,1,1,8:35 PM,1:49,,,MISS Nwora 25' 3PT Jump Shot,,,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,130,4,0,1,8:35 PM,1:44,,,Ibaka REBOUND (Off:1 Def:0),,,5,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,131,1,3,1,8:35 PM,1:43,,,Ibaka 6' Hook Shot (2 PTS),30 - 22,-8,5,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,132,2,3,1,8:35 PM,1:27,MISS Okongwu 6' Hook Shot,,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,133,4,0,1,8:35 PM,1:25,,,Portis REBOUND (Off:0 Def:4),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,134,6,1,1,8:36 PM,1:12,J. Holiday P.FOUL (P1.T1) (C.Blair),,,,,4,203200,Justin Holiday,1610612737.0,Atlanta,Hawks,ATL,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200149,136,8,0,1,8:36 PM,1:12,,,SUB: Matthews FOR Nwora,,,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,5,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200149,138,1,1,1,8:36 PM,1:02,,,Portis 26' 3PT Jump Shot (8 PTS) (Matthews 1 AST),33 - 22,-11,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200149,140,2,80,1,8:36 PM,0:49,MISS Murray 25' 3PT Step Back Jump Shot,,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,141,4,0,1,8:37 PM,0:46,,,Portis REBOUND (Off:0 Def:5),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,142,1,79,1,8:37 PM,0:32,,,Holiday 26' 3PT Pullup Jump Shot (7 PTS),36 - 22,-14,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,143,1,1,1,8:37 PM,0:13,J. Holiday 3PT Jump Shot (3 PTS) (Murray 5 AST),,,36 - 25,-11,4,203200,Justin Holiday,1610612737.0,Atlanta,Hawks,ATL,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200149,145,5,2,1,8:37 PM,0:02,Murray STEAL (1 STL),,Holiday Lost Ball Turnover (P2.T4),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200149,147,2,79,1,8:37 PM,0:01,MISS Murray 26' 3PT Pullup Jump Shot,,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,148,4,0,1,8:37 PM,0:01,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200149,149,13,0,1,8:38 PM,0:00,,End of 1st Period (8:38 PM EST),,36 - 25,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200149,156,12,0,2,8:40 PM,12:00,,Start of 2nd Period (8:40 PM EST),,36 - 25,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200149,157,2,79,2,8:40 PM,11:47,MISS J. Holiday 10' Pullup Jump Shot,,,,,4,203200,Justin Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0022200149,158,4,0,2,8:40 PM,11:43,,,G. Antetokounmpo REBOUND (Off:1 Def:2),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0022200149,159,2,1,2,8:40 PM,11:37,,,MISS Hill 26' 3PT Jump Shot,,,5,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,160,4,0,2,8:41 PM,11:33,Okongwu REBOUND (Off:0 Def:1),,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,161,1,98,2,8:41 PM,11:26,Griffin 3' Cutting Layup Shot (2 PTS) (Okongwu 1 AST),,,36 - 27,-9,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200149,163,6,2,2,8:41 PM,11:26,,,Ibaka S.FOUL (P1.T1) (S.Wright),,,5,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200149,165,3,10,2,8:41 PM,11:26,Griffin Free Throw 1 of 1 (3 PTS),,,36 - 28,-8,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,166,2,1,2,8:41 PM,11:09,,,MISS Matthews 25' 3PT Jump Shot,,,5,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,167,4,0,2,8:41 PM,11:04,Griffin REBOUND (Off:1 Def:1),,,,,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,168,1,79,2,8:42 PM,10:59,Griffin 25' 3PT Pullup Jump Shot (6 PTS),,,36 - 31,-5,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,169,1,6,2,8:42 PM,10:44,,,G. Antetokounmpo 1' Driving Layup (6 PTS),38 - 31,-7,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,170,6,2,2,8:42 PM,10:44,Johnson S.FOUL (P1.T1) (S.Wall),,,,,4,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200149,172,8,0,2,8:42 PM,10:44,SUB: Hunter FOR J. Holiday,,,,,4,203200,Justin Holiday,1610612737.0,Atlanta,Hawks,ATL,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200149,173,8,0,2,8:42 PM,10:44,,,SUB: Lopez FOR Ibaka,,,5,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200149,176,3,10,2,8:43 PM,10:44,,,G. Antetokounmpo Free Throw 1 of 1 (7 PTS),39 - 31,-8,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0022200149,177,1,79,2,8:43 PM,10:31,Okongwu 16' Pullup Jump Shot (2 PTS),,,39 - 33,-6,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,178,2,6,2,8:43 PM,10:07,,,MISS Matthews 4' Driving Layup,,,5,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,179,4,0,2,8:43 PM,10:05,Okongwu REBOUND (Off:0 Def:2),,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,180,1,108,2,8:44 PM,9:50,Okongwu Cutting Dunk Shot (4 PTS) (Johnson 1 AST),,,39 - 35,-4,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,4,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200149,182,2,6,2,8:44 PM,9:25,,,MISS G. Antetokounmpo 3' Driving Layup,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,183,4,0,2,8:44 PM,9:20,Hunter REBOUND (Off:0 Def:4),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,184,5,2,2,8:44 PM,9:16,Hunter Lost Ball Turnover (P1.T3),,Carter STEAL (2 STL),,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200149,186,6,2,2,8:44 PM,9:04,Hunter S.FOUL (P1.T2) (C.Blair),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200149,188,3,11,2,8:45 PM,9:04,,,MISS G. Antetokounmpo Free Throw 1 of 2,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,189,4,1,2,8:45 PM,9:04,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200149,190,8,0,2,8:45 PM,9:04,,,SUB: Allen FOR Hill,,,5,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200149,191,8,0,2,8:45 PM,9:04,,,SUB: Beauchamp FOR Matthews,,,5,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,5,1630699,MarJon Beauchamp,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200149,194,3,12,2,8:46 PM,9:04,,,G. Antetokounmpo Free Throw 2 of 2 (8 PTS),40 - 35,-5,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,195,1,79,2,8:46 PM,8:54,A. Holiday 17' Pullup Jump Shot (2 PTS),,,40 - 37,-3,4,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,196,6,17,2,8:46 PM,8:37,HAWKS T.Foul (Def. 3 Sec Johnson ) (C.Blair),,,,,4,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0022200149,197,3,16,2,8:46 PM,8:37,,,Allen Free Throw Technical (10 PTS),41 - 37,-4,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,199,6,1,2,8:47 PM,8:31,Okongwu P.FOUL (P1.T3) (S.Wright),,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200149,201,2,1,2,8:48 PM,8:24,,,MISS Lopez 26' 3PT Jump Shot,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,202,4,0,2,8:48 PM,8:22,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200149,204,2,79,2,8:48 PM,8:17,,,MISS Carter 14' Pullup Jump Shot,,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,205,4,0,2,8:48 PM,8:12,Griffin REBOUND (Off:1 Def:2),,,,,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,206,2,79,2,8:48 PM,8:06,MISS Griffin 24' 3PT Pullup Jump Shot,,,,,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,207,4,0,2,8:48 PM,8:03,,,Carter REBOUND (Off:0 Def:2),,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,208,2,1,2,8:48 PM,7:57,,,MISS Allen 27' 3PT Jump Shot,,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,209,4,0,2,8:48 PM,7:53,Hunter REBOUND (Off:0 Def:5),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,210,6,1,2,8:49 PM,7:45,,,Beauchamp P.FOUL (P1.T2) (C.Blair),,,5,1630699,MarJon Beauchamp,1610612749.0,Milwaukee,Bucks,MIL,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200149,212,8,0,2,8:49 PM,7:45,,,SUB: Holiday FOR Carter,,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200149,214,2,6,2,8:49 PM,7:32,MISS Okongwu 3' Driving Layup,,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,215,4,0,2,8:49 PM,7:28,Johnson REBOUND (Off:1 Def:1),,,,,4,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,216,2,97,2,8:49 PM,7:28,MISS Johnson Tip Layup Shot,,,,,4,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,217,4,0,2,8:49 PM,7:27,,,Holiday REBOUND (Off:1 Def:2),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,218,2,1,2,8:49 PM,7:21,,,MISS Beauchamp 3PT Jump Shot,,,5,1630699,MarJon Beauchamp,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,219,4,0,2,8:49 PM,7:19,Johnson REBOUND (Off:1 Def:2),,,,,4,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,220,1,1,2,8:50 PM,7:01,Okongwu 15' Jump Shot (6 PTS) (Johnson 2 AST),,,41 - 39,-2,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,4,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200149,222,9,1,2,8:50 PM,7:01,,,Bucks Timeout: Regular (Reg.2 Short 0),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200149,223,1,52,2,8:53 PM,6:47,,,G. Antetokounmpo 2' Alley Oop Dunk (10 PTS) (Holiday 2 AST),43 - 39,-4,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200149,225,2,1,2,8:53 PM,6:30,MISS Okongwu 3PT Jump Shot,,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,226,4,0,2,8:53 PM,6:29,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200149,228,1,79,2,8:54 PM,6:18,,,Holiday 27' 3PT Pullup Jump Shot (10 PTS),46 - 39,-7,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,229,1,101,2,8:54 PM,6:00,Griffin 4' Driving Floating Jump Shot (8 PTS) (Okongwu 2 AST),,,46 - 41,-5,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200149,230,5,45,2,8:54 PM,5:45,,,G. Antetokounmpo Out of Bounds - Bad Pass Turnover Turnover (P3.T5),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0022200149,231,8,0,2,8:54 PM,5:45,SUB: Murray FOR Griffin,,,,,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200149,232,8,0,2,8:54 PM,5:45,,,SUB: Portis FOR G. Antetokounmpo,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200149,235,1,79,2,8:55 PM,5:34,Hunter 7' Pullup Jump Shot (6 PTS),,,46 - 43,-3,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,236,1,1,2,8:55 PM,5:17,,,Lopez 26' 3PT Jump Shot (9 PTS) (Holiday 3 AST),49 - 43,-6,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200149,238,2,80,2,8:55 PM,4:55,MISS Murray 16' Step Back Jump Shot,,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,239,4,0,2,8:55 PM,4:52,,,Holiday REBOUND (Off:1 Def:3),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,240,5,39,2,8:56 PM,4:40,,,Portis Step Out of Bounds Turnover (P1.T6),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0022200149,241,9,1,2,8:56 PM,4:40,HAWKS Timeout: Regular (Full 2 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200149,242,18,7,2,8:57 PM,4:40,,Instant Replay2nd Period (8:57 PM EST),,49 - 43,-6,0,228,Adam Keefe,,,,,0,0,,,,,,1,0,,,,,,0
+0022200149,243,8,0,2,8:58 PM,4:40,SUB: Collins FOR Johnson,,,,,4,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200149,244,8,0,2,8:58 PM,4:40,SUB: Capela FOR Okongwu,,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200149,245,8,0,2,8:58 PM,4:40,,,SUB: Matthews FOR Beauchamp,,,5,1630699,MarJon Beauchamp,1610612749.0,Milwaukee,Bucks,MIL,5,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200149,249,2,1,2,8:59 PM,4:32,MISS Hunter 11' Jump Shot,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,250,4,0,2,8:59 PM,4:27,Capela REBOUND (Off:1 Def:2),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,251,2,72,2,8:59 PM,4:27,MISS Capela 1' Putback Layup,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,252,4,0,2,8:59 PM,4:25,,,Holiday REBOUND (Off:1 Def:4),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,253,1,2,2,8:59 PM,4:22,,,Matthews 3PT Running Jump Shot (3 PTS) (Allen 3 AST),52 - 43,-9,5,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200149,255,1,79,2,8:59 PM,4:07,Murray 18' Pullup Jump Shot (10 PTS),,,52 - 45,-7,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,256,6,1,2,8:59 PM,3:49,Hunter P.FOUL (P2.T4) (S.Wright),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200149,258,8,0,2,9:00 PM,3:49,SUB: J. Holiday FOR A. Holiday,,,,,4,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,4,203200,Justin Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200149,259,8,0,2,9:00 PM,3:49,,,SUB: G. Antetokounmpo FOR Lopez,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200149,263,2,1,2,9:00 PM,3:36,,,MISS Matthews 26' 3PT Jump Shot,,,5,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,264,4,0,2,9:00 PM,3:35,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200149,265,5,11,2,9:00 PM,3:35,,,Bucks Turnover: Shot Clock (T#7),,,3,1610612749,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200149,266,2,79,2,9:01 PM,3:27,MISS Collins 19' Pullup Jump Shot,,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,267,4,0,2,9:01 PM,3:24,,,G. Antetokounmpo REBOUND (Off:1 Def:3),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,268,2,79,2,9:01 PM,3:17,,,MISS Holiday 26' 3PT Pullup Jump Shot,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,269,4,0,2,9:01 PM,3:15,Capela REBOUND (Off:1 Def:3),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,270,6,1,2,9:01 PM,3:10,,,Matthews P.FOUL (P1.T3) (C.Blair),,,5,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200149,273,8,0,2,9:01 PM,3:10,,,SUB: Carter FOR Allen,,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200149,275,2,57,2,9:02 PM,2:59,MISS Collins 5' Driving Hook Shot,,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,276,4,0,2,9:02 PM,2:55,,,Portis REBOUND (Off:0 Def:6),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,277,2,1,2,9:02 PM,2:49,,,MISS Portis 27' 3PT Jump Shot,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,278,4,0,2,9:02 PM,2:47,Capela REBOUND (Off:1 Def:4),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,279,2,103,2,9:02 PM,2:42,MISS Hunter 25' 3PT Running Pull-Up Jump Shot,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,280,4,0,2,9:02 PM,2:39,,,G. Antetokounmpo REBOUND (Off:1 Def:4),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,281,1,79,2,9:02 PM,2:33,,,Carter 18' Pullup Jump Shot (2 PTS) (Portis 2 AST),54 - 45,-9,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200149,283,6,1,2,9:02 PM,2:22,,,Matthews P.FOUL (P2.T4) (S.Wright),,,5,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200149,285,8,0,2,9:02 PM,2:22,SUB: Griffin FOR Hunter,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200149,287,5,1,2,9:03 PM,2:09,Murray Bad Pass Turnover (P3.T4),,G. Antetokounmpo STEAL (1 STL),,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200149,289,5,2,2,9:03 PM,2:01,Griffin STEAL (1 STL),,Holiday Lost Ball Turnover (P3.T8),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200149,291,1,50,2,9:03 PM,1:57,Collins 1' Running Dunk (8 PTS) (Murray 6 AST),,,54 - 47,-7,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200149,293,1,75,2,9:03 PM,1:52,,,G. Antetokounmpo 3' Driving Finger Roll Layup (12 PTS) (Holiday 4 AST),56 - 47,-9,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200149,295,1,79,2,9:03 PM,1:41,Murray 25' 3PT Pullup Jump Shot (13 PTS),,,56 - 50,-6,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,296,2,1,2,9:04 PM,1:23,,,MISS Holiday 3PT Jump Shot,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,297,4,0,2,9:04 PM,1:20,Murray REBOUND (Off:1 Def:2),,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,298,2,79,2,9:04 PM,1:14,MISS Murray 25' 3PT Pullup Jump Shot,,Carter BLOCK (1 BLK),,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,1
+0022200149,300,4,0,2,9:04 PM,1:13,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200149,302,1,47,2,9:04 PM,1:03,Griffin 10' Turnaround Jump Shot (10 PTS),,,56 - 52,-4,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,303,2,78,2,9:05 PM,0:46,,,MISS G. Antetokounmpo 9' Floating Jump Shot,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,304,4,0,2,9:05 PM,0:44,Capela REBOUND (Off:1 Def:5),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,305,2,1,2,9:05 PM,0:38,MISS J. Holiday 25' 3PT Jump Shot,,,,,4,203200,Justin Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,306,4,0,2,9:05 PM,0:34,,,Matthews REBOUND (Off:0 Def:1),,,5,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,307,6,2,2,9:05 PM,0:17,Capela S.FOUL (P1.PN) (S.Wright),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200149,309,3,11,2,9:06 PM,0:17,,,G. Antetokounmpo Free Throw 1 of 2 (13 PTS),57 - 52,-5,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,312,3,12,2,9:06 PM,0:17,,,G. Antetokounmpo Free Throw 2 of 2 (14 PTS),58 - 52,-6,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,310,8,0,2,9:06 PM,0:17,,,SUB: Lopez FOR Portis,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200149,313,2,80,2,9:07 PM,0:03,MISS Murray 25' 3PT Step Back Jump Shot,,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,314,4,0,2,9:07 PM,0:03,Murray REBOUND (Off:2 Def:2),,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,315,2,1,2,9:07 PM,0:01,MISS Murray 22' Jump Shot,,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,316,4,0,2,9:07 PM,0:01,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200149,317,13,0,2,9:07 PM,0:00,,End of 2nd Period (9:07 PM EST),,58 - 52,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200149,324,12,0,3,9:22 PM,12:00,,Start of 3rd Period (9:22 PM EST),,58 - 52,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200149,326,2,101,3,9:23 PM,11:37,MISS A. Holiday 9' Driving Floating Jump Shot,,,,,4,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0022200149,327,4,0,3,9:23 PM,11:32,Capela REBOUND (Off:2 Def:5),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0022200149,328,1,97,3,9:23 PM,11:32,Capela Tip Layup Shot (2 PTS),,,58 - 54,-4,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,329,1,43,3,9:23 PM,11:18,,,Lopez 1' Alley Oop Layup (11 PTS) (G. Antetokounmpo 2 AST),60 - 54,-6,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200149,331,1,1,3,9:23 PM,11:05,Collins 26' 3PT Jump Shot (11 PTS) (A. Holiday 1 AST),,,60 - 57,-3,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200149,333,2,86,3,9:24 PM,10:45,,,MISS G. Antetokounmpo 13' Turnaround Fadeaway Shot,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,334,4,0,3,9:24 PM,10:43,Capela REBOUND (Off:2 Def:6),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,335,6,4,3,9:24 PM,10:36,Collins OFF.Foul (P1) (C.Blair),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200149,337,5,37,3,9:24 PM,10:36,Collins Offensive Foul Turnover (P1.T5),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0022200149,338,5,2,3,9:24 PM,10:26,A. Holiday STEAL (1 STL),,Holiday Lost Ball Turnover (P4.T9),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200149,340,6,2,3,9:24 PM,10:25,,,Carter S.FOUL (P1.T1) (S.Wall),,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200149,342,3,11,3,9:25 PM,10:25,Collins Free Throw 1 of 2 (12 PTS),,,60 - 58,-2,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,343,3,12,3,9:25 PM,10:25,Collins Free Throw 2 of 2 (13 PTS),,,60 - 59,-1,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0022200149,344,2,79,3,9:25 PM,10:09,,,MISS Allen 25' 3PT Pullup Jump Shot,,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,345,4,0,3,9:25 PM,10:07,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200149,346,6,3,3,9:25 PM,10:07,,,G. Antetokounmpo L.B.FOUL (P3.T2) (S.Wall),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200149,348,2,6,3,9:26 PM,9:54,MISS Murray 2' Driving Layup,,Lopez BLOCK (1 BLK),,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,1
+0022200149,350,4,0,3,9:26 PM,9:53,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200149,352,6,6,3,9:26 PM,9:53,,,Holiday AWAY.FROM.PLAY.FOUL (P1.T3) (S.Wright),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200149,354,3,10,3,9:27 PM,9:53,Collins Free Throw 1 of 1 (14 PTS),,,60 - 60,TIE,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,355,6,4,3,9:27 PM,9:47,Hunter OFF.Foul (P3) (S.Wright),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200149,357,5,37,3,9:27 PM,9:47,Hunter Offensive Foul Turnover (P2.T6),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0022200149,358,2,6,3,9:28 PM,9:33,Capela BLOCK (1 BLK),,MISS Allen Driving Layup,,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1
+0022200149,360,4,0,3,9:28 PM,9:31,Collins REBOUND (Off:0 Def:1),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,362,1,79,3,9:28 PM,9:23,Murray 17' Pullup Jump Shot (15 PTS),,,60 - 62,2,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,363,2,1,3,9:28 PM,9:06,,,MISS Lopez 3PT Jump Shot,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,364,4,0,3,9:28 PM,9:03,Murray REBOUND (Off:2 Def:3),,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,365,6,2,3,9:29 PM,9:00,,,Lopez S.FOUL (P1.T4) (S.Wall),,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200149,367,3,11,3,9:29 PM,9:00,Hunter Free Throw 1 of 2 (7 PTS),,,60 - 63,3,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,368,9,1,3,9:29 PM,9:00,,,Bucks Timeout: Regular (Reg.3 Short 0),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200149,369,3,12,3,9:32 PM,9:00,Hunter Free Throw 2 of 2 (8 PTS),,,60 - 64,4,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,370,6,1,3,9:32 PM,8:56,Capela P.FOUL (P2.T1) (S.Wall),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200149,372,1,108,3,9:33 PM,8:49,,,G. Antetokounmpo Cutting Dunk Shot (16 PTS) (Holiday 5 AST),62 - 64,2,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200149,374,2,6,3,9:33 PM,8:27,MISS Murray 2' Driving Layup,,Lopez BLOCK (2 BLK),,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,1
+0022200149,376,4,0,3,9:33 PM,8:26,,,Carter REBOUND (Off:0 Def:3),,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,377,6,1,3,9:33 PM,8:26,Murray P.FOUL (P1.T2) (S.Wall),,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200149,379,1,79,3,9:34 PM,8:15,,,Holiday 17' Pullup Jump Shot (12 PTS),64 - 64,TIE,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,380,6,3,3,9:34 PM,8:15,A. Holiday L.B.FOUL (P1.T3) (C.Blair),,,,,4,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200149,383,18,0,3,9:35 PM,8:15,,Instant Replay3rd Period (9:35 PM EST),,64 - 64,TIE,0,380,Tony Smith,,,,,0,0,,,,,,1,0,,,,,,0
+0022200149,384,3,10,3,9:36 PM,8:15,,,G. Antetokounmpo Free Throw 1 of 1 (17 PTS),65 - 64,-1,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,385,6,1,3,9:36 PM,8:12,,,Allen P.FOUL (P2.PN) (S.Wall),,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,4,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200149,387,3,11,3,9:37 PM,8:12,A. Holiday Free Throw 1 of 2 (3 PTS),,,65 - 65,TIE,4,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,388,3,12,3,9:37 PM,8:12,A. Holiday Free Throw 2 of 2 (4 PTS),,,65 - 66,1,4,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,389,5,1,3,9:37 PM,7:59,Capela STEAL (1 STL),,Holiday Bad Pass Turnover (P5.T10),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200149,391,2,98,3,9:37 PM,7:54,MISS Collins 2' Cutting Layup Shot,,Carter BLOCK (2 BLK),,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,1
+0022200149,393,4,0,3,9:37 PM,7:51,,,G. Antetokounmpo REBOUND (Off:1 Def:5),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,394,5,1,3,9:37 PM,7:47,Murray STEAL (2 STL),,G. Antetokounmpo Bad Pass Turnover (P4.T11),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200149,396,1,50,3,9:38 PM,7:42,Capela 2' Running Dunk (4 PTS) (Murray 7 AST),,,65 - 68,3,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200149,398,6,2,3,9:38 PM,7:42,,,Allen S.FOUL (P3.PN) (S.Wright),,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200149,400,3,10,3,9:38 PM,7:42,Capela Free Throw 1 of 1 (5 PTS),,,65 - 69,4,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,401,2,6,3,9:38 PM,7:26,,,MISS G. Antetokounmpo 1' Driving Layup,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,402,4,0,3,9:39 PM,7:24,Capela REBOUND (Off:2 Def:7),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,403,5,1,3,9:39 PM,7:14,A. Holiday Bad Pass Turnover (P1.T7),,Holiday STEAL (1 STL),,,4,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200149,405,2,103,3,9:39 PM,7:11,,,MISS Holiday 25' 3PT Running Pull-Up Jump Shot,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,406,4,0,3,9:39 PM,7:07,Murray REBOUND (Off:2 Def:4),,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,407,1,79,3,9:39 PM,7:00,Murray 17' Pullup Jump Shot (17 PTS),,,65 - 71,6,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,408,1,75,3,9:39 PM,6:38,,,G. Antetokounmpo 1' Driving Finger Roll Layup (19 PTS),67 - 71,4,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,409,5,4,3,9:40 PM,6:27,Hunter Traveling Turnover (P3.T8),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0022200149,410,8,0,3,9:40 PM,6:27,,,SUB: Portis FOR G. Antetokounmpo,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200149,412,2,1,3,9:40 PM,6:13,,,MISS Lopez 3PT Jump Shot,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,413,4,0,3,9:40 PM,6:10,Capela REBOUND (Off:2 Def:8),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,414,5,4,3,9:40 PM,6:10,Capela Traveling Turnover (P1.T9),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0022200149,415,8,0,3,9:40 PM,6:10,SUB: Griffin FOR A. Holiday,,,,,4,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200149,416,8,0,3,9:40 PM,6:10,,,SUB: Nwora FOR Holiday,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200149,419,2,1,3,9:41 PM,6:05,,,MISS Allen 26' 3PT Jump Shot,,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,420,4,0,3,9:41 PM,6:02,Collins REBOUND (Off:0 Def:2),,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,421,1,79,3,9:41 PM,5:57,Griffin 10' Pullup Jump Shot (12 PTS) (Murray 8 AST),,,67 - 73,6,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200149,423,6,2,3,9:41 PM,5:57,,,Lopez S.FOUL (P2.PN) (C.Blair),,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200149,425,3,10,3,9:41 PM,5:57,Griffin Free Throw 1 of 1 (13 PTS),,,67 - 74,7,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,426,2,1,3,9:42 PM,5:42,,,MISS Portis 24' 3PT Jump Shot,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,427,4,0,3,9:42 PM,5:38,Griffin REBOUND (Off:1 Def:3),,,,,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,428,2,80,3,9:42 PM,5:29,MISS Murray 14' Step Back Jump Shot,,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,429,4,0,3,9:42 PM,5:26,,,Nwora REBOUND (Off:1 Def:3),,,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,430,5,4,3,9:42 PM,5:16,,,Allen Traveling Turnover (P1.T12),,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0022200149,431,8,0,3,9:42 PM,5:16,,,SUB: Holiday FOR Carter,,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200149,432,8,0,3,9:42 PM,5:16,,,SUB: Hill FOR Allen,,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,5,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200149,435,2,101,3,9:43 PM,5:03,MISS Hunter 12' Driving Floating Jump Shot,,Nwora BLOCK (1 BLK),,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,1
+0022200149,437,4,0,3,9:43 PM,5:02,Hunter REBOUND (Off:1 Def:5),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,438,6,2,3,9:43 PM,5:02,,,Nwora S.FOUL (P1.PN) (S.Wall),,,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200149,440,3,11,3,9:43 PM,5:02,Hunter Free Throw 1 of 2 (9 PTS),,,67 - 75,8,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,441,3,12,3,9:43 PM,5:02,Hunter Free Throw 2 of 2 (10 PTS),,,67 - 76,9,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,442,1,101,3,9:44 PM,4:51,,,Holiday 6' Driving Floating Jump Shot (14 PTS),69 - 76,7,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,443,5,4,3,9:44 PM,4:39,Hunter Traveling Turnover (P4.T10),,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0022200149,444,1,79,3,9:44 PM,4:28,,,Holiday 11' Pullup Jump Shot (16 PTS),71 - 76,5,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,445,9,1,3,9:44 PM,4:20,HAWKS Timeout: Regular (Full 3 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200149,446,8,0,3,9:47 PM,4:20,SUB: J. Holiday FOR Hunter,,,,,4,1629631,De'Andre Hunter,1610612737.0,Atlanta,Hawks,ATL,4,203200,Justin Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200149,448,2,1,3,9:47 PM,4:10,MISS Griffin 3PT Jump Shot,,,,,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,449,4,0,3,9:48 PM,4:06,,,Portis REBOUND (Off:0 Def:7),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,450,2,79,3,9:48 PM,3:58,,,MISS Holiday 5' Pullup Jump Shot,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,451,4,0,3,9:48 PM,3:54,Capela REBOUND (Off:2 Def:9),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,452,2,6,3,9:48 PM,3:49,MISS Murray 2' Driving Layup,,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,453,4,0,3,9:48 PM,3:46,,,Lopez REBOUND (Off:0 Def:1),,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,454,5,2,3,9:48 PM,3:45,Murray STEAL (3 STL),,Lopez Lost Ball Turnover (P1.T13),,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200149,456,2,79,3,9:48 PM,3:41,MISS Murray 3PT Pullup Jump Shot,,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,457,4,0,3,9:48 PM,3:37,Capela REBOUND (Off:3 Def:9),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,458,2,5,3,9:48 PM,3:35,MISS Capela 1' Layup,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,459,4,0,3,9:48 PM,3:34,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200149,465,8,0,3,9:48 PM,3:34,,,SUB: G. Antetokounmpo FOR Lopez,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200149,466,1,5,3,9:49 PM,3:18,,,Portis 2' Layup (10 PTS) (Holiday 6 AST),73 - 76,3,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200149,468,1,1,3,9:49 PM,3:05,J. Holiday 26' 3PT Jump Shot (6 PTS) (Murray 9 AST),,,73 - 79,6,4,203200,Justin Holiday,1610612737.0,Atlanta,Hawks,ATL,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200149,470,5,1,3,9:49 PM,2:44,Griffin STEAL (2 STL),,Holiday Bad Pass Turnover (P6.T14),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200149,472,2,80,3,9:50 PM,2:36,MISS Griffin 27' 3PT Step Back Jump Shot,,,,,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,473,4,0,3,9:50 PM,2:33,,,Portis REBOUND (Off:0 Def:8),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,474,6,2,3,9:50 PM,2:24,Capela S.FOUL (P3.T4) (C.Blair),,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200149,476,3,11,3,9:51 PM,2:24,,,G. Antetokounmpo Free Throw 1 of 2 (20 PTS),74 - 79,5,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,477,8,0,3,9:51 PM,2:24,SUB: Okongwu FOR Capela,,,,,4,203991,Clint Capela,1610612737.0,Atlanta,Hawks,ATL,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200149,479,3,12,3,9:51 PM,2:24,,,G. Antetokounmpo Free Throw 2 of 2 (21 PTS),75 - 79,4,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,480,1,57,3,9:51 PM,2:03,Okongwu 2' Driving Hook Shot (8 PTS) (Murray 10 AST),,,75 - 81,6,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200149,482,1,9,3,9:52 PM,1:51,,,G. Antetokounmpo Driving Dunk (23 PTS) (Holiday 7 AST),77 - 81,4,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200149,484,1,1,3,9:52 PM,1:39,Griffin 26' 3PT Jump Shot (16 PTS) (Murray 11 AST),,,77 - 84,7,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200149,486,2,1,3,9:52 PM,1:24,,,MISS G. Antetokounmpo 25' 3PT Jump Shot,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,487,4,0,3,9:52 PM,1:22,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200149,489,8,0,3,9:52 PM,1:22,SUB: Johnson FOR Collins,,,,,4,1628381,John Collins,1610612737.0,Atlanta,Hawks,ATL,4,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200149,490,8,0,3,9:52 PM,1:22,,,SUB: Matthews FOR Nwora,,,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,5,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200149,491,8,0,3,9:52 PM,1:22,,,SUB: Allen FOR Holiday,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200149,495,2,6,3,9:53 PM,1:17,,,MISS G. Antetokounmpo 2' Driving Layup,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,496,4,0,3,9:53 PM,1:14,Johnson REBOUND (Off:1 Def:3),,,,,4,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,498,2,1,3,9:53 PM,1:03,MISS Okongwu 18' Jump Shot,,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,499,4,0,3,9:53 PM,1:01,,,G. Antetokounmpo REBOUND (Off:1 Def:6),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,500,2,6,3,9:54 PM,0:44,,,MISS G. Antetokounmpo 1' Driving Layup,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,501,4,0,3,9:54 PM,0:41,,,Portis REBOUND (Off:1 Def:8),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,502,6,1,3,9:54 PM,0:37,Johnson P.FOUL (P2.PN) (S.Wright),,,,,4,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200149,504,3,11,3,9:54 PM,0:37,,,MISS Portis Free Throw 1 of 2,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,505,4,1,3,9:54 PM,0:37,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200149,506,8,0,3,9:54 PM,0:37,,,SUB: Lopez FOR G. Antetokounmpo,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200149,508,3,12,3,9:55 PM,0:37,,,Portis Free Throw 2 of 2 (11 PTS),78 - 84,6,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,509,1,79,3,9:55 PM,0:32,Murray 28' 3PT Pullup Jump Shot (20 PTS),,,78 - 87,9,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,510,1,6,3,9:55 PM,0:16,,,Hill 1' Driving Layup (2 PTS),80 - 87,7,5,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,511,1,79,3,9:56 PM,0:03,Murray 17' Pullup Jump Shot (22 PTS),,,80 - 89,9,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,512,2,79,3,9:56 PM,0:01,,,MISS Hill 21' Pullup Jump Shot,,,5,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,513,4,0,3,9:56 PM,0:01,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200149,514,13,0,3,9:56 PM,0:00,,End of 3rd Period (9:56 PM EST),,80 - 89,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200149,521,12,0,4,9:59 PM,12:00,,Start of 4th Period (9:59 PM EST),,80 - 89,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200149,522,7,1,4,9:59 PM,12:00,,,Bucks Violation: Delay of game Violation,,,3,1610612749,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200149,523,5,1,4,9:59 PM,11:42,Griffin STEAL (3 STL),,Holiday Bad Pass Turnover (P7.T15),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200149,525,5,4,4,9:59 PM,11:42,Griffin Traveling Turnover (P1.T11),,,,,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0022200149,526,5,1,4,10:00 PM,11:33,Okongwu STEAL (1 STL),,Allen Bad Pass Turnover (P2.T16),,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200149,528,2,103,4,10:00 PM,11:29,MISS Griffin 25' 3PT Running Pull-Up Jump Shot,,,,,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,529,4,0,4,10:00 PM,11:26,Okongwu REBOUND (Off:1 Def:2),,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,530,1,107,4,10:00 PM,11:26,Okongwu Tip Dunk Shot (10 PTS),,,80 - 91,11,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,531,2,6,4,10:00 PM,11:09,Johnson BLOCK (1 BLK),,MISS G. Antetokounmpo 5' Driving Layup,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,4,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,1
+0022200149,533,4,0,4,10:00 PM,11:07,Okongwu REBOUND (Off:1 Def:3),,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,534,2,79,4,10:00 PM,11:01,MISS Okongwu 10' Pullup Jump Shot,,G. Antetokounmpo BLOCK (1 BLK),,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1
+0022200149,536,4,0,4,10:00 PM,10:57,,,Holiday REBOUND (Off:1 Def:5),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,537,2,41,4,10:00 PM,10:56,,,MISS Holiday 1' Running Layup,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,538,4,0,4,10:00 PM,10:55,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200149,540,2,79,4,10:01 PM,10:38,MISS J. Holiday 26' 3PT Pullup Jump Shot,,,,,4,203200,Justin Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,541,4,0,4,10:01 PM,10:34,Okongwu REBOUND (Off:2 Def:3),,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,542,6,1,4,10:01 PM,10:34,,,Holiday P.FOUL (P2.T1) (S.Wright),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200149,544,8,0,4,10:01 PM,10:34,,,SUB: Carter FOR Holiday,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200149,547,1,78,4,10:02 PM,10:19,Griffin 11' Floating Jump Shot (18 PTS),,,80 - 93,13,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,548,1,1,4,10:02 PM,10:03,,,Matthews 3PT Jump Shot (6 PTS) (Carter 4 AST),83 - 93,10,5,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200149,550,2,6,4,10:03 PM,9:52,MISS A. Holiday 4' Driving Layup,,Carter BLOCK (3 BLK),,,4,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,1
+0022200149,552,4,0,4,10:03 PM,9:51,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200149,554,8,0,4,10:03 PM,9:51,,,SUB: Lopez FOR Hill,,,5,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200149,556,1,108,4,10:03 PM,9:42,J. Holiday 1' Cutting Dunk Shot (8 PTS) (A. Holiday 2 AST),,,83 - 95,12,4,203200,Justin Holiday,1610612737.0,Atlanta,Hawks,ATL,4,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200149,558,1,98,4,10:03 PM,9:27,,,G. Antetokounmpo 1' Cutting Layup Shot (25 PTS) (Carter 5 AST),85 - 95,10,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200149,560,1,78,4,10:04 PM,9:14,Griffin 10' Floating Jump Shot (20 PTS) (A. Holiday 3 AST),,,85 - 97,12,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,4,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200149,562,2,1,4,10:04 PM,8:56,,,MISS Lopez 25' 3PT Jump Shot,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,563,4,0,4,10:04 PM,8:54,Johnson REBOUND (Off:1 Def:4),,,,,4,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,564,1,79,4,10:04 PM,8:46,J. Holiday 26' 3PT Pullup Jump Shot (11 PTS),,,85 - 100,15,4,203200,Justin Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,565,9,1,4,10:04 PM,8:44,,,Bucks Timeout: Regular (Reg.4 Short 0),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200149,566,8,0,4,10:07 PM,8:44,,,SUB: Portis FOR Matthews,,,5,202083,Wesley Matthews,1610612749.0,Milwaukee,Bucks,MIL,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200149,568,2,1,4,10:07 PM,8:26,,,MISS Portis 3PT Jump Shot,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,569,4,0,4,10:07 PM,8:23,Johnson REBOUND (Off:1 Def:5),,,,,4,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,570,2,80,4,10:08 PM,8:12,MISS J. Holiday 24' 3PT Step Back Jump Shot,,,,,4,203200,Justin Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,571,4,0,4,10:08 PM,8:09,Okongwu REBOUND (Off:3 Def:3),,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,572,1,97,4,10:08 PM,8:09,Okongwu Tip Layup Shot (12 PTS),,,85 - 102,17,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,573,5,1,4,10:08 PM,7:54,Johnson STEAL (2 STL),,G. Antetokounmpo Bad Pass Turnover (P5.T17),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200149,575,5,2,4,10:08 PM,7:50,Okongwu Lost Ball Turnover (P1.T12),,G. Antetokounmpo STEAL (2 STL),,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200149,577,2,6,4,10:08 PM,7:45,,,MISS Carter Driving Layup,,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,578,4,0,4,10:08 PM,7:44,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200149,580,2,86,4,10:09 PM,7:38,,,MISS G. Antetokounmpo 16' Turnaround Fadeaway Shot,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,581,4,0,4,10:09 PM,7:35,Johnson REBOUND (Off:1 Def:6),,,,,4,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,582,6,2,4,10:09 PM,7:15,,,Carter S.FOUL (P2.T2) (S.Wright),,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,4,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200149,584,6,11,4,10:09 PM,7:15,Johnson T.FOUL (P2.T0) (S.Wright),,,,,4,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,1
+0022200149,585,3,16,4,10:10 PM,7:15,,,Allen Free Throw Technical (11 PTS),86 - 102,16,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0022200149,586,3,11,4,10:10 PM,7:15,Johnson Free Throw 1 of 2 (5 PTS),,,86 - 103,17,4,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,589,3,12,4,10:10 PM,7:15,MISS Johnson Free Throw 2 of 2,,,,,4,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,587,8,0,4,10:10 PM,7:15,,,SUB: Holiday FOR G. Antetokounmpo,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200149,590,4,0,4,10:10 PM,7:13,,,Portis REBOUND (Off:1 Def:9),,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,591,2,1,4,10:11 PM,6:59,,,MISS Holiday 25' 3PT Jump Shot,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,592,4,0,4,10:11 PM,6:54,,,Lopez REBOUND (Off:1 Def:1),,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,593,6,1,4,10:11 PM,6:53,Griffin P.FOUL (P1.T1) (S.Wall),,,,,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200149,595,5,45,4,10:11 PM,6:47,,,Allen Out of Bounds - Bad Pass Turnover Turnover (P3.T18),,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0022200149,596,1,1,4,10:12 PM,6:35,J. Holiday 3PT Jump Shot (14 PTS) (A. Holiday 4 AST),,,86 - 106,20,4,203200,Justin Holiday,1610612737.0,Atlanta,Hawks,ATL,4,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200149,598,5,45,4,10:12 PM,6:19,,,Holiday Out of Bounds - Bad Pass Turnover Turnover (P8.T19),,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0022200149,599,1,6,4,10:12 PM,6:09,Griffin 3' Driving Layup (22 PTS) (A. Holiday 5 AST),,,86 - 108,22,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,4,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200149,601,9,1,4,10:12 PM,6:09,,,Bucks Timeout: Regular (Reg.5 Short 0),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200149,602,8,0,4,10:15 PM,6:09,SUB: Murray FOR A. Holiday,,,,,4,1628988,Aaron Holiday,1610612737.0,Atlanta,Hawks,ATL,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200149,603,8,0,4,10:15 PM,6:09,,,SUB: Ibaka FOR Carter,,,5,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,5,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200149,604,8,0,4,10:15 PM,6:09,,,SUB: Hill FOR Portis,,,5,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200149,605,8,0,4,10:15 PM,6:09,,,SUB: Nwora FOR Lopez,,,5,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200149,606,8,0,4,10:15 PM,6:09,,,SUB: Mamukelashvili FOR Allen,,,5,1628960,Grayson Allen,1610612749.0,Milwaukee,Bucks,MIL,5,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200149,607,8,0,4,10:15 PM,6:09,,,SUB: Beauchamp FOR Holiday,,,5,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,5,1630699,MarJon Beauchamp,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200149,614,2,79,4,10:15 PM,5:57,,,MISS Nwora 15' Pullup Jump Shot,,,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,615,4,0,4,10:15 PM,5:54,Murray REBOUND (Off:2 Def:5),,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,616,2,80,4,10:16 PM,5:44,MISS Johnson 21' Step Back Jump Shot,,,,,4,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,617,4,0,4,10:16 PM,5:41,,,Ibaka REBOUND (Off:1 Def:1),,,5,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,618,6,1,4,10:16 PM,5:31,Griffin P.FOUL (P2.T2) (S.Wright),,,,,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,5,1630699,MarJon Beauchamp,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200149,620,2,1,4,10:16 PM,5:23,,,MISS Mamukelashvili 26' 3PT Jump Shot,,,5,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,621,4,0,4,10:16 PM,5:21,Johnson REBOUND (Off:1 Def:7),,,,,4,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,622,2,79,4,10:16 PM,5:12,MISS Murray 15' Pullup Jump Shot,,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,623,4,0,4,10:17 PM,5:08,,,Nwora REBOUND (Off:1 Def:4),,,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,624,2,79,4,10:17 PM,4:58,,,MISS Hill 3PT Pullup Jump Shot,,,5,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,625,4,0,4,10:17 PM,4:55,Murray REBOUND (Off:2 Def:6),,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,626,1,79,4,10:17 PM,4:37,Murray 26' 3PT Pullup Jump Shot (25 PTS),,,86 - 111,25,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,627,2,1,4,10:17 PM,4:10,,,MISS Beauchamp 25' 3PT Jump Shot,,,5,1630699,MarJon Beauchamp,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,628,4,0,4,10:18 PM,4:08,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200149,630,1,6,4,10:18 PM,4:02,,,Nwora 2' Driving Layup (2 PTS),88 - 111,23,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,631,9,1,4,10:18 PM,3:51,HAWKS Timeout: Regular (Full 4 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200149,632,8,0,4,10:19 PM,3:51,SUB: Kaminsky FOR Okongwu,,,,,4,1630168,Onyeka Okongwu,1610612737.0,Atlanta,Hawks,ATL,4,1626163,Frank Kaminsky,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200149,633,8,0,4,10:19 PM,3:51,SUB: Forrest FOR Murray,,,,,4,1627749,Dejounte Murray,1610612737.0,Atlanta,Hawks,ATL,4,1630235,Trent Forrest,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200149,634,8,0,4,10:19 PM,3:51,,,SUB: T. Antetokounmpo FOR Hill,,,5,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,5,203648,Thanasis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0022200149,638,2,80,4,10:20 PM,3:43,MISS J. Holiday 19' Step Back Jump Shot,,,,,4,203200,Justin Holiday,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,639,4,0,4,10:20 PM,3:40,,,Beauchamp REBOUND (Off:0 Def:1),,,5,1630699,MarJon Beauchamp,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,640,6,2,4,10:20 PM,3:34,Kaminsky S.FOUL (P1.T3) (S.Wright),,,,,4,1626163,Frank Kaminsky,1610612737.0,Atlanta,Hawks,ATL,5,1630699,MarJon Beauchamp,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200149,642,3,11,4,10:20 PM,3:34,,,MISS Beauchamp Free Throw 1 of 2,,,5,1630699,MarJon Beauchamp,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,643,4,1,4,10:20 PM,3:34,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200149,644,3,12,4,10:21 PM,3:34,,,Beauchamp Free Throw 2 of 2 (1 PTS),89 - 111,22,5,1630699,MarJon Beauchamp,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,645,1,79,4,10:21 PM,3:20,Griffin 16' Pullup Jump Shot (24 PTS) (Forrest 1 AST),,,89 - 113,24,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,4,1630235,Trent Forrest,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1
+0022200149,647,1,79,4,10:21 PM,2:57,,,Beauchamp 25' 3PT Pullup Jump Shot (4 PTS),92 - 113,21,5,1630699,MarJon Beauchamp,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,648,2,101,4,10:22 PM,2:39,MISS Forrest 8' Driving Floating Jump Shot,,,,,4,1630235,Trent Forrest,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,649,4,0,4,10:22 PM,2:36,,,Nwora REBOUND (Off:1 Def:5),,,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,650,6,1,4,10:22 PM,2:32,Forrest P.FOUL (P1.T4) (S.Wright),,,,,4,1630235,Trent Forrest,1610612737.0,Atlanta,Hawks,ATL,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200149,652,8,0,4,10:22 PM,2:32,SUB: Culver FOR Johnson,,,,,4,1630552,Jalen Johnson,1610612737.0,Atlanta,Hawks,ATL,4,1629633,Jarrett Culver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200149,653,8,0,4,10:22 PM,2:32,SUB: Martin FOR J. Holiday,,,,,4,203200,Justin Holiday,1610612737.0,Atlanta,Hawks,ATL,4,1631213,Tyrese Martin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200149,654,8,0,4,10:22 PM,2:32,SUB: Krejci FOR Griffin,,,,,4,1631100,AJ Griffin,1610612737.0,Atlanta,Hawks,ATL,4,1630249,Vít Krejčí,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0022200149,658,1,5,4,10:22 PM,2:20,,,Ibaka 1' Layup (4 PTS),94 - 113,19,5,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,659,1,79,4,10:23 PM,1:56,Krejci 26' 3PT Pullup Jump Shot (3 PTS),,,94 - 116,22,4,1630249,Vít Krejčí,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,660,2,1,4,10:23 PM,1:43,,,MISS Mamukelashvili 3PT Jump Shot,,,5,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,661,4,0,4,10:23 PM,1:41,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200149,663,6,2,4,10:23 PM,1:31,,,Nwora S.FOUL (P2.T3) (S.Wright),,,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,4,1629633,Jarrett Culver,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,1
+0022200149,665,3,11,4,10:24 PM,1:31,Culver Free Throw 1 of 2 (1 PTS),,,94 - 117,23,4,1629633,Jarrett Culver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,666,3,12,4,10:24 PM,1:31,MISS Culver Free Throw 2 of 2,,,,,4,1629633,Jarrett Culver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,667,4,0,4,10:24 PM,1:29,Culver REBOUND (Off:1 Def:0),,,,,4,1629633,Jarrett Culver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,668,2,72,4,10:24 PM,1:28,MISS Culver 2' Putback Layup,,,,,4,1629633,Jarrett Culver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,669,4,0,4,10:24 PM,1:25,,,Ibaka REBOUND (Off:1 Def:2),,,5,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,670,6,2,4,10:24 PM,1:15,Kaminsky S.FOUL (P2.PN) (S.Wall),,,,,4,1626163,Frank Kaminsky,1610612737.0,Atlanta,Hawks,ATL,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0022200149,672,3,11,4,10:25 PM,1:15,,,Nwora Free Throw 1 of 2 (3 PTS),95 - 117,22,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,673,3,12,4,10:25 PM,1:15,,,Nwora Free Throw 2 of 2 (4 PTS),96 - 117,21,5,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,674,2,1,4,10:25 PM,0:53,MISS Krejci 27' 3PT Jump Shot,,,,,4,1630249,Vít Krejčí,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,675,4,0,4,10:25 PM,0:51,,,Beauchamp REBOUND (Off:0 Def:2),,,5,1630699,MarJon Beauchamp,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,676,2,80,4,10:25 PM,0:42,,,MISS Beauchamp 24' 3PT Step Back Jump Shot,,,5,1630699,MarJon Beauchamp,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,677,4,0,4,10:25 PM,0:39,Krejci REBOUND (Off:0 Def:1),,,,,4,1630249,Vít Krejčí,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,678,2,98,4,10:26 PM,0:26,MISS Kaminsky 2' Cutting Layup Shot,,,,,4,1626163,Frank Kaminsky,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,1
+0022200149,679,4,0,4,10:26 PM,0:23,,,Ibaka REBOUND (Off:1 Def:3),,,5,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0022200149,680,1,108,4,10:26 PM,0:18,,,Mamukelashvili Cutting Dunk Shot (2 PTS) (T. Antetokounmpo 1 AST),98 - 117,19,5,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,5,203648,Thanasis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0022200149,682,13,0,4,10:26 PM,0:00,,End of 4th Period (10:26 PM EST),,98 - 117,19,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

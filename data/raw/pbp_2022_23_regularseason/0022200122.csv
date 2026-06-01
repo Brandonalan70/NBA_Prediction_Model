@@ -1,0 +1,506 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200122,2,12,0,1,7:11 PM,12:00,,Start of 1st Period (7:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200122,4,10,0,1,7:11 PM,12:00,Jump Ball Harrell vs. Robinson: Tip to Brunson,,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1
+0022200122,10,5,2,1,7:12 PM,11:39,Harris STEAL (1 STL),,Randle Lost Ball Turnover (P1.T1),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200122,12,6,1,1,7:12 PM,11:35,,,Grimes P.FOUL (P1.T1) (J.Van Duyne),,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200122,14,6,1,1,7:12 PM,11:29,,,Barrett P.FOUL (P1.T2) (J.Goble),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200122,16,2,1,1,7:13 PM,11:17,MISS Maxey 26' 3PT Jump Shot,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,17,4,0,1,7:13 PM,11:14,,,Barrett REBOUND (Off:0 Def:1),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,18,2,79,1,7:13 PM,11:09,,,MISS Brunson 16' Pullup Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,19,4,0,1,7:13 PM,11:06,Tucker REBOUND (Off:0 Def:1),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,20,2,102,1,7:13 PM,10:51,MISS Melton 4' Driving Floating Bank Jump Shot,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,21,4,0,1,7:13 PM,10:49,Melton REBOUND (Off:1 Def:0),,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,22,2,1,1,7:13 PM,10:46,MISS Tucker 25' 3PT Jump Shot,,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,23,4,0,1,7:13 PM,10:43,,,Barrett REBOUND (Off:0 Def:2),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,24,5,45,1,7:13 PM,10:39,,,Barrett Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022200122,25,6,1,1,7:13 PM,10:29,,,Robinson P.FOUL (P1.T3) (C.Flores),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200122,27,1,80,1,7:14 PM,10:13,Harris 19' Step Back Jump Shot (2 PTS) (Melton 1 AST),,,0 - 2,2,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200122,29,6,1,1,7:14 PM,10:02,Melton P.FOUL (P1.T1) (J.Van Duyne),,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200122,31,2,79,1,7:15 PM,9:56,,,MISS Brunson 19' Pullup Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,32,4,0,1,7:15 PM,9:53,Harris REBOUND (Off:0 Def:1),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,33,1,103,1,7:15 PM,9:47,Harris 12' Running Pull-Up Jump Shot (4 PTS),,,0 - 4,4,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,34,1,1,1,7:15 PM,9:34,,,Randle 21' Jump Shot (2 PTS) (Grimes 1 AST),2 - 4,2,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200122,36,1,1,1,7:15 PM,9:21,Maxey 26' 3PT Jump Shot (3 PTS) (Melton 2 AST),,,2 - 7,5,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200122,38,5,2,1,7:15 PM,9:08,Maxey STEAL (1 STL),,Brunson Lost Ball Turnover (P1.T3),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200122,40,2,41,1,7:15 PM,9:05,MISS Maxey 3' Running Layup,,Grimes BLOCK (1 BLK),,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,1
+0022200122,42,4,0,1,7:15 PM,9:05,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200122,44,2,79,1,7:16 PM,8:57,,,MISS Randle 26' 3PT Pullup Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,45,4,0,1,7:16 PM,8:52,,,Robinson REBOUND (Off:1 Def:0),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,46,6,1,1,7:16 PM,8:50,Melton P.FOUL (P2.T2) (C.Flores),,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200122,48,2,1,1,7:16 PM,8:40,,,MISS Grimes 3PT Jump Shot,,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,49,4,0,1,7:16 PM,8:37,Harrell REBOUND (Off:0 Def:1),,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,50,2,101,1,7:17 PM,8:27,MISS Maxey 9' Driving Floating Jump Shot,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,51,4,0,1,7:17 PM,8:26,,,Randle REBOUND (Off:0 Def:1),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,126,5,2,1,7:17 PM,8:24,Harrell STEAL (1 STL),,Randle Lost Ball Turnover (P2.T4),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200122,52,1,7,1,7:17 PM,8:21,Harrell Dunk (2 PTS) (Tucker 1 AST),,,2 - 9,7,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200122,54,1,1,1,7:17 PM,7:58,,,Barrett 26' 3PT Jump Shot (3 PTS) (Randle 1 AST),5 - 9,4,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200122,56,9,1,1,7:17 PM,7:52,76ERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200122,57,8,0,1,7:20 PM,7:52,SUB: Milton FOR Melton,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200122,59,6,2,1,7:20 PM,7:45,,,Grimes S.FOUL (P2.T4) (J.Van Duyne),,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200122,61,3,11,1,7:21 PM,7:45,Maxey Free Throw 1 of 2 (4 PTS),,,5 - 10,5,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,62,3,12,1,7:21 PM,7:45,Maxey Free Throw 2 of 2 (5 PTS),,,5 - 11,6,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,63,2,1,1,7:21 PM,7:29,Tucker BLOCK (1 BLK),,MISS Randle 7' Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,1
+0022200122,65,4,0,1,7:21 PM,7:25,Harris REBOUND (Off:0 Def:2),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,66,1,101,1,7:21 PM,7:22,Maxey 7' Driving Floating Jump Shot (7 PTS) (Harris 1 AST),,,5 - 13,8,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200122,68,6,1,1,7:22 PM,7:10,Milton P.FOUL (P1.T3) (C.Flores),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200122,70,8,0,1,7:22 PM,7:10,,,SUB: Quickley FOR Grimes,,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200122,72,1,79,1,7:22 PM,6:58,,,Randle 15' Pullup Jump Shot (4 PTS),7 - 13,6,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,74,6,2,1,7:22 PM,6:58,Tucker S.FOUL (P1.T4) (J.Van Duyne),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200122,76,3,10,1,7:23 PM,6:58,,,MISS Randle Free Throw 1 of 1,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,77,4,0,1,7:23 PM,6:56,Harrell REBOUND (Off:0 Def:2),,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,78,2,79,1,7:23 PM,6:37,MISS Maxey 27' 3PT Pullup Jump Shot,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,79,4,0,1,7:23 PM,6:35,,,Brunson REBOUND (Off:0 Def:1),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,80,2,1,1,7:23 PM,6:25,,,MISS Brunson 24' 3PT Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,81,4,0,1,7:23 PM,6:21,Harrell REBOUND (Off:0 Def:3),,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,82,2,1,1,7:23 PM,6:15,MISS Harris 24' 3PT Jump Shot,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,83,4,0,1,7:24 PM,6:12,,,Barrett REBOUND (Off:0 Def:3),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,84,6,4,1,7:24 PM,5:59,,,Randle OFF.Foul (P1) (C.Flores),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200122,86,5,37,1,7:24 PM,5:59,,,Randle Offensive Foul Turnover (P3.T5),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022200122,87,8,0,1,7:24 PM,5:59,,,SUB: Hartenstein FOR Robinson,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200122,89,2,1,1,7:25 PM,5:47,MISS Milton 26' 3PT Jump Shot,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,90,4,0,1,7:25 PM,5:45,,,Quickley REBOUND (Off:0 Def:1),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,91,2,1,1,7:25 PM,5:29,,,MISS Barrett 24' 3PT Jump Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,92,4,0,1,7:25 PM,5:27,Tucker REBOUND (Off:0 Def:2),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,93,2,78,1,7:25 PM,5:16,MISS Harris 4' Floating Jump Shot,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,94,4,0,1,7:25 PM,5:14,,,Barrett REBOUND (Off:0 Def:4),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,95,1,41,1,7:25 PM,5:08,,,Barrett 2' Running Layup (5 PTS),9 - 13,4,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,96,1,1,1,7:26 PM,4:45,Harris 26' 3PT Jump Shot (7 PTS) (Maxey 1 AST),,,9 - 16,7,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200122,98,6,2,1,7:26 PM,4:37,Milton S.FOUL (P2.PN) (J.Goble),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200122,100,3,11,1,7:26 PM,4:37,,,Brunson Free Throw 1 of 2 (1 PTS),10 - 16,6,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,101,3,12,1,7:27 PM,4:37,,,Brunson Free Throw 2 of 2 (2 PTS),11 - 16,5,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,102,2,101,1,7:27 PM,4:25,MISS Harrell 11' Driving Floating Jump Shot,,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,103,4,0,1,7:27 PM,4:23,Harris REBOUND (Off:1 Def:2),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,104,2,5,1,7:27 PM,4:10,MISS Harrell 2' Layup,,Hartenstein BLOCK (1 BLK),,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,1
+0022200122,106,4,0,1,7:27 PM,4:09,Milton REBOUND (Off:1 Def:0),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,107,1,101,1,7:27 PM,4:09,Milton 7' Driving Floating Jump Shot (2 PTS),,,11 - 18,7,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,108,6,11,1,7:27 PM,4:09,Milton T.FOUL (P2.PN) (J.Goble),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200122,109,3,16,1,7:28 PM,4:09,,,Quickley Free Throw Technical (1 PTS),12 - 18,6,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,110,8,0,1,7:28 PM,4:09,SUB: Reed FOR Harrell,,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200122,111,8,0,1,7:28 PM,4:09,SUB: Niang FOR Tucker,,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200122,112,8,0,1,7:28 PM,4:09,,,SUB: Rose FOR Brunson,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200122,116,2,1,1,7:28 PM,4:00,,,MISS Randle 28' 3PT Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,117,4,0,1,7:28 PM,3:53,,,Hartenstein REBOUND (Off:1 Def:0),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,118,2,72,1,7:28 PM,3:53,,,MISS Hartenstein Putback Layup,,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,119,4,0,1,7:28 PM,3:51,Harris REBOUND (Off:1 Def:3),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,120,5,45,1,7:28 PM,3:51,Harris Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200122,121,1,7,1,7:29 PM,3:30,,,Randle Dunk (6 PTS) (Quickley 1 AST),14 - 18,4,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200122,123,6,4,1,7:29 PM,3:29,Maxey OFF.Foul (P1) (C.Flores),,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200122,125,5,37,1,7:29 PM,3:29,Maxey Offensive Foul Turnover (P1.T2),,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200122,128,2,1,1,7:30 PM,3:19,,,MISS Rose 24' 3PT Jump Shot,,,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,129,4,0,1,7:30 PM,3:16,,,Randle REBOUND (Off:1 Def:1),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,130,5,4,1,7:30 PM,3:11,,,Randle Traveling Turnover (P4.T6),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022200122,131,2,1,1,7:30 PM,2:59,MISS Niang 26' 3PT Jump Shot,,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,132,4,0,1,7:30 PM,2:55,,,Barrett REBOUND (Off:0 Def:5),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,133,2,79,1,7:30 PM,2:50,,,MISS Barrett 27' 3PT Pullup Jump Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,134,4,0,1,7:30 PM,2:47,Maxey REBOUND (Off:0 Def:1),,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,135,2,41,1,7:30 PM,2:42,MISS Niang 2' Running Layup,,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,136,4,0,1,7:30 PM,2:40,Harris REBOUND (Off:2 Def:3),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,137,1,102,1,7:31 PM,2:35,Maxey 2' Driving Floating Bank Jump Shot (9 PTS) (Harris 2 AST),,,14 - 20,6,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200122,139,1,7,1,7:31 PM,2:24,,,Hartenstein 1' Dunk (2 PTS) (Rose 1 AST),16 - 20,4,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200122,141,5,4,1,7:31 PM,2:09,Reed Traveling Turnover (P1.T3),,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200122,142,9,1,1,7:31 PM,2:09,,,Knicks Timeout: Regular (Reg.1 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200122,143,8,0,1,7:33 PM,2:09,,,SUB: Toppin FOR Barrett,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200122,144,8,0,1,7:33 PM,2:09,,,SUB: Fournier FOR Randle,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200122,147,8,0,1,7:34 PM,2:09,SUB: Korkmaz FOR Maxey,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200122,148,8,0,1,7:34 PM,2:09,SUB: Thybulle FOR Harris,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200122,151,1,52,1,7:34 PM,1:59,,,Toppin 1' Alley Oop Dunk (2 PTS) (Quickley 2 AST),18 - 20,2,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200122,153,2,79,1,7:34 PM,1:48,MISS Milton 26' 3PT Pullup Jump Shot,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,154,4,0,1,7:34 PM,1:45,,,Hartenstein REBOUND (Off:1 Def:1),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,155,5,45,1,7:34 PM,1:39,,,Quickley Out of Bounds - Bad Pass Turnover Turnover (P1.T7),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022200122,156,1,75,1,7:35 PM,1:23,Thybulle 4' Driving Finger Roll Layup (2 PTS) (Korkmaz 1 AST),,,18 - 22,4,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200122,158,5,21,1,7:35 PM,1:18,,,Rose Palming Turnover (P1.T8),,,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022200122,159,2,1,1,7:35 PM,1:00,MISS Niang 26' 3PT Jump Shot,,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,160,4,0,1,7:35 PM,0:57,,,Hartenstein REBOUND (Off:1 Def:2),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,161,1,79,1,7:36 PM,0:47,,,Quickley 26' 3PT Pullup Jump Shot (4 PTS),21 - 22,1,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,162,2,101,1,7:36 PM,0:37,MISS Milton 7' Driving Floating Jump Shot,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,163,4,0,1,7:36 PM,0:35,,,Quickley REBOUND (Off:0 Def:2),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,164,2,80,1,7:36 PM,0:20,,,MISS Fournier 29' 3PT Step Back Jump Shot,,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,165,4,0,1,7:36 PM,0:16,,,Hartenstein REBOUND (Off:2 Def:2),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,167,6,26,1,7:37 PM,0:07,,,Rose Offensive Charge Foul (P1) (C.Flores),,,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200122,169,5,37,1,7:37 PM,0:07,,,Rose Offensive Foul Turnover (P2.T9),,,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022200122,170,8,0,1,7:37 PM,0:07,SUB: Maxey FOR Reed,,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200122,172,2,1,1,7:37 PM,0:01,MISS Thybulle 25' 3PT Jump Shot,,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,173,4,0,1,7:37 PM,0:01,,,Toppin REBOUND (Off:0 Def:1),,,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,174,13,0,1,7:37 PM,0:00,,End of 1st Period (7:37 PM EST),,21 - 22,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200122,179,12,0,2,7:40 PM,12:00,,Start of 2nd Period (7:40 PM EST),,21 - 22,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200122,180,5,1,2,7:40 PM,11:48,Korkmaz Bad Pass Turnover (P1.T4),,Quickley STEAL (1 STL),,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200122,182,5,2,2,7:40 PM,11:35,Reed STEAL (1 STL),,Quickley Lost Ball Turnover (P2.T10),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200122,184,2,41,2,7:40 PM,11:30,MISS Melton 3' Running Layup,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,185,4,0,2,7:40 PM,11:30,Melton REBOUND (Off:2 Def:0),,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,186,6,2,2,7:41 PM,11:30,,,Fournier S.FOUL (P1.T1) (J.Goble),,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200122,188,3,11,2,7:41 PM,11:30,Melton Free Throw 1 of 2 (1 PTS),,,21 - 23,2,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,189,3,12,2,7:41 PM,11:30,MISS Melton Free Throw 2 of 2,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,190,4,0,2,7:41 PM,11:28,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200122,192,2,79,2,7:42 PM,11:10,Reed BLOCK (1 BLK),,MISS Rose 10' Pullup Jump Shot,,,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,1
+0022200122,194,4,0,2,7:42 PM,11:06,Reed REBOUND (Off:0 Def:1),,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,195,2,1,2,7:42 PM,10:58,MISS Melton 27' 3PT Jump Shot,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,196,4,0,2,7:42 PM,10:56,,,Hartenstein REBOUND (Off:2 Def:3),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,197,5,1,2,7:42 PM,10:52,Thybulle STEAL (1 STL),,Rose Bad Pass Turnover (P3.T11),,,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200122,199,2,41,2,7:42 PM,10:48,MISS Thybulle 3' Running Layup,,Rose BLOCK (1 BLK),,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,1
+0022200122,201,4,0,2,7:42 PM,10:46,,,Fournier REBOUND (Off:0 Def:1),,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,202,5,2,2,7:42 PM,10:40,Reed STEAL (2 STL),,Fournier Lost Ball Turnover (P1.T12),,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200122,204,2,2,2,7:42 PM,10:35,MISS Thybulle 26' 3PT Running Jump Shot,,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,205,4,0,2,7:42 PM,10:31,,,Quickley REBOUND (Off:0 Def:3),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,207,5,1,2,7:43 PM,10:15,Reed STEAL (3 STL),,Rose Bad Pass Turnover (P4.T13),,,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200122,209,1,50,2,7:43 PM,10:10,Thybulle 1' Running Dunk (4 PTS) (Melton 3 AST),,,21 - 25,4,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200122,211,2,41,2,7:43 PM,10:03,,,MISS Quickley 3' Running Layup,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,212,4,0,2,7:43 PM,10:01,Reed REBOUND (Off:0 Def:2),,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,213,2,78,2,7:43 PM,9:50,MISS Reed 11' Floating Jump Shot,,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,214,4,0,2,7:43 PM,9:47,,,Hartenstein REBOUND (Off:2 Def:4),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,215,1,78,2,7:44 PM,9:31,,,Hartenstein 9' Floating Jump Shot (4 PTS) (Fournier 1 AST),23 - 25,2,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200122,217,2,1,2,7:44 PM,9:20,MISS Niang 27' 3PT Jump Shot,,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,218,4,0,2,7:44 PM,9:17,,,Quickley REBOUND (Off:0 Def:4),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,219,2,1,2,7:44 PM,9:10,Thybulle BLOCK (1 BLK),,MISS Fournier 26' 3PT Jump Shot,,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,1
+0022200122,221,4,0,2,7:44 PM,9:10,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200122,223,8,0,2,7:44 PM,9:10,SUB: Harrell FOR Korkmaz,,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200122,224,8,0,2,7:44 PM,9:10,SUB: Maxey FOR Reed,,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200122,225,8,0,2,7:44 PM,9:10,,,SUB: Brunson FOR Rose,,,5,201565,Derrick Rose,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200122,226,8,0,2,7:44 PM,9:10,,,SUB: Robinson FOR Hartenstein,,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200122,231,2,79,2,7:45 PM,9:01,,,MISS Quickley 28' 3PT Pullup Jump Shot,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,232,4,0,2,7:45 PM,8:57,Thybulle REBOUND (Off:0 Def:1),,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,233,1,108,2,7:45 PM,8:50,Harrell Cutting Dunk Shot (4 PTS) (Melton 4 AST),,,23 - 27,4,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200122,235,6,2,2,7:45 PM,8:38,Niang S.FOUL (P1.T1) (J.Goble),,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200122,237,3,11,2,7:46 PM,8:38,,,Toppin Free Throw 1 of 2 (3 PTS),24 - 27,3,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,238,8,0,2,7:46 PM,8:38,SUB: Harris FOR Niang,,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200122,239,8,0,2,7:46 PM,8:38,,,SUB: Barrett FOR Quickley,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200122,242,3,12,2,7:46 PM,8:38,,,Toppin Free Throw 2 of 2 (4 PTS),25 - 27,2,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,243,5,4,2,7:46 PM,8:28,Maxey Traveling Turnover (P2.T5),,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200122,244,8,0,2,7:46 PM,8:28,,,SUB: Reddish FOR Toppin,,,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200122,246,1,79,2,7:47 PM,8:16,,,Brunson 26' 3PT Pullup Jump Shot (5 PTS) (Reddish 1 AST),28 - 27,-1,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200122,248,1,1,2,7:47 PM,7:55,Maxey 3PT Jump Shot (12 PTS) (Melton 5 AST),,,28 - 30,2,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200122,250,6,2,2,7:47 PM,7:48,Maxey S.FOUL (P2.T2) (J.Van Duyne),,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200122,253,8,0,2,7:48 PM,7:48,SUB: Tucker FOR Thybulle,,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200122,252,3,11,2,7:48 PM,7:48,,,Brunson Free Throw 1 of 2 (6 PTS),29 - 30,1,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,255,3,12,2,7:48 PM,7:48,,,Brunson Free Throw 2 of 2 (7 PTS),30 - 30,TIE,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,256,2,75,2,7:48 PM,7:32,MISS Maxey 1' Driving Finger Roll Layup,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,258,4,0,2,7:48 PM,7:32,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200122,260,1,1,2,7:49 PM,7:29,Melton 20' Jump Shot (3 PTS) (Maxey 2 AST),,,30 - 32,2,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200122,262,2,57,2,7:49 PM,7:17,Melton BLOCK (1 BLK),,MISS Brunson 9' Driving Hook Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,1
+0022200122,264,4,0,2,7:49 PM,7:14,,,Brunson REBOUND (Off:1 Def:1),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,265,1,1,2,7:49 PM,7:12,,,Barrett 3PT Jump Shot (8 PTS) (Brunson 1 AST),33 - 32,-1,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200122,267,2,6,2,7:49 PM,7:02,MISS Melton 5' Driving Layup,,Fournier BLOCK (1 BLK),,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,1
+0022200122,269,4,0,2,7:49 PM,7:02,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200122,271,8,0,2,7:49 PM,7:02,,,SUB: Randle FOR Fournier,,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200122,273,7,1,2,7:50 PM,7:02,,,Knicks Violation: Delay of game Violation,,,3,1610612752,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200122,274,1,80,2,7:50 PM,6:59,Melton 28' 3PT Step Back Jump Shot (6 PTS) (Maxey 3 AST),,,33 - 35,2,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200122,276,1,101,2,7:50 PM,6:43,,,Brunson 3' Driving Floating Jump Shot (9 PTS) (Robinson 1 AST),35 - 35,TIE,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200122,278,1,78,2,7:50 PM,6:31,Tucker 12' Floating Jump Shot (2 PTS) (Maxey 4 AST),,,35 - 37,2,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200122,280,1,101,2,7:50 PM,6:17,,,Barrett 7' Driving Floating Jump Shot (10 PTS) (Brunson 2 AST),37 - 37,TIE,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200122,282,2,1,2,7:51 PM,6:03,MISS Maxey 26' 3PT Jump Shot,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,283,4,0,2,7:51 PM,6:02,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200122,284,6,3,2,7:51 PM,6:02,,,Robinson L.B.FOUL (P2.T2) (C.Flores),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200122,286,9,1,2,7:51 PM,6:02,76ERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200122,289,1,79,2,7:54 PM,5:53,Harris 8' Pullup Jump Shot (9 PTS),,,37 - 39,2,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,290,1,1,2,7:54 PM,5:24,,,Reddish 26' 3PT Jump Shot (3 PTS) (Randle 2 AST),40 - 39,-1,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200122,292,6,2,2,7:55 PM,5:15,,,Reddish S.FOUL (P1.T3) (J.Goble),,,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200122,294,3,11,2,7:55 PM,5:15,Maxey Free Throw 1 of 2 (13 PTS),,,40 - 40,TIE,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,295,3,12,2,7:55 PM,5:15,Maxey Free Throw 2 of 2 (14 PTS),,,40 - 41,1,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,296,6,2,2,7:56 PM,5:06,Tucker S.FOUL (P2.T3) (J.Van Duyne),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200122,298,3,11,2,7:56 PM,5:06,,,Reddish Free Throw 1 of 2 (4 PTS),41 - 41,TIE,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,299,3,12,2,7:56 PM,5:06,,,Reddish Free Throw 2 of 2 (5 PTS),42 - 41,-1,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,300,1,101,2,7:56 PM,4:54,Maxey 6' Driving Floating Jump Shot (16 PTS) (Harrell 1 AST),,,42 - 43,1,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200122,302,2,1,2,7:57 PM,4:42,,,MISS Barrett 25' 3PT Jump Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,303,4,0,2,7:57 PM,4:38,Harrell REBOUND (Off:0 Def:4),,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,304,2,79,2,7:57 PM,4:31,MISS Maxey 12' Pullup Jump Shot,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,305,4,0,2,7:57 PM,4:28,,,Robinson REBOUND (Off:1 Def:1),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,306,1,41,2,7:57 PM,4:24,,,Randle 2' Running Layup (8 PTS) (Brunson 3 AST),44 - 43,-1,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200122,308,2,1,2,7:57 PM,4:11,MISS Maxey 28' 3PT Jump Shot,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,309,4,0,2,7:57 PM,4:08,,,Barrett REBOUND (Off:0 Def:6),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,310,1,76,2,7:57 PM,4:02,,,Barrett 1' Running Finger Roll Layup (12 PTS),46 - 43,-3,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,311,2,1,2,7:58 PM,3:36,MISS Tucker 25' 3PT Jump Shot,,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,312,4,0,2,7:58 PM,3:35,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200122,314,8,0,2,7:58 PM,3:35,SUB: Thybulle FOR Tucker,,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200122,316,2,101,2,7:58 PM,3:28,MISS Melton 8' Driving Floating Jump Shot,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,317,4,0,2,7:58 PM,3:25,Melton REBOUND (Off:3 Def:0),,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,318,6,2,2,7:58 PM,3:25,,,Robinson S.FOUL (P3.T4) (C.Flores),,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200122,346,8,0,2,7:59 PM,3:25,,,SUB: Hartenstein FOR Robinson,,,5,1629011,Mitchell Robinson,1610612752.0,New York,Knicks,NYK,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200122,320,3,11,2,7:59 PM,3:25,Harrell Free Throw 1 of 2 (5 PTS),,,46 - 44,-2,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,328,3,12,2,7:59 PM,3:25,MISS Harrell Free Throw 2 of 2,,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,329,4,0,2,7:59 PM,3:25,,,Hartenstein REBOUND (Off:2 Def:5),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,323,5,2,2,8:00 PM,3:11,Melton STEAL (1 STL),,Randle Lost Ball Turnover (P5.T14),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200122,325,1,6,2,8:00 PM,3:05,Harrell 4' Driving Layup (7 PTS) (Melton 6 AST),,,46 - 46,TIE,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200122,327,6,11,2,8:00 PM,3:05,,,Randle T.FOUL (P1.T4) (J.Van Duyne),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022200122,330,3,16,2,8:01 PM,3:05,Maxey Free Throw Technical (17 PTS),,,46 - 47,1,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,331,6,2,2,8:01 PM,3:05,,,Hartenstein S.FOUL (P1.PN) (J.Goble),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200122,333,3,10,2,8:01 PM,3:05,Harrell Free Throw 1 of 1 (8 PTS),,,46 - 48,2,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,334,1,1,2,8:01 PM,2:52,,,Randle 27' 3PT Jump Shot (11 PTS) (Barrett 1 AST),49 - 48,-1,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200122,336,5,45,2,8:02 PM,2:34,Melton Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200122,337,9,1,2,8:02 PM,2:34,,,Knicks Timeout: Regular (Reg.2 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200122,340,8,0,2,8:05 PM,2:34,SUB: Niang FOR Melton,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200122,342,1,6,2,8:05 PM,2:15,,,Brunson 2' Driving Layup (11 PTS),51 - 48,-3,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,343,6,4,2,8:05 PM,1:57,Harris OFF.Foul (P1) (J.Goble),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200122,345,5,37,2,8:05 PM,1:57,Harris Offensive Foul Turnover (P2.T7),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200122,348,1,75,2,8:06 PM,1:39,,,Brunson 2' Driving Finger Roll Layup (13 PTS) (Reddish 2 AST),53 - 48,-5,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200122,350,2,101,2,8:06 PM,1:25,MISS Maxey 7' Driving Floating Jump Shot,,Reddish BLOCK (1 BLK),,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,1
+0022200122,352,4,0,2,8:06 PM,1:22,,,Brunson REBOUND (Off:1 Def:2),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,353,6,2,2,8:06 PM,1:22,Harris S.FOUL (P2.T4) (J.Goble),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200122,355,3,11,2,8:07 PM,1:22,,,Barrett Free Throw 1 of 2 (13 PTS),54 - 48,-6,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,358,3,12,2,8:07 PM,1:22,,,MISS Barrett Free Throw 2 of 2,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,356,8,0,2,8:07 PM,1:22,SUB: Milton FOR Thybulle,,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200122,359,4,0,2,8:07 PM,1:17,Niang REBOUND (Off:0 Def:1),,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,360,5,1,2,8:07 PM,1:07,Niang Bad Pass Turnover (P1.T8),,Reddish STEAL (1 STL),,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200122,362,1,50,2,8:07 PM,1:03,,,Reddish 2' Running Dunk (7 PTS),56 - 48,-8,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,363,1,1,2,8:08 PM,0:47,Harris 25' 3PT Jump Shot (12 PTS) (Milton 1 AST),,,56 - 51,-5,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200122,365,2,1,2,8:08 PM,0:30,,,MISS Brunson 3PT Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,366,4,0,2,8:08 PM,0:28,,,Randle REBOUND (Off:2 Def:1),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,367,1,97,2,8:08 PM,0:28,,,Randle Tip Layup Shot (13 PTS),58 - 51,-7,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,368,6,1,2,8:09 PM,0:07,,,Brunson P.FOUL (P1.PN) (J.Van Duyne),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200122,381,3,11,2,8:09 PM,0:07,Harrell Free Throw 1 of 2 (9 PTS),,,58 - 52,-6,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,382,3,12,2,8:09 PM,0:07,Harrell Free Throw 2 of 2 (10 PTS),,,58 - 53,-5,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,371,8,0,2,8:09 PM,0:07,SUB: Reed FOR Maxey,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200122,372,8,0,2,8:09 PM,0:07,SUB: Thybulle FOR Harris,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200122,379,2,103,2,12:09 AM,0:02,,,MISS Barrett 27' 3PT Running Pull-Up Jump Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,380,4,0,2,12:09 AM,0:02,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200122,378,13,0,2,8:10 PM,0:00,,End of 2nd Period (8:10 PM EST),,58 - 53,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200122,393,12,0,3,8:25 PM,12:00,,Start of 3rd Period (8:25 PM EST),,58 - 53,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200122,394,2,75,3,8:26 PM,11:37,MISS Melton 3' Driving Finger Roll Layup,,Hartenstein BLOCK (2 BLK),,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,1
+0022200122,396,4,0,3,8:26 PM,11:34,,,Randle REBOUND (Off:2 Def:2),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,397,1,50,3,8:26 PM,11:32,,,Barrett 1' Running Dunk (15 PTS) (Brunson 4 AST),60 - 53,-7,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200122,399,1,1,3,8:26 PM,11:14,Harris 3PT Jump Shot (15 PTS) (Melton 7 AST),,,60 - 56,-4,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200122,401,2,1,3,8:27 PM,10:50,,,MISS Hartenstein 26' 3PT Jump Shot,,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,402,4,0,3,8:27 PM,10:46,Harris REBOUND (Off:2 Def:4),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,403,2,1,3,8:27 PM,10:28,MISS Harris 27' 3PT Jump Shot,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,404,4,0,3,8:27 PM,10:26,,,Brunson REBOUND (Off:1 Def:3),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,405,5,1,3,8:27 PM,10:19,Melton STEAL (2 STL),,Randle Bad Pass Turnover (P6.T15),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200122,407,2,76,3,8:27 PM,10:16,MISS Melton 1' Running Finger Roll Layup,,Randle BLOCK (1 BLK),,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1
+0022200122,409,4,0,3,8:27 PM,10:16,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200122,411,2,43,3,8:27 PM,10:14,MISS Harris 5' Alley Oop Layup,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0022200122,412,4,0,3,8:28 PM,10:11,,,Hartenstein REBOUND (Off:2 Def:6),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0022200122,413,1,41,3,8:28 PM,10:07,,,Brunson 4' Running Layup (15 PTS) (Randle 3 AST),62 - 56,-6,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200122,415,2,1,3,8:28 PM,9:44,MISS Melton 27' 3PT Jump Shot,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,416,4,0,3,8:28 PM,9:42,,,Brunson REBOUND (Off:1 Def:4),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,417,2,78,3,8:28 PM,9:36,,,MISS Hartenstein 12' Floating Jump Shot,,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,418,4,0,3,8:28 PM,9:35,,,Hartenstein REBOUND (Off:3 Def:6),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,419,6,1,3,8:28 PM,9:35,Harrell P.FOUL (P1.T1) (J.Goble),,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200122,421,1,6,3,8:29 PM,9:26,,,Hartenstein 1' Driving Layup (6 PTS) (Brunson 5 AST),64 - 56,-8,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200122,423,1,1,3,8:29 PM,9:14,Melton 27' 3PT Jump Shot (9 PTS) (Maxey 5 AST),,,64 - 59,-5,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200122,425,1,101,3,8:29 PM,9:03,,,Barrett 2' Driving Floating Jump Shot (17 PTS),66 - 59,-7,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,426,2,1,3,8:29 PM,8:43,MISS Maxey 26' 3PT Jump Shot,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,427,4,0,3,8:29 PM,8:41,Maxey REBOUND (Off:1 Def:1),,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,428,1,9,3,8:30 PM,8:28,Maxey 1' Driving Dunk (19 PTS) (Melton 8 AST),,,66 - 61,-5,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200122,430,2,79,3,8:30 PM,8:03,,,MISS Randle 16' Pullup Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,431,4,0,3,8:30 PM,8:00,Harrell REBOUND (Off:0 Def:5),,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,432,1,79,3,8:30 PM,7:53,Maxey 28' 3PT Pullup Jump Shot (22 PTS),,,66 - 64,-2,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,433,9,1,3,8:30 PM,7:52,,,Knicks Timeout: Regular (Reg.3 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200122,434,2,79,3,8:33 PM,7:30,,,MISS Brunson 16' Pullup Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,435,4,0,3,8:34 PM,7:25,,,Hartenstein REBOUND (Off:4 Def:6),,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,436,2,97,3,8:34 PM,7:25,,,MISS Hartenstein Tip Layup Shot,,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,437,4,0,3,8:34 PM,7:24,Harrell REBOUND (Off:0 Def:6),,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,438,1,80,3,8:34 PM,7:18,Maxey 19' Step Back Jump Shot (24 PTS),,,66 - 66,TIE,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,439,2,6,3,8:34 PM,7:04,Harris BLOCK (1 BLK),,MISS Barrett 9' Driving Layup,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,1
+0022200122,441,4,0,3,8:34 PM,7:04,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200122,443,2,79,3,8:34 PM,6:59,,,MISS Brunson 27' 3PT Pullup Jump Shot,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,444,4,0,3,8:34 PM,6:56,Harris REBOUND (Off:2 Def:5),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,445,2,2,3,8:34 PM,6:53,MISS Melton 29' 3PT Running Jump Shot,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,446,4,0,3,8:34 PM,6:49,Tucker REBOUND (Off:1 Def:2),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,447,1,80,3,8:35 PM,6:42,Maxey 27' 3PT Step Back Jump Shot (27 PTS),,,66 - 69,3,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,448,1,57,3,8:35 PM,6:16,,,Barrett 7' Driving Hook Shot (19 PTS),68 - 69,1,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,449,2,79,3,8:35 PM,5:58,MISS Maxey 28' 3PT Pullup Jump Shot,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,450,4,0,3,8:35 PM,5:55,,,Barrett REBOUND (Off:0 Def:7),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,451,1,108,3,8:35 PM,5:47,,,Hartenstein 1' Cutting Dunk Shot (8 PTS) (Barrett 2 AST),70 - 69,-1,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200122,453,2,1,3,8:36 PM,5:27,MISS Harris 25' 3PT Jump Shot,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,454,4,0,3,8:36 PM,5:24,,,Brunson REBOUND (Off:1 Def:5),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,455,2,1,3,8:36 PM,5:14,,,MISS Barrett 27' 3PT Jump Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,456,4,0,3,8:36 PM,5:10,Maxey REBOUND (Off:1 Def:2),,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,457,9,1,3,8:36 PM,5:03,76ERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200122,458,8,0,3,8:39 PM,5:03,,,SUB: Quickley FOR Brunson,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200122,460,2,1,3,8:39 PM,4:57,MISS Melton 27' 3PT Jump Shot,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,461,4,0,3,8:39 PM,4:51,Tucker REBOUND (Off:2 Def:2),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,462,2,72,3,8:39 PM,4:51,MISS Tucker Putback Layup,,Hartenstein BLOCK (3 BLK),,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,1
+0022200122,464,4,0,3,8:39 PM,4:48,,,Grimes REBOUND (Off:0 Def:1),,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,465,2,1,3,8:39 PM,4:45,,,MISS Randle 24' 3PT Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,466,4,0,3,8:40 PM,4:41,Harris REBOUND (Off:2 Def:6),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,467,2,1,3,8:40 PM,4:27,MISS Tucker 25' 3PT Jump Shot,,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,468,4,0,3,8:40 PM,4:24,,,Barrett REBOUND (Off:0 Def:8),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,469,2,41,3,8:40 PM,4:21,Melton BLOCK (2 BLK),,MISS Barrett 3' Running Layup,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,1
+0022200122,471,4,0,3,8:40 PM,4:18,Melton REBOUND (Off:3 Def:1),,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,472,1,41,3,8:40 PM,4:16,Harrell 1' Running Layup (12 PTS) (Melton 9 AST),,,70 - 71,1,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200122,474,6,2,3,8:40 PM,4:16,,,Quickley S.FOUL (P1.T1) (C.Flores),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200122,476,8,0,3,8:40 PM,4:16,SUB: Milton FOR Melton,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200122,478,3,10,3,8:41 PM,4:16,Harrell Free Throw 1 of 1 (13 PTS),,,70 - 72,2,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,479,2,1,3,8:41 PM,3:53,,,MISS Randle 26' 3PT Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,480,4,0,3,8:41 PM,3:50,Milton REBOUND (Off:1 Def:1),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,481,5,1,3,8:41 PM,3:36,Maxey Bad Pass Turnover (P3.T9),,Hartenstein STEAL (1 STL),,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200122,483,6,2,3,8:42 PM,3:30,Milton S.FOUL (P3.T2) (C.Flores),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200122,485,3,11,3,8:42 PM,3:30,,,Grimes Free Throw 1 of 2 (1 PTS),71 - 72,1,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,486,8,0,3,8:42 PM,3:30,SUB: Niang FOR Harrell,,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200122,487,8,0,3,8:42 PM,3:30,SUB: Reed FOR Tucker,,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200122,488,8,0,3,8:42 PM,3:30,,,SUB: Sims FOR Hartenstein,,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200122,492,3,12,3,8:42 PM,3:30,,,Grimes Free Throw 2 of 2 (2 PTS),72 - 72,TIE,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,493,1,6,3,8:43 PM,3:16,Harris 2' Driving Layup (17 PTS),,,72 - 74,2,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,494,2,1,3,8:43 PM,2:53,,,MISS Randle 6' Jump Shot,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,495,4,0,3,8:43 PM,2:52,,,Randle REBOUND (Off:3 Def:2),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,496,6,1,3,8:43 PM,2:52,Reed P.FOUL (P1.T3) (J.Goble),,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200122,498,8,0,3,8:43 PM,2:52,,,SUB: Toppin FOR Randle,,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200122,500,5,1,3,8:44 PM,2:43,Reed STEAL (4 STL),,Quickley Bad Pass Turnover (P3.T16),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200122,502,1,79,3,8:44 PM,2:27,Harris 6' Pullup Jump Shot (19 PTS),,,72 - 76,4,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,503,2,1,3,8:44 PM,1:58,Harris BLOCK (2 BLK),,MISS Barrett 27' 3PT Jump Shot,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,1
+0022200122,505,4,0,3,8:44 PM,1:58,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200122,506,5,11,3,8:44 PM,1:58,,,Knicks Turnover: Shot Clock (T#17),,,3,1610612752,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200122,507,8,0,3,8:45 PM,1:58,,,SUB: Fournier FOR Grimes,,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200122,509,1,1,3,8:45 PM,1:43,Niang 24' 3PT Jump Shot (3 PTS) (Harris 3 AST),,,72 - 79,7,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200122,511,2,1,3,8:45 PM,1:22,,,MISS Quickley 26' 3PT Jump Shot,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,512,4,0,3,8:45 PM,1:20,Niang REBOUND (Off:0 Def:2),,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,513,2,75,3,8:46 PM,1:03,MISS Maxey 3' Driving Finger Roll Layup,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,514,4,0,3,8:46 PM,1:00,,,Quickley REBOUND (Off:0 Def:5),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,515,6,2,3,8:46 PM,0:57,Niang S.FOUL (P2.T4) (C.Flores),,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200122,517,3,11,3,8:46 PM,0:57,,,Barrett Free Throw 1 of 2 (20 PTS),73 - 79,6,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,518,8,0,3,8:46 PM,0:57,SUB: Thybulle FOR Harris,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200122,520,3,12,3,8:47 PM,0:57,,,Barrett Free Throw 2 of 2 (21 PTS),74 - 79,5,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,521,1,6,3,8:47 PM,0:48,Milton 3' Driving Layup (4 PTS),,,74 - 81,7,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,522,5,1,3,8:47 PM,0:39,Reed STEAL (5 STL),,Quickley Bad Pass Turnover (P4.T18),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200122,524,1,76,3,8:47 PM,0:35,Milton 1' Running Finger Roll Layup (6 PTS) (Maxey 6 AST),,,74 - 83,9,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200122,526,2,1,3,8:47 PM,0:10,,,MISS Quickley 26' 3PT Jump Shot,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,527,4,0,3,8:48 PM,0:07,Thybulle REBOUND (Off:0 Def:2),,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,528,2,103,3,8:48 PM,0:02,MISS Maxey 27' 3PT Running Pull-Up Jump Shot,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,529,4,0,3,8:48 PM,0:02,,,Barrett REBOUND (Off:0 Def:9),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,530,13,0,3,8:48 PM,0:00,,End of 3rd Period (8:48 PM EST),,74 - 83,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200122,535,12,0,4,8:50 PM,12:00,,Start of 4th Period (8:50 PM EST),,74 - 83,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200122,536,2,1,4,8:51 PM,11:43,,,MISS Toppin 27' 3PT Jump Shot,,,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,537,4,0,4,8:51 PM,11:38,,,Sims REBOUND (Off:1 Def:0),,,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,538,2,1,4,8:51 PM,11:35,,,MISS Toppin 26' 3PT Jump Shot,,,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,539,4,0,4,8:51 PM,11:32,Milton REBOUND (Off:1 Def:2),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,540,6,1,4,8:51 PM,11:23,,,Quickley P.FOUL (P2.T1) (J.Goble),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200122,542,6,4,4,8:51 PM,11:23,Milton OFF.Foul (P4) (J.Goble),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200122,544,5,37,4,8:51 PM,11:23,Milton Offensive Foul Turnover (P1.T10),,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200122,545,2,101,4,8:52 PM,11:07,,,MISS Quickley 10' Driving Floating Jump Shot,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,546,4,0,4,8:52 PM,11:05,Reed REBOUND (Off:0 Def:3),,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,547,2,2,4,8:52 PM,11:02,MISS Korkmaz 28' 3PT Running Jump Shot,,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,548,4,0,4,8:52 PM,10:58,,,Toppin REBOUND (Off:0 Def:2),,,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,549,5,1,4,8:52 PM,10:48,Reed STEAL (6 STL),,Toppin Bad Pass Turnover (P1.T19),,,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200122,551,1,1,4,8:52 PM,10:38,Korkmaz 27' 3PT Jump Shot (3 PTS) (Niang 1 AST),,,74 - 86,12,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200122,553,9,1,4,8:52 PM,10:36,,,Knicks Timeout: Regular (Reg.4 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200122,554,8,0,4,8:55 PM,10:36,,,SUB: Randle FOR Sims,,,5,1630579,Jericho Sims,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200122,556,6,1,4,8:55 PM,10:24,Thybulle P.FOUL (P1.T1) (J.Van Duyne),,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200122,558,1,1,4,8:56 PM,10:15,,,Toppin 26' 3PT Jump Shot (7 PTS) (Brunson 6 AST),77 - 86,9,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200122,560,2,1,4,8:56 PM,9:59,MISS Niang 25' 3PT Jump Shot,,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,561,4,0,4,8:56 PM,9:55,,,Randle REBOUND (Off:3 Def:3),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,562,6,1,4,8:56 PM,9:47,Thybulle P.FOUL (P2.T2) (J.Goble),,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200122,564,1,52,4,8:57 PM,9:37,,,Toppin 1' Alley Oop Dunk (9 PTS) (Fournier 2 AST),79 - 86,7,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200122,566,2,79,4,8:57 PM,9:20,MISS Milton 9' Pullup Jump Shot,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,567,4,0,4,8:57 PM,9:18,,,Quickley REBOUND (Off:0 Def:6),,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,568,2,79,4,8:57 PM,9:06,,,MISS Quickley 21' Pullup Jump Shot,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,569,4,0,4,8:58 PM,9:02,Niang REBOUND (Off:0 Def:3),,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,570,6,1,4,8:58 PM,8:59,,,Brunson P.FOUL (P2.T2) (C.Flores),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200122,572,8,0,4,8:58 PM,8:59,SUB: Melton FOR Thybulle,,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200122,574,1,6,4,8:58 PM,8:51,Reed 3' Driving Layup (2 PTS) (Milton 2 AST),,,79 - 88,9,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200122,576,1,6,4,8:58 PM,8:31,,,Fournier 2' Driving Layup (2 PTS),81 - 88,7,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,577,2,1,4,8:59 PM,8:21,MISS Niang 25' 3PT Jump Shot,,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,578,4,0,4,8:59 PM,8:18,,,Fournier REBOUND (Off:0 Def:2),,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,579,2,1,4,8:59 PM,8:04,,,MISS Toppin 28' 3PT Jump Shot,,,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,580,4,0,4,8:59 PM,8:02,Korkmaz REBOUND (Off:0 Def:1),,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,581,9,1,4,8:59 PM,8:02,76ERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200122,582,8,0,4,9:01 PM,8:02,SUB: Maxey FOR Milton,,,,,4,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200122,583,8,0,4,9:01 PM,8:02,SUB: Harris FOR Niang,,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200122,586,5,1,4,9:02 PM,7:55,Melton Bad Pass Turnover (P2.T11),,Quickley STEAL (2 STL),,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200122,588,5,20,4,9:02 PM,7:51,,,Toppin Illegal Assist Turnover (P2.T20),,,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022200122,589,2,79,4,9:03 PM,7:28,MISS Melton 29' 3PT Pullup Jump Shot,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,590,4,0,4,9:03 PM,7:25,Korkmaz REBOUND (Off:1 Def:1),,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,591,5,4,4,9:03 PM,7:24,Korkmaz Traveling Turnover (P2.T12),,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200122,592,2,57,4,9:03 PM,7:05,Reed BLOCK (2 BLK),,MISS Fournier 12' Driving Hook Shot,,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,1
+0022200122,594,4,0,4,9:03 PM,7:02,Harris REBOUND (Off:2 Def:7),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,595,1,2,4,9:03 PM,6:57,Melton 24' 3PT Running Jump Shot (12 PTS) (Maxey 7 AST),,,81 - 91,10,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200122,597,9,1,4,9:04 PM,6:42,,,Knicks Timeout: Regular (Reg.5 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200122,598,8,0,4,9:05 PM,6:42,,,SUB: Reddish FOR Quickley,,,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200122,599,8,0,4,9:05 PM,6:42,,,SUB: Barrett FOR Fournier,,,5,203095,Evan Fournier,1610612752.0,New York,Knicks,NYK,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200122,602,5,4,4,9:05 PM,6:35,,,Toppin Traveling Turnover (P3.T21),,,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022200122,603,2,80,4,9:06 PM,6:24,MISS Harris 28' 3PT Step Back Jump Shot,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,604,4,0,4,9:06 PM,6:23,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200122,605,6,3,4,9:06 PM,6:23,Reed L.B.FOUL (P2.T3) (J.Van Duyne),,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200122,607,2,102,4,9:06 PM,6:07,,,MISS Toppin 5' Driving Floating Bank Jump Shot,,,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,608,4,0,4,9:06 PM,6:05,Reed REBOUND (Off:0 Def:4),,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,609,5,1,4,9:06 PM,6:01,Melton Bad Pass Turnover (P3.T13),,Barrett STEAL (1 STL),,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200122,611,1,50,4,9:06 PM,5:58,,,Toppin Running Dunk (11 PTS) (Reddish 3 AST),83 - 91,8,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200122,613,2,6,4,9:07 PM,5:35,MISS Korkmaz 7' Driving Layup,,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,614,4,0,4,9:07 PM,5:34,,,Toppin REBOUND (Off:0 Def:3),,,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,615,6,2,4,9:07 PM,5:30,Reed S.FOUL (P3.T4) (J.Van Duyne),,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200122,617,3,11,4,9:07 PM,5:30,,,Brunson Free Throw 1 of 2 (16 PTS),84 - 91,7,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,618,8,0,4,9:07 PM,5:30,SUB: Niang FOR Korkmaz,,,,,4,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200122,619,8,0,4,9:07 PM,5:30,SUB: Tucker FOR Reed,,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200122,622,3,12,4,9:08 PM,5:30,,,Brunson Free Throw 2 of 2 (17 PTS),85 - 91,6,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,623,5,4,4,9:08 PM,5:10,Tucker Traveling Turnover (P1.T14),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200122,624,1,75,4,9:09 PM,4:57,,,Reddish 1' Driving Finger Roll Layup (9 PTS),87 - 91,4,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,625,2,75,4,9:09 PM,4:44,MISS Maxey 4' Driving Finger Roll Layup,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,626,4,0,4,9:09 PM,4:42,,,Randle REBOUND (Off:3 Def:4),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,627,5,4,4,9:09 PM,4:39,,,Barrett Traveling Turnover (P2.T22),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,1
+0022200122,628,9,1,4,9:09 PM,4:39,76ERS Timeout: Regular (Full 5 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200122,629,8,0,4,9:10 PM,4:39,SUB: Harrell FOR Niang,,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200122,631,2,101,4,9:11 PM,4:24,MISS Maxey 4' Driving Floating Jump Shot,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,632,4,0,4,9:11 PM,4:24,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200122,633,6,3,4,9:11 PM,4:24,,,Toppin L.B.FOUL (P1.T3) (J.Goble),,,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200122,635,2,75,4,9:11 PM,4:14,MISS Maxey 2' Driving Finger Roll Layup,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,636,4,0,4,9:11 PM,4:11,Melton REBOUND (Off:4 Def:1),,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,637,2,79,4,9:11 PM,4:09,MISS Melton 27' 3PT Pullup Jump Shot,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,638,4,0,4,9:11 PM,4:06,,,Randle REBOUND (Off:3 Def:5),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,639,2,6,4,9:12 PM,3:54,,,MISS Brunson 6' Driving Layup,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,640,4,0,4,9:12 PM,3:52,Tucker REBOUND (Off:2 Def:3),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,641,1,74,4,9:12 PM,3:47,Maxey 3' Running Reverse Layup (29 PTS) (Harris 4 AST),,,87 - 93,6,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200122,643,1,1,4,9:12 PM,3:29,,,Toppin 3PT Jump Shot (14 PTS) (Brunson 7 AST),90 - 93,3,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200122,645,2,80,4,9:12 PM,3:03,MISS Maxey 29' 3PT Step Back Jump Shot,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,646,4,0,4,9:12 PM,3:02,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200122,647,6,3,4,9:12 PM,3:02,,,Reddish L.B.FOUL (P2.T4) (J.Van Duyne),,,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200122,649,2,1,4,9:13 PM,2:56,MISS Melton 27' 3PT Jump Shot,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,650,4,0,4,9:13 PM,2:53,,,Randle REBOUND (Off:3 Def:6),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,651,1,6,4,9:13 PM,2:44,,,Reddish 4' Driving Layup (11 PTS) (Randle 4 AST),92 - 93,1,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200122,653,2,79,4,9:13 PM,2:22,MISS Maxey 22' Pullup Jump Shot,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,654,4,0,4,9:13 PM,2:20,Harrell REBOUND (Off:1 Def:6),,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,655,1,86,4,9:14 PM,2:11,Harris 14' Turnaround Fadeaway (21 PTS),,,92 - 95,3,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,656,1,75,4,9:14 PM,1:59,,,Brunson 3' Driving Finger Roll Layup (19 PTS),94 - 95,1,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,657,6,1,4,9:14 PM,1:45,,,Brunson P.FOUL (P3.PN) (J.Van Duyne),,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200122,659,3,11,4,9:15 PM,1:45,Harrell Free Throw 1 of 2 (14 PTS),,,94 - 96,2,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,662,3,12,4,9:15 PM,1:45,MISS Harrell Free Throw 2 of 2,,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,660,8,0,4,9:15 PM,1:45,SUB: Reed FOR Tucker,,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200122,663,4,0,4,9:15 PM,1:43,,,Randle REBOUND (Off:3 Def:7),,,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,664,1,1,4,9:16 PM,1:27,,,Toppin 26' 3PT Jump Shot (17 PTS) (Randle 5 AST),97 - 96,-1,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1
+0022200122,666,5,45,4,9:16 PM,1:16,Maxey Out of Bounds - Bad Pass Turnover Turnover (P4.T15),,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200122,667,1,75,4,9:16 PM,1:05,,,Brunson 3' Driving Finger Roll Layup (21 PTS),99 - 96,-3,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,668,6,2,4,9:16 PM,1:05,Reed S.FOUL (P4.PN) (J.Van Duyne),,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200122,670,3,10,4,9:17 PM,1:05,,,Brunson Free Throw 1 of 1 (22 PTS),100 - 96,-4,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,671,9,1,4,9:17 PM,1:05,76ERS Timeout: Regular (Full 6 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200122,672,8,0,4,9:18 PM,1:05,SUB: Niang FOR Harrell,,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200122,674,6,2,4,9:19 PM,0:51,,,Reddish S.FOUL (P3.PN) (J.Van Duyne),,,5,1629629,Cam Reddish,1610612752.0,New York,Knicks,NYK,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200122,676,3,11,4,9:19 PM,0:51,Harris Free Throw 1 of 2 (22 PTS),,,100 - 97,-3,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,677,8,0,4,9:19 PM,0:51,SUB: Thybulle FOR Niang,,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200122,679,3,12,4,9:19 PM,0:51,Harris Free Throw 2 of 2 (23 PTS),,,100 - 98,-2,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,680,9,1,4,9:20 PM,0:51,,,Knicks Timeout: Regular (Reg.6 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200122,681,6,2,4,9:21 PM,0:32,Thybulle S.FOUL (P3.PN) (J.Goble),,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200122,683,3,11,4,9:22 PM,0:32,,,MISS Barrett Free Throw 1 of 2,,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0022200122,684,4,1,4,9:22 PM,0:32,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200122,685,8,0,4,9:22 PM,0:32,,,SUB: Grimes FOR Brunson,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200122,687,3,12,4,9:22 PM,0:32,,,Barrett Free Throw 2 of 2 (22 PTS),101 - 98,-3,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,688,9,1,4,9:22 PM,0:32,76ERS Timeout: Regular (Full 7 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200122,689,8,0,4,9:23 PM,0:32,SUB: Niang FOR Thybulle,,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200122,691,8,0,4,9:23 PM,0:32,SUB: Tucker FOR Reed,,,,,4,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200122,693,6,1,4,9:24 PM,0:28,,,Barrett P.FOUL (P2.PN) (C.Flores),,,5,1629628,RJ Barrett,1610612752.0,New York,Knicks,NYK,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200122,695,3,11,4,9:24 PM,0:28,Tucker Free Throw 1 of 2 (3 PTS),,,101 - 99,-2,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,700,3,12,4,9:24 PM,0:28,MISS Tucker Free Throw 2 of 2,,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,696,8,0,4,9:24 PM,0:28,SUB: Thybulle FOR Niang,,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200122,697,8,0,4,9:24 PM,0:28,,,SUB: Brunson FOR Grimes,,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200122,701,4,0,4,9:24 PM,0:27,Thybulle REBOUND (Off:1 Def:2),,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,702,2,1,4,9:25 PM,0:25,MISS Maxey 30' 3PT Jump Shot,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,703,4,0,4,9:25 PM,0:24,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200122,704,6,3,4,9:25 PM,0:24,Tucker L.B.FOUL (P3.PN) (J.Van Duyne),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200122,706,3,11,4,9:26 PM,0:24,,,Randle Free Throw 1 of 2 (14 PTS),102 - 99,-3,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,707,8,0,4,9:26 PM,0:24,SUB: Niang FOR Thybulle,,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200122,708,8,0,4,9:26 PM,0:24,,,SUB: Grimes FOR Brunson,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200122,711,3,12,4,9:26 PM,0:24,,,Randle Free Throw 2 of 2 (15 PTS),103 - 99,-4,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,712,6,2,4,9:26 PM,0:19,,,Toppin S.FOUL (P2.PN) (J.Van Duyne),,,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200122,714,3,11,4,9:27 PM,0:19,Maxey Free Throw 1 of 2 (30 PTS),,,103 - 100,-3,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,715,8,0,4,9:27 PM,0:19,SUB: Thybulle FOR Niang,,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200122,716,8,0,4,9:27 PM,0:19,,,SUB: Brunson FOR Toppin,,,5,1630167,Obi Toppin,1610612752.0,New York,Knicks,NYK,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200122,717,8,0,4,9:27 PM,0:19,,,SUB: Hartenstein FOR Grimes,,,5,1629656,Quentin Grimes,1610612752.0,New York,Knicks,NYK,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200122,721,3,12,4,9:27 PM,0:19,Maxey Free Throw 2 of 2 (31 PTS),,,103 - 101,-2,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,722,9,1,4,9:27 PM,0:19,,,Knicks Timeout: Regular (Reg.7 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200122,723,8,0,4,9:28 PM,0:19,,,SUB: Quickley FOR Hartenstein,,,5,1628392,Isaiah Hartenstein,1610612752.0,New York,Knicks,NYK,5,1630193,Immanuel Quickley,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0022200122,725,6,28,4,9:29 PM,0:18,Thybulle Personal Take Foul (P4.PN) (J.Goble),,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200122,727,3,11,4,9:29 PM,0:18,,,Randle Free Throw 1 of 2 (16 PTS),104 - 101,-3,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,728,8,0,4,9:29 PM,0:18,SUB: Niang FOR Thybulle,,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200122,730,3,12,4,9:30 PM,0:18,,,Randle Free Throw 2 of 2 (17 PTS),105 - 101,-4,5,203944,Julius Randle,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,731,1,1,4,9:30 PM,0:09,Niang 26' 3PT Jump Shot (6 PTS) (Tucker 2 AST),,,105 - 104,-1,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200122,733,6,28,4,9:30 PM,0:07,Maxey Personal Take Foul (P3.PN) (J.Goble),,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,1,0,,,,,,1
+0022200122,735,3,11,4,9:31 PM,0:07,,,MISS Brunson Free Throw 1 of 2,,,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,736,4,1,4,9:31 PM,0:07,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200122,737,3,12,4,9:31 PM,0:07,,,Brunson Free Throw 2 of 2 (23 PTS),106 - 104,-2,5,1628973,Jalen Brunson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,1
+0022200122,738,2,1,4,9:31 PM,0:03,MISS Melton 28' 3PT Jump Shot,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200122,739,4,0,4,9:31 PM,0:01,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200122,741,13,0,4,9:31 PM,0:00,,End of 4th Period (9:31 PM EST),,106 - 104,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

@@ -1,0 +1,27 @@
+# macOS junk
+.DS_Store
+
+# Python / environments
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data files
+*.parquet
+*.joblib
+*.h5
+
+# Model artifacts (large files — store with Git LFS or locally)
+*.pkl
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/

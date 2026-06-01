@@ -1,0 +1,477 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200205,2,12,0,1,10:11 PM,12:00,,Start of 1st Period (10:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200205,4,10,0,1,10:11 PM,12:00,Jump Ball Looney vs. Poeltl: Tip to Bates-Diop,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,5,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,1
+0022200205,7,1,80,1,10:11 PM,11:46,,,Vassell 17' Step Back Jump Shot (2 PTS),2 - 0,-2,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,8,1,1,1,10:12 PM,11:26,Curry 3PT Jump Shot (3 PTS) (D. Green 1 AST),,,2 - 3,1,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,10,6,4,1,10:12 PM,11:17,,,Sochan OFF.Foul (P1) (J.Goble),,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200205,12,5,37,1,10:12 PM,11:17,,,Sochan Offensive Foul Turnover (P1.T1),,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,1
+0022200205,13,2,1,1,10:12 PM,10:58,MISS Curry 29' 3PT Jump Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,14,4,0,1,10:12 PM,10:54,,,Bates-Diop REBOUND (Off:0 Def:1),,,5,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,15,5,45,1,10:12 PM,10:45,,,Johnson Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,1
+0022200205,16,1,75,1,10:13 PM,10:38,Poole 2' Driving Finger Roll Layup (2 PTS) (Looney 1 AST),,,2 - 5,3,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,18,7,2,1,10:13 PM,10:38,,,Sochan Violation:Defensive Goaltending (E.Lewis),,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,1
+0022200205,19,5,2,1,10:13 PM,10:24,Wiggins STEAL (1 STL),,Poeltl Lost Ball Turnover (P1.T3),,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,21,2,98,1,10:13 PM,10:16,MISS Looney 5' Cutting Layup Shot,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,23,4,0,1,10:13 PM,10:14,,,Poeltl REBOUND (Off:0 Def:1),,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,24,1,58,1,10:14 PM,10:02,,,Sochan 6' Turnaround Hook Shot (2 PTS),4 - 5,1,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,25,6,2,1,10:14 PM,9:47,,,Vassell S.FOUL (P1.T1) (J.Goble),,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200205,27,3,11,1,10:14 PM,9:47,Poole Free Throw 1 of 2 (3 PTS),,,4 - 6,2,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,28,3,12,1,10:15 PM,9:47,Poole Free Throw 2 of 2 (4 PTS),,,4 - 7,3,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,29,2,1,1,10:15 PM,9:32,,,MISS Sochan 3PT Jump Shot,,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,30,4,0,1,10:15 PM,9:29,,,Poeltl REBOUND (Off:1 Def:1),,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,31,2,79,1,10:15 PM,9:26,,,MISS Vassell 25' 3PT Pullup Jump Shot,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,32,4,0,1,10:15 PM,9:20,Looney REBOUND (Off:0 Def:1),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,33,1,73,1,10:15 PM,9:15,Poole 1' Driving Reverse Layup (6 PTS),,,4 - 9,5,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,34,2,79,1,10:16 PM,9:06,,,MISS Johnson 25' 3PT Pullup Jump Shot,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,35,4,0,1,10:16 PM,9:01,,,Bates-Diop REBOUND (Off:1 Def:1),,,5,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,36,2,1,1,10:16 PM,8:59,,,MISS Vassell 26' 3PT Jump Shot,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,37,4,0,1,10:16 PM,8:57,Wiggins REBOUND (Off:0 Def:1),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,38,2,1,1,10:16 PM,8:47,MISS Poole 25' 3PT Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,39,4,0,1,10:16 PM,8:43,,,Vassell REBOUND (Off:0 Def:1),,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,40,2,6,1,10:16 PM,8:42,,,MISS Johnson 2' Driving Layup,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,41,4,0,1,10:16 PM,8:41,Curry REBOUND (Off:0 Def:1),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,42,6,2,1,10:16 PM,8:40,,,Sochan S.FOUL (P2.T2) (D.Scott),,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200205,44,3,11,1,10:16 PM,8:40,D. Green Free Throw 1 of 2 (1 PTS),,,4 - 10,6,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,51,3,12,1,10:16 PM,8:40,D. Green Free Throw 2 of 2 (2 PTS),,,4 - 11,7,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,45,9,1,1,10:17 PM,8:40,,,Spurs Timeout: Regular (Reg.1 Short 0),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200205,46,8,0,1,10:20 PM,8:40,,,SUB: Richardson FOR Sochan,,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200205,48,2,1,1,10:20 PM,8:27,,,MISS Johnson 24' 3PT Jump Shot,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,49,4,0,1,10:20 PM,8:27,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200205,52,1,1,1,10:21 PM,8:13,Wiggins 25' 3PT Jump Shot (3 PTS) (D. Green 2 AST),,,4 - 14,10,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,54,1,78,1,10:21 PM,7:58,,,Johnson 7' Floating Jump Shot (2 PTS),6 - 14,8,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,55,2,1,1,10:21 PM,7:38,MISS Wiggins 26' 3PT Jump Shot,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,56,4,0,1,10:21 PM,7:34,,,Vassell REBOUND (Off:0 Def:2),,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,57,1,58,1,10:21 PM,7:28,,,Poeltl 6' Turnaround Hook Shot (2 PTS) (Vassell 1 AST),8 - 14,6,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200205,59,1,1,1,10:22 PM,7:11,Poole 27' 3PT Jump Shot (9 PTS) (Wiggins 1 AST),,,8 - 17,9,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,61,2,98,1,10:22 PM,6:57,,,MISS Poeltl 5' Cutting Layup Shot,,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,62,4,0,1,10:22 PM,6:56,,,Richardson REBOUND (Off:1 Def:0),,,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,63,2,97,1,10:22 PM,6:56,,,MISS Richardson Tip Layup Shot,,,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,64,4,0,1,10:22 PM,6:56,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200205,66,6,2,1,10:22 PM,6:48,Wiggins S.FOUL (P1.T1) (D.Scott),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022200205,68,3,11,1,10:23 PM,6:48,,,Johnson Free Throw 1 of 2 (3 PTS),9 - 17,8,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,69,3,12,1,10:23 PM,6:48,,,Johnson Free Throw 2 of 2 (4 PTS),10 - 17,7,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,70,2,57,1,10:23 PM,6:31,MISS Wiggins 9' Driving Hook Shot,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,71,4,0,1,10:23 PM,6:29,Looney REBOUND (Off:1 Def:1),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,75,5,11,1,10:24 PM,6:16,WARRIORS Turnover: Shot Clock (T#1),,,,,2,1610612744,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200205,76,8,0,1,10:24 PM,6:16,,,SUB: McDermott FOR Vassell,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200205,78,1,1,1,10:25 PM,5:56,,,Bates-Diop 26' 3PT Jump Shot (3 PTS) (Johnson 1 AST),13 - 17,4,5,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200205,80,2,1,1,10:25 PM,5:39,MISS Curry 26' 3PT Jump Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,81,4,0,1,10:25 PM,5:36,,,Poeltl REBOUND (Off:1 Def:2),,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,82,2,79,1,10:25 PM,5:19,Poole BLOCK (1 BLK),,MISS Johnson 11' Pullup Jump Shot,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,1
+0022200205,84,4,0,1,10:25 PM,5:17,Poole REBOUND (Off:0 Def:1),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,85,1,76,1,10:25 PM,5:13,Poole 2' Running Finger Roll Layup (11 PTS),,,13 - 19,6,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,86,1,63,1,10:26 PM,4:54,,,Richardson 8' Fadeaway Jumper (2 PTS),15 - 19,4,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,87,9,1,1,10:26 PM,4:53,WARRIORS Timeout: Regular (Full 1 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200205,88,8,0,1,10:28 PM,4:53,SUB: J. Green FOR Poole,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200205,89,8,0,1,10:28 PM,4:53,SUB: Moody FOR Looney,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200205,90,8,0,1,10:28 PM,4:53,,,SUB: Bassey FOR Johnson,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,5,1629646,Charles Bassey,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200205,91,8,0,1,10:28 PM,4:53,,,SUB: Roby FOR Poeltl,,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200205,96,5,2,1,10:29 PM,4:37,Wiggins Lost Ball Turnover (P1.T2),,Bates-Diop STEAL (1 STL),,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200205,98,1,76,1,10:29 PM,4:32,,,Bates-Diop 1' Running Finger Roll Layup (5 PTS) (Richardson 1 AST),17 - 19,2,5,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200205,100,2,101,1,10:29 PM,4:11,MISS Wiggins 10' Driving Floating Jump Shot,,Bassey BLOCK (1 BLK),,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,1629646,Charles Bassey,1610612759.0,San Antonio,Spurs,SAS,1
+0022200205,101,4,0,1,10:29 PM,4:09,,,Richardson REBOUND (Off:1 Def:1),,,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,102,1,1,1,10:30 PM,3:54,,,McDermott 26' 3PT Jump Shot (3 PTS) (Richardson 2 AST),20 - 19,-1,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200205,104,2,6,1,10:30 PM,3:40,MISS Curry 9' Driving Layup,,McDermott BLOCK (1 BLK),,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,1
+0022200205,106,4,0,1,10:30 PM,3:40,Curry REBOUND (Off:1 Def:1),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,107,5,45,1,10:30 PM,3:40,Curry Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022200205,108,2,79,1,10:30 PM,3:27,,,MISS McDermott 25' 3PT Pullup Jump Shot,,,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,109,4,0,1,10:30 PM,3:23,Wiggins REBOUND (Off:0 Def:2),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,110,1,79,1,10:31 PM,3:08,Wiggins 19' Pullup Jump Shot (5 PTS),,,20 - 21,1,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,111,2,1,1,10:31 PM,2:54,,,MISS Roby 3PT Jump Shot,,,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,112,4,0,1,10:31 PM,2:49,D. Green REBOUND (Off:0 Def:1),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,113,5,45,1,10:31 PM,2:48,D. Green Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022200205,114,8,0,1,10:31 PM,2:48,SUB: Poole FOR Wiggins,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200205,115,8,0,1,10:31 PM,2:48,SUB: Kuminga FOR D. Green,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200205,117,8,0,1,10:31 PM,2:48,,,SUB: Vassell FOR Bates-Diop,,,5,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200205,122,8,0,1,10:31 PM,2:48,SUB: Lamb FOR Curry,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200205,123,2,71,1,10:32 PM,2:33,,,MISS McDermott 6' Finger Roll Layup,,,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,124,4,0,1,10:32 PM,2:31,J. Green REBOUND (Off:0 Def:1),,,,,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,125,1,1,1,10:32 PM,2:18,J. Green 3PT Jump Shot (3 PTS) (Moody 1 AST),,,20 - 24,4,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,127,2,1,1,10:32 PM,2:05,,,MISS Richardson 26' 3PT Jump Shot,,,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,128,4,0,1,10:32 PM,2:03,Kuminga REBOUND (Off:0 Def:1),,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,129,1,1,1,10:32 PM,1:56,Moody 26' 3PT Jump Shot (3 PTS) (Lamb 1 AST),,,20 - 27,7,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,131,2,1,1,10:33 PM,1:34,,,MISS Richardson 25' 3PT Jump Shot,,,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,132,4,0,1,10:33 PM,1:32,J. Green REBOUND (Off:0 Def:2),,,,,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,133,6,1,1,10:33 PM,1:31,,,Richardson P.FOUL (P1.T3) (D.Scott),,,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200205,135,2,6,1,10:33 PM,1:19,MISS Moody 3' Driving Layup,,Vassell BLOCK (1 BLK),,,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,1
+0022200205,137,4,0,1,10:33 PM,1:15,,,Vassell REBOUND (Off:0 Def:3),,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,138,2,6,1,10:33 PM,1:10,,,MISS Roby 1' Driving Layup,,,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,139,4,0,1,10:33 PM,1:07,,,Bassey REBOUND (Off:1 Def:0),,,5,1629646,Charles Bassey,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,140,1,72,1,10:33 PM,1:06,,,Bassey 1' Putback Layup (2 PTS),22 - 27,5,5,1629646,Charles Bassey,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,141,1,1,1,10:34 PM,0:54,Kuminga 27' 3PT Jump Shot (3 PTS) (Moody 2 AST),,,22 - 30,8,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,143,2,1,1,10:34 PM,0:44,,,MISS Richardson 25' 3PT Jump Shot,,,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,144,4,0,1,10:34 PM,0:39,,,Bassey REBOUND (Off:2 Def:0),,,5,1629646,Charles Bassey,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,146,2,1,1,10:34 PM,0:36,,,MISS Vassell 16' Jump Shot,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,147,4,0,1,10:34 PM,0:32,,,Bassey REBOUND (Off:3 Def:0),,,5,1629646,Charles Bassey,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,148,1,97,1,10:34 PM,0:32,,,Bassey Tip Layup Shot (4 PTS),24 - 30,6,5,1629646,Charles Bassey,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,149,1,79,1,10:34 PM,0:31,Poole 26' 3PT Pullup Jump Shot (14 PTS),,,24 - 33,9,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,150,2,5,1,10:34 PM,0:16,J. Green BLOCK (1 BLK),,MISS Bassey 2' Layup,,,5,1629646,Charles Bassey,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,1
+0022200205,152,4,0,1,10:34 PM,0:15,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200205,154,8,0,1,10:35 PM,0:15,SUB: D. Green FOR Moody,,,,,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200205,156,6,1,1,10:35 PM,0:14,Poole P.FOUL (P1.T2) (D.Scott),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022200205,158,8,0,1,10:35 PM,0:14,SUB: Moody FOR Poole,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200205,160,1,47,1,10:36 PM,0:02,,,Vassell 17' Turnaround Jump Shot (4 PTS),26 - 33,7,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,161,13,0,1,10:36 PM,0:00,,End of 1st Period (10:36 PM EST),,26 - 33,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200205,168,12,0,2,10:39 PM,12:00,,Start of 2nd Period (10:39 PM EST),,26 - 33,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200205,169,6,4,2,10:39 PM,11:49,J. Green OFF.Foul (P1) (J.Goble),,,,,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0022200205,171,5,37,2,10:39 PM,11:49,J. Green Offensive Foul Turnover (P1.T5),,,,,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,0
+0022200205,172,5,2,2,10:39 PM,11:32,Poole STEAL (1 STL),,McDermott Lost Ball Turnover (P1.T4),,,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,174,2,1,2,10:39 PM,11:24,MISS J. Green 26' 3PT Jump Shot,,,,,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,175,4,0,2,10:40 PM,11:19,,,Sochan REBOUND (Off:0 Def:1),,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,176,6,1,2,10:40 PM,11:14,DiVincenzo P.FOUL (P1.T1) (E.Lewis),,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022200205,178,1,1,2,10:40 PM,11:08,,,McDermott 25' 3PT Jump Shot (6 PTS) (Roby 1 AST),29 - 33,4,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200205,180,1,98,2,10:40 PM,10:56,Lamb 1' Cutting Layup Shot (2 PTS) (Kuminga 1 AST),,,29 - 35,6,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,182,1,101,2,10:41 PM,10:43,,,Sochan 5' Driving Floating Jump Shot (4 PTS),31 - 35,4,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,183,6,2,2,10:41 PM,10:43,J. Green S.FOUL (P2.T2) (J.Goble),,,,,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022200205,185,3,10,2,10:41 PM,10:43,,,MISS Sochan Free Throw 1 of 1,,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,186,4,0,2,10:41 PM,10:41,J. Green REBOUND (Off:0 Def:3),,,,,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,187,1,75,2,10:41 PM,10:33,Kuminga 1' Driving Finger Roll Layup (5 PTS),,,31 - 37,6,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,188,6,4,2,10:41 PM,10:21,,,Bassey OFF.Foul (P1) (J.Goble),,,5,1629646,Charles Bassey,1610612759.0,San Antonio,Spurs,SAS,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200205,190,5,37,2,10:41 PM,10:21,,,Bassey Offensive Foul Turnover (P1.T5),,,5,1629646,Charles Bassey,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,1
+0022200205,191,1,5,2,10:42 PM,10:07,J. Green 1' Layup (5 PTS) (DiVincenzo 1 AST),,,31 - 39,8,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,193,2,5,2,10:42 PM,9:43,,,MISS Sochan 5' Layup,,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,194,4,0,2,10:42 PM,9:40,,,Bassey REBOUND (Off:4 Def:0),,,5,1629646,Charles Bassey,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,195,2,3,2,10:42 PM,9:39,,,MISS Bassey 5' Hook Shot,,,5,1629646,Charles Bassey,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,196,4,0,2,10:42 PM,9:38,Lamb REBOUND (Off:0 Def:1),,,,,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,197,6,1,2,10:42 PM,9:29,,,Bassey P.FOUL (P2.T1) (E.Lewis),,,5,1629646,Charles Bassey,1610612759.0,San Antonio,Spurs,SAS,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200205,199,8,0,2,10:43 PM,9:29,,,SUB: Hall FOR McDermott,,,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,5,1631160,Jordan Hall,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200205,200,8,0,2,10:43 PM,9:29,,,SUB: Poeltl FOR Roby,,,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200205,201,8,0,2,10:43 PM,9:29,,,SUB: Johnson FOR Bassey,,,5,1629646,Charles Bassey,1610612759.0,San Antonio,Spurs,SAS,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200205,205,1,6,2,10:43 PM,9:23,Poole 1' Driving Layup (16 PTS),,,31 - 41,10,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,207,2,1,2,10:43 PM,9:11,,,MISS Hall 24' 3PT Jump Shot,,,5,1631160,Jordan Hall,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,208,4,0,2,10:43 PM,9:04,Poole REBOUND (Off:0 Def:2),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,209,2,79,2,10:43 PM,9:03,MISS Poole 30' 3PT Pullup Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,210,4,0,2,10:43 PM,8:59,,,Poeltl REBOUND (Off:1 Def:3),,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,211,6,4,2,10:44 PM,8:47,,,Hall OFF.Foul (P1) (E.Lewis),,,5,1631160,Jordan Hall,1610612759.0,San Antonio,Spurs,SAS,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200205,213,5,37,2,10:44 PM,8:47,,,Hall Offensive Foul Turnover (P1.T6),,,5,1631160,Jordan Hall,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,1
+0022200205,214,8,0,2,10:44 PM,8:47,SUB: Looney FOR J. Green,,,,,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200205,215,8,0,2,10:44 PM,8:47,,,SUB: Bates-Diop FOR Johnson,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,5,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200205,218,2,80,2,10:44 PM,8:29,MISS DiVincenzo 25' 3PT Step Back Jump Shot,,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,219,4,0,2,10:44 PM,8:26,,,Vassell REBOUND (Off:0 Def:4),,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,220,1,79,2,10:44 PM,8:18,,,Vassell 14' Pullup Jump Shot (6 PTS),33 - 41,8,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,221,6,2,2,10:45 PM,7:57,,,Hall S.FOUL (P2.T2) (D.Scott),,,5,1631160,Jordan Hall,1610612759.0,San Antonio,Spurs,SAS,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200205,223,3,11,2,10:45 PM,7:57,Kuminga Free Throw 1 of 2 (6 PTS),,,33 - 42,9,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,224,8,0,2,10:45 PM,7:57,SUB: Curry FOR Poole,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200205,225,8,0,2,10:45 PM,7:57,,,SUB: Johnson FOR Bates-Diop,,,5,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200205,228,3,12,2,10:46 PM,7:57,Kuminga Free Throw 2 of 2 (7 PTS),,,33 - 43,10,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,229,5,2,2,10:46 PM,7:45,Looney STEAL (1 STL),,Poeltl Lost Ball Turnover (P2.T7),,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,231,1,98,2,10:46 PM,7:27,DiVincenzo 1' Cutting Layup Shot (2 PTS) (Looney 2 AST),,,33 - 45,12,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,233,2,1,2,10:46 PM,7:17,,,MISS Vassell 26' 3PT Jump Shot,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,234,4,0,2,10:46 PM,7:15,Lamb REBOUND (Off:0 Def:2),,,,,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,235,5,1,2,10:47 PM,7:06,DiVincenzo Bad Pass Turnover (P1.T6),,Sochan STEAL (1 STL),,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200205,237,6,1,2,10:47 PM,7:03,DiVincenzo P.FOUL (P2.T3) (E.Lewis),,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022200205,239,8,0,2,10:47 PM,7:03,SUB: D. Green FOR Lamb,,,,,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200205,240,8,0,2,10:47 PM,7:03,,,SUB: Bates-Diop FOR Johnson,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,5,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200205,244,2,1,2,10:47 PM,6:53,,,MISS Bates-Diop 3PT Jump Shot,,,5,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,245,4,0,2,10:47 PM,6:50,Curry REBOUND (Off:1 Def:2),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,246,5,2,2,10:47 PM,6:44,DiVincenzo Lost Ball Turnover (P2.T7),,Bates-Diop STEAL (2 STL),,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,5,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200205,248,2,98,2,10:47 PM,6:39,,,MISS Sochan 4' Cutting Layup Shot,,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,249,4,0,2,10:47 PM,6:38,,,Bates-Diop REBOUND (Off:2 Def:1),,,5,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,250,2,97,2,10:48 PM,6:38,,,MISS Bates-Diop Tip Layup Shot,,,5,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,251,4,0,2,10:48 PM,6:37,,,Hall REBOUND (Off:1 Def:0),,,5,1631160,Jordan Hall,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,252,1,98,2,10:48 PM,6:33,,,Bates-Diop 1' Cutting Layup Shot (7 PTS) (Hall 1 AST),35 - 45,10,5,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,5,1631160,Jordan Hall,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200205,254,9,1,2,10:48 PM,6:33,WARRIORS Timeout: Regular (Full 2 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200205,255,8,0,2,10:50 PM,6:33,SUB: Wiggins FOR DiVincenzo,,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200205,256,8,0,2,10:50 PM,6:33,SUB: Moody FOR Kuminga,,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200205,259,1,1,2,10:51 PM,6:16,Moody 26' 3PT Jump Shot (6 PTS) (Looney 3 AST),,,35 - 48,13,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,261,1,3,2,10:51 PM,5:55,,,Poeltl 7' Hook Shot (4 PTS),37 - 48,11,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,262,2,80,2,10:51 PM,5:36,MISS Curry 25' 3PT Step Back Jump Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,263,4,0,2,10:52 PM,5:33,,,Bates-Diop REBOUND (Off:2 Def:2),,,5,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,264,2,9,2,10:52 PM,5:26,,,MISS Vassell 1' Driving Dunk,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,265,4,0,2,10:52 PM,5:26,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200205,267,8,0,2,10:52 PM,5:26,,,SUB: Richardson FOR Vassell,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200205,268,8,0,2,10:52 PM,5:26,,,SUB: McDermott FOR Hall,,,5,1631160,Jordan Hall,1610612759.0,San Antonio,Spurs,SAS,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200205,271,1,1,2,10:52 PM,5:12,Wiggins 26' 3PT Jump Shot (8 PTS) (D. Green 3 AST),,,37 - 51,14,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,273,2,1,2,10:52 PM,4:52,,,MISS Sochan 26' 3PT Jump Shot,,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,274,4,0,2,10:53 PM,4:49,,,Bates-Diop REBOUND (Off:3 Def:2),,,5,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,275,2,1,2,10:53 PM,4:45,,,MISS Richardson 27' 3PT Jump Shot,,,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,276,4,0,2,10:53 PM,4:41,D. Green REBOUND (Off:0 Def:2),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,277,1,75,2,10:53 PM,4:34,Curry 2' Driving Finger Roll Layup (5 PTS),,,37 - 53,16,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,278,2,47,2,10:53 PM,4:17,,,MISS Sochan 7' Turnaround Jump Shot,,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,280,2,97,2,10:53 PM,4:11,,,MISS Poeltl Tip Layup Shot,,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,279,4,0,2,10:53 PM,4:11,,,Poeltl REBOUND (Off:2 Def:3),,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,281,4,0,2,10:53 PM,4:10,Looney REBOUND (Off:1 Def:2),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,282,2,5,2,10:53 PM,4:00,MISS Looney 3' Layup,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,283,4,0,2,10:53 PM,3:57,,,Poeltl REBOUND (Off:2 Def:4),,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,284,6,2,2,10:54 PM,3:51,D. Green S.FOUL (P1.T4) (J.Goble),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022200205,286,3,11,2,10:54 PM,3:51,,,Richardson Free Throw 1 of 2 (3 PTS),38 - 53,15,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,287,8,0,2,10:54 PM,3:51,SUB: Poole FOR Looney,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200205,288,8,0,2,10:54 PM,3:51,,,SUB: Roby FOR Poeltl,,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200205,289,8,0,2,10:54 PM,3:51,,,SUB: Bassey FOR Bates-Diop,,,5,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,5,1629646,Charles Bassey,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200205,293,3,12,2,10:55 PM,3:51,,,Richardson Free Throw 2 of 2 (4 PTS),39 - 53,14,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,294,2,6,2,10:55 PM,3:39,MISS D. Green 1' Driving Layup,,Bassey BLOCK (2 BLK),,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,1629646,Charles Bassey,1610612759.0,San Antonio,Spurs,SAS,1
+0022200205,296,4,0,2,10:55 PM,3:36,,,Richardson REBOUND (Off:1 Def:2),,,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,297,2,1,2,10:55 PM,3:35,,,MISS McDermott 25' 3PT Jump Shot,,,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,298,4,0,2,10:55 PM,3:31,D. Green REBOUND (Off:0 Def:3),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,299,1,79,2,10:55 PM,3:19,Poole 26' 3PT Pullup Jump Shot (19 PTS) (D. Green 4 AST),,,39 - 56,17,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,302,8,0,2,10:56 PM,3:04,,,SUB: Vassell FOR Sochan,,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200205,304,6,2,2,10:56 PM,2:57,D. Green S.FOUL (P2.PN) (D.Scott),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022200205,306,9,1,2,10:56 PM,2:57,,,Spurs Timeout: Regular (Reg.2 Short 0),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200205,307,3,11,2,10:59 PM,2:57,,,MISS Roby Free Throw 1 of 2,,,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,308,4,1,2,10:59 PM,2:57,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200205,309,3,12,2,11:00 PM,2:57,,,Roby Free Throw 2 of 2 (1 PTS),40 - 56,16,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,310,2,1,2,11:00 PM,2:46,MISS Poole 25' 3PT Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,311,4,0,2,11:00 PM,2:42,,,Roby REBOUND (Off:0 Def:1),,,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,312,1,1,2,11:00 PM,2:34,,,Roby 25' 3PT Jump Shot (4 PTS) (Richardson 3 AST),43 - 56,13,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200205,314,2,1,2,11:00 PM,2:11,MISS Poole 25' 3PT Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,315,4,0,2,11:00 PM,2:07,,,Richardson REBOUND (Off:1 Def:3),,,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,316,1,44,2,11:01 PM,1:59,,,Bassey 1' Reverse Layup (6 PTS) (Roby 2 AST),45 - 56,11,5,1629646,Charles Bassey,1610612759.0,San Antonio,Spurs,SAS,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200205,318,2,1,2,11:01 PM,1:38,MISS Moody 25' 3PT Jump Shot,,,,,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,319,4,0,2,11:01 PM,1:37,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200205,321,2,63,2,11:01 PM,1:20,,,MISS Richardson 12' Fadeaway Jumper,,,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,322,4,0,2,11:02 PM,1:15,D. Green REBOUND (Off:0 Def:4),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,383,2,41,2,11:02 PM,1:12,MISS D. Green 4' Running Layup,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,384,4,0,2,11:02 PM,1:12,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200205,324,2,79,2,11:02 PM,1:05,,,MISS Richardson 20' Pullup Jump Shot,,,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,325,4,0,2,11:02 PM,1:02,D. Green REBOUND (Off:0 Def:5),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,326,2,98,2,11:02 PM,0:58,MISS Moody 1' Cutting Layup Shot,,,,,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,327,4,0,2,11:02 PM,0:58,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200205,329,1,71,2,11:02 PM,0:56,Curry 2' Finger Roll Layup (7 PTS) (Poole 1 AST),,,45 - 58,13,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,331,2,79,2,11:03 PM,0:38,,,MISS Richardson 14' Pullup Jump Shot,,,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,332,4,0,2,11:03 PM,0:35,D. Green REBOUND (Off:0 Def:6),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,333,6,1,2,11:03 PM,0:33,,,Roby P.FOUL (P1.T3) (D.Scott),,,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200205,335,1,1,2,11:03 PM,0:30,Curry 31' 3PT Jump Shot (10 PTS) (D. Green 5 AST),,,45 - 61,16,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,337,5,11,2,11:04 PM,0:05,,,Spurs Turnover: Shot Clock (T#8),,,3,1610612759,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200205,338,2,79,2,11:04 PM,0:01,MISS Moody 26' 3PT Pullup Jump Shot,,,,,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,339,4,0,2,11:04 PM,0:01,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200205,341,13,0,2,11:05 PM,0:00,,End of 2nd Period (11:05 PM EST),,45 - 61,16,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200205,352,12,0,3,11:20 PM,12:00,,Start of 3rd Period (11:20 PM EST),,45 - 61,16,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200205,353,6,1,3,11:20 PM,11:48,,,Poeltl P.FOUL (P1.T1) (J.Goble),,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200205,355,1,5,3,11:20 PM,11:36,Looney 2' Layup (2 PTS),,,45 - 63,18,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,356,2,6,3,11:21 PM,11:27,,,MISS Sochan 2' Driving Layup,,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,357,4,0,3,11:21 PM,11:24,Looney REBOUND (Off:1 Def:3),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,360,2,1,3,11:21 PM,11:10,MISS D. Green 25' 3PT Jump Shot,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,361,4,0,3,11:21 PM,11:08,,,Poeltl REBOUND (Off:2 Def:5),,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,362,5,1,3,11:21 PM,11:06,Poole STEAL (2 STL),,Poeltl Bad Pass Turnover (P3.T9),,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,364,1,1,3,11:21 PM,10:56,Curry 25' 3PT Jump Shot (13 PTS) (D. Green 6 AST),,,45 - 66,21,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,366,6,1,3,11:22 PM,10:41,Curry P.FOUL (P1.T1) (E.Lewis),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022200205,368,5,2,3,11:22 PM,10:29,D. Green STEAL (1 STL),,Poeltl Lost Ball Turnover (P4.T10),,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,370,6,2,3,11:22 PM,10:25,,,Poeltl S.FOUL (P2.T2) (D.Scott),,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200205,372,3,13,3,11:23 PM,10:25,Curry Free Throw 1 of 3 (14 PTS),,,45 - 67,22,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,373,3,14,3,11:23 PM,10:25,Curry Free Throw 2 of 3 (15 PTS),,,45 - 68,23,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,374,3,15,3,11:24 PM,10:25,Curry Free Throw 3 of 3 (16 PTS),,,45 - 69,24,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,375,5,2,3,11:24 PM,10:13,Poole STEAL (3 STL),,Vassell Lost Ball Turnover (P1.T11),,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,377,1,79,3,11:24 PM,10:10,Poole 25' 3PT Pullup Jump Shot (22 PTS),,,45 - 72,27,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,378,2,101,3,11:24 PM,9:57,,,MISS Bates-Diop 15' Driving Floating Jump Shot,,,5,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,379,4,0,3,11:24 PM,9:54,Curry REBOUND (Off:1 Def:3),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,380,1,52,3,11:24 PM,9:51,Wiggins 1' Alley Oop Dunk (10 PTS) (Poole 2 AST),,,45 - 74,29,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,382,9,1,3,11:24 PM,9:51,,,Spurs Timeout: Regular (Reg.3 Short 0),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200205,385,2,79,3,11:27 PM,9:40,,,MISS Vassell 14' Pullup Jump Shot,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,386,4,0,3,11:28 PM,9:35,,,Sochan REBOUND (Off:1 Def:1),,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,387,5,1,3,11:28 PM,9:35,Curry STEAL (1 STL),,Sochan Bad Pass Turnover (P2.T12),,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,389,1,41,3,11:28 PM,9:31,Poole 2' Running Layup (24 PTS) (Curry 1 AST),,,45 - 76,31,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,391,2,6,3,11:28 PM,9:19,,,MISS Johnson 5' Driving Layup,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,392,4,0,3,11:28 PM,9:14,,,Sochan REBOUND (Off:2 Def:1),,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,393,1,72,3,11:28 PM,9:14,,,Sochan Putback Layup (6 PTS),47 - 76,29,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,394,1,75,3,11:28 PM,9:00,D. Green 2' Driving Finger Roll Layup (4 PTS) (Curry 2 AST),,,47 - 78,31,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,396,1,79,3,11:28 PM,8:48,,,Johnson 25' 3PT Pullup Jump Shot (7 PTS),50 - 78,28,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,397,5,40,3,11:29 PM,8:28,Wiggins Out of Bounds Lost Ball Turnover (P2.T8),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022200205,398,1,79,3,11:29 PM,8:16,,,Sochan 16' Pullup Jump Shot (8 PTS) (Poeltl 1 AST),52 - 78,26,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200205,399,1,75,3,11:29 PM,7:53,Poole 2' Driving Finger Roll Layup (26 PTS) (Looney 4 AST),,,52 - 80,28,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,401,6,2,3,11:29 PM,7:53,,,Poeltl S.FOUL (P3.T3) (J.Goble),,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200205,403,3,10,3,11:30 PM,7:53,Poole Free Throw 1 of 1 (27 PTS),,,52 - 81,29,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,404,2,57,3,11:30 PM,7:35,,,MISS Sochan 8' Driving Hook Shot,,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,405,4,0,3,11:30 PM,7:31,,,Bates-Diop REBOUND (Off:4 Def:2),,,5,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,406,1,72,3,11:30 PM,7:31,,,Bates-Diop 2' Putback Layup (9 PTS),54 - 81,27,5,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,407,2,98,3,11:31 PM,7:13,MISS Poole 1' Cutting Layup Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,408,4,0,3,11:31 PM,7:13,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200205,410,8,0,3,11:31 PM,7:13,,,SUB: Richardson FOR Vassell,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200205,412,2,1,3,11:31 PM,7:02,MISS Wiggins 25' 3PT Jump Shot,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,413,4,0,3,11:31 PM,6:59,,,Sochan REBOUND (Off:2 Def:2),,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,414,2,1,3,11:31 PM,6:56,,,MISS Johnson 3PT Jump Shot,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,415,4,0,3,11:31 PM,6:54,,,Bates-Diop REBOUND (Off:5 Def:2),,,5,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,420,2,97,3,11:31 PM,6:53,,,MISS Bates-Diop 3' Tip Layup Shot,,,5,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,421,4,0,3,11:31 PM,6:52,,,Poeltl REBOUND (Off:3 Def:5),,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,416,1,97,3,11:31 PM,6:52,,,Poeltl Tip Layup Shot (6 PTS),56 - 81,25,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,417,2,1,3,11:32 PM,6:37,MISS Curry 25' 3PT Jump Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,418,4,0,3,11:32 PM,6:34,,,Sochan REBOUND (Off:2 Def:3),,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,419,2,6,3,11:32 PM,6:30,,,MISS Johnson 6' Driving Layup,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,422,4,0,3,11:32 PM,6:30,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200205,423,6,3,3,11:32 PM,6:30,,,Sochan L.B.FOUL (P3.T4) (E.Lewis),,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200205,425,9,1,3,11:32 PM,6:30,WARRIORS Timeout: Regular (Full 3 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200205,426,8,0,3,11:34 PM,6:30,SUB: J. Green FOR Poole,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200205,427,8,0,3,11:34 PM,6:30,SUB: Moody FOR Looney,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200205,431,2,1,3,11:35 PM,6:05,MISS D. Green 25' 3PT Jump Shot,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,432,4,0,3,11:35 PM,6:02,,,Sochan REBOUND (Off:2 Def:4),,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,433,2,75,3,11:35 PM,6:00,,,MISS Bates-Diop 1' Driving Finger Roll Layup,,,5,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,434,4,0,3,11:35 PM,5:56,Wiggins REBOUND (Off:0 Def:3),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,435,2,98,3,11:35 PM,5:53,MISS D. Green 2' Cutting Layup Shot,,Poeltl BLOCK (1 BLK),,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,1
+0022200205,437,4,0,3,11:35 PM,5:53,Wiggins REBOUND (Off:1 Def:3),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,521,2,97,3,11:36 PM,5:53,MISS Wiggins 3' Tip Layup Shot,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,522,4,0,3,11:36 PM,5:47,,,Johnson REBOUND (Off:0 Def:1),,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,438,5,13,3,11:36 PM,5:37,,,Sochan Backcourt Turnover (P3.T13),,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,1
+0022200205,439,8,0,3,11:36 PM,5:37,,,SUB: McDermott FOR Sochan,,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200205,441,2,6,3,11:36 PM,5:27,MISS Curry 6' Driving Layup,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,442,4,0,3,11:36 PM,5:24,,,Bates-Diop REBOUND (Off:5 Def:3),,,5,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,443,2,1,3,11:36 PM,5:20,,,MISS Johnson 3PT Jump Shot,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,444,4,0,3,11:36 PM,5:16,,,Poeltl REBOUND (Off:4 Def:5),,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,445,1,1,3,11:36 PM,5:14,,,Richardson 25' 3PT Jump Shot (7 PTS) (Bates-Diop 1 AST),59 - 81,22,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,5,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200205,447,2,80,3,11:37 PM,4:50,MISS Wiggins 26' 3PT Step Back Jump Shot,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,448,4,0,3,11:37 PM,4:47,,,Poeltl REBOUND (Off:4 Def:6),,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,449,2,1,3,11:37 PM,4:43,,,MISS Johnson 25' 3PT Jump Shot,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,450,4,0,3,11:37 PM,4:39,,,Bates-Diop REBOUND (Off:6 Def:3),,,5,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,451,2,78,3,11:37 PM,4:38,,,MISS Poeltl 7' Floating Jump Shot,,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,452,4,0,3,11:37 PM,4:36,Moody REBOUND (Off:0 Def:1),,,,,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,454,8,0,3,11:37 PM,4:25,SUB: Lamb FOR Wiggins,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200205,455,8,0,3,11:37 PM,4:25,SUB: Kuminga FOR D. Green,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200205,456,8,0,3,11:37 PM,4:25,,,SUB: Bassey FOR Poeltl,,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,5,1629646,Charles Bassey,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200205,460,1,1,3,11:38 PM,4:18,Lamb 25' 3PT Jump Shot (5 PTS) (Kuminga 2 AST),,,59 - 84,25,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,462,1,1,3,11:38 PM,4:05,,,Johnson 27' 3PT Jump Shot (10 PTS) (Bassey 1 AST),62 - 84,22,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,5,1629646,Charles Bassey,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200205,464,1,1,3,11:38 PM,3:46,Lamb 25' 3PT Jump Shot (8 PTS) (Curry 3 AST),,,62 - 87,25,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,466,2,6,3,11:39 PM,3:35,,,MISS Bates-Diop 2' Driving Layup,,,5,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,467,4,0,3,11:39 PM,3:33,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200205,469,8,0,3,11:39 PM,3:33,,,SUB: Roby FOR Bates-Diop,,,5,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200205,471,1,80,3,11:39 PM,3:26,,,Johnson 25' 3PT Step Back Jump Shot (13 PTS),65 - 87,22,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,472,6,1,3,11:39 PM,3:09,,,Richardson P.FOUL (P2.PN) (E.Lewis),,,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200205,474,3,11,3,11:40 PM,3:09,J. Green Free Throw 1 of 2 (6 PTS),,,65 - 88,23,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,475,3,12,3,11:40 PM,3:09,J. Green Free Throw 2 of 2 (7 PTS),,,65 - 89,24,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,476,2,1,3,11:40 PM,2:52,,,MISS Johnson 25' 3PT Jump Shot,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,477,4,0,3,11:40 PM,2:49,Curry REBOUND (Off:1 Def:4),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,478,1,50,3,11:40 PM,2:47,Kuminga 1' Running Dunk (9 PTS) (Curry 4 AST),,,65 - 91,26,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,480,1,6,3,11:41 PM,2:39,,,Johnson 12' Driving Layup (15 PTS),67 - 91,24,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,481,1,108,3,11:41 PM,2:23,J. Green Cutting Dunk Shot (9 PTS) (Curry 5 AST),,,67 - 93,26,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,483,5,40,3,11:41 PM,2:08,,,Richardson Out of Bounds Lost Ball Turnover (P1.T14),,,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,1
+0022200205,484,8,0,3,11:41 PM,2:08,SUB: Poole FOR Curry,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200205,485,8,0,3,11:41 PM,2:08,,,SUB: Vassell FOR Johnson,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200205,488,6,2,3,11:42 PM,1:47,,,Roby S.FOUL (P2.PN) (E.Lewis),,,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200205,490,3,11,3,11:42 PM,1:47,MISS Poole Free Throw 1 of 2,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,491,4,1,3,11:42 PM,1:47,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200205,492,3,12,3,11:42 PM,1:47,Poole Free Throw 2 of 2 (28 PTS),,,67 - 94,27,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,493,5,1,3,11:43 PM,1:36,Moody STEAL (1 STL),,Bassey Bad Pass Turnover (P2.T15),,,5,1629646,Charles Bassey,1610612759.0,San Antonio,Spurs,SAS,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,495,2,1,3,11:43 PM,1:31,MISS J. Green 3PT Jump Shot,,,,,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,496,4,0,3,11:43 PM,1:27,,,Richardson REBOUND (Off:1 Def:4),,,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,497,6,1,3,11:43 PM,1:16,Kuminga P.FOUL (P1.T2) (D.Scott),,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022200205,499,2,1,3,11:43 PM,1:10,,,MISS McDermott 3PT Jump Shot,,,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,500,4,0,3,11:43 PM,1:07,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200205,502,2,5,3,11:44 PM,1:05,J. Green BLOCK (2 BLK),,MISS Roby 2' Layup,,,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,1
+0022200205,504,4,0,3,11:44 PM,1:02,J. Green REBOUND (Off:0 Def:4),,,,,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,505,1,1,3,11:44 PM,0:54,Kuminga 3PT Jump Shot (12 PTS) (Lamb 2 AST),,,67 - 97,30,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,507,2,1,3,11:44 PM,0:43,,,MISS Richardson 25' 3PT Jump Shot,,,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,508,4,0,3,11:44 PM,0:38,J. Green REBOUND (Off:0 Def:5),,,,,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,509,1,41,3,11:44 PM,0:35,Poole 1' Running Layup (30 PTS) (Lamb 3 AST),,,67 - 99,32,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,511,6,1,3,11:44 PM,0:32,J. Green P.FOUL (P3.PN) (E.Lewis),,,,,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022200205,513,9,1,3,11:45 PM,0:32,WARRIORS Timeout: Regular (Full 4 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200205,710,8,0,3,11:45 PM,0:32,SUB: DiVincenzo FOR J. Green,,,,,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200205,514,7,1,3,11:45 PM,0:32,WARRIORS Violation: Delay of game Violation,,,,,2,1610612744,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200205,528,3,11,3,11:45 PM,0:32,,,McDermott Free Throw 1 of 2 (7 PTS),68 - 99,31,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0022200205,529,3,12,3,11:45 PM,0:32,,,MISS McDermott Free Throw 2 of 2,,,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0022200205,530,4,0,3,11:45 PM,0:32,Moody REBOUND (Off:0 Def:2),,,,,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0022200205,520,5,45,3,11:47 PM,0:14,Kuminga Out of Bounds - Bad Pass Turnover Turnover (P1.T9),,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022200205,523,2,79,3,11:48 PM,0:01,,,MISS Vassell 26' 3PT Pullup Jump Shot,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,524,4,0,3,11:48 PM,0:01,,,Bassey REBOUND (Off:5 Def:0),,,5,1629646,Charles Bassey,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,525,2,1,3,11:48 PM,0:00,,,MISS Vassell 13' Jump Shot,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,526,4,0,3,11:48 PM,0:00,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200205,527,13,0,3,11:49 PM,0:00,,End of 3rd Period (11:49 PM EST),,68 - 99,31,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200205,539,12,0,4,11:51 PM,12:00,,Start of 4th Period (11:51 PM EST),,68 - 99,31,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200205,540,5,4,4,11:51 PM,11:44,,,Hall Traveling Turnover (P2.T16),,,5,1631160,Jordan Hall,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,0
+0022200205,541,1,80,4,11:51 PM,11:31,Poole 20' Step Back Jump Shot (32 PTS),,,68 - 101,33,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,542,1,5,4,11:51 PM,11:15,,,Sochan 1' Layup (10 PTS) (Roby 3 AST),70 - 101,31,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200205,544,5,1,4,11:52 PM,10:55,Lamb Bad Pass Turnover (P1.T10),,McDermott STEAL (1 STL),,,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200205,546,5,4,4,11:52 PM,10:52,,,Bassey Traveling Turnover (P3.T17),,,5,1629646,Charles Bassey,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,1
+0022200205,547,2,1,4,11:52 PM,10:43,MISS Poole 25' 3PT Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,548,4,0,4,11:52 PM,10:39,D. Green REBOUND (Off:1 Def:6),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,549,1,1,4,11:52 PM,10:36,Poole 25' 3PT Jump Shot (35 PTS) (DiVincenzo 2 AST),,,70 - 104,34,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,551,6,2,4,11:53 PM,10:36,,,Sochan S.FOUL (P4.T1) (J.Goble),,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200205,553,18,0,4,11:53 PM,10:36,,Instant Replay4th Period (11:53 PM EST),,70 - 104,34,0,551,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200205,554,8,0,4,11:54 PM,10:36,SUB: J. Green FOR D. Green,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200205,556,3,10,4,11:55 PM,10:36,Poole Free Throw 1 of 1 (36 PTS),,,70 - 105,35,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,557,5,2,4,11:55 PM,10:27,DiVincenzo STEAL (1 STL),,Roby Lost Ball Turnover (P1.T18),,,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,560,7,5,4,11:55 PM,10:21,,,Bassey Violation:Kicked Ball (J.Goble),,,5,1629646,Charles Bassey,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,0
+0022200205,561,8,0,4,11:55 PM,10:21,,,SUB: Richardson FOR Sochan,,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200205,562,8,0,4,11:55 PM,10:21,,,SUB: Dieng FOR Bassey,,,5,1629646,Charles Bassey,1610612759.0,San Antonio,Spurs,SAS,5,203476,Gorgui Dieng,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200205,565,1,1,4,11:56 PM,10:09,Lamb 3PT Jump Shot (11 PTS) (J. Green 1 AST),,,70 - 108,38,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,568,2,1,4,11:56 PM,9:51,,,MISS Dieng 13' Jump Shot,,,5,203476,Gorgui Dieng,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,569,4,0,4,11:56 PM,9:48,Lamb REBOUND (Off:0 Def:3),,,,,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,570,1,80,4,11:56 PM,9:36,DiVincenzo 26' 3PT Step Back Jump Shot (5 PTS) (J. Green 2 AST),,,70 - 111,41,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,572,5,39,4,11:57 PM,9:14,,,McDermott Step Out of Bounds Turnover (P2.T19),,,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,1
+0022200205,573,8,0,4,11:57 PM,9:14,SUB: Wiseman FOR J. Green,,,,,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200205,574,8,0,4,11:57 PM,9:14,,,SUB: Bates-Diop FOR McDermott,,,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,5,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200205,577,2,79,4,11:57 PM,9:06,MISS Poole 18' Pullup Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,578,4,0,4,11:57 PM,9:01,,,Roby REBOUND (Off:0 Def:2),,,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,579,1,79,4,11:57 PM,8:55,,,Richardson 14' Pullup Jump Shot (9 PTS),72 - 111,39,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,580,5,1,4,11:57 PM,8:51,DiVincenzo Bad Pass Turnover (P3.T11),,Richardson STEAL (1 STL),,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200205,582,6,15,4,11:57 PM,8:49,DiVincenzo FLAGRANT.FOUL.TYPE2 (P3.T1) (E.Lewis),,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022200205,584,18,1,4,11:58 PM,8:49,,Instant Replay4th Period (11:58 PM EST),,72 - 111,39,0,582,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200205,585,8,0,4,11:59 PM,8:49,SUB: Moody FOR DiVincenzo,,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200205,587,3,18,4,12:00 AM,8:49,,,MISS Richardson Free Throw Flagrant 1 of 2,,,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,588,4,1,4,12:00 AM,8:49,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200205,589,3,19,4,12:00 AM,8:49,,,Richardson Free Throw Flagrant 2 of 2 (10 PTS),73 - 111,38,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,590,1,1,4,12:00 AM,8:39,,,Bates-Diop 3PT Jump Shot (12 PTS) (Hall 2 AST),76 - 111,35,5,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,5,1631160,Jordan Hall,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200205,592,2,1,4,12:01 AM,8:12,MISS Wiseman 13' Jump Shot,,,,,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,593,4,0,4,12:01 AM,8:08,,,Roby REBOUND (Off:0 Def:3),,,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,594,2,6,4,12:01 AM,8:04,,,MISS Roby 5' Driving Layup,,,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,596,4,0,4,12:01 AM,8:04,,,Dieng REBOUND (Off:1 Def:0),,,5,203476,Gorgui Dieng,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,597,6,2,4,12:01 AM,8:04,Kuminga S.FOUL (P2.T2) (J.Goble),,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,5,203476,Gorgui Dieng,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022200205,599,3,11,4,12:02 AM,8:04,,,Dieng Free Throw 1 of 2 (1 PTS),77 - 111,34,5,203476,Gorgui Dieng,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,600,8,0,4,12:02 AM,8:04,SUB: Rollins FOR Poole,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,1631157,Ryan Rollins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0022200205,602,3,12,4,12:02 AM,8:04,,,Dieng Free Throw 2 of 2 (2 PTS),78 - 111,33,5,203476,Gorgui Dieng,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,603,5,1,4,12:02 AM,7:47,Rollins Bad Pass Turnover (P1.T12),,Hall STEAL (1 STL),,,4,1631157,Ryan Rollins,1610612744.0,Golden State,Warriors,GSW,5,1631160,Jordan Hall,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200205,605,1,41,4,12:02 AM,7:42,,,Roby 2' Running Layup (6 PTS) (Hall 3 AST),80 - 111,31,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,5,1631160,Jordan Hall,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200205,607,5,12,4,12:02 AM,7:40,Rollins Inbound Turnover (P2.T13),,,,,4,1631157,Ryan Rollins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0022200205,608,2,1,4,12:03 AM,7:37,,,MISS Dieng 26' 3PT Jump Shot,,,5,203476,Gorgui Dieng,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,609,4,0,4,12:03 AM,7:32,Rollins REBOUND (Off:0 Def:1),,,,,4,1631157,Ryan Rollins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,610,2,1,4,12:03 AM,7:14,MISS Kuminga 27' 3PT Jump Shot,,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,611,4,0,4,12:03 AM,7:10,,,Hall REBOUND (Off:1 Def:1),,,5,1631160,Jordan Hall,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,612,2,1,4,12:03 AM,6:58,,,MISS Bates-Diop 25' 3PT Jump Shot,,,5,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,613,4,0,4,12:03 AM,6:52,Kuminga REBOUND (Off:0 Def:2),,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,614,2,1,4,12:04 AM,6:43,MISS Moody 25' 3PT Jump Shot,,,,,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,615,4,0,4,12:04 AM,6:40,,,Dieng REBOUND (Off:1 Def:1),,,5,203476,Gorgui Dieng,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,616,1,6,4,12:04 AM,6:30,,,Roby 1' Driving Layup (8 PTS) (Bates-Diop 2 AST),82 - 111,29,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,5,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200205,618,9,1,4,12:04 AM,6:30,WARRIORS Timeout: Regular (Full 5 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200205,619,8,0,4,12:07 AM,6:30,,,SUB: Sochan FOR Richardson,,,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200205,620,8,0,4,12:07 AM,6:30,,,SUB: Bassey FOR Roby,,,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,5,1629646,Charles Bassey,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200205,623,1,1,4,12:07 AM,6:09,Rollins 24' 3PT Jump Shot (3 PTS) (Moody 3 AST),,,82 - 114,32,4,1631157,Ryan Rollins,1610612744.0,Golden State,Warriors,GSW,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,626,1,98,4,12:08 AM,5:54,,,Hall 1' Cutting Layup Shot (2 PTS) (Bassey 2 AST),84 - 114,30,5,1631160,Jordan Hall,1610612759.0,San Antonio,Spurs,SAS,5,1629646,Charles Bassey,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200205,628,2,86,4,12:08 AM,5:30,MISS Wiseman 10' Turnaround Fadeaway Shot,,,,,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,629,4,0,4,12:08 AM,5:27,,,Hall REBOUND (Off:1 Def:2),,,5,1631160,Jordan Hall,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,630,2,1,4,12:08 AM,5:10,,,MISS Sochan 26' 3PT Jump Shot,,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,631,4,0,4,12:08 AM,5:07,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200205,632,6,3,4,12:09 AM,5:07,Rollins L.B.FOUL (P1.T3) (E.Lewis),,,,,4,1631157,Ryan Rollins,1610612744.0,Golden State,Warriors,GSW,5,1629646,Charles Bassey,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022200205,634,6,2,4,12:09 AM,5:02,Lamb S.FOUL (P1.T4) (D.Scott),,,,,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,5,203476,Gorgui Dieng,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022200205,636,3,11,4,12:09 AM,5:02,,,MISS Dieng Free Throw 1 of 2,,,5,203476,Gorgui Dieng,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,637,4,1,4,12:09 AM,5:02,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200205,638,3,12,4,12:10 AM,5:02,,,Dieng Free Throw 2 of 2 (3 PTS),85 - 114,29,5,203476,Gorgui Dieng,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,639,2,47,4,12:10 AM,4:43,MISS Kuminga 6' Turnaround Jump Shot,,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,640,4,0,4,12:10 AM,4:39,,,Bassey REBOUND (Off:5 Def:1),,,5,1629646,Charles Bassey,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,641,1,79,4,12:10 AM,4:31,,,Hall 24' Pullup Jump Shot (4 PTS) (Bassey 3 AST),87 - 114,27,5,1631160,Jordan Hall,1610612759.0,San Antonio,Spurs,SAS,5,1629646,Charles Bassey,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200205,643,2,1,4,12:10 AM,4:18,MISS Lamb 25' 3PT Jump Shot,,,,,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,644,4,0,4,12:10 AM,4:14,,,Sochan REBOUND (Off:2 Def:5),,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,645,2,1,4,12:11 AM,4:09,,,MISS Dieng 25' 3PT Jump Shot,,,5,203476,Gorgui Dieng,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0022200205,646,4,0,4,12:11 AM,4:06,,,Dieng REBOUND (Off:2 Def:1),,,5,203476,Gorgui Dieng,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,647,2,1,4,12:11 AM,4:03,,,MISS Hall 25' 3PT Jump Shot,,,5,1631160,Jordan Hall,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,648,4,0,4,12:11 AM,3:59,Wiseman REBOUND (Off:0 Def:1),,,,,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,649,1,108,4,12:11 AM,3:51,Moody 1' Cutting Dunk Shot (8 PTS) (Wiseman 1 AST),,,87 - 116,29,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,651,6,2,4,12:11 AM,3:51,,,Hall S.FOUL (P3.T2) (D.Scott),,,5,1631160,Jordan Hall,1610612759.0,San Antonio,Spurs,SAS,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0022200205,669,8,0,4,12:11 AM,3:51,,,SUB: Roby FOR Dieng,,,5,203476,Gorgui Dieng,1610612759.0,San Antonio,Spurs,SAS,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200205,653,3,10,4,12:11 AM,3:51,Moody Free Throw 1 of 1 (9 PTS),,,87 - 117,30,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0022200205,654,2,1,4,12:12 AM,3:32,,,MISS Roby 27' 3PT Jump Shot,,,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,655,4,0,4,12:12 AM,3:28,Rollins REBOUND (Off:0 Def:2),,,,,4,1631157,Ryan Rollins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,656,1,1,4,12:12 AM,3:14,Kuminga 27' 3PT Jump Shot (15 PTS) (Wiseman 2 AST),,,87 - 120,33,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,658,2,79,4,12:12 AM,2:52,,,MISS Hall 19' Pullup Jump Shot,,,5,1631160,Jordan Hall,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,659,4,0,4,12:12 AM,2:50,Lamb REBOUND (Off:0 Def:4),,,,,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,660,2,41,4,12:12 AM,2:45,MISS Rollins 3' Running Layup,,,,,4,1631157,Ryan Rollins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,661,4,0,4,12:12 AM,2:45,Wiseman REBOUND (Off:1 Def:1),,,,,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,663,1,72,4,12:13 AM,2:43,Wiseman 1' Putback Layup (2 PTS),,,87 - 122,35,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,664,6,1,4,12:13 AM,2:28,Lamb P.FOUL (P2.PN) (D.Scott),,,,,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022200205,666,9,1,4,12:14 AM,2:28,,,Spurs Timeout: Regular (Reg.4 Short 0),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200205,672,8,0,4,12:15 AM,2:28,,,SUB: Dieng FOR Bates-Diop,,,5,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,5,203476,Gorgui Dieng,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200205,675,3,11,4,12:16 AM,2:28,,,Sochan Free Throw 1 of 2 (11 PTS),88 - 122,34,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,676,3,12,4,12:16 AM,2:28,,,Sochan Free Throw 2 of 2 (12 PTS),89 - 122,33,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,678,8,0,4,12:17 AM,2:12,,,SUB: Bates-Diop FOR Sochan,,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,5,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200205,680,1,1,4,12:17 AM,2:07,Lamb 25' 3PT Jump Shot (14 PTS) (Moody 4 AST),,,89 - 125,36,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,682,6,2,4,12:17 AM,1:48,Rollins S.FOUL (P2.PN) (E.Lewis),,,,,4,1631157,Ryan Rollins,1610612744.0,Golden State,Warriors,GSW,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022200205,684,3,11,4,12:18 AM,1:48,,,Roby Free Throw 1 of 2 (9 PTS),90 - 125,35,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0022200205,685,3,12,4,12:18 AM,1:48,,,MISS Roby Free Throw 2 of 2,,,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,686,4,0,4,12:18 AM,1:46,,,Bassey REBOUND (Off:6 Def:1),,,5,1629646,Charles Bassey,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,687,1,1,4,12:18 AM,1:43,,,Dieng 26' 3PT Jump Shot (6 PTS),93 - 125,32,5,203476,Gorgui Dieng,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,689,1,1,4,12:18 AM,1:33,Lamb 3PT Jump Shot (17 PTS) (Rollins 1 AST),,,93 - 128,35,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,4,1631157,Ryan Rollins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,691,2,78,4,12:19 AM,1:18,,,MISS Hall 13' Floating Jump Shot,,,5,1631160,Jordan Hall,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,692,4,0,4,12:19 AM,1:13,Kuminga REBOUND (Off:0 Def:3),,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,707,2,41,4,12:19 AM,1:09,MISS Kuminga 1' Running Layup,,Roby BLOCK (1 BLK),,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,0
+0022200205,709,4,0,4,12:19 AM,1:09,,,Roby REBOUND (Off:0 Def:4),,,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0022200205,695,1,1,4,12:19 AM,0:58,,,Hall 22' Jump Shot (6 PTS) (Dieng 1 AST),95 - 128,33,5,1631160,Jordan Hall,1610612759.0,San Antonio,Spurs,SAS,5,203476,Gorgui Dieng,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200205,698,1,6,4,12:20 AM,0:46,Rollins 2' Driving Layup (5 PTS),,,95 - 130,35,4,1631157,Ryan Rollins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0022200205,699,2,1,4,12:20 AM,0:39,,,MISS Roby 27' 3PT Jump Shot,,,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200205,700,4,0,4,12:20 AM,0:36,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200205,703,1,6,4,12:21 AM,0:15,Moody 1' Driving Layup (11 PTS) (Lamb 4 AST),,,95 - 132,37,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,4,1630237,Anthony Lamb,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0022200205,705,13,0,4,12:34 AM,0:00,,End of 4th Period (12:34 AM EST),,95 - 132,37,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

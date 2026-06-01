@@ -1,0 +1,506 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200241,2,12,0,1,6:11 PM,12:00,,Start of 1st Period (6:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200241,4,10,0,1,6:11 PM,12:00,Jump Ball Porzingis vs. Plumlee: Tip to Kispert,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,1
+0022200241,7,1,1,1,6:12 PM,11:45,Kuzma 27' 3PT Jump Shot (3 PTS) (Kispert 1 AST),,,0 - 3,3,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200241,9,2,78,1,6:12 PM,11:27,Porzingis BLOCK (1 BLK),,MISS Washington 10' Floating Jump Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1
+0022200241,11,4,0,1,6:12 PM,11:27,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200241,13,5,40,1,6:12 PM,11:21,,,Hayward Out of Bounds Lost Ball Turnover (P1.T1),,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022200241,14,2,79,1,6:13 PM,11:10,MISS Kispert 15' Pullup Jump Shot,,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,15,4,0,1,6:13 PM,11:06,,,Plumlee REBOUND (Off:0 Def:1),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,16,2,79,1,6:13 PM,10:59,,,MISS Oubre Jr. 26' 3PT Pullup Jump Shot,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,17,4,0,1,6:13 PM,10:56,Kispert REBOUND (Off:0 Def:1),,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,18,1,1,1,6:13 PM,10:47,Kispert 29' 3PT Jump Shot (3 PTS) (Beal 1 AST),,,0 - 6,6,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200241,20,2,5,1,6:13 PM,10:27,,,MISS Plumlee 2' Layup,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,21,4,0,1,6:13 PM,10:21,Kispert REBOUND (Off:0 Def:2),,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,22,1,44,1,6:14 PM,10:16,Kispert 3' Reverse Layup (5 PTS) (Beal 2 AST),,,0 - 8,8,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200241,24,1,1,1,6:14 PM,10:01,,,Washington 3PT Jump Shot (3 PTS) (Rozier 1 AST),3 - 8,5,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200241,26,1,79,1,6:14 PM,9:41,Beal 16' Pullup Jump Shot (2 PTS),,,3 - 10,7,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,27,2,1,1,6:14 PM,9:24,,,MISS Plumlee 17' Jump Shot,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,28,4,0,1,6:15 PM,9:19,,,Rozier REBOUND (Off:1 Def:0),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,29,2,1,1,6:15 PM,9:17,,,MISS Oubre Jr. 3PT Jump Shot,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,30,4,0,1,6:15 PM,9:13,Porzingis REBOUND (Off:0 Def:1),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,31,1,6,1,6:15 PM,8:59,Avdija 2' Driving Layup (2 PTS) (Kuzma 1 AST),,,3 - 12,9,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200241,33,9,1,1,6:15 PM,8:59,,,Hornets Timeout: Regular (Reg.1 Short 0),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200241,34,1,79,1,6:18 PM,8:45,,,Hayward 18' Pullup Jump Shot (2 PTS) (Washington 1 AST),5 - 12,7,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200241,36,5,2,1,6:18 PM,8:24,Beal Lost Ball Turnover (P1.T1),,Rozier STEAL (1 STL),,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200241,38,1,5,1,6:18 PM,8:18,,,Oubre Jr. 4' Layup (2 PTS) (Rozier 2 AST),7 - 12,5,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200241,40,2,80,1,6:19 PM,7:57,MISS Porzingis 27' 3PT Step Back Jump Shot,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,41,4,0,1,6:19 PM,7:55,,,Oubre Jr. REBOUND (Off:0 Def:1),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,42,2,75,1,6:19 PM,7:45,Porzingis BLOCK (2 BLK),,MISS Oubre Jr. 9' Driving Finger Roll Layup,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1
+0022200241,44,4,0,1,6:19 PM,7:45,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200241,46,1,79,1,6:19 PM,7:35,,,Rozier 18' Pullup Jump Shot (2 PTS),9 - 12,3,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,47,1,1,1,6:20 PM,7:20,Porzingis 27' 3PT Jump Shot (3 PTS) (Beal 3 AST),,,9 - 15,6,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200241,49,1,6,1,6:20 PM,7:10,,,Plumlee 3' Driving Layup (2 PTS) (Rozier 3 AST),11 - 15,4,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200241,51,1,1,1,6:20 PM,7:02,Porzingis 29' 3PT Jump Shot (6 PTS) (Kuzma 2 AST),,,11 - 18,7,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200241,53,1,1,1,6:20 PM,6:47,,,Hayward 25' 3PT Jump Shot (5 PTS) (Plumlee 1 AST),14 - 18,4,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200241,55,1,9,1,6:20 PM,6:37,Kuzma 3' Driving Dunk (5 PTS),,,14 - 20,6,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,56,2,1,1,6:21 PM,6:23,,,MISS Oubre Jr. 3PT Jump Shot,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,57,4,0,1,6:21 PM,6:21,Kuzma REBOUND (Off:0 Def:1),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,58,6,2,1,6:21 PM,6:18,,,Hayward S.FOUL (P1.T1) (E.Dalen),,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200241,60,3,11,1,6:21 PM,6:18,Kuzma Free Throw 1 of 2 (6 PTS),,,14 - 21,7,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,61,8,0,1,6:21 PM,6:18,SUB: Goodwin FOR Kispert,,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200241,62,8,0,1,6:21 PM,6:18,,,SUB: McDaniels FOR Washington,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200241,63,8,0,1,6:21 PM,6:18,,,SUB: Smith Jr. FOR Rozier,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200241,67,3,12,1,6:22 PM,6:18,Kuzma Free Throw 2 of 2 (7 PTS),,,14 - 22,8,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,68,1,1,1,6:22 PM,5:55,,,McDaniels 27' 3PT Jump Shot (3 PTS) (Hayward 1 AST),17 - 22,5,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200241,70,1,57,1,6:22 PM,5:44,Kuzma 6' Driving Hook Shot (9 PTS),,,17 - 24,7,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,71,2,6,1,6:23 PM,5:31,Goodwin BLOCK (1 BLK),,MISS McDaniels 11' Driving Layup,,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,1
+0022200241,73,4,0,1,6:23 PM,5:28,Goodwin REBOUND (Off:0 Def:1),,,,,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,74,2,1,1,6:23 PM,5:26,MISS Kuzma 27' 3PT Jump Shot,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,75,4,0,1,6:23 PM,5:22,,,Smith Jr. REBOUND (Off:0 Def:1),,,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,76,1,79,1,6:23 PM,5:12,,,Hayward 25' 3PT Pullup Jump Shot (8 PTS),20 - 24,4,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,78,9,1,1,6:23 PM,5:11,WIZARDS Timeout: Regular (Full 1 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200241,79,8,0,1,6:25 PM,5:11,SUB: Barton FOR Kuzma,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200241,81,2,79,1,6:26 PM,5:00,MISS Beal 25' 3PT Pullup Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,82,4,0,1,6:26 PM,4:55,,,McDaniels REBOUND (Off:0 Def:1),,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,83,1,101,1,6:26 PM,4:44,,,McDaniels 5' Driving Floating Jump Shot (5 PTS),22 - 24,2,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,85,2,6,1,6:27 PM,4:25,MISS Porzingis 7' Driving Layup,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,86,4,0,1,6:27 PM,4:23,,,McDaniels REBOUND (Off:0 Def:2),,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,87,6,2,1,6:27 PM,4:19,Goodwin S.FOUL (P1.T1) (E.Scott),,,,,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200241,89,3,11,1,6:27 PM,4:19,,,MISS Plumlee Free Throw 1 of 2,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,90,4,1,1,6:27 PM,4:19,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200241,91,3,12,1,6:27 PM,4:19,,,Plumlee Free Throw 2 of 2 (3 PTS),23 - 24,1,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,92,6,26,1,6:28 PM,4:09,Beal Offensive Charge Foul (P1) (J.Goble),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200241,94,5,37,1,6:28 PM,4:09,Beal Offensive Foul Turnover (P2.T2),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022200241,95,5,1,1,6:28 PM,3:50,Beal STEAL (1 STL),,Smith Jr. Bad Pass Turnover (P1.T2),,,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200241,97,1,5,1,6:28 PM,3:42,Avdija 4' Layup (4 PTS),,,23 - 26,3,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,98,5,1,1,6:29 PM,3:29,Beal STEAL (2 STL),,Hayward Bad Pass Turnover (P2.T3),,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200241,100,1,98,1,6:29 PM,3:27,Avdija 2' Cutting Layup Shot (6 PTS) (Beal 4 AST),,,23 - 28,5,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200241,102,6,2,1,6:29 PM,3:27,,,McDaniels S.FOUL (P1.T2) (J.Goble),,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200241,104,8,0,1,6:29 PM,3:27,,,SUB: Washington FOR Oubre Jr.,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200241,105,8,0,1,6:29 PM,3:27,,,SUB: Rozier FOR Hayward,,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200241,106,8,0,1,6:29 PM,3:27,,,SUB: Richards FOR Plumlee,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200241,110,3,10,1,6:29 PM,3:27,MISS Avdija Free Throw 1 of 1,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,111,4,0,1,6:29 PM,3:24,Avdija REBOUND (Off:1 Def:0),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,112,1,6,1,6:29 PM,3:23,Avdija 3' Driving Layup (8 PTS),,,23 - 30,7,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,113,2,75,1,6:30 PM,3:01,,,MISS McDaniels 8' Driving Finger Roll Layup,,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,114,4,0,1,6:30 PM,2:59,,,McDaniels REBOUND (Off:1 Def:2),,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,115,2,72,1,6:30 PM,2:59,Goodwin BLOCK (2 BLK),,MISS McDaniels 4' Putback Layup,,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,1
+0022200241,117,4,0,1,6:30 PM,2:59,Avdija REBOUND (Off:1 Def:1),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,118,2,1,1,6:30 PM,2:54,MISS Barton 22' Jump Shot,,,,,4,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,119,4,0,1,6:30 PM,2:48,,,Rozier REBOUND (Off:1 Def:1),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,120,5,2,1,6:30 PM,2:46,Porzingis STEAL (1 STL),,Rozier Lost Ball Turnover (P1.T4),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200241,233,18,2,1,6:32 PM,2:46,,Instant Replay1st Period (6:32 PM EST),,23 - 30,7,0,125,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200241,125,6,1,1,6:33 PM,2:46,,,McDaniels P.FOUL (P2.T3) (J.Goble),,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200241,127,6,11,1,6:34 PM,2:46,Porzingis T.FOUL (P0.T1) (J.Goble),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022200241,128,3,16,1,6:34 PM,2:46,,,MISS Rozier Free Throw Technical,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,129,4,1,1,6:34 PM,2:46,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200241,130,8,0,1,6:34 PM,2:46,SUB: Gafford FOR Porzingis,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200241,131,8,0,1,6:34 PM,2:46,SUB: Kuzma FOR Avdija,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200241,134,6,4,1,6:34 PM,2:36,Gafford OFF.Foul (P1) (E.Dalen),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200241,136,5,37,1,6:34 PM,2:36,Gafford Offensive Foul Turnover (P1.T3),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022200241,137,1,101,1,6:35 PM,2:16,,,Smith Jr. 15' Driving Floating Jump Shot (2 PTS),25 - 30,5,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,138,2,79,1,6:35 PM,2:01,MISS Barton 15' Pullup Jump Shot,,,,,4,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,139,4,0,1,6:35 PM,2:01,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200241,141,2,5,1,6:35 PM,1:57,MISS Beal 4' Layup,,Smith Jr. BLOCK (1 BLK),,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,1
+0022200241,143,4,0,1,6:35 PM,1:57,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200241,145,8,0,1,6:35 PM,1:57,SUB: Kispert FOR Goodwin,,,,,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200241,147,1,1,1,6:36 PM,1:54,Barton 3PT Jump Shot (3 PTS) (Kuzma 3 AST),,,25 - 33,8,4,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200241,149,2,78,1,6:36 PM,1:38,,,MISS Washington 19' Floating Jump Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,150,4,0,1,6:36 PM,1:31,Gafford REBOUND (Off:0 Def:1),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,151,1,80,1,6:36 PM,1:19,Beal 13' Step Back Jump Shot (4 PTS),,,25 - 35,10,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,152,5,2,1,6:37 PM,1:04,Beal STEAL (3 STL),,Washington Lost Ball Turnover (P1.T5),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200241,154,2,41,1,6:37 PM,0:58,MISS Kispert 2' Running Layup,,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,155,4,0,1,6:37 PM,0:55,,,Richards REBOUND (Off:0 Def:1),,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,156,2,79,1,6:37 PM,0:53,,,MISS Rozier 27' 3PT Pullup Jump Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,157,4,0,1,6:37 PM,0:51,Kuzma REBOUND (Off:0 Def:2),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,158,2,1,1,6:37 PM,0:32,MISS Barton 3PT Jump Shot,,,,,4,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,159,4,0,1,6:37 PM,0:29,,,McDaniels REBOUND (Off:1 Def:3),,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,160,2,80,1,6:38 PM,0:10,,,MISS Rozier 15' Step Back Jump Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,161,4,0,1,6:38 PM,0:08,,,Richards REBOUND (Off:1 Def:1),,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,162,1,97,1,6:38 PM,0:08,,,Richards Tip Layup Shot (2 PTS),27 - 35,8,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,163,2,6,1,6:38 PM,0:00,MISS Kuzma 6' Driving Layup,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,164,4,0,1,6:38 PM,0:00,,,Richards REBOUND (Off:1 Def:2),,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,165,13,0,1,6:38 PM,0:00,,End of 1st Period (6:38 PM EST),,27 - 35,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200241,170,12,0,2,6:40 PM,12:00,,Start of 2nd Period (6:40 PM EST),,27 - 35,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200241,171,2,79,2,6:41 PM,11:42,,,MISS Hayward 31' 3PT Pullup Jump Shot,,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,172,4,0,2,6:41 PM,11:39,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200241,174,2,79,2,6:41 PM,11:25,MISS Kuzma 18' Pullup Jump Shot,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,175,4,0,2,6:41 PM,11:22,,,Rozier REBOUND (Off:1 Def:2),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,176,2,1,2,6:41 PM,11:12,,,MISS McDaniels 3PT Jump Shot,,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,177,4,0,2,6:41 PM,11:11,,,Richards REBOUND (Off:2 Def:2),,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,178,2,5,2,6:41 PM,11:11,Gafford BLOCK (1 BLK),,MISS Richards 3' Layup,,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1
+0022200241,180,4,0,2,6:41 PM,11:10,,,Rozier REBOUND (Off:2 Def:2),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,181,5,4,2,6:41 PM,11:10,,,Rozier Traveling Turnover (P2.T6),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022200241,182,2,43,2,6:42 PM,10:58,MISS Gafford 4' Alley Oop Layup,,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,183,4,0,2,6:42 PM,10:55,,,Richards REBOUND (Off:2 Def:3),,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,184,1,1,2,6:42 PM,10:45,,,McDaniels 27' 3PT Jump Shot (8 PTS) (Hayward 2 AST),30 - 35,5,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200241,186,2,79,2,6:42 PM,10:26,MISS Barton 19' Pullup Jump Shot,,,,,4,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,187,4,0,2,6:42 PM,10:23,Gafford REBOUND (Off:1 Def:1),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,189,1,72,2,6:42 PM,10:22,Gafford 3' Putback Layup (2 PTS),,,30 - 37,7,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,190,2,79,2,6:43 PM,10:13,,,MISS Rozier 26' 3PT Pullup Jump Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,191,4,0,2,6:43 PM,10:10,,,Richards REBOUND (Off:3 Def:3),,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,192,1,5,2,6:43 PM,10:10,,,Richards 2' Layup (4 PTS),32 - 37,5,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,193,6,26,2,6:43 PM,9:57,Kuzma Offensive Charge Foul (P1) (J.Goble),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200241,195,5,37,2,6:43 PM,9:57,Kuzma Offensive Foul Turnover (P1.T4),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022200241,196,8,0,2,6:43 PM,9:57,,,SUB: Smith Jr. FOR McDaniels,,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200241,198,2,79,2,6:43 PM,9:45,,,MISS Hayward 17' Pullup Jump Shot,,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,199,4,0,2,6:43 PM,9:41,Gafford REBOUND (Off:1 Def:2),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,200,1,101,2,6:44 PM,9:27,Kuzma 8' Driving Floating Jump Shot (11 PTS) (Kispert 2 AST),,,32 - 39,7,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200241,202,1,5,2,6:44 PM,9:16,,,Washington 8' Layup (5 PTS),34 - 39,5,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,203,5,45,2,6:44 PM,9:05,Goodwin Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,,,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022200241,205,1,1,2,6:44 PM,8:47,,,Washington 19' Jump Shot (7 PTS),36 - 39,3,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,206,5,4,2,6:45 PM,8:39,Gafford Traveling Turnover (P2.T6),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022200241,207,2,47,2,6:45 PM,8:28,Barton BLOCK (1 BLK),,MISS Washington 13' Turnaround Jump Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,1
+0022200241,209,4,0,2,6:45 PM,8:23,,,Washington REBOUND (Off:1 Def:0),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,210,2,79,2,6:45 PM,8:21,,,MISS Smith Jr. 14' Pullup Jump Shot,,,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,211,4,0,2,6:45 PM,8:20,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200241,213,8,0,2,6:45 PM,8:20,SUB: Beal FOR Kispert,,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200241,215,2,1,2,6:46 PM,7:59,MISS Kuzma 29' 3PT Jump Shot,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,216,4,0,2,6:46 PM,7:56,,,Rozier REBOUND (Off:2 Def:3),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,217,2,1,2,6:46 PM,7:49,,,MISS Smith Jr. 28' 3PT Jump Shot,,,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,218,4,0,2,6:46 PM,7:48,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200241,219,6,3,2,6:46 PM,7:48,,,Richards L.B.FOUL (P1.T1) (J.Goble),,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200241,222,8,0,2,6:46 PM,7:48,,,SUB: Jones FOR Washington,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200241,224,6,2,2,6:47 PM,7:33,,,Rozier S.FOUL (P1.T2) (E.Scott),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200241,226,3,11,2,6:47 PM,7:33,Gafford Free Throw 1 of 2 (3 PTS),,,36 - 40,4,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,227,3,12,2,6:47 PM,7:33,Gafford Free Throw 2 of 2 (4 PTS),,,36 - 41,5,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,228,1,1,2,6:47 PM,7:21,,,Hayward 27' 3PT Jump Shot (11 PTS) (Rozier 4 AST),39 - 41,2,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200241,230,1,5,2,6:48 PM,6:59,Beal 1' Layup (6 PTS),,,39 - 43,4,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,232,9,1,2,6:48 PM,6:48,WIZARDS Timeout: Regular (Full 2 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200241,234,8,0,2,6:48 PM,6:48,SUB: Davis FOR Barton,,,,,4,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,4,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200241,235,8,0,2,6:48 PM,6:48,SUB: Porzingis FOR Gafford,,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200241,236,8,0,2,6:48 PM,6:48,,,SUB: McDaniels FOR Rozier,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200241,240,1,98,2,6:51 PM,6:43,,,Smith Jr. 2' Cutting Layup Shot (4 PTS) (Hayward 3 AST),41 - 43,2,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200241,242,1,1,2,6:52 PM,6:23,Kuzma 3PT Jump Shot (14 PTS) (Beal 5 AST),,,41 - 46,5,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200241,244,1,79,2,6:52 PM,6:10,,,Hayward 18' Pullup Jump Shot (13 PTS),43 - 46,3,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0022200241,245,2,47,2,6:52 PM,5:51,MISS Porzingis 14' Turnaround Jump Shot,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,246,4,0,2,6:52 PM,5:49,Kuzma REBOUND (Off:1 Def:2),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,247,2,1,2,6:52 PM,5:46,MISS Beal 28' 3PT Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,248,4,0,2,6:52 PM,5:45,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200241,250,8,0,2,6:52 PM,5:45,,,SUB: Plumlee FOR Richards,,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200241,251,8,0,2,6:52 PM,5:45,,,SUB: Oubre Jr. FOR Hayward,,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200241,254,1,86,2,6:53 PM,5:30,,,Smith Jr. 13' Turnaround Fadeaway (6 PTS),45 - 46,1,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,255,5,40,2,6:53 PM,5:16,Beal Out of Bounds Lost Ball Turnover (P3.T7),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022200241,256,2,1,2,6:53 PM,4:58,,,MISS McDaniels 26' 3PT Jump Shot,,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,257,4,0,2,6:53 PM,4:55,,,Plumlee REBOUND (Off:1 Def:1),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,258,1,5,2,6:54 PM,4:51,,,Jones 3' Layup (2 PTS) (Plumlee 2 AST),47 - 46,-1,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200241,261,6,3,2,6:54 PM,4:37,Porzingis L.B.FOUL (P1.T1) (J.Goble),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200241,333,5,2,2,6:54 PM,4:37,Porzingis Lost Ball Turnover (P1.T8),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0022200241,270,1,9,2,6:54 PM,4:28,,,Oubre Jr. 3' Driving Dunk (4 PTS) (Plumlee 3 AST),49 - 46,-3,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200241,271,9,1,2,6:55 PM,4:28,WIZARDS Timeout: Regular (Full 3 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200241,274,8,0,2,6:55 PM,4:28,SUB: Kispert FOR Goodwin,,,,,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200241,275,8,0,2,6:55 PM,4:28,,,SUB: Rozier FOR McDaniels,,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200241,395,8,0,2,6:55 PM,4:28,SUB: Avdija FOR Kuzma,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200241,280,1,73,2,6:58 PM,4:13,Beal 1' Driving Reverse Layup (8 PTS),,,49 - 48,-1,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,282,6,1,2,6:58 PM,3:54,Beal P.FOUL (P2.T2) (J.Goble),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200241,284,5,4,2,6:58 PM,3:50,,,Jones Traveling Turnover (P1.T7),,,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022200241,285,2,79,2,6:59 PM,3:31,MISS Porzingis 14' Pullup Jump Shot,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,286,4,0,2,6:59 PM,3:29,,,Smith Jr. REBOUND (Off:0 Def:2),,,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,287,6,2,2,6:59 PM,3:22,Davis S.FOUL (P1.T3) (E.Dalen),,,,,4,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200241,289,3,11,2,7:00 PM,3:22,,,Plumlee Free Throw 1 of 2 (4 PTS),50 - 48,-2,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,290,8,0,2,7:00 PM,3:22,,,SUB: Hayward FOR Smith Jr.,,,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200241,291,8,0,2,7:00 PM,3:22,,,SUB: Washington FOR Jones,,,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200241,294,3,12,2,7:00 PM,3:22,,,Plumlee Free Throw 2 of 2 (5 PTS),51 - 48,-3,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0022200241,295,6,4,2,7:00 PM,3:12,Porzingis OFF.Foul (P2) (J.Goble),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200241,297,5,37,2,7:00 PM,3:12,Porzingis Offensive Foul Turnover (P2.T9),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022200241,298,2,1,2,7:01 PM,2:54,,,MISS Rozier 28' 3PT Jump Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,299,4,0,2,7:01 PM,2:52,Beal REBOUND (Off:0 Def:1),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,300,2,79,2,7:01 PM,2:46,MISS Davis 18' Pullup Jump Shot,,,,,4,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,301,4,0,2,7:01 PM,2:44,,,Oubre Jr. REBOUND (Off:0 Def:2),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,302,1,101,2,7:01 PM,2:35,,,Oubre Jr. 7' Driving Floating Jump Shot (6 PTS),53 - 48,-5,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,303,1,79,2,7:01 PM,2:25,Beal 20' Pullup Jump Shot (10 PTS),,,53 - 50,-3,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,304,2,1,2,7:01 PM,2:09,,,MISS Washington 26' 3PT Jump Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,305,4,0,2,7:01 PM,2:08,Avdija REBOUND (Off:1 Def:2),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,306,5,45,2,7:02 PM,1:49,Beal Out of Bounds - Bad Pass Turnover Turnover (P4.T10),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022200241,307,8,0,2,7:02 PM,1:49,SUB: Kuzma FOR Davis,,,,,4,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200241,309,2,79,2,7:02 PM,1:37,,,MISS Rozier 17' Pullup Jump Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,310,4,0,2,7:02 PM,1:34,,,Plumlee REBOUND (Off:2 Def:1),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,311,2,1,2,7:02 PM,1:30,,,MISS Hayward 15' Jump Shot,,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,312,4,0,2,7:02 PM,1:28,Kuzma REBOUND (Off:1 Def:3),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,313,2,7,2,7:02 PM,1:20,MISS Porzingis 6' Dunk,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,314,4,0,2,7:02 PM,1:18,Kispert REBOUND (Off:1 Def:2),,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,315,1,1,2,7:02 PM,1:16,Beal 27' 3PT Jump Shot (13 PTS) (Kuzma 4 AST),,,53 - 53,TIE,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200241,317,2,79,2,7:03 PM,1:00,,,MISS Oubre Jr. 26' 3PT Pullup Jump Shot,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,318,4,0,2,7:03 PM,0:58,Kispert REBOUND (Off:1 Def:3),,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,319,1,1,2,7:03 PM,0:50,Beal 3PT Jump Shot (16 PTS) (Kuzma 5 AST),,,53 - 56,3,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200241,322,2,1,2,7:03 PM,0:33,,,MISS Washington 17' Jump Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,323,4,0,2,7:03 PM,0:31,Beal REBOUND (Off:0 Def:2),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,325,5,2,2,7:03 PM,0:30,Beal Lost Ball Turnover (P5.T11),,Oubre Jr. STEAL (1 STL),,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200241,327,1,5,2,7:03 PM,0:27,,,Oubre Jr. 2' Layup (8 PTS),55 - 56,1,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,328,1,1,2,7:04 PM,0:09,Kispert 3PT Jump Shot (8 PTS) (Porzingis 1 AST),,,55 - 59,4,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200241,330,2,3,2,7:04 PM,0:00,,,MISS Plumlee 4' Hook Shot,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,331,4,0,2,7:04 PM,0:00,Kuzma REBOUND (Off:1 Def:4),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,332,13,0,2,7:04 PM,0:00,,End of 2nd Period (7:04 PM EST),,55 - 59,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200241,335,12,0,3,7:19 PM,12:00,,Start of 3rd Period (7:19 PM EST),,55 - 59,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200241,336,2,5,3,7:19 PM,11:41,Porzingis BLOCK (3 BLK),,MISS Plumlee 7' Layup,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1
+0022200241,338,4,0,3,7:20 PM,11:37,,,Oubre Jr. REBOUND (Off:1 Def:2),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,339,2,63,3,7:20 PM,11:36,,,MISS Oubre Jr. 5' Fadeaway Jumper,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,340,4,0,3,7:20 PM,11:34,Avdija REBOUND (Off:1 Def:3),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,341,2,1,3,7:20 PM,11:14,MISS Avdija 26' 3PT Jump Shot,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,342,4,0,3,7:20 PM,11:12,,,Oubre Jr. REBOUND (Off:1 Def:3),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,345,6,2,3,7:20 PM,11:08,Kuzma S.FOUL (P2.T1) (E.Scott),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200241,347,3,11,3,7:21 PM,11:08,,,MISS Washington Free Throw 1 of 2,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,348,4,1,3,7:21 PM,11:08,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200241,349,3,12,3,7:21 PM,11:08,,,Washington Free Throw 2 of 2 (8 PTS),56 - 59,3,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,350,1,1,3,7:21 PM,10:51,Beal 24' 3PT Jump Shot (19 PTS) (Kispert 3 AST),,,56 - 62,6,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200241,352,6,2,3,7:21 PM,10:38,Avdija S.FOUL (P1.T2) (E.Dalen),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200241,354,3,11,3,7:22 PM,10:38,,,Plumlee Free Throw 1 of 2 (6 PTS),57 - 62,5,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,355,3,12,3,7:22 PM,10:38,,,Plumlee Free Throw 2 of 2 (7 PTS),58 - 62,4,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,356,6,1,3,7:22 PM,10:28,,,Plumlee P.FOUL (P1.T1) (J.Goble),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200241,358,5,4,3,7:23 PM,10:27,Kuzma Traveling Turnover (P2.T12),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0022200241,359,2,1,3,7:23 PM,10:18,,,MISS Hayward 27' 3PT Jump Shot,,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,360,4,0,3,7:23 PM,10:14,Kuzma REBOUND (Off:1 Def:5),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,361,2,6,3,7:23 PM,10:03,MISS Kuzma 3' Driving Layup,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,362,4,0,3,7:23 PM,9:59,Porzingis REBOUND (Off:1 Def:1),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,363,2,97,3,7:23 PM,9:59,MISS Porzingis Tip Layup Shot,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,364,4,0,3,7:23 PM,9:59,,,Plumlee REBOUND (Off:2 Def:2),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,365,2,1,3,7:23 PM,9:48,,,MISS Oubre Jr. 26' 3PT Jump Shot,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,366,4,0,3,7:23 PM,9:43,Avdija REBOUND (Off:1 Def:4),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,367,2,1,3,7:24 PM,9:35,MISS Porzingis 24' 3PT Jump Shot,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,368,4,0,3,7:24 PM,9:33,,,Plumlee REBOUND (Off:2 Def:3),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,369,2,5,3,7:24 PM,9:21,Porzingis BLOCK (4 BLK),,MISS Plumlee 7' Layup,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1
+0022200241,371,4,0,3,7:24 PM,9:18,,,Hayward REBOUND (Off:1 Def:0),,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,372,2,1,3,7:24 PM,9:16,,,MISS Washington 28' 3PT Jump Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,373,4,0,3,7:24 PM,9:14,Avdija REBOUND (Off:1 Def:5),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,374,5,4,3,7:24 PM,9:04,Kuzma Traveling Turnover (P3.T13),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022200241,375,6,2,3,7:25 PM,8:51,Porzingis S.FOUL (P3.T3) (E.Dalen),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200241,377,3,11,3,7:25 PM,8:51,,,MISS Hayward Free Throw 1 of 2,,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,378,4,1,3,7:25 PM,8:51,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200241,379,3,12,3,7:25 PM,8:51,,,Hayward Free Throw 2 of 2 (14 PTS),59 - 62,3,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,380,2,79,3,7:25 PM,8:39,MISS Beal 28' 3PT Pullup Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,381,4,0,3,7:26 PM,8:35,,,Rozier REBOUND (Off:2 Def:4),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,382,1,57,3,7:26 PM,8:29,,,Oubre Jr. 3' Driving Hook Shot (10 PTS) (Rozier 5 AST),61 - 62,1,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200241,384,1,9,3,7:26 PM,8:15,Porzingis 4' Driving Dunk (8 PTS),,,61 - 64,3,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,386,7,1,3,7:26 PM,8:12,WIZARDS Violation: Delay of game Violation,,,,,2,1610612764,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200241,387,1,101,3,7:26 PM,7:58,,,Oubre Jr. 8' Driving Floating Jump Shot (12 PTS),63 - 64,1,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,388,2,1,3,7:26 PM,7:49,MISS Porzingis 28' 3PT Jump Shot,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,389,4,0,3,7:26 PM,7:47,,,Oubre Jr. REBOUND (Off:1 Def:4),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,390,1,6,3,7:27 PM,7:36,,,Rozier 4' Driving Layup (4 PTS) (Hayward 4 AST),65 - 64,-1,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200241,392,9,1,3,7:27 PM,7:36,WIZARDS Timeout: Regular (Full 4 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200241,393,1,99,3,7:30 PM,7:23,Kuzma 3' Cutting Finger Roll Layup Shot (16 PTS) (Avdija 1 AST),,,65 - 66,1,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200241,397,2,80,3,7:30 PM,7:04,,,MISS Rozier 24' 3PT Step Back Jump Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,398,4,0,3,7:30 PM,7:02,Beal REBOUND (Off:0 Def:3),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,399,1,6,3,7:30 PM,6:45,Beal 2' Driving Layup (21 PTS),,,65 - 68,3,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,400,5,2,3,7:31 PM,6:28,Beal STEAL (4 STL),,Washington Lost Ball Turnover (P2.T8),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200241,402,1,41,3,7:31 PM,6:23,Kispert 2' Running Layup (10 PTS),,,65 - 70,5,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,403,6,2,3,7:31 PM,6:20,Beal S.FOUL (P3.T4) (E.Dalen),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200241,405,3,11,3,7:31 PM,6:20,,,Oubre Jr. Free Throw 1 of 2 (13 PTS),66 - 70,4,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,406,8,0,3,7:31 PM,6:20,SUB: Goodwin FOR Kuzma,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200241,408,3,12,3,7:32 PM,6:20,,,Oubre Jr. Free Throw 2 of 2 (14 PTS),67 - 70,3,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,409,2,80,3,7:32 PM,6:02,MISS Porzingis 28' 3PT Step Back Jump Shot,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,410,4,0,3,7:32 PM,5:58,,,Hayward REBOUND (Off:1 Def:1),,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,411,2,1,3,7:32 PM,5:50,,,MISS Rozier 26' 3PT Jump Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,412,4,0,3,7:32 PM,5:47,Kispert REBOUND (Off:1 Def:4),,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,413,1,101,3,7:32 PM,5:38,Goodwin 5' Driving Floating Jump Shot (2 PTS),,,67 - 72,5,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,414,5,1,3,7:33 PM,5:26,Beal STEAL (5 STL),,Plumlee Bad Pass Turnover (P1.T9),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200241,417,6,1,3,7:33 PM,5:25,,,Plumlee P.FOUL (P2.T2) (E.Scott),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200241,419,8,0,3,7:33 PM,5:25,,,SUB: Smith Jr. FOR Rozier,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200241,420,8,0,3,7:33 PM,5:25,,,SUB: McDaniels FOR Washington,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200241,423,2,79,3,7:33 PM,5:11,MISS Porzingis 6' Pullup Jump Shot,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,424,4,0,3,7:33 PM,5:07,Avdija REBOUND (Off:2 Def:5),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,425,2,6,3,7:33 PM,5:06,MISS Beal 5' Driving Layup,,Oubre Jr. BLOCK (1 BLK),,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,1
+0022200241,427,4,0,3,7:33 PM,5:06,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200241,429,6,1,3,7:34 PM,5:03,,,Oubre Jr. P.FOUL (P1.T3) (J.Goble),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200241,431,5,1,3,7:34 PM,4:54,Porzingis Bad Pass Turnover (P3.T14),,Smith Jr. STEAL (1 STL),,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200241,433,2,80,3,7:34 PM,4:45,,,MISS Oubre Jr. 25' 3PT Step Back Jump Shot,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,434,4,0,3,7:35 PM,4:43,Avdija REBOUND (Off:2 Def:6),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,435,2,1,3,7:35 PM,4:35,MISS Porzingis 26' 3PT Jump Shot,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,436,4,0,3,7:35 PM,4:30,,,Hayward REBOUND (Off:1 Def:2),,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,437,2,63,3,7:35 PM,4:20,,,MISS Hayward 14' Fadeaway Jumper,,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,438,4,0,3,7:35 PM,4:20,Porzingis REBOUND (Off:1 Def:2),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,439,6,1,3,7:35 PM,4:20,,,Plumlee P.FOUL (P3.T4) (E.Dalen),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200241,441,8,0,3,7:35 PM,4:20,SUB: Barton FOR Kispert,,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,4,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200241,443,2,1,3,7:36 PM,4:00,MISS Avdija 24' 3PT Jump Shot,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,444,4,0,3,7:36 PM,3:57,,,Oubre Jr. REBOUND (Off:1 Def:5),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,445,1,6,3,7:36 PM,3:46,,,Oubre Jr. 5' Driving Layup (16 PTS),69 - 72,3,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,446,2,79,3,7:36 PM,3:32,MISS Goodwin 17' Pullup Jump Shot,,,,,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,447,4,0,3,7:36 PM,3:29,Porzingis REBOUND (Off:2 Def:2),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,448,2,6,3,7:36 PM,3:23,MISS Avdija 6' Driving Layup,,Plumlee BLOCK (1 BLK),,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,1
+0022200241,450,4,0,3,7:36 PM,3:20,,,Hayward REBOUND (Off:1 Def:3),,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,451,1,41,3,7:36 PM,3:14,,,Oubre Jr. 3' Running Layup (18 PTS) (Hayward 5 AST),71 - 72,1,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200241,454,9,1,3,7:37 PM,2:56,,,Hornets Timeout: Regular (Reg.2 Short 0),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200241,455,8,0,3,7:37 PM,2:56,SUB: Gibson FOR Porzingis,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,4,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200241,456,8,0,3,7:37 PM,2:56,SUB: Kuzma FOR Avdija,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200241,457,8,0,3,7:37 PM,2:56,,,SUB: Richards FOR Oubre Jr.,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200241,458,8,0,3,7:37 PM,2:56,,,SUB: Rozier FOR Hayward,,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200241,459,8,0,3,7:37 PM,2:56,,,SUB: Washington FOR Plumlee,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200241,465,6,2,3,7:40 PM,2:53,,,Washington S.FOUL (P1.PN) (E.Scott),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200241,467,3,11,3,7:41 PM,2:53,MISS Kuzma Free Throw 1 of 2,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,468,4,1,3,7:41 PM,2:53,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200241,469,3,12,3,7:41 PM,2:53,Kuzma Free Throw 2 of 2 (17 PTS),,,71 - 73,2,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,470,6,2,3,7:41 PM,2:42,Gibson S.FOUL (P1.PN) (E.Scott),,,,,4,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200241,472,3,11,3,7:42 PM,2:42,,,Richards Free Throw 1 of 2 (5 PTS),72 - 73,1,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,473,3,12,3,7:42 PM,2:42,,,MISS Richards Free Throw 2 of 2,,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,474,4,0,3,7:42 PM,2:40,Kuzma REBOUND (Off:1 Def:6),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,475,1,79,3,7:42 PM,2:29,Beal 17' Pullup Jump Shot (23 PTS),,,72 - 75,3,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,476,1,1,3,7:43 PM,2:18,,,Washington 26' 3PT Jump Shot (11 PTS) (Smith Jr. 1 AST),75 - 75,TIE,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200241,478,2,6,3,7:43 PM,2:00,MISS Kuzma 4' Driving Layup,,Washington BLOCK (1 BLK),,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,1
+0022200241,480,4,0,3,7:43 PM,1:59,,,Washington REBOUND (Off:1 Def:1),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,481,5,40,3,7:43 PM,1:57,,,McDaniels Out of Bounds Lost Ball Turnover (P1.T10),,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022200241,482,5,1,3,7:43 PM,1:49,Kuzma Bad Pass Turnover (P4.T15),,Smith Jr. STEAL (2 STL),,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200241,484,2,1,3,7:43 PM,1:43,,,MISS Washington 26' 3PT Jump Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,485,4,0,3,7:43 PM,1:38,Beal REBOUND (Off:0 Def:4),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,486,2,1,3,7:43 PM,1:30,MISS Gibson 26' 3PT Jump Shot,,,,,4,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,487,4,0,3,7:44 PM,1:25,,,Richards REBOUND (Off:3 Def:4),,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,488,1,99,3,7:44 PM,1:20,,,Richards 2' Cutting Finger Roll Layup Shot (7 PTS) (Smith Jr. 2 AST),77 - 75,-2,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200241,490,2,44,3,7:44 PM,0:58,MISS Gibson 2' Reverse Layup,,,,,4,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,491,4,0,3,7:44 PM,0:55,,,Richards REBOUND (Off:3 Def:5),,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,492,5,4,3,7:44 PM,0:49,,,Washington Traveling Turnover (P3.T11),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022200241,493,9,1,3,7:44 PM,0:49,,,Hornets Timeout: Regular (Reg.3 Short 0),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200241,494,6,2,3,7:46 PM,0:37,,,Rozier S.FOUL (P2.PN) (E.Scott),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200241,496,3,11,3,7:47 PM,0:37,MISS Goodwin Free Throw 1 of 2,,,,,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,497,4,1,3,7:47 PM,0:37,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200241,500,3,12,3,7:47 PM,0:37,MISS Goodwin Free Throw 2 of 2,,,,,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,498,8,0,3,7:47 PM,0:37,SUB: Avdija FOR Beal,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200241,501,4,0,3,7:47 PM,0:35,,,McDaniels REBOUND (Off:1 Def:4),,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,502,1,5,3,7:47 PM,0:21,,,Washington 3' Layup (13 PTS) (Smith Jr. 3 AST),79 - 75,-4,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200241,504,1,5,3,7:48 PM,0:02,Gibson 2' Layup (2 PTS) (Barton 1 AST),,,79 - 77,-2,4,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,4,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200241,506,2,103,3,7:48 PM,0:00,,,MISS McDaniels 38' 3PT Running Pull-Up Jump Shot,,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,507,4,0,3,7:48 PM,0:00,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200241,508,13,0,3,7:48 PM,0:00,,End of 3rd Period (7:48 PM EST),,79 - 77,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200241,513,12,0,4,7:50 PM,12:00,,Start of 4th Period (7:50 PM EST),,79 - 77,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200241,514,2,79,4,7:51 PM,11:44,MISS Barton 5' Pullup Jump Shot,,,,,4,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,515,4,0,4,7:51 PM,11:44,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200241,517,1,1,4,7:51 PM,11:40,Kuzma 24' 3PT Jump Shot (20 PTS) (Goodwin 1 AST),,,79 - 80,1,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200241,519,6,4,4,7:51 PM,11:26,,,Richards OFF.Foul (P2) (E.Scott),,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200241,521,5,37,4,7:51 PM,11:26,,,Richards Offensive Foul Turnover (P1.T12),,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022200241,522,1,80,4,7:52 PM,11:11,Kuzma 28' 3PT Step Back Jump Shot (23 PTS),,,79 - 83,4,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,523,2,108,4,7:52 PM,10:47,Barton BLOCK (2 BLK),,MISS Richards 3' Cutting Dunk Shot,,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,1
+0022200241,525,4,0,4,7:52 PM,10:45,,,Richards REBOUND (Off:4 Def:5),,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,526,1,72,4,7:52 PM,10:43,,,Richards 7' Putback Layup (9 PTS),81 - 83,2,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,527,2,1,4,7:52 PM,10:27,MISS Kuzma 26' 3PT Jump Shot,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,528,4,0,4,7:52 PM,10:24,Gibson REBOUND (Off:1 Def:0),,,,,4,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,529,1,79,4,7:52 PM,10:20,Goodwin 26' 3PT Pullup Jump Shot (5 PTS) (Barton 2 AST),,,81 - 86,5,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,4,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200241,531,2,79,4,7:53 PM,10:04,,,MISS Hayward 19' Pullup Jump Shot,,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,532,4,0,4,7:53 PM,10:00,Gibson REBOUND (Off:1 Def:1),,,,,4,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,533,1,6,4,7:53 PM,9:48,Kuzma 3' Driving Layup (25 PTS),,,81 - 88,7,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,534,9,1,4,7:53 PM,9:44,,,Hornets Timeout: Regular (Reg.4 Short 0),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200241,535,8,0,4,7:53 PM,9:44,,,SUB: Smith Jr. FOR McDaniels,,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200241,538,1,79,4,7:56 PM,9:32,,,Hayward 13' Pullup Jump Shot (16 PTS),83 - 88,5,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,539,2,1,4,7:56 PM,9:13,MISS Kispert 26' 3PT Jump Shot,,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,540,4,0,4,7:56 PM,9:11,,,Hayward REBOUND (Off:1 Def:4),,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,541,6,2,4,7:57 PM,9:06,Gibson S.FOUL (P2.T1) (E.Scott),,,,,4,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200241,543,3,11,4,7:57 PM,9:06,,,Richards Free Throw 1 of 2 (10 PTS),84 - 88,4,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,544,8,0,4,7:57 PM,9:06,SUB: Porzingis FOR Gibson,,,,,4,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200241,545,8,0,4,7:57 PM,9:06,SUB: Beal FOR Kispert,,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200241,548,3,12,4,7:58 PM,9:06,,,Richards Free Throw 2 of 2 (11 PTS),85 - 88,3,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,549,1,58,4,7:58 PM,8:52,Kuzma 8' Turnaround Hook Shot (27 PTS),,,85 - 90,5,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,550,6,2,4,7:58 PM,8:52,,,Hayward S.FOUL (P2.T1) (E.Scott),,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200241,552,3,10,4,7:58 PM,8:52,Kuzma Free Throw 1 of 1 (28 PTS),,,85 - 91,6,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,553,2,1,4,7:59 PM,8:32,,,MISS Smith Jr. 24' 3PT Jump Shot,,,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,554,4,0,4,7:59 PM,8:29,Barton REBOUND (Off:0 Def:1),,,,,4,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,555,2,79,4,7:59 PM,8:18,MISS Beal 14' Pullup Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,556,4,0,4,7:59 PM,8:15,Porzingis REBOUND (Off:3 Def:2),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,557,1,97,4,7:59 PM,8:15,Porzingis Tip Layup Shot (10 PTS),,,85 - 93,8,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,558,2,98,4,7:59 PM,8:08,,,MISS Richards 7' Cutting Layup Shot,,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,559,4,0,4,7:59 PM,8:04,Kuzma REBOUND (Off:1 Def:7),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,560,2,1,4,7:59 PM,8:00,MISS Beal 19' Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,561,4,0,4,7:59 PM,7:57,Goodwin REBOUND (Off:1 Def:1),,,,,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,562,2,1,4,7:59 PM,7:55,MISS Kuzma 27' 3PT Jump Shot,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,563,4,0,4,7:59 PM,7:55,,,Richards REBOUND (Off:4 Def:6),,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,564,2,98,4,7:59 PM,7:46,,,MISS Richards 4' Cutting Layup Shot,,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,566,4,0,4,8:00 PM,7:45,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200241,568,8,0,4,8:00 PM,7:45,SUB: Avdija FOR Kuzma,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200241,569,8,0,4,8:00 PM,7:45,,,SUB: Jones FOR Washington,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200241,572,2,1,4,8:00 PM,7:42,,,MISS Hayward 17' Jump Shot,,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,573,4,0,4,8:00 PM,7:36,Avdija REBOUND (Off:2 Def:7),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,574,2,41,4,8:00 PM,7:34,MISS Goodwin 5' Running Layup,,Smith Jr. BLOCK (2 BLK),,,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,1
+0022200241,576,4,0,4,8:00 PM,7:34,Avdija REBOUND (Off:3 Def:7),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,577,2,1,4,8:00 PM,7:24,MISS Porzingis 26' 3PT Jump Shot,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,578,4,0,4,8:00 PM,7:21,,,Jones REBOUND (Off:0 Def:1),,,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,580,6,1,4,8:01 PM,7:12,Goodwin P.FOUL (P2.T2) (J.Goble),,,,,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200241,583,8,0,4,8:01 PM,7:12,,,SUB: Plumlee FOR Richards,,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200241,585,2,79,4,8:01 PM,7:01,,,MISS Hayward 6' Pullup Jump Shot,,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,586,4,0,4,8:01 PM,7:01,,,Plumlee REBOUND (Off:3 Def:3),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,587,2,97,4,8:01 PM,7:01,,,MISS Plumlee Tip Layup Shot,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,588,4,0,4,8:01 PM,7:01,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200241,589,6,3,4,8:01 PM,7:01,Porzingis L.B.FOUL (P4.T3) (E.Dalen),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200241,591,6,2,4,8:02 PM,6:53,Beal S.FOUL (P4.T4) (J.Goble),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200241,593,3,11,4,8:02 PM,6:53,,,Hayward Free Throw 1 of 2 (17 PTS),86 - 93,7,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,594,8,0,4,8:02 PM,6:53,,,SUB: McDaniels FOR Rozier,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200241,596,3,12,4,8:03 PM,6:53,,,Hayward Free Throw 2 of 2 (18 PTS),87 - 93,6,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,597,2,44,4,8:03 PM,6:34,MISS Beal 2' Reverse Layup,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,598,4,0,4,8:03 PM,6:32,Porzingis REBOUND (Off:4 Def:2),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,599,5,1,4,8:03 PM,6:32,Porzingis Bad Pass Turnover (P4.T16),,Jones STEAL (1 STL),,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200241,601,1,50,4,8:03 PM,6:27,,,Jones 2' Running Dunk (4 PTS),89 - 93,4,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,602,2,1,4,8:03 PM,6:18,MISS Porzingis 17' Jump Shot,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,603,4,0,4,8:03 PM,6:14,,,Plumlee REBOUND (Off:3 Def:4),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,604,2,98,4,8:04 PM,5:59,Goodwin BLOCK (3 BLK),,MISS McDaniels 3' Cutting Layup Shot,,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,1
+0022200241,605,4,0,4,8:04 PM,5:59,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200241,607,9,1,4,8:04 PM,5:59,,,Hornets Timeout: Regular (Reg.5 Short 0),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200241,608,8,0,4,8:05 PM,5:59,SUB: Kispert FOR Barton,,,,,4,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200241,609,8,0,4,8:05 PM,5:59,SUB: Kuzma FOR Goodwin,,,,,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200241,610,8,0,4,8:05 PM,5:59,,,SUB: Oubre Jr. FOR Hayward,,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200241,614,2,5,4,8:07 PM,5:56,Porzingis BLOCK (5 BLK),,MISS Jones 5' Layup,,,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1
+0022200241,616,4,0,4,8:07 PM,5:51,Avdija REBOUND (Off:3 Def:8),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,617,1,9,4,8:07 PM,5:38,Beal 3' Driving Dunk (25 PTS) (Porzingis 2 AST),,,89 - 95,6,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200241,619,5,4,4,8:07 PM,5:23,,,Plumlee Traveling Turnover (P2.T13),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0022200241,620,2,79,4,8:08 PM,5:08,MISS Beal 6' Pullup Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,621,4,0,4,8:08 PM,5:05,Avdija REBOUND (Off:4 Def:8),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,622,1,97,4,8:08 PM,5:05,Avdija Tip Layup Shot (10 PTS),,,89 - 97,8,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,623,2,101,4,8:08 PM,4:48,,,MISS Jones 9' Driving Floating Jump Shot,,,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,624,4,0,4,8:08 PM,4:46,Porzingis REBOUND (Off:4 Def:3),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,625,2,79,4,8:08 PM,4:35,MISS Porzingis 17' Pullup Jump Shot,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,626,4,0,4,8:08 PM,4:32,,,McDaniels REBOUND (Off:1 Def:5),,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,627,1,1,4,8:08 PM,4:26,,,Oubre Jr. 26' 3PT Jump Shot (21 PTS) (McDaniels 1 AST),92 - 97,5,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200241,629,2,6,4,8:09 PM,4:09,MISS Avdija 4' Driving Layup,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,630,4,0,4,8:09 PM,4:09,Kispert REBOUND (Off:2 Def:4),,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,631,6,2,4,8:09 PM,4:09,,,Smith Jr. S.FOUL (P1.T2) (J.Goble),,,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200241,633,3,11,4,8:09 PM,4:09,Kispert Free Throw 1 of 2 (11 PTS),,,92 - 98,6,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,634,8,0,4,8:09 PM,4:09,,,SUB: Rozier FOR McDaniels,,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200241,635,8,0,4,8:09 PM,4:09,,,SUB: Washington FOR Jones,,,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200241,638,3,12,4,8:10 PM,4:09,Kispert Free Throw 2 of 2 (12 PTS),,,92 - 99,7,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0022200241,639,1,79,4,8:10 PM,3:59,,,Oubre Jr. 18' Pullup Jump Shot (23 PTS),94 - 99,5,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,640,2,1,4,8:10 PM,3:38,MISS Avdija 26' 3PT Jump Shot,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,641,4,0,4,8:10 PM,3:35,,,Washington REBOUND (Off:1 Def:2),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,642,2,6,4,8:10 PM,3:29,,,MISS Rozier 7' Driving Layup,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,643,4,0,4,8:10 PM,3:29,,,Rozier REBOUND (Off:3 Def:4),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,644,2,72,4,8:10 PM,3:29,Kispert BLOCK (1 BLK),,MISS Rozier 5' Putback Layup,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,1
+0022200241,646,4,0,4,8:10 PM,3:29,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200241,648,8,0,4,8:10 PM,3:29,,,SUB: Hayward FOR Smith Jr.,,,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200241,650,2,73,4,8:11 PM,3:19,,,MISS Oubre Jr. 4' Driving Reverse Layup,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,651,4,0,4,8:11 PM,3:17,,,Plumlee REBOUND (Off:4 Def:4),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,652,1,97,4,8:11 PM,3:17,,,Plumlee Tip Layup Shot (9 PTS),96 - 99,3,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,653,9,1,4,8:11 PM,3:17,WIZARDS Timeout: Regular (Full 5 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200241,654,6,1,4,8:13 PM,3:07,,,Oubre Jr. P.FOUL (P2.T3) (J.Goble),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200241,656,1,9,4,8:13 PM,3:01,Avdija 3' Driving Dunk (12 PTS),,,96 - 101,5,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,657,2,79,4,8:13 PM,2:40,,,MISS Rozier 22' Pullup Jump Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,658,4,0,4,8:13 PM,2:37,Kuzma REBOUND (Off:1 Def:8),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,659,2,66,4,8:14 PM,2:22,MISS Porzingis 13' Jump Bank Shot,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,660,4,0,4,8:14 PM,2:19,,,Washington REBOUND (Off:1 Def:3),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,661,2,80,4,8:14 PM,2:12,,,MISS Washington 25' 3PT Step Back Jump Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,662,4,0,4,8:14 PM,2:08,Avdija REBOUND (Off:4 Def:9),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,663,2,1,4,8:14 PM,1:46,MISS Beal 24' 3PT Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,664,4,0,4,8:14 PM,1:44,,,Washington REBOUND (Off:1 Def:4),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,665,2,66,4,8:14 PM,1:39,,,MISS Hayward 26' 3PT Jump Bank Shot,,,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,666,4,0,4,8:14 PM,1:38,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200241,667,6,3,4,8:14 PM,1:38,Porzingis L.B.FOUL (P5.PN) (J.Goble),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200241,669,3,11,4,8:15 PM,1:38,,,MISS Plumlee Free Throw 1 of 2,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,670,4,1,4,8:15 PM,1:38,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200241,671,3,12,4,8:15 PM,1:38,,,MISS Plumlee Free Throw 2 of 2,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,672,4,0,4,8:15 PM,1:33,Porzingis REBOUND (Off:4 Def:4),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,673,5,45,4,8:16 PM,1:16,Avdija Out of Bounds - Bad Pass Turnover Turnover (P1.T17),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022200241,674,2,58,4,8:16 PM,1:05,,,MISS Washington 15' Turnaround Hook Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,675,4,0,4,8:16 PM,1:02,Kuzma REBOUND (Off:1 Def:9),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,676,6,2,4,8:16 PM,0:48,,,Plumlee S.FOUL (P4.T4) (E.Scott),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200241,678,3,11,4,8:17 PM,0:48,MISS Beal Free Throw 1 of 2,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,679,4,1,4,8:17 PM,0:48,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200241,680,3,12,4,8:17 PM,0:48,Beal Free Throw 2 of 2 (26 PTS),,,96 - 102,6,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,681,2,6,4,8:17 PM,0:40,Avdija BLOCK (1 BLK),,MISS Oubre Jr. 6' Driving Layup,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,1
+0022200241,683,4,0,4,8:17 PM,0:40,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200241,685,6,2,4,8:18 PM,0:34,Avdija S.FOUL (P2.PN) (E.Scott),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0022200241,687,3,11,4,8:18 PM,0:34,,,Rozier Free Throw 1 of 2 (5 PTS),97 - 102,5,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,688,8,0,4,8:19 PM,0:34,,,SUB: Smith Jr. FOR Washington,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200241,690,3,12,4,8:19 PM,0:34,,,Rozier Free Throw 2 of 2 (6 PTS),98 - 102,4,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,691,2,79,4,8:20 PM,0:18,MISS Kuzma 28' 3PT Pullup Jump Shot,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,692,4,0,4,8:20 PM,0:15,,,Oubre Jr. REBOUND (Off:1 Def:6),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,693,9,1,4,8:20 PM,0:15,,,Hornets Timeout: Regular (Reg.6 Short 0),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200241,694,8,0,4,8:20 PM,0:15,SUB: Goodwin FOR Beal,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200241,695,8,0,4,8:20 PM,0:15,,,SUB: Washington FOR Smith Jr.,,,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200241,698,1,6,4,8:21 PM,0:09,,,Rozier 4' Driving Layup (8 PTS),100 - 102,2,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,699,9,1,4,8:22 PM,0:09,WIZARDS Timeout: Regular (Full 6 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200241,700,8,0,4,8:22 PM,0:09,,,SUB: Smith Jr. FOR Washington,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200241,702,9,1,4,8:24 PM,0:09,WIZARDS Timeout: Regular (Full 7 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200241,703,6,1,4,8:25 PM,0:08,,,Oubre Jr. P.FOUL (P3.PN) (J.Goble),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200241,705,3,11,4,8:26 PM,0:08,Porzingis Free Throw 1 of 2 (11 PTS),,,100 - 103,3,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,706,8,0,4,8:26 PM,0:08,,,SUB: Washington FOR Smith Jr.,,,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0022200241,708,3,12,4,8:26 PM,0:08,Porzingis Free Throw 2 of 2 (12 PTS),,,100 - 104,4,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,709,9,1,4,8:26 PM,0:08,,,Hornets Timeout: Regular (Reg.7 Short 0),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200241,710,1,9,4,8:27 PM,0:05,,,Hayward 2' Driving Dunk (20 PTS) (Plumlee 4 AST),102 - 104,2,5,202330,Gordon Hayward,1610612766.0,Charlotte,Hornets,CHA,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0022200241,712,6,1,4,8:28 PM,0:03,,,Rozier P.FOUL (P3.PN) (E.Scott),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200241,714,3,11,4,8:28 PM,0:03,Kispert Free Throw 1 of 2 (13 PTS),,,102 - 105,3,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,715,3,12,4,8:28 PM,0:03,Kispert Free Throw 2 of 2 (14 PTS),,,102 - 106,4,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200241,716,2,103,4,8:28 PM,0:00,,,MISS Rozier 32' 3PT Running Pull-Up Jump Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0022200241,717,4,0,4,8:28 PM,0:00,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200241,718,13,0,4,8:29 PM,0:00,,End of 4th Period (8:29 PM EST),,102 - 106,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

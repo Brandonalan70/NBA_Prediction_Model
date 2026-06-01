@@ -1,0 +1,113 @@
+{
+  "model_type": "Stacking Ensemble",
+  "training_time_seconds": 72.39593625068665,
+  "data_sample_fraction": 1.0,
+  "n_features": 18,
+  "n_samples_train": 643640,
+  "n_samples_test": 160911,
+  "cv_folds": 3,
+  "base_models": [
+    "logistic",
+    "random_forest",
+    "xgboost"
+  ],
+  "individual_model_performance": {
+    "logistic": {
+      "training_time": 5.602105379104614,
+      "accuracy": 0.7916177265693458,
+      "precision": 0.7719998085238786,
+      "recall": 0.7154560511061162,
+      "f1_score": 0.7426532100234084,
+      "roc_auc": 0.8734232964312493,
+      "brier_score": 0.14208229399875275,
+      "log_loss": 0.433932817414342
+    },
+    "random_forest": {
+      "training_time": 2.978665351867676,
+      "accuracy": 0.9822883457314914,
+      "precision": 0.9926229009491361,
+      "recall": 0.9650272092748137,
+      "f1_score": 0.9786305560554256,
+      "roc_auc": 0.9992500267999692,
+      "brier_score": 0.03135858438389926,
+      "log_loss": 0.14761310923018975
+    },
+    "xgboost": {
+      "training_time": 0.3728525638580322,
+      "accuracy": 0.8635394721305566,
+      "precision": 0.866995628134242,
+      "recall": 0.7976605938719981,
+      "f1_score": 0.8308841651263092,
+      "roc_auc": 0.9470633167880536,
+      "brier_score": 0.09846101557024588,
+      "log_loss": 0.3199724397090248
+    }
+  },
+  "test_metrics": {
+    "accuracy": 0.9978373137945821,
+    "precision": 0.9982374026127914,
+    "recall": 0.9966136282976458,
+    "f1_score": 0.9974248545930826,
+    "roc_auc": 0.9999781143994277,
+    "brier_score": 0.0016227748461351747,
+    "log_loss": 0.006343220254714591,
+    "expected_calibration_error": 0.001519218825643555,
+    "max_calibration_error": 0.2788174375716922,
+    "sharpness": 0.4968404848564809
+  },
+  "baseline_comparison": {
+    "baseline_home_advantage": {
+      "brier_score": 0.2759485678418505
+    },
+    "baseline_uniform": {
+      "brier_score": 0.25
+    },
+    "brier_skill_score": 0.9941192851304624
+  },
+  "game_situation_analysis": {
+    "game_stage_Q1": {
+      "n_samples": 10444,
+      "brier_score": 0.001405639190736272
+    },
+    "game_stage_Q2": {
+      "n_samples": 12098,
+      "brier_score": 0.0009174045601468853
+    },
+    "game_stage_Q3": {
+      "n_samples": 12173,
+      "brier_score": 0.0007970114650884115
+    },
+    "game_stage_Q4": {
+      "n_samples": 11239,
+      "brier_score": 0.0014362230374427322
+    },
+    "closeness_Very Close (0-5)": {
+      "n_samples": 160888,
+      "brier_score": 0.0016230065719047317
+    },
+    "clutch_time": {
+      "n_samples": 160911,
+      "brier_score": 0.0016227748461351747
+    }
+  },
+  "feature_names": [
+    "SECONDS REMAINING",
+    "HOME_SCORE",
+    "SCOREMARGIN",
+    "HOME_PPG_TOTAL",
+    "HOME_APG_TOTAL",
+    "HOME_RPG_TOTAL",
+    "HOME_PLUSMIN_TOTAL",
+    "VISITOR_PPG_TOTAL",
+    "VISITOR_APG_TOTAL",
+    "VISITOR_RPG_TOTAL",
+    "VISITOR_PLUSMIN_TOTAL",
+    "ELO_DIFF",
+    "PPG_DIFFERENTIAL",
+    "APG_DIFFERENTIAL",
+    "RPG_DIFFERENTIAL",
+    "PLUSMIN_DIFFERENTIAL",
+    "GAME_PROGRESS",
+    "FINAL_QUARTER"
+  ]
+}

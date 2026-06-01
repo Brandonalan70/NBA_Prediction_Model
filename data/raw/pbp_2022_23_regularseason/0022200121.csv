@@ -1,0 +1,466 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200121,2,12,0,1,7:11 PM,12:00,,Start of 1st Period (7:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200121,4,10,0,1,7:11 PM,12:00,Jump Ball Turner vs. Adebayo: Tip to Haliburton,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,1
+0022200121,7,2,1,1,7:11 PM,11:41,MISS Duarte 28' 3PT Jump Shot,,,,,4,1630537,Chris Duarte,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,8,4,0,1,7:11 PM,11:39,,,Herro REBOUND (Off:0 Def:1),,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,9,2,43,1,7:12 PM,11:22,,,MISS Adebayo 1' Alley Oop Layup,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,10,4,0,1,7:12 PM,11:20,Haliburton REBOUND (Off:0 Def:1),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,11,2,2,1,7:12 PM,11:17,MISS Hield 26' 3PT Running Jump Shot,,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,12,4,0,1,7:12 PM,11:15,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200121,14,2,1,1,7:12 PM,11:12,,,MISS Strus 26' 3PT Jump Shot,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,15,4,0,1,7:12 PM,11:08,Haliburton REBOUND (Off:0 Def:2),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,16,1,47,1,7:12 PM,11:00,Turner 8' Turnaround Jump Shot (2 PTS) (Duarte 1 AST),,,0 - 2,2,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,1630537,Chris Duarte,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200121,18,1,1,1,7:12 PM,10:45,,,Adebayo 12' Jump Shot (2 PTS) (Herro 1 AST),2 - 2,TIE,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200121,20,2,75,1,7:13 PM,10:31,MISS Duarte 1' Driving Finger Roll Layup,,,,,4,1630537,Chris Duarte,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,21,4,0,1,7:13 PM,10:29,,,Adebayo REBOUND (Off:0 Def:1),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,22,1,1,1,7:13 PM,10:17,,,Herro 3PT Jump Shot (3 PTS) (Martin 1 AST),5 - 2,-3,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200121,24,5,40,1,7:13 PM,10:02,Smith Out of Bounds Lost Ball Turnover (P1.T1),,,,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0022200121,25,5,1,1,7:13 PM,9:54,Haliburton STEAL (1 STL),,Herro Bad Pass Turnover (P1.T1),,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200121,27,1,50,1,7:13 PM,9:50,Haliburton 1' Running Dunk (2 PTS) (Duarte 2 AST),,,5 - 4,-1,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1630537,Chris Duarte,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200121,29,1,1,1,7:14 PM,9:29,,,Adebayo 15' Jump Shot (4 PTS) (Strus 1 AST),7 - 4,-3,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200121,31,5,45,1,7:14 PM,9:21,Turner Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0022200121,32,5,45,1,7:14 PM,9:14,,,Herro Out of Bounds - Bad Pass Turnover Turnover (P2.T2),,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0022200121,33,1,1,1,7:14 PM,9:06,Hield 26' 3PT Jump Shot (3 PTS) (Haliburton 1 AST),,,7 - 7,TIE,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200121,35,1,1,1,7:15 PM,8:40,,,Strus 27' 3PT Jump Shot (3 PTS) (Lowry 1 AST),10 - 7,-3,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200121,37,6,1,1,7:15 PM,8:29,,,Martin P.FOUL (P1.T1) (E.Malloy),,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200121,39,5,1,1,7:16 PM,8:24,Turner Bad Pass Turnover (P2.T3),,Strus STEAL (1 STL),,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200121,41,1,50,1,7:16 PM,8:21,,,Strus 2' Running Dunk (5 PTS),12 - 7,-5,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,42,9,1,1,7:16 PM,8:19,PACERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200121,43,2,1,1,7:19 PM,8:09,MISS Smith 27' 3PT Jump Shot,,,,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,45,1,97,1,7:19 PM,8:04,Turner Tip Layup Shot (4 PTS),,,12 - 9,-3,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,44,4,0,1,7:19 PM,8:04,Turner REBOUND (Off:1 Def:0),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,46,1,101,1,7:19 PM,7:52,,,Herro 8' Driving Floating Jump Shot (5 PTS) (Lowry 2 AST),14 - 9,-5,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200121,47,1,75,1,7:19 PM,7:42,Haliburton 1' Driving Finger Roll Layup (4 PTS),,,14 - 11,-3,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,48,2,79,1,7:20 PM,7:21,,,MISS Lowry 27' 3PT Pullup Jump Shot,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,49,4,0,1,7:20 PM,7:18,,,Adebayo REBOUND (Off:1 Def:1),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,50,6,2,1,7:20 PM,7:12,Duarte S.FOUL (P1.T1) (N.Green),,,,,4,1630537,Chris Duarte,1610612754.0,Indiana,Pacers,IND,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200121,52,3,11,1,7:21 PM,7:12,,,Lowry Free Throw 1 of 2 (1 PTS),15 - 11,-4,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0022200121,53,8,0,1,7:21 PM,7:12,SUB: Mathurin FOR Duarte,,,,,4,1630537,Chris Duarte,1610612754.0,Indiana,Pacers,IND,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200121,55,3,12,1,7:22 PM,7:12,,,Lowry Free Throw 2 of 2 (2 PTS),16 - 11,-5,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,56,1,7,1,7:22 PM,6:58,Turner 1' Dunk (6 PTS) (Smith 1 AST),,,16 - 13,-3,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200121,58,6,2,1,7:22 PM,6:58,,,Martin S.FOUL (P2.T2) (N.Green),,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200121,61,3,10,1,7:22 PM,6:58,MISS Turner Free Throw 1 of 1,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,62,4,0,1,7:22 PM,6:57,,,Adebayo REBOUND (Off:1 Def:2),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,63,6,2,1,7:23 PM,6:45,Smith S.FOUL (P1.T2) (E.Malloy),,,,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200121,65,3,11,1,7:23 PM,6:45,,,Strus Free Throw 1 of 2 (6 PTS),17 - 13,-4,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,66,8,0,1,7:23 PM,6:45,,,SUB: Vincent FOR Martin,,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200121,68,8,0,1,7:23 PM,6:45,SUB: McConnell FOR Smith,,,,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200121,70,3,12,1,7:24 PM,6:45,,,Strus Free Throw 2 of 2 (7 PTS),18 - 13,-5,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,71,2,75,1,7:24 PM,6:33,MISS Mathurin 1' Driving Finger Roll Layup,,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,72,4,0,1,7:24 PM,6:29,,,Lowry REBOUND (Off:0 Def:1),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,73,2,2,1,7:24 PM,6:26,,,MISS Herro 27' 3PT Running Jump Shot,,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,75,1,97,1,7:24 PM,6:20,,,Adebayo Tip Layup Shot (6 PTS),20 - 13,-7,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,74,4,0,1,7:24 PM,6:20,,,Adebayo REBOUND (Off:2 Def:2),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,76,2,1,1,7:24 PM,6:18,MISS Hield 26' 3PT Jump Shot,,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,77,4,0,1,7:24 PM,6:12,,,Strus REBOUND (Off:0 Def:1),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,78,2,1,1,7:24 PM,6:00,,,MISS Herro 27' 3PT Jump Shot,,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,79,4,0,1,7:25 PM,5:56,,,Adebayo REBOUND (Off:3 Def:2),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,80,2,80,1,7:25 PM,5:48,,,MISS Vincent 20' Step Back Jump Shot,,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,81,4,0,1,7:25 PM,5:44,Hield REBOUND (Off:0 Def:1),,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,82,1,103,1,7:25 PM,5:38,McConnell 13' Running Pull-Up Jump Shot (2 PTS) (Haliburton 2 AST),,,20 - 15,-5,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200121,84,6,2,1,7:25 PM,5:22,McConnell S.FOUL (P1.T3) (J.DeRosa),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200121,86,3,11,1,7:26 PM,5:22,,,Herro Free Throw 1 of 2 (6 PTS),21 - 15,-6,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,87,8,0,1,7:26 PM,5:22,SUB: Jackson FOR Turner,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200121,88,8,0,1,7:26 PM,5:22,,,SUB: Dedmon FOR Lowry,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,5,203473,Dewayne Dedmon,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200121,89,8,0,1,7:26 PM,5:22,,,SUB: Robinson FOR Adebayo,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200121,93,3,12,1,7:26 PM,5:22,,,Herro Free Throw 2 of 2 (7 PTS),22 - 15,-7,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,94,5,45,1,7:26 PM,5:08,Haliburton Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0022200121,95,2,1,1,7:27 PM,4:55,,,MISS Robinson 29' 3PT Jump Shot,,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,96,4,0,1,7:27 PM,4:52,Haliburton REBOUND (Off:0 Def:3),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,97,1,75,1,7:27 PM,4:45,Hield 1' Driving Finger Roll Layup (5 PTS) (Haliburton 3 AST),,,22 - 17,-5,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200121,99,5,45,1,7:27 PM,4:28,,,Strus Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0022200121,100,2,78,1,7:27 PM,4:21,MISS Jackson 5' Floating Jump Shot,,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,101,4,0,1,7:27 PM,4:17,,,Dedmon REBOUND (Off:0 Def:1),,,5,203473,Dewayne Dedmon,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,102,6,4,1,7:28 PM,4:11,,,Dedmon OFF.Foul (P1) (J.DeRosa),,,5,203473,Dewayne Dedmon,1610612748.0,Miami,Heat,MIA,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200121,104,5,37,1,7:28 PM,4:11,,,Dedmon Offensive Foul Turnover (P1.T4),,,5,203473,Dewayne Dedmon,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0022200121,105,8,0,1,7:28 PM,4:11,SUB: Nembhard FOR Haliburton,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200121,107,6,2,1,7:28 PM,4:02,,,Strus S.FOUL (P1.T3) (E.Malloy),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200121,109,3,13,1,7:29 PM,4:02,Mathurin Free Throw 1 of 3 (1 PTS),,,22 - 18,-4,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,110,3,14,1,7:29 PM,4:02,Mathurin Free Throw 2 of 3 (2 PTS),,,22 - 19,-3,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,111,3,15,1,7:29 PM,4:02,Mathurin Free Throw 3 of 3 (3 PTS),,,22 - 20,-2,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,112,5,40,1,7:30 PM,3:50,,,Vincent Out of Bounds Lost Ball Turnover (P1.T5),,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0022200121,113,2,1,1,7:30 PM,3:32,MISS Nembhard 3PT Jump Shot,,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,114,4,0,1,7:30 PM,3:28,,,Robinson REBOUND (Off:0 Def:1),,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,115,5,1,1,7:30 PM,3:20,Hield STEAL (1 STL),,Herro Bad Pass Turnover (P3.T6),,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200121,117,1,41,1,7:30 PM,3:16,Hield 1' Running Layup (7 PTS) (Nembhard 1 AST),,,22 - 22,TIE,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200121,118,7,2,1,7:30 PM,3:16,,,Herro Violation:Defensive Goaltending (J.DeRosa),,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0022200121,119,2,58,1,7:31 PM,3:00,,,MISS Dedmon 8' Turnaround Hook Shot,,,5,203473,Dewayne Dedmon,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,120,4,0,1,7:31 PM,2:56,Jackson REBOUND (Off:0 Def:1),,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,121,6,2,1,7:31 PM,2:49,,,Vincent S.FOUL (P1.T4) (N.Green),,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200121,123,9,1,1,7:31 PM,2:49,,,Heat Timeout: Regular (Reg.1 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200121,124,3,11,1,7:34 PM,2:49,Jackson Free Throw 1 of 2 (1 PTS),,,22 - 23,1,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,125,3,12,1,7:35 PM,2:49,Jackson Free Throw 2 of 2 (2 PTS),,,22 - 24,2,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,126,1,1,1,7:35 PM,2:32,,,Vincent 27' 3PT Jump Shot (3 PTS) (Herro 2 AST),25 - 24,-1,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200121,128,1,86,1,7:35 PM,2:13,Hield 6' Turnaround Fadeaway (9 PTS),,,25 - 26,1,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,129,2,1,1,7:36 PM,1:48,,,MISS Vincent 3PT Jump Shot,,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,130,4,0,1,7:36 PM,1:45,McConnell REBOUND (Off:0 Def:1),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,131,2,80,1,7:36 PM,1:38,MISS Hield 27' 3PT Step Back Jump Shot,,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,132,4,0,1,7:36 PM,1:35,,,Vincent REBOUND (Off:0 Def:1),,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,133,6,2,1,7:36 PM,1:27,Jackson S.FOUL (P1.T4) (N.Green),,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,5,203473,Dewayne Dedmon,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200121,135,3,11,1,7:36 PM,1:27,,,Dedmon Free Throw 1 of 2 (1 PTS),26 - 26,TIE,5,203473,Dewayne Dedmon,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,136,8,0,1,7:37 PM,1:27,SUB: Haliburton FOR Hield,,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200121,137,8,0,1,7:37 PM,1:27,,,SUB: Martin FOR Herro,,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200121,138,8,0,1,7:37 PM,1:27,,,SUB: Lowry FOR Strus,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200121,142,3,12,1,7:37 PM,1:27,,,Dedmon Free Throw 2 of 2 (2 PTS),27 - 26,-1,5,203473,Dewayne Dedmon,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,143,6,2,1,7:37 PM,1:10,,,Vincent S.FOUL (P2.PN) (N.Green),,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200121,145,3,11,1,7:38 PM,1:10,Mathurin Free Throw 1 of 2 (4 PTS),,,27 - 27,TIE,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,146,3,12,1,7:38 PM,1:10,Mathurin Free Throw 2 of 2 (5 PTS),,,27 - 28,1,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,147,2,1,1,7:38 PM,0:49,,,MISS Robinson 28' 3PT Jump Shot,,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,148,4,0,1,7:38 PM,0:46,McConnell REBOUND (Off:0 Def:2),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,149,2,76,1,7:38 PM,0:43,MISS McConnell 1' Running Finger Roll Layup,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,150,4,0,1,7:38 PM,0:41,,,Robinson REBOUND (Off:0 Def:2),,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,151,6,1,1,7:39 PM,0:34,Nembhard P.FOUL (P1.PN) (N.Green),,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,5,203473,Dewayne Dedmon,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200121,153,3,11,1,7:39 PM,0:34,,,Dedmon Free Throw 1 of 2 (3 PTS),28 - 28,TIE,5,203473,Dewayne Dedmon,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,154,3,12,1,7:39 PM,0:34,,,Dedmon Free Throw 2 of 2 (4 PTS),29 - 28,-1,5,203473,Dewayne Dedmon,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,155,5,1,1,7:39 PM,0:32,Jackson Bad Pass Turnover (P1.T5),,Vincent STEAL (1 STL),,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200121,157,2,1,1,7:39 PM,0:28,,,MISS Robinson 28' 3PT Jump Shot,,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,158,4,0,1,7:39 PM,0:26,Haliburton REBOUND (Off:0 Def:4),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,159,2,1,1,7:40 PM,0:11,MISS Haliburton 26' 3PT Jump Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,160,4,0,1,7:40 PM,0:08,,,Robinson REBOUND (Off:0 Def:3),,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,161,2,1,1,7:40 PM,0:00,,,MISS Vincent 26' 3PT Jump Shot,,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,162,4,0,1,7:40 PM,0:00,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200121,163,13,0,1,7:40 PM,0:00,,End of 1st Period (7:40 PM EST),,29 - 28,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200121,167,12,0,2,7:43 PM,12:00,,Start of 2nd Period (7:43 PM EST),,29 - 28,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200121,168,1,98,2,7:43 PM,11:46,,,Vincent 1' Cutting Layup Shot (5 PTS) (Adebayo 1 AST),31 - 28,-3,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200121,170,2,1,2,7:43 PM,11:31,MISS Nembhard 27' 3PT Jump Shot,,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,171,4,0,2,7:43 PM,11:29,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200121,172,6,3,2,7:43 PM,11:29,,,Lowry L.B.FOUL (P1.T1) (J.DeRosa),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200121,174,2,101,2,7:44 PM,11:23,MISS McConnell 9' Driving Floating Jump Shot,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,175,4,0,2,7:44 PM,11:19,,,Adebayo REBOUND (Off:3 Def:3),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,176,1,75,2,7:44 PM,11:08,,,Martin 3' Driving Finger Roll Layup (2 PTS),33 - 28,-5,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,177,1,75,2,7:44 PM,10:59,Mathurin 1' Driving Finger Roll Layup (7 PTS) (Haliburton 4 AST),,,33 - 30,-3,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200121,179,6,2,2,7:44 PM,10:59,,,Lowry S.FOUL (P2.T2) (E.Malloy),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200121,181,3,10,2,7:45 PM,10:59,Mathurin Free Throw 1 of 1 (8 PTS),,,33 - 31,-2,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,182,1,98,2,7:45 PM,10:47,,,Vincent 2' Cutting Layup Shot (7 PTS) (Adebayo 2 AST),35 - 31,-4,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200121,184,9,1,2,7:45 PM,10:45,PACERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200121,185,8,0,2,7:48 PM,10:45,SUB: Hield FOR Haliburton,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200121,186,8,0,2,7:48 PM,10:45,SUB: Turner FOR Jackson,,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200121,189,1,98,2,7:48 PM,10:28,McConnell 1' Cutting Layup Shot (4 PTS) (Nembhard 2 AST),,,35 - 33,-2,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200121,192,2,1,2,7:49 PM,10:10,,,MISS Adebayo 16' Jump Shot,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,193,4,0,2,7:49 PM,10:07,Mathurin REBOUND (Off:0 Def:1),,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,194,2,103,2,7:49 PM,10:02,MISS Mathurin 29' 3PT Running Pull-Up Jump Shot,,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,195,4,0,2,7:49 PM,9:58,,,Adebayo REBOUND (Off:3 Def:4),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,196,6,4,2,7:49 PM,9:51,,,Adebayo OFF.Foul (P1) (J.DeRosa),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200121,198,5,37,2,7:49 PM,9:51,,,Adebayo Offensive Foul Turnover (P1.T7),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0022200121,199,2,1,2,7:50 PM,9:37,MISS McConnell 26' 3PT Jump Shot,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,200,4,0,2,7:50 PM,9:33,,,Martin REBOUND (Off:0 Def:1),,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,201,2,1,2,7:50 PM,9:26,,,MISS Vincent 24' 3PT Jump Shot,,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,202,4,0,2,7:50 PM,9:24,McConnell REBOUND (Off:0 Def:3),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,203,6,2,2,7:50 PM,9:15,,,Robinson S.FOUL (P1.T3) (N.Green),,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200121,205,3,11,2,7:51 PM,9:15,Mathurin Free Throw 1 of 2 (9 PTS),,,35 - 34,-1,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,206,3,12,2,7:51 PM,9:15,Mathurin Free Throw 2 of 2 (10 PTS),,,35 - 35,TIE,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,207,2,9,2,7:51 PM,9:08,Turner BLOCK (1 BLK),,MISS Martin 1' Driving Dunk,,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,1
+0022200121,208,4,0,2,7:51 PM,9:06,Hield REBOUND (Off:0 Def:2),,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,209,6,1,2,7:51 PM,9:02,,,Adebayo P.FOUL (P2.T4) (E.Malloy),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200121,212,2,1,2,7:51 PM,8:59,MISS Turner 30' 3PT Jump Shot,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,213,4,0,2,7:51 PM,8:57,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200121,215,1,6,2,7:52 PM,8:50,,,Adebayo Driving Layup (8 PTS),37 - 35,-2,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,216,6,2,2,7:52 PM,8:50,Turner S.FOUL (P1.T1) (E.Malloy),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200121,218,3,10,2,7:52 PM,8:50,,,Adebayo Free Throw 1 of 1 (9 PTS),38 - 35,-3,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,219,2,44,2,7:53 PM,8:34,MISS McConnell 1' Reverse Layup,,Martin BLOCK (1 BLK),,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,1
+0022200121,220,4,0,2,7:53 PM,8:32,,,Martin REBOUND (Off:0 Def:2),,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,221,2,41,2,7:53 PM,8:30,,,MISS Lowry 1' Running Layup,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,222,4,0,2,7:53 PM,8:28,Hield REBOUND (Off:0 Def:3),,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,223,6,2,2,7:53 PM,8:24,,,Vincent S.FOUL (P3.PN) (J.DeRosa),,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200121,225,3,11,2,7:53 PM,8:24,MISS Turner Free Throw 1 of 2,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,226,4,1,2,7:53 PM,8:24,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200121,227,8,0,2,7:53 PM,8:24,,,SUB: Herro FOR Vincent,,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200121,229,3,12,2,7:54 PM,8:24,Turner Free Throw 2 of 2 (7 PTS),,,38 - 36,-2,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,231,2,79,2,7:54 PM,8:15,,,MISS Adebayo 27' 3PT Pullup Jump Shot,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,232,4,0,2,7:54 PM,8:13,Nembhard REBOUND (Off:0 Def:1),,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,233,1,2,2,7:54 PM,8:09,Hield 28' 3PT Running Jump Shot (12 PTS) (Nembhard 3 AST),,,38 - 39,1,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200121,235,6,1,2,7:54 PM,7:52,Nembhard P.FOUL (P2.T2) (N.Green),,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200121,237,2,1,2,7:55 PM,7:38,,,MISS Robinson 3PT Jump Shot,,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,238,4,0,2,7:55 PM,7:34,McConnell REBOUND (Off:0 Def:4),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,239,1,80,2,7:56 PM,7:26,Hield 17' Step Back Jump Shot (14 PTS),,,38 - 41,3,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,241,2,79,2,7:56 PM,7:03,,,MISS Lowry 11' Pullup Jump Shot,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,242,4,0,2,7:56 PM,7:01,Turner REBOUND (Off:1 Def:1),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,243,1,103,2,7:56 PM,6:58,Hield 30' 3PT Running Pull-Up Jump Shot (17 PTS) (McConnell 1 AST),,,38 - 44,6,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200121,245,9,1,2,7:56 PM,6:56,,,Heat Timeout: Regular (Reg.2 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200121,246,8,0,2,7:59 PM,6:56,SUB: Brissett FOR Mathurin,,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200121,247,8,0,2,7:59 PM,6:56,SUB: Haliburton FOR McConnell,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200121,248,8,0,2,7:59 PM,6:56,,,SUB: Strus FOR Adebayo,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200121,249,8,0,2,7:59 PM,6:56,,,SUB: Dedmon FOR Robinson,,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,5,203473,Dewayne Dedmon,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200121,254,2,79,2,7:59 PM,6:44,,,MISS Herro 17' Pullup Jump Shot,,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,255,4,0,2,8:00 PM,6:40,Hield REBOUND (Off:0 Def:4),,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,256,6,2,2,8:00 PM,6:27,,,Martin S.FOUL (P3.PN) (N.Green),,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200121,258,3,11,2,8:00 PM,6:27,MISS Brissett Free Throw 1 of 2,,,,,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,259,4,1,2,8:00 PM,6:27,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200121,260,8,0,2,8:00 PM,6:27,,,SUB: Highsmith FOR Martin,,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200121,262,3,12,2,8:01 PM,6:27,Brissett Free Throw 2 of 2 (1 PTS),,,38 - 45,7,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,263,2,1,2,8:01 PM,6:12,,,MISS Lowry 32' 3PT Jump Shot,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,264,4,0,2,8:01 PM,6:08,Turner REBOUND (Off:1 Def:2),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,265,5,1,2,8:01 PM,6:03,Hield Bad Pass Turnover (P1.T6),,Herro STEAL (1 STL),,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200121,267,1,76,2,8:01 PM,5:59,,,Herro 2' Running Finger Roll Layup (9 PTS),40 - 45,5,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,268,2,1,2,8:01 PM,5:41,MISS Turner 18' Jump Shot,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,269,4,0,2,8:01 PM,5:38,,,Strus REBOUND (Off:0 Def:2),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,270,1,79,2,8:01 PM,5:31,,,Herro 27' 3PT Pullup Jump Shot (12 PTS),43 - 45,2,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,271,1,75,2,8:02 PM,5:15,Hield 1' Driving Finger Roll Layup (19 PTS) (Haliburton 5 AST),,,43 - 47,4,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200121,273,2,79,2,8:02 PM,5:00,,,MISS Herro 29' 3PT Pullup Jump Shot,,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,274,4,0,2,8:02 PM,4:57,Turner REBOUND (Off:1 Def:3),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,275,1,2,2,8:02 PM,4:52,Turner 28' 3PT Running Jump Shot (10 PTS) (Haliburton 6 AST),,,43 - 50,7,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200121,277,2,75,2,8:03 PM,4:27,Turner BLOCK (2 BLK),,MISS Strus 2' Driving Finger Roll Layup,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,1
+0022200121,279,4,0,2,8:03 PM,4:24,Nembhard REBOUND (Off:0 Def:2),,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,280,1,41,2,8:03 PM,4:22,Haliburton Running Layup (6 PTS) (Nembhard 4 AST),,,43 - 52,9,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200121,282,6,1,2,8:03 PM,4:01,Turner P.FOUL (P2.T3) (J.DeRosa),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200121,284,8,0,2,8:03 PM,4:01,,,SUB: Adebayo FOR Dedmon,,,5,203473,Dewayne Dedmon,1610612748.0,Miami,Heat,MIA,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200121,286,8,0,2,8:03 PM,4:01,SUB: Jackson FOR Turner,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200121,288,2,1,2,8:04 PM,3:48,,,MISS Strus 29' 3PT Jump Shot,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,289,4,0,2,8:04 PM,3:44,Haliburton REBOUND (Off:0 Def:5),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,290,6,4,2,8:04 PM,3:39,Jackson OFF.Foul (P2) (N.Green),,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200121,292,5,37,2,8:04 PM,3:39,Jackson Offensive Foul Turnover (P2.T7),,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0022200121,293,2,1,2,8:04 PM,3:24,,,MISS Lowry 3PT Jump Shot,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,294,4,0,2,8:05 PM,3:20,Brissett REBOUND (Off:0 Def:1),,,,,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,295,1,1,2,8:05 PM,3:07,Hield 28' 3PT Jump Shot (22 PTS) (Haliburton 7 AST),,,43 - 55,12,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200121,298,5,40,2,8:05 PM,2:54,,,Highsmith Out of Bounds Lost Ball Turnover (P1.T8),,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0022200121,299,8,0,2,8:05 PM,2:54,SUB: Mathurin FOR Nembhard,,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200121,301,6,2,2,8:06 PM,2:41,,,Adebayo S.FOUL (P3.PN) (N.Green),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200121,303,3,11,2,8:06 PM,2:41,Mathurin Free Throw 1 of 2 (11 PTS),,,43 - 56,13,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,306,3,12,2,8:06 PM,2:41,MISS Mathurin Free Throw 2 of 2,,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,304,8,0,2,8:06 PM,2:41,,,SUB: Dedmon FOR Adebayo,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,203473,Dewayne Dedmon,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200121,307,4,0,2,8:06 PM,2:39,Brissett REBOUND (Off:1 Def:1),,,,,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,308,1,80,2,8:07 PM,2:32,Mathurin 27' 3PT Step Back Jump Shot (14 PTS),,,43 - 59,16,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,309,6,2,2,8:07 PM,2:16,Jackson S.FOUL (P3.T4) (N.Green),,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200121,311,3,11,2,8:07 PM,2:16,,,Lowry Free Throw 1 of 2 (3 PTS),44 - 59,15,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,312,8,0,2,8:07 PM,2:16,SUB: Turner FOR Jackson,,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200121,314,3,12,2,8:08 PM,2:16,,,Lowry Free Throw 2 of 2 (4 PTS),45 - 59,14,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,315,6,2,2,8:08 PM,2:04,,,Strus S.FOUL (P2.PN) (N.Green),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200121,317,3,11,2,8:08 PM,2:04,MISS Haliburton Free Throw 1 of 2,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,318,4,1,2,8:08 PM,2:04,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200121,319,3,12,2,8:08 PM,2:04,MISS Haliburton Free Throw 2 of 2,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,320,4,0,2,8:09 PM,2:02,,,Dedmon REBOUND (Off:0 Def:2),,,5,203473,Dewayne Dedmon,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,321,2,1,2,8:09 PM,1:52,,,MISS Dedmon 3PT Jump Shot,,,5,203473,Dewayne Dedmon,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,322,4,0,2,8:09 PM,1:50,,,Lowry REBOUND (Off:1 Def:1),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,323,2,79,2,8:09 PM,1:40,,,MISS Herro 31' 3PT Pullup Jump Shot,,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,324,4,0,2,8:09 PM,1:37,,,Dedmon REBOUND (Off:1 Def:2),,,5,203473,Dewayne Dedmon,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,325,6,1,2,8:09 PM,1:37,Haliburton P.FOUL (P1.PN) (J.DeRosa),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200121,327,3,11,2,8:10 PM,1:37,,,Herro Free Throw 1 of 2 (13 PTS),46 - 59,13,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,328,3,12,2,8:10 PM,1:37,,,Herro Free Throw 2 of 2 (14 PTS),47 - 59,12,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,329,2,1,2,8:10 PM,1:19,MISS Brissett 25' 3PT Jump Shot,,,,,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,330,4,0,2,8:10 PM,1:15,,,Strus REBOUND (Off:0 Def:3),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,331,6,26,2,8:10 PM,1:13,,,Herro Offensive Charge Foul (P1) (E.Malloy),,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200121,333,5,37,2,8:10 PM,1:13,,,Herro Offensive Foul Turnover (P4.T9),,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0022200121,334,2,101,2,8:11 PM,1:03,MISS Haliburton 12' Driving Floating Jump Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,335,4,0,2,8:11 PM,0:58,,,Herro REBOUND (Off:0 Def:2),,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,336,1,103,2,8:11 PM,0:52,,,Lowry 27' 3PT Running Pull-Up Jump Shot (7 PTS) (Herro 3 AST),50 - 59,9,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200121,337,2,79,2,8:11 PM,0:34,MISS Haliburton 20' Pullup Jump Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,338,4,0,2,8:11 PM,0:32,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200121,340,5,39,2,8:12 PM,0:23,,,Strus Step Out of Bounds Turnover (P2.T10),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0022200121,341,1,1,2,8:12 PM,0:06,Haliburton 26' 3PT Jump Shot (9 PTS) (Brissett 1 AST),,,50 - 62,12,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200121,343,2,1,2,8:12 PM,0:00,,,MISS Highsmith 26' 3PT Jump Shot,,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,344,4,0,2,8:12 PM,0:00,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200121,345,13,0,2,8:12 PM,0:00,,End of 2nd Period (8:12 PM EST),,50 - 62,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200121,353,12,0,3,8:28 PM,12:00,,Start of 3rd Period (8:28 PM EST),,50 - 62,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200121,354,2,1,3,8:28 PM,11:40,,,MISS Martin 26' 3PT Jump Shot,,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,355,4,0,3,8:28 PM,11:36,Smith REBOUND (Off:0 Def:1),,,,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,356,5,2,3,8:28 PM,11:35,Smith Lost Ball Turnover (P2.T8),,Lowry STEAL (1 STL),,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200121,358,1,79,3,8:28 PM,11:30,,,Herro 28' 3PT Pullup Jump Shot (17 PTS),53 - 62,9,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,359,5,1,3,8:29 PM,11:09,Mathurin Bad Pass Turnover (P1.T9),,Adebayo STEAL (1 STL),,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200121,361,6,2,3,8:29 PM,11:01,Turner S.FOUL (P3.T1) (E.Malloy),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200121,363,3,13,3,8:29 PM,11:01,,,Lowry Free Throw 1 of 3 (8 PTS),54 - 62,8,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,365,3,14,3,8:30 PM,11:01,,,Lowry Free Throw 2 of 3 (9 PTS),55 - 62,7,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,366,3,15,3,8:30 PM,11:01,,,Lowry Free Throw 3 of 3 (10 PTS),56 - 62,6,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,367,2,1,3,8:30 PM,10:51,MISS Mathurin 26' 3PT Jump Shot,,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,368,4,0,3,8:30 PM,10:48,,,Adebayo REBOUND (Off:3 Def:5),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,369,2,79,3,8:30 PM,10:35,,,MISS Adebayo 12' Pullup Jump Shot,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,370,4,0,3,8:30 PM,10:32,Hield REBOUND (Off:0 Def:5),,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,371,2,101,3,8:31 PM,10:21,MISS Smith 9' Driving Floating Jump Shot,,,,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,372,4,0,3,8:31 PM,10:19,,,Lowry REBOUND (Off:1 Def:2),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,373,5,45,3,8:31 PM,10:16,,,Lowry Out of Bounds - Bad Pass Turnover Turnover (P1.T11),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0022200121,374,1,79,3,8:31 PM,10:08,Haliburton 19' Pullup Jump Shot (11 PTS),,,56 - 64,8,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,375,1,101,3,8:31 PM,9:52,,,Herro 7' Driving Floating Jump Shot (19 PTS) (Lowry 3 AST),58 - 64,6,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200121,377,1,108,3,8:31 PM,9:35,Turner 1' Cutting Dunk Shot (12 PTS) (Mathurin 1 AST),,,58 - 66,8,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200121,379,2,101,3,8:32 PM,9:23,,,MISS Herro 13' Driving Floating Jump Shot,,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,380,4,0,3,8:32 PM,9:20,Hield REBOUND (Off:0 Def:6),,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,381,1,79,3,8:32 PM,9:13,Haliburton 28' 3PT Pullup Jump Shot (14 PTS) (Mathurin 2 AST),,,58 - 69,11,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200121,383,1,6,3,8:32 PM,8:52,,,Martin 1' Driving Layup (4 PTS),60 - 69,9,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,384,1,5,3,8:33 PM,8:33,Turner 1' Layup (14 PTS) (Smith 2 AST),,,60 - 71,11,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200121,386,2,79,3,8:33 PM,8:09,,,MISS Herro 27' 3PT Pullup Jump Shot,,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,387,4,0,3,8:33 PM,8:07,,,Martin REBOUND (Off:1 Def:2),,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,388,1,79,3,8:33 PM,7:59,,,Herro 28' 3PT Pullup Jump Shot (22 PTS),63 - 71,8,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,389,5,1,3,8:33 PM,7:39,Hield Bad Pass Turnover (P2.T10),,Lowry STEAL (2 STL),,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200121,391,2,76,3,8:34 PM,7:34,Mathurin BLOCK (1 BLK),,MISS Lowry 1' Running Finger Roll Layup,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,1
+0022200121,393,4,0,3,8:34 PM,7:30,Hield REBOUND (Off:0 Def:7),,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,394,2,2,3,8:34 PM,7:28,MISS Haliburton 26' 3PT Running Jump Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,395,4,0,3,8:34 PM,7:24,Turner REBOUND (Off:2 Def:3),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,396,1,72,3,8:34 PM,7:24,Turner Putback Layup (16 PTS),,,63 - 73,10,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,397,2,58,3,8:34 PM,7:05,,,MISS Adebayo 8' Turnaround Hook Shot,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,398,4,0,3,8:34 PM,7:03,Turner REBOUND (Off:2 Def:4),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,399,6,4,3,8:34 PM,6:57,Smith OFF.Foul (P2) (J.DeRosa),,,,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200121,401,5,37,3,8:34 PM,6:57,Smith Offensive Foul Turnover (P3.T11),,,,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0022200121,402,9,1,3,8:34 PM,6:57,PACERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200121,403,1,1,3,8:38 PM,6:38,,,Strus 29' 3PT Jump Shot (10 PTS) (Adebayo 3 AST),66 - 73,7,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200121,405,5,2,3,8:38 PM,6:27,Mathurin Lost Ball Turnover (P2.T12),,Strus STEAL (2 STL),,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200121,407,1,76,3,8:38 PM,6:24,,,Strus 1' Running Finger Roll Layup (12 PTS),68 - 73,5,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,408,2,1,3,8:38 PM,6:03,MISS Smith 3PT Jump Shot,,,,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,409,4,0,3,8:38 PM,6:00,,,Lowry REBOUND (Off:1 Def:3),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,410,1,99,3,8:38 PM,5:51,,,Strus 1' Cutting Finger Roll Layup Shot (14 PTS) (Martin 2 AST),70 - 73,3,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200121,412,9,1,3,8:38 PM,5:50,PACERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200121,413,8,0,3,8:41 PM,5:50,SUB: McConnell FOR Smith,,,,,4,1630188,Jalen Smith,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200121,415,1,101,3,8:42 PM,5:32,Haliburton 12' Driving Floating Jump Shot (16 PTS) (McConnell 2 AST),,,70 - 75,5,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200121,417,1,101,3,8:42 PM,5:05,,,Martin 12' Driving Floating Jump Shot (6 PTS),72 - 75,3,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,418,2,79,3,8:42 PM,4:54,MISS Haliburton 34' 3PT Pullup Jump Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,419,4,0,3,8:42 PM,4:51,,,Lowry REBOUND (Off:1 Def:4),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,420,1,101,3,8:43 PM,4:36,,,Herro 8' Driving Floating Jump Shot (24 PTS),74 - 75,1,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,421,1,1,3,8:43 PM,4:21,Haliburton 26' 3PT Jump Shot (19 PTS) (McConnell 3 AST),,,74 - 78,4,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200121,423,2,79,3,8:43 PM,4:06,,,MISS Lowry 26' 3PT Pullup Jump Shot,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,424,4,0,3,8:43 PM,4:05,McConnell REBOUND (Off:0 Def:5),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,425,2,2,3,8:43 PM,4:01,MISS Mathurin 27' 3PT Running Jump Shot,,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,426,4,0,3,8:43 PM,3:56,,,Herro REBOUND (Off:0 Def:3),,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,427,5,2,3,8:43 PM,3:50,McConnell STEAL (1 STL),,Adebayo Lost Ball Turnover (P2.T12),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200121,429,2,103,3,8:43 PM,3:46,MISS Hield 27' 3PT Running Pull-Up Jump Shot,,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,430,4,0,3,8:43 PM,3:43,,,Herro REBOUND (Off:0 Def:4),,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,431,2,1,3,8:44 PM,3:30,,,MISS Strus 28' 3PT Jump Shot,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,432,4,0,3,8:44 PM,3:28,Hield REBOUND (Off:0 Def:8),,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,433,1,75,3,8:44 PM,3:11,Mathurin 1' Driving Finger Roll Layup (16 PTS) (Turner 1 AST),,,74 - 80,6,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200121,434,9,1,3,8:44 PM,3:11,,,Heat Timeout: Regular (Reg.3 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200121,436,8,0,3,8:45 PM,3:11,SUB: Jackson FOR Turner,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200121,437,8,0,3,8:45 PM,3:11,,,SUB: Dedmon FOR Lowry,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,5,203473,Dewayne Dedmon,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200121,438,8,0,3,8:45 PM,3:11,,,SUB: Robinson FOR Adebayo,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200121,439,8,0,3,8:45 PM,3:11,,,SUB: Vincent FOR Strus,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200121,444,2,101,3,8:46 PM,2:53,,,MISS Herro 16' Driving Floating Jump Shot,,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,445,4,0,3,8:46 PM,2:50,Haliburton REBOUND (Off:0 Def:6),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,446,5,45,3,8:46 PM,2:43,Mathurin Out of Bounds - Bad Pass Turnover Turnover (P3.T13),,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0022200121,448,8,0,3,8:47 PM,2:29,SUB: Nembhard FOR Mathurin,,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200121,450,2,79,3,8:47 PM,2:23,,,MISS Robinson 28' 3PT Pullup Jump Shot,,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,451,4,0,3,8:47 PM,2:19,Jackson REBOUND (Off:0 Def:2),,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,453,5,45,3,8:48 PM,2:05,Hield Out of Bounds - Bad Pass Turnover Turnover (P3.T14),,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0022200121,454,2,6,3,8:48 PM,1:45,,,MISS Herro 1' Driving Layup,,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,455,4,0,3,8:48 PM,1:43,Jackson REBOUND (Off:0 Def:3),,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,456,2,2,3,8:48 PM,1:38,MISS Haliburton 26' 3PT Running Jump Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,457,4,0,3,8:48 PM,1:34,,,Martin REBOUND (Off:1 Def:3),,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,459,5,1,3,8:48 PM,1:24,Haliburton STEAL (2 STL),,Martin Bad Pass Turnover (P1.T13),,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200121,461,5,4,3,8:48 PM,1:20,Hield Traveling Turnover (P4.T15),,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0022200121,462,8,0,3,8:49 PM,1:20,,,SUB: Lowry FOR Herro,,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200121,463,8,0,3,8:49 PM,1:20,,,SUB: Strus FOR Martin,,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200121,466,1,80,3,8:49 PM,0:58,,,Vincent 27' 3PT Step Back Jump Shot (10 PTS) (Strus 2 AST),77 - 80,3,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200121,468,2,1,3,8:50 PM,0:42,MISS Hield 27' 3PT Jump Shot,,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,469,4,0,3,8:50 PM,0:39,,,Dedmon REBOUND (Off:1 Def:3),,,5,203473,Dewayne Dedmon,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,470,2,80,3,8:50 PM,0:33,,,MISS Lowry 26' 3PT Step Back Jump Shot,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,472,4,0,3,8:50 PM,0:30,McConnell REBOUND (Off:0 Def:6),,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,473,6,1,3,8:51 PM,0:13,,,Dedmon P.FOUL (P2.T1) (J.DeRosa),,,5,203473,Dewayne Dedmon,1610612748.0,Miami,Heat,MIA,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200121,475,18,0,3,8:51 PM,0:13,,Instant Replay3rd Period (8:51 PM EST),,77 - 80,3,0,473,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200121,476,8,0,3,8:52 PM,0:13,,,SUB: Martin FOR Robinson,,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200121,478,2,1,3,8:53 PM,0:10,MISS Hield 27' 3PT Jump Shot,,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,479,4,0,3,8:53 PM,0:06,,,Strus REBOUND (Off:0 Def:4),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,480,6,1,3,8:53 PM,0:01,Hield P.FOUL (P1.T2) (J.DeRosa),,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,5,203473,Dewayne Dedmon,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200121,482,8,0,3,8:53 PM,0:01,SUB: Mathurin FOR Haliburton,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200121,483,8,0,3,8:53 PM,0:01,SUB: Brissett FOR Hield,,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200121,484,8,0,3,8:53 PM,0:01,,,SUB: Adebayo FOR Dedmon,,,5,203473,Dewayne Dedmon,1610612748.0,Miami,Heat,MIA,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200121,485,8,0,3,8:53 PM,0:01,,,SUB: Robinson FOR Martin,,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200121,490,2,1,3,8:54 PM,0:00,,,MISS Robinson 27' 3PT Jump Shot,,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,491,4,0,3,8:54 PM,0:00,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200121,492,13,0,3,8:54 PM,0:00,,End of 3rd Period (8:54 PM EST),,77 - 80,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200121,493,12,0,4,8:56 PM,12:00,,Start of 4th Period (8:56 PM EST),,77 - 80,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200121,494,2,1,4,8:57 PM,11:39,MISS Brissett 3PT Jump Shot,,,,,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,495,4,0,4,8:57 PM,11:35,,,Adebayo REBOUND (Off:3 Def:6),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,496,1,58,4,8:57 PM,11:23,,,Adebayo 4' Turnaround Hook Shot (11 PTS),79 - 80,1,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,498,1,1,4,8:57 PM,11:09,Mathurin 26' 3PT Jump Shot (19 PTS) (McConnell 4 AST),,,79 - 83,4,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200121,500,1,79,4,8:57 PM,10:52,,,Strus 26' 3PT Pullup Jump Shot (17 PTS) (Adebayo 4 AST),82 - 83,1,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200121,502,2,80,4,8:58 PM,10:37,MISS Nembhard 11' Step Back Jump Shot,,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,503,4,0,4,8:58 PM,10:37,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200121,504,6,3,4,8:58 PM,10:37,,,Lowry L.B.FOUL (P3.T1) (N.Green),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200121,506,5,2,4,8:58 PM,10:28,McConnell Lost Ball Turnover (P1.T16),,Vincent STEAL (2 STL),,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200121,508,5,1,4,8:58 PM,10:24,McConnell STEAL (2 STL),,Strus Bad Pass Turnover (P3.T14),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200121,510,1,52,4,8:58 PM,10:14,Jackson 2' Alley Oop Dunk (4 PTS) (Nembhard 5 AST),,,82 - 85,3,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200121,512,6,2,4,8:59 PM,9:58,Jackson S.FOUL (P4.T1) (E.Malloy),,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200121,514,3,11,4,8:59 PM,9:58,,,Adebayo Free Throw 1 of 2 (12 PTS),83 - 85,2,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,515,3,12,4,8:59 PM,9:58,,,Adebayo Free Throw 2 of 2 (13 PTS),84 - 85,1,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,516,2,43,4,9:00 PM,9:37,MISS Jackson Alley Oop Layup,,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,517,4,0,4,9:00 PM,9:33,Jackson REBOUND (Off:1 Def:3),,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,518,1,107,4,9:00 PM,9:33,Jackson Tip Dunk Shot (6 PTS),,,84 - 87,3,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,519,6,4,4,9:00 PM,9:25,,,Adebayo OFF.Foul (P4) (E.Malloy),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200121,521,5,37,4,9:00 PM,9:25,,,Adebayo Offensive Foul Turnover (P3.T15),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0022200121,522,2,101,4,9:01 PM,9:09,MISS Nembhard 11' Driving Floating Jump Shot,,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,523,4,0,4,9:01 PM,9:07,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200121,525,2,79,4,9:01 PM,9:03,MISS Nembhard 28' 3PT Pullup Jump Shot,,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,526,4,0,4,9:01 PM,9:00,,,Strus REBOUND (Off:0 Def:5),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,527,2,6,4,9:01 PM,8:51,Jackson BLOCK (1 BLK),,MISS Robinson 2' Driving Layup,,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,1
+0022200121,529,4,0,4,9:01 PM,8:48,Nembhard REBOUND (Off:0 Def:3),,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,530,1,2,4,9:01 PM,8:47,Mathurin 31' 3PT Running Jump Shot (22 PTS) (Nembhard 6 AST),,,84 - 90,6,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200121,532,9,1,4,9:01 PM,8:45,,,Heat Timeout: Regular (Reg.4 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200121,533,8,0,4,9:04 PM,8:45,,,SUB: Herro FOR Lowry,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200121,534,8,0,4,9:04 PM,8:45,,,SUB: Martin FOR Robinson,,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200121,537,5,6,4,9:05 PM,8:37,,,Adebayo Double Dribble Turnover (P4.T16),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0022200121,538,6,1,4,9:05 PM,8:17,,,Vincent P.FOUL (P4.T2) (J.DeRosa),,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200121,540,2,1,4,9:05 PM,8:14,MISS Mathurin 27' 3PT Jump Shot,,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,541,4,0,4,9:06 PM,8:11,,,Vincent REBOUND (Off:0 Def:2),,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,542,5,2,4,9:06 PM,8:01,Brissett STEAL (1 STL),,Herro Lost Ball Turnover (P5.T17),,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200121,544,1,76,4,9:06 PM,7:58,Nembhard 2' Running Finger Roll Layup (2 PTS) (Brissett 2 AST),,,84 - 92,8,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200121,546,1,79,4,9:06 PM,7:45,,,Adebayo 8' Pullup Jump Shot (15 PTS),86 - 92,6,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,547,2,1,4,9:06 PM,7:26,MISS Jackson 18' Jump Shot,,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,548,4,0,4,9:06 PM,7:23,,,Vincent REBOUND (Off:0 Def:3),,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,549,6,1,4,9:07 PM,7:12,Mathurin P.FOUL (P1.T2) (E.Malloy),,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200121,551,1,75,4,9:07 PM,7:00,,,Adebayo 2' Driving Finger Roll Layup (17 PTS) (Strus 3 AST),88 - 92,4,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200121,553,6,2,4,9:07 PM,7:00,Nembhard S.FOUL (P3.T3) (N.Green),,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200121,555,8,0,4,9:07 PM,7:00,SUB: Hield FOR Brissett,,,,,4,1629052,Oshae Brissett,1610612754.0,Indiana,Pacers,IND,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200121,556,8,0,4,9:07 PM,7:00,SUB: Turner FOR Jackson,,,,,4,1630543,Isaiah Jackson,1610612754.0,Indiana,Pacers,IND,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200121,559,8,0,4,9:08 PM,7:00,SUB: Haliburton FOR McConnell,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200121,561,3,10,4,9:08 PM,7:00,,,Adebayo Free Throw 1 of 1 (18 PTS),89 - 92,3,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,562,1,79,4,9:08 PM,6:44,Nembhard 14' Pullup Jump Shot (4 PTS) (Haliburton 8 AST),,,89 - 94,5,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200121,564,1,75,4,9:09 PM,6:22,,,Vincent 2' Driving Finger Roll Layup (12 PTS) (Herro 4 AST),91 - 94,3,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200121,566,2,86,4,9:09 PM,5:54,MISS Hield 12' Turnaround Fadeaway Shot,,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,567,4,0,4,9:09 PM,5:50,,,Herro REBOUND (Off:0 Def:5),,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,568,1,1,4,9:10 PM,5:35,,,Vincent 24' 3PT Jump Shot (15 PTS) (Herro 5 AST),94 - 94,TIE,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200121,570,5,2,4,9:10 PM,5:09,Nembhard Lost Ball Turnover (P1.T17),,Herro STEAL (2 STL),,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200121,572,5,45,4,9:10 PM,4:52,,,Adebayo Out of Bounds - Bad Pass Turnover Turnover (P5.T18),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0022200121,573,2,1,4,9:11 PM,4:39,MISS Hield 26' 3PT Jump Shot,,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,574,4,0,4,9:11 PM,4:36,,,Adebayo REBOUND (Off:3 Def:7),,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,576,5,2,4,9:11 PM,4:14,Hield STEAL (2 STL),,Martin Lost Ball Turnover (P2.T19),,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200121,578,2,103,4,9:11 PM,4:10,MISS Nembhard 30' 3PT Running Pull-Up Jump Shot,,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,579,4,0,4,9:11 PM,4:06,,,Strus REBOUND (Off:0 Def:6),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,580,9,1,4,9:12 PM,4:03,,,Heat Timeout: Regular (Reg.5 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200121,581,8,0,4,9:14 PM,4:03,,,SUB: Lowry FOR Martin,,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200121,584,2,1,4,9:15 PM,3:44,,,MISS Adebayo 14' Jump Shot,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,585,4,0,4,9:15 PM,3:40,Haliburton REBOUND (Off:0 Def:7),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,586,1,1,4,9:15 PM,3:22,Hield 29' 3PT Jump Shot (25 PTS) (Haliburton 9 AST),,,94 - 97,3,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1
+0022200121,588,2,80,4,9:16 PM,3:00,,,MISS Herro 21' Step Back Jump Shot,,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,589,4,0,4,9:16 PM,2:57,Haliburton REBOUND (Off:0 Def:8),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,590,2,75,4,9:16 PM,2:47,MISS Mathurin 1' Driving Finger Roll Layup,,Lowry BLOCK (1 BLK),,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,1
+0022200121,592,4,0,4,9:16 PM,2:47,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200121,594,2,1,4,9:16 PM,2:26,,,MISS Strus 28' 3PT Jump Shot,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,595,4,0,4,9:16 PM,2:23,Turner REBOUND (Off:2 Def:5),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,596,5,8,4,9:17 PM,2:01,Turner 3 Second Violation Turnover (P3.T18),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,1
+0022200121,597,2,6,4,9:17 PM,1:40,,,MISS Herro Driving Layup,,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,598,4,0,4,9:17 PM,1:39,,,Strus REBOUND (Off:1 Def:6),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,599,2,97,4,9:17 PM,1:39,,,MISS Strus Tip Layup Shot,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,600,4,0,4,9:17 PM,1:39,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200121,602,1,75,4,9:18 PM,1:23,Haliburton 2' Driving Finger Roll Layup (21 PTS),,,94 - 99,5,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,603,6,2,4,9:18 PM,1:20,Turner S.FOUL (P4.T4) (J.DeRosa),,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200121,605,3,13,4,9:19 PM,1:20,,,Herro Free Throw 1 of 3 (25 PTS),95 - 99,4,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,606,3,14,4,9:19 PM,1:20,,,Herro Free Throw 2 of 3 (26 PTS),96 - 99,3,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,607,3,15,4,9:19 PM,1:20,,,Herro Free Throw 3 of 3 (27 PTS),97 - 99,2,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0022200121,608,6,2,4,9:20 PM,0:59,,,Vincent S.FOUL (P5.T3) (J.DeRosa),,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200121,610,3,11,4,9:20 PM,0:59,MISS Haliburton Free Throw 1 of 2,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,611,4,1,4,9:20 PM,0:59,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200121,612,3,12,4,9:20 PM,0:59,Haliburton Free Throw 2 of 2 (22 PTS),,,97 - 100,3,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0022200121,613,2,1,4,9:20 PM,0:49,,,MISS Adebayo 15' Jump Shot,,,5,1628389,Bam Adebayo,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,614,4,0,4,9:20 PM,0:46,Haliburton REBOUND (Off:0 Def:9),,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,615,2,79,4,9:21 PM,0:28,MISS Haliburton 30' 3PT Pullup Jump Shot,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,616,4,0,4,9:21 PM,0:25,Hield REBOUND (Off:1 Def:8),,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,617,10,0,4,9:21 PM,0:23,Jump Ball Hield vs. Vincent: Tip to Strus,,,,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0
+0022200121,620,5,2,4,9:21 PM,0:23,Hield Lost Ball Turnover (P5.T19),,Vincent STEAL (3 STL),,,4,1627741,Buddy Hield,1610612754.0,Indiana,Pacers,IND,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200121,622,9,1,4,9:22 PM,0:21,,,Heat Timeout: Regular (Reg.6 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200121,623,8,0,4,9:23 PM,0:21,SUB: McConnell FOR Haliburton,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200121,625,2,75,4,9:24 PM,0:10,Turner BLOCK (3 BLK),,MISS Strus 2' Driving Finger Roll Layup,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,1
+0022200121,628,4,0,4,9:24 PM,0:10,,,Lowry REBOUND (Off:2 Def:4),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,627,18,1,4,9:24 PM,0:10,,Instant Replay4th Period (9:24 PM EST),,97 - 100,3,0,626,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200121,631,8,0,4,9:27 PM,0:10,SUB: Haliburton FOR McConnell,,,,,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200121,633,6,1,4,9:27 PM,0:08,Nembhard P.FOUL (P4.PN) (N.Green),,,,,4,1629614,Andrew Nembhard,1610612754.0,Indiana,Pacers,IND,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200121,635,3,11,4,9:28 PM,0:08,,,Herro Free Throw 1 of 2 (28 PTS),98 - 100,2,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,636,3,12,4,9:28 PM,0:08,,,Herro Free Throw 2 of 2 (29 PTS),99 - 100,1,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,637,9,1,4,9:28 PM,0:08,PACERS Timeout: Regular (Full 5 Short 0),,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200121,638,8,0,4,9:29 PM,0:08,SUB: McConnell FOR Turner,,,,,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,4,204456,T.J. McConnell,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200121,639,8,0,4,9:29 PM,0:08,,,SUB: Martin FOR Herro,,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200121,642,6,1,4,9:30 PM,0:07,,,Strus P.FOUL (P3.PN) (E.Malloy),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,1
+0022200121,644,3,11,4,9:31 PM,0:07,MISS Mathurin Free Throw 1 of 2,,,,,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,645,4,1,4,9:31 PM,0:07,PACERS Rebound,,,,,2,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200121,646,8,0,4,9:31 PM,0:07,SUB: Turner FOR Haliburton,,,,,4,1630169,Tyrese Haliburton,1610612754.0,Indiana,Pacers,IND,4,1626167,Myles Turner,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0022200121,647,8,0,4,9:31 PM,0:07,,,SUB: Dedmon FOR Vincent,,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,5,203473,Dewayne Dedmon,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200121,650,3,12,4,9:31 PM,0:07,Mathurin Free Throw 2 of 2 (23 PTS),,,99 - 101,2,4,1631097,Bennedict Mathurin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,1
+0022200121,651,9,1,4,9:31 PM,0:07,,,Heat Timeout: Regular (Reg.7 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200121,652,8,0,4,9:32 PM,0:07,,,SUB: Herro FOR Martin,,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200121,653,8,0,4,9:32 PM,0:07,,,SUB: Vincent FOR Dedmon,,,5,203473,Dewayne Dedmon,1610612748.0,Miami,Heat,MIA,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200121,656,2,79,4,9:33 PM,0:01,,,MISS Herro 28' 3PT Pullup Jump Shot,,,5,1629639,Tyler Herro,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200121,657,4,0,4,9:33 PM,0:01,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200121,658,13,0,4,9:33 PM,0:00,,End of 4th Period (9:33 PM EST),,99 - 101,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

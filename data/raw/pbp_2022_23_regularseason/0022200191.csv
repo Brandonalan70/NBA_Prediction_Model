@@ -1,0 +1,468 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200191,2,12,0,1,8:41 PM,12:00,,Start of 1st Period (8:41 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200191,4,10,0,1,8:41 PM,12:00,Jump Ball Valanciunas vs. Sengun: Tip to Smith Jr.,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,1
+0022200191,7,2,1,1,8:41 PM,11:36,,,MISS Smith Jr. 28' 3PT Jump Shot,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,8,4,0,1,8:41 PM,11:34,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200191,10,2,1,1,8:42 PM,11:20,MISS Jones 3PT Jump Shot,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,11,4,0,1,8:42 PM,11:15,,,Green REBOUND (Off:0 Def:1),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,12,1,6,1,8:42 PM,10:58,,,Gordon 4' Driving Layup (2 PTS) (Smith Jr. 1 AST),2 - 0,-2,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200191,15,2,108,1,8:43 PM,10:40,MISS Valanciunas 4' Cutting Dunk Shot,,Smith Jr. BLOCK (1 BLK),,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,1
+0022200191,17,4,0,1,8:43 PM,10:30,,,Sengun REBOUND (Off:0 Def:1),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,18,2,1,1,8:43 PM,10:28,,,MISS Green 25' 3PT Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,19,4,0,1,8:43 PM,10:25,Valanciunas REBOUND (Off:0 Def:1),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0022200191,20,1,75,1,8:43 PM,10:19,Williamson 4' Driving Finger Roll Layup (2 PTS) (McCollum 1 AST),,,2 - 2,TIE,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,22,6,1,1,8:44 PM,10:01,Valanciunas P.FOUL (P1.T1) (M.Ervin),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200191,26,1,79,1,8:44 PM,9:52,,,Smith Jr. 20' Pullup Jump Shot (2 PTS) (Green 1 AST),4 - 2,-2,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200191,28,1,47,1,8:44 PM,9:32,Ingram 13' Turnaround Jump Shot (2 PTS),,,4 - 4,TIE,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,29,6,2,1,8:44 PM,9:32,,,Gordon S.FOUL (P1.T1) (M.Ervin),,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200191,31,3,10,1,8:45 PM,9:32,Ingram Free Throw 1 of 1 (3 PTS),,,4 - 5,1,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,66,2,6,1,8:45 PM,9:20,Ingram BLOCK (1 BLK),,MISS Sengun 2' Driving Layup,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1
+0022200191,68,4,0,1,8:45 PM,9:19,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200191,33,2,63,1,8:46 PM,9:13,,,MISS Smith Jr. 15' Fadeaway Jumper,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,34,4,0,1,8:46 PM,9:08,Ingram REBOUND (Off:0 Def:1),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,35,6,2,1,8:46 PM,9:00,,,Sengun S.FOUL (P1.T2) (J.Goldenberg),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200191,37,3,11,1,8:46 PM,9:00,Valanciunas Free Throw 1 of 2 (1 PTS),,,4 - 6,2,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,38,3,12,1,8:47 PM,9:00,Valanciunas Free Throw 2 of 2 (2 PTS),,,4 - 7,3,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,39,1,98,1,8:47 PM,8:43,,,Sengun 5' Cutting Layup Shot (2 PTS) (Green 2 AST),6 - 7,1,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200191,41,1,6,1,8:47 PM,8:20,Williamson 5' Driving Layup (4 PTS) (McCollum 2 AST),,,6 - 9,3,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,43,2,63,1,8:48 PM,7:57,,,MISS Porter Jr. 5' Fadeaway Jumper,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,44,4,0,1,8:48 PM,7:54,Jones REBOUND (Off:0 Def:1),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,45,1,1,1,8:48 PM,7:50,Ingram 23' Jump Shot (5 PTS) (Williamson 1 AST),,,6 - 11,5,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,47,1,80,1,8:48 PM,7:40,,,Porter Jr. 25' 3PT Step Back Jump Shot (3 PTS),9 - 11,2,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,48,2,1,1,8:48 PM,7:28,MISS McCollum 27' 3PT Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,49,4,0,1,8:48 PM,7:24,,,Green REBOUND (Off:0 Def:2),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,50,6,2,1,8:48 PM,7:21,Ingram S.FOUL (P1.T2) (J.Goldenberg),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200191,52,3,11,1,8:49 PM,7:21,,,Green Free Throw 1 of 2 (1 PTS),10 - 11,1,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,53,8,0,1,8:49 PM,7:21,SUB: Nance Jr. FOR Valanciunas,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200191,55,3,12,1,8:49 PM,7:21,,,Green Free Throw 2 of 2 (2 PTS),11 - 11,TIE,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,56,2,6,1,8:49 PM,7:10,MISS Jones 6' Driving Layup,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,57,4,0,1,8:49 PM,7:05,,,Porter Jr. REBOUND (Off:0 Def:1),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,58,6,1,1,8:50 PM,7:03,Jones P.FOUL (P1.T3) (J.Goldenberg),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200191,60,6,4,1,8:50 PM,6:59,,,Sengun OFF.Foul (P2) (M.Ervin),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200191,62,5,37,1,8:50 PM,6:59,,,Sengun Offensive Foul Turnover (P1.T1),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200191,63,9,1,1,8:50 PM,6:59,PELICANS Timeout: Regular (Full 1 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200191,102,18,7,1,8:51 PM,6:59,,Instant Replay1st Period (8:51 PM EST),,11 - 11,TIE,0,45,George McCloud,,,,,0,0,,,,,,1,0,,,,,,0
+0022200191,64,8,0,1,8:52 PM,6:59,,,SUB: Garuba FOR Sengun,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200191,69,1,44,1,8:53 PM,6:39,Williamson 3' Reverse Layup (6 PTS) (Jones 1 AST),,,11 - 13,2,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,71,2,79,1,8:54 PM,6:17,,,MISS Gordon 28' 3PT Pullup Jump Shot,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,72,4,0,1,8:54 PM,6:12,,,Smith Jr. REBOUND (Off:1 Def:0),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,73,1,72,1,8:54 PM,6:12,,,Smith Jr. Putback Layup (4 PTS),13 - 13,TIE,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,74,7,1,1,8:54 PM,6:12,,,Rockets Violation: Delay of game Violation,,,3,1610612745,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200191,75,1,6,1,8:54 PM,6:00,Williamson 4' Driving Layup (8 PTS),,,13 - 15,2,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,77,1,79,1,8:54 PM,5:50,,,Porter Jr. 18' Pullup Jump Shot (5 PTS),15 - 15,TIE,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,79,2,79,1,8:54 PM,5:36,MISS McCollum 27' 3PT Pullup Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,80,4,0,1,8:54 PM,5:36,,,Smith Jr. REBOUND (Off:1 Def:1),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,81,2,80,1,8:55 PM,5:23,,,MISS Porter Jr. 25' 3PT Step Back Jump Shot,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,82,4,0,1,8:55 PM,5:22,,,Garuba REBOUND (Off:1 Def:0),,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,108,2,97,1,8:55 PM,5:21,,,MISS Garuba 3' Tip Layup Shot,,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,109,4,0,1,8:55 PM,5:19,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200191,83,8,0,1,8:55 PM,5:19,,,SUB: Martin Jr. FOR Smith Jr.,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200191,96,8,0,1,8:55 PM,5:19,,,SUB: Eason FOR Gordon,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200191,85,2,80,1,8:55 PM,5:12,,,MISS Green 21' Step Back Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,86,4,0,1,8:55 PM,5:11,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200191,88,1,1,1,8:56 PM,4:56,Nance Jr. 3PT Jump Shot (3 PTS) (Williamson 2 AST),,,15 - 18,3,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,90,6,4,1,8:56 PM,4:41,,,Porter Jr. OFF.Foul (P1) (J.Goldenberg),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200191,92,5,37,1,8:56 PM,4:41,,,Porter Jr. Offensive Foul Turnover (P1.T2),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200191,93,8,0,1,8:56 PM,4:41,SUB: Graham FOR McCollum,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200191,95,6,2,1,8:56 PM,4:31,,,Garuba S.FOUL (P1.T3) (M.Ervin),,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200191,99,3,11,1,8:57 PM,4:31,Williamson Free Throw 1 of 2 (9 PTS),,,15 - 19,4,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,100,8,0,1,8:57 PM,4:31,,,SUB: Nix FOR Porter Jr.,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200191,103,3,12,1,8:57 PM,4:31,Williamson Free Throw 2 of 2 (10 PTS),,,15 - 20,5,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,104,2,79,1,8:57 PM,4:20,,,MISS Green 23' Pullup Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,105,4,0,1,8:57 PM,4:20,,,Martin Jr. REBOUND (Off:1 Def:0),,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,106,1,1,1,8:57 PM,4:11,,,Eason 26' 3PT Jump Shot (3 PTS) (Green 3 AST),18 - 20,2,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200191,110,6,2,1,8:58 PM,3:58,,,Eason S.FOUL (P1.T4) (A.Smith),,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200191,112,3,11,1,8:58 PM,3:58,Williamson Free Throw 1 of 2 (11 PTS),,,18 - 21,3,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,113,8,0,1,8:58 PM,3:58,SUB: Murphy III FOR Jones,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200191,115,3,12,1,8:58 PM,3:58,Williamson Free Throw 2 of 2 (12 PTS),,,18 - 22,4,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,116,1,1,1,8:59 PM,3:38,,,Green 27' 3PT Jump Shot (5 PTS) (Eason 1 AST),21 - 22,1,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200191,118,1,1,1,8:59 PM,3:14,Nance Jr. 3PT Jump Shot (6 PTS) (Williamson 3 AST),,,21 - 25,4,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,120,5,2,1,8:59 PM,2:58,Ingram STEAL (1 STL),,Green Lost Ball Turnover (P1.T3),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,122,1,1,1,8:59 PM,2:52,Murphy III 20' Jump Shot (2 PTS) (Ingram 1 AST),,,21 - 27,6,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,124,1,75,1,9:00 PM,2:25,,,Green 5' Driving Finger Roll Layup (7 PTS),23 - 27,4,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,125,1,5,1,9:00 PM,2:18,Nance Jr. 3' Layup (8 PTS) (Graham 1 AST),,,23 - 29,6,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,127,5,40,1,9:00 PM,2:07,,,Green Out of Bounds Lost Ball Turnover (P2.T4),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200191,128,9,1,1,9:00 PM,2:07,,,Rockets Timeout: Regular (Reg.1 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200191,129,8,0,1,9:01 PM,2:07,SUB: McCollum FOR Williamson,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200191,130,8,0,1,9:01 PM,2:07,SUB: Marshall FOR Ingram,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200191,135,1,1,1,9:03 PM,1:52,Graham 26' 3PT Jump Shot (3 PTS) (McCollum 3 AST),,,23 - 32,9,4,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,137,5,45,1,9:04 PM,1:34,,,Nix Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200191,138,8,0,1,9:04 PM,1:34,SUB: Valanciunas FOR Nance Jr.,,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200191,140,2,79,1,9:04 PM,1:22,MISS McCollum 17' Pullup Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,141,4,0,1,9:04 PM,1:19,,,Garuba REBOUND (Off:1 Def:1),,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,142,5,2,1,9:04 PM,1:06,Graham STEAL (1 STL),,Martin Jr. Lost Ball Turnover (P1.T6),,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,4,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,144,2,1,1,9:04 PM,1:01,MISS Graham 26' 3PT Jump Shot,,,,,4,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,145,4,0,1,9:05 PM,0:56,,,Martin Jr. REBOUND (Off:1 Def:1),,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,146,2,1,1,9:05 PM,0:50,,,MISS Green 26' 3PT Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,147,4,0,1,9:05 PM,0:50,McCollum REBOUND (Off:0 Def:1),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,148,1,5,1,9:05 PM,0:43,Graham 3' Layup (5 PTS) (McCollum 4 AST),,,23 - 34,11,4,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,150,1,79,1,9:05 PM,0:33,,,Green 27' 3PT Pullup Jump Shot (10 PTS),26 - 34,8,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,151,5,2,1,9:05 PM,0:11,Valanciunas Lost Ball Turnover (P1.T1),,Garuba STEAL (1 STL),,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200191,153,5,1,1,9:05 PM,0:05,Valanciunas STEAL (1 STL),,Green Bad Pass Turnover (P3.T7),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,155,2,1,1,9:06 PM,0:03,MISS McCollum 27' 3PT Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,156,4,0,1,9:06 PM,0:02,Marshall REBOUND (Off:1 Def:0),,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,167,2,97,1,9:07 PM,0:02,MISS Marshall 2' Tip Layup Shot,,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,168,4,0,1,9:07 PM,0:00,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200191,157,13,0,1,9:07 PM,0:00,,End of 1st Period (9:07 PM EST),,26 - 34,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200191,166,12,0,2,9:08 PM,12:00,,Start of 2nd Period (9:08 PM EST),,26 - 34,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200191,169,2,1,2,9:09 PM,11:39,MISS Murphy III 30' 3PT Jump Shot,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,170,4,0,2,9:09 PM,11:34,,,Martin Jr. REBOUND (Off:1 Def:2),,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,171,1,58,2,9:09 PM,11:22,,,Marjanovic 15' Turnaround Hook Shot (2 PTS) (Gordon 1 AST),28 - 34,6,5,1626246,Boban Marjanović,1610612745.0,Houston,Rockets,HOU,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200191,173,5,2,2,9:09 PM,11:08,McCollum Lost Ball Turnover (P1.T2),,Christopher STEAL (1 STL),,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200191,175,2,79,2,9:09 PM,11:02,,,MISS Gordon 27' 3PT Pullup Jump Shot,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,176,4,0,2,9:09 PM,11:00,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200191,178,2,3,2,9:10 PM,10:41,MISS Valanciunas 9' Hook Shot,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,179,4,0,2,9:10 PM,10:37,,,Marjanovic REBOUND (Off:0 Def:1),,,5,1626246,Boban Marjanović,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,180,6,1,2,9:10 PM,10:37,Alvarado P.FOUL (P1.T1) (M.Ervin),,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,5,1626246,Boban Marjanović,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200191,182,5,2,2,9:10 PM,10:22,Marshall STEAL (1 STL),,Christopher Lost Ball Turnover (P1.T8),,,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,184,2,101,2,9:11 PM,10:15,MISS Marshall 12' Driving Floating Jump Shot,,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,185,4,0,2,9:11 PM,10:14,Valanciunas REBOUND (Off:1 Def:1),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,193,2,97,2,9:11 PM,10:13,MISS Valanciunas 4' Tip Layup Shot,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,194,4,0,2,9:11 PM,10:12,,,Marjanovic REBOUND (Off:0 Def:2),,,5,1626246,Boban Marjanović,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,186,1,6,2,9:11 PM,10:00,,,Gordon 4' Driving Layup (4 PTS),30 - 34,4,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,187,1,108,2,9:11 PM,9:53,Murphy III 4' Cutting Dunk Shot (4 PTS) (Marshall 1 AST),,,30 - 36,6,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,189,5,4,2,9:11 PM,9:40,,,Marjanovic Traveling Turnover (P1.T9),,,5,1626246,Boban Marjanović,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200191,190,8,0,2,9:11 PM,9:40,,,SUB: Smith Jr. FOR Eason,,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200191,192,2,1,2,9:12 PM,9:24,MISS Murphy III 26' 3PT Jump Shot,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,195,4,0,2,9:12 PM,9:20,,,Christopher REBOUND (Off:0 Def:1),,,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,196,2,6,2,9:12 PM,9:07,,,MISS Gordon 7' Driving Layup,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,197,4,0,2,9:12 PM,9:04,,,Smith Jr. REBOUND (Off:2 Def:1),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,198,5,13,2,9:12 PM,9:00,,,Martin Jr. Backcourt Turnover (P2.T10),,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,199,8,0,2,9:12 PM,9:00,,,SUB: Porter Jr. FOR Martin Jr.,,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200191,201,1,101,2,9:13 PM,8:51,Alvarado 6' Driving Floating Jump Shot (2 PTS),,,30 - 38,8,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,202,1,1,2,9:13 PM,8:38,,,Gordon 33' 3PT Jump Shot (7 PTS) (Porter Jr. 1 AST),33 - 38,5,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200191,204,1,6,2,9:13 PM,8:30,Alvarado 4' Driving Layup (4 PTS) (McCollum 5 AST),,,33 - 40,7,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,205,2,6,2,9:13 PM,8:15,,,MISS Christopher 2' Driving Layup,,,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,206,4,0,2,9:13 PM,8:13,,,Smith Jr. REBOUND (Off:3 Def:1),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,207,2,1,2,9:13 PM,8:11,,,MISS Gordon 28' 3PT Jump Shot,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,208,4,0,2,9:13 PM,8:07,McCollum REBOUND (Off:0 Def:2),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,209,1,98,2,9:13 PM,8:01,Valanciunas 3' Cutting Layup Shot (4 PTS) (Marshall 2 AST),,,33 - 42,9,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,212,9,1,2,9:14 PM,7:52,,,Rockets Timeout: Regular (Reg.2 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200191,214,8,0,2,9:16 PM,7:52,,,SUB: Sengun FOR Marjanovic,,,5,1626246,Boban Marjanović,1610612745.0,Houston,Rockets,HOU,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200191,216,2,6,2,9:17 PM,7:40,,,MISS Sengun 6' Driving Layup,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,217,4,0,2,9:17 PM,7:37,Murphy III REBOUND (Off:0 Def:1),,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,218,2,1,2,9:17 PM,7:31,MISS Murphy III 26' 3PT Jump Shot,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,219,4,0,2,9:17 PM,7:27,Valanciunas REBOUND (Off:2 Def:1),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,220,2,72,2,9:17 PM,7:24,MISS Valanciunas 5' Putback Layup,,Smith Jr. BLOCK (2 BLK),,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,1
+0022200191,222,4,0,2,9:17 PM,7:24,,,Smith Jr. REBOUND (Off:3 Def:2),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,223,1,101,2,9:17 PM,7:09,,,Porter Jr. 11' Driving Floating Jump Shot (7 PTS),35 - 42,7,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,224,6,1,2,9:18 PM,6:59,,,Smith Jr. P.FOUL (P1.T1) (J.Goldenberg),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200191,226,8,0,2,9:18 PM,6:59,SUB: Williamson FOR McCollum,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200191,227,8,0,2,9:18 PM,6:59,SUB: Ingram FOR Marshall,,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200191,230,1,79,2,9:18 PM,6:55,Ingram 17' Pullup Jump Shot (7 PTS),,,35 - 44,9,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,232,2,66,2,9:19 PM,6:32,,,MISS Christopher 27' 3PT Jump Bank Shot,,,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,233,4,0,2,9:19 PM,6:29,Valanciunas REBOUND (Off:2 Def:2),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,234,1,1,2,9:19 PM,6:21,Valanciunas 26' 3PT Jump Shot (7 PTS) (Ingram 2 AST),,,35 - 47,12,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,236,1,75,2,9:19 PM,6:03,,,Sengun 6' Driving Finger Roll Layup (4 PTS) (Porter Jr. 2 AST),37 - 47,10,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200191,238,6,2,2,9:19 PM,5:56,,,Smith Jr. S.FOUL (P2.T2) (A.Smith),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200191,240,3,11,2,9:20 PM,5:56,Murphy III Free Throw 1 of 2 (5 PTS),,,37 - 48,11,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,241,8,0,2,9:20 PM,5:56,SUB: Nance Jr. FOR Valanciunas,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200191,242,8,0,2,9:20 PM,5:56,,,SUB: Martin Jr. FOR Christopher,,,5,1630528,Josh Christopher,1610612745.0,Houston,Rockets,HOU,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200191,243,8,0,2,9:20 PM,5:56,,,SUB: Green FOR Gordon,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200191,247,3,12,2,9:20 PM,5:56,Murphy III Free Throw 2 of 2 (6 PTS),,,37 - 49,12,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,248,2,6,2,9:20 PM,5:44,,,MISS Smith Jr. 5' Driving Layup,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,249,4,0,2,9:20 PM,5:42,Ingram REBOUND (Off:0 Def:2),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,250,6,26,2,9:21 PM,5:25,Williamson Offensive Charge Foul (P1) (J.Goldenberg),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200191,252,5,37,2,9:21 PM,5:25,Williamson Offensive Foul Turnover (P1.T3),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022200191,253,8,0,2,9:21 PM,5:25,SUB: Jones FOR Murphy III,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200191,255,6,1,2,9:21 PM,5:08,Alvarado P.FOUL (P2.T2) (A.Smith),,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200191,257,6,2,2,9:22 PM,5:01,Nance Jr. S.FOUL (P1.T3) (J.Goldenberg),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200191,259,3,11,2,9:22 PM,5:01,,,Green Free Throw 1 of 2 (11 PTS),38 - 49,11,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,260,3,12,2,9:23 PM,5:01,,,Green Free Throw 2 of 2 (12 PTS),39 - 49,10,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,261,1,98,2,9:23 PM,4:54,Nance Jr. 5' Cutting Layup Shot (10 PTS) (Alvarado 1 AST),,,39 - 51,12,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,263,6,2,2,9:23 PM,4:54,,,Porter Jr. S.FOUL (P2.T3) (J.Goldenberg),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200191,265,3,10,2,9:23 PM,4:54,MISS Nance Jr. Free Throw 1 of 1,,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,266,4,0,2,9:23 PM,4:50,,,Smith Jr. REBOUND (Off:3 Def:3),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,267,2,79,2,9:23 PM,4:41,,,MISS Porter Jr. 26' 3PT Pullup Jump Shot,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,268,4,0,2,9:23 PM,4:37,Jones REBOUND (Off:0 Def:2),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,269,2,1,2,9:24 PM,4:26,MISS Jones 26' 3PT Jump Shot,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,270,4,0,2,9:24 PM,4:23,,,Martin Jr. REBOUND (Off:1 Def:3),,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,272,7,5,2,9:24 PM,4:15,Nance Jr. Violation:Kicked Ball (A.Smith),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+0022200191,274,2,79,2,9:25 PM,4:03,,,MISS Green 22' Pullup Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,275,4,0,2,9:25 PM,4:01,,,Smith Jr. REBOUND (Off:4 Def:3),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,276,6,2,2,9:25 PM,4:01,Williamson S.FOUL (P2.T4) (M.Ervin),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200191,278,3,11,2,9:25 PM,4:01,,,MISS Smith Jr. Free Throw 1 of 2,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,279,4,1,2,9:25 PM,4:01,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200191,280,3,12,2,9:26 PM,4:01,,,Smith Jr. Free Throw 2 of 2 (5 PTS),40 - 51,11,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,281,2,86,2,9:26 PM,3:44,MISS Ingram 12' Turnaround Fadeaway Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,282,4,0,2,9:26 PM,3:40,,,Smith Jr. REBOUND (Off:4 Def:4),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,290,1,6,2,9:26 PM,3:36,,,Porter Jr. 2' Driving Layup (9 PTS),42 - 51,9,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,283,6,2,2,9:26 PM,3:36,Alvarado S.FOUL (P3.PN) (A.Smith),,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200191,286,8,0,2,9:26 PM,3:36,SUB: McCollum FOR Alvarado,,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200191,288,9,1,2,9:27 PM,3:36,,,Rockets Timeout: Regular (Reg.3 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200191,289,18,5,2,9:27 PM,3:36,,Instant Replay2nd Period (9:27 PM EST),,42 - 51,9,0,283,Lindsey Hunter,,,,,0,0,,,,,,1,0,,,,,,0
+0022200191,303,3,10,2,9:28 PM,3:36,,,MISS Porter Jr. Free Throw 1 of 1,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,304,4,0,2,9:28 PM,3:36,Williamson REBOUND (Off:0 Def:1),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,291,6,2,2,9:30 PM,3:25,,,Smith Jr. S.FOUL (P3.T4) (M.Ervin),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200191,293,3,11,2,9:30 PM,3:25,Williamson Free Throw 1 of 2 (13 PTS),,,42 - 52,10,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,294,8,0,2,9:30 PM,3:25,,,SUB: Eason FOR Smith Jr.,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200191,296,3,12,2,9:31 PM,3:25,MISS Williamson Free Throw 2 of 2,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,297,4,0,2,9:31 PM,3:23,,,Sengun REBOUND (Off:0 Def:2),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,298,2,63,2,9:31 PM,3:07,,,MISS Green 8' Fadeaway Jumper,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,299,4,0,2,9:31 PM,3:07,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200191,300,6,3,2,9:31 PM,3:07,,,Sengun L.B.FOUL (P3.PN) (J.Goldenberg),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200191,302,3,11,2,9:32 PM,3:07,Nance Jr. Free Throw 1 of 2 (11 PTS),,,42 - 53,11,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,307,3,12,2,9:32 PM,3:07,Nance Jr. Free Throw 2 of 2 (12 PTS),,,42 - 54,12,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,305,8,0,2,9:32 PM,3:07,,,SUB: Garuba FOR Sengun,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200191,308,6,1,2,9:32 PM,2:58,Jones P.FOUL (P2.PN) (A.Smith),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200191,310,3,11,2,9:33 PM,2:58,,,Porter Jr. Free Throw 1 of 2 (10 PTS),43 - 54,11,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,311,3,12,2,9:33 PM,2:58,,,Porter Jr. Free Throw 2 of 2 (11 PTS),44 - 54,10,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,312,1,6,2,9:33 PM,2:46,Ingram 3' Driving Layup (9 PTS) (Williamson 4 AST),,,44 - 56,12,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,314,2,1,2,9:33 PM,2:33,,,MISS Martin Jr. 26' 3PT Jump Shot,,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,315,4,0,2,9:33 PM,2:31,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200191,317,6,2,2,9:34 PM,2:18,,,Martin Jr. S.FOUL (P1.PN) (J.Goldenberg),,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200191,319,3,11,2,9:34 PM,2:18,McCollum Free Throw 1 of 2 (1 PTS),,,44 - 57,13,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,320,8,0,2,9:34 PM,2:18,,,SUB: Gordon FOR Martin Jr.,,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200191,322,3,12,2,9:35 PM,2:18,McCollum Free Throw 2 of 2 (2 PTS),,,44 - 58,14,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,323,6,4,2,9:35 PM,2:09,,,Garuba OFF.Foul (P2) (J.Goldenberg),,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200191,325,5,37,2,9:35 PM,2:09,,,Garuba Offensive Foul Turnover (P1.T11),,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200191,326,2,1,2,9:35 PM,1:58,MISS Ingram 28' 3PT Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,327,4,0,2,9:35 PM,1:55,Jones REBOUND (Off:1 Def:2),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,328,2,1,2,9:35 PM,1:50,MISS McCollum 26' 3PT Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,329,4,0,2,9:35 PM,1:45,Nance Jr. REBOUND (Off:1 Def:0),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,330,1,6,2,9:35 PM,1:38,Ingram 3' Driving Layup (11 PTS),,,44 - 60,16,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,331,6,2,2,9:36 PM,1:31,Ingram S.FOUL (P2.PN) (J.Goldenberg),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200191,333,3,11,2,9:36 PM,1:31,,,Garuba Free Throw 1 of 2 (1 PTS),45 - 60,15,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,338,3,12,2,9:36 PM,1:31,,,MISS Garuba Free Throw 2 of 2,,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,334,8,0,2,9:36 PM,1:31,SUB: Marshall FOR Williamson,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200191,335,8,0,2,9:36 PM,1:31,SUB: Murphy III FOR Jones,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200191,339,4,0,2,9:36 PM,1:29,Nance Jr. REBOUND (Off:1 Def:1),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,340,1,80,2,9:37 PM,1:15,McCollum 25' 3PT Step Back Jump Shot (5 PTS),,,45 - 63,18,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,341,1,1,2,9:37 PM,0:55,,,Porter Jr. 3PT Jump Shot (14 PTS) (Green 4 AST),48 - 63,15,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200191,343,2,79,2,9:38 PM,0:36,MISS Ingram 22' Pullup Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,344,4,0,2,9:38 PM,0:36,,,Garuba REBOUND (Off:1 Def:2),,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,345,1,6,2,9:38 PM,0:28,,,Green 3' Driving Layup (14 PTS),50 - 63,13,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,346,6,4,2,9:38 PM,0:08,Nance Jr. OFF.Foul (P2) (J.Goldenberg),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200191,348,5,37,2,9:38 PM,0:08,Nance Jr. Offensive Foul Turnover (P1.T4),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022200191,349,2,80,2,9:38 PM,0:02,,,MISS Porter Jr. 25' 3PT Step Back Jump Shot,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,350,4,0,2,9:38 PM,0:00,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200191,351,13,0,2,9:45 PM,0:00,,End of 2nd Period (9:45 PM EST),,50 - 63,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200191,362,12,0,3,9:54 PM,12:00,,Start of 3rd Period (9:54 PM EST),,50 - 63,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200191,363,2,79,3,9:54 PM,11:43,MISS McCollum 17' Pullup Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,364,4,0,3,9:54 PM,11:38,,,Gordon REBOUND (Off:0 Def:1),,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,365,1,75,3,9:54 PM,11:31,,,Gordon 4' Driving Finger Roll Layup (9 PTS) (Porter Jr. 3 AST),52 - 63,11,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200191,367,2,1,3,9:55 PM,11:20,MISS Ingram 26' 3PT Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,368,4,0,3,9:55 PM,11:17,,,Smith Jr. REBOUND (Off:4 Def:5),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,369,6,1,3,9:55 PM,11:11,Valanciunas P.FOUL (P2.T1) (M.Ervin),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200191,371,1,1,3,9:56 PM,11:00,,,Gordon 26' 3PT Jump Shot (12 PTS) (Sengun 1 AST),55 - 63,8,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200191,373,2,1,3,9:56 PM,10:45,MISS Jones 3PT Jump Shot,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,374,4,0,3,9:56 PM,10:40,Williamson REBOUND (Off:1 Def:1),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,375,1,9,3,9:56 PM,10:36,Jones 2' Driving Dunk (2 PTS) (Ingram 3 AST),,,55 - 65,10,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,377,2,1,3,9:56 PM,10:14,,,MISS Sengun 26' 3PT Jump Shot,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,378,4,0,3,9:56 PM,10:11,Ingram REBOUND (Off:0 Def:3),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,380,1,79,3,9:56 PM,10:06,McCollum 15' Pullup Jump Shot (7 PTS),,,55 - 67,12,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,382,1,98,3,9:57 PM,9:49,,,Green 3' Cutting Layup Shot (16 PTS) (Gordon 2 AST),57 - 67,10,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200191,384,1,5,3,9:57 PM,9:34,Williamson 4' Layup (15 PTS),,,57 - 69,12,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,385,2,79,3,9:57 PM,9:18,,,MISS Green 3PT Pullup Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,386,4,0,3,9:57 PM,9:14,Ingram REBOUND (Off:0 Def:4),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,387,1,9,3,9:58 PM,8:59,Williamson 2' Driving Dunk (17 PTS),,,57 - 71,14,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,388,5,1,3,9:58 PM,8:41,Ingram STEAL (2 STL),,Porter Jr. Bad Pass Turnover (P2.T12),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,390,1,41,3,9:58 PM,8:35,Jones 4' Running Layup (4 PTS) (Ingram 4 AST),,,57 - 73,16,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,392,9,1,3,9:58 PM,8:35,,,Rockets Timeout: Regular (Reg.4 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200191,393,2,79,3,10:01 PM,8:25,,,MISS Smith Jr. 19' Pullup Jump Shot,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,394,4,0,3,10:01 PM,8:22,McCollum REBOUND (Off:0 Def:3),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,395,6,2,3,10:01 PM,8:16,,,Sengun S.FOUL (P4.T1) (M.Ervin),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200191,397,3,11,3,10:02 PM,8:16,MISS Valanciunas Free Throw 1 of 2,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,398,4,1,3,10:02 PM,8:16,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200191,399,3,12,3,10:02 PM,8:16,Valanciunas Free Throw 2 of 2 (8 PTS),,,57 - 74,17,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,400,1,1,3,10:02 PM,7:58,,,Porter Jr. 27' 3PT Jump Shot (17 PTS) (Green 5 AST),60 - 74,14,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200191,403,1,5,3,10:03 PM,7:41,Williamson 3' Layup (19 PTS) (Valanciunas 1 AST),,,60 - 76,16,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,405,5,1,3,10:03 PM,7:29,McCollum STEAL (1 STL),,Porter Jr. Bad Pass Turnover (P3.T13),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,407,1,41,3,10:03 PM,7:24,Jones 3' Running Layup (6 PTS) (McCollum 6 AST),,,60 - 78,18,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,409,5,1,3,10:03 PM,7:13,McCollum STEAL (2 STL),,Green Bad Pass Turnover (P4.T14),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,412,8,0,3,10:03 PM,7:11,SUB: Nance Jr. FOR Valanciunas,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200191,414,2,1,3,10:04 PM,7:02,MISS Nance Jr. 26' 3PT Jump Shot,,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,415,4,0,3,10:04 PM,6:59,,,Smith Jr. REBOUND (Off:4 Def:6),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,416,6,1,3,10:04 PM,6:54,Jones P.FOUL (P3.T2) (J.Goldenberg),,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200191,420,8,0,3,10:04 PM,6:54,SUB: Marshall FOR Jones,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200191,418,1,5,3,10:04 PM,6:43,,,Porter Jr. 5' Layup (19 PTS),62 - 78,16,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,419,5,2,3,10:05 PM,6:28,Williamson Lost Ball Turnover (P2.T5),,Sengun STEAL (1 STL),,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200191,423,1,78,3,10:05 PM,6:22,,,Smith Jr. 14' Floating Jump Shot (7 PTS) (Gordon 3 AST),64 - 78,14,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200191,425,1,1,3,10:05 PM,6:06,Marshall 25' 3PT Jump Shot (3 PTS) (Ingram 5 AST),,,64 - 81,17,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,427,2,1,3,10:05 PM,5:43,,,MISS Gordon 28' 3PT Jump Shot,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,428,4,0,3,10:05 PM,5:40,,,Smith Jr. REBOUND (Off:5 Def:6),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,429,1,98,3,10:06 PM,5:30,,,Smith Jr. 3' Cutting Layup Shot (9 PTS) (Gordon 4 AST),66 - 81,15,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200191,431,6,26,3,10:06 PM,5:19,Ingram Offensive Charge Foul (P3) (M.Ervin),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200191,433,5,37,3,10:06 PM,5:19,Ingram Offensive Foul Turnover (P1.T6),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022200191,434,8,0,3,10:06 PM,5:19,SUB: Jones FOR Marshall,,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200191,435,8,0,3,10:06 PM,5:19,,,SUB: Martin Jr. FOR Smith Jr.,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200191,436,8,0,3,10:06 PM,5:19,,,SUB: Eason FOR Gordon,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200191,440,1,58,3,10:06 PM,5:03,,,Sengun 7' Turnaround Hook Shot (6 PTS) (Green 6 AST),68 - 81,13,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200191,442,2,79,3,10:07 PM,4:48,MISS McCollum 16' Pullup Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,443,4,0,3,10:07 PM,4:44,,,Sengun REBOUND (Off:0 Def:3),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,444,6,2,3,10:07 PM,4:38,McCollum S.FOUL (P1.T3) (A.Smith),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200191,446,3,11,3,10:07 PM,4:38,,,Green Free Throw 1 of 2 (17 PTS),69 - 81,12,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,447,8,0,3,10:07 PM,4:38,SUB: Graham FOR McCollum,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200191,448,8,0,3,10:07 PM,4:38,,,SUB: Nix FOR Porter Jr.,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200191,451,3,12,3,10:08 PM,4:38,,,Green Free Throw 2 of 2 (18 PTS),70 - 81,11,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,452,2,6,3,10:08 PM,4:29,MISS Ingram 6' Driving Layup,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,453,4,0,3,10:08 PM,4:29,Ingram REBOUND (Off:1 Def:4),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,471,2,97,3,10:08 PM,4:29,MISS Ingram 1' Tip Layup Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,475,4,0,3,10:08 PM,4:29,Nance Jr. REBOUND (Off:2 Def:1),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,454,1,7,3,10:08 PM,4:21,Nance Jr. 3' Dunk (14 PTS),,,70 - 83,13,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,455,1,79,3,10:08 PM,4:06,,,Green 14' Pullup Jump Shot (20 PTS) (Eason 2 AST),72 - 83,11,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200191,458,6,17,3,10:09 PM,3:54,,,Rockets T.Foul (Def. 3 Sec Sengun ) (M.Ervin),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200191,459,3,16,3,10:09 PM,3:54,Ingram Free Throw Technical (12 PTS),,,72 - 84,12,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,460,8,0,3,10:09 PM,3:54,SUB: Murphy III FOR Williamson,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200191,461,8,0,3,10:09 PM,3:54,SUB: Marshall FOR Jones,,,,,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200191,462,8,0,3,10:09 PM,3:54,,,SUB: Garuba FOR Sengun,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200191,466,2,73,3,10:10 PM,3:40,MISS Graham 3' Driving Reverse Layup,,Garuba BLOCK (1 BLK),,,4,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,1
+0022200191,467,4,0,3,10:10 PM,3:38,,,Eason REBOUND (Off:0 Def:1),,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,468,1,1,3,10:10 PM,3:18,,,Green 26' 3PT Jump Shot (23 PTS),75 - 84,9,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,469,2,79,3,10:10 PM,2:56,MISS Ingram 16' Pullup Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,470,4,0,3,10:10 PM,2:49,,,Nix REBOUND (Off:0 Def:1),,,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,472,1,1,3,10:10 PM,2:44,,,Green 28' 3PT Jump Shot (26 PTS) (Nix 1 AST),78 - 84,6,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200191,474,9,1,3,10:10 PM,2:43,PELICANS Timeout: Regular (Full 2 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200191,476,5,1,3,10:13 PM,2:27,Murphy III Bad Pass Turnover (P1.T7),,Eason STEAL (1 STL),,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200191,478,5,45,3,10:14 PM,2:22,,,Martin Jr. Out of Bounds - Bad Pass Turnover Turnover (P3.T15),,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200191,479,2,1,3,10:14 PM,2:08,MISS Murphy III 3PT Jump Shot,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,480,4,0,3,10:14 PM,2:05,,,Martin Jr. REBOUND (Off:1 Def:4),,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,481,2,1,3,10:15 PM,1:51,,,MISS Green 27' 3PT Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,482,4,0,3,10:15 PM,1:46,,,Martin Jr. REBOUND (Off:2 Def:4),,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,483,1,1,3,10:15 PM,1:44,,,Green 26' 3PT Jump Shot (29 PTS) (Martin Jr. 1 AST),81 - 84,3,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200191,485,5,1,3,10:15 PM,1:32,Ingram Bad Pass Turnover (P2.T8),,Nix STEAL (1 STL),,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200191,487,6,2,3,10:15 PM,1:30,Ingram S.FOUL (P4.T4) (A.Smith),,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200191,489,3,11,3,10:15 PM,1:30,,,Eason Free Throw 1 of 2 (4 PTS),82 - 84,2,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,490,8,0,3,10:16 PM,1:30,SUB: Williamson FOR Ingram,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200191,492,3,12,3,10:16 PM,1:30,,,Eason Free Throw 2 of 2 (5 PTS),83 - 84,1,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,494,6,1,3,10:16 PM,1:14,,,Eason P.FOUL (P2.T2) (M.Ervin),,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200191,496,6,4,3,10:17 PM,1:10,Nance Jr. OFF.Foul (P3) (M.Ervin),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200191,498,5,37,3,10:17 PM,1:10,Nance Jr. Offensive Foul Turnover (P2.T9),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022200191,499,5,1,3,10:17 PM,0:57,Graham STEAL (2 STL),,Green Bad Pass Turnover (P5.T16),,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,4,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,501,5,2,3,10:17 PM,0:52,Nance Jr. Lost Ball Turnover (P3.T10),,Eason STEAL (2 STL),,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200191,503,1,9,3,10:17 PM,0:49,,,Martin Jr. 4' Driving Dunk (2 PTS) (Eason 3 AST),85 - 84,-1,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200191,505,2,1,3,10:17 PM,0:44,MISS Murphy III 25' 3PT Jump Shot,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,506,4,0,3,10:17 PM,0:40,,,Nix REBOUND (Off:0 Def:2),,,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,507,1,108,3,10:18 PM,0:35,,,Martin Jr. 4' Cutting Dunk Shot (4 PTS) (Nix 2 AST),87 - 84,-3,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200191,509,1,44,3,10:18 PM,0:17,Nance Jr. 2' Reverse Layup (16 PTS) (Williamson 5 AST),,,87 - 86,-1,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,511,5,1,3,10:18 PM,0:01,Williamson STEAL (1 STL),,Nix Bad Pass Turnover (P2.T17),,,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,513,13,0,3,10:19 PM,0:00,,End of 3rd Period (10:19 PM EST),,87 - 86,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200191,523,12,0,4,10:21 PM,12:00,,Start of 4th Period (10:21 PM EST),,87 - 86,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200191,524,1,52,4,10:21 PM,11:46,,,Martin Jr. 3' Alley Oop Dunk (6 PTS) (Nix 3 AST),89 - 86,-3,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200191,526,2,47,4,10:22 PM,11:22,MISS Valanciunas 6' Turnaround Jump Shot,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,527,4,0,4,10:22 PM,11:19,,,Nix REBOUND (Off:0 Def:3),,,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,528,2,1,4,10:22 PM,11:12,,,MISS Eason 3PT Jump Shot,,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,529,4,0,4,10:22 PM,11:07,Alvarado REBOUND (Off:0 Def:1),,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,530,9,1,4,10:22 PM,11:05,PELICANS Timeout: Regular (Full 3 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200191,531,8,0,4,10:23 PM,11:05,SUB: Williamson FOR Marshall,,,,,4,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200191,533,6,2,4,10:25 PM,10:57,,,Eason S.FOUL (P3.T1) (J.Goldenberg),,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200191,535,3,11,4,10:25 PM,10:57,MISS Williamson Free Throw 1 of 2,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,536,4,1,4,10:25 PM,10:57,PELICANS Rebound,,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200191,537,3,12,4,10:26 PM,10:57,Williamson Free Throw 2 of 2 (20 PTS),,,89 - 87,-2,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,538,1,1,4,10:26 PM,10:38,,,Garuba 27' 3PT Jump Shot (4 PTS) (Gordon 5 AST),92 - 87,-5,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200191,540,5,2,4,10:26 PM,10:23,Williamson Lost Ball Turnover (P3.T11),,Eason STEAL (3 STL),,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200191,542,2,6,4,10:26 PM,10:18,,,MISS Eason 3' Driving Layup,,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,543,4,0,4,10:26 PM,10:18,,,Martin Jr. REBOUND (Off:3 Def:4),,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,544,1,97,4,10:27 PM,10:18,,,Martin Jr. Tip Layup Shot (8 PTS),94 - 87,-7,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,545,6,2,4,10:27 PM,10:18,Murphy III S.FOUL (P1.T1) (J.Goldenberg),,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200191,547,8,0,4,10:27 PM,10:18,SUB: Ingram FOR Murphy III,,,,,4,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200191,549,3,10,4,10:27 PM,10:18,,,Martin Jr. Free Throw 1 of 1 (9 PTS),95 - 87,-8,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,550,1,1,4,10:27 PM,10:05,Alvarado 25' 3PT Jump Shot (7 PTS) (McCollum 7 AST),,,95 - 90,-5,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,552,6,1,4,10:27 PM,9:52,Alvarado P.FOUL (P4.T2) (M.Ervin),,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200191,554,8,0,4,10:28 PM,9:52,,,SUB: Porter Jr. FOR Nix,,,5,1630227,Daishen Nix,1610612745.0,Houston,Rockets,HOU,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200191,556,5,40,4,10:28 PM,9:45,,,Porter Jr. Out of Bounds Lost Ball Turnover (P4.T18),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200191,557,2,1,4,10:29 PM,9:33,MISS McCollum 26' 3PT Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,558,4,0,4,10:29 PM,9:29,,,Eason REBOUND (Off:0 Def:2),,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,559,2,1,4,10:29 PM,9:18,,,MISS Eason 26' 3PT Jump Shot,,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,560,4,0,4,10:29 PM,9:15,McCollum REBOUND (Off:0 Def:4),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,592,5,1,4,10:29 PM,9:14,McCollum Bad Pass Turnover (P2.T12),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,561,6,3,4,10:29 PM,9:14,Williamson L.B.FOUL (P3.T3) (M.Ervin),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200191,564,8,0,4,10:29 PM,9:14,,,SUB: Sengun FOR Garuba,,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200191,566,1,6,4,10:30 PM,9:00,,,Gordon 4' Driving Layup (14 PTS),97 - 90,-7,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,567,6,2,4,10:30 PM,9:00,Valanciunas S.FOUL (P3.T4) (J.Goldenberg),,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200191,569,3,10,4,10:30 PM,9:00,,,Gordon Free Throw 1 of 1 (15 PTS),98 - 90,-8,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,570,6,2,4,10:31 PM,8:50,,,Sengun S.FOUL (P5.T2) (M.Ervin),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200191,572,3,11,4,10:31 PM,8:50,Williamson Free Throw 1 of 2 (21 PTS),,,98 - 91,-7,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,573,8,0,4,10:31 PM,8:50,SUB: Nance Jr. FOR Valanciunas,,,,,4,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200191,575,3,12,4,10:31 PM,8:50,Williamson Free Throw 2 of 2 (22 PTS),,,98 - 92,-6,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,576,5,2,4,10:32 PM,8:46,Alvarado STEAL (1 STL),,Porter Jr. Lost Ball Turnover (P5.T19),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,578,1,5,4,10:32 PM,8:41,Alvarado 2' Layup (9 PTS),,,98 - 94,-4,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,579,5,1,4,10:32 PM,8:35,Alvarado STEAL (2 STL),,Eason Bad Pass Turnover (P1.T20),,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,581,2,1,4,10:32 PM,8:20,MISS Alvarado 26' 3PT Jump Shot,,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,582,4,0,4,10:32 PM,8:17,Nance Jr. REBOUND (Off:3 Def:1),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,587,7,5,4,10:32 PM,8:17,,,Porter Jr. Violation:Kicked Ball (A.Smith),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+0022200191,584,8,0,4,10:32 PM,8:17,,,SUB: Green FOR Martin Jr.,,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200191,586,6,2,4,10:33 PM,8:08,,,Sengun S.FOUL (P6.T3) (J.Goldenberg),,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200191,589,8,0,4,10:33 PM,8:08,,,SUB: Smith Jr. FOR Sengun,,,5,1630578,Alperen Sengun,1610612745.0,Houston,Rockets,HOU,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200191,591,3,11,4,10:33 PM,8:08,Nance Jr. Free Throw 1 of 2 (17 PTS),,,98 - 95,-3,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,593,3,12,4,10:34 PM,8:08,Nance Jr. Free Throw 2 of 2 (18 PTS),,,98 - 96,-2,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,594,1,6,4,10:34 PM,7:59,,,Green 3' Driving Layup (31 PTS),100 - 96,-4,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,595,2,1,4,10:34 PM,7:50,MISS Ingram 26' 3PT Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,596,4,0,4,10:34 PM,7:50,Nance Jr. REBOUND (Off:4 Def:1),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,597,1,72,4,10:34 PM,7:44,Nance Jr. 5' Putback Layup (20 PTS),,,100 - 98,-2,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,598,5,1,4,10:34 PM,7:31,Ingram STEAL (3 STL),,Gordon Bad Pass Turnover (P1.T21),,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,600,1,101,4,10:34 PM,7:20,McCollum 3' Driving Floating Jump Shot (9 PTS) (Alvarado 2 AST),,,100 - 100,TIE,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,602,9,1,4,10:35 PM,7:20,,,Rockets Timeout: Regular (Reg.5 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200191,603,8,0,4,10:35 PM,7:20,,,SUB: Martin Jr. FOR Gordon,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200191,604,8,0,4,10:35 PM,7:20,,,SUB: Garuba FOR Eason,,,5,1631106,Tari Eason,1610612745.0,Houston,Rockets,HOU,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200191,607,6,4,4,10:37 PM,7:12,,,Porter Jr. OFF.Foul (P3) (J.Goldenberg),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200191,609,5,37,4,10:37 PM,7:12,,,Porter Jr. Offensive Foul Turnover (P6.T22),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200191,610,2,1,4,10:38 PM,6:58,MISS McCollum 26' 3PT Jump Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,611,4,0,4,10:38 PM,6:54,,,Garuba REBOUND (Off:1 Def:3),,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,613,2,1,4,10:39 PM,6:35,,,MISS Martin Jr. 3PT Jump Shot,,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,615,2,97,4,10:39 PM,6:26,,,MISS Smith Jr. Tip Layup Shot,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,614,4,0,4,10:39 PM,6:26,,,Smith Jr. REBOUND (Off:6 Def:6),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,616,4,0,4,10:39 PM,6:25,Nance Jr. REBOUND (Off:4 Def:2),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,617,1,57,4,10:39 PM,6:13,Williamson 4' Driving Hook Shot (24 PTS) (Alvarado 3 AST),,,100 - 102,2,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,619,1,6,4,10:40 PM,6:01,,,Porter Jr. 5' Driving Layup (21 PTS),102 - 102,TIE,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,620,6,1,4,10:40 PM,5:43,,,Martin Jr. P.FOUL (P2.T4) (M.Ervin),,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200191,622,2,1,4,10:41 PM,5:28,MISS Ingram 26' 3PT Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,623,4,0,4,10:41 PM,5:25,Nance Jr. REBOUND (Off:5 Def:2),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,624,2,72,4,10:41 PM,5:23,MISS Nance Jr. 3' Putback Layup,,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,625,4,0,4,10:41 PM,5:19,,,Smith Jr. REBOUND (Off:6 Def:7),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,626,2,80,4,10:41 PM,5:10,,,MISS Porter Jr. 26' 3PT Step Back Jump Shot,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,627,4,0,4,10:41 PM,5:07,Alvarado REBOUND (Off:0 Def:2),,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,628,6,2,4,10:41 PM,5:03,,,Smith Jr. S.FOUL (P4.PN) (J.Goldenberg),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200191,630,3,11,4,10:41 PM,5:03,Williamson Free Throw 1 of 2 (25 PTS),,,102 - 103,1,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,631,3,12,4,10:42 PM,5:03,Williamson Free Throw 2 of 2 (26 PTS),,,102 - 104,2,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,632,2,79,4,10:42 PM,4:52,,,MISS Porter Jr. 26' 3PT Pullup Jump Shot,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,633,4,0,4,10:42 PM,4:46,Williamson REBOUND (Off:1 Def:2),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,634,1,6,4,10:42 PM,4:27,Ingram 3' Driving Layup (14 PTS),,,102 - 106,4,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,635,2,1,4,10:43 PM,4:12,,,MISS Porter Jr. 27' 3PT Jump Shot,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,636,4,0,4,10:43 PM,4:10,Williamson REBOUND (Off:1 Def:3),,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,637,2,79,4,10:43 PM,4:02,MISS Ingram 18' Pullup Jump Shot,,,,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,638,4,0,4,10:43 PM,3:57,,,Garuba REBOUND (Off:1 Def:4),,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,639,2,1,4,10:43 PM,3:46,,,MISS Smith Jr. 26' 3PT Jump Shot,,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,640,4,0,4,10:43 PM,3:42,Nance Jr. REBOUND (Off:5 Def:3),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,641,9,1,4,10:43 PM,3:36,PELICANS Timeout: Regular (Full 4 Short 0),,,,,2,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200191,642,8,0,4,10:44 PM,3:36,,,SUB: Gordon FOR Martin Jr.,,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200191,644,2,47,4,10:45 PM,3:28,MISS Ingram 13' Turnaround Jump Shot,,Gordon BLOCK (1 BLK),,,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,1
+0022200191,646,4,0,4,10:45 PM,3:27,,,Smith Jr. REBOUND (Off:6 Def:8),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,647,1,106,4,10:45 PM,3:24,,,Green 3' Running Alley Oop Dunk Shot (33 PTS) (Smith Jr. 2 AST),104 - 106,2,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1
+0022200191,649,2,6,4,10:45 PM,3:02,MISS McCollum 4' Driving Layup,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,650,4,0,4,10:45 PM,3:02,,,Garuba REBOUND (Off:1 Def:5),,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,651,1,41,4,10:46 PM,2:58,,,Porter Jr. 4' Running Layup (23 PTS),106 - 106,TIE,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,652,6,2,4,10:46 PM,2:58,Alvarado S.FOUL (P5.PN) (J.Goldenberg),,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,1
+0022200191,654,3,10,4,10:46 PM,2:58,,,MISS Porter Jr. Free Throw 1 of 1,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,655,4,0,4,10:46 PM,2:55,Nance Jr. REBOUND (Off:5 Def:4),,,,,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,656,2,101,4,10:46 PM,2:37,MISS Williamson 5' Driving Floating Jump Shot,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,657,4,0,4,10:46 PM,2:33,McCollum REBOUND (Off:1 Def:4),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,658,2,97,4,10:46 PM,2:31,MISS McCollum 4' Tip Layup Shot,,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,659,4,0,4,10:46 PM,2:31,,,Smith Jr. REBOUND (Off:6 Def:9),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,660,5,39,4,10:47 PM,2:25,,,Gordon Step Out of Bounds Turnover (P2.T23),,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200191,661,6,2,4,10:47 PM,2:09,,,Gordon S.FOUL (P2.PN) (J.Goldenberg),,,5,201569,Eric Gordon,1610612745.0,Houston,Rockets,HOU,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200191,663,3,11,4,10:47 PM,2:09,Ingram Free Throw 1 of 2 (15 PTS),,,106 - 107,1,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,664,3,12,4,10:48 PM,2:09,Ingram Free Throw 2 of 2 (16 PTS),,,106 - 108,2,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,665,5,4,4,10:48 PM,2:00,,,Garuba Traveling Turnover (P2.T24),,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200191,666,1,1,4,10:48 PM,1:39,Alvarado 27' 3PT Jump Shot (12 PTS) (Williamson 6 AST),,,106 - 111,5,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,668,5,4,4,10:49 PM,1:25,,,Porter Jr. Traveling Turnover (P7.T25),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200191,669,1,63,4,10:49 PM,1:01,Ingram 21' Fadeaway Jumper (18 PTS) (Alvarado 4 AST),,,106 - 113,7,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,671,9,1,4,10:50 PM,1:00,,,Rockets Timeout: Regular (Reg.6 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200191,672,8,0,4,10:50 PM,1:00,SUB: Jones FOR Williamson,,,,,4,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200191,673,8,0,4,10:50 PM,1:00,,,SUB: Martin Jr. FOR Garuba,,,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200191,676,2,1,4,10:51 PM,0:55,,,MISS Martin Jr. 27' 3PT Jump Shot,,,5,1630231,KJ Martin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,677,4,0,4,10:51 PM,0:52,McCollum REBOUND (Off:1 Def:5),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,678,1,50,4,10:51 PM,0:45,Nance Jr. 2' Running Dunk (22 PTS) (Alvarado 5 AST),,,106 - 115,9,4,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200191,680,2,79,4,10:52 PM,0:37,,,MISS Green 26' 3PT Pullup Jump Shot,,,5,1630224,Jalen Green,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,1
+0022200191,681,4,0,4,10:52 PM,0:37,McCollum REBOUND (Off:1 Def:6),,,,,4,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,682,1,9,4,10:52 PM,0:18,Ingram 3' Driving Dunk (20 PTS),,,106 - 117,11,4,1627742,Brandon Ingram,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,683,5,1,4,10:52 PM,0:15,Alvarado STEAL (3 STL),,Smith Jr. Bad Pass Turnover (P1.T26),,,5,1631095,Jabari Smith Jr.,1610612745.0,Houston,Rockets,HOU,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200191,685,6,1,4,10:52 PM,0:11,,,Porter Jr. P.FOUL (P4.PN) (M.Ervin),,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200191,688,6,16,4,10:54 PM,0:11,,"Double Technical - Porter Jr., Alvarado (M.Ervin)",,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200191,695,11,4,4,10:54 PM,0:11,Alvarado Ejection:Other,,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022200191,697,11,4,4,10:54 PM,0:11,,,Porter Jr. Ejection:Other,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,1
+0022200191,690,8,0,4,10:55 PM,0:11,SUB: Daniels FOR Alvarado,,,,,4,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200191,691,8,0,4,10:55 PM,0:11,,,SUB: Garuba FOR Porter Jr.,,,5,1629645,Kevin Porter Jr.,1610612745.0,Houston,Rockets,HOU,5,1630586,Usman Garuba,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0022200191,694,3,11,4,10:55 PM,0:11,Daniels Free Throw 1 of 2 (1 PTS),,,106 - 118,12,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,696,3,12,4,10:55 PM,0:11,Daniels Free Throw 2 of 2 (2 PTS),,,106 - 119,13,4,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200191,698,13,0,4,10:57 PM,0:00,,End of 4th Period (10:57 PM EST),,106 - 119,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

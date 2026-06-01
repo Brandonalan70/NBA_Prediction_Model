@@ -1,0 +1,517 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200412,2,12,0,1,9:11 PM,12:00,,Start of 1st Period (9:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200412,4,10,0,1,9:11 PM,12:00,Jump Ball Olynyk vs. Valanciunas: Tip to McCollum,,,,,4,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,1
+0022200412,7,6,2,1,9:11 PM,11:42,Clarkson S.FOUL (P1.T1) (E.Scott),,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200412,9,3,11,1,9:11 PM,11:42,,,Jones Free Throw 1 of 2 (1 PTS),1 - 0,-1,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,10,3,12,1,9:12 PM,11:42,,,Jones Free Throw 2 of 2 (2 PTS),2 - 0,-2,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,11,5,1,1,9:12 PM,11:29,Conley Bad Pass Turnover (P1.T1),,McCollum STEAL (1 STL),,,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200412,13,1,1,1,9:12 PM,11:21,,,McCollum 26' 3PT Jump Shot (3 PTS) (Williamson 1 AST),5 - 0,-5,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200412,15,2,1,1,9:12 PM,11:05,MISS Olynyk 26' 3PT Jump Shot,,,,,4,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,16,4,0,1,9:12 PM,11:02,Vanderbilt REBOUND (Off:1 Def:0),,,,,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,17,5,39,1,9:13 PM,11:00,Clarkson Step Out of Bounds Turnover (P1.T2),,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0022200412,18,2,1,1,9:13 PM,10:45,,,MISS Murphy III 27' 3PT Jump Shot,,,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,19,4,0,1,9:13 PM,10:41,,,Valanciunas REBOUND (Off:1 Def:0),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,20,1,72,1,9:13 PM,10:40,,,Valanciunas 3' Putback Layup (2 PTS),7 - 0,-7,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,21,1,1,1,9:13 PM,10:27,Markkanen 24' 3PT Jump Shot (3 PTS) (Conley 1 AST),,,7 - 3,-4,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200412,23,2,1,1,9:13 PM,10:15,,,MISS Williamson 26' 3PT Jump Shot,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,24,4,0,1,9:13 PM,10:13,Markkanen REBOUND (Off:0 Def:1),,,,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,25,1,41,1,9:14 PM,10:08,Markkanen 4' Running Layup (5 PTS),,,7 - 5,-2,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,26,6,2,1,9:14 PM,10:08,,,Jones S.FOUL (P1.T1) (P.Fraher),,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022200412,28,3,10,1,9:14 PM,10:08,Markkanen Free Throw 1 of 1 (6 PTS),,,7 - 6,-1,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0022200412,29,2,9,1,9:14 PM,9:50,,,MISS Murphy III 4' Driving Dunk,,,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,30,4,0,1,9:14 PM,9:49,JAZZ Rebound,,,,,2,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200412,32,2,1,1,9:15 PM,9:40,MISS Markkanen 25' 3PT Jump Shot,,,,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,33,4,0,1,9:15 PM,9:36,,,Valanciunas REBOUND (Off:1 Def:1),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,34,1,6,1,9:15 PM,9:31,,,McCollum 3' Driving Layup (5 PTS),9 - 6,-3,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,35,1,1,1,9:15 PM,9:24,Conley 25' 3PT Jump Shot (3 PTS) (Vanderbilt 1 AST),,,9 - 9,TIE,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200412,37,2,80,1,9:15 PM,9:13,,,MISS McCollum 16' Step Back Jump Shot,,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,38,4,0,1,9:15 PM,9:11,Vanderbilt REBOUND (Off:1 Def:1),,,,,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,39,2,1,1,9:15 PM,9:05,MISS Clarkson 27' 3PT Jump Shot,,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,40,4,0,1,9:15 PM,9:02,,,McCollum REBOUND (Off:0 Def:1),,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,41,1,47,1,9:16 PM,8:53,,,Williamson 4' Turnaround Jump Shot (2 PTS) (Murphy III 1 AST),11 - 9,-2,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200412,42,1,78,1,9:16 PM,8:36,Clarkson 7' Floating Jump Shot (2 PTS),,,11 - 11,TIE,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,44,1,6,1,9:16 PM,8:22,,,Williamson 2' Driving Layup (4 PTS) (Valanciunas 1 AST),13 - 11,-2,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200412,46,2,6,1,9:16 PM,8:13,MISS Markkanen 3' Driving Layup,,,,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,48,1,97,1,9:16 PM,8:09,Markkanen Tip Layup Shot (8 PTS),,,13 - 13,TIE,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,47,4,0,1,9:16 PM,8:09,Markkanen REBOUND (Off:1 Def:1),,,,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,49,1,44,1,9:16 PM,7:59,,,Valanciunas 3' Reverse Layup (4 PTS) (Williamson 2 AST),15 - 13,-2,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200412,51,5,1,1,9:17 PM,7:49,Conley Bad Pass Turnover (P2.T3),,Valanciunas STEAL (1 STL),,,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200412,53,1,108,1,9:17 PM,7:45,,,Williamson 1' Cutting Dunk Shot (6 PTS) (Murphy III 2 AST),17 - 13,-4,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200412,55,1,79,1,9:17 PM,7:26,Olynyk 15' Pullup Jump Shot (2 PTS) (Conley 2 AST),,,17 - 15,-2,4,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200412,57,2,1,1,9:17 PM,7:14,,,MISS Valanciunas 14' Jump Shot,,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,58,4,0,1,9:17 PM,7:12,Olynyk REBOUND (Off:0 Def:1),,,,,4,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,59,1,78,1,9:17 PM,7:04,Vanderbilt 7' Floating Jump Shot (2 PTS) (Clarkson 1 AST),,,17 - 17,TIE,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200412,61,6,2,1,9:18 PM,6:51,Vanderbilt S.FOUL (P1.T2) (E.Scott),,,,,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200412,63,9,1,1,9:18 PM,6:51,JAZZ Timeout: Regular (Full 1 Short 0),,,,,2,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200412,64,8,0,1,9:20 PM,6:51,SUB: Beasley FOR Markkanen,,,,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,4,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200412,65,8,0,1,9:20 PM,6:51,,,SUB: Daniels FOR Jones,,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200412,68,3,11,1,9:21 PM,6:51,,,Williamson Free Throw 1 of 2 (7 PTS),18 - 17,-1,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,69,3,12,1,9:21 PM,6:51,,,Williamson Free Throw 2 of 2 (8 PTS),19 - 17,-2,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,70,2,1,1,9:21 PM,6:40,MISS Olynyk 25' 3PT Jump Shot,,,,,4,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,71,4,0,1,9:21 PM,6:38,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200412,73,2,102,1,9:22 PM,6:22,,,MISS McCollum 12' Driving Floating Bank Jump Shot,,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,74,4,0,1,9:22 PM,6:19,Olynyk REBOUND (Off:0 Def:2),,,,,4,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,75,5,1,1,9:22 PM,6:19,Olynyk Bad Pass Turnover (P1.T4),,Williamson STEAL (1 STL),,,4,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200412,77,1,44,1,9:22 PM,6:19,,,Williamson 3' Reverse Layup (10 PTS),21 - 17,-4,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,78,6,2,1,9:22 PM,6:19,Vanderbilt S.FOUL (P2.T3) (E.Dalen),,,,,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200412,80,8,0,1,9:22 PM,6:19,SUB: Kessler FOR Vanderbilt,,,,,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200412,82,3,10,1,9:23 PM,6:19,,,MISS Williamson Free Throw 1 of 1,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,83,4,0,1,9:23 PM,6:17,Olynyk REBOUND (Off:0 Def:3),,,,,4,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,84,2,1,1,9:23 PM,6:07,MISS Clarkson 25' 3PT Jump Shot,,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,85,4,0,1,9:23 PM,6:05,,,Williamson REBOUND (Off:0 Def:1),,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,86,5,45,1,9:23 PM,5:55,,,McCollum Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022200412,87,8,0,1,9:23 PM,5:55,,,SUB: Marshall FOR Williamson,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200412,89,2,1,1,9:23 PM,5:46,MISS Beasley 25' 3PT Jump Shot,,,,,4,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,90,4,0,1,9:23 PM,5:42,,,Daniels REBOUND (Off:0 Def:1),,,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,91,2,79,1,9:24 PM,5:35,,,MISS McCollum 18' Pullup Jump Shot,,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,92,4,0,1,9:24 PM,5:33,,,Valanciunas REBOUND (Off:2 Def:1),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,93,5,40,1,9:24 PM,5:29,,,Murphy III Out of Bounds Lost Ball Turnover (P1.T2),,,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022200412,94,5,1,1,9:24 PM,5:08,Clarkson Bad Pass Turnover (P2.T5),,Valanciunas STEAL (2 STL),,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200412,96,6,4,1,9:24 PM,5:02,,,Valanciunas OFF.Foul (P1) (E.Dalen),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022200412,98,5,37,1,9:24 PM,5:02,,,Valanciunas Offensive Foul Turnover (P1.T3),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022200412,99,2,1,1,9:25 PM,4:52,MISS Conley 25' 3PT Jump Shot,,,,,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,100,4,0,1,9:25 PM,4:50,Kessler REBOUND (Off:1 Def:0),,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0022200412,109,2,97,1,9:25 PM,4:50,MISS Kessler 2' Tip Layup Shot,,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,110,4,0,1,9:25 PM,4:50,JAZZ Rebound,,,,,2,1610612762,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200412,101,6,3,1,9:25 PM,4:50,,,Valanciunas L.B.FOUL (P2.T2) (E.Scott),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022200412,103,8,0,1,9:25 PM,4:50,,,SUB: Nance Jr. FOR Valanciunas,,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200412,105,1,101,1,9:25 PM,4:42,Beasley 9' Driving Floating Jump Shot (2 PTS) (Conley 3 AST),,,21 - 19,-2,4,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200412,107,6,2,1,9:26 PM,4:28,Kessler S.FOUL (P1.T4) (E.Dalen),,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200412,111,3,11,1,9:26 PM,4:28,,,MISS McCollum Free Throw 1 of 2,,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,112,4,1,1,9:26 PM,4:28,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200412,113,3,12,1,9:26 PM,4:28,,,McCollum Free Throw 2 of 2 (6 PTS),22 - 19,-3,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,114,2,101,1,9:27 PM,4:14,MISS Clarkson 9' Driving Floating Jump Shot,,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,115,4,0,1,9:27 PM,4:14,JAZZ Rebound,,,,,2,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200412,117,6,1,1,9:27 PM,4:08,,,Murphy III P.FOUL (P1.T3) (E.Dalen),,,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022200412,119,2,101,1,9:28 PM,3:57,MISS Clarkson 8' Driving Floating Jump Shot,,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,120,4,0,1,9:28 PM,3:55,,,McCollum REBOUND (Off:0 Def:2),,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,121,2,1,1,9:28 PM,3:47,,,MISS Nance Jr. 25' 3PT Jump Shot,,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,122,4,0,1,9:28 PM,3:44,Kessler REBOUND (Off:1 Def:1),,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,123,1,1,1,9:28 PM,3:39,Beasley 28' 3PT Jump Shot (5 PTS),,,22 - 22,TIE,4,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,124,7,1,1,9:28 PM,3:37,JAZZ Violation: Delay of game Violation,,,,,2,1610612762,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200412,125,1,101,1,9:28 PM,3:25,,,Marshall 8' Driving Floating Jump Shot (2 PTS) (Nance Jr. 1 AST),24 - 22,-2,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200412,127,1,73,1,9:29 PM,3:07,Clarkson 2' Driving Reverse Layup (4 PTS) (Olynyk 1 AST),,,24 - 24,TIE,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,4,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200412,129,2,78,1,9:29 PM,2:57,,,MISS McCollum 12' Floating Jump Shot,,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,130,4,0,1,9:29 PM,2:52,,,McCollum REBOUND (Off:1 Def:2),,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,131,1,72,1,9:29 PM,2:52,,,McCollum Putback Layup (8 PTS),26 - 24,-2,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,132,5,1,1,9:29 PM,2:45,Conley Bad Pass Turnover (P3.T6),,McCollum STEAL (2 STL),,,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200412,134,2,41,1,9:29 PM,2:40,Clarkson BLOCK (1 BLK),,MISS Marshall 3' Running Layup,,,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,1
+0022200412,136,4,0,1,9:29 PM,2:36,,,Daniels REBOUND (Off:1 Def:1),,,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,137,1,72,1,9:29 PM,2:36,,,Daniels Putback Layup (2 PTS),28 - 24,-4,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,138,2,43,1,9:30 PM,2:18,MISS Kessler 4' Alley Oop Layup,,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,139,4,0,1,9:30 PM,2:16,,,Nance Jr. REBOUND (Off:0 Def:1),,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,140,6,4,1,9:30 PM,2:09,,,McCollum OFF.Foul (P1) (E.Scott),,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022200412,142,5,37,1,9:30 PM,2:09,,,McCollum Offensive Foul Turnover (P2.T4),,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022200412,143,9,1,1,9:30 PM,2:09,,,Pelicans Timeout: Regular (Reg.1 Short 0),,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200412,144,8,0,1,9:32 PM,2:09,SUB: Gay FOR Clarkson,,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,4,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200412,145,8,0,1,9:32 PM,2:09,SUB: Alexander-Walker FOR Conley,,,,,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,4,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200412,146,8,0,1,9:32 PM,2:09,SUB: Markkanen FOR Olynyk,,,,,4,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200412,150,8,0,1,9:32 PM,2:09,,,SUB: Graham FOR McCollum,,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,5,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200412,151,8,0,1,9:32 PM,2:09,,,SUB: Williamson FOR Murphy III,,,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200412,154,1,101,1,9:33 PM,1:51,Alexander-Walker 8' Driving Floating Jump Shot (2 PTS) (Beasley 1 AST),,,28 - 26,-2,4,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,4,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200412,156,1,7,1,9:33 PM,1:31,,,Nance Jr. 2' Dunk (2 PTS) (Marshall 1 AST),30 - 26,-4,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200412,158,2,78,1,9:34 PM,1:10,MISS Beasley 10' Floating Jump Shot,,,,,4,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,159,4,0,1,9:34 PM,1:08,,,Williamson REBOUND (Off:0 Def:2),,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,160,2,1,1,9:34 PM,0:55,,,MISS Marshall 24' 3PT Jump Shot,,,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,161,4,0,1,9:34 PM,0:53,Gay REBOUND (Off:0 Def:1),,,,,4,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,162,2,79,1,9:34 PM,0:45,MISS Gay 16' Pullup Jump Shot,,,,,4,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,163,4,0,1,9:34 PM,0:43,,,Daniels REBOUND (Off:1 Def:2),,,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,165,6,26,1,9:35 PM,0:35,,,Williamson Offensive Charge Foul (P1) (P.Fraher),,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022200412,167,5,37,1,9:35 PM,0:35,,,Williamson Offensive Foul Turnover (P1.T5),,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022200412,168,1,1,1,9:35 PM,0:25,Beasley 3PT Jump Shot (8 PTS) (Alexander-Walker 1 AST),,,30 - 29,-1,4,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,4,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200412,170,2,1,1,9:35 PM,0:02,,,MISS Nance Jr. 3PT Jump Shot,,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,171,4,0,1,9:35 PM,0:02,Gay REBOUND (Off:0 Def:2),,,,,4,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,172,13,0,1,9:36 PM,0:00,,End of 1st Period (9:36 PM EST),,30 - 29,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200412,175,12,0,2,9:38 PM,12:00,,Start of 2nd Period (9:38 PM EST),,30 - 29,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200412,176,1,44,2,9:38 PM,11:44,Kessler 2' Reverse Layup (2 PTS) (Alexander-Walker 2 AST),,,30 - 31,1,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,4,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200412,178,2,1,2,9:39 PM,11:29,,,MISS Graham 26' 3PT Jump Shot,,,5,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,179,4,0,2,9:39 PM,11:27,Alexander-Walker REBOUND (Off:0 Def:1),,,,,4,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,180,5,2,2,9:39 PM,11:22,Alexander-Walker Lost Ball Turnover (P1.T7),,Graham STEAL (1 STL),,,4,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,5,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200412,182,1,5,2,9:39 PM,11:18,,,Graham 2' Layup (2 PTS) (Williamson 3 AST),32 - 31,-1,5,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200412,184,5,45,2,9:39 PM,11:02,Gay Out of Bounds - Bad Pass Turnover Turnover (P1.T8),,,,,4,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0022200412,185,2,1,2,9:39 PM,10:51,Kessler BLOCK (1 BLK),,MISS Williamson 10' Jump Shot,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,1
+0022200412,186,4,0,2,9:40 PM,10:50,Kessler REBOUND (Off:1 Def:2),,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,187,6,1,2,9:40 PM,10:50,,,Williamson P.FOUL (P2.T1) (E.Scott),,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022200412,190,2,79,2,9:40 PM,10:40,MISS Beasley 17' Pullup Jump Shot,,,,,4,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,191,4,0,2,9:40 PM,10:38,,,Williamson REBOUND (Off:0 Def:3),,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,192,1,44,2,9:40 PM,10:26,,,Nance Jr. 3' Reverse Layup (4 PTS) (Graham 1 AST),34 - 31,-3,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,5,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200412,194,2,1,2,9:40 PM,10:11,MISS Markkanen 4' Jump Shot,,Marshall BLOCK (1 BLK),,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,1
+0022200412,196,4,0,2,9:40 PM,10:09,,,Marshall REBOUND (Off:0 Def:1),,,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,197,1,9,2,9:41 PM,10:01,,,Williamson 3' Driving Dunk (12 PTS),36 - 31,-5,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,198,9,1,2,9:41 PM,10:01,JAZZ Timeout: Regular (Full 2 Short 0),,,,,2,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200412,199,1,79,2,9:44 PM,9:48,Alexander-Walker 17' Pullup Jump Shot (4 PTS) (Markkanen 1 AST),,,36 - 33,-3,4,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200412,201,5,45,2,9:44 PM,9:36,,,Alvarado Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022200412,202,1,101,2,9:44 PM,9:25,Markkanen 7' Driving Floating Jump Shot (10 PTS) (Alexander-Walker 3 AST),,,36 - 35,-1,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,4,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200412,204,6,2,2,9:44 PM,9:25,,,Williamson S.FOUL (P3.T2) (E.Dalen),,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022200412,206,8,0,2,9:45 PM,9:25,,,SUB: Valanciunas FOR Williamson,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200412,208,3,10,2,9:45 PM,9:25,MISS Markkanen Free Throw 1 of 1,,,,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,209,4,0,2,9:45 PM,9:22,,,Marshall REBOUND (Off:0 Def:2),,,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,210,2,1,2,9:45 PM,9:10,,,MISS Valanciunas 8' Jump Shot,,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,211,4,0,2,9:45 PM,9:07,,,Nance Jr. REBOUND (Off:1 Def:1),,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,212,2,79,2,9:45 PM,8:56,,,MISS Marshall 19' Pullup Jump Shot,,,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,213,4,0,2,9:45 PM,8:54,Kessler REBOUND (Off:1 Def:3),,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,214,2,1,2,9:46 PM,8:48,MISS Markkanen 24' 3PT Jump Shot,,,,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,215,4,0,2,9:46 PM,8:46,,,Alvarado REBOUND (Off:0 Def:1),,,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,216,2,1,2,9:46 PM,8:37,,,MISS Valanciunas 26' 3PT Jump Shot,,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,217,4,0,2,9:46 PM,8:35,Markkanen REBOUND (Off:1 Def:2),,,,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,317,5,2,2,9:46 PM,8:25,Alexander-Walker Lost Ball Turnover (P2.T9),,Alvarado STEAL (1 STL),,,4,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200412,221,6,2,2,9:46 PM,8:21,Markkanen S.FOUL (P1.T1) (E.Dalen),,,,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200412,223,3,11,2,9:47 PM,8:21,,,Marshall Free Throw 1 of 2 (3 PTS),37 - 35,-2,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,230,3,12,2,9:47 PM,8:21,,,Marshall Free Throw 2 of 2 (4 PTS),38 - 35,-3,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,224,8,0,2,9:47 PM,8:21,SUB: Vanderbilt FOR Kessler,,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200412,225,8,0,2,9:47 PM,8:21,,,SUB: Murphy III FOR Graham,,,5,1628984,Devonte' Graham,1610612740.0,New Orleans,Pelicans,NOP,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200412,226,8,0,2,9:47 PM,8:21,,,SUB: McCollum FOR Nance Jr.,,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200412,231,2,1,2,9:47 PM,8:10,MISS Alexander-Walker 24' 3PT Jump Shot,,,,,4,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,232,4,0,2,9:47 PM,8:07,Vanderbilt REBOUND (Off:2 Def:1),,,,,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,233,2,102,2,9:47 PM,7:59,MISS Gay 10' Driving Floating Bank Jump Shot,,,,,4,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,234,4,0,2,9:48 PM,7:55,,,McCollum REBOUND (Off:1 Def:3),,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,236,6,11,2,9:48 PM,7:54,Alexander-Walker T.FOUL (P0.T1) (P.Fraher),,,,,4,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0022200412,237,3,16,2,9:48 PM,7:54,,,MISS Murphy III Free Throw Technical,,,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0022200412,238,4,1,2,9:48 PM,7:54,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200412,239,5,13,2,9:48 PM,7:53,,,Alvarado Backcourt Turnover (P2.T7),,,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022200412,240,1,79,2,9:49 PM,7:44,Beasley 25' 3PT Pullup Jump Shot (11 PTS) (Alexander-Walker 4 AST),,,38 - 38,TIE,4,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,4,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200412,242,9,1,2,9:49 PM,7:41,,,Pelicans Timeout: Regular (Reg.2 Short 0),,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200412,243,2,47,2,9:52 PM,7:28,,,MISS Valanciunas 7' Turnaround Jump Shot,,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,244,4,0,2,9:52 PM,7:24,Vanderbilt REBOUND (Off:2 Def:2),,,,,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,245,1,78,2,9:52 PM,7:03,Markkanen 12' Floating Jump Shot (12 PTS) (Vanderbilt 2 AST),,,38 - 40,2,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200412,247,5,4,2,9:53 PM,6:39,,,Valanciunas Traveling Turnover (P2.T8),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022200412,248,8,0,2,9:53 PM,6:39,SUB: Clarkson FOR Markkanen,,,,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200412,249,8,0,2,9:53 PM,6:39,,,SUB: Jones FOR Marshall,,,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200412,252,1,79,2,9:54 PM,6:25,Alexander-Walker 19' Pullup Jump Shot (6 PTS) (Vanderbilt 3 AST),,,38 - 42,4,4,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200412,254,2,1,2,9:54 PM,6:07,,,MISS Murphy III 4' Jump Shot,,,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,255,4,0,2,9:54 PM,6:03,,,Valanciunas REBOUND (Off:3 Def:1),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,256,1,72,2,9:54 PM,6:03,,,Valanciunas Putback Layup (6 PTS),40 - 42,2,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,257,5,1,2,9:54 PM,5:52,Alexander-Walker Bad Pass Turnover (P3.T10),,Alvarado STEAL (2 STL),,,4,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200412,259,1,98,2,9:54 PM,5:47,,,Jones 3' Cutting Layup Shot (4 PTS) (Alvarado 1 AST),42 - 42,TIE,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200412,261,2,1,2,9:54 PM,5:31,MISS Beasley 25' 3PT Jump Shot,,,,,4,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,262,4,0,2,9:54 PM,5:29,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200412,264,8,0,2,9:55 PM,5:29,SUB: Olynyk FOR Alexander-Walker,,,,,4,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,4,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200412,265,8,0,2,9:55 PM,5:29,SUB: Conley FOR Gay,,,,,4,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200412,268,1,79,2,9:55 PM,5:19,,,McCollum 18' Pullup Jump Shot (10 PTS) (Jones 1 AST),44 - 42,-2,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200412,271,6,4,2,9:55 PM,5:03,Olynyk OFF.Foul (P1) (E.Scott),,,,,4,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200412,273,5,37,2,9:55 PM,5:03,Olynyk Offensive Foul Turnover (P2.T11),,,,,4,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0022200412,274,2,1,2,9:56 PM,4:49,,,MISS Jones 24' 3PT Jump Shot,,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,275,4,0,2,9:56 PM,4:45,Olynyk REBOUND (Off:0 Def:4),,,,,4,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,276,2,6,2,9:56 PM,4:40,MISS Beasley 5' Driving Layup,,,,,4,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,375,2,97,2,9:56 PM,4:36,MISS Vanderbilt 1' Tip Layup Shot,,,,,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0022200412,376,4,0,2,9:56 PM,4:36,Vanderbilt REBOUND (Off:3 Def:2),,,,,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0022200412,277,4,0,2,9:56 PM,4:36,Vanderbilt REBOUND (Off:4 Def:2),,,,,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,278,5,2,2,9:56 PM,4:34,Vanderbilt Lost Ball Turnover (P1.T12),,Alvarado STEAL (3 STL),,,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200412,280,6,1,2,9:56 PM,4:30,Olynyk P.FOUL (P2.T2) (E.Dalen),,,,,4,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200412,282,8,0,2,9:56 PM,4:30,SUB: Markkanen FOR Beasley,,,,,4,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200412,283,8,0,2,9:56 PM,4:30,,,SUB: Nance Jr. FOR Valanciunas,,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200412,286,2,1,2,9:57 PM,4:25,,,MISS Murphy III 26' 3PT Jump Shot,,,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,287,4,0,2,9:57 PM,4:22,Vanderbilt REBOUND (Off:4 Def:3),,,,,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,288,6,1,2,9:57 PM,4:13,,,Nance Jr. P.FOUL (P1.T3) (P.Fraher),,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022200412,290,5,11,2,9:58 PM,3:58,JAZZ Turnover: Shot Clock (T#13),,,,,2,1610612762,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200412,291,6,4,2,9:58 PM,3:44,,,Nance Jr. OFF.Foul (P2) (E.Scott),,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022200412,293,5,37,2,9:58 PM,3:44,,,Nance Jr. Offensive Foul Turnover (P1.T9),,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022200412,294,6,11,2,9:58 PM,3:44,,,Nance Jr. T.FOUL (P2.T3) (E.Scott),,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+0022200412,295,3,16,2,9:59 PM,3:44,Clarkson Free Throw Technical (5 PTS),,,44 - 43,-1,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,296,2,1,2,9:59 PM,3:32,MISS Conley 26' 3PT Jump Shot,,,,,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,297,4,0,2,9:59 PM,3:27,Vanderbilt REBOUND (Off:5 Def:3),,,,,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,298,1,72,2,9:59 PM,3:27,Vanderbilt Putback Layup (4 PTS),,,44 - 45,1,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,299,6,2,2,9:59 PM,3:20,Conley S.FOUL (P1.T3) (P.Fraher),,,,,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200412,301,3,11,2,10:00 PM,3:20,,,MISS Alvarado Free Throw 1 of 2,,,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,302,4,1,2,10:00 PM,3:20,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200412,303,3,12,2,10:00 PM,3:20,,,Alvarado Free Throw 2 of 2 (1 PTS),45 - 45,TIE,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,304,5,4,2,10:00 PM,3:04,Clarkson Traveling Turnover (P3.T14),,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0022200412,305,2,1,2,10:01 PM,2:50,,,MISS Alvarado 28' 3PT Jump Shot,,,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,306,4,0,2,10:01 PM,2:46,Markkanen REBOUND (Off:1 Def:3),,,,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,307,1,108,2,10:01 PM,2:35,Markkanen 3' Cutting Dunk Shot (14 PTS) (Clarkson 2 AST),,,45 - 47,2,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200412,309,2,79,2,10:01 PM,2:21,,,MISS McCollum 21' Pullup Jump Shot,,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,310,4,0,2,10:01 PM,2:17,Markkanen REBOUND (Off:1 Def:4),,,,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,311,6,4,2,10:02 PM,2:10,Olynyk OFF.Foul (P3) (E.Dalen),,,,,4,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200412,313,5,37,2,10:02 PM,2:10,Olynyk Offensive Foul Turnover (P3.T15),,,,,4,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0022200412,314,8,0,2,10:02 PM,2:10,SUB: Beasley FOR Olynyk,,,,,4,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,4,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200412,316,18,0,2,10:02 PM,2:10,,Instant Replay2nd Period (10:02 PM EST),,45 - 47,2,0,311,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200412,319,2,5,2,10:04 PM,1:58,,,MISS Alvarado 7' Layup,,,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,320,4,0,2,10:04 PM,1:57,Markkanen REBOUND (Off:1 Def:5),,,,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,321,6,31,2,10:04 PM,1:57,,,Alvarado Transition Take Foul (P1.T4) (E.Dalen),,,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022200412,323,3,10,2,10:04 PM,1:57,Clarkson Free Throw 1 of 1 (6 PTS),,,45 - 48,3,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,324,8,0,2,10:04 PM,1:57,,,SUB: Daniels FOR Alvarado,,,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200412,326,6,2,2,10:05 PM,1:37,,,Daniels S.FOUL (P1.PN) (E.Dalen),,,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022200412,328,3,11,2,10:05 PM,1:37,MISS Vanderbilt Free Throw 1 of 2,,,,,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,329,4,1,2,10:05 PM,1:37,JAZZ Rebound,,,,,2,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200412,330,3,12,2,10:06 PM,1:37,Vanderbilt Free Throw 2 of 2 (5 PTS),,,45 - 49,4,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,331,2,79,2,10:06 PM,1:27,,,MISS McCollum 17' Pullup Jump Shot,,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,332,4,0,2,10:06 PM,1:25,Vanderbilt REBOUND (Off:5 Def:4),,,,,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,333,1,1,2,10:06 PM,1:19,Markkanen 25' 3PT Jump Shot (17 PTS) (Vanderbilt 4 AST),,,45 - 52,7,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200412,335,6,1,2,10:06 PM,1:11,Beasley P.FOUL (P1.T4) (E.Scott),,,,,4,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200412,337,2,78,2,10:07 PM,0:59,,,MISS Jones 11' Floating Jump Shot,,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,338,4,0,2,10:07 PM,0:53,Beasley REBOUND (Off:0 Def:1),,,,,4,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,339,2,1,2,10:07 PM,0:49,MISS Clarkson 25' 3PT Jump Shot,,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,340,4,0,2,10:07 PM,0:46,,,Nance Jr. REBOUND (Off:1 Def:2),,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,341,2,75,2,10:07 PM,0:36,,,MISS Daniels 5' Driving Finger Roll Layup,,,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,342,4,0,2,10:07 PM,0:34,Markkanen REBOUND (Off:1 Def:6),,,,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,343,5,2,2,10:07 PM,0:32,Markkanen Lost Ball Turnover (P1.T16),,Murphy III STEAL (1 STL),,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200412,345,2,1,2,10:07 PM,0:28,,,MISS McCollum 26' 3PT Jump Shot,,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,346,4,0,2,10:07 PM,0:25,Clarkson REBOUND (Off:0 Def:1),,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,347,2,79,2,10:08 PM,0:03,MISS Clarkson 26' 3PT Pullup Jump Shot,,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,348,4,0,2,10:08 PM,0:01,JAZZ Rebound,,,,,2,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200412,350,8,0,2,10:08 PM,0:01,,,SUB: Marshall FOR Nance Jr.,,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200412,352,2,1,2,10:08 PM,0:00,MISS Clarkson 3PT Jump Shot,,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,353,4,0,2,10:08 PM,0:00,JAZZ Rebound,,,,,2,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200412,354,13,0,2,10:08 PM,0:00,,End of 2nd Period (10:08 PM EST),,45 - 52,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200412,361,12,0,3,10:24 PM,12:00,,Start of 3rd Period (10:24 PM EST),,45 - 52,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200412,362,2,79,3,10:24 PM,11:39,MISS Clarkson 10' Pullup Jump Shot,,Murphy III BLOCK (1 BLK),,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,1
+0022200412,364,4,0,3,10:24 PM,11:38,JAZZ Rebound,,,,,2,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200412,366,5,11,3,10:24 PM,11:35,JAZZ Turnover: Shot Clock (T#17),,,,,2,1610612762,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200412,367,2,1,3,10:25 PM,11:23,,,MISS Murphy III 26' 3PT Jump Shot,,,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,368,4,0,3,10:25 PM,11:19,,,Williamson REBOUND (Off:1 Def:3),,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,369,5,2,3,10:25 PM,11:18,Vanderbilt STEAL (1 STL),,Williamson Lost Ball Turnover (P2.T10),,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200412,371,2,79,3,10:25 PM,11:13,MISS Clarkson 26' 3PT Pullup Jump Shot,,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,372,4,0,3,10:25 PM,11:10,Vanderbilt REBOUND (Off:6 Def:4),,,,,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,373,1,87,3,10:25 PM,11:10,Vanderbilt Putback Dunk (7 PTS),,,45 - 54,9,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,374,9,1,3,10:25 PM,11:10,,,Pelicans Timeout: Regular (Reg.3 Short 0),,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200412,377,1,5,3,10:28 PM,10:59,,,McCollum 4' Layup (12 PTS),47 - 54,7,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,378,6,2,3,10:28 PM,10:59,Conley S.FOUL (P2.T1) (E.Scott),,,,,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200412,380,3,10,3,10:29 PM,10:59,,,MISS McCollum Free Throw 1 of 1,,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,381,4,0,3,10:29 PM,10:58,Vanderbilt REBOUND (Off:6 Def:5),,,,,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,382,1,98,3,10:29 PM,10:44,Vanderbilt 3' Cutting Layup Shot (9 PTS) (Olynyk 2 AST),,,47 - 56,9,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,4,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200412,384,2,5,3,10:29 PM,10:34,,,MISS McCollum 2' Layup,,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,385,4,0,3,10:29 PM,10:31,,,Valanciunas REBOUND (Off:4 Def:1),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,386,2,97,3,10:29 PM,10:31,,,MISS Valanciunas Tip Layup Shot,,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,387,4,0,3,10:29 PM,10:31,,,Williamson REBOUND (Off:2 Def:3),,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,388,1,72,3,10:29 PM,10:28,,,Williamson Putback Layup (14 PTS),49 - 56,7,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,389,2,1,3,10:29 PM,10:21,MISS Conley 25' 3PT Jump Shot,,,,,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,390,4,0,3,10:29 PM,10:17,Vanderbilt REBOUND (Off:7 Def:5),,,,,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,391,2,1,3,10:29 PM,10:12,MISS Markkanen 26' 3PT Jump Shot,,,,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,392,4,0,3,10:29 PM,10:10,Olynyk REBOUND (Off:1 Def:4),,,,,4,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,393,1,44,3,10:29 PM,10:08,Olynyk 3' Reverse Layup (4 PTS),,,49 - 58,9,4,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,394,2,1,3,10:30 PM,9:53,,,MISS Murphy III 19' Jump Shot,,,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,395,4,0,3,10:30 PM,9:50,,,Valanciunas REBOUND (Off:5 Def:1),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,396,2,5,3,10:30 PM,9:49,Vanderbilt BLOCK (1 BLK),,MISS Valanciunas 1' Layup,,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,1
+0022200412,398,4,0,3,10:30 PM,9:47,Vanderbilt REBOUND (Off:7 Def:6),,,,,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0022200412,399,1,5,3,10:30 PM,9:45,Olynyk 2' Layup (6 PTS) (Vanderbilt 5 AST),,,49 - 60,11,4,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200412,405,6,2,3,10:30 PM,9:27,Vanderbilt S.FOUL (P3.T2) (E.Scott),,,,,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200412,407,3,11,3,10:31 PM,9:27,,,MISS Valanciunas Free Throw 1 of 2,,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,408,4,1,3,10:31 PM,9:27,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200412,409,3,12,3,10:31 PM,9:27,,,Valanciunas Free Throw 2 of 2 (7 PTS),50 - 60,10,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,410,1,44,3,10:31 PM,9:13,Vanderbilt 3' Reverse Layup (11 PTS) (Olynyk 3 AST),,,50 - 62,12,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,4,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200412,412,6,2,3,10:31 PM,9:13,,,Valanciunas S.FOUL (P3.T1) (P.Fraher),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022200412,414,3,10,3,10:32 PM,9:13,Vanderbilt Free Throw 1 of 1 (12 PTS),,,50 - 63,13,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,415,6,2,3,10:32 PM,9:04,Olynyk S.FOUL (P4.T3) (P.Fraher),,,,,4,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200412,417,3,11,3,10:32 PM,9:04,,,Williamson Free Throw 1 of 2 (15 PTS),51 - 63,12,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,420,3,12,3,10:32 PM,9:04,,,MISS Williamson Free Throw 2 of 2,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,418,8,0,3,10:32 PM,9:04,SUB: Beasley FOR Olynyk,,,,,4,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,4,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200412,421,4,0,3,10:32 PM,9:02,Markkanen REBOUND (Off:1 Def:7),,,,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,424,2,1,3,10:34 PM,8:44,MISS Beasley 25' 3PT Jump Shot,,,,,4,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,425,4,0,3,10:34 PM,8:42,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200412,427,2,1,3,10:34 PM,8:31,,,MISS Valanciunas 25' 3PT Jump Shot,,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,428,4,0,3,10:34 PM,8:29,,,Williamson REBOUND (Off:3 Def:3),,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,429,1,47,3,10:34 PM,8:28,,,Williamson 6' Turnaround Jump Shot (17 PTS),53 - 63,10,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,430,6,2,3,10:34 PM,8:28,Vanderbilt S.FOUL (P4.T4) (P.Fraher),,,,,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200412,432,3,10,3,10:35 PM,8:28,,,Williamson Free Throw 1 of 1 (18 PTS),54 - 63,9,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,433,2,1,3,10:35 PM,8:14,MISS Beasley 3PT Jump Shot,,,,,4,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,434,4,0,3,10:35 PM,8:09,,,McCollum REBOUND (Off:1 Def:4),,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,435,1,7,3,10:35 PM,8:03,,,Valanciunas 1' Dunk (9 PTS) (Jones 2 AST),56 - 63,7,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200412,437,1,1,3,10:35 PM,7:46,Beasley 26' 3PT Jump Shot (14 PTS) (Vanderbilt 6 AST),,,56 - 66,10,4,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200412,439,2,47,3,10:36 PM,7:31,,,MISS Williamson 6' Turnaround Jump Shot,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,440,4,0,3,10:36 PM,7:31,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200412,441,6,3,3,10:36 PM,7:31,Vanderbilt L.B.FOUL (P5.PN) (E.Scott),,,,,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200412,443,3,11,3,10:36 PM,7:31,,,Valanciunas Free Throw 1 of 2 (10 PTS),57 - 66,9,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,444,8,0,3,10:36 PM,7:31,SUB: Kessler FOR Vanderbilt,,,,,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200412,446,3,12,3,10:37 PM,7:31,,,Valanciunas Free Throw 2 of 2 (11 PTS),58 - 66,8,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,447,6,2,3,10:37 PM,7:20,,,Valanciunas S.FOUL (P4.T2) (P.Fraher),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022200412,449,3,11,3,10:37 PM,7:20,Kessler Free Throw 1 of 2 (3 PTS),,,58 - 67,9,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,452,3,12,3,10:37 PM,7:20,MISS Kessler Free Throw 2 of 2,,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,450,8,0,3,10:37 PM,7:20,,,SUB: Nance Jr. FOR Valanciunas,,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200412,453,4,0,3,10:37 PM,7:18,,,Williamson REBOUND (Off:3 Def:4),,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,454,6,2,3,10:38 PM,7:08,Markkanen S.FOUL (P2.PN) (P.Fraher),,,,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200412,456,3,11,3,10:38 PM,7:08,,,Williamson Free Throw 1 of 2 (19 PTS),59 - 67,8,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,457,3,12,3,10:38 PM,7:08,,,MISS Williamson Free Throw 2 of 2,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,458,4,0,3,10:38 PM,7:06,Markkanen REBOUND (Off:1 Def:8),,,,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,459,1,101,3,10:39 PM,6:56,Markkanen 7' Driving Floating Jump Shot (19 PTS),,,59 - 69,10,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,460,2,79,3,10:39 PM,6:34,,,MISS McCollum 15' Pullup Jump Shot,,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,461,4,0,3,10:39 PM,6:32,Kessler REBOUND (Off:1 Def:4),,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,462,2,1,3,10:39 PM,6:24,MISS Markkanen 27' 3PT Jump Shot,,,,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,463,4,0,3,10:39 PM,6:20,,,Nance Jr. REBOUND (Off:1 Def:3),,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,464,5,39,3,10:40 PM,6:15,,,Williamson Step Out of Bounds Turnover (P3.T11),,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022200412,465,2,58,3,10:40 PM,5:57,MISS Kessler 4' Turnaround Hook Shot,,Nance Jr. BLOCK (1 BLK),,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,1
+0022200412,467,4,0,3,10:40 PM,5:53,Kessler REBOUND (Off:2 Def:4),,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,468,1,51,3,10:40 PM,5:53,Kessler Reverse Dunk (5 PTS),,,59 - 71,12,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,469,2,1,3,10:40 PM,5:39,,,MISS Murphy III 26' 3PT Jump Shot,,,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,470,4,0,3,10:40 PM,5:37,Kessler REBOUND (Off:2 Def:5),,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,471,1,1,3,10:41 PM,5:30,Beasley 26' 3PT Jump Shot (17 PTS) (Conley 4 AST),,,59 - 74,15,4,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200412,473,9,1,3,10:41 PM,5:21,,,Pelicans Timeout: Regular (Reg.4 Short 0),,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200412,474,8,0,3,10:43 PM,5:21,,,SUB: Marshall FOR Jones,,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200412,475,8,0,3,10:43 PM,5:21,,,SUB: Daniels FOR Murphy III,,,5,1630530,Trey Murphy III,1610612740.0,New Orleans,Pelicans,NOP,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200412,478,2,5,3,10:44 PM,5:14,,,MISS Williamson 2' Layup,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,479,4,0,3,10:44 PM,5:12,,,Nance Jr. REBOUND (Off:2 Def:3),,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,480,1,1,3,10:44 PM,5:10,,,Daniels 25' 3PT Jump Shot (5 PTS) (Nance Jr. 2 AST),62 - 74,12,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200412,482,2,78,3,10:44 PM,4:54,MISS Markkanen 4' Floating Jump Shot,,,,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,483,4,0,3,10:44 PM,4:53,,,Nance Jr. REBOUND (Off:2 Def:4),,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,484,5,2,3,10:44 PM,4:49,Conley STEAL (1 STL),,Williamson Lost Ball Turnover (P4.T12),,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200412,486,1,6,3,10:44 PM,4:42,Beasley 3' Driving Layup (19 PTS) (Conley 5 AST),,,62 - 76,14,4,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200412,489,2,1,3,10:45 PM,4:31,,,MISS Nance Jr. 25' 3PT Jump Shot,,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,490,4,0,3,10:45 PM,4:30,Markkanen REBOUND (Off:1 Def:9),,,,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,491,5,2,3,10:45 PM,4:20,Markkanen Lost Ball Turnover (P2.T18),,Williamson STEAL (2 STL),,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200412,493,6,9,3,10:45 PM,4:20,Markkanen C.P.FOUL (P3.PN) (P.Fraher),,,,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200412,495,18,1,3,10:46 PM,4:20,,Instant Replay3rd Period (10:46 PM EST),,62 - 76,14,0,493,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200412,496,8,0,3,10:47 PM,4:20,SUB: Alexander-Walker FOR Conley,,,,,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,4,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200412,498,3,25,3,10:48 PM,4:20,,,MISS Williamson Free Throw Clear Path 1 of 2,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,499,4,1,3,10:48 PM,4:20,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200412,500,3,26,3,10:48 PM,4:20,,,Williamson Free Throw Clear Path 2 of 2 (20 PTS),63 - 76,13,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,501,2,1,3,10:48 PM,4:11,,,MISS Daniels 27' 3PT Jump Shot,,,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,502,4,0,3,10:48 PM,4:07,,,Nance Jr. REBOUND (Off:3 Def:4),,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,503,2,5,3,10:48 PM,4:06,,,MISS Nance Jr. 3' Layup,,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,504,4,0,3,10:48 PM,4:06,Kessler REBOUND (Off:2 Def:6),,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,505,1,1,3,10:48 PM,3:49,Alexander-Walker 25' 3PT Jump Shot (9 PTS) (Clarkson 3 AST),,,63 - 79,16,4,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200412,507,5,1,3,10:49 PM,3:36,Markkanen STEAL (1 STL),,McCollum Bad Pass Turnover (P3.T13),,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200412,509,2,1,3,10:49 PM,3:31,MISS Markkanen 28' 3PT Jump Shot,,,,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,510,4,0,3,10:49 PM,3:26,Kessler REBOUND (Off:3 Def:6),,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,511,2,97,3,10:49 PM,3:26,MISS Kessler Tip Layup Shot,,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,512,4,0,3,10:49 PM,3:22,Kessler REBOUND (Off:4 Def:6),,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,513,1,44,3,10:49 PM,3:22,Kessler 3' Reverse Layup (7 PTS),,,63 - 81,18,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,514,2,5,3,10:49 PM,3:17,Alexander-Walker BLOCK (1 BLK),,MISS McCollum 3' Layup,,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,4,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,1
+0022200412,516,4,0,3,10:49 PM,3:17,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200412,518,8,0,3,10:49 PM,3:17,,,SUB: Alvarado FOR McCollum,,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200412,520,1,5,3,10:50 PM,3:03,,,Williamson 4' Layup (22 PTS) (Nance Jr. 3 AST),65 - 81,16,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200412,522,2,1,3,10:50 PM,2:47,MISS Beasley 25' 3PT Jump Shot,,,,,4,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,523,4,0,3,10:50 PM,2:44,,,Marshall REBOUND (Off:0 Def:3),,,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,524,1,6,3,10:50 PM,2:24,,,Williamson 2' Driving Layup (24 PTS),67 - 81,14,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,526,8,0,3,10:51 PM,2:15,SUB: Gay FOR Markkanen,,,,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,4,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200412,528,1,78,3,10:51 PM,2:07,Clarkson 5' Floating Jump Shot (8 PTS) (Alexander-Walker 5 AST),,,67 - 83,16,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,4,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200412,530,1,79,3,10:51 PM,1:53,,,Williamson 15' Pullup Jump Shot (26 PTS),69 - 83,14,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,531,5,4,3,10:51 PM,1:38,Clarkson Traveling Turnover (P4.T19),,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0022200412,532,6,2,3,10:52 PM,1:27,Clarkson S.FOUL (P2.PN) (P.Fraher),,,,,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200412,534,3,11,3,10:52 PM,1:27,,,Daniels Free Throw 1 of 2 (6 PTS),70 - 83,13,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0022200412,535,3,12,3,10:52 PM,1:27,,,Daniels Free Throw 2 of 2 (7 PTS),71 - 83,12,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0022200412,536,2,1,3,10:53 PM,1:15,MISS Beasley 23' Jump Shot,,,,,4,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,537,4,0,3,10:53 PM,1:12,,,Williamson REBOUND (Off:3 Def:5),,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,538,2,6,3,10:53 PM,1:04,Kessler BLOCK (2 BLK),,MISS Williamson 3' Driving Layup,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,1
+0022200412,540,4,0,3,10:53 PM,1:04,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200412,542,2,1,3,10:53 PM,0:58,,,MISS Alvarado 26' 3PT Jump Shot,,,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,543,4,0,3,10:53 PM,0:56,Kessler REBOUND (Off:4 Def:7),,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,544,1,1,3,10:53 PM,0:47,Beasley 4' Jump Shot (21 PTS),,,71 - 85,14,4,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,545,7,2,3,10:53 PM,0:47,,,Williamson Violation:Defensive Goaltending (E.Scott),,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022200412,546,2,6,3,10:54 PM,0:34,Kessler BLOCK (3 BLK),,MISS Alvarado 7' Driving Layup,,,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,1
+0022200412,548,4,0,3,10:54 PM,0:31,Kessler REBOUND (Off:4 Def:8),,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,549,1,1,3,10:54 PM,0:28,Alexander-Walker 3PT Jump Shot (12 PTS) (Beasley 2 AST),,,71 - 88,17,4,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,4,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200412,551,2,1,3,10:54 PM,0:13,,,MISS Williamson 25' 3PT Jump Shot,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,552,4,0,3,10:54 PM,0:10,Kessler REBOUND (Off:4 Def:9),,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,553,1,1,3,10:54 PM,0:00,Clarkson 26' 3PT Jump Shot (11 PTS),,,71 - 91,20,4,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,555,18,0,3,10:55 PM,0:00,,Instant Replay3rd Period (10:55 PM EST),,71 - 91,20,0,553,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200412,554,13,0,3,10:55 PM,0:00,,End of 3rd Period (10:55 PM EST),,71 - 91,20,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200412,560,12,0,4,10:57 PM,12:00,,Start of 4th Period (10:57 PM EST),,71 - 91,20,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200412,561,1,58,4,10:57 PM,11:43,,,Valanciunas 3' Turnaround Hook Shot (13 PTS) (Alvarado 2 AST),73 - 91,18,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200412,563,2,1,4,10:58 PM,11:26,MISS Conley 24' 3PT Jump Shot,,,,,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,564,4,0,4,10:58 PM,11:23,,,Daniels REBOUND (Off:1 Def:3),,,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,566,1,1,4,10:58 PM,11:16,,,Valanciunas 18' Jump Shot (15 PTS) (Alvarado 3 AST),75 - 91,16,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200412,568,2,1,4,10:58 PM,10:57,MISS Gay 25' 3PT Jump Shot,,,,,4,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,569,4,0,4,10:58 PM,10:56,,,Alvarado REBOUND (Off:0 Def:2),,,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,570,2,1,4,10:58 PM,10:50,Alexander-Walker BLOCK (2 BLK),,MISS Nance Jr. 3' Jump Shot,,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,4,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,1
+0022200412,572,4,0,4,10:58 PM,10:48,Beasley REBOUND (Off:0 Def:2),,,,,4,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,573,2,1,4,10:59 PM,10:44,MISS Conley 25' 3PT Jump Shot,,,,,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,574,4,0,4,10:59 PM,10:40,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200412,577,6,2,4,10:59 PM,10:28,Conley S.FOUL (P3.T1) (P.Fraher),,,,,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200412,579,3,11,4,11:00 PM,10:28,,,MISS Alvarado Free Throw 1 of 2,,,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,580,4,1,4,11:00 PM,10:28,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200412,581,3,12,4,11:00 PM,10:28,,,Alvarado Free Throw 2 of 2 (2 PTS),76 - 91,15,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,582,1,1,4,11:00 PM,10:16,Alexander-Walker 26' 3PT Jump Shot (15 PTS),,,76 - 94,18,4,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,584,5,45,4,11:01 PM,9:56,,,Alvarado Out of Bounds - Bad Pass Turnover Turnover (P3.T14),,,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022200412,585,2,1,4,11:01 PM,9:43,MISS Beasley 25' 3PT Jump Shot,,,,,4,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,586,4,0,4,11:01 PM,9:39,,,Daniels REBOUND (Off:1 Def:4),,,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,587,6,4,4,11:02 PM,9:30,,,Valanciunas OFF.Foul (P5) (P.Fraher),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022200412,589,5,37,4,11:02 PM,9:30,,,Valanciunas Offensive Foul Turnover (P3.T15),,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022200412,590,8,0,4,11:02 PM,9:30,,,SUB: McCollum FOR Valanciunas,,,5,202685,Jonas Valančiūnas,1610612740.0,New Orleans,Pelicans,NOP,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200412,592,1,7,4,11:02 PM,9:15,Kessler 3' Dunk (9 PTS) (Beasley 3 AST),,,76 - 96,20,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,4,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200412,595,8,0,4,11:03 PM,9:00,SUB: Markkanen FOR Beasley,,,,,4,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200412,596,8,0,4,11:03 PM,9:00,,,SUB: Williamson FOR Nance Jr.,,,5,1626204,Larry Nance Jr.,1610612740.0,New Orleans,Pelicans,NOP,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200412,599,2,1,4,11:03 PM,8:55,,,MISS Alvarado 27' 3PT Jump Shot,,,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,600,4,0,4,11:03 PM,8:52,Kessler REBOUND (Off:4 Def:10),,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,602,2,79,4,11:04 PM,8:42,MISS Alexander-Walker 20' Pullup Jump Shot,,,,,4,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,603,4,0,4,11:04 PM,8:40,Markkanen REBOUND (Off:2 Def:9),,,,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,604,1,7,4,11:04 PM,8:31,Gay 3' Dunk (2 PTS) (Alexander-Walker 6 AST),,,76 - 98,22,4,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,4,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200412,607,1,101,4,11:04 PM,8:18,,,Alvarado 7' Driving Floating Jump Shot (4 PTS) (Williamson 4 AST),78 - 98,20,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200412,608,6,2,4,11:04 PM,8:18,Kessler S.FOUL (P2.T2) (E.Dalen),,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200412,610,8,0,4,11:04 PM,8:18,SUB: Vanderbilt FOR Kessler,,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200412,612,3,10,4,11:05 PM,8:18,,,MISS Alvarado Free Throw 1 of 1,,,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,613,4,0,4,11:05 PM,8:14,Gay REBOUND (Off:0 Def:3),,,,,4,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,614,1,108,4,11:05 PM,8:09,Vanderbilt 4' Cutting Dunk Shot (14 PTS) (Conley 6 AST),,,78 - 100,22,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200412,616,9,1,4,11:05 PM,8:09,,,Pelicans Timeout: Regular (Reg.5 Short 0),,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200412,618,8,0,4,11:07 PM,8:09,,,SUB: Jones FOR Alvarado,,,5,1630631,Jose Alvarado,1610612740.0,New Orleans,Pelicans,NOP,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200412,620,2,1,4,11:08 PM,7:54,,,MISS Jones 3PT Jump Shot,,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,621,4,0,4,11:08 PM,7:51,,,McCollum REBOUND (Off:2 Def:4),,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,622,2,1,4,11:08 PM,7:49,Gay BLOCK (1 BLK),,MISS McCollum 3' Jump Shot,,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,4,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,1
+0022200412,624,4,0,4,11:08 PM,7:47,Gay REBOUND (Off:0 Def:4),,,,,4,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,625,6,11,4,11:08 PM,7:47,,,McCollum T.FOUL (P1.T0) (E.Scott),,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+0022200412,626,3,16,4,11:09 PM,7:47,Conley Free Throw Technical (4 PTS),,,78 - 101,23,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,627,6,2,4,11:09 PM,7:34,,,Daniels S.FOUL (P2.T1) (E.Scott),,,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,4,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022200412,629,3,11,4,11:10 PM,7:34,Alexander-Walker Free Throw 1 of 2 (16 PTS),,,78 - 102,24,4,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,630,3,12,4,11:10 PM,7:34,MISS Alexander-Walker Free Throw 2 of 2,,,,,4,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,631,4,0,4,11:10 PM,7:32,Vanderbilt REBOUND (Off:8 Def:6),,,,,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,632,1,58,4,11:10 PM,7:23,Vanderbilt 7' Turnaround Hook Shot (16 PTS) (Gay 1 AST),,,78 - 104,26,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,4,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200412,634,1,102,4,11:10 PM,7:07,,,McCollum 7' Driving Floating Bank Jump Shot (14 PTS) (Marshall 2 AST),80 - 104,24,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200412,636,1,1,4,11:11 PM,6:43,Conley 27' 3PT Jump Shot (7 PTS),,,80 - 107,27,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,637,1,44,4,11:11 PM,6:35,,,Jones 2' Reverse Layup (6 PTS) (Daniels 1 AST),82 - 107,25,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200412,639,2,1,4,11:11 PM,6:13,MISS Conley 23' Jump Shot,,,,,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,640,4,0,4,11:11 PM,6:11,,,Williamson REBOUND (Off:3 Def:6),,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,641,1,5,4,11:11 PM,6:08,,,Marshall 3' Layup (6 PTS) (Williamson 5 AST),84 - 107,23,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200412,643,9,1,4,11:11 PM,6:08,JAZZ Timeout: Regular (Full 3 Short 0),,,,,2,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200412,644,8,0,4,11:12 PM,6:08,,,SUB: Hernangomez FOR Williamson,,,5,1629627,Zion Williamson,1610612740.0,New Orleans,Pelicans,NOP,5,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200412,645,8,0,4,11:12 PM,6:08,,,SUB: Hayes FOR McCollum,,,5,203468,CJ McCollum,1610612740.0,New Orleans,Pelicans,NOP,5,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200412,646,8,0,4,11:12 PM,6:08,,,SUB: Temple FOR Marshall,,,5,1630230,Naji Marshall,1610612740.0,New Orleans,Pelicans,NOP,5,202066,Garrett Temple,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200412,647,8,0,4,11:12 PM,6:08,,,SUB: Lewis Jr. FOR Jones,,,5,1630529,Herbert Jones,1610612740.0,New Orleans,Pelicans,NOP,5,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0022200412,652,8,0,4,11:12 PM,6:08,SUB: Beasley FOR Conley,,,,,4,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,4,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200412,654,6,1,4,11:14 PM,5:54,,,Lewis Jr. P.FOUL (P1.T2) (P.Fraher),,,5,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,4,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0022200412,656,2,1,4,11:15 PM,5:50,MISS Beasley 26' 3PT Jump Shot,,,,,4,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,657,4,0,4,11:15 PM,5:46,,,Hayes REBOUND (Off:0 Def:1),,,5,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,658,2,7,4,11:15 PM,5:34,Markkanen BLOCK (1 BLK),,MISS Hernangomez 6' Dunk,,,5,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,1
+0022200412,660,4,0,4,11:15 PM,5:34,,,Temple REBOUND (Off:1 Def:0),,,5,202066,Garrett Temple,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,661,1,7,4,11:15 PM,5:33,,,Hernangomez 3' Dunk (2 PTS) (Temple 1 AST),86 - 107,21,5,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,5,202066,Garrett Temple,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200412,662,1,78,4,11:15 PM,5:11,Vanderbilt 3' Floating Jump Shot (18 PTS) (Beasley 4 AST),,,86 - 109,23,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,4,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200412,664,5,39,4,11:16 PM,5:02,,,Hayes Step Out of Bounds Turnover (P1.T16),,,5,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,1
+0022200412,665,8,0,4,11:16 PM,5:02,SUB: Horton-Tucker FOR Markkanen,,,,,4,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,4,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200412,668,2,1,4,11:16 PM,4:52,MISS Gay 25' 3PT Jump Shot,,,,,4,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,669,4,0,4,11:16 PM,4:49,,,Temple REBOUND (Off:1 Def:1),,,5,202066,Garrett Temple,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,670,2,1,4,11:16 PM,4:39,,,MISS Hayes 26' 3PT Jump Shot,,,5,1629637,Jaxson Hayes,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,671,4,0,4,11:16 PM,4:36,Alexander-Walker REBOUND (Off:0 Def:2),,,,,4,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,672,2,47,4,11:16 PM,4:30,MISS Horton-Tucker 13' Turnaround Jump Shot,,,,,4,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,673,4,0,4,11:16 PM,4:28,Gay REBOUND (Off:1 Def:4),,,,,4,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,674,1,78,4,11:17 PM,4:25,Gay 6' Floating Jump Shot (4 PTS),,,86 - 111,25,4,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,675,6,1,4,11:17 PM,4:11,Horton-Tucker P.FOUL (P1.T3) (E.Scott),,,,,4,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,5,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200412,677,8,0,4,11:17 PM,4:11,SUB: Kessler FOR Vanderbilt,,,,,4,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200412,679,2,1,4,11:17 PM,4:03,,,MISS Lewis Jr. 26' 3PT Jump Shot,,,5,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,680,4,0,4,11:17 PM,4:00,Alexander-Walker REBOUND (Off:0 Def:3),,,,,4,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,681,2,1,4,11:17 PM,3:52,MISS Alexander-Walker 26' 3PT Jump Shot,,,,,4,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,682,4,0,4,11:17 PM,3:50,JAZZ Rebound,,,,,2,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200412,684,8,0,4,11:18 PM,3:50,SUB: Agbaji FOR Beasley,,,,,4,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,4,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200412,685,8,0,4,11:18 PM,3:50,SUB: Azubuike FOR Gay,,,,,4,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,4,1628962,Udoka Azubuike,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200412,688,5,4,4,11:18 PM,3:46,Horton-Tucker Traveling Turnover (P1.T20),,,,,4,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0022200412,689,1,5,4,11:18 PM,3:32,,,Hernangomez 11' Layup (4 PTS) (Daniels 2 AST),88 - 111,23,5,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200412,691,2,1,4,11:19 PM,3:09,MISS Horton-Tucker 26' 3PT Jump Shot,,,,,4,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,704,2,97,4,11:19 PM,3:04,MISS Kessler 2' Tip Layup Shot,,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,705,4,0,4,11:19 PM,3:04,Kessler REBOUND (Off:5 Def:10),,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,693,1,72,4,11:19 PM,3:04,Kessler Putback Layup (11 PTS),,,88 - 113,25,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,692,4,0,4,11:19 PM,3:04,Kessler REBOUND (Off:6 Def:10),,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,694,1,5,4,11:19 PM,2:56,,,Lewis Jr. 3' Layup (2 PTS) (Hernangomez 1 AST),90 - 113,23,5,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,5,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200412,696,1,1,4,11:19 PM,2:45,Alexander-Walker 26' 3PT Jump Shot (19 PTS) (Horton-Tucker 1 AST),,,90 - 116,26,4,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,4,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200412,698,1,1,4,11:19 PM,2:30,,,Hernangomez 26' 3PT Jump Shot (7 PTS) (Daniels 3 AST),93 - 116,23,5,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,5,1630700,Dyson Daniels,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200412,700,2,1,4,11:20 PM,2:09,MISS Horton-Tucker 3PT Jump Shot,,,,,4,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,701,4,0,4,11:20 PM,2:06,,,Lewis Jr. REBOUND (Off:0 Def:1),,,5,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,702,6,2,4,11:20 PM,2:04,Agbaji S.FOUL (P1.T4) (E.Scott),,,,,4,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,5,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200412,706,3,11,4,11:20 PM,2:04,,,Lewis Jr. Free Throw 1 of 2 (3 PTS),94 - 116,22,5,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,707,8,0,4,11:20 PM,2:04,SUB: Bolmaro FOR Kessler,,,,,4,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,4,1630195,Leandro Bolmaro,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0022200412,709,3,12,4,11:21 PM,2:04,,,Lewis Jr. Free Throw 2 of 2 (4 PTS),95 - 116,21,5,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,710,5,2,4,11:21 PM,1:48,Alexander-Walker Lost Ball Turnover (P4.T21),,Hernangomez STEAL (1 STL),,,4,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,5,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200412,712,2,5,4,11:21 PM,1:42,,,MISS Lewis Jr. 5' Layup,,,5,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,713,4,0,4,11:21 PM,1:42,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200412,716,2,5,4,11:22 PM,1:34,Azubuike BLOCK (1 BLK),,MISS Lewis Jr. 2' Layup,,,5,1630184,Kira Lewis Jr.,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,4,1628962,Udoka Azubuike,1610612762.0,Utah,Jazz,UTA,1
+0022200412,718,4,0,4,11:22 PM,1:34,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200412,720,2,1,4,11:22 PM,1:32,,,MISS Hernangomez 3PT Jump Shot,,,5,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,721,4,0,4,11:22 PM,1:28,Horton-Tucker REBOUND (Off:0 Def:1),,,,,4,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,722,1,6,4,11:22 PM,1:19,Horton-Tucker 3' Driving Layup (2 PTS),,,95 - 118,23,4,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,723,6,2,4,11:22 PM,1:13,Azubuike S.FOUL (P1.PN) (E.Dalen),,,,,4,1628962,Udoka Azubuike,1610612762.0,Utah,Jazz,UTA,5,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,1
+0022200412,725,3,11,4,11:23 PM,1:13,,,Hernangomez Free Throw 1 of 2 (8 PTS),96 - 118,22,5,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,726,3,12,4,11:23 PM,1:13,,,Hernangomez Free Throw 2 of 2 (9 PTS),97 - 118,21,5,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,727,1,80,4,11:23 PM,1:00,Horton-Tucker 27' 3PT Step Back Jump Shot (5 PTS),,,97 - 121,24,4,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,729,1,1,4,11:24 PM,0:49,,,Temple 24' 3PT Jump Shot (3 PTS) (Hernangomez 2 AST),100 - 121,21,5,202066,Garrett Temple,1610612740.0,New Orleans,Pelicans,NOP,5,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1
+0022200412,731,2,5,4,11:24 PM,0:36,MISS Bolmaro 6' Layup,,,,,4,1630195,Leandro Bolmaro,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,732,4,0,4,11:24 PM,0:33,Azubuike REBOUND (Off:1 Def:0),,,,,4,1628962,Udoka Azubuike,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,733,2,1,4,11:24 PM,0:32,MISS Agbaji 26' 3PT Jump Shot,,,,,4,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0022200412,734,4,0,4,11:24 PM,0:32,,,Hernangomez REBOUND (Off:0 Def:1),,,5,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,1
+0022200412,735,5,1,4,11:24 PM,0:25,Horton-Tucker STEAL (1 STL),,Hernangomez Bad Pass Turnover (P1.T17),,,5,1626195,Willy Hernangomez,1610612740.0,New Orleans,Pelicans,NOP,4,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0022200412,737,5,11,4,11:25 PM,0:01,JAZZ Turnover: Shot Clock (T#22),,,,,2,1610612762,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200412,738,13,0,4,11:25 PM,0:00,,End of 4th Period (11:25 PM EST),,100 - 121,21,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

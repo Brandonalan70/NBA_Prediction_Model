@@ -1,0 +1,133 @@
+{
+  "model_type": "Stacking Ensemble",
+  "training_time_seconds": 55.64441704750061,
+  "data_sample_fraction": 1.0,
+  "n_features": 19,
+  "n_samples_train": 643127,
+  "n_samples_test": 161424,
+  "n_games_train": 1400,
+  "n_games_test": 350,
+  "cv_folds": 3,
+  "base_models": [
+    "logistic",
+    "random_forest",
+    "xgboost"
+  ],
+  "individual_model_performance": {
+    "logistic": {
+      "training_time": 5.48742413520813,
+      "accuracy": 0.7963252056695411,
+      "precision": 0.7789039321696962,
+      "recall": 0.7397342563325086,
+      "f1_score": 0.758813949735178,
+      "roc_auc": 0.877302701288708,
+      "brier_score": 0.14109720851496152,
+      "log_loss": 0.4340874754505796
+    },
+    "random_forest": {
+      "training_time": 2.192434549331665,
+      "accuracy": 0.7851992268807613,
+      "precision": 0.7715302710448865,
+      "recall": 0.7161348456026432,
+      "f1_score": 0.7428011927544617,
+      "roc_auc": 0.8651941613735028,
+      "brier_score": 0.14967738359008215,
+      "log_loss": 0.4609730217230262
+    },
+    "xgboost": {
+      "training_time": 0.35979318618774414,
+      "accuracy": 0.7951605709188225,
+      "precision": 0.7895315765489715,
+      "recall": 0.7186378134073258,
+      "f1_score": 0.7524184611698463,
+      "roc_auc": 0.8806677111509464,
+      "brier_score": 0.13964780331206036,
+      "log_loss": 0.42801653839215137
+    }
+  },
+  "test_metrics": {
+    "accuracy": 0.7970747844186739,
+    "precision": 0.7820878753833541,
+    "recall": 0.7367736029863982,
+    "f1_score": 0.75875477784406,
+    "roc_auc": 0.8784764983102406,
+    "brier_score": 0.14123223218952924,
+    "log_loss": 0.43940403919254306,
+    "expected_calibration_error": 0.02318527203093666,
+    "max_calibration_error": 0.06104844843292378,
+    "sharpness": 0.288379246827304
+  },
+  "baseline_comparison": {
+    "baseline_climatology": {
+      "brier_score": 0.24552792494252587,
+      "p_base": 0.4331264248191099
+    },
+    "baseline_uniform": {
+      "brier_score": 0.25
+    },
+    "brier_skill_score": 0.4247813880128323
+  },
+  "game_situation_analysis": {
+    "game_stage_Q1": {
+      "n_samples": 38689,
+      "brier_score": 0.18544963956228808
+    },
+    "game_stage_Q2": {
+      "n_samples": 41138,
+      "brier_score": 0.15714320278186739
+    },
+    "game_stage_Q3": {
+      "n_samples": 39781,
+      "brier_score": 0.13221372646982293
+    },
+    "game_stage_Q4": {
+      "n_samples": 41816,
+      "brier_score": 0.09324802504306297
+    },
+    "closeness_Very Close (0-5)": {
+      "n_samples": 71714,
+      "brier_score": 0.18528919746237626
+    },
+    "closeness_Close (6-10)": {
+      "n_samples": 41386,
+      "brier_score": 0.15421564581930802
+    },
+    "closeness_Moderate (11-15)": {
+      "n_samples": 24070,
+      "brier_score": 0.10344472315661563
+    },
+    "closeness_Blowout (16+)": {
+      "n_samples": 24254,
+      "brier_score": 0.026311500696301476
+    },
+    "clutch_time": {
+      "n_samples": 18264,
+      "brier_score": 0.08265453992787358
+    },
+    "non_clutch": {
+      "n_samples": 143160,
+      "brier_score": 0.1487054298108402
+    }
+  },
+  "feature_names": [
+    "SECONDS REMAINING",
+    "VISITOR_SCORE",
+    "HOME_SCORE",
+    "SCOREMARGIN",
+    "HOME_PPG_TOTAL",
+    "HOME_APG_TOTAL",
+    "HOME_RPG_TOTAL",
+    "HOME_PLUSMIN_TOTAL",
+    "VISITOR_PPG_TOTAL",
+    "VISITOR_APG_TOTAL",
+    "VISITOR_RPG_TOTAL",
+    "VISITOR_PLUSMIN_TOTAL",
+    "ELO_DIFF",
+    "PPG_DIFFERENTIAL",
+    "APG_DIFFERENTIAL",
+    "RPG_DIFFERENTIAL",
+    "PLUSMIN_DIFFERENTIAL",
+    "GAME_PROGRESS",
+    "FINAL_QUARTER"
+  ]
+}

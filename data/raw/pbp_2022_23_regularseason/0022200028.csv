@@ -1,0 +1,459 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200028,2,12,0,1,6:12 PM,12:00,,Start of 1st Period (6:12 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200028,4,10,0,1,6:12 PM,12:00,Jump Ball Embiid vs. Poeltl: Tip to Vassell,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,1
+0022200028,7,2,101,1,6:12 PM,11:47,,,MISS Vassell 9' Driving Floating Jump Shot,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,8,4,0,1,6:12 PM,11:45,Harris REBOUND (Off:0 Def:1),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,10,2,101,1,6:13 PM,11:30,MISS Maxey 7' Driving Floating Jump Shot,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,11,4,0,1,6:13 PM,11:28,,,Poeltl REBOUND (Off:0 Def:1),,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,12,2,103,1,6:13 PM,11:22,,,MISS Vassell 3PT Running Pull-Up Jump Shot,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,13,4,0,1,6:13 PM,11:19,Harris REBOUND (Off:0 Def:2),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,16,5,20,1,6:14 PM,11:09,Embiid Illegal Assist Turnover (P1.T1),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0022200028,17,5,45,1,6:14 PM,10:50,,,Poeltl Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,18,2,6,1,6:14 PM,10:37,MISS Maxey 3' Driving Layup,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,20,4,0,1,6:14 PM,10:33,,,Sochan REBOUND (Off:0 Def:1),,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,21,2,101,1,6:15 PM,10:11,,,MISS Johnson 16' Driving Floating Jump Shot,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,22,4,0,1,6:15 PM,10:08,Embiid REBOUND (Off:0 Def:1),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,23,2,79,1,6:15 PM,9:59,MISS Harden 10' Pullup Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,24,4,0,1,6:15 PM,9:57,,,Sochan REBOUND (Off:0 Def:2),,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,25,6,1,1,6:15 PM,9:54,Harden P.FOUL (P1.T1) (T.Maddox),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022200028,27,2,6,1,6:16 PM,9:47,Embiid BLOCK (1 BLK),,MISS Jones 5' Driving Layup,,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1
+0022200028,29,4,0,1,6:16 PM,9:47,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200028,30,6,2,1,6:16 PM,9:39,Maxey S.FOUL (P1.T2) (E.Scott),,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022200028,32,3,11,1,6:16 PM,9:39,,,Poeltl Free Throw 1 of 2 (1 PTS),1 - 0,-1,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,34,3,12,1,6:16 PM,9:39,,,MISS Poeltl Free Throw 2 of 2,,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,35,4,0,1,6:16 PM,9:39,Harden REBOUND (Off:0 Def:1),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,36,1,6,1,6:17 PM,9:27,Embiid 2' Driving Layup (2 PTS) (Maxey 1 AST),,,1 - 2,1,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200028,38,2,6,1,6:17 PM,9:15,,,MISS Sochan 6' Driving Layup,,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,39,4,0,1,6:17 PM,9:13,,,Poeltl REBOUND (Off:1 Def:1),,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,40,1,1,1,6:17 PM,9:10,,,Vassell 26' 3PT Jump Shot (3 PTS) (Jones 1 AST),4 - 2,-2,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200028,43,2,1,1,6:18 PM,8:48,MISS Maxey 24' 3PT Jump Shot,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,44,4,0,1,6:18 PM,8:48,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200028,46,1,43,1,6:18 PM,8:45,Harris 7' Alley Oop Layup (2 PTS) (Harden 1 AST),,,4 - 4,TIE,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200028,51,6,2,1,6:18 PM,8:39,Tucker S.FOUL (P1.T3) (K.Lane),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022200028,53,3,11,1,6:19 PM,8:39,,,Sochan Free Throw 1 of 2 (1 PTS),5 - 4,-1,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,54,3,12,1,6:19 PM,8:39,,,MISS Sochan Free Throw 2 of 2,,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,55,4,0,1,6:19 PM,8:37,Tucker REBOUND (Off:0 Def:1),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,56,5,1,1,6:19 PM,8:19,Tucker Bad Pass Turnover (P1.T2),,Vassell STEAL (1 STL),,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200028,58,2,75,1,6:19 PM,8:08,,,MISS Poeltl 1' Driving Finger Roll Layup,,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,59,4,0,1,6:19 PM,8:04,Maxey REBOUND (Off:0 Def:1),,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,60,1,1,1,6:19 PM,8:00,Maxey 26' 3PT Jump Shot (3 PTS) (Harden 2 AST),,,5 - 7,2,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200028,62,1,79,1,6:20 PM,7:46,,,Jones 3' Pullup Jump Shot (2 PTS),7 - 7,TIE,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,63,2,101,1,6:20 PM,7:23,MISS Harris 9' Driving Floating Jump Shot,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,64,4,0,1,6:20 PM,7:20,,,Poeltl REBOUND (Off:1 Def:2),,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,65,5,1,1,6:20 PM,7:11,Maxey STEAL (1 STL),,Sochan Bad Pass Turnover (P1.T2),,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200028,67,1,41,1,6:20 PM,7:05,Maxey 2' Running Layup (5 PTS) (Harden 3 AST),,,7 - 9,2,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200028,69,9,1,1,6:20 PM,7:05,,,Spurs Timeout: Regular (Reg.1 Short 0),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200028,70,1,101,1,6:24 PM,6:50,,,Jones 7' Driving Floating Jump Shot (4 PTS),9 - 9,TIE,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,71,1,86,1,6:24 PM,6:21,Embiid 13' Turnaround Fadeaway (4 PTS),,,9 - 11,2,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,72,5,1,1,6:24 PM,6:13,Harden STEAL (1 STL),,Jones Bad Pass Turnover (P1.T3),,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200028,74,1,106,1,6:25 PM,6:08,Harris 1' Running Alley Oop Dunk Shot (4 PTS) (Harden 4 AST),,,9 - 13,4,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200028,76,2,79,1,6:25 PM,5:48,,,MISS Johnson 13' Pullup Jump Shot,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,77,4,0,1,6:25 PM,5:48,Embiid REBOUND (Off:0 Def:2),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,78,2,99,1,6:25 PM,5:39,MISS Embiid 2' Cutting Finger Roll Layup Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,79,4,0,1,6:25 PM,5:37,,,Sochan REBOUND (Off:0 Def:3),,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,80,1,1,1,6:25 PM,5:31,,,Johnson 3PT Jump Shot (3 PTS) (Sochan 1 AST),12 - 13,1,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200028,82,1,1,1,6:25 PM,5:13,Harris 26' 3PT Jump Shot (7 PTS) (Harden 5 AST),,,12 - 16,4,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200028,88,8,0,1,6:26 PM,5:04,SUB: Harrell FOR Embiid,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200028,89,8,0,1,6:26 PM,5:04,,,SUB: Primo FOR Sochan,,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,5,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200028,90,8,0,1,6:26 PM,5:04,,,SUB: Richardson FOR Jones,,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200028,97,8,0,1,6:26 PM,5:04,,,SUB: Roby FOR Vassell,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200028,94,2,1,1,6:26 PM,4:56,,,MISS Johnson 27' 3PT Jump Shot,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,95,4,0,1,6:26 PM,4:56,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200028,99,1,6,1,6:26 PM,4:46,Harden 1' Driving Layup (2 PTS),,,12 - 18,6,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,100,5,45,1,6:27 PM,4:25,,,Primo Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,5,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,1
+0022200028,101,8,0,1,6:27 PM,4:25,,,SUB: McDermott FOR Johnson,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200028,102,8,0,1,6:27 PM,4:25,,,SUB: Collins FOR Poeltl,,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200028,105,8,0,1,6:27 PM,4:25,SUB: Melton FOR Maxey,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200028,106,8,0,1,6:27 PM,4:25,SUB: House Jr. FOR Tucker,,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,4,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200028,109,2,9,1,6:27 PM,4:06,MISS Harris 2' Driving Dunk,,Roby BLOCK (1 BLK),,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,1
+0022200028,111,4,0,1,6:28 PM,4:03,,,Primo REBOUND (Off:0 Def:1),,,5,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,112,2,79,1,6:28 PM,3:50,,,MISS McDermott 27' 3PT Pullup Jump Shot,,,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,113,4,0,1,6:28 PM,3:45,,,Roby REBOUND (Off:1 Def:0),,,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,114,2,1,1,6:28 PM,3:43,,,MISS Richardson 29' 3PT Jump Shot,,,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,115,4,0,1,6:28 PM,3:39,Harden REBOUND (Off:0 Def:2),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,116,1,80,1,6:28 PM,3:30,Harden 14' Step Back Jump Shot (4 PTS),,,12 - 20,8,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,117,2,6,1,6:28 PM,3:16,Harden BLOCK (1 BLK),,MISS Primo 3' Driving Layup,,,5,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1
+0022200028,119,4,0,1,6:28 PM,3:13,Harris REBOUND (Off:0 Def:3),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,120,2,101,1,6:28 PM,3:09,MISS Harden 6' Driving Floating Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,121,4,0,1,6:28 PM,3:07,Harden REBOUND (Off:1 Def:2),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,122,2,1,1,6:28 PM,3:06,MISS Melton 24' 3PT Jump Shot,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,123,4,0,1,6:29 PM,3:03,,,Roby REBOUND (Off:1 Def:1),,,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,124,2,1,1,6:29 PM,2:54,,,MISS Richardson 26' 3PT Jump Shot,,,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,125,4,0,1,6:29 PM,2:51,Melton REBOUND (Off:0 Def:1),,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,126,2,6,1,6:29 PM,2:43,MISS Melton 3' Driving Layup,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,127,4,0,1,6:29 PM,2:41,,,McDermott REBOUND (Off:0 Def:1),,,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,128,1,103,1,6:29 PM,2:37,,,Richardson 11' Running Pull-Up Jump Shot (2 PTS),14 - 20,6,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,130,2,1,1,6:29 PM,2:23,MISS Harris 27' 3PT Jump Shot,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,131,4,0,1,6:29 PM,2:21,,,Collins REBOUND (Off:0 Def:1),,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,132,1,1,1,6:29 PM,2:14,,,Collins 27' 3PT Jump Shot (3 PTS) (Primo 1 AST),17 - 20,3,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,5,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200028,134,9,1,1,6:30 PM,2:02,76ERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200028,135,8,0,1,6:32 PM,2:02,SUB: Niang FOR Harris,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200028,137,1,1,1,6:33 PM,1:53,Niang 26' 3PT Jump Shot (3 PTS) (Harden 6 AST),,,17 - 23,6,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200028,139,1,79,1,6:33 PM,1:38,,,Roby 17' Pullup Jump Shot (2 PTS) (Richardson 1 AST),19 - 23,4,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200028,141,6,1,1,6:33 PM,1:29,,,Roby P.FOUL (P1.T1) (K.Lane),,,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200028,143,2,80,1,6:34 PM,1:13,MISS Harden 27' 3PT Step Back Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,144,4,0,1,6:34 PM,1:10,,,Primo REBOUND (Off:0 Def:2),,,5,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,145,6,26,1,6:34 PM,0:54,,,McDermott Offensive Charge Foul (P1) (K.Lane),,,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200028,147,5,37,1,6:34 PM,0:54,,,McDermott Offensive Foul Turnover (P1.T5),,,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,1
+0022200028,148,8,0,1,6:34 PM,0:54,SUB: Embiid FOR Harden,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200028,149,8,0,1,6:34 PM,0:54,SUB: Maxey FOR Harrell,,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200028,152,6,2,1,6:35 PM,0:42,,,Collins S.FOUL (P1.PN) (E.Scott),,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200028,154,3,11,1,6:35 PM,0:42,Embiid Free Throw 1 of 2 (5 PTS),,,19 - 24,5,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,155,8,0,1,6:35 PM,0:42,,,SUB: Dieng FOR Collins,,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,5,203476,Gorgui Dieng,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200028,157,3,12,1,6:36 PM,0:42,Embiid Free Throw 2 of 2 (6 PTS),,,19 - 25,6,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,158,2,1,1,6:36 PM,0:29,,,MISS Richardson 27' 3PT Jump Shot,,,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,159,4,0,1,6:36 PM,0:26,Melton REBOUND (Off:0 Def:2),,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,160,2,79,1,6:36 PM,0:09,MISS Maxey 26' 3PT Pullup Jump Shot,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,161,4,0,1,6:36 PM,0:04,,,Primo REBOUND (Off:0 Def:3),,,5,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,162,2,41,1,6:37 PM,0:01,,,MISS Primo 4' Running Layup,,,5,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,163,4,0,1,6:37 PM,0:01,,,Roby REBOUND (Off:2 Def:1),,,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,164,2,97,1,6:37 PM,0:00,,,MISS Roby Tip Layup Shot,,,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,165,4,0,1,6:37 PM,0:00,Embiid REBOUND (Off:0 Def:3),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,166,13,0,1,6:37 PM,0:00,,End of 1st Period (6:37 PM EST),,19 - 25,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200028,169,12,0,2,6:39 PM,12:00,,Start of 2nd Period (6:39 PM EST),,19 - 25,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200028,170,5,1,2,6:40 PM,11:47,House Jr. Bad Pass Turnover (P1.T3),,Roby STEAL (1 STL),,,4,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200028,172,1,41,2,6:40 PM,11:43,,,Vassell 1' Running Layup (5 PTS),21 - 25,4,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,173,2,1,2,6:40 PM,11:30,MISS Niang 3PT Jump Shot,,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,174,4,0,2,6:40 PM,11:27,,,McDermott REBOUND (Off:0 Def:2),,,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,175,1,79,2,6:40 PM,11:20,,,Primo 8' Pullup Jump Shot (2 PTS),23 - 25,2,5,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,176,1,73,2,6:40 PM,11:06,Niang Driving Reverse Layup (5 PTS) (Maxey 2 AST),,,23 - 27,4,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200028,178,1,108,2,6:40 PM,10:51,,,Vassell 1' Cutting Dunk Shot (7 PTS) (Dieng 1 AST),25 - 27,2,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,5,203476,Gorgui Dieng,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200028,182,1,1,2,6:41 PM,10:27,Embiid 20' Jump Shot (8 PTS),,,25 - 29,4,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,192,8,0,2,6:42 PM,10:27,,,SUB: Sochan FOR Roby,,,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200028,183,6,2,2,6:42 PM,10:27,,,Vassell S.FOUL (P1.T1) (E.Scott),,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200028,185,3,10,2,6:42 PM,10:27,MISS Embiid Free Throw 1 of 1,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,186,4,0,2,6:42 PM,10:25,,,Dieng REBOUND (Off:0 Def:1),,,5,203476,Gorgui Dieng,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,187,2,1,2,6:42 PM,10:10,,,MISS Sochan 3PT Jump Shot,,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,188,4,0,2,6:42 PM,10:05,Melton REBOUND (Off:0 Def:3),,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,189,6,2,2,6:43 PM,10:05,,,Sochan S.FOUL (P1.T2) (E.Scott),,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200028,191,3,11,2,6:43 PM,10:05,Maxey Free Throw 1 of 2 (6 PTS),,,25 - 30,5,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,194,8,0,2,6:43 PM,10:05,,,SUB: Johnson FOR Primo,,,5,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200028,195,8,0,2,6:43 PM,10:05,,,SUB: Jones FOR Sochan,,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200028,198,3,12,2,6:43 PM,10:05,Maxey Free Throw 2 of 2 (7 PTS),,,25 - 31,6,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,199,1,79,2,6:43 PM,9:52,,,Vassell 18' Pullup Jump Shot (9 PTS),27 - 31,4,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,200,2,101,2,6:44 PM,9:38,MISS Maxey 9' Driving Floating Jump Shot,,Dieng BLOCK (1 BLK),,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,203476,Gorgui Dieng,1610612759.0,San Antonio,Spurs,SAS,1
+0022200028,202,4,0,2,6:44 PM,9:38,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200028,204,2,6,2,6:44 PM,9:27,MISS Embiid 4' Driving Layup,,McDermott BLOCK (1 BLK),,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,1
+0022200028,206,4,0,2,6:44 PM,9:24,,,Jones REBOUND (Off:0 Def:1),,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,207,1,1,2,6:44 PM,9:18,,,Johnson 27' 3PT Jump Shot (6 PTS) (Dieng 2 AST),30 - 31,1,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,5,203476,Gorgui Dieng,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200028,209,1,108,2,6:45 PM,9:02,House Jr. 1' Cutting Dunk Shot (2 PTS) (Embiid 1 AST),,,30 - 33,3,4,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200028,211,9,1,2,6:45 PM,9:01,,,Spurs Timeout: Regular (Reg.2 Short 0),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200028,212,1,6,2,6:48 PM,8:43,,,Johnson 1' Driving Layup (8 PTS) (Vassell 1 AST),32 - 33,1,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200028,214,6,2,2,6:48 PM,8:43,Niang S.FOUL (P1.T1) (K.Lane),,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022200028,216,8,0,2,6:48 PM,8:43,SUB: Thybulle FOR Melton,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200028,218,3,10,2,6:48 PM,8:43,,,Johnson Free Throw 1 of 1 (9 PTS),33 - 33,TIE,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0022200028,219,5,1,2,6:49 PM,8:19,Niang Bad Pass Turnover (P1.T4),,Jones STEAL (1 STL),,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200028,221,2,41,2,6:49 PM,8:15,House Jr. BLOCK (1 BLK),,MISS Jones 1' Running Layup,,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,4,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,1
+0022200028,223,4,0,2,6:49 PM,8:14,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200028,225,8,0,2,6:49 PM,8:14,SUB: Harden FOR House Jr.,,,,,4,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200028,227,1,1,2,6:50 PM,8:01,,,Vassell 24' 3PT Jump Shot (12 PTS) (Dieng 3 AST),36 - 33,-3,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,5,203476,Gorgui Dieng,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200028,229,6,2,2,6:50 PM,7:41,,,Dieng S.FOUL (P1.T3) (E.Scott),,,5,203476,Gorgui Dieng,1610612759.0,San Antonio,Spurs,SAS,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200028,231,3,11,2,6:51 PM,7:41,Embiid Free Throw 1 of 2 (9 PTS),,,36 - 34,-2,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,232,3,12,2,6:51 PM,7:41,Embiid Free Throw 2 of 2 (10 PTS),,,36 - 35,-1,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,233,2,1,2,6:51 PM,7:25,,,MISS Dieng 25' 3PT Jump Shot,,,5,203476,Gorgui Dieng,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,234,4,0,2,6:51 PM,7:22,Harden REBOUND (Off:1 Def:3),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,235,2,6,2,6:51 PM,7:15,MISS Harden 6' Driving Layup,,Dieng BLOCK (2 BLK),,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,203476,Gorgui Dieng,1610612759.0,San Antonio,Spurs,SAS,1
+0022200028,237,4,0,2,6:51 PM,7:15,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200028,239,8,0,2,6:51 PM,7:15,,,SUB: Richardson FOR McDermott,,,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200028,240,8,0,2,6:51 PM,7:15,,,SUB: Primo FOR Vassell,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,5,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200028,243,6,2,2,6:52 PM,7:13,,,Dieng S.FOUL (P2.T4) (T.Maddox),,,5,203476,Gorgui Dieng,1610612759.0,San Antonio,Spurs,SAS,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200028,245,3,11,2,6:52 PM,7:13,MISS Embiid Free Throw 1 of 2,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,246,4,1,2,6:52 PM,7:13,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200028,247,8,0,2,6:52 PM,7:13,,,SUB: Poeltl FOR Dieng,,,5,203476,Gorgui Dieng,1610612759.0,San Antonio,Spurs,SAS,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200028,249,3,12,2,6:53 PM,7:13,Embiid Free Throw 2 of 2 (11 PTS),,,36 - 36,TIE,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,250,1,99,2,6:53 PM,6:59,,,Jones 3' Cutting Finger Roll Layup Shot (6 PTS) (Poeltl 1 AST),38 - 36,-2,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200028,252,6,2,2,6:53 PM,6:59,Maxey S.FOUL (P2.T2) (T.Maddox),,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022200028,254,8,0,2,6:53 PM,6:59,SUB: Harris FOR Niang,,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200028,256,3,10,2,6:54 PM,6:59,,,Jones Free Throw 1 of 1 (7 PTS),39 - 36,-3,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,257,2,1,2,6:54 PM,6:44,MISS Thybulle 3PT Jump Shot,,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,258,4,0,2,6:54 PM,6:41,,,Richardson REBOUND (Off:0 Def:1),,,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,259,5,1,2,6:54 PM,6:27,Embiid STEAL (1 STL),,Johnson Bad Pass Turnover (P1.T6),,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200028,261,2,103,2,6:54 PM,6:23,MISS Harden 29' 3PT Running Pull-Up Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,262,4,0,2,6:54 PM,6:19,Embiid REBOUND (Off:1 Def:3),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,263,6,2,2,6:54 PM,6:13,,,Poeltl S.FOUL (P1.PN) (T.Maddox),,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200028,265,3,11,2,6:55 PM,6:13,Embiid Free Throw 1 of 2 (12 PTS),,,39 - 37,-2,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,266,3,12,2,6:55 PM,6:13,Embiid Free Throw 2 of 2 (13 PTS),,,39 - 38,-1,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,267,2,58,2,6:56 PM,5:52,,,MISS Poeltl 7' Turnaround Hook Shot,,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,268,4,0,2,6:56 PM,5:49,Embiid REBOUND (Off:1 Def:4),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,269,2,1,2,6:56 PM,5:40,MISS Embiid 16' Jump Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,270,4,0,2,6:56 PM,5:36,,,Johnson REBOUND (Off:0 Def:1),,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,271,1,79,2,6:56 PM,5:30,,,Johnson 10' Pullup Jump Shot (11 PTS),41 - 38,-3,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,272,9,1,2,6:56 PM,5:29,76ERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200028,273,8,0,2,6:59 PM,5:29,SUB: House Jr. FOR Embiid,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200028,274,8,0,2,6:59 PM,5:29,SUB: Tucker FOR Thybulle,,,,,4,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200028,277,2,80,2,6:59 PM,5:07,MISS Harden 18' Step Back Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,278,4,0,2,6:59 PM,5:05,,,Johnson REBOUND (Off:0 Def:2),,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,279,2,1,2,7:00 PM,4:50,,,MISS Johnson 27' 3PT Jump Shot,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,280,4,0,2,7:00 PM,4:46,Tucker REBOUND (Off:0 Def:2),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,281,1,80,2,7:00 PM,4:34,Maxey 24' 3PT Step Back Jump Shot (10 PTS),,,41 - 41,TIE,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,282,2,6,2,7:00 PM,4:28,Harden BLOCK (2 BLK),,MISS Primo 4' Driving Layup,,,5,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1
+0022200028,284,4,0,2,7:00 PM,4:28,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200028,286,8,0,2,7:00 PM,4:28,,,SUB: Vassell FOR Jones,,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200028,288,1,79,2,7:01 PM,4:19,,,Vassell 28' 3PT Pullup Jump Shot (15 PTS),44 - 41,-3,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,289,2,1,2,7:01 PM,4:01,MISS Maxey 27' 3PT Jump Shot,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,290,4,0,2,7:01 PM,3:58,House Jr. REBOUND (Off:1 Def:0),,,,,4,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,291,5,4,2,7:01 PM,3:58,House Jr. Traveling Turnover (P2.T5),,,,,4,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200028,292,5,4,2,7:01 PM,3:47,,,Richardson Traveling Turnover (P1.T7),,,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,1
+0022200028,293,2,1,2,7:02 PM,3:35,MISS House Jr. 3PT Jump Shot,,,,,4,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,294,4,0,2,7:02 PM,3:33,,,Johnson REBOUND (Off:0 Def:3),,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,295,1,96,2,7:02 PM,3:16,,,Poeltl 1' Turnaround Bank Hook Shot (3 PTS) (Richardson 2 AST),46 - 41,-5,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200028,297,5,1,2,7:02 PM,3:06,Maxey Bad Pass Turnover (P1.T6),,Richardson STEAL (1 STL),,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200028,299,1,1,2,7:02 PM,2:55,,,Primo 24' 3PT Jump Shot (5 PTS) (Vassell 2 AST),49 - 41,-8,5,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200028,301,2,6,2,7:03 PM,2:41,MISS Harden 2' Driving Layup,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,302,4,0,2,7:03 PM,2:41,Harden REBOUND (Off:2 Def:3),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,303,2,97,2,7:03 PM,2:40,MISS Harden Tip Layup Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,304,4,0,2,7:03 PM,2:40,Harden REBOUND (Off:3 Def:3),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,305,6,2,2,7:03 PM,2:40,,,Poeltl S.FOUL (P2.PN) (K.Lane),,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200028,307,3,11,2,7:03 PM,2:40,Harden Free Throw 1 of 2 (5 PTS),,,49 - 42,-7,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,308,8,0,2,7:03 PM,2:40,SUB: Embiid FOR House Jr.,,,,,4,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200028,309,8,0,2,7:03 PM,2:40,,,SUB: Roby FOR Johnson,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200028,312,3,12,2,7:04 PM,2:40,Harden Free Throw 2 of 2 (6 PTS),,,49 - 43,-6,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,313,2,1,2,7:04 PM,2:20,,,MISS Primo 25' 3PT Jump Shot,,,5,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,314,4,0,2,7:04 PM,2:16,Embiid REBOUND (Off:1 Def:5),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,315,2,86,2,7:04 PM,2:04,MISS Embiid 11' Turnaround Fadeaway Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,316,4,0,2,7:04 PM,2:02,,,Roby REBOUND (Off:2 Def:2),,,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,317,1,1,2,7:05 PM,1:58,,,Vassell 26' 3PT Jump Shot (18 PTS) (Primo 2 AST),52 - 43,-9,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,5,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200028,319,1,1,2,7:05 PM,1:30,Maxey 3PT Jump Shot (13 PTS) (Harris 1 AST),,,52 - 46,-6,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200028,321,2,63,2,7:05 PM,1:12,,,MISS Richardson 10' Fadeaway Jumper,,,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,322,4,0,2,7:05 PM,1:09,Maxey REBOUND (Off:0 Def:2),,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,323,1,1,2,7:05 PM,1:03,Harris 26' 3PT Jump Shot (10 PTS),,,52 - 49,-3,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,325,9,1,2,7:06 PM,1:03,,,Spurs Timeout: Regular (Reg.3 Short 0),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200028,326,8,0,2,7:07 PM,1:03,,,SUB: Jones FOR Primo,,,5,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200028,329,6,4,2,7:08 PM,1:02,,,Jones OFF.Foul (P1) (T.Maddox),,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200028,331,5,37,2,7:08 PM,1:02,,,Jones Offensive Foul Turnover (P2.T8),,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,1
+0022200028,332,6,2,2,7:08 PM,0:56,,,Poeltl S.FOUL (P3.PN) (E.Scott),,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200028,334,3,11,2,7:08 PM,0:56,MISS Maxey Free Throw 1 of 2,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,335,4,1,2,7:08 PM,0:56,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200028,336,8,0,2,7:08 PM,0:56,,,SUB: Dieng FOR Poeltl,,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,5,203476,Gorgui Dieng,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200028,338,3,12,2,7:09 PM,0:56,Maxey Free Throw 2 of 2 (14 PTS),,,52 - 50,-2,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,339,2,101,2,7:09 PM,0:44,,,MISS Jones 9' Driving Floating Jump Shot,,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,340,4,0,2,7:09 PM,0:41,Embiid REBOUND (Off:1 Def:6),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,341,6,2,2,7:09 PM,0:33,,,Roby S.FOUL (P2.PN) (E.Scott),,,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200028,343,3,11,2,7:10 PM,0:33,MISS Harden Free Throw 1 of 2,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,344,4,1,2,7:10 PM,0:33,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200028,345,3,12,2,7:10 PM,0:33,Harden Free Throw 2 of 2 (7 PTS),,,52 - 51,-1,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,346,6,1,2,7:11 PM,0:18,Harden P.FOUL (P2.T3) (K.Lane),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,5,203476,Gorgui Dieng,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022200028,348,8,0,2,7:11 PM,0:18,SUB: Melton FOR Maxey,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200028,350,2,63,2,7:11 PM,0:04,,,MISS Jones 14' Fadeaway Jumper,,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,351,4,0,2,7:11 PM,0:03,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200028,353,1,5,2,7:12 PM,0:01,,,Vassell 2' Layup (20 PTS) (Richardson 3 AST),54 - 51,-3,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200028,355,2,2,2,7:12 PM,0:00,MISS Embiid 62' 3PT Running Jump Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,356,4,0,2,7:12 PM,0:00,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200028,357,13,0,2,7:12 PM,0:00,,End of 2nd Period (7:12 PM EST),,54 - 51,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200028,366,12,0,3,7:27 PM,12:00,,Start of 3rd Period (7:27 PM EST),,54 - 51,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200028,367,1,52,3,7:28 PM,11:44,Embiid 2' Alley Oop Dunk (15 PTS) (Maxey 3 AST),,,54 - 53,-1,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200028,369,2,1,3,7:28 PM,11:23,,,MISS Sochan 26' 3PT Jump Shot,,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,370,4,0,3,7:28 PM,11:21,Embiid REBOUND (Off:1 Def:7),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,371,2,5,3,7:28 PM,11:12,MISS Embiid 2' Layup,,Sochan BLOCK (1 BLK),,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,1
+0022200028,372,4,0,3,7:28 PM,11:08,,,Poeltl REBOUND (Off:1 Def:3),,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,373,2,101,3,7:28 PM,11:00,,,MISS Johnson 17' Driving Floating Jump Shot,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,374,4,0,3,7:28 PM,10:59,Harden REBOUND (Off:3 Def:4),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,376,1,2,3,7:28 PM,10:55,Tucker 3PT Running Jump Shot (3 PTS) (Harden 7 AST),,,54 - 56,2,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200028,378,2,79,3,7:29 PM,10:36,,,MISS Vassell 26' 3PT Pullup Jump Shot,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,379,4,0,3,7:29 PM,10:33,,,Poeltl REBOUND (Off:2 Def:3),,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,380,1,75,3,7:29 PM,10:24,,,Poeltl 2' Driving Finger Roll Layup (5 PTS) (Vassell 3 AST),56 - 56,TIE,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200028,382,1,79,3,7:29 PM,9:55,Embiid 16' Pullup Jump Shot (17 PTS),,,56 - 58,2,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,383,1,75,3,7:30 PM,9:33,,,Johnson 1' Driving Finger Roll Layup (13 PTS),58 - 58,TIE,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,384,1,6,3,7:30 PM,9:10,Harris 3' Driving Layup (12 PTS),,,58 - 60,2,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,385,6,2,3,7:30 PM,9:01,Harden S.FOUL (P3.T1) (E.Scott),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022200028,387,3,11,3,7:31 PM,9:01,,,Johnson Free Throw 1 of 2 (14 PTS),59 - 60,1,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,388,8,0,3,7:31 PM,9:01,,,SUB: Bates-Diop FOR Sochan,,,5,1631110,Jeremy Sochan,1610612759.0,San Antonio,Spurs,SAS,5,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200028,390,3,12,3,7:31 PM,9:01,,,Johnson Free Throw 2 of 2 (15 PTS),60 - 60,TIE,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,391,6,4,3,7:32 PM,8:45,Embiid OFF.Foul (P1) (K.Lane),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022200028,393,5,37,3,7:32 PM,8:45,Embiid Offensive Foul Turnover (P2.T7),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200028,394,2,1,3,7:32 PM,8:28,,,MISS Johnson 27' 3PT Jump Shot,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,395,4,0,3,7:32 PM,8:25,,,Johnson REBOUND (Off:1 Def:3),,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,396,2,1,3,7:32 PM,8:23,,,MISS Vassell 26' 3PT Jump Shot,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,397,4,0,3,7:32 PM,8:21,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200028,399,6,2,3,7:33 PM,8:11,,,Poeltl S.FOUL (P4.T1) (K.Lane),,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200028,401,3,11,3,7:33 PM,8:11,MISS Embiid Free Throw 1 of 2,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,402,4,1,3,7:33 PM,8:11,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200028,403,8,0,3,7:33 PM,8:11,,,SUB: Dieng FOR Poeltl,,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,5,203476,Gorgui Dieng,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200028,405,3,12,3,7:33 PM,8:11,Embiid Free Throw 2 of 2 (18 PTS),,,60 - 61,1,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,407,2,79,3,7:34 PM,7:50,,,MISS Dieng 26' 3PT Pullup Jump Shot,,,5,203476,Gorgui Dieng,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,408,4,0,3,7:34 PM,7:46,Harden REBOUND (Off:3 Def:5),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,409,1,76,3,7:34 PM,7:41,Embiid 2' Running Finger Roll Layup (20 PTS) (Harden 8 AST),,,60 - 63,3,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200028,411,9,1,3,7:34 PM,7:39,,,Spurs Timeout: Regular (Reg.4 Short 0),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200028,412,1,78,3,7:38 PM,7:18,,,Johnson 15' Floating Jump Shot (17 PTS),62 - 63,1,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,413,1,52,3,7:38 PM,7:04,Embiid 2' Alley Oop Dunk (22 PTS) (Maxey 4 AST),,,62 - 65,3,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200028,415,1,1,3,7:38 PM,6:45,,,Bates-Diop 26' 3PT Jump Shot (3 PTS) (Dieng 4 AST),65 - 65,TIE,5,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,5,203476,Gorgui Dieng,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200028,417,2,1,3,7:38 PM,6:20,MISS Tucker 25' 3PT Jump Shot,,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,418,4,0,3,7:39 PM,6:17,,,Johnson REBOUND (Off:1 Def:4),,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,419,2,101,3,7:39 PM,6:08,,,MISS Johnson 8' Driving Floating Jump Shot,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,420,4,0,3,7:39 PM,6:05,Harris REBOUND (Off:0 Def:4),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,421,2,41,3,7:39 PM,6:01,MISS Harden 1' Running Layup,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,422,4,0,3,7:39 PM,6:01,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200028,424,8,0,3,7:39 PM,6:01,,,SUB: Richardson FOR Vassell,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200028,425,8,0,3,7:39 PM,6:01,,,SUB: Primo FOR Jones,,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,5,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200028,428,5,40,3,7:40 PM,5:46,,,Johnson Out of Bounds Lost Ball Turnover (P2.T9),,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,1
+0022200028,429,8,0,3,7:40 PM,5:46,SUB: Harrell FOR Embiid,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200028,431,1,1,3,7:40 PM,5:35,Harris 27' 3PT Jump Shot (15 PTS) (Tucker 1 AST),,,65 - 68,3,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200028,433,1,1,3,7:40 PM,5:26,,,Richardson 25' 3PT Jump Shot (5 PTS) (Primo 3 AST),68 - 68,TIE,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,5,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200028,435,2,80,3,7:41 PM,5:11,MISS Harden 27' 3PT Step Back Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,436,4,0,3,7:41 PM,5:08,Harrell REBOUND (Off:1 Def:0),,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,437,5,1,3,7:41 PM,5:02,Harden Bad Pass Turnover (P1.T8),,Johnson STEAL (1 STL),,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200028,439,5,1,3,7:41 PM,5:01,Tucker STEAL (1 STL),,Johnson Bad Pass Turnover (P3.T10),,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200028,442,5,45,3,7:41 PM,4:59,Maxey Out of Bounds - Bad Pass Turnover Turnover (P2.T9),,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200028,443,8,0,3,7:41 PM,4:59,,,SUB: McDermott FOR Bates-Diop,,,5,1628966,Keita Bates-Diop,1610612759.0,San Antonio,Spurs,SAS,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200028,445,1,9,3,7:42 PM,4:42,,,Dieng 1' Driving Dunk (2 PTS) (Primo 4 AST),70 - 68,-2,5,203476,Gorgui Dieng,1610612759.0,San Antonio,Spurs,SAS,5,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200028,447,9,1,3,7:42 PM,4:42,76ERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200028,448,2,79,3,7:45 PM,4:26,MISS Maxey 27' 3PT Pullup Jump Shot,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,449,4,0,3,7:45 PM,4:22,Maxey REBOUND (Off:1 Def:2),,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,450,1,101,3,7:45 PM,4:12,Harden 7' Driving Floating Jump Shot (9 PTS),,,70 - 70,TIE,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,452,1,1,3,7:46 PM,3:48,,,Johnson 26' 3PT Jump Shot (20 PTS) (Dieng 5 AST),73 - 70,-3,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,5,203476,Gorgui Dieng,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200028,454,2,1,3,7:46 PM,3:21,MISS Maxey 28' 3PT Jump Shot,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,455,4,0,3,7:46 PM,3:17,,,Johnson REBOUND (Off:1 Def:5),,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,456,2,1,3,7:46 PM,3:10,,,MISS Primo 28' 3PT Jump Shot,,,5,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,457,4,0,3,7:46 PM,3:08,Tucker REBOUND (Off:0 Def:3),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,458,5,40,3,7:46 PM,3:02,Harden Out of Bounds Lost Ball Turnover (P2.T10),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200028,459,8,0,3,7:46 PM,3:02,SUB: Melton FOR Harden,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200028,461,2,1,3,7:47 PM,2:44,,,MISS Johnson 27' 3PT Jump Shot,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,462,4,0,3,7:47 PM,2:42,Tucker REBOUND (Off:0 Def:4),,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,463,6,1,3,7:47 PM,2:42,,,Dieng P.FOUL (P3.T2) (K.Lane),,,5,203476,Gorgui Dieng,1610612759.0,San Antonio,Spurs,SAS,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200028,465,8,0,3,7:47 PM,2:42,SUB: Niang FOR Tucker,,,,,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200028,466,8,0,3,7:47 PM,2:42,,,SUB: Vassell FOR Johnson,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200028,469,2,1,3,7:48 PM,2:28,MISS Melton 26' 3PT Jump Shot,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,470,4,0,3,7:48 PM,2:24,,,Vassell REBOUND (Off:0 Def:1),,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,471,2,1,3,7:48 PM,2:17,,,MISS Dieng 26' 3PT Jump Shot,,,5,203476,Gorgui Dieng,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,472,4,0,3,7:48 PM,2:14,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200028,474,2,75,3,7:48 PM,2:00,MISS Maxey 2' Driving Finger Roll Layup,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,475,4,0,3,7:48 PM,1:58,,,Vassell REBOUND (Off:0 Def:2),,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,476,1,1,3,7:48 PM,1:55,,,Richardson 3PT Jump Shot (8 PTS) (McDermott 1 AST),76 - 70,-6,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200028,478,6,2,3,7:48 PM,1:55,Melton S.FOUL (P1.T2) (K.Lane),,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022200028,480,8,0,3,7:49 PM,1:55,SUB: Embiid FOR Harrell,,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200028,481,8,0,3,7:49 PM,1:55,,,SUB: Collins FOR Dieng,,,5,203476,Gorgui Dieng,1610612759.0,San Antonio,Spurs,SAS,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200028,484,3,10,3,7:49 PM,1:55,,,Richardson Free Throw 1 of 1 (9 PTS),77 - 70,-7,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,485,2,5,3,7:49 PM,1:41,MISS Embiid 4' Layup,,Primo BLOCK (1 BLK),,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,1
+0022200028,487,4,0,3,7:49 PM,1:41,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200028,489,2,6,3,7:50 PM,1:33,MISS Embiid 3' Driving Layup,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,490,4,0,3,7:50 PM,1:30,,,Collins REBOUND (Off:0 Def:2),,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,492,1,1,3,7:50 PM,1:24,,,McDermott 27' 3PT Jump Shot (3 PTS),80 - 70,-10,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,493,6,1,3,7:50 PM,1:15,,,Richardson P.FOUL (P1.T3) (E.Scott),,,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200028,495,1,1,3,7:51 PM,1:07,Niang 26' 3PT Jump Shot (8 PTS) (Melton 1 AST),,,80 - 73,-7,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200028,497,1,79,3,7:51 PM,0:51,,,McDermott 28' 3PT Pullup Jump Shot (6 PTS) (Collins 1 AST),83 - 73,-10,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200028,499,1,79,3,7:51 PM,0:40,Embiid 17' Pullup Jump Shot (24 PTS),,,83 - 75,-8,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,500,1,80,3,7:52 PM,0:24,,,Richardson 17' Step Back Jump Shot (11 PTS),85 - 75,-10,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,501,1,6,3,7:52 PM,0:02,Embiid 1' Driving Layup (26 PTS) (Maxey 5 AST),,,85 - 77,-8,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200028,503,2,2,3,7:52 PM,0:00,,,MISS Primo 38' 3PT Running Jump Shot,,,5,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,504,4,0,3,7:52 PM,0:00,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200028,505,13,0,3,7:52 PM,0:00,,End of 3rd Period (7:52 PM EST),,85 - 77,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200028,512,12,0,4,7:55 PM,12:00,,Start of 4th Period (7:55 PM EST),,85 - 77,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200028,513,2,101,4,7:55 PM,11:48,,,MISS McDermott 15' Driving Floating Jump Shot,,,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,514,4,0,4,7:55 PM,11:46,,,Collins REBOUND (Off:1 Def:2),,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,686,5,2,4,7:55 PM,11:40,Melton STEAL (1 STL),,Jones Lost Ball Turnover (P3.T11),,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200028,518,2,98,4,7:56 PM,11:24,MISS Embiid 3' Cutting Layup Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,519,4,0,4,7:56 PM,11:21,House Jr. REBOUND (Off:2 Def:0),,,,,4,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,520,1,1,4,7:56 PM,11:20,Harden 27' 3PT Jump Shot (12 PTS) (House Jr. 1 AST),,,85 - 80,-5,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,4,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200028,522,6,1,4,7:56 PM,11:06,Melton P.FOUL (P2.T1) (T.Maddox),,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022200028,524,2,101,4,7:56 PM,10:58,,,MISS Jones 16' Driving Floating Jump Shot,,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,525,4,0,4,7:56 PM,10:55,Embiid REBOUND (Off:1 Def:8),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,526,1,1,4,7:57 PM,10:40,Embiid 18' Jump Shot (28 PTS) (Harden 9 AST),,,85 - 82,-3,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200028,528,5,1,4,7:57 PM,10:20,Melton STEAL (2 STL),,Collins Bad Pass Turnover (P1.T12),,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200028,530,2,101,4,7:57 PM,10:01,MISS Harden 9' Driving Floating Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,531,4,0,4,7:57 PM,9:58,Embiid REBOUND (Off:2 Def:8),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,532,2,66,4,7:57 PM,9:56,MISS Embiid 4' Jump Bank Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,533,4,0,4,7:57 PM,9:54,,,McDermott REBOUND (Off:0 Def:3),,,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,534,2,1,4,7:58 PM,9:42,,,MISS Richardson 3PT Jump Shot,,,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,535,4,0,4,7:58 PM,9:39,Embiid REBOUND (Off:2 Def:9),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,536,6,2,4,7:58 PM,9:21,,,Richardson S.FOUL (P2.T1) (K.Lane),,,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200028,538,3,11,4,7:59 PM,9:21,Embiid Free Throw 1 of 2 (29 PTS),,,85 - 83,-2,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,539,8,0,4,7:59 PM,9:21,,,SUB: Roby FOR Richardson,,,5,1626196,Josh Richardson,1610612759.0,San Antonio,Spurs,SAS,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200028,540,8,0,4,7:59 PM,9:21,,,SUB: Poeltl FOR Collins,,,5,1628380,Zach Collins,1610612759.0,San Antonio,Spurs,SAS,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200028,543,3,12,4,7:59 PM,9:21,Embiid Free Throw 2 of 2 (30 PTS),,,85 - 84,-1,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,544,2,57,4,7:59 PM,9:00,,,MISS Poeltl 8' Driving Hook Shot,,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,545,4,0,4,7:59 PM,8:56,Embiid REBOUND (Off:2 Def:10),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,546,1,108,4,8:00 PM,8:45,Embiid 2' Cutting Dunk Shot (32 PTS) (Harden 10 AST),,,85 - 86,1,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200028,548,9,1,4,8:00 PM,8:45,,,Spurs Timeout: Regular (Reg.5 Short 0),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200028,549,1,63,4,8:03 PM,8:21,,,Vassell 16' Fadeaway Jumper (22 PTS),87 - 86,-1,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,550,1,108,4,8:03 PM,8:04,Embiid 1' Cutting Dunk Shot (34 PTS) (Harden 11 AST),,,87 - 88,1,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200028,552,1,1,4,8:03 PM,7:56,,,McDermott 26' 3PT Jump Shot (9 PTS) (Jones 2 AST),90 - 88,-2,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200028,554,2,1,4,8:04 PM,7:36,MISS Embiid 3PT Jump Shot,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,555,4,0,4,8:04 PM,7:33,,,Vassell REBOUND (Off:0 Def:3),,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,556,6,1,4,8:04 PM,7:27,House Jr. P.FOUL (P1.T2) (T.Maddox),,,,,4,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022200028,558,8,0,4,8:04 PM,7:27,,,SUB: Johnson FOR Vassell,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200028,561,8,0,4,8:04 PM,7:27,SUB: Harrell FOR Embiid,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200028,566,8,0,4,8:04 PM,7:27,SUB: Maxey FOR Melton,,,,,4,1629001,De'Anthony Melton,1610612755.0,Philadelphia,76ers,PHI,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200028,564,1,98,4,8:05 PM,7:20,,,McDermott Cutting Layup Shot (11 PTS) (Roby 1 AST),92 - 88,-4,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200028,567,1,76,4,8:05 PM,7:14,Maxey 1' Running Finger Roll Layup (16 PTS) (Harden 12 AST),,,92 - 90,-2,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200028,569,1,1,4,8:05 PM,7:05,,,McDermott 27' 3PT Jump Shot (14 PTS) (Jones 3 AST),95 - 90,-5,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200028,572,7,5,4,8:06 PM,6:43,,,Roby Violation:Kicked Ball (T.Maddox),,,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,0
+0022200028,573,8,0,4,8:06 PM,6:43,SUB: Harris FOR Niang,,,,,4,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200028,575,2,6,4,8:06 PM,6:33,MISS Maxey 1' Driving Layup,,Poeltl BLOCK (1 BLK),,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,1
+0022200028,577,4,0,4,8:06 PM,6:28,Harrell REBOUND (Off:2 Def:0),,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,578,2,1,4,8:06 PM,6:25,MISS Harris 26' 3PT Jump Shot,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,579,4,0,4,8:06 PM,6:23,,,Poeltl REBOUND (Off:2 Def:4),,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,580,1,71,4,8:06 PM,6:15,,,Poeltl 1' Finger Roll Layup (7 PTS) (Roby 2 AST),97 - 90,-7,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200028,582,9,1,4,8:06 PM,6:14,76ERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200028,583,8,0,4,8:09 PM,6:14,SUB: Embiid FOR Harrell,,,,,4,1626149,Montrezl Harrell,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200028,584,8,0,4,8:09 PM,6:14,SUB: Tucker FOR House Jr.,,,,,4,1627863,Danuel House Jr.,1610612755.0,Philadelphia,76ers,PHI,4,200782,P.J. Tucker,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0022200028,587,5,39,4,8:10 PM,5:58,Maxey Step Out of Bounds Turnover (P3.T11),,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200028,588,1,79,4,8:10 PM,5:34,,,Jones 18' Pullup Jump Shot (9 PTS),99 - 90,-9,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,589,2,1,4,8:10 PM,5:19,MISS Harris 27' 3PT Jump Shot,,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,590,4,0,4,8:10 PM,5:15,,,Poeltl REBOUND (Off:2 Def:5),,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,591,2,41,4,8:10 PM,5:10,,,MISS Jones 1' Running Layup,,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,592,4,0,4,8:11 PM,5:06,,,Poeltl REBOUND (Off:3 Def:5),,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,593,1,72,4,8:11 PM,5:06,,,Poeltl Putback Layup (9 PTS),101 - 90,-11,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,594,2,101,4,8:11 PM,4:54,MISS Harden 12' Driving Floating Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,595,4,0,4,8:11 PM,4:51,Harden REBOUND (Off:4 Def:5),,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,596,6,26,4,8:11 PM,4:50,Harris Offensive Charge Foul (P1) (T.Maddox),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022200028,598,5,37,4,8:11 PM,4:50,Harris Offensive Foul Turnover (P1.T12),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200028,599,8,0,4,8:11 PM,4:50,,,SUB: Primo FOR Roby,,,5,1629676,Isaiah Roby,1610612759.0,San Antonio,Spurs,SAS,5,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200028,600,8,0,4,8:11 PM,4:50,,,SUB: Vassell FOR Jones,,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200028,603,6,2,4,8:11 PM,4:42,Maxey S.FOUL (P3.T3) (E.Scott),,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022200028,605,3,11,4,8:12 PM,4:42,,,Johnson Free Throw 1 of 2 (21 PTS),102 - 90,-12,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,606,3,12,4,8:12 PM,4:42,,,MISS Johnson Free Throw 2 of 2,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,607,4,0,4,8:12 PM,4:40,,,Poeltl REBOUND (Off:4 Def:5),,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,608,2,79,4,8:12 PM,4:37,,,MISS McDermott 18' Pullup Jump Shot,,,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,609,4,0,4,8:12 PM,4:33,,,Poeltl REBOUND (Off:5 Def:5),,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,610,5,45,4,8:12 PM,4:22,,,Vassell Out of Bounds - Bad Pass Turnover Turnover (P1.T13),,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,1
+0022200028,611,1,6,4,8:13 PM,4:04,Embiid 1' Driving Layup (36 PTS) (Harris 2 AST),,,102 - 92,-10,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200028,615,2,1,4,8:13 PM,3:41,,,MISS Vassell 26' 3PT Jump Shot,,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,616,4,0,4,8:13 PM,3:41,,,Poeltl REBOUND (Off:6 Def:5),,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,617,1,72,4,8:13 PM,3:41,,,Poeltl Putback Layup (11 PTS),104 - 92,-12,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,618,9,1,4,8:13 PM,3:41,,,Spurs Timeout: Regular (Reg.6 Short 0),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200028,619,8,0,4,8:14 PM,3:41,,,SUB: Jones FOR McDermott,,,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200028,622,6,2,4,8:15 PM,3:18,,,Johnson S.FOUL (P1.T2) (E.Scott),,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200028,624,3,11,4,8:16 PM,3:18,Maxey Free Throw 1 of 2 (17 PTS),,,104 - 93,-11,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,625,8,0,4,8:16 PM,3:18,,,SUB: McDermott FOR Primo,,,5,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200028,627,3,12,4,8:16 PM,3:18,Maxey Free Throw 2 of 2 (18 PTS),,,104 - 94,-10,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,628,2,75,4,8:16 PM,3:00,Embiid BLOCK (2 BLK),,MISS McDermott 1' Driving Finger Roll Layup,,,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1
+0022200028,630,4,0,4,8:16 PM,3:00,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200028,632,7,5,4,8:17 PM,2:51,,,Poeltl Violation:Kicked Ball (E.Scott),,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,0
+0022200028,633,8,0,4,8:17 PM,2:51,,,SUB: Primo FOR McDermott,,,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,5,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200028,635,2,1,4,8:17 PM,2:48,MISS Harden 27' 3PT Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,636,4,0,4,8:17 PM,2:46,Embiid REBOUND (Off:3 Def:10),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,637,1,75,4,8:17 PM,2:39,Maxey 1' Driving Finger Roll Layup (20 PTS) (Embiid 2 AST),,,104 - 96,-8,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200028,639,6,2,4,8:17 PM,2:39,,,Primo S.FOUL (P1.T3) (K.Lane),,,5,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200028,641,8,0,4,8:17 PM,2:39,,,SUB: McDermott FOR Primo,,,5,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200028,643,3,10,4,8:18 PM,2:39,MISS Maxey Free Throw 1 of 1,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,644,4,0,4,8:18 PM,2:37,,,Johnson REBOUND (Off:1 Def:6),,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,645,2,93,4,8:18 PM,2:24,,,MISS Johnson 3' Driving Bank Hook Shot,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,646,4,0,4,8:18 PM,2:21,,,Poeltl REBOUND (Off:7 Def:5),,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,647,5,39,4,8:18 PM,2:21,,,Jones Step Out of Bounds Turnover (P4.T14),,,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,1
+0022200028,648,6,2,4,8:18 PM,2:12,,,Poeltl S.FOUL (P5.T4) (E.Scott),,,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200028,650,3,11,4,8:19 PM,2:12,Embiid Free Throw 1 of 2 (37 PTS),,,104 - 97,-7,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,651,3,12,4,8:19 PM,2:12,Embiid Free Throw 2 of 2 (38 PTS),,,104 - 98,-6,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,652,1,75,4,8:20 PM,2:00,,,Poeltl 1' Driving Finger Roll Layup (13 PTS) (Jones 4 AST),106 - 98,-8,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200028,654,1,75,4,8:20 PM,1:50,Maxey 1' Driving Finger Roll Layup (22 PTS),,,106 - 100,-6,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,655,1,102,4,8:20 PM,1:34,,,Jones 5' Driving Floating Bank Jump Shot (11 PTS) (Poeltl 2 AST),108 - 100,-8,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200028,657,1,9,4,8:20 PM,1:25,Maxey 1' Driving Dunk (24 PTS) (Embiid 3 AST),,,108 - 102,-6,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200028,659,1,75,4,8:21 PM,1:10,,,Jones 1' Driving Finger Roll Layup (13 PTS) (Poeltl 3 AST),110 - 102,-8,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,5,1627751,Jakob Poeltl,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1
+0022200028,661,7,2,4,8:21 PM,1:10,Embiid Violation:Defensive Goaltending (E.Scott),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0022200028,662,8,0,4,8:22 PM,1:10,,,SUB: Primo FOR McDermott,,,5,203926,Doug McDermott,1610612759.0,San Antonio,Spurs,SAS,5,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0022200028,664,9,1,4,8:22 PM,1:10,76ERS Timeout: Regular (Full 5 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200028,665,2,1,4,8:23 PM,1:01,MISS Harden 26' 3PT Jump Shot,,,,,4,201935,James Harden,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,666,4,0,4,8:23 PM,0:57,,,Vassell REBOUND (Off:0 Def:4),,,5,1630170,Devin Vassell,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,667,2,1,4,8:23 PM,0:42,,,MISS Johnson 25' 3PT Jump Shot,,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,668,4,0,4,8:23 PM,0:38,,,Johnson REBOUND (Off:2 Def:6),,,5,1629640,Keldon Johnson,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,669,6,2,4,8:23 PM,0:29,Embiid S.FOUL (P2.T4) (K.Lane),,,,,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022200028,671,3,11,4,8:24 PM,0:29,,,Jones Free Throw 1 of 2 (14 PTS),111 - 102,-9,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,672,3,12,4,8:24 PM,0:29,,,Jones Free Throw 2 of 2 (15 PTS),112 - 102,-10,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,673,1,5,4,8:24 PM,0:21,Embiid 2' Layup (40 PTS) (Maxey 6 AST),,,112 - 104,-8,4,203954,Joel Embiid,1610612755.0,Philadelphia,76ers,PHI,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0022200028,675,6,28,4,8:24 PM,0:12,Harris Personal Take Foul (P2.PN) (T.Maddox),,,,,4,202699,Tobias Harris,1610612755.0,Philadelphia,76ers,PHI,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,1
+0022200028,677,3,11,4,8:25 PM,0:12,,,Jones Free Throw 1 of 2 (16 PTS),113 - 104,-9,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,678,3,12,4,8:25 PM,0:12,,,Jones Free Throw 2 of 2 (17 PTS),114 - 104,-10,5,1630200,Tre Jones,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,1
+0022200028,679,6,2,4,8:25 PM,0:08,,,Primo S.FOUL (P2.PN) (E.Scott),,,5,1630563,Joshua Primo,1610612759.0,San Antonio,Spurs,SAS,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0022200028,681,3,11,4,8:25 PM,0:08,MISS Maxey Free Throw 1 of 2,,,,,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,682,4,1,4,8:25 PM,0:08,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200028,683,3,12,4,8:26 PM,0:08,Maxey Free Throw 2 of 2 (25 PTS),,,114 - 105,-9,4,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0022200028,684,13,0,4,8:26 PM,0:00,,End of 4th Period (8:26 PM EST),,114 - 105,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

@@ -1,0 +1,457 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200407,2,12,0,1,10:12 PM,12:00,,Start of 1st Period (10:12 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200407,4,10,0,1,10:12 PM,12:00,Jump Ball Nurkic vs. Gobert: Tip to Lillard,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,1
+0022200407,7,6,2,1,10:12 PM,11:44,,,Gobert S.FOUL (P1.T1) (L.Wood),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200407,9,3,11,1,10:13 PM,11:44,Grant Free Throw 1 of 2 (1 PTS),,,0 - 1,1,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,10,3,12,1,10:13 PM,11:44,Grant Free Throw 2 of 2 (2 PTS),,,0 - 2,2,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,11,1,80,1,10:13 PM,11:30,,,Russell 18' Step Back Jump Shot (2 PTS),2 - 2,TIE,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,12,1,75,1,10:14 PM,11:13,Grant 1' Driving Finger Roll Layup (4 PTS) (Lillard 1 AST),,,2 - 4,2,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200407,14,1,102,1,10:14 PM,10:51,,,Russell 4' Driving Floating Bank Jump Shot (4 PTS) (Edwards 1 AST),4 - 4,TIE,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200407,17,7,5,1,10:14 PM,10:32,,,Gobert Violation:Kicked Ball (L.Wood),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,0
+0022200407,18,2,1,1,10:15 PM,10:28,MISS Nurkic 25' 3PT Jump Shot,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,19,4,0,1,10:15 PM,10:25,,,Gobert REBOUND (Off:0 Def:1),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,20,2,103,1,10:15 PM,10:20,,,MISS Russell 25' 3PT Running Pull-Up Jump Shot,,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,21,4,0,1,10:15 PM,10:18,Nurkic REBOUND (Off:0 Def:1),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,22,1,75,1,10:15 PM,10:05,Nurkic Driving Finger Roll Layup (2 PTS),,,4 - 6,2,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,23,6,1,1,10:15 PM,9:51,Hart P.FOUL (P1.T1) (J.Goble),,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200407,25,2,79,1,10:16 PM,9:45,,,MISS Edwards 18' Pullup Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,26,4,0,1,10:16 PM,9:43,,,Gobert REBOUND (Off:1 Def:1),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,27,2,86,1,10:16 PM,9:41,,,MISS Gobert 19' Turnaround Fadeaway Shot,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,28,4,0,1,10:16 PM,9:39,Nurkic REBOUND (Off:0 Def:2),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,29,1,86,1,10:16 PM,9:29,Simons 13' Turnaround Fadeaway (2 PTS) (Nurkic 1 AST),,,4 - 8,4,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200407,31,1,108,1,10:16 PM,9:11,,,Gobert 2' Cutting Dunk Shot (2 PTS) (Anderson 1 AST),6 - 8,2,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200407,33,1,80,1,10:16 PM,9:05,Simons 27' 3PT Step Back Jump Shot (5 PTS),,,6 - 11,5,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,34,2,6,1,10:17 PM,8:53,,,MISS Russell 1' Driving Layup,,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,35,4,0,1,10:17 PM,8:52,Nurkic REBOUND (Off:0 Def:3),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,36,5,2,1,10:17 PM,8:47,Simons Lost Ball Turnover (P1.T1),,Anderson STEAL (1 STL),,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200407,38,1,6,1,10:17 PM,8:40,,,McDaniels 1' Driving Layup (2 PTS),8 - 11,3,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,39,6,1,1,10:17 PM,8:26,,,Anderson P.FOUL (P1.T2) (J.Goble),,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200407,41,1,1,1,10:18 PM,8:19,Hart 25' 3PT Jump Shot (3 PTS) (Nurkic 2 AST),,,8 - 14,6,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200407,43,1,1,1,10:18 PM,7:56,,,Edwards 3PT Jump Shot (3 PTS) (Gobert 1 AST),11 - 14,3,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200407,45,2,101,1,10:18 PM,7:33,MISS Simons 12' Driving Floating Jump Shot,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,46,4,0,1,10:18 PM,7:31,,,Gobert REBOUND (Off:1 Def:2),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,47,2,6,1,10:18 PM,7:22,,,MISS Edwards 3' Driving Layup,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,48,4,0,1,10:19 PM,7:21,Simons REBOUND (Off:0 Def:1),,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,49,2,1,1,10:19 PM,7:10,MISS Nurkic 26' 3PT Jump Shot,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,50,4,0,1,10:19 PM,7:09,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200407,52,6,2,1,10:19 PM,7:02,,,Anderson S.FOUL (P2.T3) (S.Foster),,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200407,54,3,11,1,10:20 PM,7:02,MISS Nurkic Free Throw 1 of 2,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,55,4,1,1,10:20 PM,7:02,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200407,56,3,12,1,10:20 PM,7:02,MISS Nurkic Free Throw 2 of 2,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,57,4,0,1,10:20 PM,6:59,,,Gobert REBOUND (Off:1 Def:3),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,58,2,79,1,10:20 PM,6:49,,,MISS Russell 20' Pullup Jump Shot,,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,59,4,0,1,10:20 PM,6:45,Nurkic REBOUND (Off:0 Def:4),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,60,2,58,1,10:21 PM,6:37,MISS Nurkic 2' Turnaround Hook Shot,,Russell BLOCK (1 BLK),,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,1
+0022200407,62,4,0,1,10:21 PM,6:37,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200407,64,9,1,1,10:21 PM,6:37,TRAIL BLAZERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200407,65,8,0,1,10:22 PM,6:37,SUB: Winslow FOR Nurkic,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200407,66,8,0,1,10:22 PM,6:37,SUB: Eubanks FOR Simons,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200407,67,8,0,1,10:22 PM,6:37,,,SUB: Rivers FOR Anderson,,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,5,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200407,71,2,57,1,10:24 PM,6:16,,,MISS Rivers 8' Driving Hook Shot,,,5,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0022200407,72,4,0,1,10:24 PM,6:15,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200407,73,6,3,1,10:24 PM,6:15,,,Edwards L.B.FOUL (P1.T4) (L.Wood),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200407,75,1,1,1,10:25 PM,6:03,Lillard 29' 3PT Jump Shot (3 PTS) (Winslow 1 AST),,,11 - 17,6,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200407,77,2,6,1,10:25 PM,5:51,,,MISS Edwards 2' Driving Layup,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,78,4,0,1,10:25 PM,5:50,,,Gobert REBOUND (Off:2 Def:3),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,79,2,97,1,10:25 PM,5:50,,,MISS Gobert Tip Layup Shot,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,80,4,0,1,10:25 PM,5:50,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200407,81,5,4,1,10:25 PM,5:50,,,Gobert Traveling Turnover (P1.T1),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022200407,82,2,73,1,10:25 PM,5:29,MISS Lillard 3' Driving Reverse Layup,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,83,4,0,1,10:25 PM,5:28,,,Gobert REBOUND (Off:2 Def:4),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,84,1,43,1,10:25 PM,5:18,,,Gobert 1' Alley Oop Layup (4 PTS) (Edwards 2 AST),13 - 17,4,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200407,87,1,98,1,10:26 PM,5:02,Winslow 3' Cutting Layup Shot (2 PTS) (Lillard 2 AST),,,13 - 19,6,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200407,89,1,52,1,10:26 PM,4:51,,,Gobert 2' Alley Oop Dunk (6 PTS) (Russell 1 AST),15 - 19,4,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200407,91,5,1,1,10:26 PM,4:38,Eubanks Bad Pass Turnover (P1.T2),,Edwards STEAL (1 STL),,,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200407,93,6,1,1,10:26 PM,4:33,Eubanks P.FOUL (P1.T2) (S.Foster),,,,,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200407,95,8,0,1,10:27 PM,4:33,SUB: Sharpe FOR Hart,,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200407,96,8,0,1,10:27 PM,4:33,,,SUB: Reid FOR Gobert,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200407,99,1,1,1,10:27 PM,4:22,,,Rivers 3PT Jump Shot (3 PTS) (McDaniels 1 AST),18 - 19,1,5,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200407,101,6,2,1,10:27 PM,4:11,,,Reid S.FOUL (P1.PN) (S.Foster),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200407,103,3,13,1,10:28 PM,4:11,Grant Free Throw 1 of 3 (5 PTS),,,18 - 20,2,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,104,3,14,1,10:28 PM,4:11,Grant Free Throw 2 of 3 (6 PTS),,,18 - 21,3,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,105,8,0,1,10:28 PM,4:11,,,SUB: Nowell FOR Russell,,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200407,107,3,15,1,10:28 PM,4:11,Grant Free Throw 3 of 3 (7 PTS),,,18 - 22,4,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,108,2,73,1,10:28 PM,4:01,,,MISS Edwards 1' Driving Reverse Layup,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,109,4,0,1,10:28 PM,3:59,Winslow REBOUND (Off:0 Def:1),,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,110,1,103,1,10:29 PM,3:55,Lillard 25' 3PT Running Pull-Up Jump Shot (6 PTS) (Winslow 2 AST),,,18 - 25,7,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200407,112,1,93,1,10:29 PM,3:45,,,Reid 5' Driving Bank Hook Shot (2 PTS) (Rivers 1 AST),20 - 25,5,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200407,113,2,101,1,10:29 PM,3:19,MISS Sharpe 9' Driving Floating Jump Shot,,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,114,4,0,1,10:29 PM,3:18,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200407,116,8,0,1,10:29 PM,3:18,,,SUB: Anderson FOR McDaniels,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200407,118,6,6,1,10:30 PM,3:18,,,Rivers AWAY.FROM.PLAY.FOUL (P1.PN) (L.Wood),,,5,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200407,120,3,10,1,10:30 PM,3:18,Lillard Free Throw 1 of 1 (7 PTS),,,20 - 26,6,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,121,8,0,1,10:30 PM,3:18,SUB: Watford FOR Grant,,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,4,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200407,123,1,1,1,10:30 PM,3:15,Lillard 25' 3PT Jump Shot (10 PTS) (Winslow 3 AST),,,20 - 29,9,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200407,125,2,80,1,10:31 PM,2:50,,,MISS Edwards 23' Step Back Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,126,4,0,1,10:31 PM,2:47,Sharpe REBOUND (Off:0 Def:1),,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,127,5,1,1,10:31 PM,2:39,Lillard Bad Pass Turnover (P1.T3),,Rivers STEAL (1 STL),,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,5,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200407,129,6,2,1,10:31 PM,2:35,Watford S.FOUL (P1.T3) (L.Wood),,,,,4,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200407,131,9,1,1,10:31 PM,2:35,,,Timberwolves Timeout: Regular (Reg.1 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200407,132,8,0,1,10:32 PM,2:35,SUB: Simons FOR Lillard,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200407,134,3,11,1,10:34 PM,2:35,,,MISS Edwards Free Throw 1 of 2,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,135,4,1,1,10:34 PM,2:35,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200407,136,3,12,1,10:34 PM,2:35,,,MISS Edwards Free Throw 2 of 2,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,137,4,0,1,10:34 PM,2:33,Watford REBOUND (Off:0 Def:1),,,,,4,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,138,6,2,1,10:35 PM,2:21,,,Rivers S.FOUL (P2.PN) (J.Goble),,,5,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,4,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200407,140,3,11,1,10:35 PM,2:21,Watford Free Throw 1 of 2 (1 PTS),,,20 - 30,10,4,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,143,3,12,1,10:35 PM,2:21,MISS Watford Free Throw 2 of 2,,,,,4,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,144,4,0,1,10:35 PM,2:21,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200407,141,8,0,1,10:35 PM,2:20,,,SUB: Gobert FOR Edwards,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200407,145,6,3,1,10:36 PM,2:20,Eubanks L.B.FOUL (P2.T4) (S.Foster),,,,,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200407,147,2,79,1,10:36 PM,1:59,,,MISS Nowell 27' 3PT Pullup Jump Shot,,,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,149,1,97,1,10:36 PM,1:55,,,Gobert Tip Layup Shot (8 PTS),22 - 30,8,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,148,4,0,1,10:36 PM,1:55,,,Gobert REBOUND (Off:3 Def:4),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,150,2,102,1,10:36 PM,1:35,MISS Winslow 5' Driving Floating Bank Jump Shot,,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,151,4,0,1,10:37 PM,1:33,Winslow REBOUND (Off:1 Def:1),,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,152,2,101,1,10:37 PM,1:30,MISS Watford 13' Driving Floating Jump Shot,,,,,4,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,153,4,0,1,10:37 PM,1:25,Sharpe REBOUND (Off:1 Def:1),,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,154,1,107,1,10:37 PM,1:25,Sharpe Tip Dunk Shot (2 PTS),,,22 - 32,10,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,155,2,101,1,10:37 PM,1:12,Watford BLOCK (1 BLK),,MISS Anderson 20' Driving Floating Jump Shot,,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,1
+0022200407,157,4,0,1,10:37 PM,1:10,Watford REBOUND (Off:0 Def:2),,,,,4,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,158,6,2,1,10:37 PM,1:08,,,Rivers S.FOUL (P3.PN) (S.Foster),,,5,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,4,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200407,160,3,11,1,10:38 PM,1:08,Watford Free Throw 1 of 2 (2 PTS),,,22 - 33,11,4,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,163,3,12,1,10:38 PM,1:08,MISS Watford Free Throw 2 of 2,,,,,4,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,161,8,0,1,10:38 PM,1:08,,,SUB: Forbes FOR Rivers,,,5,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,5,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200407,164,4,0,1,10:38 PM,1:05,,,Reid REBOUND (Off:0 Def:1),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,165,1,1,1,10:38 PM,0:48,,,Anderson 24' 3PT Jump Shot (3 PTS) (Reid 1 AST),25 - 33,8,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200407,167,2,79,1,10:38 PM,0:34,MISS Simons 17' Pullup Jump Shot,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,168,4,0,1,10:38 PM,0:32,,,Reid REBOUND (Off:0 Def:2),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,169,1,6,1,10:39 PM,0:25,,,Reid 1' Driving Layup (4 PTS) (Anderson 2 AST),27 - 33,6,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200407,171,2,1,1,10:39 PM,0:02,MISS Winslow 3PT Jump Shot,,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,172,4,0,1,10:39 PM,0:02,,,Gobert REBOUND (Off:3 Def:5),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,173,13,0,1,10:39 PM,0:00,,End of 1st Period (10:39 PM EST),,27 - 33,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200407,179,12,0,2,10:42 PM,12:00,,Start of 2nd Period (10:42 PM EST),,27 - 33,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200407,180,2,79,2,10:42 PM,11:46,Grant BLOCK (1 BLK),,MISS Forbes 25' 3PT Pullup Jump Shot,,,5,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,1
+0022200407,182,4,0,2,10:42 PM,11:44,Simons REBOUND (Off:0 Def:2),,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,183,2,1,2,10:42 PM,11:37,MISS Sharpe 24' 3PT Jump Shot,,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,184,4,0,2,10:42 PM,11:34,,,Gobert REBOUND (Off:3 Def:6),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,185,6,1,2,10:42 PM,11:29,Winslow P.FOUL (P1.T1) (L.Wood),,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200407,187,5,45,2,10:43 PM,11:20,,,Anderson Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022200407,188,6,4,2,10:43 PM,11:08,Nurkic OFF.Foul (P1) (S.Foster),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200407,190,5,37,2,10:43 PM,11:08,Nurkic Offensive Foul Turnover (P1.T4),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0022200407,191,1,6,2,10:43 PM,10:54,,,Nowell 2' Driving Layup (2 PTS),29 - 33,4,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,192,2,1,2,10:44 PM,10:39,MISS Grant 25' 3PT Jump Shot,,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,193,4,0,2,10:44 PM,10:35,,,Gobert REBOUND (Off:3 Def:7),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,194,2,79,2,10:44 PM,10:29,,,MISS Forbes 27' 3PT Pullup Jump Shot,,,5,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,195,4,0,2,10:44 PM,10:26,Nurkic REBOUND (Off:0 Def:5),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,196,1,96,2,10:44 PM,10:11,Nurkic 2' Turnaround Bank Hook Shot (4 PTS),,,29 - 35,6,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,197,2,79,2,10:44 PM,9:50,,,MISS Nowell 14' Pullup Jump Shot,,,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,198,4,0,2,10:45 PM,9:48,Nurkic REBOUND (Off:0 Def:6),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,199,1,79,2,10:45 PM,9:36,Grant 27' 3PT Pullup Jump Shot (10 PTS) (Nurkic 3 AST),,,29 - 38,9,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200407,200,2,102,2,10:45 PM,9:19,,,MISS Anderson 1' Driving Floating Bank Jump Shot,,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,201,4,0,2,10:45 PM,9:18,Nurkic REBOUND (Off:0 Def:7),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,202,2,2,2,10:45 PM,9:13,MISS Grant 27' 3PT Running Jump Shot,,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,203,4,0,2,10:45 PM,9:10,,,Gobert REBOUND (Off:3 Def:8),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,204,2,63,2,10:45 PM,9:03,,,MISS Nowell 14' Fadeaway Jumper,,,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,205,4,0,2,10:45 PM,9:01,Sharpe REBOUND (Off:1 Def:2),,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,206,2,80,2,10:46 PM,8:48,MISS Sharpe 29' 3PT Step Back Jump Shot,,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,207,4,0,2,10:46 PM,8:46,,,Nowell REBOUND (Off:0 Def:1),,,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,208,1,41,2,10:46 PM,8:44,,,Nowell 1' Running Layup (4 PTS),31 - 38,7,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,209,7,2,2,10:46 PM,8:44,Winslow Violation:Defensive Goaltending (S.Foster),,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0022200407,210,18,0,2,10:46 PM,8:44,,Instant Replay2nd Period (10:46 PM EST),,31 - 38,7,0,208,Sam Cassell,,,,,0,0,,,,,,1,0,,,,,,0
+0022200407,212,5,45,2,10:48 PM,8:31,Winslow Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0022200407,213,8,0,2,10:48 PM,8:31,SUB: Lillard FOR Sharpe,,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200407,214,8,0,2,10:48 PM,8:31,SUB: Hart FOR Grant,,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200407,215,8,0,2,10:48 PM,8:31,,,SUB: Russell FOR Nowell,,,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200407,216,8,0,2,10:48 PM,8:31,,,SUB: Edwards FOR Reid,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200407,221,1,79,2,10:49 PM,8:22,,,Russell 19' Pullup Jump Shot (6 PTS),33 - 38,5,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,222,6,2,2,10:49 PM,8:22,Winslow S.FOUL (P2.T2) (S.Foster),,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200407,224,8,0,2,10:49 PM,8:22,,,SUB: McDaniels FOR Anderson,,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200407,226,3,10,2,10:49 PM,8:22,,,MISS Russell Free Throw 1 of 1,,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,227,4,0,2,10:49 PM,8:20,Simons REBOUND (Off:0 Def:3),,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,228,2,79,2,10:50 PM,8:06,MISS Simons 26' 3PT Pullup Jump Shot,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,229,4,0,2,10:50 PM,8:04,,,Gobert REBOUND (Off:3 Def:9),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,230,5,2,2,10:50 PM,7:53,Winslow STEAL (1 STL),,Russell Lost Ball Turnover (P1.T3),,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200407,232,1,2,2,10:50 PM,7:49,Lillard 26' 3PT Running Jump Shot (13 PTS) (Winslow 4 AST),,,33 - 41,8,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200407,234,1,101,2,10:50 PM,7:31,,,Forbes 7' Driving Floating Jump Shot (2 PTS) (Edwards 3 AST),35 - 41,6,5,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200407,236,2,79,2,10:50 PM,7:19,MISS Lillard 28' 3PT Pullup Jump Shot,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,237,4,0,2,10:50 PM,7:18,Nurkic REBOUND (Off:1 Def:7),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,238,1,72,2,10:50 PM,7:16,Nurkic 1' Putback Layup (6 PTS),,,35 - 43,8,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,239,1,80,2,10:51 PM,7:00,,,Russell 14' Step Back Jump Shot (8 PTS),37 - 43,6,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,240,1,57,2,10:51 PM,6:36,Simons 6' Driving Hook Shot (7 PTS),,,37 - 45,8,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,241,1,63,2,10:51 PM,6:21,,,Russell 16' Fadeaway Jumper (10 PTS),39 - 45,6,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,242,1,79,2,10:52 PM,6:05,Simons 19' Pullup Jump Shot (9 PTS),,,39 - 47,8,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,243,1,63,2,10:52 PM,5:52,,,Russell 16' Fadeaway Jumper (12 PTS),41 - 47,6,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,244,1,99,2,10:52 PM,5:37,Nurkic 2' Cutting Finger Roll Layup Shot (8 PTS) (Simons 1 AST),,,41 - 49,8,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200407,246,6,2,2,10:52 PM,5:37,,,Edwards S.FOUL (P2.T1) (L.Wood),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200407,248,9,1,2,10:52 PM,5:37,TRAIL BLAZERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200407,249,8,0,2,10:54 PM,5:37,SUB: Grant FOR Simons,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200407,250,8,0,2,10:54 PM,5:37,,,SUB: Nowell FOR Forbes,,,5,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200407,251,8,0,2,10:54 PM,5:37,,,SUB: Reid FOR Gobert,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200407,255,3,10,2,10:55 PM,5:37,Nurkic Free Throw 1 of 1 (9 PTS),,,41 - 50,9,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,256,5,1,2,10:56 PM,5:26,,,Nowell Bad Pass Turnover (P1.T4),,,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,257,6,3,2,10:56 PM,5:26,,,Russell L.B.FOUL (P1.T2) (S.Foster),,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200407,259,9,1,2,10:56 PM,5:26,,,Timberwolves Timeout: Regular (Reg.2 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200407,260,8,0,2,10:58 PM,5:26,SUB: Eubanks FOR Nurkic,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200407,262,6,1,2,10:59 PM,5:20,,,McDaniels P.FOUL (P1.T3) (L.Wood),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200407,264,1,1,2,11:00 PM,5:08,Lillard 3PT Jump Shot (16 PTS) (Winslow 5 AST),,,41 - 53,12,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200407,266,1,6,2,11:00 PM,5:00,,,Nowell 2' Driving Layup (6 PTS) (Russell 2 AST),43 - 53,10,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200407,267,6,2,2,11:00 PM,5:00,Lillard S.FOUL (P1.T3) (L.Wood),,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200407,276,8,0,2,11:00 PM,5:00,SUB: Simons FOR Winslow,,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200407,271,3,10,2,11:01 PM,5:00,,,Nowell Free Throw 1 of 1 (7 PTS),44 - 53,9,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,272,1,1,2,11:01 PM,4:46,Lillard 3PT Jump Shot (19 PTS) (Simons 2 AST),,,44 - 56,12,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200407,274,1,80,2,11:01 PM,4:24,,,Nowell 22' Step Back Jump Shot (9 PTS),46 - 56,10,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,275,2,79,2,11:01 PM,4:14,MISS Simons 26' 3PT Pullup Jump Shot,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,277,4,0,2,11:01 PM,4:14,,,Russell REBOUND (Off:0 Def:1),,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,278,6,2,2,11:01 PM,4:11,Simons S.FOUL (P1.T4) (J.Goble),,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200407,280,3,11,2,11:02 PM,4:11,,,MISS Nowell Free Throw 1 of 2,,,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,281,4,1,2,11:02 PM,4:11,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200407,282,3,12,2,11:02 PM,4:11,,,MISS Nowell Free Throw 2 of 2,,,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,283,4,0,2,11:02 PM,4:09,Eubanks REBOUND (Off:0 Def:1),,,,,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,284,2,80,2,11:02 PM,3:59,MISS Lillard 21' Step Back Jump Shot,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,285,4,0,2,11:02 PM,3:55,,,Reid REBOUND (Off:0 Def:3),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,286,2,1,2,11:02 PM,3:49,,,MISS Nowell 28' 3PT Jump Shot,,,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,287,4,0,2,11:02 PM,3:46,Eubanks REBOUND (Off:0 Def:2),,,,,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,288,1,1,2,11:03 PM,3:36,Lillard 31' 3PT Jump Shot (22 PTS) (Eubanks 1 AST),,,46 - 59,13,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200407,290,6,26,2,11:03 PM,3:24,,,Reid Offensive Charge Foul (P2) (L.Wood),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200407,292,5,37,2,11:03 PM,3:24,,,Reid Offensive Foul Turnover (P1.T5),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022200407,293,8,0,2,11:03 PM,3:24,,,SUB: Gobert FOR Nowell,,,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200407,294,8,0,2,11:03 PM,3:24,,,SUB: Anderson FOR Reid,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200407,297,2,80,2,11:04 PM,3:08,MISS Lillard 25' 3PT Step Back Jump Shot,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,298,4,0,2,11:04 PM,3:06,,,Gobert REBOUND (Off:3 Def:10),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,299,7,5,2,11:04 PM,2:58,Eubanks Violation:Kicked Ball (S.Foster),,,,,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,0
+0022200407,300,1,1,2,11:04 PM,2:52,,,Russell 24' 3PT Jump Shot (15 PTS) (Anderson 3 AST),49 - 59,10,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200407,302,1,58,2,11:04 PM,2:29,Eubanks 6' Turnaround Hook Shot (2 PTS) (Lillard 3 AST),,,49 - 61,12,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200407,304,2,1,2,11:05 PM,2:17,,,MISS Russell 29' 3PT Jump Shot,,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,305,4,0,2,11:05 PM,2:14,Eubanks REBOUND (Off:0 Def:3),,,,,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,306,1,75,2,11:05 PM,2:06,Lillard Driving Finger Roll Layup (24 PTS),,,49 - 63,14,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,308,2,78,2,11:05 PM,1:44,Eubanks BLOCK (1 BLK),,MISS Gobert 4' Floating Jump Shot,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,1
+0022200407,310,4,0,2,11:05 PM,1:44,,,Gobert REBOUND (Off:4 Def:10),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,311,1,72,2,11:05 PM,1:41,,,Gobert 7' Putback Layup (10 PTS),51 - 63,12,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,312,1,98,2,11:05 PM,1:25,Eubanks 1' Cutting Layup Shot (4 PTS) (Simons 3 AST),,,51 - 65,14,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200407,314,1,6,2,11:06 PM,1:14,,,Edwards 1' Driving Layup (5 PTS) (Anderson 4 AST),53 - 65,12,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200407,316,1,108,2,11:06 PM,1:00,Eubanks 1' Cutting Dunk Shot (6 PTS) (Simons 4 AST),,,53 - 67,14,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200407,319,1,9,2,11:06 PM,0:51,,,Edwards 1' Driving Dunk (7 PTS),55 - 67,12,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,320,1,80,2,11:07 PM,0:33,Lillard 31' 3PT Step Back Jump Shot (27 PTS),,,55 - 70,15,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,321,1,78,2,11:07 PM,0:25,,,Anderson 7' Floating Jump Shot (5 PTS) (Russell 3 AST),57 - 70,13,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200407,323,2,78,2,11:07 PM,0:05,MISS Hart 9' Floating Jump Shot,,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,324,4,0,2,11:07 PM,0:03,,,Gobert REBOUND (Off:4 Def:11),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,325,6,1,2,11:07 PM,0:00,Grant P.FOUL (P1.PN) (L.Wood),,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200407,327,3,11,2,11:08 PM,0:00,,,Anderson Free Throw 1 of 2 (6 PTS),58 - 70,12,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,328,3,12,2,11:08 PM,0:00,,,Anderson Free Throw 2 of 2 (7 PTS),59 - 70,11,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,329,13,0,2,11:08 PM,0:00,,End of 2nd Period (11:08 PM EST),,59 - 70,11,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200407,332,12,0,3,11:24 PM,12:00,,Start of 3rd Period (11:24 PM EST),,59 - 70,11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200407,333,2,86,3,11:24 PM,11:47,,,MISS Edwards 11' Turnaround Fadeaway Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,335,4,0,3,11:24 PM,11:43,,,Gobert REBOUND (Off:5 Def:11),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,336,2,72,3,11:24 PM,11:42,,,MISS Gobert 2' Putback Layup,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,337,4,0,3,11:24 PM,11:42,Nurkic REBOUND (Off:1 Def:8),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,339,5,2,3,11:24 PM,11:25,Grant Lost Ball Turnover (P1.T6),,Anderson STEAL (2 STL),,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200407,341,2,6,3,11:25 PM,11:12,,,MISS Edwards 1' Driving Layup,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,342,4,0,3,11:25 PM,11:11,Hart REBOUND (Off:0 Def:1),,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,343,1,1,3,11:25 PM,11:01,Lillard 29' 3PT Jump Shot (30 PTS) (Nurkic 4 AST),,,59 - 73,14,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200407,345,1,6,3,11:25 PM,10:44,,,Gobert 1' Driving Layup (12 PTS) (Russell 4 AST),61 - 73,12,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200407,347,2,80,3,11:25 PM,10:19,MISS Lillard 27' 3PT Step Back Jump Shot,,McDaniels BLOCK (1 BLK),,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,1
+0022200407,349,4,0,3,11:26 PM,10:16,,,Gobert REBOUND (Off:5 Def:12),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,350,5,1,3,11:26 PM,10:11,Nurkic STEAL (1 STL),,Edwards Bad Pass Turnover (P1.T6),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200407,352,2,2,3,11:26 PM,10:06,MISS Simons 26' 3PT Running Jump Shot,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,353,4,0,3,11:26 PM,10:03,,,Gobert REBOUND (Off:5 Def:13),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,354,2,1,3,11:26 PM,9:54,,,MISS McDaniels 26' 3PT Jump Shot,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,355,4,0,3,11:26 PM,9:52,Lillard REBOUND (Off:0 Def:1),,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,356,6,2,3,11:26 PM,9:43,,,Gobert S.FOUL (P2.T1) (J.Goble),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200407,358,3,11,3,11:27 PM,9:43,Grant Free Throw 1 of 2 (11 PTS),,,61 - 74,13,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,359,3,12,3,11:27 PM,9:43,Grant Free Throw 2 of 2 (12 PTS),,,61 - 75,14,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,360,5,2,3,11:27 PM,9:27,Hart STEAL (1 STL),,Edwards Lost Ball Turnover (P2.T7),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200407,362,2,41,3,11:27 PM,9:24,MISS Hart 2' Running Layup,,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,363,4,0,3,11:27 PM,9:22,Nurkic REBOUND (Off:2 Def:8),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,364,6,2,3,11:27 PM,9:14,,,Gobert S.FOUL (P3.T2) (J.Goble),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200407,366,3,11,3,11:28 PM,9:14,Nurkic Free Throw 1 of 2 (10 PTS),,,61 - 76,15,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,367,3,12,3,11:28 PM,9:14,MISS Nurkic Free Throw 2 of 2,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,368,4,0,3,11:28 PM,9:12,,,Anderson REBOUND (Off:0 Def:1),,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,369,2,86,3,11:28 PM,8:54,,,MISS Anderson 10' Turnaround Fadeaway Shot,,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,370,4,0,3,11:28 PM,8:50,Hart REBOUND (Off:0 Def:2),,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,371,2,2,3,11:29 PM,8:45,MISS Simons 28' 3PT Running Jump Shot,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,372,4,0,3,11:29 PM,8:43,Grant REBOUND (Off:1 Def:0),,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,373,2,1,3,11:29 PM,8:41,MISS Hart 26' 3PT Jump Shot,,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,374,4,0,3,11:29 PM,8:41,,,Russell REBOUND (Off:0 Def:2),,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,375,1,52,3,11:29 PM,8:33,,,Gobert 1' Alley Oop Dunk (14 PTS) (Russell 5 AST),63 - 76,13,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200407,377,6,2,3,11:29 PM,8:33,Nurkic S.FOUL (P2.T1) (J.Goble),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200407,379,3,10,3,11:29 PM,8:33,,,MISS Gobert Free Throw 1 of 1,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,380,4,0,3,11:29 PM,8:31,Hart REBOUND (Off:0 Def:3),,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,381,6,4,3,11:29 PM,8:25,Grant OFF.Foul (P2) (L.Wood),,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200407,383,5,37,3,11:29 PM,8:25,Grant Offensive Foul Turnover (P2.T7),,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0022200407,384,2,1,3,11:30 PM,8:15,,,MISS Russell 25' 3PT Jump Shot,,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,385,4,0,3,11:30 PM,8:14,Nurkic REBOUND (Off:2 Def:9),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,386,1,50,3,11:30 PM,8:08,Grant 1' Running Dunk (14 PTS) (Hart 1 AST),,,63 - 78,15,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200407,388,9,1,3,11:30 PM,8:08,,,Timberwolves Timeout: Regular (Reg.3 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200407,389,2,78,3,11:33 PM,7:52,,,MISS Anderson 3' Floating Jump Shot,,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,390,4,0,3,11:33 PM,7:50,Nurkic REBOUND (Off:2 Def:10),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,391,5,1,3,11:33 PM,7:44,Hart Bad Pass Turnover (P1.T8),,McDaniels STEAL (1 STL),,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200407,393,6,2,3,11:33 PM,7:41,Nurkic S.FOUL (P3.T2) (S.Foster),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200407,395,3,11,3,11:34 PM,7:41,,,Edwards Free Throw 1 of 2 (8 PTS),64 - 78,14,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,396,3,12,3,11:34 PM,7:41,,,Edwards Free Throw 2 of 2 (9 PTS),65 - 78,13,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,397,6,1,3,11:34 PM,7:30,,,Anderson P.FOUL (P3.T3) (J.Goble),,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200407,399,6,2,3,11:35 PM,7:25,,,Edwards S.FOUL (P3.T4) (L.Wood),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200407,401,3,11,3,11:35 PM,7:25,Nurkic Free Throw 1 of 2 (11 PTS),,,65 - 79,14,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,402,3,12,3,11:35 PM,7:25,Nurkic Free Throw 2 of 2 (12 PTS),,,65 - 80,15,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,403,1,99,3,11:36 PM,7:03,,,Edwards 1' Cutting Finger Roll Layup Shot (11 PTS) (Gobert 2 AST),67 - 80,13,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200407,405,5,1,3,11:36 PM,6:49,Lillard Bad Pass Turnover (P2.T9),,Edwards STEAL (2 STL),,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200407,407,2,41,3,11:36 PM,6:43,,,MISS Russell 3' Running Layup,,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,408,4,0,3,11:36 PM,6:43,,,Edwards REBOUND (Off:1 Def:0),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,409,6,2,3,11:36 PM,6:43,Hart S.FOUL (P2.T3) (J.Goble),,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200407,411,3,11,3,11:37 PM,6:43,,,MISS Edwards Free Throw 1 of 2,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,412,4,1,3,11:37 PM,6:43,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200407,413,3,12,3,11:37 PM,6:43,,,MISS Edwards Free Throw 2 of 2,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,414,4,0,3,11:37 PM,6:41,Lillard REBOUND (Off:0 Def:2),,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,415,1,79,3,11:37 PM,6:29,Lillard 33' 3PT Pullup Jump Shot (33 PTS),,,67 - 83,16,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,416,1,80,3,11:38 PM,6:08,,,Russell 27' 3PT Step Back Jump Shot (18 PTS),70 - 83,13,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,418,6,1,3,11:38 PM,6:01,,,Gobert P.FOUL (P4.PN) (S.Foster),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200407,420,8,0,3,11:38 PM,6:01,,,SUB: Reid FOR Anderson,,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200407,421,8,0,3,11:38 PM,6:01,,,SUB: Rivers FOR Gobert,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200407,424,3,11,3,11:38 PM,6:01,Nurkic Free Throw 1 of 2 (13 PTS),,,70 - 84,14,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,425,3,12,3,11:39 PM,6:01,Nurkic Free Throw 2 of 2 (14 PTS),,,70 - 85,15,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,426,2,1,3,11:39 PM,5:55,,,MISS McDaniels 25' 3PT Jump Shot,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,427,4,0,3,11:39 PM,5:51,Nurkic REBOUND (Off:2 Def:11),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,428,1,79,3,11:39 PM,5:45,Lillard 34' 3PT Pullup Jump Shot (36 PTS),,,70 - 88,18,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,429,1,79,3,11:39 PM,5:28,,,Edwards 25' 3PT Pullup Jump Shot (14 PTS) (Russell 6 AST),73 - 88,15,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200407,431,2,1,3,11:39 PM,5:14,MISS Lillard 37' 3PT Jump Shot,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,432,4,0,3,11:40 PM,5:10,,,Reid REBOUND (Off:0 Def:4),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,433,1,1,3,11:40 PM,4:56,,,Edwards 3PT Jump Shot (17 PTS) (Russell 7 AST),76 - 88,12,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200407,435,5,1,3,11:40 PM,4:44,Lillard Bad Pass Turnover (P3.T10),,Russell STEAL (1 STL),,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200407,437,5,39,3,11:40 PM,4:44,,,Russell Step Out of Bounds Turnover (P2.T8),,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022200407,438,8,0,3,11:40 PM,4:44,,,SUB: Nowell FOR Russell,,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200407,440,8,0,3,11:40 PM,4:44,SUB: Eubanks FOR Nurkic,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200407,442,5,1,3,11:41 PM,4:41,Lillard Bad Pass Turnover (P4.T11),,Nowell STEAL (1 STL),,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200407,444,1,76,3,11:41 PM,4:37,,,Nowell 1' Running Finger Roll Layup (11 PTS),78 - 88,10,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,445,9,1,3,11:41 PM,4:37,TRAIL BLAZERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200407,446,8,0,3,11:43 PM,4:37,SUB: Winslow FOR Simons,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200407,448,1,1,3,11:44 PM,4:18,Hart 25' 3PT Jump Shot (6 PTS) (Grant 1 AST),,,78 - 91,13,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200407,451,1,80,3,11:44 PM,4:01,,,Nowell 12' Step Back Jump Shot (13 PTS),80 - 91,11,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,452,1,1,3,11:45 PM,3:39,Winslow 3PT Jump Shot (5 PTS) (Grant 2 AST),,,80 - 94,14,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200407,454,2,6,3,11:45 PM,3:21,Eubanks BLOCK (2 BLK),,MISS Edwards 2' Driving Layup,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,1
+0022200407,456,4,0,3,11:45 PM,3:20,Hart REBOUND (Off:0 Def:4),,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,457,1,2,3,11:45 PM,3:16,Grant 3PT Running Jump Shot (17 PTS) (Winslow 6 AST),,,80 - 97,17,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200407,459,2,1,3,11:45 PM,2:57,,,MISS Rivers 25' 3PT Jump Shot,,,5,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,460,4,0,3,11:46 PM,2:53,Grant REBOUND (Off:1 Def:1),,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,461,2,2,3,11:46 PM,2:48,MISS Lillard 25' 3PT Running Jump Shot,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,462,4,0,3,11:46 PM,2:46,,,Nowell REBOUND (Off:0 Def:2),,,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,464,6,4,3,11:46 PM,2:43,,,Nowell OFF.Foul (P1) (L.Wood),,,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200407,466,5,37,3,11:46 PM,2:43,,,Nowell Offensive Foul Turnover (P2.T9),,,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0022200407,467,8,0,3,11:46 PM,2:43,,,SUB: Forbes FOR McDaniels,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200407,469,2,75,3,11:46 PM,2:27,MISS Grant 5' Driving Finger Roll Layup,,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,470,4,0,3,11:46 PM,2:26,Grant REBOUND (Off:2 Def:1),,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,471,2,86,3,11:47 PM,2:12,MISS Hart 13' Turnaround Fadeaway Shot,,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,472,4,0,3,11:47 PM,2:09,Eubanks REBOUND (Off:1 Def:3),,,,,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,473,2,1,3,11:47 PM,2:08,MISS Lillard 31' 3PT Jump Shot,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,474,4,0,3,11:47 PM,2:08,Winslow REBOUND (Off:2 Def:1),,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,475,1,72,3,11:47 PM,2:05,Winslow 1' Putback Layup (7 PTS),,,80 - 99,19,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,476,2,6,3,11:47 PM,1:48,,,MISS Nowell 1' Driving Layup,,,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,477,4,0,3,11:47 PM,1:46,Hart REBOUND (Off:0 Def:5),,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,478,1,41,3,11:47 PM,1:40,Lillard 1' Running Layup (38 PTS) (Winslow 7 AST),,,80 - 101,21,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200407,480,2,78,3,11:47 PM,1:23,,,MISS Edwards 11' Floating Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,481,4,0,3,11:47 PM,1:22,Hart REBOUND (Off:0 Def:6),,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,482,1,2,3,11:48 PM,1:17,Grant 25' 3PT Running Jump Shot (20 PTS) (Hart 2 AST),,,80 - 104,24,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200407,484,1,108,3,11:48 PM,0:54,,,Reid Cutting Dunk Shot (6 PTS) (Nowell 1 AST),82 - 104,22,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200407,486,5,45,3,11:48 PM,0:34,Eubanks Out of Bounds - Bad Pass Turnover Turnover (P2.T12),,,,,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0022200407,487,8,0,3,11:49 PM,0:34,SUB: Simons FOR Lillard,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200407,489,6,28,3,11:49 PM,0:32,Winslow Personal Take Foul (P3.T4) (J.Goble),,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200407,491,6,2,3,11:49 PM,0:20,Grant S.FOUL (P3.PN) (S.Foster),,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200407,493,3,11,3,11:50 PM,0:20,,,Nowell Free Throw 1 of 2 (14 PTS),83 - 104,21,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,494,3,12,3,11:50 PM,0:20,,,Nowell Free Throw 2 of 2 (15 PTS),84 - 104,20,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,495,2,1,3,11:51 PM,0:02,MISS Grant 26' 3PT Jump Shot,,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,496,4,0,3,11:51 PM,0:00,Hart REBOUND (Off:1 Def:6),,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,497,1,97,3,11:51 PM,0:00,Hart Tip Layup Shot (8 PTS),,,84 - 106,22,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,498,13,0,3,11:51 PM,0:00,,End of 3rd Period (11:51 PM EST),,84 - 106,22,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200407,509,12,0,4,11:53 PM,12:00,,Start of 4th Period (11:53 PM EST),,84 - 106,22,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200407,510,1,9,4,11:54 PM,11:44,Grant 1' Driving Dunk (22 PTS) (Simons 5 AST),,,84 - 108,24,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200407,512,2,101,4,11:54 PM,11:26,,,MISS Forbes 6' Driving Floating Jump Shot,,,5,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,513,4,0,4,11:54 PM,11:24,Sharpe REBOUND (Off:1 Def:3),,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,514,1,41,4,11:54 PM,11:18,Winslow 1' Running Layup (9 PTS) (Simons 6 AST),,,84 - 110,26,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200407,516,9,1,4,11:54 PM,11:18,,,Timberwolves Timeout: Regular (Reg.4 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200407,517,2,79,4,11:57 PM,11:10,,,MISS Russell 26' 3PT Pullup Jump Shot,,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,518,4,0,4,11:57 PM,11:07,Sharpe REBOUND (Off:1 Def:4),,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,519,6,4,4,11:57 PM,10:56,Nurkic OFF.Foul (P4) (L.Wood),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,5,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200407,521,5,37,4,11:57 PM,10:56,Nurkic Offensive Foul Turnover (P2.T13),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0022200407,522,1,108,4,11:58 PM,10:47,,,Gobert 1' Cutting Dunk Shot (16 PTS) (Forbes 1 AST),86 - 110,24,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200407,524,1,58,4,11:58 PM,10:32,Grant 6' Turnaround Hook Shot (24 PTS) (Winslow 8 AST),,,86 - 112,26,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200407,526,6,2,4,11:58 PM,10:20,Grant S.FOUL (P4.T1) (J.Goble),,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200407,528,3,11,4,11:59 PM,10:20,,,Russell Free Throw 1 of 2 (19 PTS),87 - 112,25,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,529,3,12,4,11:59 PM,10:20,,,Russell Free Throw 2 of 2 (20 PTS),88 - 112,24,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,530,2,98,4,11:59 PM,10:04,MISS Grant 1' Cutting Layup Shot,,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,531,4,0,4,11:59 PM,10:02,,,Gobert REBOUND (Off:5 Def:14),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,533,8,0,4,12:00 AM,9:58,SUB: Watford FOR Grant,,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,4,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200407,535,2,80,4,12:00 AM,9:49,,,MISS Russell 26' 3PT Step Back Jump Shot,,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,536,4,0,4,12:00 AM,9:45,Nurkic REBOUND (Off:2 Def:12),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,537,1,79,4,12:00 AM,9:36,Simons 25' 3PT Pullup Jump Shot (12 PTS) (Winslow 9 AST),,,88 - 115,27,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200407,539,1,1,4,12:00 AM,9:22,,,Russell 3PT Jump Shot (23 PTS) (Anderson 5 AST),91 - 115,24,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200407,541,2,79,4,12:01 AM,9:07,MISS Simons 25' 3PT Pullup Jump Shot,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,542,4,0,4,12:01 AM,9:06,,,Gobert REBOUND (Off:5 Def:15),,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,543,2,2,4,12:01 AM,9:01,,,MISS Russell 26' 3PT Running Jump Shot,,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0022200407,544,4,0,4,12:01 AM,8:57,Winslow REBOUND (Off:2 Def:2),,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,545,2,63,4,12:01 AM,8:38,MISS Nurkic 18' Fadeaway Jumper,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,546,4,0,4,12:01 AM,8:35,,,Russell REBOUND (Off:0 Def:3),,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,547,1,2,4,12:01 AM,8:29,,,Anderson 10' Running Jump Shot (9 PTS) (Russell 8 AST),93 - 115,22,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200407,549,5,1,4,12:02 AM,8:09,Watford Bad Pass Turnover (P1.T14),,Gobert STEAL (1 STL),,,4,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200407,551,6,1,4,12:02 AM,8:01,Simons P.FOUL (P2.T2) (S.Foster),,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,5,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200407,553,2,1,4,12:02 AM,7:55,,,MISS Russell 28' 3PT Jump Shot,,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,554,4,0,4,12:02 AM,7:51,Nurkic REBOUND (Off:2 Def:13),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,555,1,73,4,12:02 AM,7:44,Sharpe 3' Driving Reverse Layup (4 PTS) (Winslow 10 AST),,,93 - 117,24,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200407,557,2,79,4,12:03 AM,7:31,,,MISS Anderson 13' Pullup Jump Shot,,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,558,4,0,4,12:03 AM,7:29,Nurkic REBOUND (Off:2 Def:14),,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,559,6,4,4,12:03 AM,7:15,Simons OFF.Foul (P3) (S.Foster),,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200407,561,5,37,4,12:03 AM,7:15,Simons Offensive Foul Turnover (P2.T15),,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0022200407,562,8,0,4,12:03 AM,7:15,,,SUB: Edwards FOR Forbes,,,5,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200407,564,2,79,4,12:03 AM,7:04,,,MISS Gobert 16' Pullup Jump Shot,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,565,4,0,4,12:04 AM,7:02,Simons REBOUND (Off:0 Def:4),,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,566,2,80,4,12:04 AM,6:43,MISS Sharpe 3PT Step Back Jump Shot,,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,567,4,0,4,12:04 AM,6:40,,,Edwards REBOUND (Off:1 Def:1),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,568,2,41,4,12:04 AM,6:35,,,MISS Edwards 2' Running Layup,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,569,4,0,4,12:04 AM,6:33,Winslow REBOUND (Off:2 Def:3),,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,570,2,1,4,12:04 AM,6:10,MISS Simons 25' 3PT Jump Shot,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,571,4,0,4,12:04 AM,6:08,Watford REBOUND (Off:1 Def:2),,,,,4,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,572,2,1,4,12:04 AM,6:05,MISS Winslow 3PT Jump Shot,,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,573,4,0,4,12:04 AM,6:03,Sharpe REBOUND (Off:2 Def:4),,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,574,1,107,4,12:05 AM,6:03,Sharpe Tip Dunk Shot (6 PTS),,,93 - 119,26,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,575,9,1,4,12:05 AM,6:03,,,Timberwolves Timeout: Regular (Reg.5 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200407,576,8,0,4,12:06 AM,6:03,SUB: Walker FOR Simons,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,4,1631133,Jabari Walker,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200407,577,8,0,4,12:06 AM,6:03,SUB: Johnson FOR Nurkic,,,,,4,203994,Jusuf Nurkić,1610612757.0,Portland,Trail Blazers,POR,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0022200407,578,8,0,4,12:06 AM,6:03,,,SUB: Rivers FOR Russell,,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,5,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200407,579,8,0,4,12:06 AM,6:03,,,SUB: Reid FOR Anderson,,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200407,580,8,0,4,12:06 AM,6:03,,,SUB: McDaniels FOR Gobert,,,5,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200407,586,6,2,4,12:08 AM,5:58,Walker S.FOUL (P1.T3) (S.Foster),,,,,4,1631133,Jabari Walker,1610612757.0,Portland,Trail Blazers,POR,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0022200407,588,3,11,4,12:08 AM,5:58,,,MISS Reid Free Throw 1 of 2,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,589,4,1,4,12:08 AM,5:58,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200407,590,3,12,4,12:08 AM,5:58,,,Reid Free Throw 2 of 2 (7 PTS),94 - 119,25,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,591,2,79,4,12:09 AM,5:36,MISS Johnson 19' Pullup Jump Shot,,,,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,592,4,0,4,12:09 AM,5:32,,,Nowell REBOUND (Off:0 Def:3),,,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,593,2,2,4,12:09 AM,5:28,,,MISS Rivers 3PT Running Jump Shot,,,5,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,594,4,0,4,12:09 AM,5:25,,,McDaniels REBOUND (Off:1 Def:0),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,595,2,63,4,12:09 AM,5:24,,,MISS McDaniels 11' Fadeaway Jumper,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,596,4,0,4,12:09 AM,5:20,Watford REBOUND (Off:1 Def:3),,,,,4,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,597,1,79,4,12:09 AM,5:10,Sharpe 16' Pullup Jump Shot (8 PTS) (Watford 1 AST),,,94 - 121,27,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,4,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200407,598,1,1,4,12:09 AM,4:58,,,Reid 28' 3PT Jump Shot (10 PTS) (Nowell 2 AST),97 - 121,24,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200407,600,1,99,4,12:10 AM,4:35,Sharpe 1' Cutting Finger Roll Layup Shot (10 PTS) (Watford 2 AST),,,97 - 123,26,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,4,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200407,602,1,101,4,12:10 AM,4:18,,,Nowell 9' Driving Floating Jump Shot (17 PTS),99 - 123,24,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,603,6,28,4,12:10 AM,4:03,,,Edwards Personal Take Foul (P4.T1) (S.Foster),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0022200407,605,8,0,4,12:10 AM,4:03,,,SUB: Moore Jr. FOR Edwards,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,1631111,Wendell Moore Jr.,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200407,606,8,0,4,12:10 AM,4:03,,,SUB: Knight FOR Nowell,,,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,5,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200407,607,8,0,4,12:10 AM,4:03,,,SUB: Garza FOR Rivers,,,5,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,5,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200407,608,8,0,4,12:10 AM,4:03,,,SUB: Ryan FOR Reid,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1630346,Matt Ryan,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200407,609,8,0,4,12:10 AM,4:03,,,SUB: Minott FOR McDaniels,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,1631169,Josh Minott,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0022200407,615,2,79,4,12:11 AM,3:52,MISS Winslow 18' Pullup Jump Shot,,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,616,4,0,4,12:11 AM,3:48,,,Garza REBOUND (Off:0 Def:1),,,5,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,617,1,6,4,12:11 AM,3:33,,,Garza 3' Driving Layup (2 PTS),101 - 123,22,5,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,618,2,1,4,12:11 AM,3:18,MISS Johnson 24' 3PT Jump Shot,,,,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,619,4,0,4,12:11 AM,3:16,,,Garza REBOUND (Off:0 Def:2),,,5,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,620,1,2,4,12:11 AM,3:12,,,Ryan 3PT Running Jump Shot (3 PTS) (Moore Jr. 1 AST),104 - 123,19,5,1630346,Matt Ryan,1610612750.0,Minnesota,Timberwolves,MIN,5,1631111,Wendell Moore Jr.,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200407,622,1,66,4,12:12 AM,2:52,Walker 26' 3PT Jump Bank Shot (3 PTS) (Sharpe 1 AST),,,104 - 126,22,4,1631133,Jabari Walker,1610612757.0,Portland,Trail Blazers,POR,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200407,624,2,75,4,12:12 AM,2:37,,,MISS Minott 4' Driving Finger Roll Layup,,,5,1631169,Josh Minott,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,625,4,0,4,12:12 AM,2:35,Winslow REBOUND (Off:2 Def:4),,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,626,2,1,4,12:12 AM,2:20,MISS Sharpe 3PT Jump Shot,,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,627,4,0,4,12:12 AM,2:17,,,Moore Jr. REBOUND (Off:0 Def:1),,,5,1631111,Wendell Moore Jr.,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,628,2,103,4,12:12 AM,2:12,,,MISS Moore Jr. 26' 3PT Running Pull-Up Jump Shot,,,5,1631111,Wendell Moore Jr.,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,629,4,0,4,12:13 AM,2:09,Johnson REBOUND (Off:0 Def:1),,,,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,630,5,2,4,12:13 AM,1:58,Winslow Lost Ball Turnover (P2.T16),,Minott STEAL (1 STL),,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,5,1631169,Josh Minott,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200407,632,2,2,4,12:13 AM,1:53,,,MISS Ryan 26' 3PT Running Jump Shot,,,5,1630346,Matt Ryan,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,633,4,0,4,12:13 AM,1:50,Sharpe REBOUND (Off:2 Def:5),,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,634,1,41,4,12:13 AM,1:47,Sharpe 2' Running Layup (12 PTS),,,104 - 128,24,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,635,5,2,4,12:13 AM,1:37,Sharpe STEAL (1 STL),,Knight Lost Ball Turnover (P1.T10),,,5,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200407,637,5,1,4,12:13 AM,1:32,Johnson Bad Pass Turnover (P1.T17),,Ryan STEAL (1 STL),,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,5,1630346,Matt Ryan,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200407,639,1,41,4,12:13 AM,1:27,,,Moore Jr. Running Layup (2 PTS),106 - 128,22,5,1631111,Wendell Moore Jr.,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,640,1,80,4,12:14 AM,1:09,Sharpe 18' Step Back Jump Shot (14 PTS),,,106 - 130,24,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0022200407,641,1,101,4,12:14 AM,0:58,,,Knight 4' Driving Floating Jump Shot (2 PTS),108 - 130,22,5,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,643,1,1,4,12:14 AM,0:46,Watford 26' 3PT Jump Shot (5 PTS) (Johnson 1 AST),,,108 - 133,25,4,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0022200407,645,1,6,4,12:14 AM,0:39,,,Moore Jr. 1' Driving Layup (4 PTS),110 - 133,23,5,1631111,Wendell Moore Jr.,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,646,5,1,4,12:15 AM,0:28,Johnson Bad Pass Turnover (P2.T18),,Moore Jr. STEAL (1 STL),,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,5,1631111,Wendell Moore Jr.,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0022200407,648,1,50,4,12:15 AM,0:24,,,Knight 1' Running Dunk (4 PTS),112 - 133,21,5,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0022200407,649,5,11,4,12:15 AM,0:00,TRAIL BLAZERS Turnover: Shot Clock (T#19),,,,,2,1610612757,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200407,650,13,0,4,12:15 AM,0:00,,End of 4th Period (12:15 AM EST),,112 - 133,21,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

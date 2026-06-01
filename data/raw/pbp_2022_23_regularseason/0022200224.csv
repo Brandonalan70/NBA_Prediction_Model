@@ -1,0 +1,500 @@
+﻿GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0022200224,2,12,0,1,7:11 PM,12:00,,Start of 1st Period (7:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200224,4,10,0,1,7:11 PM,12:00,Jump Ball Porzingis vs. Jovic: Tip to Kuzma,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,1
+0022200224,7,5,45,1,7:11 PM,11:49,Porzingis Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022200224,9,2,80,1,7:11 PM,11:31,,,MISS Strus 20' Step Back Jump Shot,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,10,4,0,1,7:11 PM,11:28,Kuzma REBOUND (Off:0 Def:1),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,11,2,1,1,7:12 PM,11:19,MISS Kuzma 26' 3PT Jump Shot,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,12,4,0,1,7:12 PM,11:16,,,Jovic REBOUND (Off:0 Def:1),,,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,13,1,6,1,7:12 PM,11:07,,,Jovic 3' Driving Layup (2 PTS) (Lowry 1 AST),2 - 0,-2,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200224,15,1,47,1,7:12 PM,10:56,Porzingis 14' Turnaround Jump Shot (2 PTS) (Beal 1 AST),,,2 - 2,TIE,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200224,17,2,6,1,7:12 PM,10:45,,,MISS Lowry 3' Driving Layup,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,19,4,0,1,7:12 PM,10:40,,,Lowry REBOUND (Off:1 Def:0),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,20,2,78,1,7:12 PM,10:40,,,MISS Highsmith 13' Floating Jump Shot,,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,21,4,0,1,7:12 PM,10:40,,,Highsmith REBOUND (Off:1 Def:0),,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,22,6,1,1,7:12 PM,10:40,Kuzma P.FOUL (P1.T1) (K.Scott),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200224,24,1,1,1,7:13 PM,10:29,,,Jovic 27' 3PT Jump Shot (5 PTS) (Martin 1 AST),5 - 2,-3,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200224,26,5,1,1,7:13 PM,10:20,Kuzma Bad Pass Turnover (P1.T2),,Highsmith STEAL (1 STL),,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200224,28,1,1,1,7:13 PM,10:10,,,Lowry 24' 3PT Jump Shot (3 PTS) (Highsmith 1 AST),8 - 2,-6,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200224,30,1,1,1,7:13 PM,9:51,Porzingis 29' 3PT Jump Shot (5 PTS) (Morris 1 AST),,,8 - 5,-3,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200224,32,2,1,1,7:13 PM,9:39,,,MISS Jovic 26' 3PT Jump Shot,,,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,33,4,0,1,7:14 PM,9:34,Kuzma REBOUND (Off:0 Def:2),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,34,1,79,1,7:14 PM,9:26,Beal 28' 3PT Pullup Jump Shot (3 PTS) (Porzingis 1 AST),,,8 - 8,TIE,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200224,36,5,1,1,7:14 PM,9:09,Porzingis STEAL (1 STL),,Highsmith Bad Pass Turnover (P1.T1),,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200224,38,2,1,1,7:14 PM,8:50,MISS Kuzma 17' Jump Shot,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,39,4,0,1,7:14 PM,8:46,,,Lowry REBOUND (Off:1 Def:1),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,40,2,79,1,7:14 PM,8:44,,,MISS Lowry 27' 3PT Pullup Jump Shot,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,41,4,0,1,7:14 PM,8:40,Kuzma REBOUND (Off:0 Def:3),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,42,2,5,1,7:15 PM,8:34,MISS Porzingis 5' Layup,,Lowry BLOCK (1 BLK),,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,1
+0022200224,44,4,0,1,7:15 PM,8:34,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200224,46,1,3,1,7:15 PM,8:34,Kuzma 9' Hook Shot (2 PTS) (Morris 2 AST),,,8 - 10,2,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200224,48,6,2,1,7:15 PM,8:34,,,Jovic S.FOUL (P1.T1) (N.Sago),,,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200224,50,3,10,1,7:15 PM,8:34,MISS Kuzma Free Throw 1 of 1,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,51,4,0,1,7:15 PM,8:30,,,Strus REBOUND (Off:0 Def:1),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,52,2,73,1,7:16 PM,8:22,,,MISS Strus 3' Driving Reverse Layup,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,53,4,0,1,7:16 PM,8:20,Porzingis REBOUND (Off:0 Def:1),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,54,1,41,1,7:16 PM,8:18,Kuzma 2' Running Layup (4 PTS),,,8 - 12,4,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,55,7,2,1,7:16 PM,8:18,,,Martin Violation:Defensive Goaltending (N.Sago),,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0022200224,56,2,3,1,7:16 PM,8:01,,,MISS Highsmith 8' Hook Shot,,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,57,4,0,1,7:16 PM,7:58,Porzingis REBOUND (Off:0 Def:2),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,58,1,6,1,7:16 PM,7:42,Porzingis 3' Driving Layup (7 PTS) (Avdija 1 AST),,,8 - 14,6,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200224,60,1,1,1,7:17 PM,7:24,,,Martin 28' 3PT Jump Shot (3 PTS) (Lowry 2 AST),11 - 14,3,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200224,62,2,79,1,7:17 PM,7:01,MISS Kuzma 29' 3PT Pullup Jump Shot,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,63,4,0,1,7:17 PM,6:58,,,Lowry REBOUND (Off:1 Def:2),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,64,2,57,1,7:17 PM,6:46,,,MISS Lowry 7' Driving Hook Shot,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,66,4,0,1,7:17 PM,6:46,Porzingis REBOUND (Off:0 Def:3),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,67,6,31,1,7:18 PM,6:46,,,Lowry Transition Take Foul (P1.T2) (K.Scott),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200224,77,3,10,1,7:22 PM,6:46,Beal Free Throw 1 of 1 (4 PTS),,,11 - 15,4,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,69,9,1,1,7:22 PM,6:46,WIZARDS Timeout: Regular (Full 1 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200224,70,8,0,1,7:23 PM,6:46,SUB: Kispert FOR Kuzma,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200224,72,6,2,1,7:23 PM,6:29,,,Lowry S.FOUL (P2.T3) (N.Sago),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200224,74,3,11,1,7:23 PM,6:29,MISS Porzingis Free Throw 1 of 2,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,75,4,1,1,7:23 PM,6:29,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200224,76,3,12,1,7:23 PM,6:29,Porzingis Free Throw 2 of 2 (8 PTS),,,11 - 16,5,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,78,1,47,1,7:23 PM,6:07,,,Highsmith 12' Turnaround Jump Shot (2 PTS),13 - 16,3,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,79,1,1,1,7:23 PM,5:46,Porzingis 14' Jump Shot (10 PTS),,,13 - 18,5,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,80,2,3,1,7:23 PM,5:32,,,MISS Jovic 10' Hook Shot,,,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,81,4,0,1,7:23 PM,5:27,,,Jovic REBOUND (Off:1 Def:1),,,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,82,1,1,1,7:23 PM,5:25,,,Strus 28' 3PT Jump Shot (3 PTS) (Highsmith 2 AST),16 - 18,2,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200224,84,2,1,1,7:23 PM,5:07,MISS Morris 3PT Jump Shot,,,,,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,85,4,0,1,7:23 PM,5:07,,,Highsmith REBOUND (Off:1 Def:1),,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,86,2,79,1,7:23 PM,5:00,,,MISS Lowry 27' 3PT Pullup Jump Shot,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,87,4,0,1,7:24 PM,4:52,Porzingis REBOUND (Off:0 Def:4),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,88,1,1,1,7:24 PM,4:40,Beal 25' 3PT Jump Shot (7 PTS) (Avdija 2 AST),,,16 - 21,5,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200224,90,6,2,1,7:24 PM,4:30,Avdija S.FOUL (P1.T2) (T.Mirkovich),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200224,92,3,13,1,7:24 PM,4:30,,,Strus Free Throw 1 of 3 (4 PTS),17 - 21,4,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,93,3,14,1,7:25 PM,4:30,,,Strus Free Throw 2 of 3 (5 PTS),18 - 21,3,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,94,8,0,1,7:25 PM,4:30,SUB: Hachimura FOR Morris,,,,,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200224,95,8,0,1,7:25 PM,4:30,,,SUB: Cain FOR Jovic,,,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200224,96,8,0,1,7:25 PM,4:30,,,SUB: O. Robinson FOR Martin,,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200224,100,3,15,1,7:25 PM,4:30,,,Strus Free Throw 3 of 3 (6 PTS),19 - 21,2,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,101,1,1,1,7:25 PM,4:20,Avdija 3PT Jump Shot (3 PTS) (Beal 2 AST),,,19 - 24,5,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200224,103,2,80,1,7:26 PM,3:58,,,MISS Strus 15' Step Back Jump Shot,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,104,4,0,1,7:26 PM,3:52,Hachimura REBOUND (Off:0 Def:1),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,105,5,2,1,7:26 PM,3:40,Avdija Lost Ball Turnover (P1.T3),,Highsmith STEAL (2 STL),,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200224,107,2,1,1,7:26 PM,3:34,,,MISS Highsmith 25' 3PT Jump Shot,,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,108,4,0,1,7:26 PM,3:29,Porzingis REBOUND (Off:0 Def:5),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,109,5,1,1,7:26 PM,3:22,Beal Bad Pass Turnover (P1.T4),,O. Robinson STEAL (1 STL),,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200224,112,1,5,1,7:27 PM,3:06,,,O. Robinson 1' Layup (2 PTS) (Strus 1 AST),21 - 24,3,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200224,113,2,6,1,7:27 PM,2:49,MISS Porzingis 2' Driving Layup,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,114,4,0,1,7:27 PM,2:45,,,Cain REBOUND (Off:0 Def:1),,,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,115,2,101,1,7:27 PM,2:41,,,MISS Lowry 7' Driving Floating Jump Shot,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,116,4,0,1,7:28 PM,2:40,,,Cain REBOUND (Off:1 Def:1),,,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,117,6,2,1,7:28 PM,2:40,Avdija S.FOUL (P2.T3) (K.Scott),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200224,119,9,1,1,7:28 PM,2:40,,,Heat Timeout: Regular (Reg.1 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200224,120,8,0,1,7:30 PM,2:40,SUB: Kuzma FOR Avdija,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200224,122,3,11,1,7:31 PM,2:40,,,Cain Free Throw 1 of 2 (1 PTS),22 - 24,2,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,123,3,12,1,7:31 PM,2:40,,,Cain Free Throw 2 of 2 (2 PTS),23 - 24,1,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,124,1,102,1,7:31 PM,2:24,Kuzma 12' Driving Floating Bank Jump Shot (6 PTS),,,23 - 26,3,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,125,1,3,1,7:31 PM,2:02,,,O. Robinson 6' Hook Shot (4 PTS) (Strus 2 AST),25 - 26,1,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200224,127,2,1,1,7:32 PM,1:54,MISS Porzingis 28' 3PT Jump Shot,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,128,4,0,1,7:32 PM,1:49,,,Highsmith REBOUND (Off:1 Def:2),,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,129,1,41,1,7:32 PM,1:46,,,Strus 2' Running Layup (8 PTS) (Lowry 3 AST),27 - 26,-1,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200224,131,5,2,1,7:32 PM,1:36,Hachimura Lost Ball Turnover (P1.T5),,Lowry STEAL (1 STL),,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200224,133,1,98,1,7:32 PM,1:29,,,O. Robinson 2' Cutting Layup Shot (6 PTS) (Cain 1 AST),29 - 26,-3,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200224,135,1,47,1,7:32 PM,1:13,Hachimura 16' Turnaround Jump Shot (2 PTS) (Beal 3 AST),,,29 - 28,-1,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200224,137,2,1,1,7:32 PM,1:08,,,MISS Highsmith 28' 3PT Jump Shot,,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,138,4,0,1,7:32 PM,1:04,Porzingis REBOUND (Off:0 Def:6),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,139,2,1,1,7:33 PM,0:55,MISS Kuzma 25' 3PT Jump Shot,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,140,4,0,1,7:33 PM,0:52,,,Lowry REBOUND (Off:1 Def:3),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,141,5,1,1,7:33 PM,0:39,Kuzma STEAL (1 STL),,Strus Bad Pass Turnover (P1.T2),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200224,143,1,1,1,7:33 PM,0:33,Kispert 24' 3PT Jump Shot (3 PTS) (Beal 4 AST),,,29 - 31,2,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200224,145,2,5,1,7:33 PM,0:23,Porzingis BLOCK (1 BLK),,MISS O. Robinson 4' Layup,,,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1
+0022200224,147,4,0,1,7:33 PM,0:18,Hachimura REBOUND (Off:0 Def:2),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,148,6,1,1,7:33 PM,0:18,,,Highsmith P.FOUL (P1.T4) (N.Sago),,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200224,150,8,0,1,7:34 PM,0:18,,,SUB: Jovic FOR Highsmith,,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200224,151,8,0,1,7:34 PM,0:18,,,SUB: Martin FOR Strus,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200224,154,1,7,1,7:34 PM,0:06,Hachimura 2' Dunk (4 PTS) (Porzingis 2 AST),,,29 - 33,4,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200224,156,1,102,1,7:34 PM,0:01,,,Lowry 10' Driving Floating Bank Jump Shot (5 PTS),31 - 33,2,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,157,6,2,1,7:34 PM,0:01,Porzingis S.FOUL (P1.T4) (K.Scott),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200224,159,8,0,1,7:35 PM,0:01,,,SUB: Highsmith FOR Jovic,,,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200224,161,3,10,1,7:35 PM,0:01,,,MISS Lowry Free Throw 1 of 1,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,162,4,0,1,7:35 PM,0:01,Porzingis REBOUND (Off:0 Def:7),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,163,13,0,1,7:35 PM,0:00,,End of 1st Period (7:35 PM EST),,31 - 33,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200224,172,12,0,2,7:38 PM,12:00,,Start of 2nd Period (7:38 PM EST),,31 - 33,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200224,173,2,1,2,7:38 PM,11:37,,,MISS Martin 27' 3PT Jump Shot,,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,174,4,0,2,7:38 PM,11:32,Barton REBOUND (Off:0 Def:1),,,,,4,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,175,2,1,2,7:38 PM,11:28,MISS Hachimura 26' 3PT Jump Shot,,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,176,4,0,2,7:38 PM,11:27,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200224,178,6,3,2,7:39 PM,11:27,,,O. Robinson L.B.FOUL (P1.T1) (K.Scott),,,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200224,180,5,11,2,7:39 PM,11:12,WIZARDS Turnover: Shot Clock (T#6),,,,,2,1610612764,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200224,181,2,6,2,7:39 PM,10:58,,,MISS Martin 4' Driving Layup,,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,182,4,0,2,7:39 PM,10:57,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200224,184,2,1,2,7:40 PM,10:36,MISS Kuzma 26' 3PT Jump Shot,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,185,4,0,2,7:40 PM,10:32,,,Cain REBOUND (Off:1 Def:2),,,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,186,1,6,2,7:40 PM,10:25,,,Cain 4' Driving Layup (4 PTS) (Lowry 4 AST),33 - 33,TIE,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200224,188,2,6,2,7:40 PM,10:01,MISS Hachimura 4' Driving Layup,,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,189,4,0,2,7:40 PM,9:59,,,Cain REBOUND (Off:1 Def:3),,,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,190,1,1,2,7:41 PM,9:49,,,Lowry 27' 3PT Jump Shot (8 PTS) (Martin 2 AST),36 - 33,-3,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200224,192,1,47,2,7:41 PM,9:33,Hachimura 12' Turnaround Jump Shot (6 PTS) (Kuzma 1 AST),,,36 - 35,-1,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200224,194,6,2,2,7:41 PM,9:27,Gafford S.FOUL (P1.T1) (T.Mirkovich),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200224,196,3,11,2,7:42 PM,9:27,,,Martin Free Throw 1 of 2 (4 PTS),37 - 35,-2,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,197,3,12,2,7:42 PM,9:27,,,Martin Free Throw 2 of 2 (5 PTS),38 - 35,-3,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,198,1,1,2,7:42 PM,9:08,Hachimura 3PT Jump Shot (9 PTS) (Kuzma 2 AST),,,38 - 38,TIE,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200224,200,1,98,2,7:43 PM,8:51,,,O. Robinson 3' Cutting Layup Shot (8 PTS) (Lowry 5 AST),40 - 38,-2,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200224,202,2,1,2,7:43 PM,8:43,MISS Morris 28' 3PT Jump Shot,,,,,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,203,4,0,2,7:43 PM,8:40,,,Cain REBOUND (Off:1 Def:4),,,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,204,1,98,2,7:43 PM,8:35,,,Jovic 2' Cutting Layup Shot (7 PTS) (Lowry 6 AST),42 - 38,-4,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200224,206,6,2,2,7:43 PM,8:35,Gafford S.FOUL (P2.T2) (N.Sago),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200224,208,3,10,2,7:43 PM,8:35,,,Jovic Free Throw 1 of 1 (8 PTS),43 - 38,-5,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,209,2,1,2,7:44 PM,8:21,MISS Barton 26' 3PT Jump Shot,,,,,4,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,210,4,0,2,7:44 PM,8:17,,,Lowry REBOUND (Off:1 Def:4),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,211,1,1,2,7:44 PM,7:57,,,Lowry 21' Jump Shot (10 PTS),45 - 38,-7,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,212,9,1,2,7:44 PM,7:54,WIZARDS Timeout: Regular (Full 2 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200224,213,2,47,2,7:47 PM,7:40,MISS Kuzma 8' Turnaround Jump Shot,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,214,4,0,2,7:47 PM,7:37,,,Lowry REBOUND (Off:1 Def:5),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,215,6,2,2,7:48 PM,7:30,Morris S.FOUL (P1.T3) (K.Scott),,,,,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200224,217,3,11,2,7:48 PM,7:30,,,MISS Cain Free Throw 1 of 2,,,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,218,4,1,2,7:48 PM,7:30,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200224,223,3,12,2,7:48 PM,7:30,,,MISS Cain Free Throw 2 of 2,,,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,219,8,0,2,7:48 PM,7:30,SUB: Kispert FOR Kuzma,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200224,220,8,0,2,7:48 PM,7:30,SUB: Beal FOR Gafford,,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200224,224,4,0,2,7:48 PM,7:27,Hachimura REBOUND (Off:0 Def:3),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,225,2,1,2,7:49 PM,7:18,MISS Morris 3PT Jump Shot,,,,,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,226,4,0,2,7:49 PM,7:13,Hachimura REBOUND (Off:1 Def:3),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,227,1,5,2,7:49 PM,7:12,Hachimura 2' Layup (11 PTS),,,45 - 40,-5,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,228,1,98,2,7:49 PM,6:58,,,Jovic 3' Cutting Layup Shot (10 PTS) (Lowry 7 AST),47 - 40,-7,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200224,230,6,2,2,7:49 PM,6:58,Morris S.FOUL (P2.T4) (T.Mirkovich),,,,,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200224,232,3,10,2,7:50 PM,6:58,,,Jovic Free Throw 1 of 1 (11 PTS),48 - 40,-8,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,233,6,1,2,7:50 PM,6:47,,,Cain P.FOUL (P1.T2) (K.Scott),,,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200224,235,8,0,2,7:50 PM,6:47,,,SUB: Strus FOR Jovic,,,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200224,237,1,1,2,7:50 PM,6:38,Hachimura 16' Jump Shot (13 PTS) (Morris 3 AST),,,48 - 42,-6,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200224,239,2,79,2,7:50 PM,6:24,,,MISS Lowry 27' 3PT Pullup Jump Shot,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,240,4,0,2,7:50 PM,6:19,Morris REBOUND (Off:0 Def:1),,,,,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,241,2,1,2,7:51 PM,6:16,MISS Kispert 3PT Jump Shot,,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,242,4,0,2,7:51 PM,6:13,,,O. Robinson REBOUND (Off:0 Def:1),,,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,243,5,1,2,7:51 PM,6:03,Kispert STEAL (1 STL),,Lowry Bad Pass Turnover (P1.T3),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200224,245,1,5,2,7:51 PM,5:59,Kispert 2' Layup (5 PTS),,,48 - 44,-4,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,246,1,1,2,7:51 PM,5:49,,,Strus 28' 3PT Jump Shot (11 PTS) (Lowry 8 AST),51 - 44,-7,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200224,248,1,1,2,7:51 PM,5:32,Kispert 26' 3PT Jump Shot (8 PTS) (Morris 4 AST),,,51 - 47,-4,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200224,250,2,1,2,7:52 PM,5:12,,,MISS Cain 3PT Jump Shot,,,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,251,4,0,2,7:52 PM,5:08,,,Martin REBOUND (Off:1 Def:0),,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,252,5,45,2,7:52 PM,5:08,,,Martin Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0022200224,254,8,0,2,7:52 PM,5:08,SUB: Porzingis FOR Morris,,,,,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200224,255,8,0,2,7:52 PM,5:08,,,SUB: Highsmith FOR Cain,,,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200224,258,2,47,2,7:52 PM,4:58,MISS Porzingis 13' Turnaround Jump Shot,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,259,4,0,2,7:52 PM,4:56,,,O. Robinson REBOUND (Off:0 Def:2),,,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,260,1,1,2,7:52 PM,4:52,,,Martin 27' 3PT Jump Shot (8 PTS) (Lowry 9 AST),54 - 47,-7,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200224,262,2,1,2,7:53 PM,4:32,MISS Beal 26' 3PT Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,263,4,0,2,7:53 PM,4:27,,,Highsmith REBOUND (Off:1 Def:3),,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,264,1,1,2,7:53 PM,4:17,,,Strus 3PT Jump Shot (14 PTS),57 - 47,-10,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,265,2,6,2,7:53 PM,4:04,MISS Barton 10' Driving Layup,,,,,4,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,266,4,0,2,7:53 PM,4:02,,,O. Robinson REBOUND (Off:0 Def:3),,,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,267,2,79,2,7:53 PM,3:58,,,MISS Strus 29' 3PT Pullup Jump Shot,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,268,4,0,2,7:53 PM,3:55,Porzingis REBOUND (Off:0 Def:8),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,270,6,1,2,7:53 PM,3:47,,,O. Robinson P.FOUL (P2.T3) (T.Mirkovich),,,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200224,272,3,11,2,7:54 PM,3:47,MISS Porzingis Free Throw 1 of 2,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,273,4,1,2,7:54 PM,3:47,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200224,274,8,0,2,7:54 PM,3:47,SUB: Avdija FOR Barton,,,,,4,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200224,275,8,0,2,7:54 PM,3:47,SUB: Kuzma FOR Hachimura,,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200224,276,8,0,2,7:54 PM,3:47,,,SUB: Jovic FOR O. Robinson,,,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200224,280,3,12,2,7:55 PM,3:47,Porzingis Free Throw 2 of 2 (11 PTS),,,57 - 48,-9,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,281,2,1,2,7:55 PM,3:30,,,MISS Martin 24' 3PT Jump Shot,,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,282,4,0,2,7:55 PM,3:29,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200224,283,6,3,2,7:55 PM,3:29,Avdija L.B.FOUL (P3.PN) (T.Mirkovich),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200224,285,3,11,2,7:56 PM,3:29,,,Martin Free Throw 1 of 2 (9 PTS),58 - 48,-10,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,286,8,0,2,7:56 PM,3:29,SUB: Hachimura FOR Avdija,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200224,288,3,12,2,7:56 PM,3:29,,,Martin Free Throw 2 of 2 (10 PTS),59 - 48,-11,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,289,1,1,2,7:56 PM,3:13,Kuzma 3PT Jump Shot (9 PTS) (Porzingis 3 AST),,,59 - 51,-8,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200224,291,2,1,2,7:56 PM,3:05,,,MISS Highsmith 3PT Jump Shot,,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,292,4,0,2,7:56 PM,3:04,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200224,293,6,3,2,7:57 PM,3:04,Hachimura L.B.FOUL (P1.PN) (K.Scott),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200224,295,3,11,2,7:57 PM,3:04,,,Jovic Free Throw 1 of 2 (12 PTS),60 - 51,-9,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,296,3,12,2,7:57 PM,3:04,,,Jovic Free Throw 2 of 2 (13 PTS),61 - 51,-10,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,297,2,3,2,7:57 PM,2:50,MISS Porzingis 5' Hook Shot,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,298,4,0,2,7:57 PM,2:48,Kispert REBOUND (Off:1 Def:0),,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,299,2,1,2,7:57 PM,2:43,MISS Kuzma 28' 3PT Jump Shot,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,300,4,0,2,7:58 PM,2:40,,,Lowry REBOUND (Off:1 Def:6),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,301,2,1,2,7:58 PM,2:24,,,MISS Martin 19' Jump Shot,,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,302,4,0,2,7:58 PM,2:20,Porzingis REBOUND (Off:0 Def:9),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,303,1,1,2,7:58 PM,2:11,Beal 26' 3PT Jump Shot (10 PTS) (Hachimura 1 AST),,,61 - 54,-7,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200224,305,2,101,2,7:58 PM,1:51,,,MISS Jovic 8' Driving Floating Jump Shot,,,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,306,4,0,2,7:58 PM,1:48,Kuzma REBOUND (Off:0 Def:4),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,307,2,1,2,7:59 PM,1:36,MISS Kispert 24' 3PT Jump Shot,,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,308,4,0,2,7:59 PM,1:33,,,Highsmith REBOUND (Off:1 Def:4),,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,309,6,2,2,7:59 PM,1:29,Hachimura S.FOUL (P2.PN) (T.Mirkovich),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200224,311,9,1,2,7:59 PM,1:29,,,Heat Timeout: Regular (Reg.2 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200224,312,3,11,2,8:02 PM,1:29,,,Jovic Free Throw 1 of 2 (14 PTS),62 - 54,-8,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,313,3,12,2,8:02 PM,1:29,,,Jovic Free Throw 2 of 2 (15 PTS),63 - 54,-9,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,314,2,47,2,8:02 PM,1:13,MISS Hachimura 13' Turnaround Jump Shot,,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,315,4,0,2,8:02 PM,1:11,Kispert REBOUND (Off:2 Def:0),,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,316,2,1,2,8:03 PM,1:07,MISS Porzingis 28' 3PT Jump Shot,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,317,4,0,2,8:03 PM,1:04,,,Strus REBOUND (Off:0 Def:2),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,318,1,102,2,8:03 PM,0:56,,,Strus 11' Driving Floating Bank Jump Shot (16 PTS) (Martin 3 AST),65 - 54,-11,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200224,320,2,47,2,8:03 PM,0:43,MISS Porzingis 17' Turnaround Jump Shot,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,321,4,0,2,8:03 PM,0:40,,,Highsmith REBOUND (Off:1 Def:5),,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,322,1,79,2,8:03 PM,0:30,,,Lowry 28' 3PT Pullup Jump Shot (13 PTS),68 - 54,-14,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,323,6,2,2,8:03 PM,0:30,Kuzma S.FOUL (P2.PN) (T.Mirkovich),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200224,325,3,10,2,8:04 PM,0:30,,,Lowry Free Throw 1 of 1 (14 PTS),69 - 54,-15,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,326,1,47,2,8:04 PM,0:22,Porzingis 11' Turnaround Jump Shot (13 PTS) (Hachimura 2 AST),,,69 - 56,-13,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200224,328,6,2,2,8:04 PM,0:22,,,Jovic S.FOUL (P2.T4) (K.Scott),,,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200224,330,3,10,2,8:05 PM,0:22,Porzingis Free Throw 1 of 1 (14 PTS),,,69 - 57,-12,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,331,2,80,2,8:05 PM,0:00,,,MISS Lowry 22' Step Back Jump Shot,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,332,4,0,2,8:05 PM,0:00,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200224,333,13,0,2,8:05 PM,0:00,,End of 2nd Period (8:05 PM EST),,69 - 57,-12,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200224,338,12,0,3,8:21 PM,12:00,,Start of 3rd Period (8:21 PM EST),,69 - 57,-12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200224,339,1,98,3,8:21 PM,11:48,,,Highsmith 2' Cutting Layup Shot (4 PTS) (Lowry 10 AST),71 - 57,-14,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200224,341,1,79,3,8:21 PM,11:32,Beal 26' 3PT Pullup Jump Shot (13 PTS) (Kuzma 3 AST),,,71 - 60,-11,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200224,343,2,1,3,8:21 PM,11:20,,,MISS Jovic 26' 3PT Jump Shot,,,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,344,4,0,3,8:21 PM,11:18,Porzingis REBOUND (Off:0 Def:10),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,345,2,1,3,8:22 PM,11:05,MISS Beal 24' 3PT Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,346,4,0,3,8:22 PM,10:59,,,Jovic REBOUND (Off:1 Def:2),,,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,347,2,78,3,8:22 PM,10:51,,,MISS Highsmith 15' Floating Jump Shot,,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,348,4,0,3,8:22 PM,10:50,,,Jovic REBOUND (Off:2 Def:2),,,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,349,6,2,3,8:22 PM,10:50,Avdija S.FOUL (P4.T1) (N.Sago),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200224,351,3,11,3,8:22 PM,10:50,,,Jovic Free Throw 1 of 2 (16 PTS),72 - 60,-12,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,352,3,12,3,8:22 PM,10:50,,,Jovic Free Throw 2 of 2 (17 PTS),73 - 60,-13,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0022200224,353,2,101,3,8:23 PM,10:37,MISS Porzingis 6' Driving Floating Jump Shot,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,354,4,0,3,8:23 PM,10:35,,,Highsmith REBOUND (Off:1 Def:6),,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,355,2,1,3,8:23 PM,10:25,,,MISS Strus 26' 3PT Jump Shot,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,356,4,0,3,8:23 PM,10:22,Porzingis REBOUND (Off:0 Def:11),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,357,6,1,3,8:23 PM,10:15,,,Lowry P.FOUL (P3.T1) (T.Mirkovich),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200224,359,2,1,3,8:24 PM,10:06,MISS Avdija 27' 3PT Jump Shot,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,360,4,0,3,8:24 PM,10:02,,,Martin REBOUND (Off:1 Def:1),,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,361,6,2,3,8:24 PM,10:00,Porzingis S.FOUL (P2.T2) (T.Mirkovich),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200224,363,18,3,3,8:24 PM,10:00,,Instant Replay3rd Period (8:24 PM EST),,73 - 60,-13,0,361,Clifford Robinson,,,,,0,0,,,,,,1,0,,,,,,0
+0022200224,364,3,11,3,8:26 PM,10:00,,,MISS Jovic Free Throw 1 of 2,,,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,365,4,1,3,8:26 PM,10:00,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200224,366,3,12,3,8:26 PM,10:00,,,Jovic Free Throw 2 of 2 (18 PTS),74 - 60,-14,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,367,5,4,3,8:27 PM,9:47,Kuzma Traveling Turnover (P2.T7),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022200224,368,2,79,3,8:27 PM,9:34,,,MISS Lowry 19' Pullup Jump Shot,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,369,4,0,3,8:27 PM,9:30,Avdija REBOUND (Off:0 Def:1),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,370,1,98,3,8:27 PM,9:23,Morris 3' Cutting Layup Shot (2 PTS) (Avdija 3 AST),,,74 - 62,-12,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200224,372,1,86,3,8:28 PM,8:59,,,Martin 12' Turnaround Fadeaway (12 PTS),76 - 62,-14,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,373,5,45,3,8:28 PM,8:39,Beal Out of Bounds - Bad Pass Turnover Turnover (P2.T8),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022200224,375,2,1,3,8:28 PM,8:24,,,MISS Strus 26' 3PT Jump Shot,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,376,4,0,3,8:28 PM,8:20,Morris REBOUND (Off:0 Def:2),,,,,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,377,1,5,3,8:29 PM,8:05,Kuzma 2' Layup (11 PTS) (Porzingis 4 AST),,,76 - 64,-12,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200224,379,1,78,3,8:29 PM,7:51,,,Strus 13' Floating Jump Shot (18 PTS) (Lowry 11 AST),78 - 64,-14,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200224,381,2,3,3,8:29 PM,7:38,MISS Porzingis 7' Hook Shot,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,382,4,0,3,8:29 PM,7:37,Porzingis REBOUND (Off:1 Def:11),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,383,1,98,3,8:29 PM,7:35,Kuzma 1' Cutting Layup Shot (13 PTS) (Morris 5 AST),,,78 - 66,-12,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200224,385,1,6,3,8:29 PM,7:21,,,Strus 2' Driving Layup (20 PTS),80 - 66,-14,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,386,8,0,3,8:30 PM,7:13,SUB: Kispert FOR Avdija,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200224,389,1,7,3,8:30 PM,6:56,Kuzma 2' Dunk (15 PTS) (Beal 5 AST),,,80 - 68,-12,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200224,391,2,63,3,8:31 PM,6:44,,,MISS Lowry 14' Fadeaway Jumper,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,392,4,0,3,8:31 PM,6:40,Porzingis REBOUND (Off:1 Def:12),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,393,2,58,3,8:31 PM,6:33,MISS Beal 3' Turnaround Hook Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,394,4,0,3,8:31 PM,6:33,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200224,396,9,1,3,8:31 PM,6:33,WIZARDS Timeout: Regular (Full 3 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200224,397,5,2,3,8:34 PM,6:27,Kuzma Lost Ball Turnover (P3.T9),,Martin STEAL (1 STL),,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200224,399,2,103,3,8:34 PM,6:23,,,MISS Martin 22' Running Pull-Up Jump Shot,,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,400,4,0,3,8:34 PM,6:19,Morris REBOUND (Off:0 Def:3),,,,,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,401,5,4,3,8:34 PM,6:17,Beal Traveling Turnover (P3.T10),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022200224,402,2,1,3,8:35 PM,6:05,,,MISS Jovic 15' Jump Shot,,,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,403,4,0,3,8:35 PM,6:02,Kuzma REBOUND (Off:0 Def:5),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,404,1,6,3,8:35 PM,5:57,Kuzma 2' Driving Layup (17 PTS),,,80 - 70,-10,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,405,1,102,3,8:35 PM,5:37,,,Strus 10' Driving Floating Bank Jump Shot (22 PTS),82 - 70,-12,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,406,2,101,3,8:35 PM,5:27,MISS Kuzma 8' Driving Floating Jump Shot,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,407,4,0,3,8:35 PM,5:24,,,Jovic REBOUND (Off:2 Def:3),,,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,408,2,5,3,8:35 PM,5:18,,,MISS Highsmith 2' Layup,,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,409,4,0,3,8:35 PM,5:16,,,Highsmith REBOUND (Off:2 Def:6),,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,410,6,1,3,8:35 PM,5:13,Kispert P.FOUL (P1.T3) (K.Scott),,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200224,412,8,0,3,8:36 PM,5:13,,,SUB: O. Robinson FOR Jovic,,,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200224,413,8,0,3,8:36 PM,5:13,,,SUB: Cain FOR Martin,,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200224,416,2,1,3,8:36 PM,5:03,,,MISS Strus 27' 3PT Jump Shot,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,417,4,0,3,8:36 PM,4:58,Porzingis REBOUND (Off:1 Def:13),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,418,2,1,3,8:36 PM,4:53,MISS Beal 26' 3PT Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,419,4,0,3,8:36 PM,4:51,,,Lowry REBOUND (Off:1 Def:7),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,420,2,1,3,8:36 PM,4:45,,,MISS Strus 26' 3PT Jump Shot,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,421,4,0,3,8:36 PM,4:43,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200224,423,8,0,3,8:36 PM,4:43,SUB: Hachimura FOR Kuzma,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200224,425,1,1,3,8:37 PM,4:31,Beal 10' Jump Shot (15 PTS) (Kispert 1 AST),,,82 - 72,-10,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200224,427,1,98,3,8:37 PM,4:13,,,O. Robinson 3' Cutting Layup Shot (10 PTS) (Lowry 12 AST),84 - 72,-12,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200224,429,6,2,3,8:37 PM,4:13,Porzingis S.FOUL (P3.T4) (N.Sago),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200224,431,3,10,3,8:38 PM,4:13,,,O. Robinson Free Throw 1 of 1 (11 PTS),85 - 72,-13,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0022200224,432,2,47,3,8:38 PM,4:02,MISS Beal 15' Turnaround Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,433,4,0,3,8:38 PM,4:02,,,Lowry REBOUND (Off:1 Def:8),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,434,2,6,3,8:38 PM,3:39,Porzingis BLOCK (2 BLK),,MISS Lowry 3' Driving Layup,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1
+0022200224,436,4,0,3,8:38 PM,3:39,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200224,438,2,1,3,8:39 PM,3:36,,,MISS Strus 3PT Jump Shot,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,439,4,0,3,8:39 PM,3:32,Porzingis REBOUND (Off:1 Def:14),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,440,1,1,3,8:39 PM,3:27,Kispert 28' 3PT Jump Shot (11 PTS) (Beal 6 AST),,,85 - 75,-10,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200224,442,9,1,3,8:39 PM,3:26,,,Heat Timeout: Regular (Reg.3 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200224,443,8,0,3,8:41 PM,3:26,SUB: Gibson FOR Porzingis,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,4,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200224,444,8,0,3,8:41 PM,3:26,,,SUB: Martin FOR Strus,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200224,447,5,1,3,8:42 PM,3:09,,,Lowry Bad Pass Turnover (P2.T5),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,449,6,3,3,8:42 PM,3:09,,,Lowry L.B.FOUL (P4.T2) (N.Sago),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200224,451,2,1,3,8:43 PM,2:59,MISS Morris 28' 3PT Jump Shot,,,,,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,452,4,0,3,8:43 PM,2:53,,,Highsmith REBOUND (Off:2 Def:7),,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,453,2,80,3,8:43 PM,2:40,,,MISS Highsmith 21' Step Back Jump Shot,,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,454,4,0,3,8:43 PM,2:36,Morris REBOUND (Off:0 Def:4),,,,,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,455,1,79,3,8:43 PM,2:30,Morris 17' Pullup Jump Shot (4 PTS) (Kispert 2 AST),,,85 - 77,-8,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200224,457,2,79,3,8:43 PM,2:18,,,MISS Lowry 24' 3PT Pullup Jump Shot,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,458,4,0,3,8:43 PM,2:13,Hachimura REBOUND (Off:1 Def:4),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,459,1,74,3,8:43 PM,2:08,Morris 2' Running Reverse Layup (6 PTS) (Hachimura 3 AST),,,85 - 79,-6,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200224,461,2,79,3,8:44 PM,1:51,,,MISS Martin 24' 3PT Pullup Jump Shot,,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,462,4,0,3,8:44 PM,1:48,Gibson REBOUND (Off:0 Def:1),,,,,4,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,463,2,1,3,8:44 PM,1:42,MISS Morris 28' 3PT Jump Shot,,,,,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,464,4,0,3,8:44 PM,1:38,,,Martin REBOUND (Off:1 Def:2),,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,465,1,78,3,8:44 PM,1:31,,,O. Robinson 7' Floating Jump Shot (13 PTS) (Lowry 13 AST),87 - 79,-8,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200224,467,6,2,3,8:45 PM,1:10,,,O. Robinson S.FOUL (P3.T3) (K.Scott),,,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200224,469,3,11,3,8:45 PM,1:10,Beal Free Throw 1 of 2 (16 PTS),,,87 - 80,-7,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,470,8,0,3,8:45 PM,1:10,,,SUB: Jovic FOR Lowry,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200224,471,8,0,3,8:45 PM,1:10,,,SUB: Strus FOR Highsmith,,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200224,474,3,12,3,8:45 PM,1:10,Beal Free Throw 2 of 2 (17 PTS),,,87 - 81,-6,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,475,6,2,3,8:46 PM,0:56,Gibson S.FOUL (P1.PN) (K.Scott),,,,,4,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200224,477,3,11,3,8:46 PM,0:56,,,MISS O. Robinson Free Throw 1 of 2,,,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,478,4,1,3,8:46 PM,0:56,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200224,479,3,12,3,8:46 PM,0:56,,,O. Robinson Free Throw 2 of 2 (14 PTS),88 - 81,-7,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,480,5,45,3,8:47 PM,0:43,Gibson Out of Bounds - Bad Pass Turnover Turnover (P1.T11),,,,,4,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022200224,482,2,6,3,8:47 PM,0:35,,,MISS Martin 3' Driving Layup,,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,484,4,0,3,8:47 PM,0:30,Morris REBOUND (Off:0 Def:5),,,,,4,1628420,Monté Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,485,2,1,3,8:48 PM,0:12,MISS Hachimura 26' 3PT Jump Shot,,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,486,4,0,3,8:48 PM,0:09,,,Cain REBOUND (Off:1 Def:5),,,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,487,13,0,3,8:48 PM,0:00,,End of 3rd Period (8:48 PM EST),,88 - 81,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200224,490,12,0,4,8:51 PM,12:00,,Start of 4th Period (8:51 PM EST),,88 - 81,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200224,491,1,1,4,8:51 PM,11:43,Kispert 29' 3PT Jump Shot (14 PTS) (Kuzma 4 AST),,,88 - 84,-4,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200224,493,5,1,4,8:51 PM,11:27,Gibson STEAL (1 STL),,Martin Bad Pass Turnover (P2.T6),,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,4,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200224,495,2,41,4,8:51 PM,11:22,MISS Kuzma 2' Running Layup,,Martin BLOCK (1 BLK),,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,1
+0022200224,497,4,0,4,8:51 PM,11:17,,,O. Robinson REBOUND (Off:0 Def:4),,,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,498,2,1,4,8:51 PM,11:11,,,MISS Jovic 23' Jump Shot,,,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,499,4,0,4,8:51 PM,11:08,Gibson REBOUND (Off:0 Def:2),,,,,4,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,500,1,6,4,8:51 PM,11:04,Beal 1' Driving Layup (19 PTS),,,88 - 86,-2,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,501,6,2,4,8:52 PM,11:04,,,O. Robinson S.FOUL (P4.T1) (T.Mirkovich),,,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200224,503,8,0,4,8:52 PM,11:04,,,SUB: Lowry FOR Cain,,,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200224,505,3,10,4,8:52 PM,11:04,Beal Free Throw 1 of 1 (20 PTS),,,88 - 87,-1,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,506,5,2,4,8:53 PM,10:42,Beal STEAL (1 STL),,Martin Lost Ball Turnover (P3.T7),,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200224,508,1,1,4,8:53 PM,10:31,Kispert 27' 3PT Jump Shot (17 PTS) (Beal 7 AST),,,88 - 90,2,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200224,510,9,1,4,8:53 PM,10:30,,,Heat Timeout: Regular (Reg.4 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200224,511,1,79,4,8:56 PM,10:11,,,Lowry 29' 3PT Pullup Jump Shot (17 PTS),91 - 90,-1,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,512,2,1,4,8:56 PM,9:55,MISS Kuzma 28' 3PT Jump Shot,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,513,4,0,4,8:56 PM,9:50,Gibson REBOUND (Off:1 Def:2),,,,,4,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,514,2,1,4,8:57 PM,9:48,MISS Beal 27' 3PT Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,515,4,0,4,8:57 PM,9:48,,,O. Robinson REBOUND (Off:0 Def:5),,,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,516,5,2,4,8:57 PM,9:34,Kispert STEAL (2 STL),,Lowry Lost Ball Turnover (P3.T8),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200224,518,6,26,4,8:57 PM,9:14,Beal Offensive Charge Foul (P1) (K.Scott),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200224,520,5,37,4,8:57 PM,9:14,Beal Offensive Foul Turnover (P4.T12),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022200224,521,8,0,4,8:57 PM,9:14,,,SUB: Highsmith FOR O. Robinson,,,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200224,523,2,98,4,8:58 PM,8:57,Gibson BLOCK (1 BLK),,MISS Strus 3' Cutting Layup Shot,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,1
+0022200224,524,4,0,4,8:58 PM,8:55,Hachimura REBOUND (Off:1 Def:5),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,526,6,1,4,8:58 PM,8:42,,,Martin P.FOUL (P1.T2) (K.Scott),,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200224,528,8,0,4,8:59 PM,8:42,SUB: Porzingis FOR Hachimura,,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200224,530,2,79,4,8:59 PM,8:33,MISS Kuzma 28' 3PT Pullup Jump Shot,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,531,4,0,4,8:59 PM,8:26,Gibson REBOUND (Off:2 Def:2),,,,,4,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,532,2,1,4,8:59 PM,8:25,MISS Kispert 30' 3PT Jump Shot,,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,533,4,0,4,8:59 PM,8:25,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200224,573,6,3,4,8:59 PM,8:25,Gibson L.B.FOUL (P2.T1) (K.Scott),,,,,4,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200224,535,2,79,4,9:00 PM,8:05,,,MISS Strus 19' Pullup Jump Shot,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,536,4,0,4,9:00 PM,8:01,Gibson REBOUND (Off:2 Def:3),,,,,4,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,537,5,45,4,9:00 PM,7:50,Beal Out of Bounds - Bad Pass Turnover Turnover (P5.T13),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022200224,539,2,79,4,9:00 PM,7:44,,,MISS Lowry 31' 3PT Pullup Jump Shot,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,540,4,0,4,9:00 PM,7:39,Kispert REBOUND (Off:2 Def:1),,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,541,1,6,4,9:01 PM,7:32,Beal 2' Driving Layup (22 PTS),,,91 - 92,1,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,542,2,1,4,9:01 PM,7:19,,,MISS Highsmith 31' 3PT Jump Shot,,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,543,4,0,4,9:01 PM,7:16,Gibson REBOUND (Off:2 Def:4),,,,,4,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,544,2,79,4,9:01 PM,7:01,MISS Beal 15' Pullup Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,545,4,0,4,9:01 PM,6:57,Gibson REBOUND (Off:3 Def:4),,,,,4,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,557,2,97,4,9:01 PM,6:57,MISS Gibson 3' Tip Layup Shot,,,,,4,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,558,4,0,4,9:01 PM,6:57,,,Lowry REBOUND (Off:1 Def:9),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,546,1,41,4,9:01 PM,6:52,,,Lowry 2' Running Layup (19 PTS),93 - 92,-1,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,547,2,1,4,9:02 PM,6:31,MISS Porzingis 6' Jump Shot,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,548,4,0,4,9:02 PM,6:30,,,Jovic REBOUND (Off:2 Def:4),,,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,549,6,1,4,9:02 PM,6:30,Porzingis P.FOUL (P4.T2) (K.Scott),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200224,551,8,0,4,9:02 PM,6:30,SUB: Hachimura FOR Gibson,,,,,4,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200224,552,8,0,4,9:02 PM,6:30,,,SUB: O. Robinson FOR Jovic,,,5,1631107,Nikola Jović,1610612748.0,Miami,Heat,MIA,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0022200224,555,6,2,4,9:02 PM,6:14,Kispert S.FOUL (P2.T3) (N.Sago),,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200224,559,3,11,4,9:03 PM,6:14,,,Lowry Free Throw 1 of 2 (20 PTS),94 - 92,-2,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,560,3,12,4,9:03 PM,6:14,,,MISS Lowry Free Throw 2 of 2,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,561,4,0,4,9:04 PM,6:11,Hachimura REBOUND (Off:1 Def:6),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,562,2,5,4,9:04 PM,5:55,MISS Kuzma 7' Layup,,Lowry BLOCK (2 BLK),,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,1
+0022200224,564,4,0,4,9:04 PM,5:52,,,Strus REBOUND (Off:0 Def:3),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,565,2,1,4,9:04 PM,5:49,,,MISS Martin 21' Jump Shot,,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,566,4,0,4,9:04 PM,5:49,Hachimura REBOUND (Off:1 Def:7),,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,567,2,79,4,9:04 PM,5:40,MISS Beal 11' Pullup Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,568,4,0,4,9:04 PM,5:36,,,Highsmith REBOUND (Off:2 Def:8),,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,570,2,1,4,9:05 PM,5:20,,,MISS Strus 28' 3PT Jump Shot,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,571,4,0,4,9:05 PM,5:16,Kispert REBOUND (Off:2 Def:2),,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,572,9,1,4,9:05 PM,5:12,WIZARDS Timeout: Regular (Full 4 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200224,576,1,80,4,9:08 PM,4:57,Porzingis 13' Step Back Jump Shot (16 PTS) (Kuzma 5 AST),,,94 - 94,TIE,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200224,578,2,1,4,9:09 PM,4:30,,,MISS Highsmith 26' 3PT Jump Shot,,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,579,4,0,4,9:09 PM,4:30,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200224,580,5,11,4,9:09 PM,4:29,,,Heat Turnover: Shot Clock (T#9),,,3,1610612748,,,,,,0,0,,,,,,1,0,,,,,,0
+0022200224,581,5,45,4,9:09 PM,4:13,Kuzma Out of Bounds - Bad Pass Turnover Turnover (P4.T14),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022200224,582,2,47,4,9:10 PM,3:57,,,MISS Martin 12' Turnaround Jump Shot,,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,583,4,0,4,9:10 PM,3:54,Porzingis REBOUND (Off:1 Def:15),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,584,2,1,4,9:10 PM,3:46,MISS Porzingis 27' 3PT Jump Shot,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,585,4,0,4,9:10 PM,3:42,,,O. Robinson REBOUND (Off:0 Def:6),,,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,586,7,5,4,9:10 PM,3:27,Porzingis Violation:Kicked Ball (T.Mirkovich),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0022200224,587,9,1,4,9:10 PM,3:27,,,Heat Timeout: Regular (Reg.5 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200224,588,2,1,4,9:12 PM,3:18,,,MISS Strus 28' 3PT Jump Shot,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,589,4,0,4,9:12 PM,3:14,,,Highsmith REBOUND (Off:3 Def:8),,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,590,2,1,4,9:12 PM,3:12,,,MISS Lowry 26' 3PT Jump Shot,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,591,4,0,4,9:12 PM,3:08,,,Highsmith REBOUND (Off:4 Def:8),,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,592,1,97,4,9:12 PM,3:08,,,Highsmith Tip Layup Shot (6 PTS),96 - 94,-2,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,593,9,1,4,9:12 PM,3:08,WIZARDS Timeout: Regular (Full 5 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200224,594,2,1,4,9:14 PM,2:48,MISS Porzingis 28' 3PT Jump Shot,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,595,4,0,4,9:14 PM,2:43,,,Highsmith REBOUND (Off:4 Def:9),,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,596,1,98,4,9:15 PM,2:31,,,Highsmith 2' Cutting Layup Shot (8 PTS) (Lowry 14 AST),98 - 94,-4,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200224,598,7,2,4,9:15 PM,2:31,Kuzma Violation:Defensive Goaltending (T.Mirkovich),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022200224,599,2,79,4,9:15 PM,2:20,MISS Hachimura 18' Pullup Jump Shot,,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,600,4,0,4,9:15 PM,2:18,Porzingis REBOUND (Off:2 Def:15),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,601,6,2,4,9:15 PM,2:18,,,Lowry S.FOUL (P5.T3) (K.Scott),,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200224,603,3,11,4,9:16 PM,2:18,Porzingis Free Throw 1 of 2 (17 PTS),,,98 - 95,-3,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,604,8,0,4,9:16 PM,2:18,SUB: Gibson FOR Hachimura,,,,,4,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,4,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0022200224,606,3,12,4,9:16 PM,2:18,Porzingis Free Throw 2 of 2 (18 PTS),,,98 - 96,-2,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,607,6,2,4,9:16 PM,1:58,Gibson S.FOUL (P3.T4) (K.Scott),,,,,4,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200224,609,3,11,4,9:17 PM,1:58,,,MISS Highsmith Free Throw 1 of 2,,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0022200224,610,4,1,4,9:17 PM,1:58,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200224,611,3,12,4,9:17 PM,1:58,,,Highsmith Free Throw 2 of 2 (9 PTS),99 - 96,-3,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,612,1,1,4,9:17 PM,1:49,Beal 27' 3PT Jump Shot (25 PTS) (Kispert 3 AST),,,99 - 99,TIE,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200224,614,1,1,4,9:18 PM,1:35,,,Highsmith 29' 3PT Jump Shot (12 PTS) (Lowry 15 AST),102 - 99,-3,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200224,616,2,1,4,9:18 PM,1:24,MISS Porzingis 3PT Jump Shot,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,617,4,0,4,9:18 PM,1:19,,,Highsmith REBOUND (Off:4 Def:10),,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,618,1,63,4,9:18 PM,1:01,,,Lowry 19' Fadeaway Jumper (22 PTS),104 - 99,-5,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,619,9,1,4,9:19 PM,1:01,WIZARDS Timeout: Regular (Full 6 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200224,620,1,98,4,9:20 PM,0:54,Beal 2' Cutting Layup Shot (27 PTS) (Porzingis 5 AST),,,104 - 101,-3,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200224,622,2,1,4,9:21 PM,0:32,,,MISS O. Robinson 3PT Jump Shot,,,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,623,4,0,4,9:21 PM,0:29,Kuzma REBOUND (Off:0 Def:6),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,624,1,1,4,9:21 PM,0:15,Kuzma 24' 3PT Jump Shot (20 PTS) (Beal 8 AST),,,104 - 104,TIE,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200224,626,2,102,4,9:21 PM,0:00,,,MISS Lowry 7' Driving Floating Bank Jump Shot,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,627,4,0,4,9:22 PM,0:00,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200224,628,13,0,4,9:22 PM,0:00,,End of 4th Period (9:22 PM EST),,104 - 104,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200224,629,12,0,5,9:24 PM,5:00,,Start of 1st OT (9:24 PM EST),,104 - 104,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200224,631,10,0,5,9:24 PM,5:00,Jump Ball Porzingis vs. O. Robinson: Tip to Beal,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1
+0022200224,634,2,1,5,9:25 PM,4:40,MISS Kuzma 25' 3PT Jump Shot,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,635,4,0,5,9:25 PM,4:35,,,Strus REBOUND (Off:0 Def:4),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,636,2,79,5,9:25 PM,4:17,,,MISS Strus 26' 3PT Pullup Jump Shot,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,637,4,0,5,9:25 PM,4:13,Kuzma REBOUND (Off:0 Def:7),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,638,1,7,5,9:25 PM,4:01,Porzingis 2' Dunk (20 PTS) (Gibson 1 AST),,,104 - 106,2,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,4,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0022200224,640,2,1,5,9:26 PM,3:49,,,MISS Highsmith 27' 3PT Jump Shot,,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,641,4,0,5,9:26 PM,3:46,Beal REBOUND (Off:0 Def:1),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,642,6,26,5,9:26 PM,3:42,Beal Offensive Charge Foul (P2) (N.Sago),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200224,644,5,37,5,9:26 PM,3:42,Beal Offensive Foul Turnover (P6.T15),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0022200224,645,2,6,5,9:26 PM,3:24,,,MISS Highsmith 6' Driving Layup,,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,646,4,0,5,9:26 PM,3:20,,,O. Robinson REBOUND (Off:1 Def:6),,,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,665,2,97,5,9:26 PM,3:20,,,MISS O. Robinson 4' Tip Layup Shot,,,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,666,4,0,5,9:26 PM,3:20,Gibson REBOUND (Off:3 Def:5),,,,,4,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,647,2,1,5,9:27 PM,3:11,MISS Kuzma 24' 3PT Jump Shot,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,648,4,0,5,9:27 PM,3:08,,,Martin REBOUND (Off:1 Def:3),,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,649,6,2,5,9:27 PM,3:06,Gibson S.FOUL (P4.T1) (K.Scott),,,,,4,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200224,651,3,11,5,9:27 PM,3:06,,,Lowry Free Throw 1 of 2 (23 PTS),105 - 106,1,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,652,3,12,5,9:27 PM,3:06,,,Lowry Free Throw 2 of 2 (24 PTS),106 - 106,TIE,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,653,6,2,5,9:28 PM,2:48,,,O. Robinson S.FOUL (P5.T1) (K.Scott),,,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0022200224,655,3,11,5,9:28 PM,2:48,Kuzma Free Throw 1 of 2 (21 PTS),,,106 - 107,1,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,656,3,12,5,9:28 PM,2:48,MISS Kuzma Free Throw 2 of 2,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,657,4,0,5,9:29 PM,2:44,,,Martin REBOUND (Off:1 Def:4),,,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,661,18,5,5,9:30 PM,2:28,,Instant Replay1st OT (9:30 PM EST),,106 - 107,1,0,658,,,,,,0,0,,,,,,1,0,,,,,,1
+0022200224,688,2,1,5,9:31 PM,2:28,Gibson BLOCK (2 BLK),,MISS O. Robinson 3PT Jump Shot,,,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,1
+0022200224,690,4,0,5,9:31 PM,2:24,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200224,662,10,1,5,9:33 PM,2:24,Jump Ball (CC) Porzingis vs. O. Robinson: Tip to Kispert,,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0
+0022200224,667,5,2,5,9:33 PM,2:11,Beal Lost Ball Turnover (P7.T16),,Martin STEAL (2 STL),,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,1628997,Caleb Martin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0022200224,669,2,79,5,9:33 PM,1:50,,,MISS Lowry 28' 3PT Pullup Jump Shot,,,5,200768,Kyle Lowry,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,670,4,0,5,9:33 PM,1:47,Kuzma REBOUND (Off:0 Def:8),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,675,2,5,5,9:34 PM,1:32,MISS Beal 4' Layup,,O. Robinson BLOCK (1 BLK),,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,1
+0022200224,677,4,0,5,9:34 PM,1:32,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200224,692,9,7,5,9:34 PM,1:32,,,Heat Timeout: Coach Challenge (Reg.5 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200224,673,18,5,5,9:34 PM,1:32,,Instant Replay1st OT (9:34 PM EST),,106 - 107,1,0,671,Donnie Boyce,,,,,0,0,,,,,,1,0,,,,,,1
+0022200224,674,2,80,5,9:36 PM,1:15,,,MISS Strus 28' 3PT Step Back Jump Shot,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,678,4,0,5,9:36 PM,1:12,Beal REBOUND (Off:0 Def:2),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,679,2,63,5,9:37 PM,0:53,MISS Kuzma 28' 3PT Fadeaway Jumper,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,680,4,0,5,9:37 PM,0:51,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200224,682,6,1,5,9:37 PM,0:36,Porzingis P.FOUL (P5.T2) (K.Scott),,,,,4,204001,Kristaps Porziņģis,1610612764.0,Washington,Wizards,WAS,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0022200224,684,5,40,5,9:38 PM,0:28,,,O. Robinson Out of Bounds Lost Ball Turnover (P1.T10),,,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0022200224,685,2,47,5,9:38 PM,0:05,MISS Gibson 17' Turnaround Jump Shot,,,,,4,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0022200224,686,4,0,5,9:38 PM,0:02,,,Strus REBOUND (Off:0 Def:5),,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,687,9,1,5,9:39 PM,0:02,,,Heat Timeout: Regular (Reg.6 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200224,691,9,1,5,9:41 PM,0:02,,,Heat Timeout: Regular (Reg.7 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0022200224,693,2,1,5,9:42 PM,0:01,,,MISS Strus 29' 3PT Jump Shot,,,5,1629622,Max Strus,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0022200224,694,4,0,5,9:42 PM,0:01,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+0022200224,695,13,0,5,9:42 PM,0:00,,End of 1st OT (9:42 PM EST),,106 - 107,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
