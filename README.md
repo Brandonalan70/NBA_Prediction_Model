@@ -41,7 +41,7 @@ Performance by quarter (Brier score, lower is better):
 NBA_Prediction_Model/
 ├── dashboard/
 │   └── app.py                  # Streamlit web dashboard
-├── src/
+├── src/                        # Source code
 │   ├── data/
 │   │   ├── scrape.py           # Fetch PBP data from the NBA API
 │   │   └── preprocess.py       # Clean and engineer features from raw PBP CSVs
